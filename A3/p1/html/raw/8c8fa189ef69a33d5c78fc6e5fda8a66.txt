@@ -1,0 +1,562 @@
+https://ume.lnk.to/RihannaBoxSet
+<!doctype html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width,minimum-scale=1.0, maximum-scale=1.0" />
+    <link rel="shortcut icon" href="https://30362208fb0010f60042-0290c4f6b2235c127de3238391f2b960.ssl.cf3.rackcdn.com/images/favicon/favicon.ico">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://30362208fb0010f60042-0290c4f6b2235c127de3238391f2b960.ssl.cf3.rackcdn.com/images/favicon/favicon.png">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+    
+    <title>Rihanna Box Set</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="description" content="Preview, download or stream music by Rihanna">
+
+<!-- FB OG tags -->
+
+<meta property="og:title" content="Rihanna Box Set">
+<meta property="og:description" content="Preview, download or stream music by Rihanna">
+
+        <meta property="og:url" content="https://UMe.lnk.to/RihannaBoxSet">
+    
+    <meta property="og:type" content="article">
+        <meta property="og:image" content="http://cdnlinks.linkfire.com/facebook_582b7150e0c24_rihanna-lp_1024x1024_582b71511ad47.png">
+    <meta property="og:image" content="http://cdnlinks.linkfire.com/582b7150e0c24_rihanna-lp_1024x1024_582b71511ad47.png">
+    <!-- additional media -->
+            
+<!-- Twitter summary card meta tags -->
+<meta name="twitter:url" value="http://UMe.lnk.to/RihannaBoxSet">
+<meta name="twitter:title" content="Rihanna Box Set">
+<meta name="twitter:description" content="Preview, download or stream music by Rihanna">
+
+    <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:image" content="http://cdnlinks.linkfire.com/twitter_582b7150e0c24_rihanna-lp_1024x1024_582b71511ad47.png">
+        
+    <style>
+        body {
+            background: #eee;
+            color: #222;
+            font-family: "helvetica neue", "HelveticaNeue", "Helvetica", Arial, sans-serif;
+            -webkit-text-size-adjust: none;
+            text-align: center;
+            min-height: 100vh;
+        }
+
+        .link-to-webplayer {
+            display: block;
+            color: #222;
+            line-height: 1.5;
+            margin-top: 30px;
+            padding: 0 10px;
+            text-align: center;
+            text-decoration: none;
+        }
+
+        .link-to-webplayer span {
+            display: block;
+            margin-bottom: 10px;
+        }
+
+        .link-to-webplayer img {
+          margin-top: 15px;
+        }
+    </style>
+
+    <script>
+                $(window).load(function() {
+            var uri = '';
+            var url = 'https://us.udiscovermusic.com/rihanna-vinyl-box-set.html';
+            redirect(url, uri, false);
+
+                    });
+    </script>
+    </head>
+<body>
+
+
+    
+
+<iframe id="detectURI" src="" style="display:none"></iframe>
+
+  <script type="text/javascript">
+    // Avoid namespace polution
+    var linkfireDeeplink = {
+      clicked: false,
+      iframeTarget: document.getElementById('detectURI'),
+      isDesktop: false,
+      services: document.getElementsByClassName('redirect'),
+      visited: 0
+    };
+
+    // Attach event listeners to all anchors
+    for (var i = 0; i < linkfireDeeplink.services.length; i++) {
+      linkfireDeeplink.services[i].addEventListener('click', redirectHandler, false);
+    }
+
+    function redirectHandler(e) {
+      e.preventDefault();
+      if(linkfireDeeplink.clicked) return false;
+
+      // set user has clicked a service
+      linkfireDeeplink.clicked = true;
+      // Reset after 3sec
+      setTimeout(function() {
+          linkfireDeeplink.clicked = false;
+      },3000);
+      linkfireDeeplink.visited = 0;
+
+      if(e.target.hasAttribute('href')){
+        var link = e.target;
+      }else{
+        var link = this;
+      }
+
+      var uri = link.getAttribute('data-uri');
+      
+            var url = link.getAttribute('href');
+      var player = link.getAttribute('data-player');
+      var appType = link.getAttribute('data-apptype');
+      var serviceType = link.getAttribute('data-serviceType');
+      var eventShowId = link.hasAttribute('data-showid') ? link.getAttribute('data-showid') : null;
+      var eventlabel = 'unknown';
+      if(link.children[1]){
+        eventlabel = link.children[1].textContent;
+      }
+      
+      if(!appType || appType.length == 0){
+          appType = 'manual';
+      }
+      if(!serviceType || serviceType.length == 0){
+          serviceType = 'goto';
+      }
+
+      setCookie('LF_prefPlayer', player, 90);
+      
+		var trackingUrl = "https://st.linkfire.com/Api/Click/app/1480da181a7cc90c6dea096c3f87a83c/152663?shortlink=UMe.lnk.to%2FRihannaBoxSet&url=http%3A%2F%2Fstore.udiscovermusic.com%2F%2A%2FBoxsets%2FRihanna-Studio-Album-Vinyl-Box%2F5D8H04FE000&ip=70.160.30.115&referrer=&userAgent=python-requests%2F2.11.1&linkChannel=0&uid=5a8a0129e0fb57.35059379&browser=python-requests&device=crawler&os=unknown&querystring=&artists=Rihanna&boardId=8614&tags=rihanna%3Bbadgirlriri&orgId=2777&country=US&city=Norfolk&activity=&channelType=Original&channelId=&linkUuid=f68cce7b-fef3-4b24-b8e6-3986ee5fa84c&visitorToken=1480da181a7cc90c6dea096c3f87a83c&linkId=152663&sourcetype=landingpage&boardUuid=e8baf210-0b93-40ec-95d3-73c0f122c40a&latitude=36.853&longitude=-76.2882&ouuid=6f07c863-4c47-11e6-9fd0-066c3e7a8751&puuid=c5af5c00-4013-4675-945f-f41c55b4f415&tlouuid=6ee95251-4c47-11e6-9fd0-066c3e7a8751&organisation=Universal+Music+Enterprises+%28UMe%29&artist=Rihanna&album=&track=&label=&board=UMe+Core+-+UK+Shared&genre=&countryName=United+States&channel=" + player + "&apptype=" + appType + "&eventCategoryType=" + serviceType;
+		if (eventShowId != null) {
+			trackingUrl += "&eventShowId=" + eventShowId;
+		}
+		$('#trackingcontainer').append($('<img>', {
+                    src : trackingUrl,
+                    width : 1,
+                    height : 1,
+                }));
+      if(typeof(trackEvent) == 'function'){
+        trackEvent('service', 'click', player);
+      }
+
+      if (typeof(fireEvent) == 'function') {
+        fireEvent('serviceClick', 'Landing page', 'Service click', player);
+      }
+
+      if(typeof(triggerPixels) == 'function'){
+        triggerPixels(player, eventlabel, eventShowId);
+      }
+      var open = false;
+      if(link.hasAttribute('target')) {
+        open = true;
+      }
+
+      redirect(url, uri, open);
+    }
+
+    function redirect(url, uri, open){
+        // If URI is not set or if isDesktop == true, then open URL in new window
+        if(!uri || uri.length === 0 || linkfireDeeplink.isDesktop) {
+            if(open) {
+                window.open(url, '_blank');
+                return false;
+            }
+        }
+        var userPrompted = false;
+        // Give trigger pixels a chance to load
+
+            // if no URI and coming from tablet or phone OR desktop has no target="_blank", then redirect in same window
+            if(!uri || uri.length === 0) {
+              setTimeout(function() {
+                window.top.location.href = url;
+              }, 300);
+
+              return false;
+            }
+
+                        // Set iframe URI (prompt user with "open application" dialog)
+            linkfireDeeplink.iframeTarget.src = uri;
+            
+            
+            // Check when window is not in focus (prompt is created)
+            window.onblur = function() {
+                userPrompted = true;
+            };
+
+            window.onfocus = function() {
+                linkfireDeeplink.clicked = false;
+                if(linkfireDeeplink.visited === 0) {
+                    window.top.location.href = url;
+                }
+                linkfireDeeplink.visited++;
+            };
+
+            // If window hasn't been out of focus, then no prompt was made, and we sent user to URL
+            setTimeout(function() {
+                if(userPrompted == false) {
+                    window.top.location.href = url;
+                }
+            }, 300);
+                }
+
+    function setCookie(cname,cvalue,exdays) {
+      var d = new Date();
+      d.setTime(d.getTime() + (exdays*24*60*60*1000));
+      var expires = "expires=" + d.toGMTString();
+      document.cookie = cname+"="+cvalue+"; "+expires + "; path=/; domain=" + document.location.hostname + ";";
+    }
+  </script>
+
+
+<script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      var linkfireTrackingEvents = {
+        direct: [],
+        landingVisit: [],
+        assetInteraction: [],
+        serviceClick: [],
+        shareFromAsset: [],
+        timeOnAsset: []
+      };
+
+      /**
+       * The fireEvent function works as a controller, making sure that the various provider events are being fired based on user settings
+       * @param String eventType
+       * @param String category
+       * @param String action
+       * @param String label
+       * @param Integer value
+       * @author Anders Pedersen <ap@linkfire.com>
+       */
+      function fireEvent(eventType, category, action, label, value) {
+        var events = linkfireTrackingEvents[eventType];
+
+        for (var key in events) {
+          if (!events.hasOwnProperty(key)) continue;
+          var trackerInstance = events[key].tracker;
+
+          switch (events[key].provider + '|' + eventType) {
+            case 'google|direct':
+              gaEvent(trackerInstance, category, action, label, value);
+              break;
+            case 'google|landingVisit':
+              gaEvent(trackerInstance, category, action, label, value);
+              break;
+            case 'google|assetInteraction':
+              gaEvent(trackerInstance, category, action, label, value);
+              break;
+            case 'google|serviceClick':
+              gaEvent(trackerInstance, category, action, label, value);
+              if (events[key].trackInteraction) gaEvent(trackerInstance, category, 'Interaction', 'Clicked on '+label, value);
+              break;
+            case 'google|shareFromAsset':
+              gaEvent(trackerInstance, category, action, label, value);
+              if (events[key].trackInteraction) gaEvent(trackerInstance, category, 'Interaction', 'Shared on '+label, value);
+              break;
+            case 'google|timeOnAsset':
+              gaEvent(trackerInstance, category, action, label, value);
+              break;
+            default:
+              break;
+          }
+        }
+      }
+
+      /**
+       * The gaEvent function sends an event to Google Analytics
+       * @param String trackerInstance
+       * @param String category
+       * @param String action
+       * @param String label
+       * @param Integer value
+       * @author Anders Pedersen <ap@linkfire.com>
+       */
+      function gaEvent(trackerInstance, category, action, label, value) {
+        if (!window.ga && !ga.create) {
+          // Do something in case Google Analytics hasn't loaded e.g. fallback storage source
+          return;
+        }
+
+        ga(trackerInstance+'.send', 'event', category, action, label, value);
+      }
+
+
+            ga('create', 'UA-54175133-1', 'auto', {'name': 'tracker0', 'cookieExpires': 63072000, 'clientId': '5a8a0129e0fb57.35059379', 'sampleRate': 10});
+        ga('tracker0.set', 'dimension1', 'ume.lnk.to');
+        ga('tracker0.set', 'dimension2', 1);
+        ga('tracker0.set', 'dimension3', 'rihanna,badgirlriri');
+                ga('tracker0.send', 'pageview');
+                                    linkfireTrackingEvents.direct.push({tracker: 'tracker0', provider: 'google', trackInteraction: Boolean(true)})
+                            linkfireTrackingEvents.landingVisit.push({tracker: 'tracker0', provider: 'google', trackInteraction: Boolean(true)})
+                            linkfireTrackingEvents.assetInteraction.push({tracker: 'tracker0', provider: 'google', trackInteraction: Boolean(true)})
+                            linkfireTrackingEvents.serviceClick.push({tracker: 'tracker0', provider: 'google', trackInteraction: Boolean(true)})
+                            linkfireTrackingEvents.shareFromAsset.push({tracker: 'tracker0', provider: 'google', trackInteraction: Boolean(true)})
+                            linkfireTrackingEvents.timeOnAsset.push({tracker: 'tracker0', provider: 'google', trackInteraction: Boolean(true)})
+            
+/**
+ * @deprecated This is deprecated as of next version
+ */
+//Ga event tracking
+function trackEvent(category, label, param){
+	ga('linkfire.send', 'event', category, label, param);
+
+        //ga('tracker0.send', 'event', category, label, param);
+
+}
+
+//lf player tracking
+var trackedPlay = false;
+function trackPlay(){
+    if(trackedPlay){
+        return;
+    }
+    trackedPlay = true;
+    $('#trackingcontainer').append($('<img>', {
+                    src : "https://st.linkfire.com/Api/Click/app/1480da181a7cc90c6dea096c3f87a83c/152663?shortlink=UMe.lnk.to%2FRihannaBoxSet&url=http%3A%2F%2Fstore.udiscovermusic.com%2F%2A%2FBoxsets%2FRihanna-Studio-Album-Vinyl-Box%2F5D8H04FE000&ip=70.160.30.115&referrer=&userAgent=python-requests%2F2.11.1&linkChannel=0&uid=5a8a0129e0fb57.35059379&browser=python-requests&device=crawler&os=unknown&querystring=&artists=Rihanna&boardId=8614&tags=rihanna%3Bbadgirlriri&orgId=2777&country=US&city=Norfolk&activity=&channelType=Original&channelId=&linkUuid=f68cce7b-fef3-4b24-b8e6-3986ee5fa84c&visitorToken=1480da181a7cc90c6dea096c3f87a83c&linkId=152663&sourcetype=landingpage&boardUuid=e8baf210-0b93-40ec-95d3-73c0f122c40a&latitude=36.853&longitude=-76.2882&ouuid=6f07c863-4c47-11e6-9fd0-066c3e7a8751&puuid=c5af5c00-4013-4675-945f-f41c55b4f415&tlouuid=6ee95251-4c47-11e6-9fd0-066c3e7a8751&organisation=Universal+Music+Enterprises+%28UMe%29&artist=Rihanna&album=&track=&label=&board=UMe+Core+-+UK+Shared&genre=&countryName=United+States&channel=linkfireplayer&apptype=lfplayer",
+                    width : 1,
+                    height : 1,
+                }));    if(typeof(trackEvent) == 'function'){
+        trackEvent('musicplayer', 'play');
+    }
+    if(typeof(fireEvent) == 'function'){
+        fireEvent('assetInteraction', 'Landing page', 'Interaction', 'Started music player');
+    }
+    if(typeof(triggerPixels) == 'function'){
+        triggerPixels('player');
+    }
+}
+
+// Fire an event for landing page visits (fireEvent function will handle if it should actually be sent)
+fireEvent('landingVisit', 'Landing page', 'Visit', 'Visited landing page');
+
+// Fire an event if user has been on page for 5 seconds
+setTimeout(function() {
+  fireEvent('timeOnAsset', 'Landing page', 'Time spent', '5 seconds spent', 5);
+}, 5000);
+</script>    
+<script>
+var tracked = false;
+var session = (document.cookie.includes("track_click_e8f963f8bfff25ce357714bb26bb6659=0") ? 'True' : 'False');
+function handleVisibilityChange(){
+    if(document.visibilityState == "visible" && !tracked){
+        $('#trackingcontainer').append($('<img>', {
+                    src : "https://st.linkfire.com/Api/Click/click/1480da181a7cc90c6dea096c3f87a83c/152663?shortlink=UMe.lnk.to%2FRihannaBoxSet&url=http%3A%2F%2Fstore.udiscovermusic.com%2F%2A%2FBoxsets%2FRihanna-Studio-Album-Vinyl-Box%2F5D8H04FE000&ip=70.160.30.115&referrer=&userAgent=python-requests%2F2.11.1&linkChannel=0&uid=5a8a0129e0fb57.35059379&browser=python-requests&device=crawler&os=unknown&querystring=&artists=Rihanna&boardId=8614&tags=rihanna%3Bbadgirlriri&orgId=2777&country=US&city=Norfolk&activity=&channelType=Original&channelId=&linkUuid=f68cce7b-fef3-4b24-b8e6-3986ee5fa84c&visitorToken=1480da181a7cc90c6dea096c3f87a83c&linkId=152663&sourcetype=landingpage&boardUuid=e8baf210-0b93-40ec-95d3-73c0f122c40a&latitude=36.853&longitude=-76.2882&ouuid=6f07c863-4c47-11e6-9fd0-066c3e7a8751&puuid=c5af5c00-4013-4675-945f-f41c55b4f415&tlouuid=6ee95251-4c47-11e6-9fd0-066c3e7a8751&organisation=Universal+Music+Enterprises+%28UMe%29&artist=Rihanna&album=&track=&label=&board=UMe+Core+-+UK+Shared&genre=&countryName=United+States&sourcetype=landingpage&newSession=" + session + "",
+                    width : 1,
+                    height : 1,
+                }));                    $('#trackingcontainer').append($('<img>', {
+                    src : "https://st.linkfire.com/Api/Click/app/1480da181a7cc90c6dea096c3f87a83c/152663?shortlink=UMe.lnk.to%2FRihannaBoxSet&url=http%3A%2F%2Fstore.udiscovermusic.com%2F%2A%2FBoxsets%2FRihanna-Studio-Album-Vinyl-Box%2F5D8H04FE000&ip=70.160.30.115&referrer=&userAgent=python-requests%2F2.11.1&linkChannel=0&uid=5a8a0129e0fb57.35059379&browser=python-requests&device=crawler&os=unknown&querystring=&artists=Rihanna&boardId=8614&tags=rihanna%3Bbadgirlriri&orgId=2777&country=US&city=Norfolk&activity=&channelType=Original&channelId=&linkUuid=f68cce7b-fef3-4b24-b8e6-3986ee5fa84c&visitorToken=1480da181a7cc90c6dea096c3f87a83c&linkId=152663&sourcetype=landingpage&boardUuid=e8baf210-0b93-40ec-95d3-73c0f122c40a&latitude=36.853&longitude=-76.2882&ouuid=6f07c863-4c47-11e6-9fd0-066c3e7a8751&puuid=c5af5c00-4013-4675-945f-f41c55b4f415&tlouuid=6ee95251-4c47-11e6-9fd0-066c3e7a8751&organisation=Universal+Music+Enterprises+%28UMe%29&artist=Rihanna&album=&track=&label=&board=UMe+Core+-+UK+Shared&genre=&countryName=United+States&channel=udiscover&apptype=single&eventCategoryType=goto",
+                    width : 1,
+                    height : 1,
+                }));                var d = new Date();
+        d.setTime(d.getTime() + 600000);
+        var expires = "expires=" + d.toGMTString();
+        document.cookie = "track_click_e8f963f8bfff25ce357714bb26bb6659=1; "+expires + "; path=/; domain=" + document.location.hostname + ";";
+        tracked = true;
+    }
+}
+
+if (typeof document.addEventListener === "undefined" || typeof document.visibilityState === "undefined") {
+  document.visibilityState = 'visible';
+} else {
+  document.addEventListener("visibilitychange", handleVisibilityChange, false);
+}
+handleVisibilityChange();
+
+</script>
+<noscript>
+<img src="https://st.linkfire.com/Api/Click/click/1480da181a7cc90c6dea096c3f87a83c/152663?shortlink=UMe.lnk.to%2FRihannaBoxSet&url=http%3A%2F%2Fstore.udiscovermusic.com%2F%2A%2FBoxsets%2FRihanna-Studio-Album-Vinyl-Box%2F5D8H04FE000&ip=70.160.30.115&referrer=&userAgent=python-requests%2F2.11.1&linkChannel=0&uid=5a8a0129e0fb57.35059379&browser=python-requests&device=crawler&os=unknown&querystring=&artists=Rihanna&boardId=8614&tags=rihanna%3Bbadgirlriri&orgId=2777&country=US&city=Norfolk&activity=&channelType=Original&channelId=&linkUuid=f68cce7b-fef3-4b24-b8e6-3986ee5fa84c&visitorToken=1480da181a7cc90c6dea096c3f87a83c&linkId=152663&sourcetype=landingpage&boardUuid=e8baf210-0b93-40ec-95d3-73c0f122c40a&latitude=36.853&longitude=-76.2882&ouuid=6f07c863-4c47-11e6-9fd0-066c3e7a8751&puuid=c5af5c00-4013-4675-945f-f41c55b4f415&tlouuid=6ee95251-4c47-11e6-9fd0-066c3e7a8751&organisation=Universal+Music+Enterprises+%28UMe%29&artist=Rihanna&album=&track=&label=&board=UMe+Core+-+UK+Shared&genre=&countryName=United+States&sourcetype=landingpage&newSession=True"/>    <img src="https://st.linkfire.com/Api/Click/app/1480da181a7cc90c6dea096c3f87a83c/152663?shortlink=UMe.lnk.to%2FRihannaBoxSet&url=http%3A%2F%2Fstore.udiscovermusic.com%2F%2A%2FBoxsets%2FRihanna-Studio-Album-Vinyl-Box%2F5D8H04FE000&ip=70.160.30.115&referrer=&userAgent=python-requests%2F2.11.1&linkChannel=0&uid=5a8a0129e0fb57.35059379&browser=python-requests&device=crawler&os=unknown&querystring=&artists=Rihanna&boardId=8614&tags=rihanna%3Bbadgirlriri&orgId=2777&country=US&city=Norfolk&activity=&channelType=Original&channelId=&linkUuid=f68cce7b-fef3-4b24-b8e6-3986ee5fa84c&visitorToken=1480da181a7cc90c6dea096c3f87a83c&linkId=152663&sourcetype=landingpage&boardUuid=e8baf210-0b93-40ec-95d3-73c0f122c40a&latitude=36.853&longitude=-76.2882&ouuid=6f07c863-4c47-11e6-9fd0-066c3e7a8751&puuid=c5af5c00-4013-4675-945f-f41c55b4f415&tlouuid=6ee95251-4c47-11e6-9fd0-066c3e7a8751&organisation=Universal+Music+Enterprises+%28UMe%29&artist=Rihanna&album=&track=&label=&board=UMe+Core+-+UK+Shared&genre=&countryName=United+States&channel=udiscover&apptype=single&eventCategoryType=goto"/></noscript>
+<div id="trackingcontainer" style="display:none;">
+</div>
+<script>
+	function triggerPixels(player, eventlabel, eventshowid){
+		// Send to facebook
+        if(window._fbdata){
+            if(player == 'player'){
+                window._fbdata.action = 'player';
+                fbq('trackCustom', 'LF', window._fbdata);
+            }else{
+                window._fbdata.action = 'service';
+                window._fbdata.musicservice = player;
+                window._fbdata.eventlabel = eventlabel;
+                if (eventshowid != null) {
+                    window._fbdata.eventshowid = eventshowid;
+                }
+                fbq('trackCustom', 'LF', window._fbdata);
+            }
+        }
+        // Send to google adwords
+        if (typeof(TriggerGooglePixel) == 'function') {
+            if(window.google_custom_params){
+                if(player == 'player'){
+                    window.google_custom_params.action = 'player';
+                }else{
+                    window.google_custom_params.musicservice = player;
+                    window.google_custom_params.action = 'service';
+                    if (eventshowid != null) {
+                        window.google_custom_params.eventshowid = eventshowid;
+                    }
+                }
+            }
+            TriggerGooglePixel();
+        }
+        // Send to google adwords glboal tag
+        if (typeof(triggerGlobalTags) == 'function') {
+            if(window.googleTagData){
+                if(player == 'player'){
+                    window.googleTagData.action = 'player';
+                }else{
+                    window.googleTagData.musicservice = player;
+                    window.googleTagData.action = 'service';
+                    if (eventshowid != null) {
+                        window.googleTagData.eventshowid = eventshowid;
+                    }
+                }
+            }
+            triggerGlobalTags('conversion');
+        }
+        // Send to adform
+        if (typeof(TriggerAfPixel) == 'function') {
+            window.afParams = window.afParams + '|' + player;
+            TriggerAfPixel();
+        }
+
+        //Twitter Universaltag
+        if (typeof(triggerTwitterUniversal) == 'function') {
+            if(player == 'player'){
+                triggerTwitterUniversal('player');
+            }else{
+                triggerTwitterUniversal('service');
+            }
+        }
+
+        //Send rocketFuel
+        if(typeof(triggerRocketFuel) == 'function'){
+            triggerRocketFuel(player);
+        }
+
+        //Send DoubleClick
+        if(typeof(trackDc) == 'function'){
+            trackDc(player);
+        }
+        
+        //Send Adelphi
+        if(typeof(triggerAdelphi) == 'function'){
+            if(window.adelphi_properties){
+                if(player != 'player'){
+                    window.adelphi_properties.musicservice = player;
+                    triggerAdelphi('service');
+                }else{
+                    triggerAdelphi('player');
+                }
+            }
+            
+        }
+
+        // Send to adello
+        if (typeof(triggerAdelloIds) == 'function') {
+            //Set the correct metadata and specifiy the event id, 0: Pageview, 1: Service, 2: Player
+            if(player == 'player'){
+                adelloData.action = 'player';
+                triggerAdelloIds(adelloIds, 2);
+            }else{
+                adelloData.action = 'service';
+                adelloData.service = player;
+                triggerAdelloIds(adelloIds, 1);
+            }
+        }
+
+                                var twServiceIds = ['numuc'];
+            if(player != 'player'){
+                triggerTwitterIds(twServiceIds);
+            }
+                                    var twPlayerIds = ['numub'];
+            if(player == 'player'){
+                triggerTwitterIds(twPlayerIds);
+            }
+                    
+				                	}
+</script>
+
+
+    <script>
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+    n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+    document,'script','//connect.facebook.net/en_US/fbevents.js');
+            fbq('init', '399736106876066', {external_id: '1480da181a7cc90c6dea096c3f87a83c'});
+                fbq('init', '529815473883968');
+                fbq('init', '292653724221981');
+        window._fbdata = {"artists":["Rihanna"],"artist":"Rihanna","tags":["rihanna","badgirlriri"],"organisation":"Universal Music Enterprises (UMe)","board":"UMe Core - UK Shared","url":"UMe.lnk.to\/RihannaBoxSet","action":"pageview","countryCode":"US","country":"United States","city":"Norfolk","activity":null,"oid":"2777","tlo":"55","bid":8614,"linkId":152663,"furl":"UMe.lnk.to\/RihannaBoxSet","domain":"UMe.lnk.to","subdomain":"UMe","luuid":"f68cce7b-fef3-4b24-b8e6-3986ee5fa84c","ouuid":"6f07c863-4c47-11e6-9fd0-066c3e7a8751","puuid":"c5af5c00-4013-4675-945f-f41c55b4f415","tlouuid":"6ee95251-4c47-11e6-9fd0-066c3e7a8751","buuid":"e8baf210-0b93-40ec-95d3-73c0f122c40a","sid":"1480da181a7cc90c6dea096c3f87a83c","uid":"5a8a0129e0fb57.35059379","timestamp":"18:02:2018"};
+            window._fbdata.action = 'service';
+        window._fbdata.musicservice = 'udiscover';
+                window._fbdata.eventlabel = 'single';
+        fbq('trackCustom', 'LF', window._fbdata);
+    </script>
+    <noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=399736106876066&ev=LF&cd[artists]=Rihanna&cd[artist]=Rihanna&cd[tags]=rihanna%2Cbadgirlriri&cd[organisation]=Universal+Music+Enterprises+%28UMe%29&cd[board]=UMe+Core+-+UK+Shared&cd[url]=UMe.lnk.to%2FRihannaBoxSet&cd[action]=pageview&cd[oid]=2777&cd[tlo]=55&cd[bid]=8614&cd[linkId]=152663&cd[furl]=UMe.lnk.to%2FRihannaBoxSet&cd[domain]=UMe.lnk.to&cd[subdomain]=UMe&cd[luuid]=f68cce7b-fef3-4b24-b8e6-3986ee5fa84c&cd[ouuid]=6f07c863-4c47-11e6-9fd0-066c3e7a8751&cd[puuid]=c5af5c00-4013-4675-945f-f41c55b4f415&cd[tlouuid]=6ee95251-4c47-11e6-9fd0-066c3e7a8751&cd[buuid]=e8baf210-0b93-40ec-95d3-73c0f122c40a&cd[sid]=1480da181a7cc90c6dea096c3f87a83c&cd[uid]=5a8a0129e0fb57.35059379&cd[activity]=&cd[timestamp]=18%3A02%3A2018" /></noscript>
+    <noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=529815473883968&ev=LF&cd[artists]=Rihanna&cd[artist]=Rihanna&cd[tags]=rihanna%2Cbadgirlriri&cd[organisation]=Universal+Music+Enterprises+%28UMe%29&cd[board]=UMe+Core+-+UK+Shared&cd[url]=UMe.lnk.to%2FRihannaBoxSet&cd[action]=pageview&cd[oid]=2777&cd[tlo]=55&cd[bid]=8614&cd[linkId]=152663&cd[furl]=UMe.lnk.to%2FRihannaBoxSet&cd[domain]=UMe.lnk.to&cd[subdomain]=UMe&cd[luuid]=f68cce7b-fef3-4b24-b8e6-3986ee5fa84c&cd[ouuid]=6f07c863-4c47-11e6-9fd0-066c3e7a8751&cd[puuid]=c5af5c00-4013-4675-945f-f41c55b4f415&cd[tlouuid]=6ee95251-4c47-11e6-9fd0-066c3e7a8751&cd[buuid]=e8baf210-0b93-40ec-95d3-73c0f122c40a&cd[sid]=1480da181a7cc90c6dea096c3f87a83c&cd[uid]=5a8a0129e0fb57.35059379&cd[activity]=&cd[timestamp]=18%3A02%3A2018" /></noscript>
+    <noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=292653724221981&ev=LF&cd[artists]=Rihanna&cd[artist]=Rihanna&cd[tags]=rihanna%2Cbadgirlriri&cd[organisation]=Universal+Music+Enterprises+%28UMe%29&cd[board]=UMe+Core+-+UK+Shared&cd[url]=UMe.lnk.to%2FRihannaBoxSet&cd[action]=pageview&cd[oid]=2777&cd[tlo]=55&cd[bid]=8614&cd[linkId]=152663&cd[furl]=UMe.lnk.to%2FRihannaBoxSet&cd[domain]=UMe.lnk.to&cd[subdomain]=UMe&cd[luuid]=f68cce7b-fef3-4b24-b8e6-3986ee5fa84c&cd[ouuid]=6f07c863-4c47-11e6-9fd0-066c3e7a8751&cd[puuid]=c5af5c00-4013-4675-945f-f41c55b4f415&cd[tlouuid]=6ee95251-4c47-11e6-9fd0-066c3e7a8751&cd[buuid]=e8baf210-0b93-40ec-95d3-73c0f122c40a&cd[sid]=1480da181a7cc90c6dea096c3f87a83c&cd[uid]=5a8a0129e0fb57.35059379&cd[activity]=&cd[timestamp]=18%3A02%3A2018" /></noscript>
+
+
+    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion_async.js"></script>
+    <script>
+    var google_custom_params = {"artists":["Rihanna"],"artist":"Rihanna","tags":["rihanna","badgirlriri"],"organisation":"Universal Music Enterprises (UMe)","board":"UMe Core - UK Shared","url":"UMe.lnk.to\/RihannaBoxSet","action":"pageview","countryCode":"US","country":"United States","city":"Norfolk","activity":null};
+    var conv_handler = window['google_trackConversion'];
+    var gaData = [{"id":950249395,"label":null}];
+    function TriggerGooglePixel(){
+        for(var i = 0; i < gaData.length; i++){
+            window.google_conversion_id = gaData[i].id;
+            window.google_conversion_label = gaData[i].label;
+            window.google_remarketing_only = true;
+            if (typeof(conv_handler) == 'function') {
+                conv_handler();
+            }
+        }
+    }
+    TriggerGooglePixel();
+
+</script>
+    <noscript><img height="1" width="1" alt="" style="display:none" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/950249395/?value=0&amp;guid=ON&amp;script=0&amp;data=artists%3DRihanna;artist%3DRihanna;tags%3Drihanna%2Cbadgirlriri;organisation%3DUniversal+Music+Enterprises+%28UMe%29board%3DUMe+Core+-+UK+Sharedurl%3DUMe.lnk.to%2FRihannaBoxSet" /></noscript>
+
+
+
+
+    <script src="//platform.twitter.com/oct.js" type="text/javascript"></script>
+    <script>
+    function triggerTwitterIds(ids){
+			if(window.twttr) {
+        for(var i = 0; i < ids.length; i++){
+            twttr.conversion.trackPid(ids[i], { tw_sale_amount: 0, tw_order_quantity: 0 });
+        }
+			}
+    }
+    var ids = ['numgi'];
+    triggerTwitterIds(ids);
+    </script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
