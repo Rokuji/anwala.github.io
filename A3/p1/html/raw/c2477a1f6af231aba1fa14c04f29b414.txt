@@ -1,0 +1,928 @@
+http://stream.aljazeera.com/story/201611171801-0025322
+<!DOCTYPE html>
+<html xml:lang="en" dir="ltr"
+  xmlns:og="http://ogp.me/ns#">
+  <head profile="http://www.w3.org/1999/xhtml/vocab">
+  <!-- Always force latest IE rendering engine (even in intranet)--> 
+	<meta http-equiv="x-ua-compatible" content="ie=Edge"> 
+	<!-- or enable chrome Frame if available in IE --> 
+	<meta http-equiv="X-UA-Compatible" content="chrome=1" /> 
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="twitter:title" content="Duterte, Trump and Philippine-US relations" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="http://stream.aljazeera.com/story/201611171801-0025322" />
+<meta name="twitter:url" content="http://ajmn.tv/bhrrp" />
+<meta property="og:url" content="http://ajmn.tv/bhrrp" />
+<meta name="dcterms.identifier" content="http://stream.aljazeera.com/story/201611171801-0025322" />
+<meta name="dcterms.language" content="und" />
+<meta name="dcterms.type" content="Text" />
+<meta name="dcterms.format" content="text/html" />
+<meta name="twitter:app:id:ipad" content="685746478" />
+<meta name="twitter:app:id:googleplay" content="com.hypertvx.aljazeera" />
+<link rel="shortcut icon" href="http://stream.aljazeera.com/sites/all/themes/thestream2/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="twitter:app:id:iphone" content="685746478" />
+<meta name="twitter:creator" content="@AJStream" />
+<meta property="og:site_name" content="The Stream - Al Jazeera English" />
+<meta property="og:type" content="article" />
+<meta name="twitter:card" content="summary" />
+<meta name="dcterms.date" content="2016-11-17T02:10+03:00" />
+<meta name="dcterms.title" content="Duterte, Trump and Philippine-US relations" />
+<meta name="abstract" content="A look at the populist leaders and their potential impact on ties between Manila and Washington." />
+<meta name="dcterms.subject" content="Duterte, Trump and Philippine-US relations" />
+<meta name="dcterms.description" content="A look at the populist leaders and their potential impact on ties between Manila and Washington." />
+<meta name="description" content="A look at the populist leaders and their potential impact on ties between Manila and Washington." />
+<meta name="robots" content="follow, index" />
+<script>var _sf_startpt=(new Date()).getTime();</script>
+<meta property="fb:app_id" content="473772862641711" />
+<link href="http://plus.google.com/108038985259359575981" rel="author" />
+<meta property="fb:app_id" content="473772862641711" />
+<meta property="og:title" content="Duterte, Trump and Philippine-US relations" />
+<meta name="twitter:image" content="http://stream.aljazeera.com/sites/default/files/styles/mid_thumbnail/public/1479337442-AJE%20Stream%2011-16-16_Stub.png?itok=w4rVngjb" />
+<link rel="shortlink" href="http://ajmn.tv/bhrrp" />
+<link rel="author" href="http://plus.google.com/" />
+<meta name="twitter:description" content="A look at the populist leaders and their potential impact on ties between Manila and Washington." />
+<meta name='parsely-page' content='{"title":"Duterte, Trump and Philippine-US relations","link":"http:\/\/stream.aljazeera.com\/story\/201611171801-0025322","image_url":"http:\/\/stream.aljazeera.com\/sites\/default\/files\/styles\/big_thumbnail\/public\/1479337442-AJE%20Stream%2011-16-16_Stub.png?itok=gMaP6N0U","type":"post","post_id":"25322","pub_date":"2016-11-17+0318:01:00+03:00","section":"Stories","author":"","tags":""}' /><meta property="og:description" content="A look at the populist leaders and their potential impact on ties between Manila and Washington." />
+<meta property="og:image" content="http://stream.aljazeera.com/sites/default/files/styles/fb_og_image/public/1479337442-AJE%20Stream%2011-16-16_Stub.png?itok=ACeOBdGb" />
+<meta name="dcterms.creator" content="omar" />
+    <title>Duterte, Trump and Philippine-US relations</title>
+    <meta chartset="UTF-8">
+    <meta http-equiv="cleartype" content="on">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <link type="text/css" rel="stylesheet" href="http://stream.aljazeera.com/sites/default/files/css/css_ogjvJnfni1_P_WxvXAHlUOgCs860b3ip9DNMapcIGeM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://stream.aljazeera.com/sites/default/files/css/css_QzIJn2PRlUZlbkuaKUAGz1W4z1vbxAhzUXr01REarok.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://stream.aljazeera.com/sites/default/files/css/css_3nftP0dskkf6DLtahAn919FGIwnaJGeSe23_arbr9Zg.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://stream.aljazeera.com/sites/default/files/css/css_jAqzghF4h2JTIq_TfNnohKCBmV0e_WEMMvAslL1FibU.css" media="all" />
+    <script src="http://stream.aljazeera.com/profiles/varbase/modules/contrib/jquery_update/replace/jquery/1.8/jquery.min.js?v=1.8.2"></script>
+<script src="http://stream.aljazeera.com/misc/jquery.once.js?v=1.2"></script>
+<script src="http://stream.aljazeera.com/misc/drupal.js?p3exr1"></script>
+<script src="http://stream.aljazeera.com/profiles/varbase/modules/contrib/jquery_update/replace/ui/external/jquery.cookie.js?v=67fb34f6a866c40d0570"></script>
+<script src="http://stream.aljazeera.com/profiles/varbase/modules/contrib/jquery_update/replace/misc/jquery.form.min.js?v=2.69"></script>
+<script src="http://stream.aljazeera.com/misc/ajax.js?v=7.32"></script>
+<script src="http://stream.aljazeera.com/profiles/varbase/modules/contrib/jquery_update/js/jquery_update.js?v=0.0.1"></script>
+<script src="http://stream.aljazeera.com/sites/all/modules/contrib/extlink/extlink.js?p3exr1"></script>
+<script src="http://stream.aljazeera.com/sites/all/themes/bootstrap/js/misc/_progress.js?p3exr1"></script>
+<script src="http://stream.aljazeera.com/sites/all/modules/custom/ajstream_block/js/ajstream_block.js?p3exr1"></script>
+<script src="http://admin.brightcove.com/js/BrightcoveExperiences.js"></script>
+<script src="http://stream.aljazeera.com/sites/all/libraries/colorbox/jquery.colorbox-min.js?p3exr1"></script>
+<script src="http://stream.aljazeera.com/sites/all/modules/contrib/colorbox/js/colorbox.js?p3exr1"></script>
+<script src="http://stream.aljazeera.com/sites/all/modules/contrib/colorbox/styles/default/colorbox_style.js?p3exr1"></script>
+<script src="http://stream.aljazeera.com/profiles/varbase/modules/contrib/panels/js/panels.js?p3exr1"></script>
+<script src="http://stream.aljazeera.com/sites/all/modules/contrib/linkit/editors/ckeditor/linkitDialog.js?v=7.3"></script>
+<script src="http://stream.aljazeera.com/profiles/varbase/modules/contrib/views/js/base.js?p3exr1"></script>
+<script src="http://stream.aljazeera.com/sites/all/libraries/flexslider/jquery.flexslider-min.js?p3exr1"></script>
+<script src="http://stream.aljazeera.com/profiles/varbase/modules/contrib/views/js/ajax_view.js?p3exr1"></script>
+<script src="http://stream.aljazeera.com/sites/all/modules/contrib/google_analytics/googleanalytics.js?p3exr1"></script>
+<script>var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-1615344-7"]);_gaq.push(["_setDomainName", "none"]);_gaq.push(["_setAllowLinker", true]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();</script>
+<script src="http://stream.aljazeera.com/sites/all/modules/custom/modal_window/js/modal-window.js?p3exr1"></script>
+<script src="http://stream.aljazeera.com/sites/all/modules/custom/ajservices/js/script.js?p3exr1"></script>
+<script src="http://stream.aljazeera.com/sites/all/modules/custom/ajservices/js/ajservices.js?p3exr1"></script>
+<script src="http://stream.aljazeera.com/sites/all/modules/custom/fbcm_slideout/js/fbcm-slideout.js?p3exr1"></script>
+<script src="http://stream.aljazeera.com/sites/all/modules/contrib/quicktabs/js/quicktabs.js?p3exr1"></script>
+<script src="http://stream.aljazeera.com/sites/all/themes/thestream2/js/jquery.js?p3exr1"></script>
+<script src="http://stream.aljazeera.com/sites/all/themes/thestream2/assets/bootstrap/js/bootstrap.min.js?p3exr1"></script>
+<script src="http://stream.aljazeera.com/sites/all/themes/thestream2/assets/bootstrap-select/bootstrap-select.min.js?p3exr1"></script>
+<script src="http://stream.aljazeera.com/sites/all/themes/thestream2/assets/jquery-sticky/jquery.sticky.js?p3exr1"></script>
+<script src="http://stream.aljazeera.com/sites/all/themes/thestream2/assets/jquery-scrollto/jquery.scrollTo.min.js?p3exr1"></script>
+<script src="http://stream.aljazeera.com/sites/all/themes/thestream2/assets/jquery-resize/jquery.ba-resize.min.js?p3exr1"></script>
+<script src="http://stream.aljazeera.com/sites/all/themes/thestream2/assets/bootstrap-dialog/js/bootstrap-dialog.min.js?p3exr1"></script>
+<script src="http://stream.aljazeera.com/sites/all/themes/thestream2/changes/Assets/scripts/SiteScripts.js?p3exr1"></script>
+<script src="http://stream.aljazeera.com/sites/all/themes/thestream2/js/autodetected.js?p3exr1"></script>
+<script src="http://stream.aljazeera.com/sites/all/themes/thestream2/js/related-content.js?p3exr1"></script>
+<script src="http://stream.aljazeera.com/sites/all/themes/thestream2/js/stories-fb-comment-count-refresh.js?p3exr1"></script>
+<script src="http://stream.aljazeera.com/sites/all/themes/thestream2/js/fix-ifream-players.js?p3exr1"></script>
+<script src="http://stream.aljazeera.com/sites/all/themes/thestream2/js/jquery-sms.js?p3exr1"></script>
+<script src="http://stream.aljazeera.com/sites/all/themes/thestream2/js/CustomHeaderFooter.js?p3exr1"></script>
+<script src="http://stream.aljazeera.com/sites/all/themes/thestream2/js/custom-article-script.js?p3exr1"></script>
+<script src="http://stream.aljazeera.com/sites/all/themes/bootstrap/js/modules/views/js/ajax_view.js?p3exr1"></script>
+<script src="http://stream.aljazeera.com/sites/all/themes/bootstrap/js/misc/ajax.js?p3exr1"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"thestream2","theme_token":"sCvhGTeqGspW4K94It8ZwTc-NED9fnkLjOYTCMq8hNY","jquery_version":"1.8","js":{"sites\/all\/modules\/contrib\/flexslider\/assets\/js\/flexslider.load.js":1,"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"profiles\/varbase\/modules\/contrib\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/varbase\/modules\/contrib\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"profiles\/varbase\/modules\/contrib\/jquery_update\/replace\/misc\/jquery.form.min.js":1,"misc\/ajax.js":1,"profiles\/varbase\/modules\/contrib\/jquery_update\/js\/jquery_update.js":1,"sites\/all\/modules\/contrib\/extlink\/extlink.js":1,"sites\/all\/themes\/bootstrap\/js\/misc\/_progress.js":1,"sites\/all\/modules\/custom\/ajstream_block\/js\/ajstream_block.js":1,"http:\/\/admin.brightcove.com\/js\/BrightcoveExperiences.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/varbase\/modules\/contrib\/panels\/js\/panels.js":1,"sites\/all\/modules\/contrib\/linkit\/editors\/ckeditor\/linkitDialog.js":1,"profiles\/varbase\/modules\/contrib\/views\/js\/base.js":1,"sites\/all\/libraries\/flexslider\/jquery.flexslider-min.js":1,"profiles\/varbase\/modules\/contrib\/views\/js\/ajax_view.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/modules\/custom\/modal_window\/js\/modal-window.js":1,"sites\/all\/modules\/custom\/ajservices\/js\/script.js":1,"sites\/all\/modules\/custom\/ajservices\/js\/ajservices.js":1,"sites\/all\/modules\/custom\/fbcm_slideout\/js\/fbcm-slideout.js":1,"sites\/all\/modules\/contrib\/quicktabs\/js\/quicktabs.js":1,"sites\/all\/themes\/thestream2\/js\/jquery.js":1,"sites\/all\/themes\/thestream2\/assets\/bootstrap\/js\/bootstrap.min.js":1,"sites\/all\/themes\/thestream2\/assets\/bootstrap-select\/bootstrap-select.min.js":1,"sites\/all\/themes\/thestream2\/assets\/jquery-sticky\/jquery.sticky.js":1,"sites\/all\/themes\/thestream2\/assets\/jquery-scrollto\/jquery.scrollTo.min.js":1,"sites\/all\/themes\/thestream2\/assets\/jquery-resize\/jquery.ba-resize.min.js":1,"sites\/all\/themes\/thestream2\/assets\/bootstrap-dialog\/js\/bootstrap-dialog.min.js":1,"sites\/all\/themes\/thestream2\/changes\/Assets\/scripts\/SiteScripts.js":1,"sites\/all\/themes\/thestream2\/js\/autodetected.js":1,"sites\/all\/themes\/thestream2\/js\/related-content.js":1,"sites\/all\/themes\/thestream2\/js\/stories-fb-comment-count-refresh.js":1,"sites\/all\/themes\/thestream2\/js\/fix-ifream-players.js":1,"sites\/all\/themes\/thestream2\/js\/jquery-sms.js":1,"sites\/all\/themes\/thestream2\/js\/CustomHeaderFooter.js":1,"sites\/all\/themes\/thestream2\/js\/custom-article-script.js":1,"sites\/all\/themes\/bootstrap\/js\/modules\/views\/js\/ajax_view.js":1,"sites\/all\/themes\/bootstrap\/js\/misc\/ajax.js":1},"css":{"modules\/system\/system.base.css":1,"profiles\/varbase\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/varbase\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/extlink\/extlink.css":1,"profiles\/varbase\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/chartbeat\/chartbeat.css":1,"profiles\/varbase\/modules\/contrib\/ckeditor\/ckeditor.css":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/varbase\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/genpass\/genpass.css":1,"profiles\/varbase\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/varbase\/modules\/contrib\/panels\/plugins\/layouts\/onecol\/onecol.css":1,"sites\/all\/modules\/contrib\/flexslider\/assets\/css\/flexslider_img.css":1,"sites\/all\/libraries\/flexslider\/flexslider.css":1,"sites\/all\/modules\/custom\/modal_window\/css\/modal-window.css":1,"sites\/all\/modules\/custom\/fbcm_slideout\/css\/fbcm-slideout.css":1,"sites\/all\/modules\/contrib\/quicktabs\/css\/quicktabs.css":1,"sites\/all\/modules\/contrib\/quicktabs\/quicktabs_tabstyles\/tabstyles\/basic\/basic.css":1,"modules\/user\/user.css":1,"sites\/all\/themes\/thestream2\/assets\/bootstrap\/css\/bootstrap.min.css":1,"\/css\/overrides.css":1,"sites\/all\/themes\/thestream2\/assets\/font-awesome\/css\/font-awesome.min.css":1,"sites\/all\/themes\/thestream2\/assets\/bootstrap-select\/bootstrap-select.min.css":1,"sites\/all\/themes\/thestream2\/assets\/bootstrap-dialog\/css\/bootstrap-dialog.min.css":1,"sites\/all\/themes\/thestream2\/assets\/bootstrap-no-spacing\/bootstrap-no-spacing.css":1,"sites\/all\/themes\/thestream2\/assets\/bootstrap-pull\/bootstrap-pull.css":1,"sites\/all\/themes\/thestream2\/assets\/bootstrap-space\/bootstrap-space.css":1,"sites\/all\/themes\/thestream2\/smartbanner\/jquery.smartbanner.css":1,"sites\/all\/themes\/thestream2\/css\/style.css":1,"sites\/all\/themes\/thestream2\/css\/style-xs.css":1,"sites\/all\/themes\/thestream2\/css\/style-sm.css":1,"sites\/all\/themes\/thestream2\/css\/style-md.css":1,"sites\/all\/themes\/thestream2\/css\/style-lg.css":1,"sites\/all\/themes\/thestream2\/css\/style-xxs.css":1,"sites\/all\/themes\/thestream2\/css\/webfonts.css":1,"sites\/all\/themes\/thestream2\/css\/header\/grid-set-style.css":1,"sites\/all\/themes\/thestream2\/css\/header\/markbolton-style.css":1,"sites\/all\/themes\/thestream2\/css\/header\/custom-article-page.css":1,"sites\/all\/themes\/thestream2\/css\/header\/aje-custom-styles.css":1,"sites\/all\/themes\/thestream2\/css\/header\/custom-master-head.css":1,"sites\/all\/themes\/thestream2\/css\/header\/CustomHeaderAndFooter.css":1}},"Ajlivehr":"19","Ajlivemt":"30","Ajgoogle_api_key":"AIzaSyDQiGbUZN8XKZ4Rb-HEH4nokhywVYnurLs","chartbeat":{"uid":3291,"domain":"stream.aljazeera.com","useCanonical":true,"noCookies":false},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true},"flexslider":{"optionsets":{"default":{"namespace":"flex-","selector":".slides \u003E li","easing":"swing","direction":"horizontal","reverse":false,"smoothHeight":false,"startAt":0,"animationSpeed":1000,"initDelay":0,"useCSS":true,"touch":true,"video":false,"keyboard":true,"multipleKeyboard":false,"mousewheel":0,"controlsContainer":".flex-control-nav-container","sync":"","asNavFor":"","itemWidth":0,"itemMargin":0,"minItems":0,"maxItems":0,"move":0,"animation":"slide","slideshow":true,"slideshowSpeed":"7000","directionNav":true,"controlNav":false,"prevText":"","nextText":"","pausePlay":false,"pauseText":"Pause","playText":"Play","randomize":false,"thumbCaptions":false,"thumbCaptionsBoth":false,"animationLoop":true,"pauseOnAction":true,"pauseOnHover":false,"manualControls":""}},"instances":{"flexslider-1":"default"}},"extlink":{"extTarget":"_blank","extClass":"0","extLabel":"","extImgClass":0,"extSubdomains":1,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":0,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":"mailto","mailtoLabel":"(link sends e-mail)"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip","trackDomainMode":"2","trackCrossDomains":["stream.aljazeera.com"]},"join_the_show":{"join_the_show_modal_block_top":"Record a comment","join_the_show_modal_window_content":"\u003Cdiv class=\u0022top\u0022\u003EWhat conditions must be met in order for safe and equitable repatriation of Rohingya refugees back to Myanmar? \u003C\/div\u003E\u003Cdiv class=\u0022content\u0022\u003E\u003C\/div\u003E\u003Cdiv class=\u0022bottom\u0022\u003E\u003Cp\u003EWe feature video comments from our community on our live show. Record a 30 second response to today\u0027s question above, and see what others have said.\u003C\/p\u003E\u003C\/div\u003E"},"ajservices":{"host_uri":"http:\/\/www.aljazeera.com"},"quicktabs":{"qt_more_from_the_stream":{"name":"more_from_the_stream","tabs":[{"vid":"stories","display":"most_shared_block","args":"","view_path":"node%2F25322","view_dom_id":1,"ajax_args":"","actual_args":[]},{"vid":"stories","display":"most_viewed_block","args":"","view_path":"node%2F25322","view_dom_id":2,"ajax_args":"","actual_args":[]}],"ajaxPageState":{"jquery_version":"1.8"}}},"bootstrap":{"anchorsFix":1,"anchorsSmoothScrolling":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+    
+    <!--[if lt IE 9]>
+      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+          <meta name="p:domain_verify" content="0127d5b51aff6dd92ab0319b97258ad5" >
+    <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+      })();
+    </script>
+    <!-- Have the IPad style at landscape orientation -->
+    <script type="text/javascript">
+      //<![CDATA[
+      if (navigator.userAgent.match(/iPad/i) != null) {
+        var window_width = window.innerWidth || $(window).width();
+        var ipad_css_path = window.location.protocol + "//" + window.location.hostname + Drupal.settings.basePath + 'sites/all/themes/thestream2/css/style-ipad.css';
+        if(document.createStyleSheet) {
+          document.createStyleSheet(ipad_css_path);
+        }
+        else {
+          var ipadstyles = "@import url('" + ipad_css_path +"');";
+          var ipadSS = document.createElement('link');
+          ipadSS.rel='stylesheet';
+          ipadSS.href='data:text/css,' + escape(ipadstyles);
+          document.getElementsByTagName("head")[0].appendChild(ipadSS);
+        }
+      }
+      //]]>
+    </script>
+  </head>
+  <body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-25322 node-type-story index" >
+    <div id="skip-links" class="sr-only"> 
+      <a href="#nav" title="Skip to navigation" accesskey="n">Skip to navigation</a>
+      <a href="#page" title="Skip to main content" accesskey="c">Skip to main content</a>
+    </div>
+    
+
+<div class="modal-window-overlay">
+  <div class="modal-container">
+	  <div class="modal-window-content">
+	    <div class="top"><span class="close-box">&#10006;</span></div>
+	    <div class="content"><div class='row'>
+  <div class='col-xs-12'>
+    <h2 class="modal-window-title">Join Al Jazeera's social media community</h2>
+    <p>The Stream is a social media community with its own daily TV show.</p><br/>
+  </div>
+</div>
+<div class='row space-bottom-1'>
+  <div class='col-xs-12 col-sm-5' >
+    <div class="facebook-like-page pull-left-xs space-left-3-xs space-bottom-1-xs space-left-2-sm pull-right-md space-right-1-md" >
+      <span><iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2FAJStream&amp;width&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;share=false&amp;height=21&amp;appId=639665372729096" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:21px;width:100px;" allowTransparency="true"></iframe></span>
+    </div>
+  </div>
+   <div class='col-xs-12 col-sm-7' >
+     <a class="twitter-follow-button pull-left-xs space-left-4-xs pull-left-md space-left-0-md" href="https://twitter.com/AJStream" data-dnt="true">Follow @AJStream</a>
+   </div>
+</div></div>
+	    <div class="bottom">
+	      <a class="do-not-show-modal-window-button btn btn-warning btn-ajstream">Don't show again</a>
+	      <a class="close-link">Close</a>
+	    </div>
+	  </div>
+	</div>
+</div>
+    <div id="fb-root"></div>
+<script type="text/javascript">
+  window.fbAsyncInit = function() {
+    FB.init({ appId  : '222023801144502', status : true, cookie : true, xfbml : true, logging: '0'});
+    jQuery(document).trigger('fb:init');
+  };
+
+  (function() {
+    var e = document.createElement('script');
+    e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+    e.async = true;
+    document.getElementById('fb-root').appendChild(e);
+  }());
+</script>
+<div class="da-showgrid d-showgrid t-showgrid ta-showgrid m-showgrid">
+    <header id="site-header" class="">
+        <!-- googleoff: index -->
+        <div><div><div><div><div style="width:100%"><div></div></div><div></div></div></div></div><div><div><div>
+                        <div style="width:100%"><div><div><div runat="server" style=";border-style:none">
+                                        <div class="top-grey-bar">
+                                            <div class="top-social-wrapper" style="display:block!important;">
+                                                <div class="wrapper clearfix">
+                                                    <div class="socialmediaicons" id="SocialMediaIconsID">
+                                                        <ul>
+                                                            <li id="watchlive">
+                                                                <a href="/watch_now/"><svg height="20px" version="1.1" viewBox="0 0 14 14" width="20px"> <desc>Created with Sketch.</desc> <defs></defs> <g fill="none" fill-rule="evenodd" id="Page-1" stroke="none" stroke-width="1"> <g fill="#A60015" id="Group" transform="translate(-186.000000, -27.000000)"> <g id="ajmn-icons_play" transform="translate(10.000000, 13.000000)"> <g transform="translate(176.000000, 14.000000)"> <path d="M6.84444444,13.0812889 C3.39982222,13.0812889 0.6076,10.2890667 0.6076,6.84444444 C0.6076,3.39982222 3.39982222,0.6076 6.84444444,0.6076 C10.2890667,0.6076 13.0812889,3.39982222 13.0812889,6.84444444 C13.0812889,10.2890667 10.2890667,13.0812889 6.84444444,13.0812889 L6.84444444,13.0812889 Z M6.84444444,0 C3.06444444,0 0,3.06444444 0,6.84444444 C0,10.6244444 3.06444444,13.6888889 6.84444444,13.6888889 C10.6244444,13.6888889 13.6888889,10.6244444 13.6888889,6.84444444 C13.6888889,3.06444444 10.6244444,0 6.84444444,0 L6.84444444,0 Z" id="Fill-1"></path> <path d="M5.45066667,4.43488889 L5.45066667,9.254 L9.48266667,6.84444444 L5.45066667,4.43488889" id="Fill-2"></path> </g> </g> </g> </g> </svg> <span>Watch Live</span> </a></li>
+                                                            <li id="watchnow">
+                                                                <a href="/watch_now/"><img alt="Watch Now" src="/sites/all/themes/thestream2/img/WatchNowPlayIcon_V1.png" title="Watch Now"></a></li>
+                                                            <li id="facebook">
+                                                                <a href="http://www.facebook.com/aljazeera" target="_blank"><img alt="Follow us on Facebook" data-pin-nopin="true" src="/sites/all/themes/thestream2/img/facebook.png" title="Follow us on Facebook"></a></li>
+                                                            <li id="twitter">
+                                                                <a href="http://twitter.com/ajenglish" target="_blank"><img alt="Follow us on Twitter" data-pin-nopin="true" src="/sites/all/themes/thestream2/img/twitter.png" title="Follow us on Twitter"></a></li>
+                                                            <li id="instagram">
+                                                                <a href="http://instagram.com/aljazeera" target="_blank"><img alt="Follow us on Instagram" data-pin-nopin="true" src="/sites/all/themes/thestream2/img/instagram.png" title="Follow us on Instagram"></a></li>
+                                                        </ul>
+                                                    </div>
+                                                    <!-- weather -->
+                                                    <div class="m-hide weather-widgets" id="weatherwidgets"><div class="WeatherMasterHead" id="weathermasterid"></div></div>
+                                                    <!-- /weather --></div>
+                                            </div>
+                                            <div class="wrapper clearfix">
+                                                <div class="top-search-wrapper">
+                                                    <div class="live-watch-section" style="display: none;">
+                                                        <div class="arr-up">
+                                                            &nbsp;</div>
+                                                        <ul class="live-watch-play">
+                                                            <li class="live-now-playing">
+                                                                <a>Now Playing</a></li>
+                                                            <li class="live-watch">
+                                                                <span><img alt="" data-pin-nopin="true" src="/sites/all/themes/thestream2/img/WatchLive_SmallWatchIcon_hover.png"> </span><a class="watch-anchor" href="http://www.aljazeera.com/watch_now/" id="watch-now-link">Watch</a></li>
+                                                        </ul>
+                                                        <ul class="live-listen-play">
+                                                            <li class="live-now-listening">
+                                                                <a id="showing-now" href="http://www.aljazeera.com/programmes/insidestory/">inside story</a></li>
+                                                            <li class="live-listen">
+                                                                <a class="listen-anchor-img watch-anchor" href="http://listen.aljazeera.com/english/livestream?utm_source=AJE_website&amp;utm_medium=navbar&amp;utm_campaign=AJE_nav" id="listen-now-link" onclick="window.open(this.href,'ajlisten','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=380,height=567'); return false;" target="_blank"><span><img alt="" data-pin-nopin="true" src="/sites/all/themes/thestream2/img/WatchLive_SmallListenIcon.png"> </span><span class="live-listen-wd">Listen</span></a></li>
+                                                        </ul>
+                                                        <ul class="TVScheduleLink">
+                                                            <li>
+                                                                <a href="http://www.aljazeera.com/watch_now/epgschedule.html">TV Schedule</a></li>
+                                                        </ul>
+                                                    </div>
+                                                    <div class="wrapper clearfix">
+                                                        <div class="search-btn-section" style="top:0px">
+                                                            <ul>
+                                                                <li id="watchlive-active">
+                                                                    <a href="#"><img src="/sites/all/themes/thestream2/img/WatchNowPlayIcon_V1.png"> <span>Live</span> </a></li>
+                                                                <li>
+                                                                    <button class="button-search-top" type="button">submit</button></li>
+                                                            </ul>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div></div><!--PageLoadedSucessfully--></div></div><div></div></div></div></div></div>
+        <!-- social media bars shown here -->
+        <div class="wrapper clearfix">
+
+
+            <div class="ta1 da1" id="site-logo"><a href="http://www.aljazeera.com" class="current">al jazeera</a><img src="/sites/all/themes/thestream2/img/aj-logo-lg.png" class="site-logo-img default-logo" style="cursor: pointer;"></div>
+
+            <div class="ta2-ta6 d4" id="nav-account-search">
+			
+              <!--<a href="#" id="nav-mobile-menu">menu</a>-->
+			  <a href="#" id="nav-mobile-menu"><img src='/sites/all/themes/thestream2/img/mobile-menu-flyout.png' data-swap='/sites/all/themes/thestream2/img/mobile-menu-flyout.png'/></a>
+
+                <nav class="ta2-ta4 nav-wide" id="nav-account-live">&nbsp;</nav>
+            </div>
+
+            <div class="nav-group ta2-ta6 da2-da6" style="padding-top: 3.2em;">
+                <div class="mobile-wrap">
+                    <div class="form-search" id="nav-form-search">
+
+                        <form class="form-search content-search" action="/story/201611171801-0025322" method="post" id="search-block-form--2" accept-charset="UTF-8"><div><div>
+      <h2 class="element-invisible">Search form</h2>
+    <input title="Enter the terms you wish to search for." placeholder="Search The Stream..." class="form-control form-text" type="text" id="edit-search-block-form--4" name="search_block_form" value="" size="15" maxlength="128" /><button class="element-invisible btn btn-primary form-submit" id="edit-submit--2" name="op" value="Search" type="submit">Search</button>
+<input type="hidden" name="form_build_id" value="form-P3SxsbskoKLUyU3WLUFENM_w3sBD657W7B9Z0L5hN3g" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>
+                    </div>
+                    <!-- <div friendlyname="topmenuheader" id="10" type="regular" zonepath="topmenuheader/pagetype/default" zonetemplate="pagetype"> -->
+
+                    <div><div><div><div><div style="width:100%"><div><div><div runat="server" style=";border-style:none">
+                                                                                                            <div><div style=";border-style:none"><nav id="nav-site" class="nav-wide da2-da4 clearfix"><ul>
+    <li data-guid="171025111604759" class="nav-item-171025111604759"><a href="http://www.aljazeera.com/" target="_self">Home</a></li>
+    <li data-guid="161023134902510" class="nav-item-161023134902510"><a class="drop" href="http://www.aljazeera.com/news/">News</a><a class="mobile-drop" href="#">More</a><div class="drop-mega"><nav class="&#xA;          nav-divider&#xA;        "><div class="subnav list nav-menu-width" style="margin-left: 2em;">
+            <div class="drp-mega-left">
+              <ul>
+                <li data-guid="140311071122120"><a href="http://www.aljazeera.com/topics/regions/middleeast.html">Middle East</a></li>
+                <li data-guid="131113081710422"><a href="http://www.aljazeera.com/topics/regions/africa.html">Africa</a></li>
+                <li data-guid="131112142029837"><a href="http://www.aljazeera.com/topics/regions/asia.html">Asia</a></li>
+                <li data-guid="140311071220644"><a href="http://www.aljazeera.com/topics/regions/us-canada.html">US &amp; Canada</a></li>
+              </ul>
+            </div>
+            <div class="drp-mega-right">
+              <ul>
+                <li data-guid="131113111908681"><a href="http://www.aljazeera.com/topics/regions/latin-america.html">Latin America</a></li>
+                <li data-guid="131113084937332"><a href="http://www.aljazeera.com/topics/regions/europe.html">Europe</a></li>
+                <li data-guid="140311071939629"><a href="http://www.aljazeera.com/topics/regions/asia-pacific.html">Asia Pacific</a></li>
+                <li data-guid="170926095124731"><a href="http://www.aljazeera.com/news" target="_self">All</a></li>
+              </ul>
+            </div>
+          </div></nav></div>
+    </li>
+    <li data-guid="140311071122120" class="nav-item-140311071122120"><a href="http://www.aljazeera.com/topics/regions/middleeast.html">Middle East</a></li>
+    <li data-guid="161016132227401" class="nav-item-161016132227401"><a class="drop" href="http://www.aljazeera.com/documentaries/">Documentaries</a><a class="mobile-drop" href="#">More</a><div class="drop-mega"><nav class="&#xA;          nav-divider&#xA;        "><div class="subnav list nav-menu-width" style="margin-left: 2em;">
+            <div class="drp-mega-left">
+              <ul>
+                <li data-guid="140309125006070"><a href="http://www.aljazeera.com/programmes/specialseries/">Featured Documentaries</a></li>
+                <li data-guid="140309124146566"><a href="http://www.aljazeera.com/programmes/witness/">Witness</a></li>
+                <li data-guid="140309100922773"><a href="http://www.aljazeera.com/programmes/aljazeeraworld/">Al Jazeera World</a></li>
+                <li data-guid="140309083414124"><a href="http://www.aljazeera.com/programmes/101east/">101 East</a></li>
+              </ul>
+            </div>
+            <div class="drp-mega-right">
+              <ul>
+                <li data-guid="140309103232322"><a href="http://www.aljazeera.com/programmes/peopleandpower/">People &amp; Power</a></li>
+                <li data-guid="140309101835880"><a href="http://www.aljazeera.com/programmes/faultlines/">Fault Lines</a></li>
+                <li data-guid="171104105940754"><a href="http://www.aljazeera.com/programmes/my-tunisia/tunisia.html">My Tunisia</a></li>
+                <li data-guid="170702220310988"><a href="http://www.aljazeera.com/programmes/aljazeera-selects/">Al Jazeera Selects </a></li>
+                <li data-guid="140309100153551"><a href="http://www.aljazeera.com/programmes/aljazeeracorrespondent/">Al Jazeera Correspondent</a></li>
+                <li data-guid="160905084557919"><a href="http://www.aljazeera.com/programmes/rewind/">REWIND</a></li>
+                <li data-guid="161019084747265"><a href="http://www.aljazeera.com/documentaries">All</a></li>
+              </ul>
+            </div>
+          </div></nav></div>
+    </li>
+    <li data-guid="140204094724441" class="nav-item-140204094724441"><a class="drop" href="http://www.aljazeera.com/programmes/">Shows</a><a class="mobile-drop" href="#">More</a><div class="drop-mega"><nav class="&#xA;          nav-divider&#xA;        "><div class="subnav list nav-menu-width" style="margin-left: 2em;">
+            <div class="drp-mega-left">
+              <ul>
+                <li data-guid="140309102519696"><a href="http://www.aljazeera.com/programmes/insidestory/">Inside Story</a></li>
+                <li data-guid="140327064406019"><a href="http://stream.aljazeera.com" target="_blank">The Stream</a></li>
+                <li data-guid="140309102803328"><a href="http://www.aljazeera.com/programmes/listeningpost/">The Listening Post</a></li>
+                <li data-guid="140309123607662"><a href="http://www.aljazeera.com/programmes/talktojazeera/">Talk to Al Jazeera</a></li>
+              </ul>
+            </div>
+            <div class="drp-mega-right">
+              <ul>
+                <li data-guid="170215082732680"><a href="http://www.aljazeera.com/programmes/the-big-picture/">The Big Picture</a></li>
+                <li data-guid="140309101519781"><a href="http://www.aljazeera.com/programmes/countingthecost/">Counting the Cost</a></li>
+                <li data-guid="150811112506260"><a href="http://www.aljazeera.com/programmes/upfront/">UpFront</a></li>
+                <li data-guid="140309100432009"><a href="http://www.aljazeera.com/programmes/earthrise/">earthrise</a></li>
+                <li data-guid="140309101636015"><a href="http://www.aljazeera.com/programmes/empire/">Empire</a></li>
+                <li data-guid="161019085813616"><a href="http://www.aljazeera.com/programmes" target="_self">All</a></li>
+              </ul>
+            </div>
+          </div></nav></div>
+    </li>
+    <li data-guid="141105143951929" class="nav-item-141105143951929"><a href="http://www.aljazeera.com/investigations/">Investigations</a></li>
+    <li data-guid="140130065247497" class="nav-item-140130065247497"><a href="http://www.aljazeera.com/indepth/opinion/">Opinion</a></li>
+    <li data-guid="161027083327112" class="nav-item-161027083327112"><a href="http://www.aljazeera.com/indepth/inpictures/">In Pictures</a></li>
+    <li data-guid="161017091647457" class="nav-item-161017091647457"><a class="drop" href="#">More</a><a class="mobile-drop" href="#">More</a><div class="drop-mega"><nav class="&#xA;          nav-divider&#xA;        "><div class="subnav list nav-menu-width" style="margin-left: 2em;">
+            <div class="drp-mega-left">
+              <ul>
+                <li data-guid="161027081630642"><a href="http://www.aljazeera.com/indepth/features/">Features</a></li>
+                <li data-guid="141105143951929"><a href="http://www.aljazeera.com/investigations/">Investigations</a></li>
+                <li data-guid="161027083327112"><a href="http://www.aljazeera.com/indepth/inpictures/">In Pictures</a></li>
+                <li data-guid="161027100258444"><a href="http://www.aljazeera.com/indepth/interactive/">Interactive</a></li>
+              </ul>
+            </div>
+            <div class="drp-mega-right">
+              <ul>
+                <li data-guid="161019084958582"><a href="http://www.aljazeera.com/indepth/interactive/documentaries/">Interactive Documentaries</a></li>
+                <li data-guid="161115094809507"><a href="http://www.aljazeera.com/shorts/">AJ Shorts</a></li>
+                <li data-guid="170219130504928"><a href="http://www.aljazeera.com/podcasts/">Podcasts</a></li>
+                <li data-guid="161028145404792"><a href="http://www.aljazeera.com/blogs/">Reporter's Notebook</a></li>
+                <li data-guid="131112151343070"><a href="http://www.aljazeera.com/topics/categories/human_rights.html">Human Rights</a></li>
+                <li data-guid="131112152428605"><a href="http://www.aljazeera.com/topics/categories/sport.html">Sport</a></li>
+                <li data-guid="131112152215639"><a href="http://www.aljazeera.com/topics/categories/science-and-technology.html">Science &amp; Technology</a></li>
+                <li data-guid="140319114634577"><a href="http://www.aljazeera.com/topics/categories/weather.html">Weather</a></li>
+              </ul>
+            </div>
+          </div></nav></div>
+    </li>
+  </ul></nav></div></div><!--PageLoadedSucessfully-->                                                                                                    </div></div><!--PageLoadedSucessfully--></div></div><div></div></div></div></div></div>
+                    <!--menu goes here -->
+
+                    <div><div><div><div><div style="width:100%"><div><div><div runat="server" style=";border-style:none">
+                                                                                                            <div><div style=";border-style:none"><nav id="nav-topics" class="nav-wide t-all da-all"><ul>
+    <li id="NavTopTopics">Trending:</li>
+    <li><a href="http://www.aljazeera.com/topics/country/yemen.html">Yemen</a></li>
+    <li><a href="http://www.aljazeera.com/topics/country/kenya.html">Kenya</a></li>
+    <li><a href="http://www.aljazeera.com/topics/country/india.html">India</a></li>
+    <li><a href="http://www.aljazeera.com/topics/country/afghanistan.html">Afghanistan</a></li>
+    <li><a href="http://www.aljazeera.com/topics/country/north-korea.html">North Korea</a></li>
+  </ul></nav></div></div><!--PageLoadedSucessfully-->                                                                                                    </div></div><!--PageLoadedSucessfully--></div></div><div></div></div></div></div></div>
+                    <!-- <div id="weatherwidget" class="m-hide weather-widget"> </div> -->
+                </div>
+            </div>
+        </div>
+
+        <div><div><div><div><div style="width:100%"><div><div><div><div><div style="width:100%"><div><div><div runat="server" style=";border-style:none"><div class="form-wrapper-wrap" xmlns:media="http://search.yahoo.com/mrss/">
+                                                                <div class="wrapper clearfix">
+                                                                    <div class="form-wrapper" id="headersearchform">
+                                                                        <span class="genericon genericon-close search-close"></span>
+
+                                                                        <form class="form-search content-search" action="/story/201611171801-0025322" method="post" id="search-block-form--2" accept-charset="UTF-8"><div><div>
+      <h2 class="element-invisible">Search form</h2>
+    <input title="Enter the terms you wish to search for." placeholder="Search The Stream..." class="form-control form-text" type="text" id="edit-search-block-form--4" name="search_block_form" value="" size="15" maxlength="128" /><button class="element-invisible btn btn-primary form-submit" id="edit-submit--2" name="op" value="Search" type="submit">Search</button>
+<input type="hidden" name="form_build_id" value="form-P3SxsbskoKLUyU3WLUFENM_w3sBD657W7B9Z0L5hN3g" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>
+
+
+                                                                        <nav id="search-nav-topics" class="nav-wide t-all da-all" xmlns:xs="http://www.w3.org/2001/XMLSchema"><ul><p class="most-searched">Most Searched</p>
+                                                                            </ul></nav></div>
+                                                                </div>
+                                                            </div>
+                                                            <div id="site-header-links" xmlns:media="http://search.yahoo.com/mrss/"></div></div></div><!--PageLoadedSucessfully--></div></div><div></div></div></div></div></div></div><div></div></div></div></div></div>
+        <!-- googleon: index -->
+
+    </header>
+
+</div><!-- /#page-header -->
+<div id="page">
+  
+<div>
+<header id="show-header" class="clearfix wrapper" type="renderzoneblock">
+  <div>
+    <div runat="server" custom-style="" style="border-style:none;">
+      <style xmlns:media="http://search.yahoo.com/mrss/" xmlns:systemclass="Oryx">
+        .oryx-bg {
+    background-image: url(/mritems/Images/programmes/INSIDE-STORY-BG01.jpg);
+  }
+  </style>
+  <h1 id="show-logo" class="da1-da2 ta1-ta2" xmlns:media="http://search.yahoo.com/mrss/" xmlns:systemclass="Oryx">
+    <a href="/">
+      <img style="width: 100%; vertical-align: bottom;" src="/sites/all/themes/thestream2/images/aljazeera-stream-logo.png">
+    </a>
+  </h1>
+  
+<!-- Main-Menu for the stream -->
+  <nav class="nav-wide da-all ta-all" xmlns:media="http://search.yahoo.com/mrss/" xmlns:systemclass="Oryx">
+          <h2 class="element-invisible">The Stream Main menu</h2><ul id="main-menu-links" class="links"><li class="menu-2786 first"><a href="/">Home</a></li>
+<li class="menu-688 active-trail"><a href="/stories" class="active-trail">Stories</a></li>
+<li class="menu-714 last"><a href="/about" title="About The Stream">About</a></li>
+</ul>       </nav>                   
+<!-- Main-Menu for the stream    end-->
+
+  </div>
+  </div>
+</header>
+</div>  <!--main content area-->
+  <div id="main-content" class="container clearfix">
+    
+    
+    <div class="row content-row no-margin-h-xs no-margin-h-sm primary-content">
+      <!-- primary-column -->
+      <section class="col-xs-12 col-sm-12 col-md-8 primary-column no-padding-h-xs no-padding-h-sm on-padding-right-md">
+
+        
+                  
+        
+                <div class="tabs-wrapper">
+                    </div>
+        
+        <div class="main-content-wrapper vertical-margin">
+              <div class="region region-content">
+    <section id="block-system-main" class="block block-system clearfix">
+
+      
+  <div class="panel-display panel-1col clearfix" >
+  <div class="panel-panel panel-col">
+    <div><div class="panel-pane pane-node-content" >
+  
+      
+  
+  <div class="pane-content">
+    
+
+<div  class="node node-story view-mode-full ">
+    <div class="row">
+    <div class="col-sm-12   no-padding-h-xs no-padding-v-xs on-padding-h-md">
+      <div class="field field-name-field-story-type field-type-list-text field-label-hidden episode"><div class="field-items"><div class="field-item even">Episode</div></div></div><div class="field field-name-field-published-date field-type-datetime field-label-hidden"><div class="field-items"><div class="field-item even"><span class="date-display-single">November 17, 2016</span></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><h1>Duterte, Trump and Philippine-US relations</h1></div></div></div><div class="field field-name-field-description field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even">A look at the populist leaders and their potential impact on ties between Manila and Washington.</div></div></div><div class="field field-name-comments-shares-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="comments-shares-title">
+     <span class="story-comments">
+         <a href="#COMMENTS"><i class="fa fa-comment fb-count"></i> 10 <span>Comments</span></a>
+     </span>
+     <span class="social-share-count" >
+      <i class="fa fa-share"></i> <span>4</span> <span>Shares</span>
+     </span>
+</div></div></div></div><div class="field field-name-story-top-layout field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="video-container"><iframe width="459" height="344" src="https://www.youtube.com/embed/lAnSYWommiA?feature=oembed" frameborder="0" allowfullscreen></iframe></div></div></div></div><div class="field field-name-social-share-line field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="social-share sticky">
+ <div class="row no-margin-h-xs no-margin-h-sm on-margin-h-md">
+ <div class="col-xs-12 col-sm-12 no-padding-h-xs no-padding-h-sm">
+ <a class="story-share email" title="Share by Email"  href="mailto:?subject=Suggested read: Duterte, Trump and Philippine-US relations on The Stream&body=Check out the story at: http://stream.aljazeera.com/story/201611171801-0025322 Interested in more stories? Follow The Stream on Twitter at http://www.twitter.com/AJStream or visit us at http://stream.aljazeera.com" ></a>
+
+<a class="story-share getpocket"  title="Save to Pocket" href="https://getpocket.com/save?url=http://stream.aljazeera.com/story/201611171801-0025322&title=Duterte%2C+Trump+and+Philippine-US+relations" ><span>Pocket</span></a>
+<a class="story-share sms"  title="Send a text message" href="sms:?body=Duterte, Trump and Philippine-US relations http://stream.aljazeera.com/story/201611171801-0025322" ><span>SMS</span></a>
+<a class="story-share whatsapp"  title="Send to Whatsapp" href="whatsapp://send?text=Duterte, Trump and Philippine-US relations http://stream.aljazeera.com/story/201611171801-0025322" data-action="share/whatsapp/share"></a>
+<a class="story-share go"  title="Share to Google+" href='https://plus.google.com/share?url=http://stream.aljazeera.com/story/201611171801-0025322' ></a>
+  <a class="story-share tw" title="Share to Twitter"  href="https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fabout.twitter.com%2Fresources%2Fbuttons&amp;text=Duterte%2C+Trump+and+Philippine-US+relations http://stream.aljazeera.com/story/201611171801-0025322 via %40AJStream&amp;tw_p=tweetbutton" target="_blank"></a>
+  <a class="story-share fb"  title="Share to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fstream.aljazeera.com%2Fstory%2F201611171801-0025322"></a>
+</div>
+</div>
+</div></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p><strong>On Thursday, November 17 at 19:30 GMT:</strong><br /><br />
+Ties between the United States and the Philippines have been at a low point for months, since controversial Philippine President Rodrigo Duterte insulted US President Barack Obama and vowed to reduce military cooperation with US forces. But Donald Trump's surprise US election victory may change that. Duterte has extended his congratulations to President-elect Trump and noted a shared trait: "We both like to swear. One little thing, we curse right away, we’re the same." Many political observers have pointed out other similarities beyond their crude remarks. Both rose to power on the wave of a populist, anti-establishment backlash. On this episode of The Stream, we'll get an up close look at Duterte with exclusive behind-the-scenes access from Al Jazeera's 101 East. We'll also discuss the parallels between Duterte and Trump's personalities and political ascendancy, and how they might impact US-Philippines relations.<br /><br /><strong>On this episode of The Stream, we speak to:</strong><br /><br />
+Steve Chao <a href="https://twitter.com/SteveChaoSC" target="_blank">@SteveChaoSC</a><br />
+Senior Presenter, Al Jazeera English's 101 East<br /><br />
+Lisandro Claudio <a href="https://twitter.com/leloyclaudio" target="_blank">@leloyclaudio</a><br />
+Assistant Professor of Political Science, Ateneo De Manila University<br /><br />
+Charlie Campbell, @<a href="http://twitter.com/CharlieCamp6ell">CharlieCamp6ell</a> Aries Arugay <a href="https://twitter.com/ariesarugay" target="_blank">@ariesarugay</a><br />
+Beijing Correspondent, TIME Political Scientist, University of the Philippines-Diliman<br /><br />
+Rhonda Ramiro <a href="https://twitter.com/BAYAN_USA" target="_blank">@BAYAN_USA</a><br />
+Vice Chair, BAYAN-USA<br /><a href="http://bayanusa.org/about/" target="_blank">bayanusa.org/about</a></p>
+
+<p> </p>
+
+<p>With video commentary from:</p>
+
+<p> </p>
+
+<p>Charlie Campbell, @<a href="http://twitter.com/CharlieCamp6ell">CharlieCamp6ell</a> <br />
+TIME Beijing Correspondent<br /><a href="http://time.com">time.com</a></p>
+
+<p> </p>
+
+<p><strong>What do you think? Leave your thoughts in the comments below.</strong></p>
+</div></div></div><div class="field field-name-fb-comments field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><a name="COMMENTS" id="COMMENTS"></a></div></div></div><div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, "script", "facebook-jssdk"));</script>
+<div class="fb-comments " data-href="http://stream.aljazeera.com/node/25322" data-num-posts="15" data-width="620" data-colorscheme="light"></div>    </div>
+  </div>
+</div>
+
+
+<!-- Needed to activate display suite support on forms -->
+  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+  
+</section> <!-- /.block -->
+<section id="block-fbcm-slideout-fbcm-slideout-block" class="block block-fbcm-slideout clearfix">
+
+      
+  <div class="fb-comments-slide-out">
+  <div class="fb-count-bin">
+    <div class="fb-comments-count bin-comment"><span class="fb-comments-count" data-href="http://stream.aljazeera.com/story/201611171801-0025322">0</span></div>
+    <div class="slideout-bin-icon bin-right"></div>
+  </div>
+  <div class="fb-comments-slide-out-content">
+    <div class="fb-comments" data-href="http://stream.aljazeera.com/story/201611171801-0025322" data-numposts="5" data-colorscheme="light" data-mobile="true"></div>
+  </div>
+</div>
+     
+</section> <!-- /.block -->
+  </div>
+        </div>
+      </section>
+      <!-- /.primary-column -->
+      <!-- sidebar -->
+              <section class="col-md-4 col-sm-12 col-xs-12 sidebar tertiary-column no-padding-h-sm on-padding-left-md" role="complementary" id="tertiary-nav">
+            <div class="region region-sidebar-first">
+    <aside id="block-bean-follow-the-stream" class="block block-bean hidden-xs hidden-sm widget clearfix">
+
+      
+  <div class="entity entity-bean bean-wysiwyg-block clearfix">
+
+  <div class="content">
+    <div class="field field-name-field-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><h3 class="follow-us-title"><i class="fa fa-star"></i> Follow us</h3>
+<ul class="follow-us-list clearfix"><li><a alt="Follow us on Facebook" href="http://www.facebook.com/ajstream" target="_blank"><i class="fa fa-facebook"></i></a></li>
+    <li><a alt="Follow us on Twitter" href="https://twitter.com/AJStream" target="_blank"><i class="fa fa-twitter"></i></a></li>
+    <li><a alt="Follow us on Google+" href="https://plus.google.com/108038985259359575981?rel=author" target="_blank"><i class="fa fa-google-plus"></i></a></li>
+    <li><a alt="Follow us on Instagram" href="http://instagram.com/ajstream" target="_blank" class="instagram"><i class="fa fa-instagram"></i></a></li>
+    <li><a alt="Follow us on RSS feed" href="http://stream.aljazeera.com/stories/feed/rss.xml" target="_blank"><i class="fa fa-rss"></i></a></li>
+    <li><a alt="Follow us on YouTube" href="http://www.youtube.com/subscription_center?add_user=ajstream&amp;feature=creators_cornier-http%3A//s.ytimg.com/yt/img/creators_corner/Subscribe_to_my_videos/YT_Subscribe_61x23_red.png" target="_blank" class="youtube"><i class="fa fa-youtube"></i></a></li>
+    <li><a alt="Follow us on itunes Podcast" href="http://stream.aljazeera.com/podcast" target="_blank" class="podcast"><i class="fa fa-microphone"></i></a></li>
+</ul></div></div></div>  </div>
+</div>
+  
+</aside> <!-- /.block -->
+<aside id="block-search-form" class="block block-search widget clearfix">
+
+      
+  <form class="form-search content-search" action="/story/201611171801-0025322" method="post" id="search-block-form" accept-charset="UTF-8"><div><div>
+      <h2 class="element-invisible">Search form</h2>
+    <input title="Enter the terms you wish to search for." placeholder="Search The Stream..." class="form-control form-text" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" /><button class="element-invisible btn btn-primary form-submit" id="edit-submit" name="op" value="Search" type="submit">Search</button>
+<input type="hidden" name="form_build_id" value="form-G0DAWPi-u-6lgTUBIfK7MoXwA7O2PNaRuHdZokpHR9I" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  
+</aside> <!-- /.block -->
+<aside id="block-ajstream-block-home-time-schedule-block" class="block block-ajstream-block widget clearfix">
+
+      
+  
+             <script>
+                ajstream_block_js();
+             </script>
+             <div class="home-time-schedule">
+             <h3><i class="fa fa-desktop"></i> Watch Live</h3>
+               <div class="watch-live-box">
+                           
+                <h3 class="detected-tz-hour"><span id="Aj_off_set_in_hour_diff"> <span> </span></span>19:30 GMT</h3>
+                
+                <p> Every Monday through Thursday on<br />Al Jazeera English or this site.</p>
+               </div>
+               
+            </div>  
+</aside> <!-- /.block -->
+<aside id="block-quicktabs-more-from-the-stream" class="block block-quicktabs hidden-xs hidden-sm widget clearfix">
+
+      
+  <div  id="quicktabs-more_from_the_stream" class="quicktabs-wrapper quicktabs-style-basic"><ul class="quicktabs-tabs quicktabs-style-basic"><li class="active first"><a href="/story/201611171801-0025322?qt-more_from_the_stream=0#qt-more_from_the_stream" id="quicktabs-tab-more_from_the_stream-0" class="active">Most Shared</a></li>
+<li class="last"><a href="/story/201611171801-0025322?qt-more_from_the_stream=1#qt-more_from_the_stream" id="quicktabs-tab-more_from_the_stream-1" class="active">Most Viewed</a></li>
+</ul><div id="quicktabs-container-more_from_the_stream" class="quicktabs_main quicktabs-style-basic"><div  id="quicktabs-tabpage-more_from_the_stream-0" class="quicktabs-tabpage "><div class="view view-stories view-id-stories view-display-id-most_shared_block view-dom-id-c4e2a88400c8e9df95f7bac88004c55c">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ol>          <li class=""><div  class="ds-1col node node-story view-mode-most  clearfix">
+
+  
+  <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/story/201802150116-0025590">Are the Rohingya on the brink of another crisis?</a></div></div></div></div>
+
+</li>
+      </ol></div>    </div>
+  
+  
+  
+  
+  
+  
+</div></div><div  id="quicktabs-tabpage-more_from_the_stream-1" class="quicktabs-tabpage quicktabs-hide"><div class="view view-stories view-id-stories view-display-id-most_viewed_block view-dom-id-fe1a2f86f24cba58cd2d5aad7d8f7703">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ol>          <li class=""><div  class="ds-1col node node-story view-mode-most  clearfix">
+
+  
+  <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/story/201802150116-0025590">Are the Rohingya on the brink of another crisis?</a></div></div></div></div>
+
+</li>
+      </ol></div>    </div>
+  
+  
+  
+  
+  
+  
+</div></div></div></div>  
+</aside> <!-- /.block -->
+<aside id="block-views-stories-recent-episodes-block" class="block block-views widget clearfix">
+
+      
+  <div class="view view-stories view-id-stories view-display-id-recent_episodes_block view-dom-id-da24c6a6031bd6af671127650eac83b1">
+            <div class="view-header">
+      <h4 class="block-title"><i class="fa fa-film"></i> Recent Episodes</h4>    </div>
+  
+  
+  
+      <div class="view-content">
+      <div class="views-view-grid cols-1">
+  
+  <div>
+                <div class="row row-1 row-first">
+                  <div class="col-sm-12 col-1 col-first">
+            
+
+<div  class="node node-story view-mode-recent ">
+        <div class="row">
+      <div class="col-sm-12  top">
+        <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/story/201802141724-0025589"><img class="img-responsive" src="http://stream.aljazeera.com/sites/default/files/styles/mid_thumbnail/public/1518561234-AJE-Stream-02-14-18_Stub.jpg?itok=jM8qlg2l" width="345" height="260" alt="A model walks the runway for Chromat during New York Fashion Week: The Shows at Industria Studios on February 9, 2018 in New York City. (Photo by Noam Galai/Getty Images for Chromat)" title="A model walks the runway for Chromat during New York Fashion Week: The Shows at Industria Studios on February 9, 2018 in New York City. (Photo by Noam Galai/Getty Images for Chromat)" /></a></div></div></div>      </div>
+    </div>
+          <div class="row">
+      <div class="col-sm-12  bottom">
+        <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><h6><a href="/story/201802141724-0025589">#NYFW: Is fashion inclusive enough?</a></h6></div></div></div><div class="field field-name-field-description field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even">We speak to the models and designers who use social media to subvert the mainstream</div></div></div><div class="field field-name-field-published-date field-type-datetime field-label-hidden"><div class="field-items"><div class="field-item even"><span class="date-display-single">February 14, 2018</span></div></div></div><div class="field field-name-shares field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="story-shares">
+     <span class="social-share-count" >
+      <i class="fa fa-share"></i> <span>0</span>
+     </span>
+</div></div></div></div>      </div>
+    </div>
+  </div>
+
+
+<!-- Needed to activate display suite support on forms -->
+          </div>
+              </div>
+                <div class="row row-2">
+                  <div class="col-sm-12 col-1 col-first">
+            
+
+<div  class="node node-story view-mode-recent ">
+        <div class="row">
+      <div class="col-sm-12  top">
+        <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/story/201802130340-0025588"><img class="img-responsive" src="http://stream.aljazeera.com/sites/default/files/styles/mid_thumbnail/public/1518483682-Ugandan_refugees.jpg?itok=xMCAlflC" width="345" height="260" alt="(REUTERS/James Akena)" title="(REUTERS/James Akena)" /></a></div></div></div>      </div>
+    </div>
+          <div class="row">
+      <div class="col-sm-12  bottom">
+        <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><h6><a href="/story/201802130340-0025588">Is Uganda really a paradise for refugees?</a></h6></div></div></div><div class="field field-name-field-description field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even">The Stream goes beyond recent glowing headlines to ask whether Uganda really is a paradise for refugees.</div></div></div><div class="field field-name-field-published-date field-type-datetime field-label-hidden"><div class="field-items"><div class="field-item even"><span class="date-display-single">February 13, 2018</span></div></div></div><div class="field field-name-shares field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="story-shares">
+     <span class="social-share-count" >
+      <i class="fa fa-share"></i> <span>0</span>
+     </span>
+</div></div></div></div>      </div>
+    </div>
+  </div>
+
+
+<!-- Needed to activate display suite support on forms -->
+          </div>
+              </div>
+                <div class="row row-3 row-last">
+                  <div class="col-sm-12 col-1 col-first">
+            
+
+<div  class="node node-story view-mode-recent ">
+        <div class="row">
+      <div class="col-sm-12  top">
+        <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/story/201802120303-0025587"><img class="img-responsive" src="http://stream.aljazeera.com/sites/default/files/styles/mid_thumbnail/public/1518395032-Feb-12-2018Stub.jpg?itok=J3KyB3Ph" width="345" height="260" alt="(AFP/MARCO LONGARI)" title="(AFP/MARCO LONGARI)" /></a></div></div></div>      </div>
+    </div>
+          <div class="row">
+      <div class="col-sm-12  bottom">
+        <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><h6><a href="/story/201802120303-0025587">#ZumaExit: Will South Africa’s Jacob Zuma resign?</a></h6></div></div></div><div class="field field-name-field-description field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even">The ANC is pushing for the president to leave office, but Zuma aims to leave on his own terms.</div></div></div><div class="field field-name-field-published-date field-type-datetime field-label-hidden"><div class="field-items"><div class="field-item even"><span class="date-display-single">February 12, 2018</span></div></div></div><div class="field field-name-shares field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="story-shares">
+     <span class="social-share-count" >
+      <i class="fa fa-share"></i> <span>0</span>
+     </span>
+</div></div></div></div>      </div>
+    </div>
+  </div>
+
+
+<!-- Needed to activate display suite support on forms -->
+          </div>
+              </div>
+      </div>
+</div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  
+</aside> <!-- /.block -->
+  </div>
+        </section>  
+            <!-- /.sidebar -->
+    </div>
+  </div>
+</div>
+<!-- /#page -->
+
+<section class="dark m-hide oryx-custom-clear"><div><div style=";border-style:none"><?xml version="1.0" encoding="utf-16"?><!-- googleoff: index --><div class="wrapper"><div class="heading-section h1class">MUST-SEE PROGRAMMES</div><article class=" item blurb  t1 d1"><h4 class="heading-section" style="padding-bottom:0px"><a class="showStrandName" href="http://www.aljazeera.com/programmes/face-to-face/">Face to Face</a></h4><a href="http://www.aljazeera.com/programmes/face-to-face/2017/07/che-guevara-fidel-castro-revolutionary-friends-170711115942430.html" onclick="sendGAEvent('Bottom Content','click','Program Highlights');" class="play"><img class="lazy" src="http://www.aljazeera.com/mritems/imagecache/mbdresplarge/mritems/Images/2017/7/18/4ddab342aa4840768f2a4a44323dfcbe_18.jpg" alt="Che Guevara and Fidel Castro: Revolutionary Friends" title="Che Guevara and Fidel Castro: Revolutionary Friends" bkp-src="http://www.aljazeera.com/img/nov-2016/novresptopfeature.jpg"></a><h4><a href="http://www.aljazeera.com/programmes/face-to-face/2017/07/che-guevara-fidel-castro-revolutionary-friends-170711115942430.html" style="text-transform: none;" onclick="sendGAEvent('Bottom Content','click','Program Highlights');">Che Guevara and Fidel Castro: Revolutionary Friends</a></h4><p>A legendary friendship borne of youth and revolutionary zeal eventually succumbs to the strains of Cold War realpolitik.</p><p class="meta"><a href="http://www.aljazeera.com/topics/people/fidel-castro.html">Fidel Castro</a>, <a href="http://www.aljazeera.com/topics/country/cuba.html">Cuba</a>, <a href="http://www.aljazeera.com/topics/regions/latin-america.html">Latin America</a></p></article><article class=" item blurb  t2 d2"><h4 class="heading-section" style="padding-bottom:0px"><a class="showStrandName" href="http://www.aljazeera.com/programmes/upfront/">UpFront</a></h4><a href="http://www.aljazeera.com/programmes/upfront/2016/11/upfront-special-noam-chomsky-trump-era-161125114959227.html" onclick="sendGAEvent('Bottom Content','click','Program Highlights');" class="play"><img class="lazy" src="http://www.aljazeera.com/mritems/imagecache/mbdresplarge/mritems/Images/2016/11/25/4355e559907f47b2ae5663cf3643973f_18.jpg" alt="UpFront special: Noam Chomsky on the new Trump era" title="UpFront special: Noam Chomsky on the new Trump era" bkp-src="http://www.aljazeera.com/img/nov-2016/novresptopfeature.jpg"></a><h4><a href="http://www.aljazeera.com/programmes/upfront/2016/11/upfront-special-noam-chomsky-trump-era-161125114959227.html" style="text-transform: none;" onclick="sendGAEvent('Bottom Content','click','Program Highlights');">UpFront special: Noam Chomsky on the new Trump era</a></h4><p>"The most predictable aspect of Trump is unpredictability. I think it's dangerous, very dangerous," says Noam Chomsky.</p><p class="meta"><a href="http://www.aljazeera.com/topics/country/united-states.html">United States</a>, <a href="http://www.aljazeera.com/topics/people/donald-trump.html">Donald Trump</a></p></article><article class=" item blurb  t3 d3"><h4 class="heading-section" style="padding-bottom:0px"><a class="showStrandName" href="http://www.aljazeera.com/programmes/101east/">101 East</a></h4><a href="http://www.aljazeera.com/programmes/101east/2017/11/rohingya-exodus-171108111243840.html" onclick="sendGAEvent('Bottom Content','click','Program Highlights');" class="play"><img class="lazy" src="http://www.aljazeera.com/mritems/imagecache/mbdresplarge/mritems/Images/2017/11/9/f22e444544394b5b93319876327a5fb0_18.jpg" alt="The Rohingya Exodus  " title="The Rohingya Exodus  " bkp-src="http://www.aljazeera.com/img/nov-2016/novresptopfeature.jpg"></a><h4><a href="http://www.aljazeera.com/programmes/101east/2017/11/rohingya-exodus-171108111243840.html" style="text-transform: none;" onclick="sendGAEvent('Bottom Content','click','Program Highlights');">The Rohingya Exodus  </a></h4><p>What does the future hold for the Rohingya in Bangladesh, one of the world's poorest countries?</p><p class="meta"><a href="http://www.aljazeera.com/topics/subjects/rohingya.html">Rohingya</a>, <a href="http://www.aljazeera.com/topics/categories/war-conflict.html">War &amp; Conflict</a>, <a href="http://www.aljazeera.com/topics/country/bangladesh.html">Bangladesh</a></p></article><article class=" item blurb  t4 d4"><h4 class="heading-section" style="padding-bottom:0px"><a class="showStrandName" href="http://www.aljazeera.com/programmes/struggleoverthenile/struggleoverthenile.html">Struggle Over the Nile</a></h4><a href="http://www.aljazeera.com/programmes/struggleoverthenile/2011/06/2011667594146703.html" onclick="sendGAEvent('Bottom Content','click','Program Highlights');" class="play"><img class="lazy" src="http://www.aljazeera.com/mritems/imagecache/mbdresplarge/mritems/Images/2015/3/14/a46c68dd66164daa801e62df825c8152_18.jpg" alt="Struggle over the Nile: Masters no more" title="Struggle over the Nile: Masters no more" bkp-src="http://www.aljazeera.com/img/nov-2016/novresptopfeature.jpg"></a><h4><a href="http://www.aljazeera.com/programmes/struggleoverthenile/2011/06/2011667594146703.html" style="text-transform: none;" onclick="sendGAEvent('Bottom Content','click','Program Highlights');">Struggle over the Nile: Masters no more</a></h4><p>For centuries, Egypt has sought to tame the Nile and control its use, but others are now challenging this dominance.</p><p class="meta"><a href="http://www.aljazeera.com/topics/issues/water.html">Water</a>, <a href="http://www.aljazeera.com/topics/country/egypt.html">Egypt</a>, <a href="http://www.aljazeera.com/topics/categories/environment.html">Environment</a></p></article></div><!-- googleon: index --></div></div></section><!--PageLoadedSucessfully--><div><div style=";border-style:none"><footer id="site-footer">
+	<div class="FooterTopBar">
+		<nav class="nav-social wrapper clearfix" id="footer-nav">
+			<p>
+				<a href="#"><!--[if (!IE) | (gt IE 8)]><!--></a><img alt="Al Jazeera" class="t1 da1" id="footer-logo" onerror="this.onerror=null; this.src='/mritems/images/site/logo-footer.png'" src="http://www.aljazeera.com/mritems/images/site/aje-logo-white.svg"> <!--<![endif]--><!--[if lte IE 8]><img class="t1 da1" id="footer-logo" src="http://www.aljazeera.comimg/logo-footer.png" alt="Al Jazeera" /><![endif]--></p>
+			<ul class="ta1-t4 da2-da4" id="footer-nav-main">
+				<li>
+					<a href="http://www.aljazeera.com/news/">News</a></li>
+				<li>
+					<a href="http://www.aljazeera.com/programmes/">Programmes</a></li>
+				<li>
+					<a href="http://www.aljazeera.com/indepth/opinion/">Opinion</a></li>
+				<li>
+					<a href="http://www.aljazeera.com/aboutus/">About</a></li>
+				<li>
+					<a href="http://www.aljazeera.com/investigations/">Investigations</a></li>
+				<li class="for-mobile" style="display: none;">
+					<a href="http://www.aljazeera.com/contactus/">Contact Us</a></li>
+				<li class="last m-hide">
+					<a href="http://video.aljazeera.com/channels/eng" target="_blank">Video</a></li>
+			</ul>
+			<ul id="footer-nav-social">
+				<li>
+					<a class="icon-facebook" href="http://www.facebook.com/aljazeera" target="_blank">Facebook</a></li>
+				<li>
+					<a class="icon-twitter" href="http://twitter.com/ajenglish" target="_blank">Twitter</a></li>
+				<li>
+					<a class="icon-google" href="http://plus.google.com/+aljazeera" target="_blank">Google+</a></li>
+				<li>
+					<a class="icon-rss" href="http://www.aljazeera.com/xml/rss/all.xml" target="_blank">RSS</a></li>
+				<li>
+					<a class="icon-pod" href="http://www.aljazeera.com/programmes/Podcasts.html" target="_blank">Podcast</a></li>
+				<li>
+					<a class="icon-youtube" href="https://www.youtube.com/user/AlJazeeraEnglish?sub_confirmation=1" target="_blank">YouTube</a></li>
+				<li>
+					<a class="Snapchat" href="https://www.snapchat.com/add/AJENews">SnapChat</a></li>
+			</ul>
+		</nav>
+		<p class="copyright for-mobile" style="display: none;margin-left: 20px;">
+			© 2017 Al Jazeera Media Network</p>
+	</div>
+	<div class="wrapper m-hide clearfix">
+		<div class="ta1-ta2">
+			<nav class="m1 da1 da-clear">
+				<div class="heading-list h1class">
+					About</div>
+				<ul class="list">
+					<li>
+						<a href="http://www.aljazeera.com/aboutus/">About Us</a></li>
+					<li>
+						<a href="http://pr.aljazeera.com/" target="_blank">Press Office</a></li>
+					<li>
+						<a href="http://www.aljazeera.com/pressoffice/2012/04/2012416161854868952.html">Awards</a></li>
+					<li>
+						<a href="http://www.aljazeera.com/aboutus/2006/11/2008525185733692771.html">Code of Ethics</a></li>
+					<li>
+						<a href="http://www.aljazeera.com/aboutus/2011/01/20111168582648190.html">Terms and Conditions</a></li>
+					<li>
+						<a href="http://www.aljazeera.com/aboutus/2011/01/201111681520872288.html">Community Guidelines</a></li>
+					<li>
+						<a href="http://careers.aljazeera.net/en/" target="_blank">Work for us</a></li>
+					<li>
+						<a href="http://www.aljazeera.com/hraquality" target="_blank">HR Quality</a></li>
+				</ul>
+			</nav>
+			<nav class="m2 da2">
+				<div class="heading-list h1class">
+					Connect</div>
+				<ul class="list">
+					<li>
+						<a href="http://www.aljazeera.com/contactus/">Contact Us</a></li>
+					<li>
+						<a href="http://www.aljazeera.com/connect/">Apps</a></li>
+					<li>
+						<a href="http://www.aljazeera.com/aboutus/follow-us.html">Social</a></li>
+					<li>
+						<a href="http://sat.aljazeera.net/en">Channel Finder</a></li>
+					<li>
+						<a href="http://www.aljazeera.com/watch_now/epgschedule.html">TV Schedule</a></li>
+					<li>
+						<a href="http://www.aljazeera.com/programmes/Podcasts.html">Podcasts</a></li>
+					<li>
+						<a href="http://www.aljazeera.com/newsletter">Newsletter</a></li>
+				</ul>
+			</nav>
+		</div>
+		<div class="ta3-ta4">
+			<nav class="m1 da3">
+				<div class="heading-list h1class">
+					Our Channels</div>
+				<ul class="list">
+					<li>
+						<a href="http://aljazeera.net" target="_blank">Al Jazeera Arabic</a></li>
+					<li>
+						<a href="http://aljazeera.com" target="_blank">Al Jazeera English</a></li>
+					<li>
+						<a href="http://mubasher.aljazeera.net" target="_blank">Al Jazeera Mubasher</a></li>
+					<li>
+						<a href="http://doc.aljazeera.net" target="_blank">Al Jazeera Documentary</a></li>
+					<li>
+						<a href="http://balkans.aljazeera.net" target="_blank">Al Jazeera Balkans</a></li>
+					<li>
+						<a href="http://ajplus.net" target="_blank">AJ+</a></li>
+				</ul>
+			</nav>
+			<nav class="m2 da4">
+				<div class="heading-list h1class">
+					Our Network</div>
+				<ul class="list">
+					<li>
+						<a href="https://www.jetty.fm" target="_blank">Jetty</a></li>
+					<li>
+						<a href="http://studies.aljazeera.net/en/" target="_blank">Al Jazeera Centre for Studies</a></li>
+					<li>
+						<a href="http://training.aljazeera.net" target="_blank">Al Jazeera Media Institute</a></li>
+					<li>
+						<a href="http://liberties.aljazeera.com/en" target="_blank">Al Jazeera Centre for Public Liberties &amp; Human Rights</a></li>
+					<li>
+						<a href="http://forum.aljazeera.net" target="_blank">Al Jazeera Forum</a></li>
+					<li>
+						<a href="http://festival.aljazeera.net" target="_blank">Al Jazeera Film Festival</a></li>
+					<li>
+						<a href="http://learning.aljazeera.net" target="_blank">Al Jazeera Learning</a></li>
+					<li>
+						<a href="http://partners.aljazeera.net" target="_blank">Al Jazeera Hotel Partners</a></li>
+				</ul>
+			</nav>
+		</div>
+		<div class="ta5-ta6">
+			<nav class="m1 da5">
+				<div class="heading-list h1class">
+					&nbsp;</div>
+				<ul class="list">
+				</ul>
+			</nav>
+			<nav class="m2 da6">
+				<p class="copyright">
+					© 2018 Al Jazeera Media Network</p>
+			</nav>
+		</div>
+	</div>
+</footer>
+<p>
+	&nbsp;</p>
+</div></div><!--PageLoadedSucessfully--><!-- /#footer -->
+<!-- START Parse.ly Include: Standard -->
+<div id="parsely-root" style="display: none">
+<div id="parsely-cfg" data-parsely-site="stream.aljazeera.com"></div>
+</div>
+<script>
+(function(s, p, d) {
+  var h=d.location.protocol, i=p+"-"+s,
+e=d.getElementById(i), r=d.getElementById(p+"-root"),
+u=h==="https:"?"d1z2jf7jlzjs58.cloudfront.net"
+:"static."+p+".com";
+if (e) return;
+e = d.createElement(s); e.id = i; e.async = true;
+e.src = h+"//"+u+"/p.js"; r.appendChild(e);
+})("script", "parsely", document);
+</script>
+<!-- END Parse.ly Include -->
+
+ <!-- Start Alexa Certify Javascript -->
+<script type="text/javascript" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script>
+<script type="text/javascript">_atrk_opts = { atrk_acct: "fmR6h1acOh00it", domain:"aljazeera.com"}; atrk ();</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=fmR6h1acOh00it" style="display:none" height="1" width="1" alt="" /></noscript>
+<!-- End Alexa Certify Javascript -->    <script type="text/javascript">
+  var _sf_async_config=Drupal.settings.chartbeat;
+  (function(){
+    function loadChartbeat() {
+      window._sf_endpt=(new Date()).getTime();
+      var e = document.createElement('script');
+      e.setAttribute('language', 'javascript');
+      e.setAttribute('type', 'text/javascript');
+      e.setAttribute('src',
+         (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
+         "static.chartbeat.com/js/chartbeat.js");
+      document.body.appendChild(e);
+    }
+    var oldonload = window.onload;
+    window.onload = (typeof window.onload != 'function') ?
+       loadChartbeat : function() { oldonload(); loadChartbeat(); };
+  })();
+</script><script src="http://stream.aljazeera.com/sites/all/modules/contrib/flexslider/assets/js/flexslider.load.js?p3exr1"></script>
+<script src="http://stream.aljazeera.com/sites/all/themes/bootstrap/js/bootstrap.js?p3exr1"></script>
+  </body>
+</html>

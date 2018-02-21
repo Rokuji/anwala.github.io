@@ -1,0 +1,321 @@
+https://doeeducacao.org.br/
+<!DOCTYPE html>
+<html class="no-js" lang="pt" >
+  <head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+	<title>Doação - Instituto Ayrton Senna</title>
+	<link href='https://fonts.googleapis.com/css?family=Dosis:200,300,400,500,600,700,800' rel='stylesheet' type='text/css'>
+	
+	<link rel="stylesheet" type="text/css" href="https://doeeducacao.org.br/css/libraries.min.css"/>
+	<link rel="stylesheet" type="text/css" href="https://doeeducacao.org.br/css/app.min.css"/>
+
+	<script type="text/javascript" src="https://doeeducacao.org.br/js/adm/modernizr.min.js"></script>
+	<script type="text/javascript" src="https://doeeducacao.org.br/js/doacao.libs.min.js"></script>
+	<script>
+	$(function() {
+		$.language = 'por';
+		$.url = 'https://doeeducacao.org.br/'
+	});
+	</script>
+			  
+		  	<script src='https://www.google.com/recaptcha/api.js?hl=pt-BR'></script>
+		  
+	
+		
+
+		
+			<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MGWWB8"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+  <script>
+  if (document.location.pathname == "/"){
+  	(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MGWWB8');
+	console.log("Disparo inicio G.A.");
+  } else {
+  	console.log("Não Disparo inicio G.A.");
+  }
+</script>
+<!-- End Google Tag Manager -->
+			  </head>
+
+
+<body>
+	<div class="off-canvas-wrap" data-offcanvas="">
+		<div class="inner-wrap"><!-- /////
+			Header
+			-->
+			<aside class="left-off-canvas-menu">
+				<ul class="off-canvas-list">
+					<li><label>Instituto Ayrton Senna &middot; Doação</label></li>
+										<li><a href="/login">Já sou Doador</a></li>
+										<li><a href="#" data-reveal-id="modal-contato">Fale Conosco</a></li>
+					<li><label>Idioma / Language</label></li>
+					<li>
+						<select name="language" id="language">
+							<option value="por">PT</option>
+							<option  value="eng">EN</option>
+						</select>
+					</li>
+				</ul>
+			</aside>
+
+			<div id="header" class="small-12">
+				<div class="row small-collapse medium-uncollapse">
+					<div class="small-6 small-push-1 medium-4 large-3 columns left">
+						<div id="instituto-ayrton-senna">
+							<a href="/"></a>						</div>
+					</div>
+					<div class="small-5 medium-2 large-3 columns left seal small-text-right">
+											</div>
+					<div class="show-for-medium-up small-12 medium-6 columns right login">
+													<a href="/login" class="button small info right">Já sou Doador</a>												<a class="button small success right" href="#" data-reveal-id="modal-contato">Fale Conosco</a>
+						<div class="small-2 right">
+							<select name="language" id="language">
+								<option value="por">PT</option>
+								<option  value="eng">EN</option>
+							</select>
+						</div>
+					</div>
+					<div class="show-for-small-only small-12 columns">
+						<a href="#" class="left-off-canvas-toggle button small info expand">MENU</a>
+					</div>
+				</div>
+			</div>
+
+			<!-- /////
+			Main Content
+			-->
+
+			<!-- /////
+Bem-vindo
+-->
+
+<div id="main-box">
+	<div id="bem-vindo" class="row">
+		<h1 class="title"><p><span style="color:#000000"><strong>Bem-vindo</strong></span></p>
+</h1>
+		<p class="subtitle"></p>
+		<form action="/" id="UserInicioForm" method="post" accept-charset="utf-8"><div style="display:none;"><input type="hidden" name="_method" value="POST"/></div>						<button name="PF" class="button" type="submit">Pessoa <br />Física</button>            <button name="PJ" class="button" type="submit">Pessoa<br>Jurídica</button>					</form>		<div class="small-10 small-centered columns">
+					</div>
+	</div>
+	﻿<div id="background-image" data-interchange="[/files/configuracao/background_site_dpf/1/mobile_bg_formulario.jpg, (retina)], [/files/configuracao/background_site_dpf/1/tablet_bg_formulario.jpg, (medium-only)], [/files/configuracao/background_site_dpf/1/medium_bg_formulario.jpg, (medium)], [/files/configuracao/background_site_dpf/1/big_bg_formulario.jpg, (xlarge)]"></div></div>
+			<!-- /////
+			Footer
+			-->
+			<div id="footer" class="row small-collapse">
+				<div id="usps">
+					<div class="row" data-equalizer>
+						<div class="small-text-justify small-12 medium-4 columns" data-equalizer-watch>
+							<i class="sprite-site-seguro"></i><h3>Site 100% Seguro</h3>
+							<!--<img src="/images/icone-certificado-seguranca-ias-doacoes.png" width="180" alt=""/>-->
+							<!-- Begin DigiCert site seal HTML -->
+							<div id="DigiCertClickID_znIIweHc" data-language="en_US">
+							<a href="https://www.digicert.com/ssl-certificate.htm"><img src="/images/certificado-de-seguranca-digicert.png" alt=""/></a>
+							</div>
+							<!-- End DigiCert site seal HTML -->
+							<hr class="show-for-small-only">
+						</div>
+						<div class="small-text-justify small-12 medium-4 columns" data-equalizer-watch>
+							<i class="politica-privacidade"></i><h3>Política Privacidade</h3>
+							<p>
+			            <a href="#">Suas informações cadastrais e seus dados não serão comercializados, alugados ou transferidos a terceiros. Respeitamos as boas práticas para envio de comunicados, boletins e newsletters  via e-mail.</a>
+								<!--<a href="https://www.google.com.br/maps/place/R.+Dr.+Fernandes+Coelho,+85+-+Pinheiros,+S%C3%A3o+Paulo+-+SP,+05423-040/@-23.568457,-46.6904664,18z/data=!4m2!3m1!1s0x94ce570ac84eb87d:0xbe5ecc51abf1c55a">Rua Dr. Fernandes Coelho, 85<br>
+							Pinheiros - São Paulo - SP<br>
+							05423-040 - Brasil</a>--></p>
+							<hr class="show-for-small-only">
+						</div>
+						<div class="small-text-justify small-12 medium-4 columns" data-equalizer-watch>
+							<i class="sprite-contato"></i><h3>Contato</h3>
+							<p><a href="mailto:doacao@ias.org.br">E-mail: doacao@ias.org.br</a><br>
+							<a href="tel:+551129743062">Telefone: 11 2974-3062</a></p>
+						</div>
+					</div>
+				</div>
+				<div id="credits">
+					<div class="row">
+						<ul>
+							<li><a href="#">Copyright © Instituto Ayrton Senna 2017 | TODOS OS DIREITOS RESERVADOS.</a></li>
+							<li style="font-size: small;margin-left: 5%;">Todo o conteúdo do site, fotos, imagens, logotipos, marcas, dizeres, som, software, layout, aqui veiculados são de propriedade exclusiva do Instituto Ayrton Senna. É vedada qualquer reprodução, total ou parcial, de qualquer elemento de identidade, sem expressa autorização. A violação de qualquer direito mencionado implicará na responsabilização cível e criminal nos termos da Lei.</li>
+							<li style="display: none !important;"><a target="_blank" href="http://www.dominidesign.com.br/?utm_source=site-doacao-ias&utm_medium=referral&utm_campaign=sites-clientes">Desenvolvido por <span class="domini-digital"></span></a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+
+			<!-- Modal contato por e-mail -->
+				<div class="row">
+		<!-- Reveal Modals begin -->
+		<div id="modal-contato-resposta" class="small-8 columns reveal-modal alert-box text-center" data-reveal>
+			<div class="small-12">
+				<div id="success-msg" class="hide">
+					<p>Sua mensagem foi enviada com sucesso, em breve nossa equipe entrará em contato com você.</p>
+					<small>Você também pode entrar em contato por telefone: 11 2974-3062.</small>
+				</div>
+				<div id="error-msg" class="hide">
+					<p>Ocorreu um erro no envio da sua mensagem, tente novamente mais tarde..</p>
+					<small>Você também pode entrar em contato por telefone: 11 2974-3062.</small>
+				</div>
+			</div>
+			<a class="close-reveal-modal">&#215;</a>
+		</div>
+		<!-- Reveal Modals end -->
+	</div>
+
+	<div class="row">
+		<!-- Reveal Modals begin -->
+		<div id="modal-contato" class="small-8 columns reveal-modal alert-box info text-center" data-reveal>
+			<form action="#" class="row" id="formFaleConosco" data-abide="ajax">
+				<div class="small-12">
+					<p class="lead">Para dúvidas, sugestões, críticas ou informações, entre em contato conosco. Será um prazer ouví-lo.</p>
+				</div>
+
+				<div class="small-12">
+					<input type="text" name="contato-nome" value="" placeholder="Nome" required>
+					<small class="error">Campo Obrigatório</small>
+				</div>
+
+				<div class="small-12">
+					<div class="row">
+						<div class="small-6 columns">
+							<input type="text" name="contato-email" value="" placeholder="Email" required pattern='email'>
+					    <small class="error">Campo Obrigatório</small>
+						</div>
+						<div class="small-6 columns">
+							<input type="tel" name="contato-telefone" value="" placeholder="Telefone">
+					    <small class="error">Campo Obrigatório</small>
+						</div>
+					</div>
+				</div>
+
+				<div class="small-12">
+					<!-- <input type="text" name="contato-assunto" value="" placeholder="Assunto" required> -->
+					<select required name="contato-assunto" id="contatoAssunto">
+						<option selected disabled value="">Assunto</option>
+													<option data-recipient="doacao@ias.org.br" value="Dúvidas">Dúvidas</option>
+													<option data-recipient="doacao@ias.org.br" value="Reclamação">Reclamação</option>
+													<option data-recipient="doacao@ias.org.br" value="Comentários">Comentários</option>
+											</select>
+					<small class="error">Campo Obrigatório</small>
+				</div>
+
+				<input type="hidden" name="data[recipient]" id="recipientEmail"/>				<div class="small-12">
+					<textarea name="contato-mensagem" id="" cols="30" rows="10" placeholder="Escreva sua mensagem" required></textarea>
+					<small class="error">Campo Obrigatório</small>
+				</div>
+
+				<div class="small-12">
+					<div class="row">
+						<div class="small-12 medium-6 columns">
+							<input type="submit" class="button small-12" value="Enviar">
+						</div>
+						<div class="small-12 medium-6 columns">
+							<button class="close-reveal-modal button small-12">Cancelar</button>
+						</div>
+					</div>
+				</div>
+
+			</form>
+		</div>
+		<!-- Reveal Modals end -->
+	</div>
+
+<script type="text/javascript">
+	$(document).ready(function(){
+		$('#contatoAssunto').change(function(event) {
+			var recipient = $(this).find('option:selected').data('recipient');
+			$('#recipientEmail').val(recipient);
+		});
+
+		function respostaModal($status){
+			if ($status == 'success') {
+				$('#modal-contato-resposta #error-msg').addClass('hide');
+				$('#modal-contato-resposta #success-msg').removeClass('hide');
+				$('#modal-contato-resposta').removeClass('alert').addClass('success');
+			} else if($status == 'error'){
+				$('#modal-contato-resposta #success-msg').addClass('hide');
+				$('#modal-contato-resposta #error-msg').removeClass('hide');
+				$('#modal-contato-resposta').removeClass('success').addClass('alert');
+			};
+
+			$('#modal-contato').foundation('reveal', 'close');
+			closeMyModal = 1;
+			$(document).bind('closed.fndtn.reveal', '[data-reveal]', function() {
+				if (closeMyModal <= 1) {
+					$('#modal-contato-resposta').foundation('reveal', 'open');
+				  closeMyModal ++;
+				};
+			});
+		};
+
+		$("#formFaleConosco").on('valid', function(event) {
+			event.preventDefault();
+			var dados = $(this).serializeArray();
+
+			// console.log(JSON.stringify(dados));
+			// return;
+
+			$.ajax({
+				type: 'POST',
+				url: '/paginas/fale_conosco',
+				data: dados,
+				dataType: 'JSON',
+				success: function(data){
+
+					if (data.retorno == true) {
+						respostaModal('success');
+					}
+				},
+				error: function(data){
+					respostaModal('error');
+				}
+			});
+		});
+
+	});
+</script>
+			
+			
+	<script type="text/javascript" src="/js/adm/foundation.min.js"></script>
+	<script type="text/javascript" src="/js/app.js"></script>
+			<a class="show-for-small-only exit-off-canvas"></a>
+		</div>
+	</div>
+
+	
+		
+		        
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MGWWB8"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+  <script>
+  if (document.location.pathname != "/" && document.location.pathname != "/complemento" && document.location.pathname != "/agradecimento" && document.location.pathname != "/valores" 
+      && document.location.pathname != "/doacao"){
+  	(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MGWWB8');
+	console.log("Disparo Footer G.A.");
+  } else {
+  	console.log("Não Disparo Footer G.A.");
+  }
+</script>
+<!-- End Google Tag Manager -->
+        
+
+        
+		
+	
+
+
+
+
+</body>
+</html>

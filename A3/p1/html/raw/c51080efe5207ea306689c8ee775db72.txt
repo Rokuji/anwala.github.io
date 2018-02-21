@@ -1,0 +1,283 @@
+https://www.globalcitizen.org/en/festival/2016/outcomes/
+<!DOCTYPE html><!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7"><![endif]--><!--[if IE 7]><html class="no-js lt-ie9 lt-ie8"><![endif]--><!--[if IE 8]><html class="no-js lt-ie9"><![endif]--><!--[if gt IE 8]><!--><html class="no-js"><!--<![endif]--><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><title>
+  Global Citizen Festival 2016 - Outcomes
+</title><meta name="description" content=""><meta name="viewport" content="width=device-width, initial-scale=1, minimal-ui"><meta name="p:domain_verify" content="99348f341d1a40276c6b4960e7997c2f"/><meta name="apple-itunes-app" content="app-id=990655529"><meta name="google-play-app" content="app-id=lr.globalcitizen.com"><link rel="canonical" href=https://www.globalcitizen.org/en/festival/2016/outcomes/ /><link rel="shortcut icon" href="https://static.globalcitizen.org/static/img/favicon.fb497794bcd4.ico"><link rel="apple-touch-icon" href="https://static.globalcitizen.org/static/img/phone-icon.32b1a56e58d9.png"><link rel="apple-touch-icon" sizes="120x120" href="https://static.globalcitizen.org/static/img/120-phone-icon.959744338ceb.png"><link rel="apple-touch-icon" sizes="152x152" href="https://static.globalcitizen.org/static/img/152-phone-icon.cddee36fd645.png"><link rel="apple-touch-icon" sizes="180x180" href="https://static.globalcitizen.org/static/img/180-phone-icon.1f80ef773293.png"><script>
+      document.documentElement.setAttribute('data-useragent',  navigator.userAgent);
+      document.documentElement.setAttribute('data-iframe', !!window.frameElement);
+      if (window.frameElement) {
+        var parentUrl = window.parent.location.pathname;
+        var urlContainsQueryParams = window.location.href.match(/\?/);
+        var queryString = (urlContainsQueryParams ? '&' : '?') + "parent=" + encodeURI(parentUrl);
+        var newUrl = window.location.href + queryString;
+        window.history.replaceState(null, null, newUrl);
+      }
+    </script><link href="https://static.globalcitizen.org/static/css/screen.17c6a6416b49.css" rel="stylesheet" type="text/css" media="screen,projection" /><link href="https://static.globalcitizen.org/static/css/vendor.02fecf65f02c.css" rel="stylesheet" type="text/css" /><style>
+  
+   
+      .headline__category--advocacy {
+        background-color: #D62027;
+      }
+    
+  
+   
+      .headline__category--opinion {
+        background-color: #3FB34F;
+      }
+    
+  
+   
+      .headline__category--partner {
+        background-color: #FF6600;
+      }
+    
+  
+   
+      .headline__category--impact {
+        background-color: #0072bc;
+      }
+    
+  
+   
+      .headline__category--rewards {
+        background-color: #706EBC;
+      }
+    
+  
+</style><script type="text/javascript" src="https://static.globalcitizen.org/static/js/jquery.54322fed5053.js" charset="utf-8"></script><script defer type="text/javascript" src="https://static.globalcitizen.org/static/js/vendor.ba683955cb4f.js" charset="utf-8"></script><script type="text/javascript" src="https://static.globalcitizen.org/static/js/app.b924b1c790ad.js" defer></script><link rel="stylesheet" href="https://static.globalcitizen.org/static/css/vendor/intlTelInput.e92b630d8ffb.css"><link rel="stylesheet" href="https://static.globalcitizen.org/static/css/vendor/smart-app-banner.8f738b30f3ff.css"><link rel="stylesheet" href="https://static.globalcitizen.org/static/css/cms_pages/festival.decf17f1007c.css" /><link rel="stylesheet" href="https://static.globalcitizen.org/static/css/cms_pages/festival-overrides.b2f860aec7ff.css" /><link rel="stylesheet" href="https://static.globalcitizen.org/static/css/cms_pages/festival-canada.cad8b60aa9ce.css" /><link rel="stylesheet" href="https://static.globalcitizen.org/static/css/cms_pages/vote-landing.11a71dcdac14.css" /><meta property="og:site_name" content="Global Citizen" /><meta property="og:type" content="article" /><meta property="og:image" content="https://static.globalcitizen.org/static/img/share.jpg" /><meta property="og:description" content="Together we are building a strong global community that’s ready to take action to help end extreme poverty" /><meta property="fb:app_id" content="167247350078234" /><meta property="article:publisher" content="https://www.facebook.com/GLBLCTZN" /><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:site" content="@glblctzn"><!-- Start Visual Website Optimizer Asynchronous Code --><script type='text/javascript'>
+      var _vwo_code=(function(){
+      var account_id=170957,
+      settings_tolerance=2000,
+      library_tolerance=2500,
+      use_existing_jquery=false,
+      // DO NOT EDIT BELOW THIS LINE
+      f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+    </script><!-- End Visual Website Optimizer Asynchronous Code --></head><body class=""><script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-33907097-1', {'alwaysSendReferrer': true, 'cookieDomain': 'none'});
+  
+  ga('set', 'page', window.location.pathname);
+  ga('send', 'pageview');
+
+</script><!--[if lt IE 9]><p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p><![endif]--><div id="registerDialogContainer"></div><dialog id="loginDialog" tabindex="-1" aria-hidden="true" class="fullscreen-fixed-dialog"><div class="shell"><div class="standard_dialog"><div class="dialog-header"><span class="close-dialog" aria-label="Close">&times;</span></div><div class="valign-wrapper"><div class="valign"><div class="register-flow"><div class="modal_actions"><h1 class="signup-prompt headline__section">
+                
+                  Welcome back!<br />
+                  Sign in to start taking action.
+                
+              </h1><p class="register-flow-link">Not a Global Citizen yet?
+                <a href="#" data-toggle="dialog" data-target="#registerDialog">Sign up</a></p><section class="social-auth signup-dialog"><button class="facebook-button btn social-button fb-button"><i class="signup-facebook-icon fa fa-facebook fa-fw"></i>Sign in  with Facebook</button><div class="horizontal-rule-with-text"><hr /><span>or</span><hr /></div></section><section class="sign_up signup-dialog"><form method="POST" action="/account/login/"><input type='hidden' name='csrfmiddlewaretoken' value='wrdRNy05T2GtSLrBanzmIZptxmuKxSuLa5rSFmDh5CvJnLtFrk77ClPPXEGSmIZY' /><fieldset><input id="id_username" name="username" placeholder="Email Address" type="email" required /><input id="id_password" name="password" placeholder="Password" type="password" required /><!-- the errors class is for js targeting --><p class="errors error"></p><button class="btn btn--secondary" type="submit">Submit</button></fieldset><fieldset class="text-left"><label for="id_remember_me"><input checked="checked" id="id_remember_me" name="remember_me" type="checkbox" /><span>Remember me</span></label><a href="/account/password/reset/" id="forgotPassword">Forget your password?</a></fieldset></form></section></div><!-- end modal actions --></div><!-- end login-flow --></div><!-- end valign --></div><!-- end valign-wrapper --></div><!-- end standard-dialog--></div><!-- end shell --></dialog><dialog id="facebookRerequestDialog" class="one-pane" tabindex="-1" aria-hidden="true"><div class="shell"><div class="standard_dialog"><div class="dialog-header"><span class="close-dialog" aria-label="Close">&times;</span><img class="dialog-logo" src="https://static.globalcitizen.org/static/img/gc_logo.11b725af7068.png" alt="Global Citizen"/></div><div class="modal_actions"><p>
+          Thanks for signing up as a global citizen. In order to create your account we need you to provide your email address. You can check out our <a href='/about/privacy-policy'>Privacy Policy</a> to see how we safeguard and use the information you provide us with. If your Facebook account does not have an attached e-mail address, you'll need to add that before you can sign up.
+        </p><button class="facebook-button btn social-button fb-button"><i class="signup-facebook-icon fa fa-facebook fa-fw"></i>Rerequest  with Facebook</button></div></div></div></dialog><dialog id="deactivatedDialog" class="one-pane" tabindex="-1" aria-hidden="true"><div class="shell"><div class="standard_dialog"><div class="dialog-header"><span class="close-dialog" aria-label="Close">&times;</span><img class="dialog-logo" src="https://static.globalcitizen.org/static/img/gc_logo.11b725af7068.png" alt="Global Citizen"/></div><div class="modal_actions"><p><strong>This account has been deactivated.</strong></p><p>
+          Please contact us at <a href='mailto:contact@globalcitizen.org'>contact@globalcitizen.org</a> if you would like to re-activate your account.
+        </p></div></div></div></dialog><div id="root" class="container  vote-landing "><div><section><div class="static-page"><!-- BEGIN CMS CONTENT --><!-- Container Structure Started --><div class="container festival"><header class="cf attach-iframe-container"><h1 class="global-citizen-logo"><a href="/">GL<span>O</span>BAL CITIZEN</a></h1><nav><a href="#" class="hamburger"><span></span><span></span><span></span></a><ul class="banner-nav"><li class="vote-nav-logo"><a href="#featured-articles-link" class="nav-logo smooth-scroll-to-anchor">Featured stories</a></li><li><a href="#event-list-link" class="smooth-scroll-to-anchor">Videos</a></li><li><a href="#link-list-link" class="smooth-scroll-to-anchor">About us</a></li><li><a href="#learn-more" class="smooth-scroll-to-anchor">Learn more</a></li></ul></nav><div class="sign-in-up"><span id="languageSelectContainer"></span><div id="Nav"></div></div></header><!-- Banner Structure Started --><div class="festival-banner"><div><style type="text/css">#root.vote-landing .festival-banner .banner-text {
+    top: calc(50% - 81px);
+}
+#root.vote-landing .festival-banner .banner-text .banner-headline {
+    line-height: 50px;
+}
+@media (max-width: 599px){
+    #root.vote-landing .festival-banner .banner-text .banner-headline {
+        line-height: 35px;
+    }
+}
+</style><div class="responsive-asset-wrapper" style="background-image:url('https://media.globalcitizen.org/thumbnails/39/49/3949a3e0-d382-4ab8-9d44-6fa8ec0e5318/gcfestival_lander.png__968x640_q85_crop_subsampling-2_upscale.png');"><div class="banner-text"><h1 class="banner-headline">Global Citizen Festival 2016</h1></div></div><!-- end responsive asset wrapper--></div></div><!-- Banner Structure End --><!-- Main Structure Started --><main><!-- introduction content block --><section class="festival-info content-wrapper cf"><span class="section-anchor-link" id="festival-info-link"></span><div class="wrapper"><div class="valign-wrapper"><div class="col-big valign"><h5 class="festival-info-headline">1.3 million actions leading to 47 commitments and announcements worth $1.9 billion that are set to reach 199 million people.</h5><p>Ahead of the Global Citizen Festival 2016, Global Citizens around the world took more than 1.3 million actions over three months to:</p><ul><li>Secure 20 new commitments 9 announcements and 14 calls to action to achieve the Global Goals for Sustainable Development.</li><li>Ensure accountability and delivery of 4 commitments made in the past on Global Citizen platforms.</li><li>Push forward 5 campaigns on which further action is needed to ensure that world leaders keep their promises to citizens.</li></ul><p>Together, these commitments and announcements are worth $1.9 billion, and are set to reach 199 million people.</p></div><!--end col big--></div><!--end valign wrapper--></div></section><!-- featured articles content block --><section class="content-wrapper cf featured-articles-wrapper"><span class="section-anchor-link" id="featured-articles-link"></span><div class="wrapper"><h5 class="festival-section-headline featured-articles-headline"><h1 class="event-list-headline headline__section">Featured Stories from the Festival</h1></h5><section class="featured-content-section"><div class="featured-content-item" style="background-image: url(https://media.globalcitizen.org/thumbnails/12/10/12101ed6-8b21-4595-bcd3-52b28bd7718e/rihanna_performing.jpg__1264x568_q85_crop_subsampling-2.jpg)"><a class="tile-link" href="/en/content/how-global-citizen-festival-2016-improving-world/"><section class="item-information"><h4><span class="headline__category headline__category--impact">Impact</span><span class="headline__topic--white">Citizenship</span></h4><h3 class="headline__primary">
+        
+        
+          How Global Citizen Festival 2016 Is Making the World a Better Place
+        
+      </h3></section></a></div><!-- end featured-content-item --><div class="secondary-content-section"><div class="featured-content-item" style="background-image: url(https://media.globalcitizen.org/thumbnails/50/9d/509d358e-1660-4572-b2b9-04025e39921d/alex.png__1264x568_q85_crop_subsampling-2.png)"><a class="tile-link" href="/en/content/5-most-powerful-moments-2016-global-citizen-festiv/"><section class="item-information"><h4><span class="headline__topic">Citizenship</span></h4><h3 class="headline__secondary">
+        
+          5 Most Powerful Moments of the 2016 Global Citizen Festival
+        
+      </h3></section></a></div><div class="featured-content-item" style="background-image: url(https://media.globalcitizen.org/thumbnails/b7/5d/b75d5bd5-d8f4-416f-b0dd-976cfdc6a622/priyanka_chris_martin_gcfestival_2016.jpg__1264x568_q85_crop_subsampling-2.jpg)"><a class="tile-link" href="/en/content/the-best-moments-of-global-citizen-festival-2016/"><section class="item-information"><h4><span class="headline__category headline__category--impact">Impact</span><span class="headline__topic">Citizenship</span></h4><h3 class="headline__secondary">
+        
+          The Very Best Moments of Global Citizen Festival 2016: Impact, Music, Celebs, and More
+        
+      </h3></section></a></div></div><!-- end secondary-content-section --></section><!-- end section --></div></section><!-- events list content block --><section class="events-wrapper event-list content-wrapper cf"><span class="section-anchor-link" id="event-list-link"></span><div class="wrapper"><div class="events-headline-wrapper"><div class="events-headline-wrapper"><style type="text/css">#root.vote-landing .event-list {
+    margin-top: 0px;
+    padding-top: 0px;
+</style><h1 class="event-list-headline headline__section">All the best videos from the festival</h1><div class="videoWrapper" style="position: relative; padding-bottom: 56.25%; padding-top: 25px; height: 0;"><iframe src="https://www.youtube.com/embed?listType=playlist&amp;list=PLPDkqknt-rAhtZB-w5N5f4TWLkyXRIPUz" height="380" style="max-width:100%; position:absolute; top:0; left:0; width:100%; height:100%;" allowfullscreen="" width="853" frameborder="0"></iframe></div></div></div><div class="event-list"></div></div></section><!-- end events wrapper --><section class="link-list-wrapper content-wrapper cf"><span class="section-anchor-link" id="link-list-link"></span><div class="wrapper"><div class="col-small"><h5 class="festival-section-headline link-left-headline">About Global Citizen</h5><ol><li><a href="/about/who-we-are/" class="link" target="_blank"><span class="link-title">Who we are</span><span class="link-description">We are a social action platform for a global generation that wants to solve the world’s biggest challenges</span></a></li><li><a href="/impact/" class="link" target="_blank"><span class="link-title">Our impact</span><span class="link-description">All your questions about Global Citizen's impact answered.</span></a></li><li><a href="/about/frequently-asked-questions/" class="link" target="_blank"><span class="link-title">FAQs</span><span class="link-description">For all your questions about Global Citizen, the Global Citizen Festival and our programs</span></a></li><li><a href="https://www.globalcitizen.org/partners/" class="link" target="_blank"><span class="link-title">Our partners</span><span class="link-description">Learn more about how our partner organizations are supporting the movement.</span></a></li></ol></div><div class="col-big"><h5 class="festival-section-headline link-right-headline">Festival press coverage</h5><div class="col-half"><style type="text/css">#root.vote-landing .col-half {
+    padding-top: 0px;
+}
+</style><ol><li><a href="http://www.economist.com/blogs/prospero/2016/10/smartphone-philanthropy" class="link" target="_blank"><span class="link-title">Global Citizen Festival: a mash-up of music fans, bands and prime ministers</span><span class="link-description">The Economist | Oct 1st 2016</span></a></li><li><a href="http://www.newyorker.com/culture/culture-desk/making-change-at-the-global-citizen-music-festival" class="link" target="_blank"><span class="link-title">“Making Change” at the Global Citizen Music Festival</span><span class="link-description">The New Yorker | Sept 26 2016</span></a></li><li><a href="https://mic.com/articles/155063/with-rihanna-s-aid-global-citizen-fest-nails-world-leaders-for-not-working-to-end-poverty" class="link" target="_blank"><span class="link-title">With Rihanna's aid, Global Citizen calls out world leaders for weak efforts to end poverty</span><span class="link-description">Mic.com | Sept 25 2016</span></a></li><li><a href="https://www.yahoo.com/music/rihanna-kendrick-metallica-play-global-citizen-fest-044759053.html" class="link" target="_blank"><span class="link-title">Rihanna, Kendrick, Metallica Play at Global Citizen Fest</span><span class="link-description"><br>Associated Press | Sept 25 2016</span></a></li></ol></div><div class="col-half"><ol><li><a href="http://www.dailymail.co.uk/wires/afp/article-3806295/Action-vowed-refugees-concert-led-Metallica-Rihanna.html" class="link" target="_blank"><span class="link-title">Action vowed for refugees in concert led by Metallica, Rihanna</span><span class="link-description">Agence France-Presse | Sept 25 2016</span></a></li><li><a href="http://www.ew.com/article/2016/09/25/fifth-annual-global-citizen-festival-highlights" class="link" target="_blank"><span class="link-title">5 highlights from this year's Global Citizen Festival</span><span class="link-description">Entertainment Weekly | Sept 25 2016</span></a></li><li><a href="http://www.rollingstone.com/music/news/watch-eddie-vedder-chris-martins-joint-global-citizen-set-w441880" class="link" target="_blank"><span class="link-title">Watch Eddie Vedder, Chris Martin's Joint Global Citizen Set<br></span><br><span class="link-description">Rolling Stone | Sept 25 2016</span></a></li><li><a href="#" class="link" target="_blank"><span class="link-title">Rihanna gets emotional in speech at Global Citizen Festival 2016</span><span class="link-description">Entertainment News | Sept 26 2016</span></a></li></ol></div></div></div></section><!-- end link list wrapper --><!-- article list contnet block --><section class="stories-wrapper content-wrapper cf"><div class="wrapper"><span class="section-anchor-link" id="articles-list-link"></span><h5 class="festival-section-headline stories-headline"><h1 id="learn-more" class="event-list-headline headline__section">Learn more</h1></h5><div class="articles-recent"><ol><li class="article-recent"><div class="article-recent-image"><a href='/en/content/gucci-chime-for-change-promote-gender-equality-201/' class='make-relative'><img src='https://media.globalcitizen.org/thumbnails/41/0d/410d55dc-a5ec-4361-8190-d90b0cd972d4/gcf-48.jpg__264x159_q85_crop_subsampling-2.jpg' alt="Article: Gucci and CHIME FOR CHANGE Promote Gender Equality at the 2016 Global Citizen Festival"></a></div><!-- /.article-recent-image --><div class="article-recent-content"><a class="headline__topic--gray" href="/en/issue/women-girls/">Girls &amp; Women</a><h3 class="headline__third-tier"><a href='/en/content/gucci-chime-for-change-promote-gender-equality-201/'>
+          Gucci and CHIME FOR CHANGE Promote Gender Equality at the 2016 Global Citizen Festival
+        </a></h3><!-- /.article-title --><div class="article-recent-meta"><p><span class="article-recent__date">Sept. 28, 2016</span><span class='pipe'>|</span><a href="/en/partners/chime-for-change-founded-by-gucci/">CHIME FOR CHANGE</a></p></div><!-- /.article-meta --><div class="article-recent-entry"><p>
+          Gucci and CHIME FOR CHANGE #showup for gender equality. 
+          <a class="no-break" href="/en/content/gucci-chime-for-change-promote-gender-equality-201/"> Read more</a></p></div><!-- /.article-entry --></div><!-- /.article-recent-content --></li><li class="article-recent"><div class="article-recent-image"><a href='/en/content/hosts-dazzle-at-global-citizen-festival-2016-2/' class='make-relative'><img src='https://media.globalcitizen.org/thumbnails/89/61/8961c669-f078-492f-af13-3c41cad728b7/chelsea_hugh_jackman_gcfestival_2016.jpg__264x159_q85_crop_subsampling-2.jpg' alt="Article: Hosts Dazzle at Global Citizen Festival 2016"></a></div><!-- /.article-recent-image --><div class="article-recent-content"><a class="headline__topic--gray" href="/en/issue/citizenship/">Citizenship</a><h3 class="headline__third-tier"><a href='/en/content/hosts-dazzle-at-global-citizen-festival-2016-2/'>
+          Hosts Dazzle at Global Citizen Festival 2016
+        </a></h3><!-- /.article-title --><div class="article-recent-meta"><p>
+          
+            
+
+  By
+  
+    
+      <a class="author-link" href='/en/authors/meghan-werft/'>Meghan Werft</a><span class='pipe'>|</span><span class="article-recent__date">Sept. 26, 2016</span></p></div><!-- /.article-meta --><div class="article-recent-entry"><p>
+          Our stellar lineup of hosts made big announcements at this year’s Global Citizen Festival. 
+          <a class="no-break" href="/en/content/hosts-dazzle-at-global-citizen-festival-2016-2/"> Read more</a></p></div><!-- /.article-entry --></div><!-- /.article-recent-content --></li><li class="article-recent"><div class="article-recent-image"><a href='/en/content/headliners-at-global-citizen-festival/' class='make-relative'><img src='https://media.globalcitizen.org/thumbnails/c1/5d/c15d5ba0-1049-4808-a603-02c2c2f909fb/gcf-50.jpg__264x159_q85_crop_subsampling-2.jpg' alt="Article: ICYMI: These Headliners Rocked at Global Citizen Festival 2016 "></a></div><!-- /.article-recent-image --><div class="article-recent-content"><a class="headline__topic--gray" href="/en/issue/citizenship/">Citizenship</a><h3 class="headline__third-tier"><a href='/en/content/headliners-at-global-citizen-festival/'>
+          ICYMI: These Headliners Rocked at Global Citizen Festival 2016
+        </a></h3><!-- /.article-title --><div class="article-recent-meta"><p>
+          
+            
+
+  By
+  
+    
+      <a class="author-link" href='/en/authors/sydney-denmark/'>Sydney Denmark</a><span class='pipe'>|</span><span class="article-recent__date">Sept. 26, 2016</span></p></div><!-- /.article-meta --><div class="article-recent-entry"><p>
+          Highlights: Rihanna, Kendrick Lamar, Demi Lovato, Metallica, and Major Lazer in Central Park.
+          <a class="no-break" href="/en/content/headliners-at-global-citizen-festival/"> Read more</a></p></div><!-- /.article-entry --></div><!-- /.article-recent-content --></li><li class="article-recent"><div class="article-recent-image"><a href='/en/content/how-these-world-leaders-took-part-in-global-citize/' class='make-relative'><img src='https://media.globalcitizen.org/thumbnails/ea/2a/ea2a5810-e14c-43f2-ba1d-f8e769d450be/nancy_pelosi_gcfestival_2016.jpg__264x159_q85_crop_subsampling-2.jpg' alt="Article: World Leaders Took to Twitter to Celebrate Global Citizen Festival 2016"></a></div><!-- /.article-recent-image --><div class="article-recent-content"><a class="headline__topic--gray" href="/en/issue/citizenship/">Citizenship</a><h3 class="headline__third-tier"><a href='/en/content/how-these-world-leaders-took-part-in-global-citize/'>
+          World Leaders Took to Twitter to Celebrate Global Citizen Festival 2016
+        </a></h3><!-- /.article-title --><div class="article-recent-meta"><p>
+          
+            
+
+  By
+  
+    
+      <a class="author-link" href='/en/authors/phineas-rueckert/'>Phineas Rueckert</a><span class='pipe'>|</span><span class="article-recent__date">Sept. 26, 2016</span></p></div><!-- /.article-meta --><div class="article-recent-entry"><p>
+          Some leaders #ShowUp at GC Festival, while others #BeamIn from abroad.
+          <a class="no-break" href="/en/content/how-these-world-leaders-took-part-in-global-citize/"> Read more</a></p></div><!-- /.article-entry --></div><!-- /.article-recent-content --></li><li class="article-recent"><div class="article-recent-image"><a href='/en/content/global-citizen-tweets-gcfestival/' class='make-relative'><img src='https://media.globalcitizen.org/thumbnails/5f/b6/5fb6a179-fd01-41db-b9c0-82712aa9364f/stage_fans_lit_gcfestival_2016_social.jpg__264x159_q85_crop_subsampling-2.jpg' alt="Article: Here&#39;s What Global Citizens Everywhere Had to Say About the #GCFestival"></a></div><!-- /.article-recent-image --><div class="article-recent-content"><a class="headline__topic--gray" href="/en/issue/citizenship/">Citizenship</a><h3 class="headline__third-tier"><a href='/en/content/global-citizen-tweets-gcfestival/'>
+          Here&#39;s What Global Citizens Everywhere Had to Say About the #GCFestival
+        </a></h3><!-- /.article-title --><div class="article-recent-meta"><p>
+          
+            
+
+  By
+  
+    
+      <a class="author-link" href='/en/authors/phineas-rueckert/'>Phineas Rueckert</a><span class='pipe'>|</span><span class="article-recent__date">Sept. 26, 2016</span></p></div><!-- /.article-meta --><div class="article-recent-entry"><p>
+          Some of our favorite fan posts from the Global Citizen Festival.
+          <a class="no-break" href="/en/content/global-citizen-tweets-gcfestival/"> Read more</a></p></div><!-- /.article-entry --></div><!-- /.article-recent-content --></li><li class="article-recent"><div class="article-recent-image"><a href='/en/content/the-musical-moments-of-global-citizen-festival-on/' class='make-relative'><img src='https://media.globalcitizen.org/thumbnails/07/51/0751130b-2937-4190-a518-0f34ec0a1fb1/ig_shots_2016_gcfestival.jpg__264x159_q85_crop_subsampling-2.jpg' alt="Article: Some of the Best Musical Moments of Global Citizen Festival on Instagram"></a></div><!-- /.article-recent-image --><div class="article-recent-content"><a class="headline__topic--gray" href="/en/issue/citizenship/">Citizenship</a><h3 class="headline__third-tier"><a href='/en/content/the-musical-moments-of-global-citizen-festival-on/'>
+          Some of the Best Musical Moments of Global Citizen Festival on Instagram
+        </a></h3><!-- /.article-title --><div class="article-recent-meta"><p>
+          
+            
+
+  By
+  
+    
+      <a class="author-link" href='/en/authors/cassie-carothers/'>Cassie Carothers</a><span class='pipe'>|</span><span class="article-recent__date">Sept. 25, 2016</span></p></div><!-- /.article-meta --><div class="article-recent-entry"><p>
+          Rihanna finished out the night with a stunning show.
+          <a class="no-break" href="/en/content/the-musical-moments-of-global-citizen-festival-on/"> Read more</a></p></div><!-- /.article-entry --></div><!-- /.article-recent-content --></li></ol></div><div class="view-more-container"></div></div></section><!-- end stories-wrapper --><div class="wrapper"><!-- Partner Section Structure Started --><style type="text/css">.part-ners.content-wrapper {
+    border-top: 1px solid #000;
+    margin-top: 20px;
+}
+  .partner-section-icon li img{
+    max-width: 115px;
+  }
+@media screen and (max-width: 560px) {
+  .partner-section-icon li{
+    padding-bottom: 20px;
+  }
+}
+
+.static-page .partner-icons {
+    text-align: left;
+}
+
+.partners-secondary {
+    display: inline-block;
+    font-family: "MarkWebPro-Heavy-W03-Regular";
+    color: #000;
+    font-size: 16.62px;
+    font-weight: 300;
+    line-height: 24px;
+}
+
+.partner-section-icon li {
+    margin-right: 30%;
+    display: inline-block;
+    margin-left: 4%;
+}
+</style><div class="part-ners content-wrapper" style="border-top:0px;"><h1 class="event-list-headline headline__section">Partners</h1><div class="cf"><div class="partner-section"><span>Presented by</span><ul class="partner-section-icon"><li><a href="/en/partners/chime-for-change-founded-by-gucci/" target="_blank"><img title="Image - gucci-logo.png" src="https://media.globalcitizen.org/b1/03/b103fc12-1dca-4a34-bf32-1f7b214efe1d/001-gucci.png" alt="partner-img"></a></li><li><a href="/en/partners/chime-for-change-founded-by-gucci/" target="_blank"><img title="Image - Chime-logo.jpg" src="https://media.globalcitizen.org/a1/08/a1089a5c-ed07-4200-9b0f-34920e52d08f/002-chime.png" alt="partner-img"></a></li></ul></div><div class="partner-section"><span>Premier Media Partner</span><ul class="partner-section-icon"><li><a href="/en/partners/msnbc/" target="_blank"><img src="https://media.globalcitizen.org/f1/dd/f1ddb727-b1e1-43c6-bc9c-85a0e57ef0e8/003-msnbc.png" alt="partner-img"></a></li><li><a href="/en/partners/comcast-nbcuniversal/" target="_blank"><img src="https://media.globalcitizen.org/b8/13/b8134101-73a8-495a-adaf-6c39e4480979/004-comcast.png" alt="partner-img"></a></li></ul></div></div><h4 class="partners-secondary">Major Partners</h4><ul class="partner-icons"><li><a href="/en/partners/live-nation-entertainment/" target="_blank"><img src="https://media.globalcitizen.org/bb/f2/bbf22ea1-5db0-4e97-8c26-30808dd671bd/005-livenation.png" alt="partner-icon"></a></li><li><a href="/en/partners/johnson-johnson/" target="_blank"><img src="https://media.globalcitizen.org/d8/5b/d85bfc6b-4f87-41ad-afe2-f5bd163917c1/006-jj.png" alt="partner-icon"></a></li><li><a href="/en/partners/caterpillar-foundation/" target="_blank"><img src="https://media.globalcitizen.org/c9/3e/c93e598c-c45a-4a91-80e1-0089a7e9ea2c/007-caterpillar.png" alt="partner-icon"></a></li><li><a href="/en/partners/googles-made-with-code/" target="_blank"><img src="https://media.globalcitizen.org/b6/75/b675f2c4-503c-4302-8581-97c26ea990ed/008-mwc.png" alt="partner-icon"></a></li><li><a href="/en/partners/youtube/" target="_blank"><img src="https://media.globalcitizen.org/bb/4a/bb4a1e21-73dd-4803-b01e-ea2c6e5cb896/009-youtube.png" alt="partner-icon"></a></li><li><a href="/en/partners/citi/" target="_blank"><img src="https://media.globalcitizen.org/28/f0/28f0b9f1-4725-4c03-a153-7d3df636fa96/010-citi.png" alt="partner-icon"></a></li><li><a href="/en/partners/clear-channel-outdoor/" target="_blank"><img src="https://media.globalcitizen.org/16/54/165419b3-9968-4832-ac4c-c975579a4ccd/011-clearchannel.png" alt="partner-icon"></a></li><li><a href="/en/partners/iheartradio/" target="_blank"><img src="https://media.globalcitizen.org/7c/e4/7ce46ba7-62f6-4d16-8885-6be3bb37ad3b/012-iheartradio.png" alt="partner-icon"></a></li><li><a href="/en/partners/nyc-parks-department/" target="_blank"><img src="https://media.globalcitizen.org/8a/72/8a72e1f6-2c24-463c-a201-635e78dbf571/013-nycparks.png" alt="partner-icon"></a></li></ul><h4 class="partners-secondary">Associate Partners</h4><ul class="partner-icons"><li><img src="https://media.globalcitizen.org/cd/6c/cd6cbd18-5af9-40e2-a011-146de901272f/014-alexandani.png" alt="partner-icon"></li><li><a href="/en/partners/kirkland-ellis/" target="_blank"><img src="https://media.globalcitizen.org/aa/28/aa282e5b-bf80-4925-895f-79a24df16529/kirkland-200px.png" alt="partner-icon"></a></li><li><a href="/en/partners/riothouse/" target="_blank"><img src="https://media.globalcitizen.org/d7/85/d785b172-2edf-4377-a3e3-d82e1d26eb56/riothouse.png" alt="partner-icon"></a></li></ul><!-- Partner Section Structure Started --><!-- Main Structure End --></div></div></main><!-- Main Structure End --></div><script type="text/javascript" src="https://static.globalcitizen.org/static/js/cms-pages/festival-2016.2411f80a3fa8.js" charset="utf-8"></script></div></section></div><div id="root-footer"></div></div><div id="dialog-container"></div><footer><div class="footer-container"><div class="wrap"><div class="row primary"><div class="about"><ul><h5>ABOUT</h5><li><a href='/about/who-we-are'>Who We Are</a></li><li><a href='/about/impact'>Impact</a></li><li><a href='/about/frequently-asked-questions'>FAQ</a></li><li><a href='/about/contact-us'>Contact Us</a></li><li><a href='/about/jobs'>Jobs</a></li></ul></div><a href='/' class="home-link"><img src="https://static.globalcitizen.org/static/img/gc_footer_logo.fb6bf5fa6b68.png" alt=""></a></div><div class="row social"><div><h5>JOIN THE CONVERSATION</h5><ul class="inline social-media-icons"><li><a class="social-media-icons" href="https://www.facebook.com/GLBLCTZN" target="_blank"><i class="fa fa-facebook"></i></a></li><li><a class="social-media-icons" href="https://twitter.com/glblctzn" target="_blank"><i class="fa fa-twitter"></i></a></li><li><a class="social-media-icons" href="https://www.youtube.com/user/GlobalPovertyProject" target="_blank"><i class="fa fa-youtube"></i></a></li><li><a class="social-media-icons" href="https://www.instagram.com/glblctzn/" target="_blank"><i class="fa fa-instagram"></i></a></li><li><a class="social-media-icons" href="https://glblctzn.tumblr.com" target="_blank"><i class="fa fa-tumblr"></i></a></li></ul></div></div></div><div class="legal"><ul class="inline"><li><a href='/about/privacy-policy/'>Privacy</a></li><li><a href='/about/terms/'>Terms &amp; Conditions</a></li></ul><p class="copyright">&copy; 2012-2018 Global Poverty Project, Inc All Rights Reserved</p></div></div></footer><div id='canada-language-popover'></div><script language='javascript'>
+        $(function() {
+          ReactDOM.render(
+            React.createElement(CanadaLanguagePopover, {}),
+            document.getElementById('canada-language-popover')
+          );
+        });
+      </script><script type="text/javascript">
+    $(function() {
+      var container = document.getElementById('Nav');
+      var component = React.createElement(Nav, {
+        staticAssetPath: '/static/',
+        languageCodeInput: '#languageCode',
+        setLanguageForm: '#setLanguage'
+      });
+      ReactDOM.render(component, container);
+
+      $('.has-dd').on('click', function (event) {
+        $(this).toggleClass('active').next().toggleClass('visible');
+        event.preventDefault();
+      });
+    });
+  </script><script type="text/javascript">
+    $(function() {
+      var languageSelect = React.createElement(LanguageSelect, {});
+      ReactDOM.render(languageSelect, document.getElementById('languageSelectContainer'))
+
+      $('.language').on('click', function (event) {
+        $('.language ul').slideToggle().parent().toggleClass('active');
+        event.preventDefault();
+      });
+    });
+  </script><script>
+    window.onload = function() {
+      window.utils.smoothScroll(".smooth-scroll-to-anchor");
+    };
+  </script><script type="text/javascript">
+    window.fbAsyncInit = function() {
+      FB.init({
+        appId      : '167247350078234',
+        xfbml      : true,
+        version    : 'v2.8'
+      });
+    };
+    (function(d, s, id){ var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) {return;} js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/sdk.js"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));
+  </script><form style="display:none;" id="setLanguage" action="/i18n/setlang/" method="post"><input type='hidden' name='csrfmiddlewaretoken' value='wrdRNy05T2GtSLrBanzmIZptxmuKxSuLa5rSFmDh5CvJnLtFrk77ClPPXEGSmIZY' /><input name="next" type="hidden" value="/festival/2016/outcomes/" /><select id="languageCode" name="language"><option value="en" selected="selected">
+          English (en)
+        </option><option value="de">
+          Deutsch (de)
+        </option><option value="fr">
+          français (fr)
+        </option><option value="es">
+          español (es)
+        </option></select></form><script type="text/javascript">
+    $(function() {
+      DialogUtils.polyfillDialogs();
+
+          var shadowUserClient = new ShadowUserClient();
+          shadowUserClient.getShadowUser(function(props) {
+            props.shadowUserClient = shadowUserClient;
+
+            if (window.ga !== undefined) {
+              props.analytics = ga;
+            } else {
+              props.analytics = function(action, actionType, actionLocation) {
+                console.log("action: " + action);
+                console.log("actionType: " + actionType);
+                console.log("actionLocation: " + actionLocation);
+              }
+            };
+
+            var reactRegisterDialog = React.createElement(RegisterDialog, props);
+            ReactDOM.render(reactRegisterDialog, document.getElementById("registerDialogContainer"));
+        });
+    });
+  </script><div id='cookie-warning'></div><script>
+   $(function() {
+     var cookieWarning = React.createElement(CookieWarning, {});
+     ReactDOM.render(cookieWarning, document.getElementById('cookie-warning'));
+   });
+  </script><script>
+  $(document).ready(function($) {
+	  $('a')
+		  .filter('[href^="http"]')
+		  .not('[href*="' + window.location.host + '"]')
+		  .attr('rel', 'noopener noreferrer')
+		  .attr('target', '_blank');
+  });
+  </script></body></html>
