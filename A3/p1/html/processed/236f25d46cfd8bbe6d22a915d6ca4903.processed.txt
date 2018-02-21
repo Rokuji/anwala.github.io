@@ -1,0 +1,44 @@
+http://pr.aljazeera.com/post/156750610455/former-fbi-agent-tells-al-jazeera-muslim-ban-a
+var __pbpa = true;var translated_warning_string = 'Warning: Never enter your Tumblr password unless \u201chttps://www.tumblr.com/login\u201d\x0ais the address in your web browser.\x0a\x0aYou should also see a green \u201cTumblr, Inc.\u201d identification in the address bar.\x0a\x0aSpammers and other bad guys use fake forms to steal passwords.\x0a\x0aTumblr will never ask you to log in from a user\u2019s blog.\x0a\x0aAre you absolutely sure you want to continue?';Former FBI agent tells Al Jazeera Muslim ban a...figure{margin:0}.tmblr-iframe{position:absolute}.tmblr-iframe.hide{display:none}.tmblr-iframe--amp-cta-button{visibility:hidden;position:fixed;bottom:10px;left:50%;transform:translateX(-50%);z-index:100}.tmblr-iframe--amp-cta-button.tmblr-iframe--loaded{visibility:visible;animation:iframe-app-cta-transition .2s ease-out}
+      // test for svg as image @see http://css-tricks.com/test-support-svg-img/
+      if(document.implementation.hasFeature("http://www.w3.org/TR/SVG11/feature#Image", "1.1")) {
+        document.documentElement.className += " svgasimg";
+      }
+
+    
+	{"@type":"SocialMediaPosting","url":"http:\/\/pr.aljazeera.com\/post\/156750610455\/former-fbi-agent-tells-al-jazeera-muslim-ban-a","mainEntityOfPage":true,"datePublished":"2017-02-03T08:16:16-05:00","author":"aljazeerapr","image":"http:\/\/78.media.tumblr.com\/35dc91fccdaeb3a30030070f35be55eb\/tumblr_inline_okshlwpwJY1rwl04r_540.jpg","headline":"Former FBI agent tells Al Jazeera Muslim ban a gift to ISIL propaganda","articleBody":"\u2022 Ali Soufan says the Trump administration\u2019s Muslim ban is couched in \u201canti-Muslim sentiments\u201d\n\u2022 Proclaims that torture is \u201canti-American and will never happen\u201d\n\u2022 Warns that Trump\u2019s travel ban \u201cworks directly\u201d into ISIL\u2019s propaganda narrative\n(Washington, D.C. \u2013 3rd, February) - In an interview with...","@context":"http:\/\/schema.org"}Al Jazeera PRHomeAboutAwardsContact UsArchiveAl Jazeera PRهنا الجزيرةSearchFormer FBI agent tells Al Jazeera Muslim ban a gift to ISIL propaganda
+                                        February 3, 2017
+                                    Ali Soufan says the Trump administration’s Muslim ban is couched in
+“anti-Muslim sentiments”Proclaims that torture is “anti-American and will never happen”Warns that Trump’s travel ban “works directly” into ISIL’s propaganda
+narrative(Washington, D.C. – 3rd, February) - In an interview with Al
+Jazeera English’s current affairs show UpFront, Ali Soufan, a former FBI
+agent and interrogator, said the Trump
+administration’s decision to ban citizens
+from seven Muslim majority countries from entering the United States “does not
+help our national security interests”. Soufan
+told UpFront host Mehdi Hasan, the ban
+“actually works directly into Al Qaeda and the so-called Islamic State’s propaganda”.Asked
+about the motives behind the implementation of the
+ban, Soufan said, he believed “anti-Muslim sentiments” played
+a role.“It
+is very difficult to say that there is not an anti-Muslim sentiment in these
+policies to cater to a specific base that they probably have in Washington,” he
+said.  During the interview, Soufan — who has interrogated Al Qaeda members without the use of torture — reacted to President Donald Trump’s
+pronouncement that torture was an effective tool in the fight against ISIL and
+that the practice should be reimplemented.“We have so
+many different investigations from the CIA, the FBI, the Department of Defense,
+the Armed Services Committee, the Senate Select Committee of Intelligence and
+we have a total agreement, it [torture] did
+not prevent one single terrorist attack in the United States,” he said.Soufan
+also pointed out that to bring back the practice, the president would need
+Congress to overturn a law banning torture. “That
+is so anti-American and it will never happen.”The full show will be available through this link: www.aljazeera.com/upfrontNote to Editors·      
+This UpFront interview with Ali Soufan airs Friday February
+3rd at 19:30GMT.·      
+The full show will be available through this link: www.aljazeera.com/upfront from 19:30GMT onwards.·      
+If using quotes please credit Al Jazeera English and UpFront
+and please add this link to online copy www.aljazeera.com/upfront·      
+Follow UpFront on Twitter@AJUpFront·       For more
+information, or media enquiries, please contact: pressoffice@aljazeera.netDonald TrumpfbiAli SouflanMehdi Hasanal jazeera englishAlJazeera AJUpFrontRead morekalynroseanne liked this                                    thefuryoffeminist reblogged this from aljazeerapr randomthoughtandstuff reblogged this from aljazeerapr thefuryoffeminist liked this                                    armonah liked this                                    aljazeerapr posted this                                                                        FacebookTwitterAboutThe Public Relations team at Al Jazeera sharing what's new and exclusive.
+                    function recent_tweets(data) { window.tweets_data = data; }
+                People I followAl Jazeera PRHomeAboutAwardsContact UsArchive© Copyright Al Jazeera 2012–2018

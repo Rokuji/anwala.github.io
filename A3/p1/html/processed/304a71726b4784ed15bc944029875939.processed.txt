@@ -1,0 +1,456 @@
+https://www.doi.gov/pressreleases/energy-secretary-moniz-and-interior-secretary-jewell-announce-new-national-offshore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Energy Secretary Moniz and Interior Secretary Jewell Announce New National Offshore Wind Strategy to Drive Deployment | U.S. Department of the Interior
+
+@import url("https://www.doi.gov/sites/doi.opengov.ibmcloud.com/themes/contrib/omega/omega/css/modules/system/system.base.css?p4c8t0");
+@import url("https://www.doi.gov/sites/doi.opengov.ibmcloud.com/themes/contrib/omega/omega/css/modules/system/system.menus.theme.css?p4c8t0");
+@import url("https://www.doi.gov/sites/doi.opengov.ibmcloud.com/themes/contrib/omega/omega/css/modules/system/system.messages.theme.css?p4c8t0");
+@import url("https://www.doi.gov/sites/doi.opengov.ibmcloud.com/themes/contrib/omega/omega/css/modules/system/system.theme.css?p4c8t0");
+@import url("https://www.doi.gov/sites/doi.opengov.ibmcloud.com/modules/contrib/calendar/css/calendar_multiday.css?p4c8t0");
+@import url("https://www.doi.gov/profiles/openpublic/modules/contrib/date/date_api/date.css?p4c8t0");
+@import url("https://www.doi.gov/profiles/openpublic/modules/contrib/date/date_popup/themes/datepicker.1.7.css?p4c8t0");
+@import url("https://www.doi.gov/profiles/openpublic/modules/contrib/date/date_repeat_field/date_repeat_field.css?p4c8t0");
+@import url("https://www.doi.gov/modules/node/node.css?p4c8t0");
+@import url("https://www.doi.gov/sites/doi.opengov.ibmcloud.com/themes/contrib/omega/omega/css/modules/field/field.theme.css?p4c8t0");
+@import url("https://www.doi.gov/profiles/openpublic/modules/contrib/views/css/views.css?p4c8t0");
+@import url("https://www.doi.gov/sites/doi.opengov.ibmcloud.com/themes/contrib/omega/omega/css/modules/search/search.theme.css?p4c8t0");
+@import url("https://www.doi.gov/sites/doi.opengov.ibmcloud.com/themes/contrib/omega/omega/css/modules/user/user.base.css?p4c8t0");
+@import url("https://www.doi.gov/sites/doi.opengov.ibmcloud.com/themes/contrib/omega/omega/css/modules/user/user.theme.css?p4c8t0");
+@import url("https://www.doi.gov/sites/doi.opengov.ibmcloud.com/modules/contrib/ckeditor_image2/ckeditor_image2.theme.css?p4c8t0");
+@import url("https://www.doi.gov/sites/doi.opengov.ibmcloud.com/modules/contrib/ckeditor_image2/ckeditor_image2.responsive.css?p4c8t0");
+
+
+@import url("https://www.doi.gov/sites/doi.opengov.ibmcloud.com/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.core.min.css?p4c8t0");
+@import url("https://www.doi.gov/sites/doi.opengov.ibmcloud.com/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.theme.min.css?p4c8t0");
+@import url("https://www.doi.gov/profiles/openpublic/modules/contrib/colorbox/styles/default/colorbox_style.css?p4c8t0");
+@import url("https://www.doi.gov/profiles/openpublic/modules/contrib/ctools/css/ctools.css?p4c8t0");
+@import url("https://www.doi.gov/profiles/openpublic/modules/contrib/panels/css/panels.css?p4c8t0");
+@import url("https://www.doi.gov/profiles/openpublic/modules/contrib/panels/plugins/layouts/twocol/twocol.css?p4c8t0");
+@import url("https://www.doi.gov/sites/doi.opengov.ibmcloud.com/themes/custom/doi_gov/panels/two-column/../../css/panels/two-column.panels.css?p4c8t0");
+@import url("https://www.doi.gov/sites/doi.opengov.ibmcloud.com/modules/custom/doi_gov_social/css/doi_gov_social.css?p4c8t0");
+@import url("https://www.doi.gov/sites/doi.opengov.ibmcloud.com/themes/custom/doi_gov/panels/one-column/../../css/panels/one-column.panels.css?p4c8t0");
+@import url("https://www.doi.gov/sites/doi.opengov.ibmcloud.com/themes/custom/doi_gov/panels/two-column-flipped/../../css/panels/two-column-flipped.panels.css?p4c8t0");
+@import url("https://www.doi.gov/sites/doi.gov/files/css/follow.css?p4c8t0");
+
+
+
+@import url("https://www.doi.gov/sites/doi.opengov.ibmcloud.com/themes/custom/doi_gov/libraries/qtip/jquery.qtip.css?p4c8t0");
+@import url("https://www.doi.gov/sites/doi.opengov.ibmcloud.com/themes/custom/doi_gov/css/doi-gov.normalize.css?p4c8t0");
+@import url("https://www.doi.gov/sites/doi.opengov.ibmcloud.com/themes/custom/doi_gov/css/doi-gov.hacks.css?p4c8t0");
+@import url("https://www.doi.gov/sites/doi.opengov.ibmcloud.com/themes/custom/doi_gov/css/font-awesome-4.3.0/css/font-awesome.min.css?p4c8t0");
+@import url("https://www.doi.gov/sites/doi.opengov.ibmcloud.com/themes/custom/doi_gov/css/doi-gov.styles.css?p4c8t0");
+
+
+
+window.jQuery || document.write("<script src='/sites/doi.opengov.ibmcloud.com/modules/contrib/jquery_update/replace/jquery/1.7/jquery.min.js'>\x3C/script>")
+
+
+
+
+window.jQuery.ui || document.write("<script src='/sites/doi.opengov.ibmcloud.com/modules/contrib/jquery_update/replace/ui/ui/minified/jquery-ui.min.js'>\x3C/script>")
+
+
+
+
+
+
+
+
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-20161686-1", {"cookieDomain":"auto"});ga("require", "linkid", "linkid.js");ga("set", "anonymizeIp", true);ga('set', 'forceSSL', true);ga("send", "pageview");
+var usasearch_config = { siteHandle:'doi.gov' };
+var script = document.createElement('script');
+script.type = 'text/javascript';
+script.src = '//search.usa.gov/javascripts/remote.loader.js';
+document.getElementsByTagName('head')[0].appendChild(script);
+
+
+
+
+
+
+
+
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"better_exposed_filters":{"views":{"photo_gallery":{"displays":{"attachment_1":{"filters":[]},"standard_block":{"filters":[]}}},"related_content":{"displays":{"related_content_pane":{"filters":{"type":{"required":false}}}}}}},"urlIsAjaxTrusted":{"\/\/search.usa.gov\/search":true},"field_group":{"div":"full"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":1}});
+
+
+Skip to main content
+
+
+
+
+
+
+
+
+ 
+
+U.S. Department of the Interior
+
+
+Instagram
+Facebook
+Twitter
+Tumblr
+Flickr
+YouTube
+ 
+
+
+Search form
+
+Search using USASearch 
+
+
+
+
+ 
+
+Toggle Font Size
+Toggle OpenDyslexic
+ 
+
+
+
+
+
+
+
+
+
+
+
+Press Releases 
+
+
+
+
+
+Press Releases 
+
+
+
+Travels 
+
+
+
+Advisories 
+
+
+
+Video 
+
+
+
+Photos 
+
+
+
+Blog 
+
+
+
+Archive2009-2017 News Archive (searchable)
+2008 News Archive
+2007 News Archive
+2006 News Archive
+2005 News Archive
+2004 News Archive
+2003 News Archive
+1995-2002 News Archive
+Twitter Archive (2009-early 2017)
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Share
+
+Facebook
+Twitter
+Google+
+LinkedIn
+Delicious
+Digg
+Reddit
+StumbleUpon
+Pinterest
+ 
+
+
+
+
+
+
+
+
+
+ Energy Secretary Moniz and Interior Secretary Jewell Announce New National Offshore Wind Strategy to Drive Deployment 
+
+Joint Strategy Follows Completion of America’s First Offshore Wind Farm, Showing Progress in American Offshore Wind Industry
+ 
+
+
+
+
+9/9/2016 
+
+
+
+
+
+
+
+
+Date: September 9, 2016Contacts: (202) 586-4940Interior_press@ios.doi.govDoenews@hq.doe.gov
+BOSTON - U.S. Secretary of Energy Ernest Moniz and U.S. Secretary of the Interior Sally Jewell today announced the publication of a collaborative strategic plan to continue accelerating the development of offshore wind energy in the United States, the National Offshore Wind Strategy: Facilitating the Development of the Offshore Wind Industry in the United States, which could help enable 86 gigawatts of offshore wind in the United States by 2050. The strategy details the current state of offshore wind in the United States, presents the actions and innovations needed to reduce deployment costs and timelines, and provides a roadmap to support the growth and success of the industry.
+The announcement of the report followed a tour of the Massachusetts Clean Energy Center’s Wind Technology Testing Center (WTTC) by the two cabinet members, White House Deputy Assistant to the President for Energy and Climate Change Dan Utech, Bureau of Ocean Energy Management Director Abigail Hopper, the Energy Department’s Director of the Wind Energy Technologies Office Jose Zayas, and local and federal elected officials. The WTTC, located in the Charlestown neighborhood of Boston, is specifically designed to help the wind industry test the next generation of land-based and offshore wind turbine blades. The WTTC opened in 2011 and was funded by the Department of Energy (DOE) under the American Reinvestment and Recovery Act, and is an example of a crucial investment made during the Obama Administration to help the United States maintain its position as a leader in wind electricity generation. This new wind energy strategy is a part of President Obama’s Climate Action Plan that will create American jobs and cut carbon pollution by developing America's clean energy resources.
+The strategy was published just weeks after construction was completed on America’s first offshore commercial wind farm off of Block Island, RI. The new 30 MW wind farm was BOEM’s first right-of-way grant and is expected to start operating by the end of 2016. It will generate enough electricity to power 17,000 homes in New England. Across the country, states like Massachusetts, which just passed an energy bill that requires utilities to get 1600 MW of their power from offshore wind by the summer of 2027, are accelerating the development of offshore wind across our nation’s coastal states. 
+“This Administration has made significant investments in clean energy technologies, supporting a diversified energy portfolio to help meet our Climate Action Plan goal of permitting 20,000 MW of renewable electricity generation on public lands and waters by 2020,” said Secretary Jewell. “Thanks to involvement by partners at all levels of government, community stakeholders, tribes and the public, we've been able to stand up the first federal offshore wind energy program in the history of the U.S. and we are confident the strategy we're outlining today will chart a course for additional investment in clean energy technologies that can help power America's future.”
+“Offshore wind has experienced enormous progress during the Obama administration. The first offshore wind farm has now finished construction, and we have gone from zero offshore wind areas leased before this administration to eleven areas that total the size of Rhode Island,” said Energy Secretary Moniz. “Today’s collaborative strategic plan is part of a long-term commitment to support innovation that enables widespread offshore wind deployment and shows how offshore wind will benefit our country with new jobs, less pollution, and a more diversified electricity mix.”
+The National Offshore Wind Strategy identifies key challenges facing the industry and more than 30 specific actions that DOE and DOI can take over the next five years to address those challenges. These actions fall into three strategic areas:
+1.    Reducing technical costs and risks. DOI proposes the joint development of standard data collection guidelines to foster predictability and inform safe project development  and DOE will work to increase annual energy production and reliability of offshore wind plants.
+2.    Supporting effective stewardship. DOI commits to numerous actions to ensure that the regulatory process is predictable, transparent, efficient and informed by lessons learned from regulators in other countries. Additionally, as the first generation of installed projects come online, DOI and DOE will collect field data on parts of offshore development including impacts on marine life and turbine radar interference in order to support future offshore wind siting and plan reviews. 
+3.    Improving the market conditions for investment in offshore wind energy. Studies are needed help quantify the broad grid integration impacts of adding significant amounts of offshore wind energy to the power system. Such information could significantly benefit the offshore wind community by informing state policies critical to supporting development.
+
+Today’s strategy builds on DOE and DOI's first joint offshore wind strategy, published in 2011. Since then, the Energy Department has allocated nearly $200 million to support three cutting-edge offshore wind demonstration projects led by the University of Maine, New Jersey’s Fishermen’s Energy, and Ohio’s Lake Erie Energy Development Corporation, and research and development investments in technologies that specifically address the opportunities and challenges across U.S. waters. Additionally, since 2010, the Department of the Interior has issued 11 commercial leases for offshore wind development, nine of which generated approximately $16 million through competitive lease sales and covered more than one million acres of federal waters.
+DOE has found that developing 86,000 MW of these offshore wind energy resources by 2050 would support 160,000 jobs, reduce power sector water consumption by 5 percent, and reduce greenhouse gas emissions by 1.8 percent.
+The full report, National Offshore Wind Strategy: Facilitating the Development of the Offshore Wind Industry in the United States, is online at wind.energy.gov.
+ 
+
+
+
+
+
+
+Press Release
+Share
+
+Facebook
+Twitter
+Google+
+LinkedIn
+Delicious
+Digg
+Reddit
+StumbleUpon
+Pinterest
+ 
+
+Interior Announces Date for Largest Oil and Gas Lease Sale in U.S. HistoryRead more about Interior Announces Date for Largest Oil and Gas Lease Sale in U.S. History
+ 
+
+
+
+
+
+Press Release
+Share
+
+Facebook
+Twitter
+Google+
+LinkedIn
+Delicious
+Digg
+Reddit
+StumbleUpon
+Pinterest
+ 
+
+Interior Seeks Public Comment on Draft List of 35 Minerals Deemed Critical to U.S. National Security and the EconomyRead more about Interior Seeks Public Comment on Draft List of 35 Minerals Deemed Critical to U.S. National Security and the Economy
+ 
+
+
+
+
+
+Press Release
+Share
+
+Facebook
+Twitter
+Google+
+LinkedIn
+Delicious
+Digg
+Reddit
+StumbleUpon
+Pinterest
+ 
+
+President’s $11.7 Billion Proposed FY 2019 Budget for Interior Includes Legislation to Strengthen Infrastructure and Address Deferred MaintenanceRead more about President’s $11.7 Billion Proposed FY 2019 Budget for Interior Includes Legislation to Strengthen Infrastructure and Address Deferred Maintenance
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+            U.S. Department of the Interior    
+
+            Protecting America's Great Outdoors and Powering Our Future    
+
+
+
+Instagram
+Facebook
+Twitter
+Tumblr
+Flickr
+YouTube
+ 
+
+
+
+
+
+
+
+
+
+
+AboutMeet the Secretary
+Bureaus
+For Employees
+
+Our PrioritiesAmerican Energy
+Climate Change
+Jobs
+Regulatory Reform
+Stewardship
+Tribal Nations
+
+ResourcesCobell / Land Buy-back
+Deepwater Horizon
+Hurricane Sandy
+Open Government Initiative
+Strategic Plan
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+FOIA
+Open Government
+Integrity of Scientific & Scholarly Activities
+USA.gov
+BusinessUSA
+White House
+No Fear Act
+Inspector General
+Agency Financial Report
+Budget & Performance
+Tribal Leaders Directory
+ 
+
+
+
+DOI Home
+Contact Us
+Privacy Policy
+Disclaimer
+Notices
+Accessibility
+Copyright
+Digital Media Guide
+Site Map
+ 
+
+
+
+
+
+
+
+
+
+U.S. Department of the Interior, 1849 C Street NW, Washington, DC 20240. feedback@ios.doi.gov
+
+
+
+
+
+
+
+
+Back to Top
+

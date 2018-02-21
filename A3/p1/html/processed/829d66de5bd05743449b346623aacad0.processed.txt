@@ -1,0 +1,4833 @@
+http://www.dailymail.co.uk/femail/article-4051124/University-Challenge-viewers-wild-St-Anne-s-Oxford-female-team.html
+
+
+University Challenge viewers go wild St Anne's Oxford all-female team | Daily Mail Online
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  var disableAds = false;
+  PageCriteria = window.PageCriteria || {};
+  PageCriteria.clientIP = '70.160.30.115';
+  PageCriteria.device = 'other';
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.femailfemail .masthead {
+  background-image: url(http://i.dailymail.co.uk/i/pix/channelheaders/femail_masthead.gif);
+}
+
+
+
+
+
+
+
+
+img[data-src]{display: none;}
+
+
+
+
+
+
+  useGpt = true;
+
+  PageCriteria = window.PageCriteria || {};
+
+  PageCriteria.channel = 'femail';
+  PageCriteria.subchannel = 'femail';
+  PageCriteria.geo = ('us' || 'GB').toUpperCase();
+  PageCriteria.latitude = "51.5072";
+  PageCriteria.longitude = "0.1275";
+  PageCriteria.refresh = 86400;
+  PageCriteria.refreshTablet = 86400;
+  PageCriteria.refreshDesktop = 86400;
+  PageCriteria.mailtoEmailLinks = !!''
+  PageCriteria.geoDesktopPopupEnabled = true
+
+  PageCriteria.pageType = 'article';
+  PageCriteria.articleId = '4051124';
+  PageCriteria.sponsored = '';
+  PageCriteria.articleShortURL = 'http://dailym.ai/2i4FIqA';
+  PageCriteria.readerComments = 'R';
+  PageCriteria.moderationStatus = 'POM';
+  PageCriteria.articleStyle = 'wide';
+  PageCriteria.containsVideo = !!'true';
+
+
+PageCriteria.latitude = "36.8511";
+PageCriteria.longitude = "-76.2784";
+PageCriteria.geo = "US" || PageCriteria.geo;
+PageCriteria.timestamp = 1518993680;
+PageCriteria.isMobile = "is_mobilefalse";
+PageCriteria.isMobile = (!!PageCriteria.isMobile) ? PageCriteria.isMobile === 'is_mobiletrue' : undefined;
+PageCriteria.isTablet = "is_tabletfalse";
+PageCriteria.isTablet = (!!PageCriteria.isTablet) ? PageCriteria.isTablet === 'is_tablettrue' : undefined;
+
+
+
+  var useAdx = false && ["AU","NZ"].indexOf(PageCriteria.geo) >= 0;
+  var adTrackingConfig = {"geoConfig":{"AU":[],"IE":[],"GB":[],"US":[],"default":[{"enabled":true,"name":"botsPlugin"},{"enabled":true,"name":"devicePlugin"},{"enabled":true,"name":"criteoPlugin"},{"enabled":true,"name":"audienceSciencePlugin"},{"enabled":true,"name":"audienceMembershipPlugin"},{"enabled":false,"name":"amazonPlugin"},{"enabled":false,"name":"realTimePricingPlugin"},{"enabled":true,"name":"grapeshotPlugin"},{"enabled":true,"name":"mediaDirectPlugin"},{"enabled":true,"name":"sonobiPlugin"},{"enabled":true,"name":"casaleIndexPlugin"},{"enabled":true,"name":"openXBidderPlugin"},{"enabled":false,"name":"yieldbot"},{"enabled":true,"name":"pageFairPlugin"},{"enabled":false,"name":"forensiqPlugin"}]}};
+  var ANDDebugOn = false;
+  var s_account = 'anddailymailprod';
+  var s_account15 = 'molglobalprod';
+  var haveRenderedSponsoredPollOnPage = false;
+  var useRtp = true;
+
+
+
+var twitterVia = 'MailOnline';
+
+
+  twitterVia = 'DailyMailUS';
+
+
+
+var adReferrer = '';
+var adType='dart',
+    dartSiteId = "dailymail.uk",
+    adAreaSiteId = "dm",
+    adAreaId = "femail",
+    adSubareaId = (adReferrer == "") ? "" || "femail" : adReferrer,
+    adPageType = 'art',
+    adContent = "",
+    adSection = '',
+    adArticleId = "4051124",
+    adEnvironment = "production",
+    enableAds=true;
+
+
+
+
+
+
+
+
+
+
+
+
+window.adverts=window.adverts || {};
+window.adverts.config={"adsRefresh":{"interval":30000,"plugins":["adxChannelPlugin","audienceMembershipPlugin","audienceSciencePlugin","botsPlugin","browserResolutionPlugin","devicePlugin","increaseOnline","forensiqPlugin","grapeshotPlugin","impIDPlugin","mediaDirectPlugin","prizel","realTimePricingPlugin"],"slots":["sky_right_top","sky_left_top"]},"auction.maxTime":2000,"auction.priceGranularity":"high","auction.unit.video":{"code":"video","sizes":[[636,358]],"mediaType":"video","bids":[{"bidder":"rubicon","params":{"accountId":9929,"siteId":157252,"zoneId":749436,"video":{"playerWidth":636,"playerHeight":358,"size_id":201}}}]},"performance.sampleSize":10,"performance.pageLoad.offsets":[0,5,15],"performance.adImpression.offsets":[],"pos.bvp_puff_26.editorialFallback":false,"pos.bvp_puff_26.title":"SPONSORED","pos.inread_player_top.paragraphIndex":4,"pos.stickyBanner.autoRefresh":true,"stickyAds":["billboard","mpu_top","mpu_puff_10","mpu_puff_15","mpu_puff_20","mpu_puff_30","mpu_puff_45","mpu_middle","mpu_bottom","mpu_bottom_right","sky_left_bottom","sky_left_top","sky_right_bottom","sky_right_top"]};
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DM.platformConfig = {
+  features: {}
+};
+Object.assign(DM.platformConfig.features, {});
+
+
+
+    DM.isLoggedIn = false;
+    
+
+    DM.userData = '';
+    
+
+
+if (MobileUtils.isIPhone()) {
+  document.documentElement.className += ' is_iphone';
+} else if (MobileUtils.isIPad()) {
+  document.documentElement.className += ' is_ipad';
+}
+
+
+  adverts.initEmergencyRules();
+  if (adverts.setSupportedSlots) adverts.setSupportedSlots(["adx_page_skins","adx_tracking","banner_top","billboard","bvp_puff_26","bvp_puff_29","fff","native_fff_accessorise","halfsky_left_bottom","halfsky_left_middle","halfsky_left_top","halfsky_right_bottom","halfsky_right_middle","halfsky_right_top","inread_player","inread_player_top","interstitial","intro_ad","ldr_top","leader_middle","leader_lower_middle","leader_bottom","leader_very_bottom","puff_ad_1","puff_ad_2","puff_ad_3","mpu_bottom_zero","mpu_bottom_right_zero","mpu_channel","mpu_comments_1","mpu_comments_2","mpu_home","mpu_middle_zero","mpu_top_zero","mpu_bottom_300x600","mpu_bottom_right_300x600","mpu_middle_300x600","mpu_top_300x600","mpu_bottom","mpu_bottom_right","mpu_middle","mpu_puff_10","mpu_puff_15","mpu_puff_20","mpu_puff_30","mpu_puff_45","mpu_top","mpu_mobile","mpu_mobile_top","mpu_mobile_upper_middle","mpu_mobile_lower_middle","mpu_mobile_bottom","half_mpu_top","native_channel","native_puff","native_puff_dfp","native_mpu","native_mpu_dfp","native_related","network_banner","search_engine_sky","sky_left_top","sky_right_top","sky_left_bottom","sky_right_bottom","sticky_banner","video_carousel","video_ad","native_fff_overlay_accessorise"]);
+
+adverts.botIPs={"22":["85.115.52.201|*","62.25.109.197|*","85.115.52.202|*","85.115.54.201|*","85.115.53.201|*","85.115.54.202|*","108.171.128.161|*"],"23":["85.115.52.201|*","62.25.109.197|*","85.115.52.202|*","85.115.54.201|*","85.115.53.201|*","85.115.54.202|*","108.171.128.161|*"]}
+
+var adTrackingConfig=adTrackingConfig||{};adTrackingConfig.geoConfig=adTrackingConfig.geoConfig||{};adTrackingConfig.geoConfig["default"]=[{"name":"indexExchangeContainer","enabled":true},{"name":"asyncBus","enabled":false},{"name":"gpt","enabled":true},{"name":"adzouk","enabled":false},{"name":"sortable","enabled":false},{"name":"botsPlugin","enabled":true},{"name":"adxChannelPlugin","enabled":true},{"name":"impIDPlugin","enabled":true},{"name":"increaseOnline","enabled":false},{"name":"appnexus","enabled":true},{"name":"audienceMembershipPlugin","enabled":true},{"name":"audienceSciencePlugin","enabled":false},{"name":"browserResolutionPlugin","enabled":true},{"name":"switch","enabled":false},{"name":"criteoPlugin","enabled":true},{"name":"fan","enabled":false},{"name":"forensiqPlugin","enabled":false},{"name":"rubicon","enabled":true},{"name":"indexExchange","enabled":false},{"name":"openx","enabled":false},{"name":"criteo","enabled":false},{"name":"pubmatic","enabled":false},{"name":"amazonPlugin","enabled":true},{"name":"grapeshotPlugin","enabled":true},{"name":"mediaDirectPlugin","enabled":false},{"name":"devicePlugin","enabled":true},{"name":"openXBidderPlugin","enabled":false},{"name":"pageFairPlugin","enabled":false},{"name":"realTimePricingPlugin","enabled":false},{"name":"sonobiPlugin","enabled":false},{"name":"casaleIndexPlugin","enabled":false},{"name":"yieldbot","enabled":true},{"name":"technorati","enabled":false},{"name":"shareThrough","enabled":false},{"name":"amazonVideo","enabled":false},{"name":"videoIndex","enabled":true},{"name":"criteoGooglePlugin","enabled":false},{"name":"fanVideo","enabled":false},{"name":"imaSDK","enabled":true},{"name":"prizel","enabled":false},{"name":"vpaid","enabled":true},{"name":"firstImpression","enabled":false},{"name":"videoForceFlyout","enabled":true},{"name":"matchadsPlugin","enabled":false},{"name":"videoFlyout","enabled":false},{"name":"amazonPreroll","enabled":true},{"name":"auctionInfo","enabled":true},{"name":"brandedVideoPlayer","enabled":false},{"name":"maxbid","enabled":true},{"name":"prebidEventReporter","enabled":false},{"name":"article","enabled":true},{"name":"sessionDepth","enabled":true},{"name":"adyoulike","enabled":true},{"name":"analytics","enabled":true},{"name":"integral","enabled":false},{"name":"performanceMonitor","enabled":false},{"name":"pulsepoint","enabled":false},{"name":"rubiconVideo","enabled":true},{"name":"taboola","enabled":true},{"name":"visits","enabled":true}]
+
+adverts.initSlots({"sky_right_bottom":{"state":"off","enabled":false,"startTime":"0","endTime":"0","loadingType":"lazy","loadingTrigger":"#sky_right_bottom","loadingOffset":"100","inConflict":false},"puff_ad_3":{"state":"off","enabled":false,"startTime":"0","endTime":"0","loadingType":"lazy","loadingTrigger":"#puff_ad_3","loadingOffset":0,"inConflict":false},"mpu_mobile":{"state":"off","enabled":false,"startTime":"0","endTime":"0","loadingType":"immediate","loadingTrigger":"body","inConflict":false},"halfsky_left_bottom":{"state":"off","enabled":false,"inConflict":true,"startTime":"0","endTime":"0","loadingType":"immediate","loadingTrigger":"body"},"puff_ad_1":{"state":"off","enabled":false,"startTime":"0","endTime":"0","loadingType":"immediate","loadingTrigger":"body","inConflict":false},"puff_ad_2":{"state":"off","enabled":false,"startTime":"0","endTime":"0","loadingType":"lazy","loadingTrigger":"#puff_ad_2","loadingOffset":0,"inConflict":false},"search_engine_sky":{"state":"off","enabled":false,"inConflict":true,"startTime":"0","endTime":"0","loadingType":"immediate","loadingTrigger":"body"},"halfsky_left_top":{"state":"off","enabled":false,"inConflict":true,"startTime":"0","endTime":"0","loadingType":"immediate","loadingTrigger":"body"},"halfsky_right_middle":{"state":"off","enabled":false,"inConflict":true,"startTime":"0","endTime":"0","loadingType":"immediate","loadingTrigger":"body"},"mpu_mobile_top":{"state":"off","enabled":false,"startTime":"0","endTime":"0","loadingType":"immediate","loadingTrigger":"body","inConflict":false},"halfsky_right_top":{"state":"off","enabled":false,"inConflict":true,"startTime":"0","endTime":"0","loadingType":"immediate","loadingTrigger":"body"},"halfsky_left_middle":{"state":"off","enabled":false,"inConflict":true,"startTime":"0","endTime":"0","loadingType":"immediate","loadingTrigger":"body"},"mpu_mobile_upper_middle":{"state":"off","enabled":false,"startTime":"0","endTime":"0","loadingType":"immediate","loadingTrigger":"body","inConflict":false},"mpu_mobile_lower_middle":{"state":"off","enabled":false,"startTime":"0","endTime":"0","loadingType":"immediate","loadingTrigger":"body","inConflict":false},"mpu_channel":{"state":"off","enabled":false,"startTime":"0","endTime":"0","loadingType":"immediate","loadingTrigger":"body","inConflict":false},"mpu_mobile_bottom":{"state":"off","enabled":false,"startTime":"0","endTime":"0","loadingType":"immediate","loadingTrigger":"body","inConflict":false},"native_mpu_dfp":{"state":"off","enabled":false,"startTime":"0","endTime":"0","loadingType":"immediate","loadingTrigger":"body","inConflict":false},"halfsky_right_bottom":{"state":"off","enabled":false,"inConflict":true,"startTime":"0","endTime":"0","loadingType":"immediate","loadingTrigger":"body"},"native_puff":{"state":"off","enabled":false,"startTime":"0","endTime":"0","loadingType":"immediate","loadingTrigger":"body","inConflict":false},"sky_left_bottom":{"state":"off","enabled":false,"startTime":"0","endTime":"0","loadingType":"lazy","loadingTrigger":"#sky_left_bottom","loadingOffset":"100","inConflict":false},"mpu_middle_300x600":{"state":"off","enabled":false,"startTime":"0","endTime":"0","loadingType":"immediate","loadingTrigger":"body","inConflict":false},"mpu_bottom_zero":{"state":"off","enabled":false,"startTime":"0","endTime":"0","loadingType":"immediate","loadingTrigger":"body","inConflict":false},"mpu_bottom_right_zero":{"state":"off","enabled":false,"startTime":"0","endTime":"0","loadingType":"immediate","loadingTrigger":"body","inConflict":false},"mpu_bottom_300x600":{"state":"on","enabled":true,"startTime":"0","endTime":"0","loadingType":"immediate","loadingTrigger":"body","inConflict":false},"mpu_home":{"state":"off","enabled":false,"startTime":"0","endTime":"0","loadingType":"immediate","loadingTrigger":"body","inConflict":false},"mpu_bottom_right_300x600":{"state":"off","enabled":false,"startTime":"0","endTime":"0","loadingType":"immediate","loadingTrigger":"body","inConflict":false},"inread_player_top":{"state":"on","enabled":true,"startTime":"0","endTime":"0","loadingType":"immediate","loadingTrigger":"body","loadingOffset":0,"inConflict":false},"half_mpu_top":{"state":"off","enabled":false,"startTime":"0","endTime":"0","loadingType":"immediate","loadingTrigger":"body","inConflict":false},"mpu_middle_zero":{"state":"off","enabled":false,"startTime":"0","endTime":"0","loadingType":"immediate","loadingTrigger":"body","inConflict":false},"mpu_puff_15":{"state":"off","enabled":false,"startTime":"0","endTime":"0","loadingType":"immediate","loadingTrigger":"body","inConflict":false},"mpu_middle":{"state":"on","enabled":true,"startTime":"0","endTime":"0","loadingType":"immediate","loadingTrigger":"#mpu_middle","loadingOffset":"1500","inConflict":false},"mpu_puff_30":{"state":"on","enabled":true,"startTime":"0","endTime":"0","loadingType":"immediate","loadingTrigger":"body","inConflict":false},"mpu_comments_2":{"state":"off","enabled":false,"startTime":"0","endTime":"0","loadingType":"immediate","loadingTrigger":"body","inConflict":false},"inread_player":{"state":"on","enabled":true,"startTime":"0","endTime":"0","loadingType":"lazy","loadingTrigger":"#inread-player","loadingOffset":"1000","inConflict":false},"mpu_comments_1":{"state":"off","enabled":false,"startTime":"0","endTime":"0","loadingType":"immediate","loadingTrigger":"body","inConflict":false},"leader_lower_middle":{"state":"on","enabled":true,"startTime":"0","endTime":"0","loadingType":"immediate","loadingTrigger":"#leader_lower_middle","loadingOffset":"1500","inConflict":false},"leader_bottom":{"state":"on","enabled":true,"startTime":"0","endTime":"0","loadingType":"immediate","loadingTrigger":"#leader_bottom","loadingOffset":"1500","inConflict":false},"leader_very_bottom":{"state":"on","enabled":true,"startTime":"0","endTime":"0","loadingType":"immediate","loadingTrigger":"#leader_very_bottom","loadingOffset":"1500","inConflict":false},"mpu_bottom":{"state":"on","enabled":true,"startTime":"0","endTime":"0","loadingType":"immediate","loadingTrigger":"#mpu_bottom","loadingOffset":"1500","inConflict":false},"mpu_puff_45":{"state":"on","enabled":true,"startTime":"0","endTime":"0","loadingType":"immediate","loadingTrigger":"body","inConflict":false},"ldr_top":{"state":"off","enabled":false,"inConflict":true,"startTime":"0","endTime":"0","loadingType":"immediate","loadingTrigger":"body"},"sky_right_top":{"state":"on","enabled":true,"startTime":"0","endTime":"0","loadingType":"immediate","loadingTrigger":"body","inConflict":false},"billboard":{"state":"on","enabled":true,"startTime":"0","endTime":"0","loadingType":"immediate","loadingTrigger":"body","inConflict":false},"mpu_bottom_right":{"state":"on","enabled":true,"startTime":"0","endTime":"0","loadingType":"immediate","loadingTrigger":"#mpu_bottom_right","loadingOffset":"1500","inConflict":false},"sky_left_top":{"state":"on","enabled":true,"startTime":"0","endTime":"0","loadingType":"immediate","loadingTrigger":"body","inConflict":false},"video_ad":{"state":"off","enabled":false,"startTime":"0","endTime":"0","loadingType":"immediate","loadingTrigger":"body","inConflict":false},"mpu_top_300x600":{"state":"off","enabled":false,"inConflict":true},"sticky_banner":{"state":"off","enabled":false,"inConflict":true},"adx_page_skins":{"state":"off","enabled":false,"inConflict":false},"adx_tracking":{"state":"off","enabled":false,"inConflict":false},"fff":{"state":"off","enabled":false,"inConflict":false},"native_fff_accessorise":{"state":"off","enabled":false,"inConflict":false},"intro_ad":{"state":"off","enabled":false,"inConflict":false},"network_banner":{"state":"off","enabled":false,"inConflict":false},"leader_middle":{"state":"off","enabled":false,"inConflict":false},"banner_top":{"state":"off","enabled":false,"inConflict":false},"interstitial":{"state":"off","enabled":false,"inConflict":false,"loadingType":"delayed"},"mpu_top":{"state":"on","enabled":true,"inConflict":false},"mpu_puff_10":{"state":"on","enabled":true,"inConflict":false},"mpu_puff_20":{"state":"on","enabled":true,"inConflict":false},"mpu_top_zero":{"state":"on","enabled":true,"inConflict":false},"video_carousel":{"state":"off","enabled":false,"inConflict":false},"native_channel":{"state":"off","enabled":false,"inConflict":false},"native_mpu":{"state":"off","enabled":false,"inConflict":false},"native_puff_dfp":{"state":"on","enabled":true,"inConflict":false},"native_related":{"state":"off","enabled":false,"inConflict":false},"native_fff_overlay_accessorise":{"state":"off","enabled":false,"inConflict":false,"loadingType":"delayed"}});
+
+
+
+
+
+var currentChannelTwitterFollow = '';
+DM.later('bundle', function (){
+  DMS.Navigation.init({
+    facebookAppId: '',
+    facebookChannelUrl: '',
+    channel: '',
+    hostName: ''
+  });
+});
+
+
+
+  window._taboola = window._taboola || [];
+  _taboola.push({article:'auto'});
+  !function (e, f, u, i) {
+    if (!document.getElementById(i)){
+      e.async = 1;
+      e.src = u;
+      e.id = i;
+      f.parentNode.insertBefore(e, f);
+    }
+  }(document.createElement('script'),
+  document.getElementsByTagName('script')[0],
+  '//cdn.taboola.com/libtrc/dailymail-us/loader.js',
+  'tb_loader_script');
+
+
+ var inlineModules = ""; 
+!function(){function e(e){d.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}function n(e,n){var a=void 0!==window.aFeoApplied?"1":"0";BOOMR.addVar("ak.feo",a)}function a(e,n){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.r"];BOOMR.removeVar(a)}function t(){BOOMR.subscribe("before_beacon",n,null,null),BOOMR.addVar({"ak.v":1,"ak.cp":"241183","ak.ai":"145913","ak.ol":"0","ak.cr":0,"ak.ipv":4,"ak.proto":"","ak.rid":"312f1dd","ak.r":23936,"ak.a2":0,"ak.m":"w8","ak.n":"","ak.bpcip":"70.160.30.115","ak.cport":55466,"ak.gh":"70.186.29.45","ak.quicv":"","ak.csrc":"-"}),BOOMR.subscribe("onbeacon",a,null,null)}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetExecuted=!0;var o,i,r,c=document.createElement("iframe"),d=window;d.addEventListener?d.addEventListener("load",e,!1):d.attachEvent&&d.attachEvent("onload",e),c.src="javascript:void(0)",c.title="",c.role="presentation",(c.frameElement||c).style.cssText="width:0;height:0;border:0;display:none;",r=document.getElementsByTagName("script")[0],r.parentNode.insertBefore(c,r);try{i=c.contentWindow.document}catch(e){o=document.domain,c.src="javascript:var d=document.open();d.domain='"+o+"';void(0);",i=c.contentWindow.document}i.open()._l=function(){var e=this.createElement("script");o&&(this.domain=o),e.id="boomr-if-as",e.src="https://s.go-mpulse.net/boomerang/RQAJ2-Q4TGF-HEKJL-TAEAK-5V3VD",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(e)},i.write('<bo'+'dy onload="document._l();">'),i.close();"".length>0&&d&&"performance"in d&&d.performance&&d.performance.setResourceTimingBufferSize&&d.performance.setResourceTimingBufferSize(),document.addEventListener?document.addEventListener("onBoomerangLoaded",t):document.attachEvent&&document.attachEvent("onpropertychange",function(e){e||(e=window.event),e&&"onBoomerangLoaded"===e.propertyName&&t()})}}();
+MobileUtils.setupMobileClass();
+
+
+DM.molFeComponents.setConfig('molFeTracking', {"tedHosts":["rta.dailymail.co.uk"]});
+
+
+
+      var searchTerms = '';
+    
+
+
+
+    var refererHost = "direct";
+
+    if (document.referrer) {
+        var docReferrerHostMatches = new RegExp("://([^/]*)/.*").exec(document.referrer);
+        /* Check just to be safe */
+        if (docReferrerHostMatches) {
+            var docReferrerHost = docReferrerHostMatches[1];
+            refererHost = docReferrerHost;
+        }
+    }
+
+
+    // login tracking (1)
+    DM.pageEvents.listen(DM.pageEvents.PAGE_LOGIN_BUTTON_CLICKED, function (obj, event, pars){
+        if (pars.action === 'loggingIn'){
+            document.cookie = "attempting_login=true; path=/";
+        }
+    });
+
+    var pagemeta = {
+        clientSegmentation: {"segments":{"a":{"weight":10},"b":{"weight":10},"c":{"weight":80}},"shuffleNumber":2,"defaultSegment":"default"},
+        comscoreClientId: '14366613',
+        comscoreNsSite: 'master',
+        domain: 'dailymail.co.uk',
+        channel: '/femail',
+        channelId: '5',
+        subChannel: '/femail',
+        subChannel2: '',
+        contentType: 'article',
+        articleTitle: 'University Challenge viewers go wild St Anne\'s Oxford all-female team',
+        articleId: '4051124',
+        articleVersionNumber: '20208590',
+        internalSearchTerms: searchTerms,
+        loggedInStatus: (DM.isLoggedIn ? 'Logged In' : 'Logged Out'),
+        galleryTitle: '',
+        galleryId: '',
+        threadTitle: '',
+        threadId: '',
+        userId: DM.userId,
+        partnerSite:  '',
+        publishedDate: new Date(1482228593000),
+        updatedDate: new Date(1482228834000),
+        authorName: 'Siofra Brennan For Mailonline',
+        authorsIds: [1103779],
+        authorsShortNames: ['SiofraBrennanForMailonline'],
+        errorUrl: '',
+        serverDate: new Date(1518992078866),
+        url: 'D=g',
+        referringSubDomain: refererHost,
+        inlineLinks: '',
+        pageName: '/femail/article',
+        products: '',
+        bundleVersion: '10.2.1',
+        bundleLocation: 'http://scripts.dailymail.co.uk/static/gunther/10.2.1',
+        syncBundleVersion: '3.11.1',
+        syncBundleLocation: 'http://scripts.dailymail.co.uk/static/mol-fe/static/mol-fe-sync-bundle3.11.1',
+        asyncBundleVersion: '1.26.1',
+        asyncBundleLocation: 'http://scripts.dailymail.co.uk/static/mol-fe/static/mol-fe-async-bundle/1.26.1',
+        videoBundleLocation: 'http://scripts.dailymail.co.uk/static/videoplayer/2.50.0-pr-304.1229',
+        textBased: false,
+        isDecorator: '' === 'true',
+        isFeatureArticle: '' === 'true',
+        renderPlatform: 'desktop'    };
+    // login tracking (1)
+
+    if (document.cookie.replace(/(?:(?:^|.*;\s*)attempting_login\s*\=\s*([^;]*).*$)|^.*$/, "$1") === "true" &&
+        DM.isLoggedIn) {
+            document.cookie = "attempting_login=false; path=/";
+            pagemeta.registrationEntry = 'Successfully Logged In';
+    }
+
+    DM.setPageMetadata(pagemeta);
+
+    /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+    DM.pageEvents.fireEvent(DM.pageEvents.PAGE_RENDER_STARTED, DM.getPageMetadata());
+    
+
+    if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+    
+
+
+
+
+
+    var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-3639451-1']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = '//google-analytics.com/ga.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+      })();
+    
+
+
+    DM.later('bundle', function(){
+      if (!DM.ted) {
+        DM.ted = {
+          geo: function(location) {
+            DM.ted.g = location;
+          }
+        };
+      }
+      
+      
+          DM.ted.geo('US');
+        
+      
+    });
+
+
+
+
+
+var mpu_modules = ["mpu_top_zero","half_mpu_top","mpu_middle","mpu_bottom"];
+
+
+(function() {
+  var _fbq = window._fbq || (window._fbq = []);
+  if (!_fbq.loaded) {
+    var fbds = document.createElement('script');
+    fbds.async = true;
+    fbds.src = '//connect.facebook.net/en_US/fbds.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(fbds, s);
+    _fbq.loaded = true;
+  }
+  _fbq.push(['addPixelId', '1401367413466420']);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(["track", "PixelInitialized", {}]);
+
+
+
+
+
+
+adverts.addToArray({"pos":"ldr_top"})
+
+
+ 
+
+
+
+ Home
+
+
+
+ U.K.
+
+
+
+ News
+
+
+
+ Sports
+
+
+
+ U.S. Showbiz
+
+
+
+ Australia
+
+
+ 
+ 
+
+Femail
+
+
+
+ Health
+
+
+
+ Science
+
+
+
+ Money
+
+
+
+ Video
+
+
+
+ Travel
+
+
+
+ Columnists
+
+
+
+ DailyMailTV
+
+
+
+
+
+
+
+Latest Headlines
+
+
+Femail
+
+
+Fashion Finder
+
+
+Food
+
+
+Beauty
+
+
+Gardening
+
+
+Blogs
+
+
+Baby Blog
+
+
+Coupons
+
+
+
+My Profile
+Logout
+
+
+
+
+
+              Login
+            
+
+
+
+                var logout_comp = document.getElementById('logout_comp'),
+                    login_comp = document.getElementById('login_comp');
+                if(DM.isLoggedIn){
+                    login_comp.style.display = 'none';
+                    logout_comp.style.display = 'block';
+                }
+        
+
+
+
+
+
+Feedback
+
+
+
+
+
+
+
+
+Sunday, Feb 18th 2018
+5-Day Forecast
+
+ 
+
+
+
+adverts.addToArray({"pos":"billboard","dcopt":true})
+ show ad
+
+
+
+
+
+
+
+
+
+
+PICTURED: The teen who dated Florida shooter's ex-girlfriend after him says the killer physically attacked him twice, threatened his life online and promised to 'watch him bleed' for 'stealing' his girl
+
+
+
+
+
+'We had this monster living under our roof and we didn't know': Distraught couple who took in Florida school shooter Nikolas Cruz just THREE months ago say they didn't see his dark side
+
+
+
+
+
+'You are such a psychopath': Furious congressman slams Trump for 'making the death of 17 children' about himself after President blamed Florida shooting on an FBI too distracted by Russia collusion probe 
+
+
+
+
+
+A calculated killer: How Florida school shooter wore his ROTC shirt to blend in, slid past security when they were busy unlocking gates and took advantage of a fire alarm that saw students rushing into the corridors and his line of fire
+
+
+
+
+
+Republican Gov. John Kasich slams Congress for being 'totally dysfunctional' and calls on state and local officials to get 'reasonable things' done on guns
+
+
+
+
+
+'We will be silent no more': School walkouts are planned across the US calling for gun control after Florida massacre killed 17
+
+
+
+
+
+Putting his best foot forward: Justin Trudeau dons Darth Vader socks during trip to meet Star Wars fan Indian Prime Minister Modi after he was snubbed by the leader
+
+
+
+
+
+Gunman 'shouting Allahu Akbar' kills five women and wounds five others as he opens fire on worshippers leaving Russian church service
+
+
+
+
+
+Father and his 11-year-old daughter are killed by avalanche in the French Alps just hours after earlier terrifying snowfall left two Swiss skiers wounded
+
+
+
+
+
+Amazing pictures show disc-shaped UFO 'hovering over slopes of Mount Everest' 
+
+
+
+
+
+'May God protect us that we arrive safely': poignant last WhatsApp message from passenger on Iranian airliner which has crashed 'killing all 66 on board'
+
+
+
+
+
+Grieving Russian families demand answers after 'dozens' of Putin's secret mercenaries are killed in deadliest US-Russia battle since the Cold War
+
+
+
+
+
+Where is Melania? President Trump flashes a smile and gives another thumbs up while he poses next to a pair of blondes at Mar-a-Lago
+
+
+
+
+
+Trump sarcastically thanks 'Liddle’ Adam Schiff, the leakin’ monster of no control' for 'finally' blaming the Obama administration for doing nothing about Russian meddling
+
+
+
+
+
+Proposed changes to White House security clearance for staffers 'could affect Jared Kushner's job' in the wake of the Rob Porter scandal
+
+
+
+
+
+Check them out! Chelsea Clinton and Marc Mezvinsky look a world away from their usual laid back style as they take up seats at the FROW of Burberry (and Marc is sporting some very snazzy $596 sneakers)
+
+
+
+
+
+Most 'super agers' drink, smoke, gain weight and never retire - but their zest for life leaves them resistant to dementia
+
+
+
+
+
+Harry gets a job: Prince wins official leadership role in a bid to attract younger people to Commonwealth
+
+
+
+
+
+'When you kiss your boyfriend at the Olympics and the world doesn't freak out': Casual smooch between gay US skier Gus Kenworthy and his lover on live TV is hailed as important LGBTQ moment
+
+
+
+
+
+Russian Alexander Krushelnitsky fails doping test at Winter Olympics days after claiming bronze in curling
+
+
+
+
+
+'She's American!' Teen Olympics sensation Izzy Atkin becomes the first British athlete to win a medal on skis - but sports fans accuse Team GB of 'pinching' her from the US
+
+
+
+
+
+Self-declared 'America's sweetheart' gay Olympian skater Adam Rippon will work for NBC as a correspondent for the remainder of the Winter Olympics
+
+
+
+
+
+'Because running away from my responsibilities isn't a sport': Hilarious Twitter trend sees people sharing their ridiculous reasons for not making it to the Olympics
+
+
+
+
+
+Austrian skier makes history by becoming first man to win both giant slalom and alpine events at the same Olympic games
+
+
+
+
+Previous
+Next
+
+
+
+
+
+    DM.later('bundle', function(){
+        if (DM.Rotator) DM.Rotator.initMiniCarouselExt("mini-carousel-wrapper", "6", "4");
+    });
+
+
+
+
+'Ultimate squad goals': University Challenge viewers go wild for an all-female team from St Anne's Oxford who trounced the opposition by 130 POINTS
+Female alumni from St Anne’s College, Oxford featured in Christmas special  Dr Janina Ramirez, Jacky Rowland and Rebecca Morelle were team membersViewers particularly impressed by Dame Marcy ArcherShow has come under fire in past for lack of female contestants in final rounds By
+
+Siofra Brennan For Mailonline
+
+Published:
+  05:09 EST, 20 December 2016
+
+ | 
+Updated:
+  05:13 EST, 20 December 2016
+
+
+
+
+
+
+
+
+
+
+
+
+
+e-mail
+
+
+
+
+
+          var twitterVia = 'Femail';
+          DM.later('bundle', function(){
+            DM.has('shareLinkTop', 'shareLinks', {
+                    'id': '4051124',
+                    'title': 'University Challenge viewers go wild St Anne\'s Oxford all-female team',
+                    'url': 'http://www.dailymail.co.uk/femail/article-4051124/University-Challenge-viewers-wild-St-Anne-s-Oxford-female-team.html',
+                    'eTwitterStatus': ' http://dailym.ai/2i4FIqA via @' + twitterVia,
+                    'articleChannelFollowButton': 'Femail',
+                    'isChannel': false,
+                    'hideEmail': true,
+                    'placement': 'top',
+                    'anchor': 'tl'});
+          });
+
+
+            
+
+
+
+26
+shares
+
+ 
+          86
+View  comments
+
+
+        DM.later('bundle', function(){
+            DMS.Article.init('top');
+        });
+
+
+    
+
+The show has come under fire for a lack of female representation in the final rounds, but after yesterday's episode of University Challenge things may be set to change. Taking part in a special festive edition of the show, a team of female alumni from St Anne’s College, Oxford - Dame Mary Archer, Dr Janina Ramirez, Jacky Rowland and Rebecca Morelle - trounced their opponents by 130 points. The team looked to be having so much fun as they swept to victory that, Twitter users went wild with KateCrim22 branding the team 'ultimate squad goals'.
+
+
+
+
+
+
+  
+
+
+
+
+
+ Taking part in a special festive edition of the show, a team of female alumni from St Anne’s College, Oxford - Dame Mary Archer, Dr Janina Ramirez, Jacky Rowland and Rebecca Morelle - trounced their opponents by 130 pointsEmmaeatsbooks alluded to the past sexism rows by saying: 'I'd like to see the "there's less women on University Challenge because there's not enough smart women" excuse after St Anne's performance.'RiseburyCrisis summed up the team as 'smart and fun and possibly drunk', adding: 'I want to be their friend.'
+
+
+RELATED ARTICLES
+
+Previous
+1
+Next
+
+
+
+
+
+
+The heaving forecast! Worried listeners take to Twitter...
+
+
+
+'His mother would be so proud': Viewers gush over...
+
+
+
+¿This is a tragic love story because it¿s only got one...
+
+
+
+¿Alana¿s hair is the true winner here¿: As The Apprentice...
+
+
+
+
+
+Share this article
+Share
+26 shares
+
+
+
+ DM.later('bundle', function(){
+  if (DM.Rotator) {
+    new DM.Rotator('p-21', {
+      pageSize: 1,
+      pageCount: 1.0,
+      activeClass:  'active',
+      rotate: false
+    });
+  }
+
+  $('#p-21 .share').on('click', function() {
+    DMS.Facebook.postToFB('related');
+  });
+ });
+
+ZoeWelch1 said she would watch them take on 'every single quiz show', while MarkCooperXYZ was particularly impressed by the 'amazing' Dame Mary Archer, calling her a 'brilliant English rose'.The team impressed OscarTFpowell with its 'comic Christmas informality'.  
+
+
+
+
+
+ Twitter users delighted in seeing the team members enthusiastically celebrating when someone answered a question correctly 'Gosh St. Anne's were good. Unusual to see such quick, confident buzzing in an alumni team,' he said.Their enthusiasm also impressed Duboing who said she loved how they were 'dynamite' on the starters and celebrated each others' successes in answering questions correctly. Meanwhile, JulietteBurton was happy that they weren't able to answer a question about Delia Smith's Christmas cake ingredients.   
+
+
+
+
+
+ One viewer said they would love to see the team take on every single quiz show after their impressive and engaging performance   
+
+
+
+
+
+ Left to right: Rebecca Morelle is global science correspondent for BBC News; Dr Janina Ramirez is a renowned historian; veteran scientist Dame Mary Archer and Al Jazeera English correspondent Jacky RowlandWas pleased the St Anne's Oxford all-women team didn't know the ingredients to Delia Smith's festive cake #UniversityChallenge #girlpowerThe three men and one woman representing the University of Manchester were left red face after losing to St Anne's with 55 points to 185.However, they were up against some formidable opponents.  
+
+
+
+
+
+   
+
+
+
+
+
+   
+
+
+
+
+
+   
+
+
+
+
+
+   
+
+
+
+
+
+   
+
+
+
+
+
+ Dr Janina Ramirez, 36, is a cultural historian, broadcaster, and author and has been credited for giving history the Nigella Lawson magic touch with her fresh, unfussy approach.Scientist Dame Mary Archer, 71, who specialises in solar energy has held academic posts at Oxford and Cambridge, was the head of an NHS trust, and is the chair of the science museum. Jacky Rowland, 52, is an award-winning former foreign correspondent with the BBC, is currently a senior correspondent for Al Jazeera English.   
+
+
+
+
+
+   
+
+
+
+
+
+   
+
+
+
+
+
+   
+
+
+
+
+
+   
+
+
+
+
+
+ And Rebecca Morelle is currently global science correspondent for BBC News.Last year's semi finalists were all men, prompting Jeremy Paxman himself to question why there were no female faces on the teams during the later stages of the competition.  Commentators have previously suggested that women are reluctant to go on the show because they fear social media backlash and commentary on their looks.        
+adverts.addToArray({"pos":"inread_player"})
+
+
+Share or comment on this article
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e-mail
+
+
+
+
+
+
+
+
+26
+shares
+
+
+
+
+                      var twitterVia = 'Femail';
+                      DM.later('bundle', function(){
+                          DM.has('shareLinkBottom', 'shareLinks', {
+                              'id': '4051124',
+                              'title': 'University Challenge viewers go wild St Anne\'s Oxford all-female team',
+                              'url': 'http://www.dailymail.co.uk/femail/article-4051124/University-Challenge-viewers-wild-St-Anne-s-Oxford-female-team.html',
+                              'eTwitterStatus': ' http://dailym.ai/2i4FIqA via @' + twitterVia,
+                              'articleChannelFollowButton': 'Femail',
+                              'placement': 'bottom',
+                              'anchor': 'tl'
+                              ,'hideEmail' :true
+                          });
+                      });
+                  
+
+
+ DM.later('bundle', function(){
+     DMS.Article.init('bottom');
+ });
+
+
+    DM.later('bundle', function(){
+        DM.has('socialLinks', 'SCExternalLinks', {
+            value: 'share 4051124'
+        });
+    });
+    window.articleShortUrl = 'http://dailym.ai/2i4FIqA';
+
+
+
+
+
+  window._taboola = window._taboola || [];
+  _taboola.push({
+      mode: 'autosized-generated-text-under-1r-us',
+      container: 'taboola-below-main-column', 
+      placement: 'wide'
+  });
+  _taboola.push({flush:true});
+
+      Most watched News videos          Shocking footage emerges of a mass brawl onboard a cruise ship         Staff attempt to break up scuffle aboard Carnival Legend cruise ship         Row erupts after Labour cancel vote for National Policy Forum         Swansea Campus evacuated as earthquake hits Western Britain         Theresa May rejects the call for her to reverse Brexit         Emergency services at scene of Horsham level crossing crash         UK's Elise Christie crashes during Short Track semi-finals         Trump arrives in Florida amid Mueller developments         House where Florida high school shooter Nikolas Cruz lived         These are all the victims of the Florida school shooting         Emotional moment man acknowledges stepdaughter's taken his name         National Express driver filmed trying to drag passenger off bus         
+
+
+
+
+
+        Jo Cox's husband Brendan confesses to inappropriate...        Doting father, 46, taking his daughter, 14, to visit his...        James Bulger's mother Denise reveals she has only...        Thanks for inviting me! Five-year-old boy battling cancer...        History of violence: Florida shooter HIT his adoptive...        British-funded charity supported by Meghan Markle faces...        Trump blames FBI for Florida school shooting and says it...        Don't worry, deer... I won't bite! And you can spring bok...        Pictured: Boy, 15, and his 72-year-old grandfather killed...        RBS admits FORGING an elderly customer's signature which...        'I'm ashamed': Labour MPs outrage after 'burly' ex-union...        EXCLUSIVE: The suburban mansion and luxury cars of the...        'Tone deaf': Melania criticized following school massacre...        Canadian PM Justin Trudeau and family lark about on...        Pictured: The teen who dated Florida shooter's...        Diana's personal photographer Patrick Demarchelier is...        Emma Watson donates £1MILLION to new celebrity-backed...        'We had this monster living under our roof and we didn't...      MOST READ NEWS  Previous Next  ● ● ● ●        DM && DM.later('bundle', function(){
+        DM.has('most-read-news', 'Rotator', {
+            pageSize: 4,
+            pageCount: 4
+        });
+    }); 
+
+              window._taboola = window._taboola || [];
+              _taboola.push({flush:true});
+            
+
+
+More top stories
+
+
+
+
+    DM.later('bundle', function(){
+        var n = 0;
+        var taboola_every_n = 10;
+        var taboola_counter = 10;
+
+        var addTaboola = function (node){
+            var id = "taboola-stream-thumbnails-" + (++n);
+            var taboola_node = '<div id="' + id + '" style="min-height: 280px;">';
+            $(node).before(taboola_node);
+
+            window._taboola = window._taboola || [];
+            _taboola.push({
+                mode: 'thumbnails-b',
+                container: id,
+                placement: "Stream Thumbnails " + n,
+                target_type: 'mix'
+            });
+        };
+
+        DM.has('infinite-list', 'InfiniteList', {
+url: '/api/infinite-list.html?channelShortName=femail&pageSize;=10',
+            total: 7.0,
+            from: 0,
+            onAfterAppend: function (container){
+                var items = $(container).children('div');
+                if(!taboola_every_n){
+                    return;
+                }
+
+                items.each(function (){
+                    if (taboola_counter == 0){
+                        addTaboola(this);
+                        taboola_counter = taboola_every_n - 1;
+                    }
+                    else {
+                        taboola_counter--;
+                    }
+                });
+            }
+        });
+    });
+
+
+
+
+
+
+
+
+Bing
+
+
+Site
+Web
+
+
+Enter search term:
+Search
+
+
+
+
+
+
+
+
+
+
+
+    DM.later('bundle', function(){
+        DM.has('p-1003-bing', 'bingSearchBox');
+    });
+
+
+adverts.addToArray({"pos":"mpu_top"})
+
+
+
+
+Like
+DailyMail
+
+
+
+
+Follow
+MailOnline
+
+
+
+
+Follow
+DailyMail
+
+
+
+
++1
+DailyMail
+
+
+
+
+DM.later('bundle', function () {
+    DMS.Puff.init({
+        twitter: {
+            newsUS: {
+                text: '@DailyMail',
+                account: 'DailyMail'
+            },
+            newsAU:{
+                text: '@DailyMailAU',
+                account: 'DailyMailAU'
+            }
+        }
+    });
+});      
+
+
+
+
+
+ 
+ 
+Femail Today
+
+
+
+
+
+
+
+
+
+
+          Pregnant Kate DEFIES the Time's Up dress code as Duchess arrives at BAFTAs in muted green dress while the rest of the red carpet wears black in equality protest
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          Angelina Jolie, Margot Robbie and Jennifer Lawrence exude old Hollywood glamor as they lead Britain's first major Time's Up protest on the BAFTA red carpet  
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          Céline Dion speaks candidly about her husband René Angélil's 'agonizing' death ... as the singer admits her mom initially didn't approve of the union
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          Jennifer Aniston and Justin Theroux 'last met on Valentine's Day' and 'decided together' to announce their split 'the next day'
+          
+          
+          Revealed Thursday
+        
+
+
+
+
+
+
+
+
+
+
+
+          Jennifer Lawrence showcases her toned curves in elegant off-the-shoulder black gown with daring semi-sheer back at glittering BAFTAs
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Margot Robbie dazzles in a sensational lace gown as she joins fellow first-time BAFTA nominee and I, Tonya co-star Allison Janney on the red carpet
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          Feminists hijack the BAFTAs protests by lying down on the red carpet and chanting 'sisters, united, we'll never be defeated' in domestic violence demo
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          Emma Roberts slips into a plunging power dress complete with statement shoulder pads as she supports Time's Up protest in black at the BAFTAs
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          Lady Bird's Saoirse Ronan dazzles in a semi-sheer feathered dress as she prepares to battle it out for Best Actress at the BAFTAs
+          
+          
+          The Irish actress
+        
+
+
+
+
+
+
+
+
+
+
+
+          Salma Hayek arrives at BAFTAs with husband François-Henri Pinault as she praises the Time's Up movement for 'uniting' her with other women 
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          Ring-a-ding-ding! Kate Hudson spotted wearing ring on her wedding finger prompting speculation she's engaged to her musician boyfriend of one year Danny Fujikawa
+          
+
+
+
+
+
+
+adverts.addToArray({"pos":"mpu_puff_10"})
+
+
+
+
+
+
+
+
+
+
+
+          Putting his best foot forward: Justin Trudeau dons Darth Vader socks during trip to meet Star Wars fan Indian Prime Mister Modi after he was snubbed by the leader
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          Canadian PM Justin Trudeau and family lark about on 'Diana's' Taj Mahal bench after he is 'snubbed' by Indian leader Modi
+          
+          
+          A family portrait 
+        
+
+
+
+
+
+
+
+
+
+
+
+          She's got front! Madonna, 59, flaunts her cleavage in topless Instagram photo
+          
+          
+          She showed off her youthful looks by stripping off
+        
+
+
+
+
+
+
+
+
+
+
+
+          Best actress nominees Margot Robbie and Saoirse Ronan share behind-the-scenes photos as they lead the stars getting ready for the BAFTAs in London
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          Sheer delight! OITNB's Dascha Polanco sizzles in see-through gown at NBA All-Star celebration in LA
+          
+          
+          Swapped her basketball jersey for a sexy gown 
+        
+
+
+
+
+
+
+
+
+
+
+
+          Blonde ambition! Cardi B rocks black leather ensemble and platinum hair for All-Star weekend amid recent pregnancy rumors
+          
+          
+          The 25-year-old rapper 
+        
+
+
+
+
+
+
+
+
+
+
+
+          Pregnant Mission Impossible star Rebecca Ferguson debuts her baby bump on the red carpet as she slips into monochrome cape gown for BAFTAs
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          Life's a beach! Kelly Bensimon, 49, rocks hot pink bikini before slipping on a tight white sun dress while on holiday in Palm Beach
+          
+          
+          She sizzled
+        
+
+
+
+
+
+
+
+
+
+
+
+          Girls trip! Alessandra Ambrosio shows off her taut midriff in sparkly bikini top and sequined skirt as she holidays with gal pals in Mexico
+          
+          
+          A leggy display
+        
+
+
+
+
+
+
+
+
+
+
+
+          Pretty in pink! German sensation Sophia Vegas showcases 'world's tiniest waist' in form fitting dress as she enjoys retail therapy in Beverly Hills
+          
+
+
+
+
+
+
+adverts.addToArray({"pos":"mpu_puff_20"})
+
+
+
+
+
+
+
+
+
+
+
+          'I take my health seriously': Shania Twain, 52, reveals lifestyle overhaul after Lyme disease battle... and admits she will 'always be an outsider' in country music scene
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          Check them out! Marc Mezvinsky wears some VERY snazzy $596 sneakers as he sits FROW of Burberry with wife Chelsea Clinton who dons a $1,250 dress 
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          Bundled up! Jonah Hill braves the cold in shorts and a puffy jacket as he walks pet English bulldog with girlfriend Erin Galpern in New York
+          
+          
+          It had been snowing
+        
+
+
+
+
+
+
+
+
+
+
+
+          Harper Beckham looks every inch the mini fashionista as dad David leads her through JFK Airport with Victoria and her brothers after half-term ski trip
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          Prince Harry's ex Cressida Bonas slips into a sequin-embellished ruffled black gown as makes a glamorous appearance at the BAFTAs 2018
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          Her Finest Hour! Lily James sets tongues wagging as she sports HUGE diamond ring on her wedding finger while walking the BAFTAs red carpet in ballgown
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Karen Gillan turns heads in a semi-sheer black mullet hem dress as she joins in the Time's Up BAFTA protest 
+          
+          
+          The actress is 30
+        
+
+
+
+
+
+
+
+
+
+
+
+          'We're fed up with not being treated the same.. change WILL happen': Actresses line up on the BAFTA red carpet to declare 'Time's Up' for sexism in the film industry 
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          Leggy in leather! Charlize Theron cuts a chic figure in skintight black trousers at Daytona 500
+          
+          
+          She is the race's honorary starter
+        
+
+
+
+
+
+
+
+
+
+
+
+          Victoria's Secret Angel Lais Ribeiro sets pulses racing while sporting a skimpy bikini on beach in Miami
+          
+          
+          The 27-year-old model set pulses racing 
+        
+
+
+
+
+
+adverts.addToArray({"pos":"mpu_puff_30"})
+
+
+
+
+
+
+
+
+
+
+
+          ABS-olutely fabulous! Victoria's Secret models Jasmine Tookes and Taylor Hill flaunt their incredible figures for sultry shoot in Miami
+          
+          
+          Bikini bodies
+        
+
+
+
+
+
+
+
+
+
+
+
+          Casual smooch between gay US skier Gus Kenworthy and his lover on live TV is hailed as important LGBTQ moment
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          Afternoon delight! Ariel Winter shows off gym-honed body in floral romper for lunch with boyfriend Levi Meaden
+          
+          
+          The 20-year-old actress was in Encino, California
+        
+
+
+
+
+
+
+
+
+
+
+
+          Kate Moss takes daughter Lila Grace, 15, for a spin in her vintage Mercedes 280 as she appears to smoke a cigarette... despite it being illegal to smoke with children in the car
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          Thanks for inviting me! Five-year-old boy battling cancer has enormous hug with Simon Cowell after music mogul invited the lad to son Eric's birthday
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          Best Date Ever? Niall Horan and Hailee Steinfeld spark dating rumours after being spotted at a Backstreet Boys gig in Las Vegas
+          
+          
+          A cozy display
+        
+
+
+
+
+
+
+
+
+
+
+
+          Former Olympic ice skater who became the first black athlete to win a medal at the Winter games reveals she lost her medal to bankruptcy after being diagnosed as bipolar 
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          Winter in la la land! Nick Jonas bundles up in a camel coat after dinner in West Hollywood
+          
+          
+          Hanging in there and surviving 60 degree temperatures 
+        
+
+
+
+
+
+
+
+
+
+
+
+          Lebron tells 'whatever her name is' Fox News host Laura Inghram that he 'will not shut up and dribble' after saying that the President doesn't 'give a f**k about the people' 
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          The Wessex Winter Olympics! Edward and Sophie enjoy a family skiing trip with their children in St. Moritz - but Lady Louise, 14, ends up on CRUTCHES 
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          Where is Melania? President Trump flashes a smile and gives another thumbs up while he poses next to a pair of blondes at Mar-a-Lago
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          Friendly exes! Jamie Foxx rocks stylish hat and jacket as he grabs lunch with baby mama Kristin Grannis
+          
+          
+          Good relations
+        
+
+
+
+
+
+
+
+
+
+
+
+          Gemma Arterton, Naomie Harris and Ruth Wilson join forces with female activists at the BAFTAs in powerful Time's Up protest 
+          
+          
+          United they stand
+        
+
+
+
+
+
+
+
+
+
+
+
+          Girl On The Train actress Haley Bennett dazzles in gold sequin and leather gown at the BAFTAs... amid romance rumors with Darkest Hour director Joe Wright
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          Hugh Grant's 'pregnant' girlfriend Anna Eberstein looks chic in a short black dress and smart blazer as the couple cozy up on the BAFTAs red carpet
+          
+
+
+
+
+
+
+adverts.addToArray({"pos":"mpu_puff_45"})
+
+
+
+
+
+
+
+
+
+
+
+          Hot date! Handsome cop whose selfie went viral after he helped Hurricane Irma victims releases calendar to raise money to improve police relations with children
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          Diana's personal photographer Patrick Demarchelier is accused of sex attacks on seven women as 25 leading fashion figures are named as abusers 
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          'Paris & Paris!' Hilton poses for a selfie with Jackson during star-studded birthday bash for 37-year-old socialite
+          
+          
+          The Simple Life starlet
+        
+
+
+
+
+
+
+
+
+
+
+
+          Michael Jackson's father Joe, 89, brands Quincy Jones 'jealous' after the producer's outburst slamming the King of Pop as 'Machiavellian' and 'greedy'
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          Can you spot the $14 bag from its $1,400 designer counterpart? High street stores roll out their trendiest designs yet (including a VERY convincing Meghan Markle dupe)
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          'I'm fed up with not being paid or treated the same as men': Kristin Scott Thomas shows her support for the Time's Up protest at the BAFTAs
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          Angelina Jolie is honored at the ASC Awards... as it's claimed her ex Brad Pitt 'has kept in touch with newly-split Jennifer Aniston'
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          Date night! Jennifer Lopez dons shredded jeans and lime green jacket to attend All-Star game with boyfriend Alex Rodriguez
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          It takes two! Doting boyfriend Joaquin Phoenix wraps his arm around girlfriend Rooney Mara during shopping outing 
+          
+          
+          Completely inseparable
+        
+
+
+
+
+
+
+
+
+
+
+
+          Harry gets a job: Prince wins official leadership role in a bid to attract younger people to Commonwealth
+          
+          
+          He is expected to play a lead role at April meeting
+        
+
+
+
+
+
+
+
+
+
+
+
+          Top of the crops! Sizzling Chantel Jeffries displays her toned tummy at Jamie Foxx's Charity Celebrity Basketball event
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          'Weekend vibes!' Kim Kardashian looks cheeky in all beige as she shows off her outfit on Instagram
+          
+          
+          The peroxide blonde's outfit clung to her curves
+        
+
+
+
+
+
+
+
+
+
+
+
+          Having a ball! Gabrielle Union beams with joy as she cosies up to husband Dwyane Wade at NBA All-Star Saturday Night
+          
+          
+          Being Mary Jane star
+        
+
+
+
+
+
+
+
+
+
+
+
+          Chic Geri Horner struggles to push pram up a snowy hill as she enjoys family ski holiday with husband Christian Horner and his daughter Olivia in the French Alps
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          Simply stunning! Nikki Reed turns heads in stylish patterned jumpsuit at Harper's Bazaar party celebrating the Costume Designers Guild awards
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          Hugh Grant, 57, puts on a dapper display as he joins 'pregnant' girlfriend Anna Eberstein, 35, at pre-BAFTA party... amid rumors he's expecting his FIFTH child
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          Kylie Jenner's baby daddy Travis Scott takes the stage for NBA All-Star event... as Tristan Thompson 'hangs out with Khloe Kardashian's exes'
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          'Bahamas weekend!' Victoria's Secret Angel Sara Sampaio suns in the Caribbean with bikini-clad model pals Sadie Newman and Georgia Fowler
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          Paul Burrell repeats claims Prince Charles left Princess Diana in hospital after Harry was born to meet Camilla... and insists AGAIN she predicted her car crash death
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          Sun's out, guns out! Muscly Thor star Chris Hemsworth makes as splash as he spends action-packed day on a jet ski with mates
+          
+          
+          Sunday funday
+        
+
+
+
+
+
+
+
+
+
+
+
+          Minnie Driver looks chic in a floral frock at pre-BAFTA bash... as she makes first public appearance after quitting Oxfam over Haiti prostitute scandal
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          AnnaLynne McCord puts on a leggy display in figure-hugging navy mini dress at GQ All Star Basketball Party
+          
+          
+          The 90210 actress led the glamour 
+        
+
+
+
+
+
+
+
+
+
+
+
+          Emma Watson leads the way with $1.4million donation as actresses join forces on Baftas red carpet in fight against sexual harassment
+          
+          
+          Harry Potter actress
+        
+
+
+
+
+
+
+
+
+
+
+
+          Smitten Helen McCrory puts on a loved-up display with husband Damian Lewis at Temperley LFW show
+          
+          
+          The couple appeared in jovial spirits 
+        
+
+
+
+
+
+
+
+
+
+
+
+          'Moms night out': Make-up free Mindy Kaling enjoys girl time... weeks after welcoming baby daughter Katherine
+          
+          
+          Her new show Champions debuts March 8
+        
+
+
+
+
+
+
+
+
+
+
+
+          Chelsea Clinton and out-of-work husband Marc Mezvinsky sit front row at star-studded Burberry LFW show 
+          
+          
+          He's with her
+        
+
+
+
+
+
+
+
+
+
+
+
+          Svelte Daisy Lowe turns heads in a burgundy midi dress as she joins chic Michelle Dockery at Roland Mouret's star-studded LFW show
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          Orange crush! Lupita Nyong'o stuns in tight tangerine dress while with co-star Danai Gurira during Black Panther promo in South Africa
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          Patrick Stewart, 77, and his wife Sunny Ozell, 39, spotted window shopping at the funeral directors as they enjoy wintry stroll in London
+          
+          
+          Wrapped up warm
+        
+
+
+
+
+
+
+
+
+
+
+
+          Earning her fashion stripes! Sophia Bush stuns in a monochrome duster and wide leg trousers for Mr. Chow 50th Anniversary party
+          
+          
+          Celebrating
+        
+
+
+
+
+
+
+
+
+
+
+
+          Make-up free Julianne Hough sports a casual ensemble as she takes a stroll around Los Angeles
+          
+          
+          Looked phenomenal
+        
+
+
+
+
+
+
+
+
+
+
+
+          Holding court! Karlie Kloss flashes toned torso in funky patchwork tracksuit as she leads celebrities at Adidas event
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          Snuggle time! Blac Chyna lavishes affection on daughter Dream and son King Cairo during relaxed night in
+          
+          
+          Sweet dreams
+        
+
+
+
+
+
+
+
+
+
+
+
+          So in love! Madison Beer and boyfriend Zack Bia pile on the PDA at Jamie Foxx's charity basketball game
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          'I had a nervous breakdown': Kylie Minogue, 49, discusses her split with Joshua Sasse... as she reveals she will NEVER have children
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          'New nose!' Southern Charm's Naomie Olindo undergoes plastic surgery after break-up
+          
+          
+          The 25-year-old Bravo star revealed she had undergone a nose job
+        
+
+
+
+
+
+
+
+
+
+
+
+          Lily James stuns in a gold embellished dress with a sheer bodice as she cosies up to boyfriend Matt Smith at Burberry LFW show
+          
+          
+          Baby Driver actress
+        
+
+
+
+
+
+
+
+
+
+
+
+          Slam dunk! Anwar Hadid locks lips with girlfriend Nicola Peltz at Jamie Foxx's charity basketball game
+          
+          
+          Tad distracted?
+        
+
+
+
+
+
+
+
+
+
+
+
+          'He's insanely pretty!' Sally Field shares son Sam's text admiring Olympic figure skater Adam Rippon... and tags the star in bid to set them up
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          American slopestyle skiier Nick Goepper celebrates silver after becoming SUICIDAL and battling a drink problem in wake of Russia 2014
+          
+          
+          Numerous struggles
+        
+
+
+
+
+
+
+
+
+
+
+
+          Naomi Watts cuts a casual figure as she touches down in London... amid claims her friendly embrace with Justin Theroux left Jennifer Aniston 'upset'
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          Inside Amy Schumer's big day! Tears, toasts and tipsy guests as comic posts more intimate behind the scenes photos from surprise wedding
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          'How am I going to get him to New York?' Cardi B receives enormous plush teddy bear from fiance Offset
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          These boots were made for walking! Camila Cabello steps out in eye-catching footwear and chic skirt during London Fashion Week   
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          'You are one of a kind': Paris Hilton's aunt Kyle Richards shares throwback baby photo of the star as socialite throws lavish 37th birthday bash
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          Leggy ladies! Kristen Stewart flaunts her lithe limbs in tiny shorts while girlfriend Stella Maxwell accentuates her gams with PVC trousers
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          Mommy approved! Victoria Beckham proudly shows off son Brooklyn's new 'Mum' tattoo in sweet Instagram
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          'It's just a phase and I'm going to stand still in the corner': Lionel Richie thinks his daughter Sofia, 19, is trying to get back at him by dating Scott Disick, 34
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          Joanna Lumley reveals she felt pressured to strip for 1971 film role after saying she DOESN'T regret working with Weinstein 
+          
+          
+          Ab Fab actress
+        
+
+
+
+
+
+
+
+
+
+
+
+          All that glitters! Greta Gerwig sparkles in gold mini dress as she turns heads at British Academy Film Awards nominees party
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          That didn't last long... Cheryl and toyboy lover Liam Payne 'could split in weeks' just a year after their son's birth
+          
+          
+          Liam's touring schedule causing tension 
+        
+
+
+
+
+
+
+
+
+
+
+
+          Smitten Idris Elba packs on the PDA with new fiancée Sabrina Dhowre as they snuggle up on the FROW at Burberry's LFW show
+          
+          
+          !
+        
+
+
+
+
+
+
+
+
+
+
+
+          'I still can't believe it!' Jessica Alba poses for a selfie with Honor and Haven as they cuddle baby brother Hayes
+          
+          
+          She's a proud mother-of-three
+        
+
+
+
+
+
+
+
+
+
+
+
+          Supermodel and Michael Hutchence's ex-girlfriend Helena Christensen, 49, will return to Melbourne Fashion Festival
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          Zoe Ball receives a helping hand from beau Michael Reed as she moves out of her home close to ex DJ Fatboy Slim... to allow her to 'move forward with her new relationship'
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          You are the most fun!!': Britney Spears fan-girls over Olympic figure skater Adam Rippon while Sally Field tries to get him to date her son
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          'You could truly feel the love!': The View's Jedediah Bila weds fiance Jeremy Scher in New York
+          
+          
+          'I'm super excited. Super, super excited', she said
+        
+
+
+
+
+
+
+
+
+
+
+
+          Forget something? Jennifer Lawrence goes trousers-free as she showcases her fantastic legs in ultra-short sweater dress
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          GIRL ABOUT TOWN: Margot Robbie - gets her skates on for the big Bafta bash which could see her land the best actress gong for her role in I, Tonya
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          GIRL ABOUT TOWN: Check this out! Cara Delevingne closes Burberry director Christopher Bailey's last ever catwalk show for the Brit fashion house
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          Game of Thrones star Natalie Dormer flashes a glimpse of her cleavage in semi-sheer nude ballgown at the star-studded BAFTA Nominees' Party
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          'Hope, peace and unconditional love': Teen Mom's Tyler Baltierra gushes after visiting his wife Catelynn Lowell at Arizona rehab center she's in
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          Bumping along just nicely! April Love Geary covers up growing torso in patterned dress as she holds hands with Robin Thicke
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          Super mom! Hilary Duff shows off her toned figure in sleeveless tee as she takes son Luca to lunch
+          
+          
+          Quality time
+        
+
+
+
+
+
+
+
+
+
+
+
+          Moss be fashion royalty! Elegant Kate, 44, joins forces with fellow age-defying supermodel Naomi Campbell, 47, at star-studded Burberry LFW show
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          Getting daddy moving! Pregnant Hilaria gets Alec Baldwin out and about with Carmen and Rafael... less than two weeks after hip surgery
+          
+          
+          He had his hip replaced
+        
+
+
+
+
+
+
+
+
+
+
+
+          At least one Friend is happy! Courteney Cox packs on the PDA as she is reunited with Johnny McDaid after comforting Jennifer Aniston
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          Hell for leather! Lindsay Lohan steps out in figure hugging leather dress and headscarf at London Fashion Week
+          
+          
+          The actress wore an all-black outfit
+        
+
+
+
+
+
+
+
+
+
+
+
+          Samuel L Jackson stops traffic as he's joined by the original and new Shaft actors on the set of sequel
+          
+          
+          Donning the character's famous trenchcoat
+        
+
+
+
+
+
+
+
+
+
+
+
+          Jennifer Aniston 'didn't like' Justin Theroux's friendly hug with Naomi Watts and 'grew increasingly angry that he acted like he was single'
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          Why it's got to be CURTAINS for Harry's style! We thought there was something familiar - and homely - about those drape suits...
+          
+          
+          Gaudy curtain patterns
+        
+
+
+
+
+
+
+
+
+
+
+
+          'Rise of the women!' Rose McGowan makes a statement in message sunglasses in Beverly Hills
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          Aussie actor Daniel MacPherson talks 'reinventing' his career in the US... as he gears up for the premiere of his new film co-starring Oprah Winfrey
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          Red alert! Gigi Hadid is impossible to miss in head to toe crimson knitted outfit
+          
+          
+          She's known for her fashion-forward sensibility
+        
+
+
+
+
+
+
+
+
+
+
+
+          Sienna Miller flatters her slender figure in clashing prints as she makes trendsetting arrival at star-studded Burberry show for LFW
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          Russell Simmons looks low-key in first sighting since he skipped town for Balinese yoga retreat after sexual misconduct allegations emerged
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          'They communicate from time to time': Jennifer Aniston 'kept in touch with ex Brad Pitt while marriage to Justin Theroux was ending'
+          
+          
+          Shoulder to cry on?
+        
+
+
+
+
+
+
+
+
+
+
+
+          All covered up! Eva Longoria keeps her bump under wraps while husband Jose Baston takes a dip in the pool in Miami
+          
+          
+          Taking it easy
+        
+
+
+
+
+
+
+
+
+
+
+
+          Not your Grandma's crochet! Alessandra Ambrosio shows off her figure in a tiny knitted bikini
+          
+          
+          Spotted taking a dip in the Caribbean Sea
+        
+
+
+
+
+
+
+
+
+
+
+
+          'Recovery!' Kaia Gerber kicks back in a bikini with mom and dad after a grueling New York Fashion Week
+          
+          
+          Shared a picture as she relaxed on a pool towel
+        
+
+
+
+
+
+
+
+
+
+
+
+          'What's going on with Karlie Kloss and Taylor Swift?' Jennifer Lawrence calls out the onetime BFFs
+          
+          
+          Haven't been seen together in months
+        
+
+
+
+
+
+
+
+
+
+
+
+          'All natural!' Alessandra Ambrosio poses naked in a swing on luxury beach vacation
+          
+          
+          36-year-old former Victoria's Secret Angel
+        
+
+
+
+
+
+
+
+
+
+
+
+          Kate Hudson looks boho chic in a floral maxi skirt and plunging top alongside her boyfriend Danny Fujikawa
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          Daddy's little girl! Rob Kardashian shares sweet video clip of daughter Dream saying 'dada' from her crib
+          
+          
+          He and Blac Chyna welcomed her last year
+        
+
+
+
+
+
+
+
+
+
+
+
+          Girls' night out! Caitlyn Jenner, 68, steps out in Los Angeles with gal pal Sophia Hutchins, 21
+          
+          
+          She has been dealing with a rift in her family life
+        
+
+
+
+
+
+
+
+
+
+
+
+          Margot Robbie makes a bold style statement in fringed white minidress as she joins Gemma Arterton, Salma Hayek and Karen Gillan at BAFTA nominees bash
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          Oh so chic! Isabelle Huppert dazzles in all-white pantsuit as she turns heads at Berlin International Film Festival
+          
+          
+           
+        
+
+
+
+
+
+
+
+
+
+
+
+          Bike it like Beckham! Brooklyn showcases catwalk trends in bomber jacket and flat cap as he races around NYC
+          
+          
+          A wheelie great time
+        
+
+
+
+
+
+
+
+
+
+
+
+          Check her out! Zendaya commands attention in stunning yellow checkered jacket and graffiti suit as she sits front row at Burberry's LFW show
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          Supermodel Cara Delevingne bursts onto the catwalk in colorful coat as she joins forces with Sienna Miller, Kate Moss and Naomi Campbell for Burberry's collection at LFW
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          She's only getting better! Britney Spears soars as she recreates leap picture from two years ago
+          
+          
+          Perfectly aligned pose was even better
+        
+
+
+
+
+
+
+
+
+
+
+
+          Liam Gallagher enjoys rare family outing with girlfriend Debbie and his son Gene at Burberry's LFW show... after admitting he's NEVER met his two daughters born from his affairs
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          He's still mommy's baby! Gwen Stefani cradles son Apollo as the two enjoy some mommy and me time
+          
+          
+          Spent time with her youngest son
+        
+
+
+
+
+
+
+
+
+
+
+
+          Ariel Winter puts on cheeky display in skimpy playsuit for coffee date with boyfriend Levi Meaden
+          
+          
+          The 20-year-old actress showcased her curves
+        
+
+
+
+
+
+
+
+
+
+
+
+          Nicole Scherzinger looks sensational in a raunchy leather mini dress for the Adidas All Star Weekend in Los Angeles
+          
+          
+          All eyes were on her
+        
+
+
+
+
+
+adverts.addToArray({"pos":"mpu_middle"})
+
+
+ 
+ 
+DON'T MISS
+
+
+
+
+
+
+
+
+
+
+          Beaming Mel B exhibits her gym-honed frame in a crop top and grey camo leggings as she enjoys a low-key shopping date with daughter Madison, 6
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          'I am a hungover corpse!' Snooki hides behind her sunglasses at Jersey Shore photo shoot after a boozy late night
+          
+          
+          Back to her old ways
+        
+
+
+
+
+
+
+
+
+
+
+
+          Reliving her childhood! Emma Stone goes back to the 90s as she rocks fanny pack and cap at Disneyland
+          
+          
+          With a group of friends in California
+        
+
+
+
+
+
+
+
+
+
+
+
+          Black Panther looks set to shatter box office records... with Marvel movie on track to take $210m over holiday weekend
+          
+          
+          Super popular
+        
+
+
+
+
+
+
+
+
+
+
+
+          'Weed is legal lol!' The Game laughs off footage of Chris Brown 'passing him a marijuana cigarette' at star-studded basketball game
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          Spitting image! Sailor Brinkley Cook looks identical to mom Christie as she poses in skimpy bikinis for new Sports Illustrated Swimsuit video 
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          'Thank you my love': Pregnant Khloe Kardashian posts gushing tribute to beau Tristan Thompson as they pose in front of Valentine's Day display
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          Why can't Jennifer Aniston find a lasting love? ALISON BOSHOFF asks the question that sends the Friends actress into a rage as her marriage to Justin Theroux ends
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          Proud mom Serena Williams bonds with newborn daughter Alexis Olympia in delightful new video
+          
+          
+          Treated her fans to a video of her daughter
+        
+
+
+
+
+
+
+
+
+
+
+
+          'Public naughtiness': Cheeky Courtney Stodden flashes her bare breasts in VERY provocative clip
+          
+          
+          The reality star shared a very racy video
+        
+
+
+
+
+
+
+
+
+
+
+
+          Jennifer Aniston's 'dislike of NYC' may have played role in shock split from Justin Theroux as she 'couldn't deal with his pokey apartment'
+          
+          
+          They have separated
+        
+
+
+
+
+
+
+
+
+
+
+
+          Hello sunshine! Mandy Moore steps out in pink sweater and ripped jeans for breakfast with fiance Taylor Goldsmith and friends
+          
+          
+          Chilling with friends
+        
+
+
+
+
+
+
+
+
+
+
+
+          Keeping it casual! Kanye West heads into the office in shorts and a sweatshirt... days after disappearing from Instagram again
+          
+          
+          Super casual
+        
+
+
+
+
+
+
+
+
+
+
+
+          GIRL ABOUT TOWN: She really loves horsing around! Hollywood star Kate Beckinsale dresses up as pantomime horse in South Africa
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          Rita Ora flaunts her incredible figure in a racy bejeweled leotard as she marks 10 years of Kosovan independence with open-air concert
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          Man of style! Mickey Rourke bares his chest in low-cut top and leather jacket as he leaves Mr. Chow's 50th Anniversary party with gal pal
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          GIRL ABOUT TOWN: Camilla calms Meghan Markle's wedding nerves by inviting her to an intimate lunch at Clarence House 
+          
+          
+          Wedding day is just weeks away
+        
+
+
+
+
+
+
+
+
+
+
+
+          Looking fly! Kate Hudson dons maxi dress as she arrives in Australia with her boyfriend Danny Fujikawa
+          
+          
+          The 38-year-old actress 
+        
+
+
+
+
+
+
+
+
+
+
+
+          Growing and glowing! Pregnant DWTS pro Kym Johnson wraps her baby bump in black tunic while visiting the dance studio with a friend
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          Abs-solutely fabulous! Victoria's Secret model Georgia Fowler flaunts her flat stomach and slender legs while lobster fishing in The Bahamas
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          Puppy love! Sofia Richie welcomes new pet dog as she shares sweet video of herself cuddling canine 
+          
+          
+          She's usually cuddling up to beau Scott Disick
+        
+
+
+
+
+
+
+
+
+
+
+
+          Make-up free Paris Jackson cuts a casual figure in sweatpants and gold chains as she touches down in London after partying at New York Fashion Week
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          Kate Moss cuts a chic figure as she shuns London Fashion Week to go shopping with lookalike daughter Lila Grace in Soho 
+          
+          
+          Shopping spree
+        
+
+
+
+
+
+
+
+
+
+
+
+          Elizabeth Hurley, 52, sets Instagram alight as she flashes her busty assets... after getting slammed for revealing son Damian, 15, takes her sexy snaps
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          Newly-engaged Ed Sheeran keeps coy as he enjoys a cozy night out in London with fiancée Cherry Seaborn
+          
+          
+          Spent some quality time with his fiancée
+        
+
+
+
+
+
+
+
+
+
+
+
+          Pep in her step! Amanda Seyfried goes for coffee run in sporty leggings and casual sweatshirt 
+          
+          
+          Spotted  was running errands
+        
+
+
+
+
+
+
+
+
+
+
+
+          SNL's Leslie Jones cheers up Maame Biney - the first black woman to qualify for the US Olympic speed skating team - after she finished last
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          Spot the bump! Pregnant Kirsten Dunst continues to display her evolving physique in thigh-skimming polka dot dress in Los Angeles
+          
+          
+          Blossoming baby bump
+        
+
+
+
+
+
+
+
+
+
+
+
+          Rita Ora puts on a sizzling display as she flaunts her ample assets in plunging black brale
+          
+          
+          Shared a slew of sexy snaps via her Instagram
+        
+
+
+
+
+
+
+
+
+
+
+
+          Jaden Smith maintains his signature style in a distressed denim jacket as he gives an electric performance during NBA's All-Star Weekend
+          
+          
+          Incredible performance
+        
+
+
+
+
+
+
+
+
+
+
+
+          Bringing the va va voom! Nicole Murphy sizzles as she showcases her fantastic figure in sideboob-showcasing dress at All-Star bash
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          Dua Lipa flaunts her tiny waist in red cut-out bodysuit and black joggers as she takes to the stage in Vancouver
+          
+          
+          Wowed fans with the sizzling Instagram snap
+        
+
+
+
+
+
+
+
+
+
+
+
+          Another day, another campaign! Stella Maxwell to front new beauty campaign helmed by fashion designer Karl Lagerfeld
+          
+          
+          New gig
+        
+
+
+
+
+
+
+
+
+
+
+
+          Daisy Lowe flaunts her hourglass curves and enviable cleavage in white trench coat and silky lace dress at Simone Rocha's LFW show
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          Biker chic! Heidi Klum parades gym-honed physique in all-leather as she arrives to Mr. Chow's 50th Anniversary celebration in LA 
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          From Not To Hot: Mama June is rushed to hospital after losing sight in both eyes on latest episode of reality series
+          
+          
+          Worrying times
+        
+
+
+
+
+
+
+
+
+
+
+
+          Curvaceous Iskra Lawrence flashes a glimpse of her toned stomach in a crop top and clingy skirt for swanky London Fashion Week party
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          Danish Royals and thousands of Danes bid farewell to Prince Henrik as his casket goes on display at Copenhagen chapel ahead of private funeral
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          'Hell, no... that's horrible': Omarosa denies having sex with Trump as she is quizzed by Brandi in the CBB house but says that 'someone in the WH is sleeping around' 
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          Trump can't stop smiling and gives the thumbs up as he visits victims of Florida massacre in hospital but refuses to be drawn on whether country's gun laws need to change 
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          Sisters who competed to snare world's richest men: New book reveals jealousy between Jackie O and sister Lee which led to both of them sleeping with JFK 
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          The Beatle's sister who lives in poverty: George Harrison's sister lives on welfare and a manages a Fab Four tribute band after being cut off by his widow
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          Michael Schumacher's daughter Gina takes first place in horse-riding competition as the F1 icon is still unable to walk four years on from skiing accident
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          Socialite Lady Victoria Hervey, 41, goes braless in a plunging wrap top as she parades her lithe physique at London Fashion Week bash
+          
+          
+          Former 'It Girl'
+        
+
+
+
+
+
+
+
+
+
+
+
+          Kendall Jenner's relationship with Blake Griffin has 'taken a toll' after she was dragged into palimony suit by his ex Brynn Cameron
+          
+          
+          The basketball star is being sued 
+        
+
+
+
+
+
+
+
+
+
+
+
+          Grey's Anatomy's Eric Dane and Rebecca Gayheart file for divorce after 14 year marriage
+          
+          
+          Gayheart, 46, is seeking spousal support and joint legal and physical custody of their two girls
+        
+
+
+
+
+
+
+
+
+
+
+
+          Bikini-clad Tamara Ecclestone flaunts her trim figure as she continues to soak up the sun with mini-me daughter Sophia, 3, on idyllic Dubai getaway
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          Doesn't take after dad! Shark killer Donald Trump Jr goofs around with the Mets as they proudly show off their catch (just don't show father Donald as he's 'terrified of sharks') 
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          Holy-wood! Black Panther actress said the film set felt 'like a church' as cast and crew were 'testifying to God's miracles' during breaks
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          'I am America's sweetheart': Gay Olympian Adam Rippon bows out of the Winter Olympics and says he will 'dry out his costumes' before considering his future
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          Making a splash! Charlize Theron smolders for the camera as she poses in sophisticated black outfit for photo shoot on Malibu beach 
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          Trump 'had affair' with Playboy Playmate three months after Melania gave birth, with model claiming he tried to pay her for sex and silence her with $150k 
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          Curves ahead! Victoria's Secret models Josephine Skriver, Georgia Fowler and Roosmarijn De Kok pose TOPLESS for risque lingerie shoot
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          'My body is not the Terminator': Lindsey Vonn hints at retirement saying she's '99 per cent sure' this is her last Olympics as skier hoped to win gold to honor her late grandfather
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          Making a statement! Busy Philipps rocks sweatshirt declaring 'Hysterical Female' as she runs errands in LA
+          
+          
+          The 38-year-old Vice Principals star 
+        
+
+
+
+
+
+
+
+
+
+
+
+          Holding on by a thread? Melania ignores Donald as he tries to grab her THUMB when they arrive in Florida amid Playboy Playmate affair scandal
+          
+          
+          Frosty encounter
+        
+
+
+
+
+
+
+
+
+
+
+
+          Tangerine dream! Lupita Nyong'o dazzles in colorful dress featuring gold embroidery at South African premiere of Black Panther
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          If you've got it! Outlander star Caitriona Balfe dazzles in electric blue mini dress as she shows off short new hair style 
+          
+          
+          On The Late Late Show in Dublin on Friday 
+        
+
+
+
+
+
+
+
+
+
+
+
+          Courteney Cox keeps it casual in striped blouse and jeans as she steps out in LA... after gal pal Jennifer Aniston's shock split
+          
+          
+          Digging denim
+        
+
+
+
+
+
+
+
+
+
+
+
+          Mom on-the-go! Jessica Alba breastfeeds newborn son Hayes in Target dressing room
+          
+          
+          Her son is two months old
+        
+
+
+
+
+
+
+
+
+
+
+
+          'Who doesn't love to twirl all day??': Britney Spears shows off athletic agility as she spins in circles at home
+          
+          
+          The Grammy-winner shows off her fitness
+        
+
+
+
+
+
+
+
+
+
+
+
+          Cardi B looks far from pregnant as she flashes flat tummy in new video where she sings in her bra... as fiance Offset denies rumors she's with child
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          Star in stripes! Margot Robbie wows in chic blouse and matching trousers as she attends screening of I, Tonya
+          
+          
+          She is nominated for a BAFTA and Oscar 
+        
+
+
+
+
+
+
+
+
+
+
+
+          Love is in the air! Kate Mara and husband Jamie Bell can't take their hands off each other as they jet into LA
+          
+          
+          They recently tied the knot 
+        
+
+
+
+
+
+
+
+
+
+
+
+          Justin Bieber returns to NBA Celebrity All-Star game seven years after winning MVP... but is once again on the losing team
+          
+          
+          He won the MVP the last time he played 
+        
+
+
+
+
+
+
+
+
+
+ 
+ 
+Today's headlines
+
+
+ 
+ 
+Most Read
+
+
+
+
+
+
+
+
+ 
+              
+              Leave it out ladies! Why those trendy exclusion diets pushed by Gwynnie, Beyonce and co can sap your sex drive, leave you depressed and make you gain weight
+            
+
+
+
+ 
+              
+              What will the Year of the Dog bring YOU? Chinese zodiac expert reveals EXACTLY what your sign can expect for the next 12 months - including who's going to make the most money
+            
+
+
+
+ 
+              
+              Portrait of ‘80s parenting! Photo of little boy blowing out his candles surrounded by ashtrays and beer cans goes viral as people hail the ‘good old days’ before generation snowflake
+            
+
+
+
+ 
+              
+              JAN MOIR: Why does Meghan Markle need to be so huggy wuggy?
+            
+
+
+
+ 
+              
+              Versace the high fashion victim: Gianni Versace's murder shocked the world – now a powerful new drama reveals why the designer's death was even MORE tragic than people realised
+            
+
+
+
+ 
+Ad Feature
+              Eat like an athlete! The stars of the Winter Olympics reveal their food favourites
+            
+
+
+
+ 
+              
+              Magician father 'saws' his sleeping baby daughter in HALF in startling video shared online - but can YOU figure out how the trick works?
+            
+
+
+
+
+MORE HEADLINES
+
+
+
+
+
+
+
+ 
+            Revealed: The hidden dangers of vegan and vegetarian diets that could lead to serious health problems
+            
+
+
+
+ 
+            I'll be there for you – but your ex never will: LIZ JONES writes an open letter to Jennifer Aniston after her split from husband Justin Theroux 
+            
+
+
+
+ 
+            Leave it out ladies! Why those trendy exclusion diets pushed by Gwynnie, Beyonce and co can sap your sex drive, leave you depressed and make you gain weight
+            
+
+
+
+ 
+            That was close! From dodging a falling tree to being nibbled by a SHARK, death-defying photographs show incredible near misses
+            
+
+
+
+ 
+            The REAL reasons millennials struggle to find love: Relationship guru reveals modern dating fails - including trawling through Tinder and getting drunk on the first date 
+            
+
+
+
+ 
+            The Wessex Winter Olympics! Edward and Sophie enjoy a family skiing trip with their children in glitzy St. Moritz - but Lady Louise, 14, ends up on CRUTCHES after taking a fall
+            
+
+
+
+ 
+            Can you spot the £10 bag from its £1,000 designer counterpart? High street stores roll out their trendiest designs yet (including a VERY convincing Meghan Markle dupe)
+            
+
+
+MOST READ IN DETAIL
+
+
+
+
+
+
+
+    DM.later('bundle', function(){
+        DM.has("p-1431", "headlines");
+    });
+
+
+
+.mol-fe-vouchercodes-link {
+  display: inline-block;
+  width: 308px;
+  margin: 0 20px 20px 0;
+}
+.mol-fe-vouchercodes-link img{
+  width: 100%;
+  height: auto;
+}
+.mol-mobile .mol-fe-vouchercodes-link,
+.beta .mol-fe-vouchercodes-link {
+  width: 100%;
+  margin: 0 0 16px 0;
+}
+.alpha .mol-fe-vouchercodes-link:nth-child(n+2),
+.gamma .mol-fe-vouchercodes-link:nth-child(n+3) {
+  margin-right: 0;
+}
+
+adverts.addToArray({"pos":"mpu_bottom"})
+
+
+ 
+		DM.later('bundle', function() {
+			var expireDate = new Date(),
+			cName = null;
+			
+ 			if(navigator.userAgent.search("Silk") > -1) {
+				var cName = "KindleExpiry",
+					link = "amzn://apps/android?asin=B00ARI9CDQ",
+					message = 'An important message from MailOnline. '+
+					'MailOnline on Kindle is here! '+
+					'We think our Kindle app is a much better way of viewing MailOnline. '+
+					'Available FREE in the Amazon AppStore. '+
+					'Download it now! ';
+			} else if(navigator.userAgent.search("Android") > -1) {
+				if(navigator.userAgent.search("Mobile") > -1){
+					var cName = "AndroidExpiry",
+					link = "https://play.google.com/store/apps/details?id=com.dailymail.online",
+					message = 'We think our Android app is a much better way of viewing MailOnline. It\'s FREE in the Google Play store and has over 2 million downloads. Get it now! ';
+					expireDate.setMonth(expireDate.getMonth() + 1);
+				} else {
+					var cName = "AndroidExpiry",
+					link = "https://play.google.com/store/apps/details?id=com.dailymail.online",
+                    message =  "We think our Android tablet app is a much better way of viewing MailOnline. Available for FREE on Google Play. Download it now!";
+					expireDate.setMonth(expireDate.getMonth() + 1);
+				}
+			}
+				var log;
+
+				function setCookie(){
+					DM.setCookie(cName, cName, expireDate, "/");
+				}
+
+				function getCookie(){
+					return DM.getCookie(cName);
+				}
+
+				if(cName && !getCookie()){
+					var conf = confirm(message);
+					
+					if (conf){
+						setCookie();
+						window.location = link;
+					} else {
+						setCookie();
+					}
+				}
+			
+		});
+	
+
+
+
+
+
+
+var twitterVia = 'Femail';
+
+window.FFF = window.FFF || {};window.FFF.ad = window.FFF.ad || {inline: {adAdded: false}, overlay:{celebNames:""}};adverts.addToArray({id:"fff_overlay", type:"964x114", pos:"fff", extraZoneOptions:{FFFtype:"overlay", FFFname:window.FFF.ad.overlay.celebNames, fff:true}, command: "pfadj", dcopt: true});
+
+
+
+
+
+adverts.addToArray({"pos":"sky_left_top"})
+
+
+
+
+adverts.requestGoogleAd({containerid: '8'});
+
+
+
+adverts.addToArray({"pos":"sky_right_top"})
+
+
+
+
+adverts.requestGoogleAd({containerid: '8'});
+
+
+
+
+  // 
+  window.feGoogleClientId = "746589970956-e10ciaf67a1id9ggu75ph3ds0sthn7j6.apps.googleusercontent.com";
+  window.articleShortUrl = "http://dailym.ai/2i4FIqA";
+
+  DM.molFeComponents.setConfig('molFeSocialShareOverlay', {
+    googleClientId: "746589970956-e10ciaf67a1id9ggu75ph3ds0sthn7j6.apps.googleusercontent.com",
+    articleShortUrl: "http://dailym.ai/2i4FIqA"
+  });
+
+  DM.molFeComponents.setConfig('molFeSocialShareOverlay/recommendations', {
+    title: "Most Read Articles",
+    links: [
+      {title: "That was close! From dodging a falling tree to being nibbled by a SHARK, death-defying photographs show incredible near misses",
+       url: "http://www.dailymail.co.uk/femail/article-5400445/Images-people-narrowly-avoiding-horrifying-disasters.html?email_share_article-image-share_most-read-articles"
+      },
+      {title: "I'll be there for you – but your ex never will: LIZ JONES writes an open letter to Jennifer Aniston after her split from husband Justin Theroux ",
+       url: "http://www.dailymail.co.uk/femail/article-5404823/LIZ-JONES-writes-open-letter-Jennifer-Aniston.html?email_share_article-image-share_most-read-articles"
+      },
+      {title: "The REAL reasons millennials struggle to find love: Relationship guru reveals modern dating fails - including trawling through Tinder and getting drunk on the first date ",
+       url: "http://www.dailymail.co.uk/femail/article-5396213/The-10-mistakes-millennials-make-looking-love.html?email_share_article-image-share_most-read-articles"
+      },
+    ]
+  });
+
+
+  DM.molFeComponents.setConfig('molFePrevNextNavigation', {"prevArticle":null,"nextArticle":{"headline":"Pictured: The teen who dated Florida shooter's ex-girlfriend after him says the killer threatened his life and promised to 'watch him bleed' for 'stealing' his girl and physically attacked him twice","url":"/news/article-5405891/Teen-dated-Florida-shooters-ex-received-death-threats.html","imageUrl":"http://i.dailymail.co.uk/i/newpix/2018/02/18/16/4959CAF000000578-0-image-a-33_1518971526125.jpg"},"forceOnTopOfAds":true});
+
+
+
+
+
+
+
+    DM.later('bundle', function(){
+        DM.has('content', 'shareLinks', { isChannel: false,
+            'anchor': 'tl'});
+        DM.has('content', 'emailLightbox', {captchaKey: "6LeY2-4SAAAAAIBDImssm1PBXuabVBZBFd0Uin2d"});
+    });
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    DM.later(['bundle', 'DOM_READY'], function(){
+        if (window.ArticlePage) {
+            new ArticlePage();
+        }
+    });
+
+
+
+window.FFF = window.FFF || {};
+window.FFF.env = {"fffHubHost":"http://www.dailymail.co.uk/femail/fashionfinder","imageCropperUrl":"http://mol-hsk-apps-vip.andweb.dmgt.net/imagecropper","googlePlusId":"153480112219.apps.googleusercontent.com","showFFFHubRelatedBanners":true,"name":"production","croppedImagesPath":"http://i.dailymail.co.uk/i/fffhub","timeToReEnableSaveButtonsInMilliseconds":90000,"facebookAppId":146202712090395,"fffHost":"http://fff.dailymail.co.uk","priceGroups":[{"value":"","avg":0,"label":"Choose price range"},{"value":"££££","avg":10000,"label":"500+ (££££)"},{"value":"£££","avg":370,"label":"250-500 (£££)"},{"value":"££","avg":160,"label":"75 - 250 (££)"},{"value":"£","avg":35,"label":"0 - 75 (£)"}],"doNotUseTransloaditCroppingService":false,"adminHost":"http://and-hsk-femailff-vip.andweb.dmgt.net:8187","fffPreviewHost":"http://and-hsk-femailff-vip.andweb.dmgt.net","accessoriseNativeAdUrl":"http://fff.dailymail.co.uk/accessorise_ad","editorHost":"http://and-hsk-femailff-vip.andweb.dmgt.net","previewHostNames":"live-us.andweb.dmgt.net, live-uk.andweb.dmgt.net, mol-uk.andweb.dmgt.net, mol-us.andweb.dmgt.net, and-hsk-femailff-vip.andweb.dmgt.net","platform":"default","doNotUploadProductImagesToAkamai":false};
+
+
+
+
+
+
+
+NEW ARTICLESHomeTopShare
+  DM.later('bundle', function() {
+    DM.molFeFloatingButtons.init({
+        newArticleRefresh: '1200',
+        showArticleCount: 'true',
+        featureEnabled: 'true',
+        newArticleCount: '3118760'
+    })
+  });
+
+
+
+
+
+
+ 
+ 
+Back to top
+
+
+
+
+
+
+Home
+
+
+
+
+U.K.
+
+
+
+
+News
+
+
+
+
+Sports
+
+
+
+
+U.S. Showbiz
+
+
+
+
+Australia
+
+
+
+
+Femail
+
+
+
+
+Health
+
+
+
+
+Science
+
+
+
+
+Money
+
+
+
+
+Video
+
+
+
+
+Travel
+
+
+
+
+Columnists
+
+
+
+
+DailyMailTV
+
+
+
+
+
+
+Sitemap
+Archive
+Video Archive
+Topics Index
+Mobile Apps
+Screensaver
+RSS
+Text-based site
+Reader Prints
+Our Papers
+Top of page
+
+Daily Mail
+Mail on	Sunday
+This is Money
+
+Metro
+Jobsite
+Mail Travel
+Zoopla.co.uk
+Prime Location
+Discount Codes
+Coupons
+
+
+Published by Associated Newspapers Ltd
+Part of the Daily Mail, The Mail on Sunday & Metro Media Group
+© Associated Newspapers Ltd
+Contact us
+How to complain
+Advertise with us
+Contributors
+Work with Us
+Terms
+Privacy policy & cookies
+
+
+
+
+
+
+
+    DM.later('bundle', function(){
+      if (typeof DM !== "undefined" && typeof DM.Fn !== "undefined") {
+        DM.Fn.init();
+      }
+    });
+
+
+
+  window._taboola = window._taboola || [];
+  _taboola.push({flush:true});
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+DM.molFeComponents.setConfig('molFeSmartBanner', {"android":{"averageUserRating":4.5,"formattedPrice":"FREE - In Google Play","trackCensoredName":"Daily Mail Online","storeUrl":"https://play.google.com/store/apps/details?id=com.dailymail.online","app":"mol"},"ios":{"averageUserRating":4.5,"formattedPrice":"FREE - On the App Store","trackCensoredName":"MailOnline","storeUrl":"https://itunes.apple.com/gb/app/mailonline/id384101264?mt=8&uo=4","app":"mol"},"windowsPhone":{"averageUserRating":5,"formattedPrice":"FREE - On the Microsoft Store","trackCensoredName":"MailOnline","storeUrl":"http://windowsphone.com/s?appid=fabd0080-9f8a-4f96-b720-78c28ed798b4","app":"mol"}});
+
+
+
+
+if (document.location.protocol == 'http:' && !((window.location.hostname).match("dailymail.com"))) {
+  var Tynt = Tynt || [];
+  Tynt.push('bBOTTqvd0r3Pooab7jrHcU');
+  Tynt.i = {
+    "ap" : "Read more:",
+    "w" : "MailOnline",
+    "f" : "DailyMail"
+  };
+  (function() {
+    var s = document.createElement('script');
+    s.async = "async";
+    s.type = "text/javascript";
+    s.src = '//tcr.tynt.com/ti.js';
+    var h = document.getElementsByTagName('script')[0];
+    h.parentNode.insertBefore(s, h);
+  })();
+}
+
+
+
+
+
+(function (){
+  var todo = true;
+  var i = setInterval(function (){
+    if (window._cc991 && todo){
+      clearInterval(i);
+      todo = false;
+      window._cc991.bcp();
+    }
+  }, 100);
+}());
+

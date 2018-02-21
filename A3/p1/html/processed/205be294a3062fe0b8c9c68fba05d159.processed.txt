@@ -1,0 +1,832 @@
+http://www.aljazeera.com/programmes/peopleandpower/episodes.html
+
+
+
+
+
+Episodes - Al Jazeera English
+
+
+
+var _sf_startpt=(new Date()).getTime()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"URL": $("meta[property='og:internalurl']").attr('content').toString() ,"enabledProviders":"*"}
+
+
+
+ 
+if ( /(iPad).*AppleWebKit.*Mobile.*Safari/.test(navigator.userAgent) ) {
+  var headNode = document.getElementsByTagName("head")[0];
+  var sbNode = document.createElement('meta');
+  sbNode.name = 'apple-itunes-app';
+  sbNode.content = 'app-id=504847776';
+  headNode.appendChild(sbNode);
+} 
+else if ( /(iPhone|iPod).*AppleWebKit.*Mobile.*Safari/.test(navigator.userAgent) ) {
+  var headNode = document.getElementsByTagName("head")[0];
+  var sbNode = document.createElement('meta');                    
+  sbNode.name = 'apple-itunes-app';                
+  sbNode.content = 'app-id=504847776';
+  headNode.appendChild(sbNode);
+}
+
+
+        $(document).ready(function () {
+	ShowingNow();	});
+	
+	 if (/(iPhone|iPod|iPad)/.test(navigator.userAgent)) 
+	{
+		if(window.localStorage.getItem ("AJE_Safari")==null)
+		{ 				
+			window.localStorage.setItem("AJE_Safari","true");
+			window.location.reload(true)
+		} 
+		else
+		{ 
+			window.localStorage.removeItem ("AJE_Safari");
+		}
+        }
+
+ 
+
+
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+fbq('init', '968100353246427');
+fbq('track', 'PageView');
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Created with Sketch.             Watch Live 
+
+
+
+
+
+
+
+
+
+
+
+
+				 
+
+
+
+
+
+
+					 
+
+
+Now Playing
+
+ Watch
+
+
+
+ 
+
+ Listen
+
+
+
+TV Schedule
+
+
+
+
+
+
+ Live 
+
+submit
+
+
+
+
+
+
+
+
+
+al jazeera
+menu
+ 
+
+
+
+submit
+
+
+Home
+NewsMore
+
+
+Middle East
+Africa
+Asia
+US & Canada
+
+
+
+
+Latin America
+Europe
+Asia Pacific
+All
+
+
+
+
+Middle East
+DocumentariesMore
+
+
+Featured Documentaries
+Witness
+Al Jazeera World
+101 East
+
+
+
+
+People & Power
+Fault Lines
+My Tunisia
+Al Jazeera Selects 
+Al Jazeera Correspondent
+REWIND
+All
+
+
+
+
+ShowsMore
+
+
+Inside Story
+The Stream
+The Listening Post
+Talk to Al Jazeera
+
+
+
+
+The Big Picture
+Counting the Cost
+UpFront
+earthrise
+Empire
+All
+
+
+
+
+Investigations
+Opinion
+In Pictures
+MoreMore
+
+
+Features
+Investigations
+In Pictures
+Interactive
+
+
+
+
+Interactive Documentaries
+AJ Shorts
+Podcasts
+Reporter's Notebook
+Human Rights
+Sport
+Science & Technology
+Weather
+
+
+
+
+
+
+
+Trending:
+Ethiopia
+Donald Trump
+Gun control
+Zimbabwe
+Syria's Civil War
+
+
+
+
+
+
+
+
+Most Searched
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+googletag.cmd.push(function() { 
+googletag.display('div-gpt-ad-1430377943388-2'); 
+});
+
+
+
+
+
+
+        .oryx-bg {
+        background-image: url(/mritems/Images/2015/2/16/3bc6af76afb741639e245ffaf7d74da0_6.jpg);
+        }
+      
+
+Home
+Episodes
+
+Disinformation and Democracy 
+A two-part investigation into the threats to democracy posed by fake news and propaganda on social media. 
+Social media, Internet, Donald Trump, Russia
+
+Searching for Sanctuary in Germany
+The remarkable story of two Syrian refugees and their journey to safety in Germany.
+Syrian Refugees, Germany, War & Conflict, Europe, Middle East
+
+Defiance of the Mapuche 
+Why the Mapuche of Argentina and Chile have been pushed to the brink of insurrection in defence of their ancient lands.
+Argentina, Chile, Human Rights, Latin America
+
+Moscow's Little Kyrgyzstan            
+We investigate claims of corruption, harassment and xenophobia experienced by Russia's Central Asian migrant community.
+Kyrgyzstan, Immigration, Russia
+
+Trump and the Ethics of Foreign Aid
+What are the consequences of President Trump's decision to slash US aid to international NGOs that promote abortion?
+Abortion, Mozambique, Donald Trump, Aid, Africa
+
+Russia: The Orthodox connection
+What lies behind the close relationship between the Russian Orthodox Church and President Vladimir Putin?
+Vladimir Putin, Russia, Christianity, Politics
+
+Manchester United
+A look at questions on diversity and incitement to violence in the UK raised in the aftermath of the Manchester bombing.
+Manchester Bombing, ISIS, United Kingdom
+
+Estonia: Going on a Bear Hunt
+How would Estonia and its NATO allies respond should the small Baltic state be invaded by Russia? 
+Estonia, Russia, NATO, War & Conflict, Politics
+
+New Zealand: Polluted Paradise
+People & Power investigates New Zealand's water pollution problem as regional elections gear up. 
+New Zealand, Water, Pollution
+
+Inside Syria's War: Arms and Resistance in Jobar
+The inside story of how the people of Jobar have defended their homes against the might of the Assad regime.
+Syria's Civil War, Middle East, War & Conflict
+
+The Constitution vs. Trump
+How President Trump's opponents believe the US Constitution may prove the most effective barrier against his policies.
+United States, Donald Trump
+
+Uganda's Health Pyramid
+We investigate allegations involving a Chinese billionaire and a controversial alternative health scheme in Africa.
+Health, Poverty & Development, Africa
+
+Afghanistan: Bullets And Burqas
+People & Power follows a group of Afghan women who have signed up to fight the Taliban.
+Politics, Afghanistan
+
+A Belarusian Spring
+People & Power follows pro-democracy protesters in their fight against dictatorship in Belarus.
+Politics, Belarus, Europe
+
+Laos: On the Borders of the Empire
+We investigate China's rising influence in Laos and the potentially disastrous consequences for the local population.
+Business & Economy, Laos, China, Asia
+
+Caribbean to Caliphate
+Why are young Muslims from the Caribbean island of Trinidad and Tobago being drawn to the conflicts in Syria and Iraq?
+ISIS, Trinidad and Tobago, Islam
+
+The Dark Side of France
+People and Power examines the impact of the far-right on the French presidential elections.
+French elections 2017, France, Politics, Emmanuel Macron
+
+Piracy in Nigeria
+People and Power investigates the rise of piracy in the oil-rich Niger Delta region.
+Nigeria, Human Rights, Niger, Africa
+
+A Very Montenegrin Coup
+Last October, Montenegro's prime minister announced that an attempted coup had been foiled, but was this 'fake news'?
+Politics, Montenegro, Russia
+
+Afghanistan: The Fall Of Helmand
+People and Power goes behind the scenes with the Taliban in the Helmand province of Afghanistan.
+Afghanistan, Taliban
+
+Brazil's River of Mud 
+We investigate the events leading up to the Fundao dam disaster. Is enough being done to avoid future recurrences?
+Brazil, Environment, Poverty & Development
+
+Cote d'Ivoire: Partial Justice
+An investigation into a massacre reveals the lack of political will to unite the country.
+Human Rights, Ivory Coast, Politics, Africa
+
+Hong Kong's Localist Revolutionaries
+Why a new group of radical activists in Hong Kong are calling for greater autonomy - and even independence - from China.
+Democracy, China, Asia Pacific, Human Rights
+
+Interpol: Red Alert!
+How states have used Interpol alerts to persecute exiled dissidents and refugees across international borders.
+Politics, Security, Human Rights
+
+India: The Burning City 
+We investigate how an underground fire that has been burning for 100 years has led to one of India's largest land grabs.
+India, Environment, Health
+
+Iran's Water Crisis
+We investigate the race to save Iran's water, before water scarcity dries out entire cities and displaces millions.
+Iran, Water, Environment, Middle East
+
+In Search of the Great American Job
+Can the next US president retrieve the secure, well-paid employment enjoyed by previous generations of American workers?
+US Elections 2016, Unemployment
+
+Armenia: Divided Within?
+Could a faltering economy, corruption and public disaffection over its relationship with Russia lead to an uprising?
+Armenia, Nagorno-Karabakh, Politics
+
+India's Nuclear Riddle
+People and Power investigates whether India is about to escalate its nuclear arms race with rivals Pakistan and China.
+
+Nuclear weapons, India, Pakistan
+
+The War the World Forgot
+People and Power investigates the forgotten war taking place on the borders between North and South Sudan.
+South Sudan, Sudan, Omar al-Bashir
+Show MoreLatest News
+Iran denies 'hegemon' plans, denounces Saudi and Israel
+Saudi Arabia urges 'fundamental change in Iranian regime' as Tehran's foreign minister calls foes 'US client states'. 
+Middle East, Israel, Saudi Arabia, Iran
+
+12 ISIL widows sentenced to death, life by Iraqi court
+A dozen foreign women who joined ISIL husbands while fighting in Iraq sentenced by a court in Baghdad. 
+Iraq, ISIS, Middle East
+Trending
+
+Canada deports North Korean asylum seekers
+12 ISIL widows sentenced to death, life by Iraqi court
+Iran denies 'hegemon' plans, denounces Saudi and Israel
+Iran plane crash kills all 66 people on board
+How Navalny changed the rules of the game in Russia
+Revival: The Muslim Response to the Crusades
+Iran and India sign deal to deepen relations
+Africa is not poor, we are stealing its wealth
+What triggered unrest in Ethiopia?
+How far will Robert Mueller's investigation go?
+
+
+
+
+MUST-SEE PROGRAMMESPeople & PowerUkraine: A dangerous gameAs crucial elections approach, is Ukraine really as divided as people have been told?Crimea, Ukraine, RussiaGaddafi: The EndgameLibya: State of DenialThe story of the fall of Gaddafi as told by the insiders, defectors and military advisers who helped bring it about.Muammar Gaddafi, Libya, PoliticsTalk to Al JazeeraHailemariam Desalegn: Democracy 'not only an election'The Ethiopian prime minister discusses democracy, human rights, press freedom and the future of his country.Politics, Human Rights, EthiopiaProgrammesBahrain: Shouting in the DarkThe story of the Arab revolution that was abandoned by the Arabs, forsaken by the West and forgotten by the world.Bahrain, Middle East, Arab Spring
+
+
+
+
+
+
+
+ 
+
+
+News
+
+Programmes
+
+Opinion
+
+About
+
+Investigations
+
+Contact Us
+
+Video
+
+
+
+Facebook
+
+Twitter
+
+Google+
+
+RSS
+
+Podcast
+
+YouTube
+
+SnapChat
+
+
+
+			© 2017 Al Jazeera Media Network
+
+
+
+
+
+					About
+
+
+About Us
+
+Press Office
+
+Awards
+
+Code of Ethics
+
+Terms and Conditions
+
+Community Guidelines
+
+Work for us
+
+HR Quality
+
+
+
+
+					Connect
+
+
+Contact Us
+
+Apps
+
+Social
+
+Channel Finder
+
+TV Schedule
+
+Podcasts
+
+Newsletter
+
+
+
+
+
+
+					Our Channels
+
+
+Al Jazeera Arabic
+
+Al Jazeera English
+
+Al Jazeera Mubasher
+
+Al Jazeera Documentary
+
+Al Jazeera Balkans
+
+AJ+
+
+
+
+
+					Our Network
+
+
+Jetty
+
+Al Jazeera Centre for Studies
+
+Al Jazeera Media Institute
+
+Al Jazeera Centre for Public Liberties & Human Rights
+
+Al Jazeera Forum
+
+Al Jazeera Film Festival
+
+Al Jazeera Learning
+
+Al Jazeera Hotel Partners
+
+
+
+
+
+
+					 
+
+
+
+
+
+					© 2018 Al Jazeera Media Network
+
+
+
+
+
+	 
+
+
+
+
+
+
+
+
+
+        $(function() {   
+	   
+            $('img.lazy').lazy({
+                effect: "fadeIn",
+                effectTime: 1000,
+		defaultImage: "http://www.aljazeera.com/img/nov-2016/novresptopfeature.jpg",
+		visibleOnly: true
+                
+            });
+
+	$('.thumbnails-container .lazy').lazy({
+                effect: "fadeIn",
+                effectTime: 1000,
+		defaultImage: "http://www.aljazeera.com/img/nov-2016/novresptopfeature.jpg",
+		appendScroll: $('.thumbnails-container'), 
+		visibleOnly: true
+                
+            });  
+        });
+
+    
+
+/* <![CDATA[ */
+var google_conversion_id = 944250150;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+
+
+
+
+
+
+
+
+
+
+
+/* <![CDATA[ */
+var google_conversion_id = 944250150;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "ffffff";
+var google_conversion_label = "qHeuCOSxnF8QprqgwgM";
+var google_remarketing_only = false;
+/* ]]> */
+
+
+
+
+
+
+
+
+
+
+
+    var _sf_async_config={};
+    var _url = "";
+
+    try {
+        _url = getMetaContentByName("url");
+	_url = _url.replace("http://www.aljazeera.com","");
+        if (!_url)
+            _url = window.location.pathname;
+    }
+    catch (Error) {
+        console.log(Error);
+    }
+
+    _sf_async_config.uid = 3291;
+    _sf_async_config.domain = 'aljazeera.com';
+    _sf_async_config.path = _url;
+    _sf_async_config.playerdomain = 'players.brightcove.net';
+    
+    (function(){
+      function loadChartbeat() {
+        window._sf_endpt=(new Date()).getTime();
+        var e = document.createElement('script');
+        e.setAttribute('language', 'javascript');
+        e.setAttribute('type', 'text/javascript');
+        e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+        document.body.appendChild(e);
+      }
+      var oldonload = window.onload;
+      window.onload = (typeof window.onload != 'function') ?
+         loadChartbeat : function() { oldonload(); loadChartbeat(); };
+    })();
+
+
+
+
+if(/Mobile|iPhone|iPod|BlackBerry|nokia|IEMobile|Opera Mini/i.test(navigator.userAgent)){
+var _mfq = _mfq || [];
+(function()
+{ var mf = document.createElement("script"); mf.type = "text/javascript"; mf.async = true; mf.src = "//cdn.mouseflow.com/projects/f9672d00-7a4d-4e54-8581-ee611286a05d.js"; document.getElementsByTagName("head")[0].appendChild(mf); }
+)();}
+var mouseflowPath = document.location.pathname;
+if ($(window).width() <= 767) mouseflowPath += "/smartphone";
+
+
+
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-1615344-7', 'auto');
+ga('send', 'pageview');
+
+
+
+
+var owa_sampleRate = 1.0;
+var owa_baseUrl = '//track.qcri.org/';
+var owa_cmds = owa_cmds || [];
+owa_cmds.push(['setSiteId', 'www.aljazeera.com']);
+owa_cmds.push(['setCustomVar', 1, 'sampleRate', owa_sampleRate, 'page']);
+owa_cmds.push(['trackPageView']);
+ 
+(function() {
+	function load_owa() {	
+		var s = document.createElement('script');
+		s.type = 'text/javascript'; s.async = true;
+		s.src = owa_baseUrl + 'v2-track-min.js';
+		var x = document.getElementsByTagName('script')[0];
+		x.parentNode.insertBefore(s, x);
+		
+	}
+	var pageURL = 'http://www.aljazeera.com' + window.location.pathname;	if (pageURL.indexOf("opinion") > 0 || pageURL.indexOf("middleeast") > 0){
+
+		if( owa_sampleRate == 1.0 || Math.random() > (1.0 - owa_sampleRate) ) {
+			if (window.attachEvent) {
+		    	window.attachEvent('onload', load_owa);
+			} else {
+		    	window.addEventListener('load', load_owa, false);
+			}
+		}
+	}
+}());
+
+  
+(function(a,b,c,d,e){function f(){var a=b.createElement("script");a.async=!0;
+a.src="//radar.cedexis.com/1/15249/radar.js";b.body.appendChild(a)}/\bMSIE 6/i
+.test(a.navigator.userAgent)||(a[c]?a[c](e,f,!1):a[d]&&a[d]("on"+e,f))})
+(window,document,"addEventListener","attachEvent","load");
+
+
+
+$('#showing-on-now').on('click', function() {
+  ga('send', 'event', 'EPG', 'click', 'Show Now Link - Masthead');
+});
+$('#watch-now-link').on('click', function() {
+  ga('send', 'event', 'Watch Live', 'click', 'Watch Now Link - Masthead');
+});
+$('#watchlive').on('click', function() {
+  ga('send', 'event', 'Watch Live', 'click', 'Watch Now Icon - Top - Mobile');
+});
+$('#showing-on-next').on('click', function() {
+  ga('send', 'event', 'EPG', 'click', 'Show Next Link - Masthead');
+});
+$('#nav-topics').on('click', function() {
+  ga('send', 'event', 'Topics', 'click', 'Top Topics Bar - Masthead');
+});
+$('#weatherwidget').on('click', function() {
+  ga('send', 'event', 'Weather', 'click', 'Weather Widget - Masthead');
+});
+$('#SocialMediaIconsID').on('click', function() {
+  ga('Site Social Links','click','Top Social Icons - Masthead');
+});
+$('.live-watch').on('click', function() {
+  ga('send','event','Watch Live','click','Watch Now Link - Top Live Menu');
+});
+$('.live-listen').on('click', function() {
+  ga('send','event','Listen Live','click','Listen Now Link - Top Live Menu');
+});
+$('.TVScheduleLink').on('click', function() {
+  ga('send','event','TVSchedule','click','TVSchedule - Top Live Menu');
+});
+
+
+
+
+
+
+googletag.cmd.push(function() { 
+googletag.display('div-gpt-ad-1430377943388-0'); 
+});
+
+
+
+
+
+
+	
+googletag.cmd.push(function() { 
+googletag.display('div-gpt-ad-1430377943388-1'); 
+});
+
+
+
+
+	try {
+	$('.topadcontainer').remove();
+        $('#topdivad').insertAfter('#oryxcontext');
+	document.getElementById("topdivad").style.display = "block";
+ if (document.getElementById("toprightlongad")!= null){
+	var RightDiv = document.getElementById("toprightlongad");
+	RightDiv.innerHTML = document.getElementById("rightlongad").innerHTML;  
+	document.getElementById("rightlongad").innerHTML = "";
+}
+	$('#div-gpt-ad-1430377943388-2').remove();
+
+	}
+	catch(err) {
+    		
+	}
+
+
+
+
+
