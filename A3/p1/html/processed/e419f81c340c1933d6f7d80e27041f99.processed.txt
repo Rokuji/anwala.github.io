@@ -1,0 +1,882 @@
+http://www.aljazeera.com/news/2016/12/bahrain-authorities-block-al-jazeera-gcc-summit-161206164514159.html
+
+
+
+
+
+Bahrain authorities block Al Jazeera from GCC summit | Bahrain News | Al Jazeera
+
+
+
+
+
+
+
+
+
+
+
+
+var _sf_startpt=(new Date()).getTime()
+
+
+
+
+
+
+
+
+
+
+
+
+
+    body {
+        background: #FCFCFC;
+    } 
+	
+    
+
+
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '968100353246427');
+fbq('track', 'PageView');
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Home 
+News 
+
+
+Middle East
+Africa
+Asia
+US & Canada
+Latin America
+Europe
+Asia Pacific
+All
+
+
+
+
+Middle East 
+Documentaries 
+
+
+Featured Documentaries
+Witness
+Al Jazeera World
+101 East
+People & Power
+Fault Lines
+My Tunisia
+Al Jazeera Selects 
+Al Jazeera Correspondent
+REWIND
+All
+
+
+
+
+Shows 
+
+
+Inside Story
+The Stream
+The Listening Post
+Talk to Al Jazeera
+The Big Picture
+Counting the Cost
+UpFront
+earthrise
+Empire
+All
+
+
+
+
+Investigations 
+Opinion 
+In Pictures 
+More 
+
+
+Features
+Investigations
+In Pictures
+Interactive
+Interactive Documentaries
+AJ Shorts
+Podcasts
+Reporter's Notebook
+Human Rights
+Sport
+Science & Technology
+Weather
+
+
+
+
+
+
+
+
+
+
+
+
+NOW PLAYING
+
+
+WATCH
+                
+LISTEN
+                
+
+
+
+
+Live
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Toggle navigation
+
+
+
+Home 
+News 
+Middle East
+Africa
+Asia
+US & Canada
+Latin America
+Europe
+Asia Pacific
+All
+
+
+Middle East 
+Documentaries 
+Featured Documentaries
+Witness
+Al Jazeera World
+101 East
+People & Power
+Fault Lines
+My Tunisia
+Al Jazeera Selects 
+Al Jazeera Correspondent
+REWIND
+All
+
+
+Shows 
+Inside Story
+The Stream
+The Listening Post
+Talk to Al Jazeera
+The Big Picture
+Counting the Cost
+UpFront
+earthrise
+Empire
+All
+
+
+Investigations 
+Opinion 
+In Pictures 
+More 
+Features
+Investigations
+In Pictures
+Interactive
+Interactive Documentaries
+AJ Shorts
+Podcasts
+Reporter's Notebook
+Human Rights
+Sport
+Science & Technology
+Weather
+
+
+Live
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Toggle navigation
+
+
+
+
+
+Home 
+News 
+Middle East
+Africa
+Asia
+US & Canada
+Latin America
+Europe
+Asia Pacific
+All
+
+
+Middle East 
+Documentaries 
+Featured Documentaries
+Witness
+Al Jazeera World
+101 East
+People & Power
+Fault Lines
+My Tunisia
+Al Jazeera Selects 
+Al Jazeera Correspondent
+REWIND
+All
+
+
+Shows 
+Inside Story
+The Stream
+The Listening Post
+Talk to Al Jazeera
+The Big Picture
+Counting the Cost
+UpFront
+earthrise
+Empire
+All
+
+
+Investigations 
+Opinion 
+In Pictures 
+More 
+Features
+Investigations
+In Pictures
+Interactive
+Interactive Documentaries
+AJ Shorts
+Podcasts
+Reporter's Notebook
+Human Rights
+Sport
+Science & Technology
+Weather
+
+
+
+
+
+
+
+
+
+NOW PLAYING
+
+
+WATCH
+            
+LISTEN
+            
+
+
+
+
+Live
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+News
+/
+Bahrain
+
+
+
+Bahrain authorities block Al Jazeera from GCC summit
+Al Jazeera journalist refused entry into Manama despite having submitted required paperwork on time.
+
+
+
+06 Dec 2016 20:25 GMT
+
+
+
+
+
+
+
+
+
+RenderPagesVideo('5237669723001', 0, '100%', 473, 'vdoContainer');
+Doha, Qatar - Al Jazeera Media Network (AJMN) has been blocked from covering the 37th summit of the Gulf Cooperation Council (GCC) in Manama by Bahraini authorities.
+Al Jazeera journalist Jamal Elshayyal was refused entry at Bahrain International Airport on Tuesday even though AJMN had followed all necessary procedures and submitted all requested documents to the relevant authorities on time.
+"We applied for accreditation well before the deadline, submitting the names and passports as requested," Elshayyal said in Qatar's capital, Doha, after his return.
+"I flew out to Manama this morning and upon reaching the immigration counter, I filled out the required form specifying I was a journalist and I was there to cover the summit.
+"I was asked to sit on the side by the immigration officer who later informed me the Ministry of Information said Al Jazeera was not allowed to cover the event and I was rejected entry."
+Bahrain's information ministry did not immediately return repeated calls and emails seeking comment.
+Sherif Mansour, Middle East and North Africa coordinator for the Committee to Protect Journalists, said he did not have details on the incident but noted the Gulf kingdom's track record on press freedom.
+"Bahrain has jailed journalists, repeatedly cracked down on local and international coverage of protests, and banned international journalists from covering human rights abuses in the kingdom," Mansour told Al Jazeera.
+
+
+
+
+
+Manama previously blocked Al Jazeera’s reporters from covering the 30th GCC summit, without providing convincing reasons.
+AJMN statement
+
+
+
+
+
+It was not the first time Bahraini authorities have prevented Al Jazeera from reporting on events in the country.
+"Manama previously blocked Al Jazeera's reporters from covering the 30th GCC summit, without providing convincing reasons," AJMN said in a statement released on Tuesday.
+"The network had prepared for special, comprehensive coverage of this important event," it added.
+No official reason has been received from Bahraini officials on why AJMN was refused entry.
+"Al Jazeera condemns this measure, which is a deviation from the normal media protocols of host countries, and affirms that it will continue to cover news and events in Bahrain regardless of this ban," the statement said.
+The two-day summit in Bahrain's capital is hosting Arab and Gulf leaders who are discussing regional and international issues, including the wars in Yemen and Syria.
+This year's summit is also being attended by British Prime Minister Theresa May, on her first visit to the region.
+
+
+
+
+
+
+
+
+The summit is being attend by leaders of Saudi Arabia, Kuwait, UAE, Qatar, Bahrain, Oman and the UK prime minister [Reuters]
+
+
+
+
+
+
+
+            SOURCE: Al Jazeera News
+
+
+
+
+GCC
+Bahrain
+Middle East
+Al Jazeera
+
+
+
+
+
+{
+    "@context": "http://schema.org",
+        "@type": "NewsArticle",
+    
+        "mainEntityOfPage": "http://www.aljazeera.com/news/2016/12/bahrain-authorities-block-al-jazeera-gcc-summit-161206164514159.html",
+        "headline": "Bahrain authorities block Al Jazeera from GCC summit",
+    "datePublished": "06 Dec 2016 17:28 GMT",
+    "dateModified": "06 Dec 2016 20:25 GMT",
+    "description": "Al Jazeera journalist refused entry into Manama despite having submitted required paperwork on time.",
+    "author": {
+    "@type": "Organization",
+    "name": "Al Jazeera"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Al Jazeera",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "http://www.aljazeera.com/mritems/assets/images/AJLOGOGOOGLE.png",
+        "width": 250,
+        "height": 40
+      }
+    }, 
+    "image": {
+        "@type": "ImageObject",
+        "url": "http://www.aljazeera.com/mritems/imagecache/mbdxxlarge/mritems/Images/2016/12/6/51a6f78634184869bca766a2a1d1c967_18.jpg",
+            "height": 450,
+            "width": 800
+    }
+}
+
+
+{
+  "@context": "http://schema.org",
+  "@type": "VideoObject",
+          "name": "Bahrain authorities block Al Jazeera from GCC summit",
+  "description": "Al Jazeera journalist refused entry into Manama despite having submitted required paperwork on time.",
+  "thumbnailUrl": "http://www.aljazeera.com/mritems/imagecache/mbdxxlarge/mritems/Images/2016/12/6/51a6f78634184869bca766a2a1d1c967_18.jpg",
+  "uploadDate": "06 Dec 2016 20:25 GMT",
+      "publisher": {
+      "@type": "Organization",
+      "name": "Al Jazeera",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "http://www.aljazeera.com/mritems/assets/images/AJLOGOGOOGLE.png",
+        "width": 250,
+        "height": 40
+      }
+    }
+}
+
+
+
+          Have your say.Give us feedback.
+
+
+Sign up for our weekly newsletter
+ Sign up for our newsletter to receive a weekly email of our best content
+
+
+        SIGN UP
+        
+
+
+
+ 
+
+
+
+
+
+
+TRENDING
+
+
+Canada deports North Korean asylum seekers
+
+
+
+12 ISIL widows sentenced to death, life by Iraqi court
+
+
+
+Iran denies 'hegemon' plans, denounces Saudi and Israel
+
+
+
+Iran plane crash kills all 66 people on board
+
+
+
+
+
+
+
+
+
+
+
+
+
+YOU MIGHT ALSO LIKE
+
+
+
+
+
+
+
+Revival: The Muslim Response to the Crusades
+This part of 'The Crusades: An Arab Perspective' explores the birth of the Muslim revival in the face of the Crusades.14 Dec 2016 12:09 GMT
+
+
+
+
+
+
+
+
+
+
+Is Mexico the most dangerous country on earth?
+Or does it just suffer from the misfortune of being a neighbour of the US?04 Feb 2018 17:01 GMT
+
+
+
+
+
+
+
+
+
+
+Africa is not poor, we are stealing its wealth
+It's time to change the way we talk and think about Africa. 24 May 2017 13:02 GMT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+News
+
+Programmes
+
+Opinion
+
+About
+
+Investigations
+
+Contact Us
+
+Video
+
+
+
+Facebook
+
+Twitter
+
+Google+
+
+RSS
+
+Podcast
+
+YouTube
+
+SnapChat
+
+
+
+
+
+
+
+
+
+
+
+
+						About
+
+
+About Us
+
+Press Office
+
+Awards
+
+Code of Ethics
+
+Terms and Conditions
+
+Community Guidelines
+
+Work for us
+
+HR Quality
+
+
+
+
+						Connect
+
+
+Contact Us
+
+Apps
+
+Social
+
+Channel Finder
+
+TV Schedule
+
+Podcasts
+
+Newsletter
+
+
+
+
+						Our Channels
+
+
+Al Jazeera Arabic
+
+Al Jazeera English
+
+Al Jazeera Mubasher
+
+Al Jazeera Documentary
+
+Al Jazeera Balkans
+
+AJ+
+
+
+
+
+						Our Network
+
+
+Jetty
+
+Al Jazeera Centre for Studies
+
+Al Jazeera Media Institute
+
+Al Jazeera Centre for Public Liberties & Human Rights
+
+Al Jazeera Forum
+
+Al Jazeera Film Festival
+
+Al Jazeera Learning
+
+Al Jazeera Hotel Partners
+
+
+
+
+
+					© 2018 Al Jazeera Media Network
+
+
+
+
+
+	 
+
+
+
+
+
+
+
+
+googletag.cmd.push(function() { 
+googletag.display('div-gpt-ad-1430377943388-3'); 
+});
+
+
+
+
+
+	
+googletag.cmd.push(function() { 
+googletag.display('div-gpt-ad-1430377943388-1'); 
+});
+
+
+Advertisement
+
+
+
+	
+googletag.cmd.push(function() { 
+googletag.display('div-gpt-ad-1430377943388-0'); 
+});
+
+
+Advertisement
+
+
+
+	
+googletag.cmd.push(function () {
+    googletag.display('div-gpt-ad-1430377943388-2');
+});  
+
+
+Advertisement
+
+
+
+
+
+    try {
+        $('.article-adv-right-sideBar').hcSticky({
+            stickTo: '.sideAdv-wrapper',
+            offResolutions: -800,
+            top: 75
+        });
+
+        $('.article-sidebar-trendings').hcSticky({
+            stickTo: '.article-sidebar-trending-wrapper',
+            offResolutions: -800,
+            top: 75
+        });
+    } catch (e) {}
+$('.article-vid-content').click(function() {
+            showVideo(); 
+        });
+    
+
+ if (/Android|webOS|iPhone|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
+var bodyptags = $('.article-p-wrapper > p');
+
+if (bodyptags.length > 2){
+
+$("<div id='bodyads'> ").insertAfter(bodyptags[3]);
+
+}else{
+
+$(" ").insertAfter(bodyptags[0]); 
+
+}
+}  
+
+
+	try {
+
+	  var TopRightDiv = document.getElementById("rightsideadstop");
+	  if (TopRightDiv != null){
+	    TopRightDiv.innerHTML = document.getElementById("rightsideadshidden").innerHTML;
+	    document.getElementById("rightsideadshidden").innerHTML = "";
+	  } 
+
+	  var BottomDiv = document.getElementById("bottomadsempty");
+	  BottomDiv.innerHTML = document.getElementById("bottomadshidden").innerHTML;
+	  document.getElementById("bottomadshidden").innerHTML = "";
+
+      if (/Android|webOS|iPhone|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
+         var BodyAds = document.getElementById("bodyads");
+	  if (BodyAds != null){ 
+	    BodyAds.innerHTML = document.getElementById("bodyadshidden").innerHTML;
+	    document.getElementById("bodyadshidden").innerHTML = "";
+	  }
+	} 
+ 
+	}
+	catch(err) {
+
+	
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+

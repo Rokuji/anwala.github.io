@@ -1,0 +1,42 @@
+http://pr.aljazeera.com/post/153950013825/al-jazeera-english-wins-top-accolades-at-the-asian
+var __pbpa = true;var translated_warning_string = 'Warning: Never enter your Tumblr password unless \u201chttps://www.tumblr.com/login\u201d\x0ais the address in your web browser.\x0a\x0aYou should also see a green \u201cTumblr, Inc.\u201d identification in the address bar.\x0a\x0aSpammers and other bad guys use fake forms to steal passwords.\x0a\x0aTumblr will never ask you to log in from a user\u2019s blog.\x0a\x0aAre you absolutely sure you want to continue?';Al Jazeera English wins top accolades at the Asian...figure{margin:0}.tmblr-iframe{position:absolute}.tmblr-iframe.hide{display:none}.tmblr-iframe--amp-cta-button{visibility:hidden;position:fixed;bottom:10px;left:50%;transform:translateX(-50%);z-index:100}.tmblr-iframe--amp-cta-button.tmblr-iframe--loaded{visibility:visible;animation:iframe-app-cta-transition .2s ease-out}
+      // test for svg as image @see http://css-tricks.com/test-support-svg-img/
+      if(document.implementation.hasFeature("http://www.w3.org/TR/SVG11/feature#Image", "1.1")) {
+        document.documentElement.className += " svgasimg";
+      }
+
+    
+	{"@type":"SocialMediaPosting","url":"http:\/\/pr.aljazeera.com\/post\/153950013825\/al-jazeera-english-wins-top-accolades-at-the-asian","mainEntityOfPage":true,"datePublished":"2016-12-02T16:01:34-05:00","author":"aljazeerapr","image":{"@list":["http:\/\/78.media.tumblr.com\/dbb4adeee9486b910dc1ad210fab870a\/tumblr_inline_ohkeokoMYb1rwl04r_540.jpg","http:\/\/78.media.tumblr.com\/109e50a111317c4f2082dbbfd7f5aeec\/tumblr_inline_ohketrk5sD1rwl04r_540.jpg"]},"headline":"Al Jazeera English wins top accolades at the Asian TV Awards","articleBody":"\u2022 Al Jazeera English wins Cable & Satellite Channel Of The Year as well as Network Of The Year\n\u2022 First time in awards history has one news channel won both awards\n\u2022  Al Jazeera English also wins five awards in various categories\n\u2022 Steve Chao wins Best Current Affairs Presenter\nDoha - 2nd December,...","@context":"http:\/\/schema.org"}Al Jazeera PRHomeAboutAwardsContact UsArchiveAl Jazeera PRهنا الجزيرةSearchAl Jazeera English wins top accolades at the Asian TV Awards
+                                        December 2, 2016
+                                    Al Jazeera English wins Cable & Satellite Channel Of The Year
+as well as Network Of The YearFirst time in awards history has one news channel won both awards Al Jazeera English also wins five awards in various
+categoriesSteve Chao wins Best Current Affairs PresenterDoha - 2nd December, 2016Al Jazeera English has been crowned Cable & Satellite Channel Of
+The Year as well as Network Of The Year at the Asian TV Awards in Singapore. The Channel received the double accolade after winning five awards in various
+categories in programmes and online.101 East picked up two awards as cameraman Matt Allard won
+Best cinematography for his work for “On Thin Ice: India’s National Ice
+Hockey Team” which followed the fortunes of India’s ice hockey team. For
+the second consecutive year 101 East presenter Steve Chao picked up Best
+Current Affairs Presenter, while Al Jazeera’s Nagieb Khaja received a
+commendation for the same category. 101 East also picked up another
+commendation for “Too Young to Wed” in the Social Awareness category.Al Jazeera’s Witness picked up two awards for “China
+Fake Boyfriends” for Best Social Awareness Programme and Best Direction by
+Daniel Holmes. “China’s Fake Boyfriends” tells the story of Li
+Chenxi, a single woman who is under pressure to find a partner and settle down.
+The programme documents her decision to commit the ultimate deception by hiring
+a handsome boyfriend in Beijing to take home to meet her family and friends.“India Menstruation Man” which was directed by
+Dirk Gilson and the AJE Digital Video Team won the prize for Best Digital Non
+Fiction. The AJE Short digital film told the story of Arunachalam Muruganantham
+who was obsessed with making the perfect sanitary pad for his wife. After years
+of work, his invention has changed the lives of millions of women in India.“We are delighted and honoured to win the Cable &
+Satellite Channel Of The Year as well as Network Of The Year at what is the
+most significant and celebrated event in the Asian TV industry. Especially as
+this is the first time any news channel has won both awards on the same night”
+said acting Managing Director of Al Jazeera English, Giles Trendle. “Al Jazeera
+English is an important player in the international news and current affairs
+market – and our remit includes bold journalism and covering compelling stories
+in the Asia region through our news coverage, documentaries and digital
+content. We are thrilled to get such recognition for the important work we do.”Launched in 1996, Asian Television Awards is the Asian TV
+industry’s most significant and celebrated event, recognising excellence in
+programming, production and performance.Ends:asian tv awardsGiles Trendleal jazeera english101 EastAJEWitnessmenstruation manRead moreultrajeremiahus liked this                                    aljazeerapr posted this                                                                        FacebookTwitterAboutThe Public Relations team at Al Jazeera sharing what's new and exclusive.
+                    function recent_tweets(data) { window.tweets_data = data; }
+                People I followAl Jazeera PRHomeAboutAwardsContact UsArchive© Copyright Al Jazeera 2012–2018

@@ -1,0 +1,4868 @@
+https://www.youtube.com/AlJazeeraEnglish
+
+@font-face{font-family:'Roboto';font-style:normal;font-weight:400;src:local('Roboto Regular'),local('Roboto-Regular'),url(//fonts.gstatic.com/s/roboto/v18/zN7GBFwfMP4uA6AR0HCoLQ.ttf)format('truetype');}@font-face{font-family:'Roboto';font-style:italic;font-weight:400;src:local('Roboto Italic'),local('Roboto-Italic'),url(//fonts.gstatic.com/s/roboto/v18/W4wDsBUluyw0tK3tykhXEfesZW2xOQ-xsNqO47m55DA.ttf)format('truetype');}@font-face{font-family:'Roboto';font-style:italic;font-weight:500;src:local('Roboto Medium Italic'),local('Roboto-MediumItalic'),url(//fonts.gstatic.com/s/roboto/v18/OLffGBTaF0XFOW1gnuHF0Z0EAVxt0G0biEntp43Qt6E.ttf)format('truetype');}@font-face{font-family:'Roboto';font-style:normal;font-weight:500;src:local('Roboto Medium'),local('Roboto-Medium'),url(//fonts.gstatic.com/s/roboto/v18/RxZJdnzeo3R5zSexge8UUaCWcynf_cDxXwCLxiixG1c.ttf)format('truetype');}if (document.fonts && document.fonts.load) {document.fonts.load("400 10pt Roboto", "E");document.fonts.load("500 10pt Roboto", "E");}var ytcsi = {gt: function(n) {n = (n || '') + 'data_';return ytcsi[n] || (ytcsi[n] = {tick: {},info: {}});},now: window.performance && window.performance.timing &&window.performance.now ? function() {return window.performance.timing.navigationStart + window.performance.now();} : function() {return (new Date()).getTime();},tick: function(l, t, n) {ticks = ytcsi.gt(n).tick;var v = t || ytcsi.now();if (ticks[l]) {ticks['_' + l] = (ticks['_' + l] || [ticks[l]]);ticks['_' + l].push(v);}ticks[l] = v;},info: function(k, v, n) {ytcsi.gt(n).info[k] = v;},setStart: function(s, t, n) {ytcsi.info('yt_sts', s, n);ytcsi.tick('_start', t, n);}};(function(w, d) {ytcsi.setStart('dhs', w.performance ? w.performance.timing.responseStart : null);var isPrerender = (d.visibilityState || d.webkitVisibilityState) == 'prerender';var vName = (!d.visibilityState && d.webkitVisibilityState)? 'webkitvisibilitychange' : 'visibilitychange';if (isPrerender) {ytcsi.info('prerender', 1);var startTick = function() {ytcsi.setStart('dhs');d.removeEventListener(vName, startTick);};d.addEventListener(vName, startTick, false);}if (d.addEventListener) {d.addEventListener(vName, function() {ytcsi.tick('vc');}, false);}var slt = function(el, t) {setTimeout(function() {var n = ytcsi.now();el.loadTime = n;if (el.slt) {el.slt();}}, t);};w.__ytRIL = function(el) {if (!el.getAttribute('data-thumb')) {if (w.requestAnimationFrame) {w.requestAnimationFrame(function() {slt(el, 0);});} else {slt(el, 16);}}};})(window, document);var ytcfg = {d: function() {return (window.yt && yt.config_) || ytcfg.data_ || (ytcfg.data_ = {});},get: function(k, o) {return (k in ytcfg.d()) ? ytcfg.d()[k] : o;},set: function() {var a = arguments;if (a.length > 1) {ytcfg.d()[a[0]] = a[1];} else {for (var k in a[0]) {ytcfg.d()[k] = a[0][k];}}}}; ytcfg.set("ROOT_VE_TYPE", 3611);ytcfg.set("EVENT_ID", "GgGKWsiMA9qChwbBwYrABA");
+
+        (function(){var b={a:"content-snap-width-1",b:"content-snap-width-2",c:"content-snap-width-3"};function f(){var a=[],c;for(c in b)a.push(b[c]);return a}
+function h(a){var c=f().concat(["guide-pinned","show-guide"]),e=c.length,g=[];a.replace(/\S+/g,function(a){for(var d=0;d<e;d++)if(a==c[d])return;g.push(a)});
+return g}
+;function k(a,c,e){var g=document.getElementsByTagName("html")[0],d=h(g.className);a&&1251<=(window.innerWidth||document.documentElement.clientWidth)&&(d.push("guide-pinned"),c&&d.push("show-guide"));e&&(e=(window.innerWidth||document.documentElement.clientWidth)-21-50,1251<=(window.innerWidth||document.documentElement.clientWidth)&&a&&c&&(e-=230),d.push(1262<=e?"content-snap-width-3":1056<=e?"content-snap-width-2":"content-snap-width-1"));g.className=d.join(" ")}
+var l=["yt","www","masthead","sizing","runBeforeBodyIsReady"],m=this;l[0]in m||!m.execScript||m.execScript("var "+l[0]);for(var n;l.length&&(n=l.shift());)l.length||void 0===k?m[n]&&m[n]!==Object.prototype[n]?m=m[n]:m=m[n]={}:m[n]=k;}).call(this);
+
+      try {window.ytbuffer = {};ytbuffer.handleClick = function(e) {var element = e.target || e.srcElement;while (element.parentElement) {if (/(^| )yt-can-buffer( |$)/.test(element.className)) {window.ytbuffer = {bufferedClick: e};element.className += ' yt-is-buffered';break;}element = element.parentElement;}};if (document.addEventListener) {document.addEventListener('click', ytbuffer.handleClick);} else {document.attachEvent('onclick', ytbuffer.handleClick);}} catch(e) {}
+
+    yt.www.masthead.sizing.runBeforeBodyIsReady(true,true,true);
+  
+
+
+
+
+
+  Al Jazeera English
+ - YouTube 
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.exp-invert-logo .hats-logo {background: no-repeat url(/yts/img/ringo/hitchhiker/logo_mini_gray-vflfanGkh.png);width: 65px;height: 15px;}.exp-invert-logo #header:before,.exp-invert-logo .ypc-join-family-header .logo,.exp-invert-logo #footer-logo .footer-logo-icon,.exp-invert-logo #yt-masthead #logo-container .logo,.exp-invert-logo #masthead #logo-container,.exp-invert-logo .admin-masthead-logo a,.exp-invert-logo #yt-sidebar-styleguide-logo #logo {background: no-repeat url(/yts/img/ringo/hitchhiker/logo_small-vflHpzGZm.png);width: 100px;height: 30px;}.exp-invert-logo.inverted-hdpi #header:before,.exp-invert-logo.inverted-hdpi .ypc-join-family-header .logo,.exp-invert-logo.inverted-hdpi #footer-logo .footer-logo-icon,.exp-invert-logo.inverted-hdpi #yt-masthead #logo-container .logo,.exp-invert-logo.inverted-hdpi #masthead #logo-container,.exp-invert-logo.inverted-hdpi .admin-masthead-logo a,.exp-invert-logo.inverted-hdpi #yt-sidebar-styleguide-logo #logo {background: no-repeat url(/yts/img/ringo/hitchhiker/logo_small_2x-vfl4_cFqn.png);background-size: 100px 30px;width: 100px;height: 30px;}.exp-invert-logo.exp-fusion-nav-redesign .masthead-logo-renderer-logo {background: no-repeat url(/yts/img/ringo/hitchhiker/yt_play_logo-vflLfk4yD.png);width: 40px;height: 28px;}.exp-invert-logo.inverted-hdpi.exp-fusion-nav-redesign .masthead-logo-renderer-logo {background: no-repeat url(/yts/img/ringo/hitchhiker/yt_play_logo_2x-vflXx5Pg3.png);width: 40px;height: 28px;}@media screen and (max-width: 656px) {.exp-invert-logo #yt-masthead #logo-container .logo {background: no-repeat url(/yts/img/ringo/hitchhiker/yt_play_logo-vflLfk4yD.png);width: 40px;height: 28px;}.exp-invert-logo.inverted-hdpi #yt-masthead #logo-container .logo {background: no-repeat url(/yts/img/ringo/hitchhiker/yt_play_logo_2x-vflXx5Pg3.png);background-size: 40px 28px;width: 40px;height: 28px;}}@media only screen and (min-width: 0px) and (max-width: 498px),only screen and (min-width: 499px) and (max-width: 704px) {.exp-invert-logo.exp-responsive #yt-masthead #logo-container {background: no-repeat url(/yts/img/ringo/hitchhiker/yt_play_logo-vflLfk4yD.png);width: 40px;height: 28px;}.exp-invert-logo.inverted-hdpi.exp-responsive #yt-masthead #logo-container {background: no-repeat url(/yts/img/ringo/hitchhiker/yt_play_logo_2x-vflXx5Pg3.png);background-size: 40px 28px;width: 40px;height: 28px;}}.exp-invert-logo #yt-masthead #logo-container .logo-red {background: no-repeat url(/yts/img/ringo/hitchhiker/logo_youtube_red-vflZxcSR1.png);width: 132px;height: 30px;}.exp-invert-logo.inverted-hdpi #yt-masthead #logo-container .logo-red {background: no-repeat url(/yts/img/ringo/hitchhiker/logo_youtube_red_2x-vflOSHA_n.png);background-size: 132px 30px;width: 132px;height: 30px;}.exp-invert-logo .guide-item .guide-video-youtube-red-icon {background: no-repeat url(/yts/img/ringo/hitchhiker/video_youtube_red-vflovGTdz.png);width: 20px;height: 20px;}.exp-invert-logo.inverted-hdpi .guide-item .guide-video-youtube-red-icon {background: no-repeat url(/yts/img/ringo/hitchhiker/video_youtube_red_2x-vflqMdgEM.png);background-size: 20px 20px;width: 20px;height: 20px;}.exp-invert-logo .guide-item:hover .guide-video-youtube-red-icon,.exp-invert-logo .guide-item.guide-item-selected .guide-video-youtube-red-icon {background: no-repeat url(/yts/img/ringo/hitchhiker/video_youtube_red_hover-vflgV4Gv0.png);width: 20px;height: 20px;}.exp-invert-logo.inverted-hdpi .guide-item:hover .guide-video-youtube-red-icon,.exp-invert-logo.inverted-hdpi .guide-item.guide-item-selected .guide-video-youtube-red-icon {background: no-repeat url(/yts/img/ringo/hitchhiker/video_youtube_red_hover_2x-vflYjZHvf.png);background-size: 20px 20px;width: 20px;height: 20px;}.exp-invert-logo li.guide-section h3,.exp-invert-logo li.guide-section h3 a {color: #f00;}.exp-invert-logo a.yt-uix-button-epic-nav-item:hover,.exp-invert-logo a.yt-uix-button-epic-nav-item.selected,.exp-invert-logo a.yt-uix-button-epic-nav-item.yt-uix-button-toggled,.exp-invert-logo a.yt-uix-button-epic-nav-item.partially-selected,.exp-invert-logo a.yt-uix-button-epic-nav-item.partially-selected:hover,.exp-invert-logo button.yt-uix-button-epic-nav-item:hover,.exp-invert-logo button.yt-uix-button-epic-nav-item.selected,.exp-invert-logo button.yt-uix-button-epic-nav-item.yt-uix-button-toggled,.exp-invert-logo .epic-nav-item:hover,.exp-invert-logo .epic-nav-item.selected,.exp-invert-logo .epic-nav-item.yt-uix-button-toggled,.exp-invert-logo .epic-nav-item-heading,.exp-invert-logo .yt-gb-shelf-item-thumbtab.yt-gb-selected-shelf-tab::before {border-color: #f00;}.exp-invert-logo .resume-playback-progress-bar,.exp-invert-logo .yt-uix-button-subscribe-branded,.exp-invert-logo .yt-uix-button-subscribe-branded[disabled],.exp-invert-logo .yt-uix-button-subscribe-branded[disabled]:hover,.exp-invert-logo .yt-uix-button-subscribe-branded[disabled]:active,.exp-invert-logo .yt-uix-button-subscribe-branded[disabled]:focus,.exp-invert-logo .sb-notif-on .yt-uix-button-content,.exp-invert-logo .guide-item.guide-item-selected,.exp-invert-logo .guide-item.guide-item-selected:hover,.exp-invert-logo .guide-item.guide-item-selected .yt-deemphasized-text,.exp-invert-logo .guide-item.guide-item-selected:hover .yt-deemphasized-text {background-color: #f00;}.exp-invert-logo .yt-uix-button-subscribe-branded:hover {background-color: #d90a17;}.exp-invert-logo .yt-uix-button-subscribe-branded.yt-is-buffered,.exp-invert-logo .yt-uix-button-subscribe-branded:active,.exp-invert-logo .yt-uix-button-subscribe-branded.yt-uix-button-toggled,.exp-invert-logo .yt-uix-button-subscribe-branded.yt-uix-button-active,.exp-invert-logo .yt-uix-button-subscribed-branded.external,.exp-invert-logo .yt-uix-button-subscribed-branded.external[disabled],.exp-invert-logo .yt-uix-button-subscribed-branded.external:active,.exp-invert-logo .yt-uix-button-subscribed-branded.external.yt-uix-button-toggled,.exp-invert-logo .yt-uix-button-subscribed-branded.external.yt-uix-button-active {background-color: #a60812;}.exp-invert-logo #header:before, .exp-invert-logo .ypc-join-family-header .logo, .exp-invert-logo #footer-logo .footer-logo-icon, .exp-invert-logo #yt-masthead #logo-container .logo, .exp-invert-logo #masthead #logo-container, .exp-invert-logo .admin-masthead-logo a, .exp-invert-logo #yt-sidebar-styleguide-logo #logo { background: no-repeat url(/yts/img/ringo/hitchhiker/logo_small_2x-vfl4_cFqn.png); background-size: 100px 30px; } .exp-invert-logo #yt-masthead #logo-container .logo-red { background: no-repeat url(/yts/img/ringo/hitchhiker/logo_youtube_red_2x-vflOSHA_n.png); background-size: 132px 30px; } @media only screen and (min-width: 0px) and (max-width: 498px), only screen and (min-width: 499px) and (max-width: 704px) { .exp-invert-logo.exp-responsive #yt-masthead #logo-container { background: no-repeat url(/yts/img/ringo/hitchhiker/yt_play_logo_2x-vflXx5Pg3.png); background-size: 40px 28px; } } .guide-sort-container {display: none}
+
+
+ 
+
+ 
+Skip navigation
+  
+ 
+
+ 
+Sign inSearch
+ 
+
+
+
+ 
+      Al Jazeera English
+    
+ Videos
+ Playlists
+ Channels
+ Discussion
+ About
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+            Home
+          
+
+
+
+
+
+
+
+
+
+
+            Trending
+          
+
+
+
+
+
+
+
+
+
+
+            History
+          
+
+
+
+
+
+
+
+
+
+
+            Get YouTube Red
+          
+
+
+
+
+
+
+
+
+
+
+            Get YouTube TV
+          
+
+
+
+
+
+
+
+
+
+
+
+      Best of YouTube
+    
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+            Music
+          
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+            Sports
+          
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+            Gaming
+          
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+            Movies
+          
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+            TV Shows
+          
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+            News
+          
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+            Live
+          
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+            Spotlight
+          
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+            360° Video
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Browse channels
+          
+
+
+
+
+
+
+
+
+
+
+      Sign in now to see your channels and recommendations!
+    
+
+Sign in
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+if (window.ytcsi) {window.ytcsi.tick("cfg", null, '');}
+var ytplayer = ytplayer || {};ytplayer.config = {"params":{"allowscriptaccess":"always","allowfullscreen":"true","bgcolor":"#000000"},"args":{"is_html5_mobile_device":false,"ssl":"1","hl":"en_US","enablejsapi":"1","c":"WEB","apiary_host":"","fflags":"html5_clearance_fix=true\u0026html5_readahead_ratelimit=3000\u0026fast_autonav_in_background=true\u0026html5_new_e2e_latency_tracking=true\u0026html5_enable_mesh_projection=true\u0026tvhtml5_background_su=true\u0026html5_elbow_tracking_tweaks=true\u0026html5_subsegment_readahead_target_buffer_health_secs=0.5\u0026www_for_videostats=true\u0026html5_max_av_sync_drift=50\u0026html5_sticky_reduces_discount_by=0.0\u0026html5_subsegment_readahead_timeout_secs=2.0\u0026html5_serverside_call_server_on_biscotti_timeout=true\u0026html5_request_size_min_secs=0.0\u0026skip_restore_on_abandon_in_bulleit=true\u0026set_interstitial_advertisers_question_text=true\u0026player_unified_fullscreen_transitions=true\u0026html5_disable_webgl_antialias=true\u0026html5_post_interrupt_readahead=20\u0026html5_subsegment_readahead_min_buffer_health_secs=0.25\u0026html5_subsegment_readahead_controlled_by_buffer_health=true\u0026html5_stall_pctile=true\u0026embed_show_watchlater_login=true\u0026html5_min_readbehind_secs=0\u0026html5_strip_emsg=true\u0026html5_enable_embedded_player_visibility_signals=true\u0026html5_sticky_ignore_capped=true\u0026html5_report_conn=true\u0026dynamic_ad_break_pause_threshold_sec=0\u0026html5_use_has_subfragmented_fmp4=true\u0026html5_reattach_resource_after_timeout_limit=0\u0026html5_qoe_intercept=\u0026stop_using_ima_sdk_gpt_request_activity=true\u0026show_interstitial_for_3s=true\u0026html5_error_reload_cooldown_ms=30000\u0026show_interstitial_white=true\u0026disable_max_adsense_channel_limit=true\u0026html5_variability_discount=0.5\u0026desktop_cleanup_companion_on_instream_begin=true\u0026html5_max_buffer_health_for_downgrade=15\u0026king_crimson_player_redux=true\u0026safari_enable_spherical=true\u0026html5_max_buffer_duration=0\u0026html5_disable_non_contiguous=true\u0026html5_get_video_info_timeout_ms=0\u0026html5_live_low_latency_bandwidth_window=0.0\u0026html5_restrict_streaming_xhr_on_sqless_requests=true\u0026html5_ignore_bad_bitrates=true\u0026html5_min_secs_over_max_bytes=true\u0026web_embedded_player_service=true\u0026disable_set_awesome_html5=true\u0026html5_min_buffer_to_resume=6\u0026html5_live_abr_head_miss_fraction=0.0\u0026html5_new_autoplay_redux=true\u0026html5_live_normal_latency_bandwidth_window=0.0\u0026html5_nnr_downgrade_adjacency=true\u0026html5_pause_video_fix=true\u0026html5_bandwidth_window_size=0\u0026html5_background_cap_idle_secs=60\u0026html5_tight_max_buffer_allowed_bandwidth_stddevs=0.0\u0026mweb_playsinline_webview=true\u0026html5_no_shadow_env_data_redux=true\u0026html5_background_quality_cap=360\u0026html5_license_constraint_delay=5000\u0026html5_incremental_parser_coalesce_slice_buffers=true\u0026lightweight_watch_video_swf=true\u0026html5_always_enable_timeouts=true\u0026html5_qoe_unstarted_in_initialization=true\u0026html5_drm_generate_request_delay=0\u0026html5_reselect_bandwidth_factor=3.0\u0026html5_el_migration=true\u0026doubleclick_gpt_retagging=true\u0026html5_hls_initial_bitrate=0\u0026html5_live_probe_primary_host=true\u0026html5_start_off_live=0\u0026html5_default_ad_gain=0.5\u0026html5_min_secs_between_format_selections=8.0\u0026html5_subsegment_readahead_always_delay_appends=true\u0026html5_pipeline_ultra_low_latency=true\u0026use_forced_linebreak_preskip_text=true\u0026live_fresca_v2=true\u0026kevlar_allow_multistep_video_init=true\u0026html5_vp9_live_blacklist_edge=true\u0026html5_observe_live_start_seconds=true\u0026limit_of_rebuffering_event_on_html5=1000\u0026sdk_ad_prefetch_time_seconds=-1\u0026html5_disable_preserve_reference=true\u0026html5_manifestless_no_redundant_seek_to_head=true\u0026uniplayer_dbp=true\u0026html5_min_startup_smooth_target=10.0\u0026ad_duration_threshold_for_showing_endcap_seconds=15\u0026enable_spherical_ps4=true\u0026html5_suspended_state=true\u0026use_fast_fade_in_0s=true\u0026html5_min_readbehind_cap_secs=0\u0026html5_aspect_from_adaptive_format=true\u0026disable_reporting_html5_no_vast_ads_as_error=true\u0026enable_afv_div_reset_in_kevlar=true\u0026html5_subsegment_readahead_min_buffer_health_secs_on_timeout=0.1\u0026variable_load_timeout_ms=0\u0026disable_new_pause_state3=true\u0026html5_mobile_perf_cap_240=true\u0026mweb_autonav=true\u0026enable_live_state_auth=true\u0026html5_fludd_suspend=true\u0026interaction_click_on_gel_web=true\u0026html5_hopeless_mode_request_size_secs=15\u0026html5_subsegment_readahead_progress_timeout_fraction=0.8\u0026html5_request_sizing_multiplier=0.8\u0026html5_live_only_disable_loader=true\u0026flex_theater_mode=true\u0026youtubei_for_web=true\u0026html5_live_pin_to_tail=true\u0026website_actions_cta_redesign=true\u0026deprecate_get_video_metadata=true\u0026live_chunk_readahead=3\u0026mweb_cougar_big_controls=true\u0026player_external_control_on_classic_desktop=true\u0026html5_new_fallback=true\u0026html5_live_disable_dg_pacing=true\u0026html5_parse_inline_fallback_host=true\u0026html5_repredict_interval_secs=0.0\u0026html5_ad_no_buffer_abort_after_skippable=true\u0026html5_use_adaptive_live_readahead=true\u0026html5_defer_background_errors=true\u0026html5_min_upgrade_health=0\u0026html5_progressive_signature_reload=true\u0026playready_on_borg=true\u0026dash_manifest_version=5\u0026html5_env_data_update_app_only=true\u0026mweb_muted_autoplay=true\u0026web_player_disable_flash_playerproxy=true\u0026html5_prefer_server_bwe3=true\u0026enable_bulleit_lidar_integration=true\u0026disable_trusted_ad_domains_player_check=true\u0026show_thumbnail_behind_ypc_offer_module=true\u0026html5_disable_move_pssh_to_moov=true\u0026html5_msi_error_fallback=true\u0026html5_timeupdate_readystate_check=true\u0026dynamic_ad_break_seek_threshold_sec=0\u0026show_thumbnail_on_standard=true\u0026live_readahead_seconds_multiplier=0.8\u0026html5_mweb_client_cap=true\u0026html5_aux_pctile=true\u0026web_player_edge_autohide_killswitch2=true\u0026html5_default_quality_cap=0\u0026html5_variability_no_discount_thresh=1.0\u0026mweb_playsinline=true\u0026html5_enable_bandwidth_estimation_type=true\u0026enable_prefetch_for_postrolls=true\u0026html5_allowable_liveness_drift_chunks=2\u0026forced_brand_precap_duration_ms=2000\u0026html5_deadzone_multiplier=1.0\u0026web_player_api_logging_fraction=0.01\u0026playready_first_play_expiration=-1\u0026html5_get_video_info_promiseajax=true\u0026html5_deferred_source_buffer_creation=true\u0026html5_manifestless_accurate_sliceinfo=true\u0026website_actions_throttle_percentage=1.0\u0026html5_quality_cap_min_age_secs=0\u0026show_countdown_on_bumper=true\u0026mweb_muted_autoplay_animation=shrink\u0026html5_throttle_burst_secs=15.0\u0026html5_vp9_live_whitelist=true\u0026html5_incremental_parser_buffer_extra_bytes=16384\u0026html5_suspend_manifest_on_pause=true\u0026hide_preskip=true\u0026html5_subsegment_readahead_tail_margin_secs=0.2\u0026vss_dni_delayping=0\u0026sdk_wrapper_levels_allowed=0\u0026html5_live_4k_more_buffer=true\u0026allow_live_autoplay=true\u0026html5_serverside_call_server_on_biscotti_error=true\u0026mweb_cougar_ads_backend=true\u0026html5_streaming_xhr_optimize_lengthless_mp4=true\u0026disable_mweb_iphone_ad_click_handling_functionality=true\u0026html5_player_autonav_logging=true\u0026mpu_visible_threshold_count=2\u0026html5_disable_audio_slicing=true\u0026html5_break_deadlocks=true\u0026use_new_skip_icon=true\u0026html5_tight_max_buffer_allowed_impaired_time=0.0\u0026html5_suspend_loader=true\u0026html5_minimum_readahead_seconds=0.0\u0026html5_spherical_bicubic_mode=1\u0026html5_maximum_readahead_seconds=0.0\u0026segment_volume_reporting=true\u0026use_new_style=true\u0026html5_max_readahead_bandwidth_cap=0\u0026web_player_tabindex_killswitch=true\u0026persist_text_on_preview_button=true\u0026use_survey_skip_in_0s=true\u0026set_interstitial_start_button=true\u0026spacecast_uniplayer_decorate_manifest=true\u0026midroll_notify_time_seconds=5\u0026html5_live_ultra_low_latency_bandwidth_window=0.0\u0026disable_indisplay_adunit_on_embedded=true\u0026mweb_cougar=true\u0026html5_ad_stats_bearer=true\u0026html5_max_headm_for_streaming_xhr=0\u0026fixed_padding_skip_button=true\u0026player_destroy_old_version=true\u0026html5_request_size_max_secs=31\u0026html5_preload_size_excludes_metadata=true\u0026html5_jumbo_ull_subsegment_readahead_target=1.0\u0026html5_nnr_downgrade_count=4\u0026send_html5_api_stats_ads_abandon=true\u0026mweb_enable_skippables_on_iphone=true\u0026legacy_autoplay_flag=true\u0026use_html5_player_event_timeout=true\u0026html5_serverside_biscotti_id_wait_ms=1000\u0026html5_adunit_from_adformat=true\u0026fix_gpt_pos_params=true\u0026html5_variability_full_discount_thresh=3.0\u0026html5_stop_video_in_cancel_playback=true\u0026html5_widevine_robustness_strings=true\u0026mweb_autonav_paddles=true\u0026html5_pipeline_manifestless=true\u0026html5_ignore_public_setPlaybackQuality=true\u0026html5_ultra_low_latency_streaming_responses=true\u0026html5_throttle_rate=0.0\u0026disable_client_side_midroll_freq_capping=true\u0026html5_local_max_byterate_lookahead=15\u0026html5_disable_urgent_upgrade_for_quality=true\u0026disable_set_awesome_mweb=true\u0026max_resolution_for_white_noise=360\u0026ad_video_end_renderer_duration_milliseconds=7000\u0026html5_adjust_effective_request_size=true\u0026postroll_notify_time_seconds=5\u0026html5_platform_minimum_readahead_seconds=0.0\u0026html5_connect_timeout_secs=7.0\u0026html5_streaming_xhr_progress_includes_latest=true\u0026html5_incremental_parser_buffer_duration_secs=1.5\u0026html5_live_abr_repredict_fraction=0.0\u0026enable_mesh_ps4=true\u0026html5_new_peg_to_live_v2=true\u0026autoplay_time=8000\u0026html5_video_tbd_min_kb=0\u0026html5_enable_ms_playready_hd=true\u0026html5_sticky_disables_variability=true\u0026call_release_video_in_bulleit=true\u0026html5_stale_dash_manifest_retry_factor=1.0\u0026html5_streaming_xhr_buffer_mdat=true\u0026html5_composite_stall=true","gapi_hint_params":"m;\/_\/scs\/abc-static\/_\/js\/k=gapi.gapi.en.HtLvrA_npCQ.O\/m=__features__\/am=AAE\/rt=j\/d=1\/rs=AHpOoo8wHQU_A1WtgGgcOpQEfGjHuD8e-g","fexp":"23701941,23708159,23708904,23708906,23708910,23710476,23713711,23716256,23717313,23717456,23718324,23719518,23719525,23721898,23722980,23723618,23724157,23725543,9422596,9431754,9449243,9471239,9485000","innertube_context_client_version":"1.20180215","external_play_video":"1","xhr_apiary_host":"youtubei.youtube.com","innertube_api_key":"AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8","host_language":"en","autoplay":"0","cver":"1.20180215","innertube_api_version":"v1","apiary_host_firstparty":"","cr":"US","player_error_log_fraction":"1.0"},"url":"","sts":17574,"html5":true,"assets":{"css":"\/yts\/cssbin\/player-vflWsxn7B\/www-player.css","js":"\/yts\/jsbin\/player-vfl8swg2e\/en_US\/base.js"},"attrs":{"id":"movie_player"},"min_version":"8.0.0"};ytplayer.load = function() {yt.player.Application.create("player-api", ytplayer.config);ytplayer.config.loaded = true;};
+Watch QueueQueueWatch QueueQueue 
+Remove allDisconnect
+
+
+
+
+
+
+
+The next video is startingstop 
+
+
+Loading...
+    
+
+ 
+
+
+
+ 
+
+Watch Queue
+    
+Queue
+
+__count__/__total__
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      #c4-header-bg-container {
+      background-image: url(//yt3.ggpht.com/vY0weeA8Q2ottmh5m8FUHJA5NBRsV3Undvh1msM3bqoKG2D50-pq_CDJyYjXYvnXUgB36dKI=w1060-fcrop64=1,00005a57ffffa5a8-nd-c0xffffffff-rj-k-no);
+  }
+
+
+  @media screen and (-webkit-min-device-pixel-ratio: 1.5),
+         screen and (min-resolution: 1.5dppx) {
+#c4-header-bg-container {
+        background-image: url(//yt3.ggpht.com/vY0weeA8Q2ottmh5m8FUHJA5NBRsV3Undvh1msM3bqoKG2D50-pq_CDJyYjXYvnXUgB36dKI=w2120-fcrop64=1,00005a57ffffa5a8-nd-c0xffffffff-rj-k-no);
+    }
+  }
+
+#c4-header-bg-container .hd-banner-image {
+      background-image: url(//yt3.ggpht.com/vY0weeA8Q2ottmh5m8FUHJA5NBRsV3Undvh1msM3bqoKG2D50-pq_CDJyYjXYvnXUgB36dKI=w2120-fcrop64=1,00005a57ffffa5a8-nd-c0xffffffff-rj-k-no);
+  }
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Subscribe to Aljazeera English
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Al Jazeera English
+
+
+
+
+SubscribeSubscribedUnsubscribe1,895,837 
+
+
+
+
+
+
+
+
+
+
+
+
+Loading...
+    
+
+
+
+
+
+
+
+
+
+Loading...
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Working...
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+Videos
+
+
+Playlists
+
+
+Channels
+
+
+Discussion
+
+
+About
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      {"@type":"ItemList","url":"https:\/\/www.youtube.com\/channel\/UCNye-wNBqNL5ZzHSJj3l8Bg","@context":"http:\/\/schema.org","itemListElement":[{"item":{"@type":"ItemList","url":"https:\/\/www.youtube.com\/channel\/UCNye-wNBqNL5ZzHSJj3l8Bg","itemListElement":[{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=MR89rXjASN0","position":1},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=bDbPQ8Die9A","position":2},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=uEDMXNIioIs","position":3},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=powuETqSB74","position":4},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=ahEC8QO4ZwQ","position":5},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=pekaLs0owHI","position":6},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=nNBBBl3ln2k","position":7},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=6SRQEPbYxB0","position":8},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=AcgXIeXghUs","position":9},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=cC_kxZ3TvvM","position":10},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=OO2aULcy1dM","position":11},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=vw6dgFahPqk","position":12}]},"@type":"ListItem","position":1},{"item":{"@type":"ItemList","url":"https:\/\/www.youtube.com\/channel\/UCNye-wNBqNL5ZzHSJj3l8Bg","itemListElement":[{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=ipT3gZJ5CtA","position":1},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=He3YuPNgQjk","position":2},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=-cEqNDGoXpM","position":3},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=nDkgVFw2pCU","position":4},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=SrRc1_nVnGU","position":5},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=Hj7YedwycJc","position":6},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=EBHUwMLT9MY","position":7},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=q_ueO_dT01c","position":8},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=6z2rUdBq7_Q","position":9},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=-zCGdPbD4_4","position":10},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=oqkYsCP_BZE","position":11},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=YH5e6RJdpNM","position":12}]},"@type":"ListItem","position":2},{"item":{"@type":"ItemList","url":"https:\/\/www.youtube.com\/channel\/UCNye-wNBqNL5ZzHSJj3l8Bg","itemListElement":[{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=OO2aULcy1dM","position":1},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=4fNmru41-Cc","position":2},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=7p6Cisi2bTg","position":3},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=OAiXPbopCvE","position":4},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=wV42X7gAUU8","position":5},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=Bzv0RwFAf28","position":6},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=Lsj54NYBPAg","position":7},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=j3H2dEz0pdM","position":8},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=-GWV45A8sOo","position":9},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=iRSyuKYM994","position":10},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=c5zTAWdlVqc","position":11},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=iZimInC6eCM","position":12}]},"@type":"ListItem","position":3},{"item":{"@type":"ItemList","url":"https:\/\/www.youtube.com\/channel\/UCNye-wNBqNL5ZzHSJj3l8Bg","itemListElement":[{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=-cEqNDGoXpM","position":1},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=AcgXIeXghUs","position":2},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=OIqM0nnI1fE","position":3},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=ayK_eY1jub4","position":4},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=VwimUr2C7mY","position":5},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=s-NTGZ4qBmc","position":6},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=Nxkqtd1GdSc","position":7},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=a-cq98HT_C0","position":8},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=GnNMPUD-L8M","position":9}]},"@type":"ListItem","position":4},{"item":{"@type":"ItemList","url":"https:\/\/www.youtube.com\/channel\/UCNye-wNBqNL5ZzHSJj3l8Bg","itemListElement":[{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=R50biH2K5Jw","position":1},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=Kz85ZyOGWeE","position":2},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=ughFLQDcI_Q","position":3},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=_HA-cEMKCDs","position":4},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=pddH2sfNKNY","position":5},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=L3dn-VV3czc","position":6},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=Vuk1EhkEctE","position":7},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=ceCOhdgRBoc","position":8},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=tWRIdly38NQ","position":9},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=JMguWY99q6s","position":10},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=15N9K3wXh0Y","position":11},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=JKoeUxvijRA","position":12}]},"@type":"ListItem","position":5},{"item":{"@type":"ItemList","url":"https:\/\/www.youtube.com\/channel\/UCNye-wNBqNL5ZzHSJj3l8Bg","itemListElement":[{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=vw6dgFahPqk","position":1},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=Dc6n31wIuHI","position":2},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=rIk1Ed_AIRc","position":3},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=CFShvq9NCqg","position":4},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=wsh1gYAk-7g","position":5},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=q0WykgVG71o","position":6},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=cGkg6f7AAGg","position":7},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=YMtJxuf654o","position":8},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=vr0TljwGtEI","position":9},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=w53QrYCehi0","position":10},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=AHLe2i_XLU4","position":11},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=iRQ1rXq4gyQ","position":12}]},"@type":"ListItem","position":6},{"item":{"@type":"ItemList","url":"https:\/\/www.youtube.com\/channel\/UCNye-wNBqNL5ZzHSJj3l8Bg","itemListElement":[{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=1odkgvfxfos","position":1},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=Dc6n31wIuHI","position":2},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=mL8d91vdR9g","position":3},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=sxhilUOdFZI","position":4},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=X-0Zy7yqAUw","position":5},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=J1k065Qe9lE","position":6},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=wybEMMZpLIE","position":7},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=cuaRz7BOm1A","position":8},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=AqixLTECCmg","position":9},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=XY_kEtkdkG8","position":10},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=eZEz6Pc3Z24","position":11},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=SxrCs39TrLA","position":12}]},"@type":"ListItem","position":7},{"item":{"@type":"ItemList","url":"https:\/\/www.youtube.com\/channel\/UCNye-wNBqNL5ZzHSJj3l8Bg","itemListElement":[{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=HDXkb3Xy0T0","position":1},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=xRta93hxDUg","position":2},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=nVVjAb7HH8c","position":3},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=3pA-2vWBjAs","position":4},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=Gt_Cr3dnUaE","position":5},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=sbCh_y8pI6Q","position":6},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=rJ39IKRyHxE","position":7},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=xNfdlq6XwfE","position":8},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=EiYr_UMCKR0","position":9},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=eEm1R4lFEIM","position":10},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=J18bocAFeCE","position":11},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=KfoOsOd7lsc","position":12}]},"@type":"ListItem","position":8},{"item":{"@type":"ItemList","url":"https:\/\/www.youtube.com\/channel\/UCNye-wNBqNL5ZzHSJj3l8Bg","itemListElement":[{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=OrH6UMYAVsk","position":1},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=AFSCdWaH9Kg","position":2},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=dm2Hr-1l1MM","position":3},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=80CH_XkpSCE","position":4},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=5EDnLyos5Bc","position":5},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=MFJBgsr939c","position":6},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=BsyNvgDvvQw","position":7},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=YB5sz576cnM","position":8},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=VO6-5BqBkIM","position":9},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=1UqQaizM15Q","position":10},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=MFasg6qI1TY","position":11},{"@type":"ListItem","url":"http:\/\/www.youtube.com\/watch?v=MJm8IN2URCE","position":12}]},"@type":"ListItem","position":9}]}
+    
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Play nextPlay now
+
+
+
+
+
+
+Al Jazeera English | Live
+Al Jazeera English
+
+
+1,741 watching 
+
+
+        At Al Jazeera English,  we focus on people and events that affect people's lives. We bring topics to light that often go under-reported, listening to all sides of the story and giving a 'voice to t...
+    
+Live now
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Latest News 🗞️
+
+
+Play all
+
+
+        Follow Al Jazeera as it covers what's happening around the world.
+    
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 2:36
+
+Play nextPlay now
+
+
+
+
+
+
+🇨🇦 🇰🇵 Canada deports North Korean asylum seekers - Duration: 2 minutes, 36 seconds.
+Al Jazeera English
+
+7,008 views7 hours ago 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 1:40
+
+Play nextPlay now
+
+
+
+
+
+
+🇸🇴 Somali refugees enslaved in Libya return home - Duration: 100 seconds.
+Al Jazeera English
+
+2,514 views10 hours ago 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 2:22
+
+Play nextPlay now
+
+
+
+
+
+
+🇾🇪 Yemen's health crisis: Suspected cases of bird flu - Duration: 2 minutes, 22 seconds.
+Al Jazeera English
+
+983 views13 hours ago 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 2:37
+
+Play nextPlay now
+
+
+
+
+
+
+🇷🇺 🇺🇸 Sergey Lavrov denies allegations of US vote meddling - Duration: 2 minutes, 37 seconds.
+Al Jazeera English
+
+6,748 views15 hours ago 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 2:24
+
+Play nextPlay now
+
+
+
+
+
+
+🇵🇰 Murderer of six year old Pakistani girl sentenced to death - Duration: 2 minutes, 24 seconds.
+Al Jazeera English
+
+7,404 views1 day ago 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 2:33
+
+Play nextPlay now
+
+
+
+
+
+
+🇺🇸 Doubt over US role in Middle East peace process - Duration: 2 minutes, 33 seconds.
+Al Jazeera English
+
+10,630 views1 day ago 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 2:43
+
+Play nextPlay now
+
+
+
+
+
+
+🇺🇸  Florida shooting: FBI failed to investigate warnings - Duration: 2 minutes, 43 seconds.
+Al Jazeera English
+
+12,000 views1 day ago 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 2:13
+
+Play nextPlay now
+
+
+
+
+
+
+🇺🇸  Mitt Romney running for Senate - Duration: 2 minutes, 13 seconds.
+Al Jazeera English
+
+4,109 views1 day ago 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 1:54
+
+Play nextPlay now
+
+
+
+
+
+
+🇪🇹 Ethiopia declares state of emergency after PM quits - Duration: 114 seconds.
+Al Jazeera English
+
+17,720 views1 day ago 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 1:57
+
+Play nextPlay now
+
+
+
+
+
+
+🇧🇷 Brazil's Temer gives military control of Rio security - Duration: 117 seconds.
+Al Jazeera English
+
+6,711 views1 day ago 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 2:47
+
+Play nextPlay now
+
+
+
+
+
+
+🇺🇸 Thirteen Russians charged over 2016 US election meddling - Duration: 2 minutes, 47 seconds.
+Al Jazeera English
+
+5,968 views1 day ago 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 2:31
+
+Play nextPlay now
+
+
+
+
+
+
+🇶🇦 Women paid to attend anti-Qatar conference in Munich - Duration: 2 minutes, 31 seconds.
+Al Jazeera English
+
+8,892 views1 day ago 
+
+
+
+
+
+
+
+
+View 1,000+ more
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+This item has been hidden
+
+
+
+
+
+
+
+
+
+
+Latest Programmes
+
+
+Play all
+
+
+        Understand more of the world with Al Jazeera's different programmes.
+    
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 24:31
+
+Play nextPlay now
+
+
+
+
+
+
+How far will Robert Mueller's investigation go? - Duration: 24 minutes.
+Al Jazeera English
+
+685 views4 hours ago 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 8:25
+
+Play nextPlay now
+
+
+
+
+
+
+🇹🇷 July 15: The day Turkey's media narrative changed | The Listening Post (Feature) - Duration: 8 minutes, 25 seconds.
+Al Jazeera English
+
+3,600 views9 hours ago 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 24:41
+
+Play nextPlay now
+
+
+
+
+
+
+🇪🇹 What triggered unrest in Ethiopia? | Inside Story - Duration: 24 minutes.
+Al Jazeera English
+
+19,897 views1 day ago 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 24:41
+
+Play nextPlay now
+
+
+
+
+
+
+🇫🇷 Rokhaya Diallo: Race, religion and feminism in France | Talk to Al Jazeera - Duration: 24 minutes.
+Al Jazeera English
+
+1,933 views1 day ago 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 25:01
+
+Play nextPlay now
+
+
+
+
+
+
+Middle East in transition | Oil, women and the IMF | Counting the Cost - Duration: 25 minutes.
+Al Jazeera English
+
+3,747 views1 day ago 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 24:55
+
+Play nextPlay now
+
+
+
+
+
+
+🇱🇾 🇧🇭 Has the Arab Spring failed in Libya and Bahrain? | Upfront - Duration: 24 minutes.
+Al Jazeera English
+
+2,153 views1 day ago 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 10:26
+
+Play nextPlay now
+
+
+
+
+
+
+🇧🇭 What happened to the revolution in Bahrain? | UpFront - Duration: 10 minutes.
+Al Jazeera English
+
+2,580 views1 day ago 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 14:06
+
+Play nextPlay now
+
+
+
+
+
+
+🇱🇾 Libya: From Arab Spring to failed state? | UpFront - Duration: 14 minutes.
+Al Jazeera English
+
+1,881 views1 day ago 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 24:56
+
+Play nextPlay now
+
+
+
+
+
+
+🇰🇷 Pyeongchang 2018 | Sport, politics and the media game | The Listening Post (Full) - Duration: 24 minutes.
+Al Jazeera English
+
+2,854 views1 day ago 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 25:51
+
+Play nextPlay now
+
+
+
+
+
+
+Fake news and the Gulf crisis | Inside Story - Duration: 25 minutes.
+Al Jazeera English
+
+4,155 views2 days ago 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 24:55
+
+Play nextPlay now
+
+
+
+
+
+
+🇲🇲 Are the Rohingya on the brink of another crisis? | The Stream - Duration: 24 minutes.
+Al Jazeera English
+
+10,916 viewsStreamed 3 days ago 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 25:41
+
+Play nextPlay now
+
+
+
+
+
+
+What can be done to help children in war? | Inside Story - Duration: 25 minutes.
+Al Jazeera English
+
+1,609 views3 days ago 
+
+
+
+
+
+
+
+
+View 100+ more
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+This item has been hidden
+
+
+
+
+
+
+
+
+
+
+Russian meddling in US election  🇷🇺 🇺🇸
+
+
+Play all
+
+
+        US President Donald Trump is under investigation for allegedly having links to Moscow that could have helped him win the 2017 election.
+    
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 2:47
+
+Play nextPlay now
+
+
+
+
+
+
+🇺🇸 Thirteen Russians charged over 2016 US election meddling - Duration: 2 minutes, 47 seconds.
+Al Jazeera English
+
+5,968 views1 day ago 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 2:24
+
+Play nextPlay now
+
+
+
+
+
+
+🇺🇸 Nunes memo released saying FBI abused surveillance power - Duration: 2 minutes, 24 seconds.
+Al Jazeera English
+
+10,871 views2 weeks ago 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 2:27
+
+Play nextPlay now
+
+
+
+
+
+
+🇺🇸 US: Nunes’ memo could be published on Friday - Duration: 2 minutes, 27 seconds.
+Al Jazeera English
+
+3,781 views2 weeks ago 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 2:31
+
+Play nextPlay now
+
+
+
+
+
+
+Trump poised for clash with FBI over classified memo - Duration: 2 minutes, 31 seconds.
+Al Jazeera English
+
+8,182 views2 weeks ago 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 2:17
+
+Play nextPlay now
+
+
+
+
+
+
+🇺🇸  Trump-Russia probe: Reports say Trump wanted to sack Mueller - Duration: 2 minutes, 17 seconds.
+Al Jazeera English
+
+12,596 views3 weeks ago 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 1:53
+
+Play nextPlay now
+
+
+
+
+
+
+🇺🇸 Mueller's team grilled Sessions in Russia probe - Duration: 113 seconds.
+Al Jazeera English
+
+11,327 views3 weeks ago 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 2:15
+
+Play nextPlay now
+
+
+
+
+
+
+Fire and Fury: Bannon tries to make amends with Trump 🇺🇸 - Duration: 2 minutes, 15 seconds.
+Al Jazeera English
+
+17,202 views1 month ago 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 2:25
+
+Play nextPlay now
+
+
+
+
+
+
+🇺🇸  Fire and Fury: Donald Trump tweets he is 'a very stable genius' - Duration: 2 minutes, 25 seconds.
+Al Jazeera English
+
+36,300 views1 month ago 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 24:56
+
+Play nextPlay now
+
+
+
+
+
+
+🇺🇸  Why has 'Fire and Fury' angered Trump so much? | Inside story - Duration: 24 minutes.
+Al Jazeera English
+
+99,057 views1 month ago 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 2:36
+
+Play nextPlay now
+
+
+
+
+
+
+Trump book author responds to government criticism 🇺🇸 - Duration: 2 minutes, 36 seconds.
+Al Jazeera English
+
+14,958 views1 month ago 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 2:30
+
+Play nextPlay now
+
+
+
+
+
+
+Book released early: US president threaten to sue 🇺🇸 - Duration: 2 minutes, 30 seconds.
+Al Jazeera English
+
+13,017 views1 month ago 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 2:08
+
+Play nextPlay now
+
+
+
+
+
+
+Trump attacks Bannon after new book, says he 'lost his mind' 🇺🇸 - Duration: 2 minutes, 8 seconds.
+Al Jazeera English
+
+14,307 views1 month ago 
+
+
+
+
+
+
+
+
+View 30+ more
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+This item has been hidden
+
+
+
+
+
+
+
+
+
+
+🇪🇹 Ethiopia's Hailemariam Desalegn Resigns
+
+
+Play all
+
+
+        Ethiopia's PM Hailemariam Desalegn  amid political crisis and lingering unrest in the Horn of Africa country.
+    
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 24:41
+
+Play nextPlay now
+
+
+
+
+
+
+🇪🇹 What triggered unrest in Ethiopia? | Inside Story - Duration: 24 minutes.
+Al Jazeera English
+
+19,897 views1 day ago 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 1:54
+
+Play nextPlay now
+
+
+
+
+
+
+🇪🇹 Ethiopia declares state of emergency after PM quits - Duration: 114 seconds.
+Al Jazeera English
+
+17,720 views1 day ago 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 2:02
+
+Play nextPlay now
+
+
+
+
+
+
+🇪🇹 Ethiopian PM Hailemariam resigns - Duration: 2 minutes, 2 seconds.
+Al Jazeera English
+
+13,384 views2 days ago 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 25:11
+
+Play nextPlay now
+
+
+
+
+
+
+Hailemariam Desalegn | Can Ethiopia and Eritrea finally find peace? | Talk to Al Jazeera - Duration: 25 minutes.
+Al Jazeera English
+
+334,667 views5 years ago 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 25:01
+
+Play nextPlay now
+
+
+
+
+
+
+Hailemariam Desalegn: Democracy 'not only an election' | Talk to Al Jazeera - Duration: 25 minutes.
+Al Jazeera English
+
+172,405 views2 years ago 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 25:16
+
+Play nextPlay now
+
+
+
+
+
+
+Inside Story - What's fuelling protests in Ethiopia? - Duration: 25 minutes.
+Al Jazeera English
+
+114,422 views1 year ago 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 40:04
+
+Play nextPlay now
+
+
+
+
+
+
+The Stream - Ethiopia's crackdown on protests - Duration: 40 minutes.
+Al Jazeera English
+
+34,628 views1 year ago 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 0:57
+
+Play nextPlay now
+
+
+
+
+
+
+Ethiopian PM tells Al Jazeera he is open to Eritrea talks - Duration: 57 seconds.
+Al Jazeera English
+
+16,795 views5 years ago 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 6:31
+
+Play nextPlay now
+
+
+
+
+
+
+How long can Ethiopia state of emergency last? - Duration: 6 minutes, 31 seconds.
+Al Jazeera English
+
+15,772 views9 months ago 
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+This item has been hidden
+
+
+
+
+
+
+
+
+
+
+Al Jazeera Investigates
+
+
+Play all
+
+
+        Al Jazeera’s Investigative Unit does not report the news. It makes the news. We reveal secrets and expose truths surrounded by silence. We serve the public interest by uncovering malfeasance, wrongdoing and abuses of power.Our staff members have won dozens of major journalism accolades. They include Emmy awards and recognition from the British Academy of Film and Television (BAFTA), the Royal Television Society (RTS) and the Monte Carlo Television Festival.
+    
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 2:06
+
+Play nextPlay now
+
+
+
+
+
+
+🏴󠁧󠁢󠁥󠁮󠁧󠁿 Our probe links Gary Speed suicide to Bennell sex abuse - Duration: 2 minutes, 6 seconds.
+Al Jazeera English
+
+2,592 views2 days ago 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 47:33
+
+Play nextPlay now
+
+
+
+
+
+
+Football's Wall of Silence - Al Jazeera Investigations - Duration: 47 minutes.
+Al Jazeera English
+
+11,667 views3 days ago 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 50:01
+
+Play nextPlay now
+
+
+
+
+
+
+The Oligarchs - Al Jazeera Investigations - Duration: 50 minutes.
+Al Jazeera English
+
+148,079 views1 month ago 
+CC
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 47:32
+
+Play nextPlay now
+
+
+
+
+
+
+Spy Merchants - Al Jazeera Investigations - Duration: 47 minutes.
+Al Jazeera English
+
+152,698 views10 months ago 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 26:31
+
+Play nextPlay now
+
+
+
+
+
+
+The Lobby P4: The Takedown – Al Jazeera Investigations - Duration: 26 minutes.
+Al Jazeera English
+
+560,786 views1 year ago 
+CC
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 26:10
+
+Play nextPlay now
+
+
+
+
+
+
+The Lobby P3: An Anti-Semitic Trope – Al Jazeera Investigations - Duration: 26 minutes.
+Al Jazeera English
+
+160,021 views1 year ago 
+CC
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 26:29
+
+Play nextPlay now
+
+
+
+
+
+
+The Lobby P2: The Training Session – Al Jazeera Investigations - Duration: 26 minutes.
+Al Jazeera English
+
+213,213 views1 year ago 
+CC
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 25:51
+
+Play nextPlay now
+
+
+
+
+
+
+The Lobby P1: Young Friends of Israel – Al Jazeera Investigations - Duration: 25 minutes.
+Al Jazeera English
+
+626,445 views1 year ago 
+CC
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 25:01
+
+Play nextPlay now
+
+
+
+
+
+
+🇨🇴 Colombia plastic surgery | Under the Knife | Latin America Investigates - Duration: 25 minutes.
+Al Jazeera English
+
+165,945 views1 year ago 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 47:38
+
+Play nextPlay now
+
+
+
+
+
+
+The Poachers Pipeline - Al Jazeera Investigations - Duration: 47 minutes.
+Al Jazeera English
+
+142,264 views1 year ago 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 48:36
+
+Play nextPlay now
+
+
+
+
+
+
+Stealing Paradise -  Al Jazeera Investigations - Duration: 48 minutes.
+Al Jazeera English
+
+1,078,318 views1 year ago 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 47:21
+
+Play nextPlay now
+
+
+
+
+
+
+Britain's Modern Slave Trade -  Al Jazeera Investigations - Duration: 47 minutes.
+Al Jazeera English
+
+1,814,890 views1 year ago 
+
+
+
+
+
+
+
+
+View 17 more
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+This item has been hidden
+
+
+
+
+
+
+
+
+
+
+🇶🇦 Qatar - Gulf crisis: All the Latest
+
+
+Play all
+
+
+        Saudi Arabia, Bahrain, the United Arab Emirates and Egypt have imposed land, air and sea blockades on Qatar and cut diplomatic ties over Doha's alleged support of groups that they oppose.
+    
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 2:31
+
+Play nextPlay now
+
+
+
+
+
+
+🇶🇦 Women paid to attend anti-Qatar conference in Munich - Duration: 2 minutes, 31 seconds.
+Al Jazeera English
+
+8,892 views1 day ago 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 46:31
+
+Play nextPlay now
+
+
+
+
+
+
+🇶🇦 Qatar: Beyond the Blockade | Featured Documentary - Duration: 46 minutes.
+Al Jazeera English
+
+21,697 views3 days ago 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 2:27
+
+Play nextPlay now
+
+
+
+
+
+
+🇶🇦 Rex Tillerson: US 'negatively impacted' by the Gulf crisis - Duration: 2 minutes, 27 seconds.
+Al Jazeera English
+
+6,299 views2 weeks ago 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 2:11
+
+Play nextPlay now
+
+
+
+
+
+
+🇶🇦 Gulf crisis: Qatari pilots train to police skies - Duration: 2 minutes, 11 seconds.
+Al Jazeera English
+
+17,417 views3 weeks ago 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 2:39
+
+Play nextPlay now
+
+
+
+
+
+
+🇦🇪 UAE faces criticism over human rights abuses in UN review - Duration: 2 minutes, 39 seconds.
+Al Jazeera English
+
+13,255 views3 weeks ago 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 2:59
+
+Play nextPlay now
+
+
+
+
+
+
+🇶🇦 Qatari royal: Gulf crisis to seize Qatar's wealth - Duration: 2 minutes, 59 seconds.
+Al Jazeera English
+
+27,233 views4 weeks ago 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 2:44
+
+Play nextPlay now
+
+
+
+
+
+
+🇶🇦 Qatar denies intercepting Emirati civilian aircraft - Duration: 2 minutes, 44 seconds.
+Al Jazeera English
+
+15,612 views1 month ago 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 1:03
+
+Play nextPlay now
+
+
+
+
+
+
+🇶🇦 Brother of detained Qatari royal: UAE sending mixed messages - Duration: 63 seconds.
+Al Jazeera English
+
+10,123 views1 month ago 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 3:08
+
+Play nextPlay now
+
+
+
+
+
+
+🇶🇦 Qatar slams UAE 🇦🇪 over detention of royal family member - Duration: 3 minutes, 8 seconds.
+Al Jazeera English
+
+34,208 views1 month ago 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 0:28
+
+Play nextPlay now
+
+
+
+
+
+
+🇶🇦 Qatari royal 'held against his will in the UAE' - Duration: 28 seconds.
+Al Jazeera English
+
+8,939 views1 month ago 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 2:40
+
+Play nextPlay now
+
+
+
+
+
+
+Kuwait emir warns over prolonged Qatar-GCC crisis 🇰🇼 - Duration: 2 minutes, 40 seconds.
+Al Jazeera English
+
+20,219 views1 month ago 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 25:01
+
+Play nextPlay now
+
+
+
+
+
+
+Flying taxis, mega deals and aviation in 2018 🗺️ | Counting the Cost - Duration: 25 minutes.
+Al Jazeera English
+
+7,257 views1 month ago 
+
+
+
+
+
+
+
+
+View 100+ more
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+This item has been hidden
+
+
+
+
+
+
+ 
+
+
+Featured Documentaries 🎥
+
+
+Play all
+
+
+        Al Jazeera’s landmark documentary series that seek to engage, inform and inspire with a wide range of stories from around the world. For more:http://aljazeera.com/programmes
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 48:25
+
+Play nextPlay now
+
+
+
+
+
+
+🇰🇿 Kazakhstan's Polygon Legacy: Silent Bombs | Rewind - Duration: 48 minutes.
+Al Jazeera English
+
+
+2 days ago5,896 views 
+
+
+        For 40 years from, 1949 to 1989, the Soviet Union exploded 460 nuclear bombs in Eastern Kazakhstan. About 200,000 villagers living within 45 kilometres of the test site, the 'Polygon', were exposed...
+    
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 46:31
+
+Play nextPlay now
+
+
+
+
+
+
+🇶🇦 Qatar: Beyond the Blockade | Featured Documentary - Duration: 46 minutes.
+Al Jazeera English
+
+
+3 days ago21,697 views 
+
+
+        On June 5th, 2017, Saudi Arabia, the United Arab Emirates (UAE), Bahrain and Egypt imposed a blockade on Qatar - closing their land, air and sea borders with it - accusing it of funding "terrorism"...
+    
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 10:15
+
+Play nextPlay now
+
+
+
+
+
+
+🇻🇪 From riches to rags: Venezuela's economic crisis | The Big Picture - Duration: 10 minutes.
+Al Jazeera English
+
+
+4 days ago19,209 views 
+
+
+        The Venezuelan people struggle to cope with the toxic effects of hyperinflation, severe debt and chronic food and medicine shortages, as Venezuela - once the wealthiest country in the region - is m...
+    
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 47:41
+
+Play nextPlay now
+
+
+
+
+
+
+🇮🇶 Iraq after the Americans | Rewind - Duration: 47 minutes.
+Al Jazeera English
+
+
+1 week ago7,703 views 
+
+
+        Iraq after the Americans - RewindIn keeping with Barack Obama's presidential campaign promise, by 2012, the US had withdrawn its troops from Iraq and US spending in Iraq was just five percent of ...
+    
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 48:56
+
+Play nextPlay now
+
+
+
+
+
+
+🇻🇪 The Battle for Venezuela | The Big Picture - Duration: 48 minutes.
+Al Jazeera English
+
+
+1 week ago19,613 views 
+
+
+        The Battle for Venezuela - The Big PictureVenezuela is gripped by crisis. Economic collapse and political meltdown have devastated a country that boasts the world’s largest oil reserves. Latin ...
+    
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 9:35
+
+Play nextPlay now
+
+
+
+
+
+
+🇻🇪 Hugo Chavez and the coup that never happened - Duration: 9 minutes, 35 seconds.
+Al Jazeera English
+
+
+1 week ago3,359 views 
+
+
+        In December 1998, Hugo Chavez, a former army lieutenant-colonel, was elected as president of Venezuela.In a country divided by race and class, where white equalled wealth and privilege and anythi...
+    
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 25:31
+
+Play nextPlay now
+
+
+
+
+
+
+The Pacific's Nuclear Timebomb | 101 East - Duration: 25 minutes.
+Al Jazeera English
+
+
+1 week ago11,129 views 
+
+
+        The Pacific's Nuclear Timebomb - 101 EastThe Pacific paradise of Enewtak Atoll harbours a devastating secret - the toxic legacy of American nuclear testing. Between 1946 and 1958, the US military...
+    
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 25:01
+
+Play nextPlay now
+
+
+
+
+
+
+Disinformation and Democracy (Part II) | People and Power - Duration: 25 minutes.
+Al Jazeera English
+
+
+1 week ago7,675 views 
+
+
+        For democracies to flourish and succeed, voters need accurate information on which to base their decisions; to weigh up the relative merits of proposed policy A over proposed policy B, to judge whe...
+    
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 48:24
+
+Play nextPlay now
+
+
+
+
+
+
+🇨🇳 Kay Kay: The Girl from Guangzhou | Rewind - Duration: 48 minutes.
+Al Jazeera English
+
+
+2 weeks ago15,885 views 
+
+
+        Kay Kay is the face of modern day China, a bright, educated and ambitious 20 year old living in the booming southern city of Guangzhou. She represents a new generation of middle class Chinese ‘only...
+    
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 24:51
+
+Play nextPlay now
+
+
+
+
+
+
+🇨🇳 China's Prison Orphans | 101 East - Duration: 24 minutes.
+Al Jazeera English
+
+
+2 weeks ago67,464 views 
+
+
+        They are the children of criminals. Their parents are doing time in Chinese prisons, some serving life sentences for horrific crimes. With no one to care for them and nowhere to go, Sun Village, a ...
+    
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 25:01
+
+Play nextPlay now
+
+
+
+
+
+
+Disinformation and Democracy (Part 1) | People and Power - Duration: 25 minutes.
+Al Jazeera English
+
+
+2 weeks ago5,776 views 
+
+
+        For democracies to flourish and succeed, voters need accurate information on which to base their decisions; to weigh up the relative merits of proposed policy A over proposed policy B, to judge whe...
+    
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 47:31
+
+Play nextPlay now
+
+
+
+
+
+
+🇵🇸 The Palestinian Diaspora Orchestra | Al Jazeera World - Duration: 47 minutes.
+Al Jazeera English
+
+
+2 weeks ago2,840 views 
+
+
+        Filmmaker: Sawsan QaoudThe Palestine National Orchestra was first set up in 1936 but was disbanded when Israel was founded in 1948. In 1993, a group of musicians started a Palestinian national mu...
+    
+
+
+
+
+ 
+
+
+View 1,000+ more
+
+
+
+Show more
+
+
+
+
+
+
+This item has been hidden
+
+
+
+
+
+
+
+
+
+
+Latest Art & Culture News 🎭
+
+
+Play all
+
+
+        Stay up to date with all the latest happenings in the world of arts and culture.
+    
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 2:12
+
+Play nextPlay now
+
+
+
+
+
+
+🎆 Fireworks banned at Chinese New Year - Duration: 2 minutes, 12 seconds.
+Al Jazeera English
+
+4,081 views11 hours ago 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 2:55
+
+Play nextPlay now
+
+
+
+
+
+
+🇽🇰 Kosovo's tragedy: Village remains scarred 20 years on - Duration: 2 minutes, 55 seconds.
+Al Jazeera English
+
+2,211 views16 hours ago 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 1:31
+
+Play nextPlay now
+
+
+
+
+
+
+Diversity under the spotlight at London Fashion Week - Duration: 91 seconds.
+Al Jazeera English
+
+1,737 views1 day ago 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 2:38
+
+Play nextPlay now
+
+
+
+
+
+
+🎬 Is Black Panther co-opting African struggles against oppression? - Duration: 2 minutes, 38 seconds.
+Al Jazeera English
+
+7,720 views1 day ago 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 2:14
+
+Play nextPlay now
+
+
+
+
+
+
+🇺🇸 US recognises six Virginia Native tribes after decades-long fight - Duration: 2 minutes, 14 seconds.
+Al Jazeera English
+
+2,138 views1 day ago 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 2:31
+
+Play nextPlay now
+
+
+
+
+
+
+Chinese New Year and the ancient art of Feng Shui - Duration: 2 minutes, 31 seconds.
+Al Jazeera English
+
+3,771 views2 days ago 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 2:48
+
+Play nextPlay now
+
+
+
+
+
+
+🎥 Berlin film festival 2018 opens - Duration: 2 minutes, 48 seconds.
+Al Jazeera English
+
+1,369 views2 days ago 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 2:52
+
+Play nextPlay now
+
+
+
+
+
+
+🇮🇶 Mosul after ISIL: Rebuilding the city's soul - Duration: 2 minutes, 52 seconds.
+Al Jazeera English
+
+1,667 views2 days ago 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 2:02
+
+Play nextPlay now
+
+
+
+
+
+
+Will Trump be unlucky in the Chinese Year of the Dog? - Duration: 2 minutes, 2 seconds.
+Al Jazeera English
+
+6,698 views3 days ago 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 2:43
+
+Play nextPlay now
+
+
+
+
+
+
+🇦🇺 'All We Can't See': Illustrating refugees' words in Nauru files - Duration: 2 minutes, 43 seconds.
+Al Jazeera English
+
+1,908 views4 days ago 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 2:12
+
+Play nextPlay now
+
+
+
+
+
+
+👜 Is New York Fashion Week dead? - Duration: 2 minutes, 12 seconds.
+Al Jazeera English
+
+7,702 views5 days ago 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 2:01
+
+Play nextPlay now
+
+
+
+
+
+
+🇧🇷 Party time in Brazil: Dancing away troubles at Carnival - Duration: 2 minutes, 1 second.
+Al Jazeera English
+
+10,076 views1 week ago 
+
+
+
+
+
+
+
+
+View 500+ more
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+This item has been hidden
+
+
+
+
+
+
+
+
+
+
+Popular uploads
+
+
+Play all
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 6:22
+
+Play nextPlay now
+
+
+
+
+
+
+My Life After 44 Years In Prison - Duration: 6 minutes, 22 seconds.
+
+14,744,053 views2 years ago 
+CC
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 24:41
+
+Play nextPlay now
+
+
+
+
+
+
+🇧🇩 Bangladesh's Biggest Brothel | 101 East - Duration: 24 minutes.
+
+6,967,738 views6 months ago 
+CC
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 1:58
+
+Play nextPlay now
+
+
+
+
+
+
+🇯🇵 Powerful quake hits Japan - Duration: 118 seconds.
+
+5,879,931 views6 years ago 
+CC
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 4:40
+
+Play nextPlay now
+
+
+
+
+
+
+🇯🇵 Devastating tsunami hits Japan - Duration: 4 minutes, 40 seconds.
+
+5,789,853 views6 years ago 
+CC
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 1:29
+
+Play nextPlay now
+
+
+
+
+
+
+🇮🇳  Cheating husband beaten up by wife in India - Duration: 89 seconds.
+
+5,336,280 views6 years ago 
+CC
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 25:41
+
+Play nextPlay now
+
+
+
+
+
+
+🇨🇳 China's Rich Girls | 101 East - Duration: 25 minutes.
+
+4,139,823 views1 year ago 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 3:17
+
+Play nextPlay now
+
+
+
+
+
+
+US military base under Taliban control - Duration: 3 minutes, 17 seconds.
+
+3,943,459 views7 years ago 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 2:58
+
+Play nextPlay now
+
+
+
+
+
+
+Chinese children sent to fat camps 🇨🇳 - Duration: 2 minutes, 58 seconds.
+
+3,918,771 views10 years ago 
+CC
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 1:25
+
+Play nextPlay now
+
+
+
+
+
+
+Footage of Taliban attack in Lahore - Duration: 85 seconds.
+
+3,773,560 views8 years ago 
+CC
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 12:46
+
+Play nextPlay now
+
+
+
+
+
+
+Inside Myanmar: The Crackdown - Duration: 12 minutes.
+
+3,684,640 views10 years ago 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 2:28
+
+Play nextPlay now
+
+
+
+
+
+
+🇲🇽 Mexican drug gangs' public relations campaign - Duration: 2 minutes, 28 seconds.
+
+3,085,407 views6 years ago 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 0:51
+
+Play nextPlay now
+
+
+
+
+
+
+Al Jazeera demands press freedom - Duration: 51 seconds.
+
+3,070,313 views7 months ago 
+
+
+
+
+
+
+
+
+View 100+ more
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+This item has been hidden
+
+
+
+
+
+
+
+
+
+Shows and Documentaries
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Al Jazeera Correspondent - Channel
+
+SubscribeSubscribedUnsubscribe 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Witness - Channel
+
+SubscribeSubscribedUnsubscribe 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Viewfinder - Channel
+
+SubscribeSubscribedUnsubscribe 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+People & Power - Channel
+
+SubscribeSubscribedUnsubscribe 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+UpFront - Channel
+
+SubscribeSubscribedUnsubscribe 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+101 East - Channel
+
+SubscribeSubscribedUnsubscribe 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Counting the Cost - Channel
+
+SubscribeSubscribedUnsubscribe 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Fault Lines - Channel
+
+SubscribeSubscribedUnsubscribe 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Al Jazeera World - Channel
+
+SubscribeSubscribedUnsubscribe 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Talk to Al Jazeera - Channel
+
+SubscribeSubscribedUnsubscribe 
+
+
+
+
+
+
+
+
+See all
+      
+
+
+
+
+        Related channels
+    
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+RT - Channel
+
+SubscribeSubscribedUnsubscribe 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+BBC News - Channel
+
+SubscribeSubscribedUnsubscribe 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+CNN - Channel
+
+SubscribeSubscribedUnsubscribe 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+The Young Turks - Channel
+
+SubscribeSubscribedUnsubscribe 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+VICE News - Channel
+
+SubscribeSubscribedUnsubscribe 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ABC News - Channel
+
+SubscribeSubscribedUnsubscribe 
+
+
+
+
+
+
+
+
+
+
+
+  
+
+ 
+Language:
+  
+  English
+
+
+
+ 
+Location:
+  
+  United States
+
+
+
+ 
+Restricted Mode:
+  
+Off
+
+
+
+History Help
+
+
+
+
+
+Loading...
+    
+
+
+
+
+
+
+Loading...
+    
+
+
+
+
+
+
+Loading...
+    
+
+
+ About
+Press
+Copyright
+Creators
+Advertise
+Developers
++YouTube
+ Terms
+Privacy
+
+Policy & Safety
+  
+Send feedback
+
+Test new features
+
+
+
+
+
+
+
+
+
+
+
+
+
+Loading...
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Working...
+    
+
+
+
+
+
+
+
+
+
+ 
+Sign in to add this to Watch Later
+
+    
+ 
+
+Add to
+    
+
+
+
+
+
+        Loading playlists...
+    
+
+
+ var ytspf = ytspf || {};ytspf.enabled = true;ytspf.config = {'reload-identifier': 'spfreload'};ytspf.config['request-headers'] = {'X-YouTube-Identity-Token': null};ytspf.config['experimental-request-headers'] = ytspf.config['request-headers'];ytspf.config['cache-max'] = 50;ytspf.config['navigate-limit'] = 50;ytspf.config['navigate-lifetime'] = 64800000;
+
+
+spf.script.path({'www/': '/yts/jsbin/www-en_US-vfl8LJMmq/'});var ytdepmap = {"www/base": null, "www/common": "www/base", "www/angular_base": "www/common", "www/channels_accountupload": "www/common", "www/channels": "www/common", "www/dashboard": "www/common", "www/downloadreports": "www/common", "www/experiments": "www/common", "www/feed": "www/common", "www/instant": "www/common", "www/legomap": "www/common", "www/promo_join_network": "www/common", "www/results_harlemshake": "www/common", "www/results": "www/common", "www/results_starwars": "www/common", "www/subscriptionmanager": "www/common", "www/unlimited": "www/common", "www/watch": "www/common", "www/ypc_bootstrap": "www/common", "www/ypc_core": "www/common", "www/channels_edit": "www/channels", "www/live_dashboard": "www/angular_base", "www/videomanager": "www/angular_base", "www/watch_autoplayrenderer": "www/watch", "www/watch_edit": "www/watch", "www/watch_editor": "www/watch", "www/watch_live": "www/watch", "www/watch_promos": "www/watch", "www/watch_speedyg": "www/watch", "www/watch_transcript": "www/watch", "www/watch_videoshelf": "www/watch", "www/ct_advancedsearch": "www/videomanager", "www/my_videos": "www/videomanager"};spf.script.declare(ytdepmap);if (window.ytcsi) {window.ytcsi.tick("je", null, '');}
+
+      yt.setConfig('ANGULAR_JS', "\/yts\/jslib\/angular.min-vflsDVE7V.js");
+  yt.setConfig('TRANSLATIONEDITOR_JS', "\/yts\/jsbin\/www-translationeditor-vfl_pCKqo\/www-translationeditor.js");
+  yt.setMsg('UNSAVED_CHANGES_WARNING', "Some of the changes you have made to channel settings have not been saved and will be lost if you navigate away from this page.");
+
+
+    yt.setConfig('JS_PAGE_MODULES', ["www\/channels","www\/ypc_bootstrap"]);
+
+
+
+
+    yt.setConfig('CHANNEL_ID', "UCNye-wNBqNL5ZzHSJj3l8Bg");
+
+
+    yt.setConfig('CHANNEL_TAB', "featured");
+
+
+  yt.setConfig('DISMISS_THROUGH_IT', true);
+
+
+      yt.setConfig({
+        'GUIDE_SELECTED_ITEM': "0qDduQEoEhhVQ055ZS13TkJxTkw1WnpIU0pqM2w4QmcaDE9BRmdBV29BdUFFQQ%3D%3D"
+      });
+
+      yt.setConfig({
+    'GUIDED_HELP_LOCALE': "en_US",
+    'GUIDED_HELP_ENVIRONMENT': "prod"
+  });
+
+  
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga('set', 'page', window.location.pathname);ga.l=+new Date;ga('set', 'forceSSL', true);ga('create', "YT-1615344-7", 'auto');ga('send', 'pageview');
+yt.setConfig({INNERTUBE_CONTEXT_CLIENT_NAME: 1,APIARY_HOST: "",XHR_APIARY_HOST: "youtubei.youtube.com",GAPI_HINT_PARAMS: "m;\/_\/scs\/abc-static\/_\/js\/k=gapi.gapi.en.HtLvrA_npCQ.O\/m=__features__\/am=AAE\/rt=j\/d=1\/rs=AHpOoo8wHQU_A1WtgGgcOpQEfGjHuD8e-g",INNERTUBE_CONTEXT_CLIENT_VERSION: "1.20180215",INNERTUBE_API_KEY: "AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8",INNERTUBE_API_VERSION: "v1",APIARY_HOST_FIRSTPARTY: "",'VISITOR_DATA': "CgszRWFRVTIwb2tSWQ%3D%3D",'DELEGATED_SESSION_ID': null,'GAPI_HOST': "https:\/\/apis.google.com",'GAPI_LOCALE': "en_US",'INNERTUBE_CONTEXT_HL': "en",'INNERTUBE_CONTEXT_GL': "US",'XHR_APIARY_HOST': "youtubei.youtube.com"});yt.setConfig({'ROOT_VE_CHILDREN': ["CAEQpmEiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CAIQ7VAiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CMUBEP4eIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CMYBEOYrGAAiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CMcBELUsGAAiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CMgBELUsGAEiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CMkBELUsGAIiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CMoBELUsGAMiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CMsBEOGLAhgEIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CMwBEOYrGAEiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CM0BELUsGAAiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CM4BELUsGAEiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CM8BELUsGAIiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CNABELUsGAMiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CNEBELUsGAQiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CNIBELUsGAUiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CNMBELUsGAYiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CNQBELUsGAciEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CNUBELUsGAgiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CNYBEOYrGAIiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CNcBELUsGAAiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CNgBENguGAMiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CNkBEO0tIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CNoBENc0IhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CNsBEMMtIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CNwBEJsrIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CN0BEMkoIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CN4BEJceIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CN8BEJ00GAAiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","COABENwcGAEiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","COEBEPklGAAiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","COEBEPklGAAiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","COEBEPklGAAiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","COIBEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","COMBEPklGAEiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","COMBEPklGAEiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","COMBEPklGAEiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","COQBEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","COUBEPklGAIiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","COUBEPklGAIiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","COUBEPklGAIiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","COYBEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","COcBEPklGAMiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","COcBEPklGAMiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","COcBEPklGAMiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","COgBEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","COkBEPklGAQiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","COkBEPklGAQiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","COkBEPklGAQiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","COoBEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","COsBEPklGAUiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","COsBEPklGAUiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","COsBEPklGAUiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","COwBEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CO0BEPklGAYiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CO0BEPklGAYiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CO0BEPklGAYiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CO4BEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CO8BEPklGAciEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CO8BEPklGAciEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CO8BEPklGAciEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CPABEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CPEBEPklGAgiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CPEBEPklGAgiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CPEBEPklGAgiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CPIBEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CPMBEPklGAkiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CPMBEPklGAkiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CPMBEPklGAkiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CPQBEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CPUBEPklGAoiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CPUBEPklGAoiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CPUBEPklGAoiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CPYBEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CPcBEPklGAsiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CPcBEPklGAsiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CPcBEPklGAsiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CPgBEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CPkBEM4eIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CPoBENwcGAIiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CPsBEPklGAAiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CPsBEPklGAAiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CPsBEPklGAAiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CPwBEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CP0BEPklGAEiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CP0BEPklGAEiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CP0BEPklGAEiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CP4BEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CP8BEPklGAIiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CP8BEPklGAIiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CP8BEPklGAIiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CIACEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CIECEPklGAMiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CIECEPklGAMiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CIECEPklGAMiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CIICEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CIMCEPklGAQiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CIMCEPklGAQiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CIMCEPklGAQiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CIQCEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CIUCEPklGAUiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CIUCEPklGAUiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CIUCEPklGAUiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CIYCEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CIcCEPklGAYiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CIcCEPklGAYiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CIcCEPklGAYiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CIgCEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CIkCEPklGAciEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CIkCEPklGAciEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CIkCEPklGAciEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CIoCEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CIsCEPklGAgiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CIsCEPklGAgiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CIsCEPklGAgiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CIwCEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CI0CEPklGAkiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CI0CEPklGAkiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CI0CEPklGAkiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CI4CEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CI8CEPklGAoiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CI8CEPklGAoiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CI8CEPklGAoiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CJACEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CJECEPklGAsiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CJECEPklGAsiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CJECEPklGAsiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CJICEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CJMCEM4eIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CJQCENwcGAMiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CJUCEPklGAAiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CJUCEPklGAAiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CJUCEPklGAAiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CJYCEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CJcCEPklGAEiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CJcCEPklGAEiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CJcCEPklGAEiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CJgCEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CJkCEPklGAIiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CJkCEPklGAIiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CJkCEPklGAIiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CJoCEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CJsCEPklGAMiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CJsCEPklGAMiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CJsCEPklGAMiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CJwCEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CJ0CEPklGAQiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CJ0CEPklGAQiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CJ0CEPklGAQiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CJ4CEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CJ8CEPklGAUiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CJ8CEPklGAUiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CJ8CEPklGAUiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CKACEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CKECEPklGAYiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CKECEPklGAYiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CKECEPklGAYiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CKICEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CKMCEPklGAciEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CKMCEPklGAciEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CKMCEPklGAciEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CKQCEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CKUCEPklGAgiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CKUCEPklGAgiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CKUCEPklGAgiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CKYCEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CKcCEPklGAkiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CKcCEPklGAkiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CKcCEPklGAkiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CKgCEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CKkCEPklGAoiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CKkCEPklGAoiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CKkCEPklGAoiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CKoCEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CKsCEPklGAsiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CKsCEPklGAsiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CKsCEPklGAsiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CKwCEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CK0CEM4eIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CK4CENwcGAQiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CK8CEPklGAAiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CK8CEPklGAAiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CK8CEPklGAAiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CLACEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CLECEPklGAEiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CLECEPklGAEiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CLECEPklGAEiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CLICEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CLMCEPklGAIiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CLMCEPklGAIiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CLMCEPklGAIiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CLQCEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CLUCEPklGAMiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CLUCEPklGAMiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CLUCEPklGAMiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CLYCEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CLcCEPklGAQiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CLcCEPklGAQiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CLcCEPklGAQiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CLgCEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CLkCEPklGAUiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CLkCEPklGAUiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CLkCEPklGAUiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CLoCEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CLsCEPklGAYiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CLsCEPklGAYiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CLsCEPklGAYiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CLwCEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CL0CEPklGAciEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CL0CEPklGAciEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CL0CEPklGAciEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CL4CEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CL8CEPklGAgiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CL8CEPklGAgiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CL8CEPklGAgiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CMACEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CMECEM4eIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CMICENwcGAUiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CMMCEPklGAAiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CMMCEPklGAAiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CMMCEPklGAAiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CMQCEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CMUCEPklGAEiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CMUCEPklGAEiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CMUCEPklGAEiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CMYCEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CMcCEPklGAIiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CMcCEPklGAIiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CMcCEPklGAIiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CMgCEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CMkCEPklGAMiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CMkCEPklGAMiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CMkCEPklGAMiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CMoCEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CMsCEPklGAQiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CMsCEPklGAQiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CMsCEPklGAQiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CMwCEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CM0CEPklGAUiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CM0CEPklGAUiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CM0CEPklGAUiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CM4CEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CM8CEPklGAYiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CM8CEPklGAYiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CM8CEPklGAYiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CNACEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CNECEPklGAciEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CNECEPklGAciEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CNECEPklGAciEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CNICEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CNMCEPklGAgiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CNMCEPklGAgiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CNMCEPklGAgiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CNQCEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CNUCEPklGAkiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CNUCEPklGAkiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CNUCEPklGAkiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CNYCEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CNcCEPklGAoiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CNcCEPklGAoiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CNcCEPklGAoiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CNgCEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CNkCEPklGAsiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CNkCEPklGAsiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CNkCEPklGAsiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CNoCEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CNsCEM4eIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CNwCENwcGAYiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CN0CEPklGAAiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CN0CEPklGAAiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CN0CEPklGAAiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CN4CEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CN8CEPklGAEiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CN8CEPklGAEiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CN8CEPklGAEiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","COACEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","COECEPklGAIiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","COECEPklGAIiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","COECEPklGAIiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","COICEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","COMCEPklGAMiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","COMCEPklGAMiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","COMCEPklGAMiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","COQCEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","COUCEPklGAQiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","COUCEPklGAQiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","COUCEPklGAQiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","COYCEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","COcCEPklGAUiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","COcCEPklGAUiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","COcCEPklGAUiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","COgCEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","COkCEPklGAYiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","COkCEPklGAYiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","COkCEPklGAYiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","COoCEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","COsCEPklGAciEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","COsCEPklGAciEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","COsCEPklGAciEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","COwCEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CO0CEPklGAgiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CO0CEPklGAgiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CO0CEPklGAgiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CO4CEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CO8CEPklGAkiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CO8CEPklGAkiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CO8CEPklGAkiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CPACEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CPECEPklGAoiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CPECEPklGAoiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CPECEPklGAoiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CPICEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CPMCEPklGAsiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CPMCEPklGAsiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CPMCEPklGAsiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CPQCEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CPUCEM4eIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CPYCENwcGAciEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CPcCEPklGAAiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CPcCEPklGAAiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CPcCEPklGAAiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CPgCEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CPkCEPklGAEiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CPkCEPklGAEiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CPkCEPklGAEiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CPoCEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CPsCEPklGAIiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CPsCEPklGAIiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CPsCEPklGAIiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CPwCEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CP0CEPklGAMiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CP0CEPklGAMiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CP0CEPklGAMiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CP4CEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CP8CEPklGAQiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CP8CEPklGAQiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CP8CEPklGAQiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CIADEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CIEDEPklGAUiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CIEDEPklGAUiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CIEDEPklGAUiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CIIDEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CIMDEPklGAYiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CIMDEPklGAYiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CIMDEPklGAYiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CIQDEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CIUDEPklGAciEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CIUDEPklGAciEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CIUDEPklGAciEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CIYDEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CIcDEPklGAgiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CIcDEPklGAgiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CIcDEPklGAgiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CIgDEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CIkDEPklGAkiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CIkDEPklGAkiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CIkDEPklGAkiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CIoDEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CIsDEPklGAoiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CIsDEPklGAoiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CIsDEPklGAoiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CIwDEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CI0DEPklGAsiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CI0DEPklGAsiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CI0DEPklGAsiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CI4DEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CI8DEM4eIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CJADENwcGAgiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CJEDEPklGAAiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CJEDEPklGAAiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CJEDEPklGAAiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CJIDEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CJMDEPklGAEiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CJMDEPklGAEiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CJMDEPklGAEiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CJQDEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CJUDEPklGAIiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CJUDEPklGAIiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CJUDEPklGAIiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CJYDEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CJcDEPklGAMiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CJcDEPklGAMiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CJcDEPklGAMiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CJgDEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CJkDEPklGAQiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CJkDEPklGAQiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CJkDEPklGAQiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CJoDEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CJsDEPklGAUiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CJsDEPklGAUiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CJsDEPklGAUiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CJwDEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CJ0DEPklGAYiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CJ0DEPklGAYiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CJ0DEPklGAYiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CJ4DEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CJ8DEPklGAciEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CJ8DEPklGAciEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CJ8DEPklGAciEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CKADEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CKEDEPklGAgiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CKEDEPklGAgiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CKEDEPklGAgiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CKIDEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CKMDEPklGAkiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CKMDEPklGAkiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CKMDEPklGAkiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CKQDEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CKUDEPklGAoiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CKUDEPklGAoiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CKUDEPklGAoiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CKYDEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CKcDEPklGAsiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CKcDEPklGAsiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CKcDEPklGAsiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CKgDEMEbIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CKkDEM4eIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CKoDENwcGAkiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CKsDEPklGAAiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CKsDEPklGAAiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CKsDEPklGAAiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CKwDEPklGAEiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CKwDEPklGAEiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CKwDEPklGAEiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CK0DEPklGAIiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CK0DEPklGAIiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CK0DEPklGAIiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CK4DEPklGAMiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CK4DEPklGAMiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CK4DEPklGAMiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CK8DEPklGAQiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CK8DEPklGAQiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CK8DEPklGAQiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CLADEPklGAUiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CLADEPklGAUiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CLADEPklGAUiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CLEDEPklGAYiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CLEDEPklGAYiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CLEDEPklGAYiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CLIDEPklGAciEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CLIDEPklGAciEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CLIDEPklGAciEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CLMDEPklGAgiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CLMDEPklGAgiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CLMDEPklGAgiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CLQDEPklGAkiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CLQDEPklGAkiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CLQDEPklGAkiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CLUDEPklGAoiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CLUDEPklGAoiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CLUDEPklGAoiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CLYDEPklGAsiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CLYDEPklGAsiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CLYDEPklGAsiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CLcDEM4eIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CLgDEN5LIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CLkDELA1GAAiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CLoDEPQcGAAiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CLoDEPQcGAAiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CLoDEPQcGAAiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CLsDEJsrIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CLwDEPQcGAEiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CLwDEPQcGAEiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CLwDEPQcGAEiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CL0DEJsrIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CL4DEPQcGAIiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CL4DEPQcGAIiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CL4DEPQcGAIiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CL8DEJsrIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CMADEPQcGAMiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CMADEPQcGAMiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CMADEPQcGAMiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CMEDEJsrIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CMIDEPQcGAQiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CMIDEPQcGAQiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CMIDEPQcGAQiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CMMDEJsrIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CMQDEPQcGAUiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CMQDEPQcGAUiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CMQDEPQcGAUiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CMUDEJsrIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CMYDEPQcGAYiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CMYDEPQcGAYiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CMYDEPQcGAYiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CMcDEJsrIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CMgDEPQcGAciEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CMgDEPQcGAciEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CMgDEPQcGAciEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CMkDEJsrIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CMoDEPQcGAgiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CMoDEPQcGAgiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CMoDEPQcGAgiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CMsDEJsrIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CMwDEPQcGAkiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CMwDEPQcGAkiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CMwDEPQcGAkiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CM0DEJsrIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CM4DELA1GAEiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CM8DEPQcGAAiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CM8DEPQcGAAiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CM8DEPQcGAAiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CNADEJsrIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CNEDEPQcGAEiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CNEDEPQcGAEiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CNEDEPQcGAEiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CNIDEJsrIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CNMDEPQcGAIiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CNMDEPQcGAIiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CNMDEPQcGAIiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CNQDEJsrIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CNUDEPQcGAMiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CNUDEPQcGAMiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CNUDEPQcGAMiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CNYDEJsrIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CNcDEPQcGAQiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CNcDEPQcGAQiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CNcDEPQcGAQiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CNgDEJsrIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CNkDEPQcGAUiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CNkDEPQcGAUiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CNkDEPQcGAUiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CNoDEJsrIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CNsDEMcxIhMIyIG_usSw2QIVWsHBCh3BoAJIKJsc","CNwDEMMtGAAiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CN0DEMMtGAEiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CN4DEMMtGAIiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","CN8DEMMtGAMiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","COADEMMtGAQiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw","COEDEMMtGAUiEwjIgb-6xLDZAhVawcEKHcGgAkgomxw"],});yt.setConfig({'PAGE_NAME': "channel",'LOGGED_IN': false,'SESSION_INDEX': null,'VALID_SESSION_TEMPDATA_DOMAINS': ["www.youtube.com","gaming.youtube.com"],'PARENT_TRACKING_PARAMS': "",'FORMATS_FILE_SIZE_JS': ["%s B","%s KB","%s MB","%s GB","%s TB"],'ONE_PICK_URL': "",'GOOGLEPLUS_HOST': "https:\/\/plus.google.com",'PAGEFRAME_JS': "\/yts\/jsbin\/www-pageframe-vflgFT1l-\/www-pageframe.js",'GAPI_LOADER_URL': "\/yts\/jsbin\/www-gapi-loader-vflCFkGpB\/www-gapi-loader.js",'JS_COMMON_MODULE': "\/yts\/jsbin\/www-en_US-vfl8LJMmq\/common.js",'PAGE_FRAME_DELAYLOADED_CSS': "\/yts\/cssbin\/www-pageframedelayloaded-vflNXOrSa.css",'EXPERIMENT_FLAGS': {"service_worker_push_prompt_cap":-1,"desktop_pyv_on_watch_missing_params":true,"live_chat_unhide_on_channel":true,"remove_web_visibility_batching":true,"optimistically_create_transport_client":true,"log_web_screen_end":true,"cancel_pending_navs":true,"app_settings_snapshot_is_logging_enabled":true,"custom_emoji_main_app":true,"desktop_polymer_video_masthead_session_tempdata_ttl":30,"player_unified_fullscreen_transitions":true,"player_external_control_on_classic_desktop":true,"desktop_notification_set_title_bar":true,"very_optimistically_create_gel_client":true,"live_chat_message_sampling_rate":1.0,"autoplay_pause_by_lact_sec":0,"use_push_for_desktop_live_chat":true,"live_chat_busyness_sampling_ceil":4.0,"enable_more_related_ve_logging":true,"enable_firefox_push_notifications":true,"live_chat_use_new_default_filter_mode":true,"live_chat_message_sampling_method":"","watch_next_pause_autoplay_lact_sec":4500,"live_chat_flagging_reasons":true,"service_worker_push_prompt_delay_ms":3888000000,"enable_watch_next_pause_autoplay_lact":true,"same_domain_static_resources_desktop":true,"debug_forced_promo_id":"","comment_deep_link":true,"gfeedback_for_signed_out_users_enabled":true,"log_web_meta_interval_ms":0,"live_chat_top_chat_window_length_sec":5,"warm_load_nav_start_web":true,"service_worker_push_home_only":true,"autoplay_pause_sampling_fraction":0.0,"custom_emoji_desktop":true,"autoescape_tempdata_url":true,"web_gel_lact":true,"cold_load_nav_start_web":true,"log_window_onerror_fraction":0.1,"block_spf_search_ads_impressions":true,"enable_playlist_visibility":true,"enable_afv_div_reset_in_kevlar":true,"service_worker_push_home_page_prompt":true,"interaction_click_on_gel_web":true,"service_worker_enabled":true,"enable_gaming_new_logo":true,"youtubei_for_web":true,"live_chat_busyness_sampling_steepness":1.0,"custom_emoji_legacy":true,"consent_url_override":"","web_logging_max_batch":100,"live_chat_replay_milliqps_threshold":5000,"sponsors_whitelist_creator":true,"live_chat_top_chat_entry_threshold":0.0,"enable_desktop_polymer_video_masthead":true,"desktop_pyv_on_watch_via_valor":true,"live_chat_top_chat_split":0.5,"service_worker_push_logged_out_prompt_watches":-1,"chat_smoothing_animations":84,"player_swfcfg_cleanup":true,"botguard_periodic_refresh":true,"service_worker_push_watch_page_prompt":true,"use_watch_fragments2":true,"desktop_notification_high_priority_ignore_push":true,"clear_web_implicit_clicktracking":true,"service_worker_push_enabled":true,"interaction_logging_on_gel_web":true,"live_chat_busyness_sampling_center":14.0,"service_worker_push_force_notification_prompt_tag":"1","web_always_load_chat_support":true,"live_chat_busyness_sampling_floor":2.0,"service_worker_scope":"\/","lact_local_listeners":true,"live_chat_viewer_blocks_enable_cache_filling":true,"app_settings_snapshot_min_time_between_snapshots_hours":24,"custom_emoji_super_chat":true,"desktop_polymer_video_masthead_always_use_responsive_iframe":true,"autoplay_pause_by_lact_sampling_fraction":0.0,"web_system_health_fraction":0.01,"enable_youtubei_innertube":true,"html5_serverside_pagead_id_sets_cookie":true,"enable_server_side_search_pyv":true,"log_vis_on_tab_change":true,"enable_logging_directives_desktop":true,"live_chat_inline_moderation":true,"live_chat_busyness_enabled":true,"desktop_pyv_on_watch_override_lact":true,"custom_emoji_creator":true,"desktop_polymer":true},'HIGH_CONTRAST_MODE_CSS': "\/yts\/cssbin\/www-highcontrastmode-vflzAuo2A.css",'PREFETCH_CSS_RESOURCES' : ["\/yts\/cssbin\/player-vflWsxn7B\/www-player.css"],'PREFETCH_JS_RESOURCES': ["\/yts\/jsbin\/www-pagead-id-vflQArhct\/www-pagead-id.js","\/yts\/jsbin\/player-vfl8swg2e\/en_US\/base.js"],'PREFETCH_LINKS': false,'PREFETCH_LINKS_MAX': 1,'PREFETCH_AUTOPLAY': false,'PREFETCH_AUTOPLAY_TIME': 0,'PREFETCH_AUTONAV': false,'PREBUFFER_MAX': 1,'PREBUFFER_LINKS': false,'PREBUFFER_AUTOPLAY': false,'PREBUFFER_AUTONAV': false,'WATCH_LATER_BUTTON': "\n\n  \u003cbutton class=\"yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip\" type=\"button\" onclick=\";return false;\" title=\"Watch later\" role=\"button\" data-video-ids=\"__VIDEO_ID__\" data-button-menu-id=\"shared-addto-watch-later-login\"\u003e\u003cspan class=\"yt-uix-button-arrow yt-sprite\"\u003e\u003c\/span\u003e\u003c\/button\u003e\n",'WATCH_QUEUE_BUTTON': "  \u003cbutton class=\"yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip\" type=\"button\" onclick=\";return false;\" title=\"Queue\" data-video-ids=\"__VIDEO_ID__\" data-style=\"tv-queue\"\u003e\u003c\/button\u003e\n",'WATCH_QUEUE_MENU': "  \u003cspan class=\"thumb-menu dark-overflow-action-menu video-actions\"\u003e\n    \u003cbutton aria-haspopup=\"true\" type=\"button\" aria-expanded=\"false\" class=\"yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty\" onclick=\";return false;\" \u003e\u003cspan class=\"yt-uix-button-arrow yt-sprite\"\u003e\u003c\/span\u003e\u003cul class=\"watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu hid\"\u003e\u003cli role=\"menuitem\" class=\"overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-next yt-uix-button-menu-item\" data-action=\"play-next\" onclick=\";return false;\"  data-video-ids=\"__VIDEO_ID__\"\u003e\u003cspan class=\"addto-watch-queue-menu-text\"\u003ePlay next\u003c\/span\u003e\u003c\/li\u003e\u003cli role=\"menuitem\" class=\"overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item\" data-action=\"play-now\" onclick=\";return false;\"  data-video-ids=\"__VIDEO_ID__\"\u003e\u003cspan class=\"addto-watch-queue-menu-text\"\u003ePlay now\u003c\/span\u003e\u003c\/li\u003e\u003c\/ul\u003e\u003c\/button\u003e\n  \u003c\/span\u003e\n",'SAFETY_MODE_PENDING': false,'ZWIEBACK_PING_URLS': ["https:\/\/www.google.com\/pagead\/lvz?pg=channel\u0026req_ts=1518993690\u0026evtid=AKYRQ4129NQdPVcphhD-fsHIVzriiMriyD9HJtoWcS2qL6kXzUYkQf1h5z5CL_2kcmWLd7zyo18TG55otIjljPaPK2CnGIw87Q\u0026sigh=AEslLPpbYF9JG1jMyhl-kMd1mq0lhJyr6g"],'LOCAL_DATE_TIME_CONFIG': {"firstDayOfWeek":0,"amPms":["AM","PM"],"formatShortDate":"MMM d, y","formatLongDate":"MMMM d, y 'at' h:mm a","formatShortTime":"h:mm a","months":["January","February","March","April","May","June","July","August","September","October","November","December"],"shortWeekdays":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"firstWeekCutoffDay":3,"weekdays":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"shortMonths":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"dateFormats":["MMMM d, y 'at' h:mm a","MMMM d, y","MMM d, y","MMM d, y"],"formatWeekdayShortTime":"EE h:mm a","formatLongDateOnly":"MMMM d, y","weekendRange":[6,5]},'PAGE_CL': 186034537,'PAGE_BUILD_LABEL': "youtube.ytfe.desktop_20180215_0_RC2",'VARIANTS_CHECKSUM': "586246a0f48c5765e0ef890221251481",'CLIENT_PROTOCOL': "HTTP\/1.1",'CLIENT_TRANSPORT': "tcp",'MDX_ENABLE_CASTV2': true,'MDX_ENABLE_QUEUE': true,'FEEDBACK_BUCKET_ID': "Other",'FEEDBACK_LOCALE_LANGUAGE': "en",'FEEDBACK_LOCALE_EXTRAS': {"experiments":"23700266,23700732,23701247,23701297,23701882,23701941,23702459,23703975,23704466,23705057,23705778,23705866,23706844,23706846,23707086,23707881,23708159,23708904,23708906,23708910,23709090,23709443,23709532,23709788,23709896,23709898,23709902,23709985,23710313,23710476,23710536,23710560,23710863,23711680,23711855,23711857,23711859,23711918,23712229,23712746,23713594,23713711,23714218,23714865,23715837,23715854,23715960,23716096,23716256,23716822,23716914,23717015,23717173,23717283,23717313,23717372,23717456,23717597,23717705,23717897,23718048,23718078,23718245,23718324,23718512,23718617,23719037,23719351,23719518,23719525,23719804,23720120,23720210,23720552,23720566,23720787,23720829,23720956,23721223,23721743,23721770,23721828,23721898,23721928,23722151,23722284,23722751,23722841,23722860,23722883,23722980,23723437,23723489,23723555,23723618,23724050,23724157,23724268,23724399,23724511,23724733,23725146,23725179,23725543,23725576,23725609,23725678,23725793,23725864,23726027,23726049,23726165,23726173,23726281,23726541,23726778,23726832,23726843,23726882,23726973,23727167,23727224,9415398,9419979,9420289,9422596,9431754,9445139,9448302,9449243,9451814,9453167,9453409,9456445,9457169,9459792,9459796,9460098,9460554,9460829,9460959,9463460,9463594,9463936,9463963,9464203,9465513,9466835,9467471,9467508,9467510,9467512,9467700,9467795,9467806,9467820,9467822,9468195,9469934,9471103,9471239,9471536,9471955,9472191,9473373,9473376,9473402,9474396,9475218,9475354,9476077,9477046,9477419,9478787,9479200,9479456,9479749,9480180,9480371,9481220,9482972,9483190,9483245,9483583,9485000,9486390,9487037,9487064,9487330,9488991,9489074,9489266,9489336,9489452,9489700,9489831,9489833","accept_language":null,"logged_in":false}});   yt.setConfig({
+    'GUIDED_HELP_LOCALE': "en_US",
+    'GUIDED_HELP_ENVIRONMENT': "prod"
+  });
+yt.setConfig('SPF_SEARCH_BOX', true);yt.setMsg({'ADDTO_CREATE_NEW_PLAYLIST': "Create new playlist\n",'ADDTO_CREATE_PLAYLIST_DYNAMIC_TITLE': "  $dynamic_title_placeholder (create new)\n",'ADDTO_WATCH_LATER': "Watch later",'ADDTO_WATCH_LATER_ADDED': "Added",'ADDTO_WATCH_LATER_ERROR': "Error",'ADDTO_WATCH_QUEUE': "Watch Queue",'ADDTO_WATCH_QUEUE_ADDED': "Added",'ADDTO_WATCH_QUEUE_ERROR': "Error",'ADDTO_TV_QUEUE': "Queue",'ADS_INSTREAM_FIRST_PLAY': "A video ad is playing.",'ADS_INSTREAM_SKIPPABLE': "Video ad can be skipped.",'ADS_OVERLAY_IMPRESSION': "Ad displayed.",'MASTHEAD_NOTIFICATIONS_LABEL': {"other": "# unread notifications.", "case0": "0 unread notifications.", "case1": "1 unread notification."},'MASTHEAD_NOTIFICATIONS_COUNT_99PLUS': "99+",'MDX_AUTOPLAY_OFF': 'Autoplay is off','MDX_AUTOPLAY_ON': 'Autoplay is on'});  yt.setConfig('FEED_PRIVACY_CSS_URL', "\/yts\/cssbin\/www-feedprivacydialog-vflP1Pnju.css");
+  yt.setConfig('FEED_PRIVACY_LIGHTBOX_ENABLED', true);
+yt.setConfig({'SBOX_JS_URL': "\/yts\/jsbin\/www-searchbox-legacy-vfledDyPw\/www-searchbox-legacy.js",'SBOX_SETTINGS': {"IS_FUSION":false,"HAS_ON_SCREEN_KEYBOARD":false,"SUGG_EXP_ID":"","PSUGGEST_TOKEN":null,"REQUEST_DOMAIN":"us","PQ":"","SESSION_INDEX":null,"REQUEST_LANGUAGE":"en"},'SBOX_LABELS': {"SUGGESTION_DISMISS_LABEL":"Remove","SUGGESTION_DISMISSED_LABEL":"Suggestion removed"}});  yt.setConfig({
+    'YPC_LOADER_JS': "\/yts\/jsbin\/www-ypc-vflbpv88k\/www-ypc.js",
+    'YPC_LOADER_CSS': "\/yts\/cssbin\/www-ypc-vfluXUBpe.css",
+    'YPC_SIGNIN_URL': "https:\/\/accounts.google.com\/ServiceLogin?service=youtube\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fhl%3Den%26action_handle_signin%3Dtrue%26next%3D%252F%26app%3Ddesktop\u0026hl=en\u0026uilel=3\u0026passive=true",
+    'DBLCLK_ADVERTISER_ID': "2542116",
+    'DBLCLK_YPC_ACTIVITY_GROUP': "youtu444",
+    'SUBSCRIPTION_URL': "\/subscription_ajax",
+    'YPC_SWITCH_URL': "\/signin?skip_identity_prompt=True\u0026feature=purchases\u0026action_handle_signin=true\u0026next=%2F",
+    'YPC_GB_LANGUAGE': "en_US",
+    'YPC_MB_URL': "https:\/\/payments.youtube.com\/payments\/v4\/js\/integrator.js?ss=md",
+    'YPC_TRANSACTION_URL': "\/transaction_handler",
+    'YPC_SUBSCRIPTION_URL': "\/ypc_subscription_ajax",
+    'YPC_POST_PURCHASE_URL': "\/ypc_post_purchase_ajax",
+    'YTR_FAMILY_CREATION_URL': "https:\/\/families.google.com\/webcreation?usegapi=1",
+    'YTO_GTM_DATA': {'event': 'purchased', 'purchaseStatus': 'success'},
+    'YTO_GTM_1_BUTTON_CLICK_DATA': {'event': 'landingButtonClick', 'buttonPosition': '1'},
+    'YTO_GTM_2_BUTTON_CLICK_DATA': {'event': 'landingButtonClick', 'buttonPosition': '2'}
+  });
+  yt.setMsg({
+    'YPC_OFFER_OVERLAY': "  \n",
+    'YPC_UNSUBSCRIBE_OVERLAY': "  \n"
+  });
+  yt.setConfig('GOOGLE_HELP_CONTEXT', "channel_creator");
+ytcsi.info('st', 1036);ytcfg.set({"CSI_SERVICE_NAME":"youtube","TIMING_INFO":{"c":"WEB","yt_lt":"cold","GetBrowse_rid":"0x2c7c792d0d4dc423","yt_li":"0","cver":"1.20180215"}});;ytcfg.set({"CSI_VIEWPORT":true,"TIMING_ACTION":"channels","TIMING_AFT_KEYS":["vpl"]});;  yt.setConfig({
+      'XSRF_TOKEN': "QUFFLUhqbVEzZDloV21NUTB0RGQ1bi1uUnJkRmlsZVBaQXxBQ3Jtc0trNFcwZmpUM1BCTmRJQlc5ZnJIR0VjLW5GNk42eWUyc3d1STBWM3NfQjlyZXRHUTY0Um00M09jTnUxZ25WMm1ndFBtSWVCODNWNlVXVzluNzJUSk1lZmFIT1NNQWZ6UllvY2FmQWY0bmVhdzlGX21NekNOaG04R2lLeEJyYlJLLThyMGtXSktmMGR5ZkU3SjcwSGlIZGpWaWhkalE=",
+      'XSRF_FIELD_NAME': "session_token",
+
+      'XSRF_REDIRECT_TOKEN': "7d8fzlXNcOw6cmmFxkNw0sqPezl8MTUxOTA4MDA5MUAxNTE4OTkzNjkx"  });
+yt.setConfig('ID_TOKEN', null);window.ytcfg.set('SERVICE_WORKER_KILLSWITCH', false);  yt.setConfig('THUMB_DELAY_LOAD_BUFFER', 0);
+if (window.ytcsi) {window.ytcsi.tick("jl", null, '');}
+

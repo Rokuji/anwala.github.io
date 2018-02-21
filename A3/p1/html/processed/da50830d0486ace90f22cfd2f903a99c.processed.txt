@@ -1,0 +1,1629 @@
+https://www.webmd.com/food-recipes/features/foods-fight-fatigue
+
+
+
+
+Foods to Fight Fatigue
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var amznads=amznads||{},apstag=apstag||{},webmd=webmd||{},googletag=window.googletag||{};googletag.cmd=googletag.cmd||[];var enableHeaderBidding=!0,$googleloaded;!function(){function a(a){if("http"!==a.substr(0,4)){var b=!0;a=(b?"https:":"http:")+a}var c=document.createElement("script"),d=document.getElementsByTagName("script")[0];c.type="text/javascript",c.async=!0,c.src=a,d.parentNode.insertBefore(c,d)}function b(a){var b,c=[],d=[],e=0;for(e=0;e<a.length;e++)c.push(a[e]+"=\\d+");b=new RegExp(c.join("|"),"gi");var f=document.location.search.match(b);if(f){for(c=[],e=0;e<f.length;e++)f[e].indexOf("=1")>-1?c.push(f[e].split("=")[0]):f[e].indexOf("=0")>-1&&d.push(f[e].split("=")[0]);if(d.length>0&&c.length<1){for(e=0;e<enableHeaderBidding.length;e++){c.push(enableHeaderBidding[e]);for(var g=0;g<d.length;g++)if(d[g]==enableHeaderBidding[e]){c.pop();break}}return c}return c.length>0&&c}return!1}function c(){for(var a=!1,b=document.getElementsByTagName("meta"),c=[/^video/i],d=0;d<b.length;d++)if("og:type"===b[d].getAttribute("property"))for(var e=b[d].getAttribute("content"),f=0;f<c.length;f++)c[f].test(e)&&(a=!0);return a}if("undefined"!=typeof document.domain&&document.domain.toLowerCase().indexOf("fit.")>=0||document.domain.toLowerCase().indexOf(".webmd.boots.com")>=0)return!0;webmd.adsConfig={sizes:{desktop:{101:[[728,90],[970,90],[970,250]],103:[728,90],113:[160,600],115:[160,600],121:[[300,250],[300,600],[300,1050]],137:[[300,250],[300,251]],409:[[300,250],[300,252]],700:[300,198],701:[145,199],901:[1,1],902:[1,1],921:[1,7],923:[1,9],924:[1,9],925:[1,9],5000:[1,2],5001:[1,2],5002:[1,2],5003:[1,2],5100:[1,3]},mobile:{1901:[1,1],1921:[1,7],1923:[1,9],1924:[1,9],1925:[1,9],2025:[[300,50],[320,50]],2026:[[300,50],[300,51],[300,250],[300,253],[320,50],[320,51],[320,250]]}},whitelist:{pos:[101,121,137,113,2025,2026],sizes:[[970,90],[970,50],[728,90],[300,250],[300,600],[160,600],[320,50],[300,50]]}},enableHeaderBidding&&(enableHeaderBidding=["mn","am"]),$googleloaded=!0;var d=["mn","am"],e={mn:"loadMediaHeaderBidding",am:"loadA9HeaderBidding"};if(a("//www.googletagservices.com/tag/js/gpt.js"),window.loadMediaHeaderBidding=function(){window.advBidxc=window.advBidxc||{},window.advBidxc.renderAd=function(){},window.advBidxc.startTime=(new Date).getTime(),window.advBidxc.timeout=300,window.advBidxc.version=3.2,window.advBidxc.customerId="8CU66J63J",window.advBidxc.isAdServerLoaded=!0;var b=!0,c="//contextual.media.net/bidexchange.js?cid="+window.advBidxc.customerId+"&version="+window.advBidxc.version+(b?"&https=1":"");a(c)},window.loadA9HeaderBidding=function(b){"undefined"==typeof b&&(b=!0),b&&!function(b,c,d,e,f){function g(a,d){c[b]._Q.push([a,d])}c[b]={init:function(){g("i",arguments)},fetchBids:function(){g("f",arguments)},setDisplayBids:function(){},_Q:[]},a(f)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");var c,d,e,f,g,h=[],i=[];for(d=0;d<webmd.adsConfig.whitelist.pos.length;d++){if(i=[],g=webmd.adsConfig.whitelist.pos[d],c=webmd.adsConfig.sizes.desktop[g],"undefined"!=typeof c){if("number"==typeof c[0])for(f=0;f<webmd.adsConfig.whitelist.sizes.length;f++)c[0]!==webmd.adsConfig.whitelist.sizes[f][0]||c[1]!==webmd.adsConfig.whitelist.sizes[f][1]||i.push(c);else for(e=0;e<c.length;e++)for(f=0;f<webmd.adsConfig.whitelist.sizes.length;f++)c[e][0]!==webmd.adsConfig.whitelist.sizes[f][0]||c[e][1]!==webmd.adsConfig.whitelist.sizes[f][1]||i.push(c[e]);h.push({slotID:"div-gpt-placeholder-desktop-"+g,sizes:i})}if(i=[],c=webmd.adsConfig.sizes.mobile[g],"undefined"!=typeof c){if("number"==typeof c[0])for(f=0;f<webmd.adsConfig.whitelist.sizes.length;f++)c[0]!==webmd.adsConfig.whitelist.sizes[f][0]||c[1]!==webmd.adsConfig.whitelist.sizes[f][1]||i.push(c);else for(e=0;e<c.length;e++)for(f=0;f<webmd.adsConfig.whitelist.sizes.length;f++)c[e][0]!==webmd.adsConfig.whitelist.sizes[f][0]||c[e][1]!==webmd.adsConfig.whitelist.sizes[f][1]||i.push(c[e]);h.push({slotID:"div-gpt-placeholder-mobile-"+g,sizes:i})}}apstag.init({pubID:"3100",adServer:"googletag"}),apstag.fetchBids({slots:h,timeout:2e3},function(a){window.amznbids={};for(var b=0;b<a.length;b++)try{window.amznbids[a[b].slotID.split("-").reverse()[0]]=a[b]}catch(a){}})},window.top===window.self&&!c()&&enableHeaderBidding!==!1&&(d!==!1&&(enableHeaderBidding=b(d)||enableHeaderBidding),enableHeaderBidding!==!1&&"object"==typeof enableHeaderBidding&&enableHeaderBidding.length>0)){for(var f=!1,g=0;g<enableHeaderBidding.length;g++)"undefined"!=typeof e[enableHeaderBidding[g]]&&"undefined"!=typeof window[e[enableHeaderBidding[g]]]&&(window[e[enableHeaderBidding[g]]].call(),f=!0);f===!0&&(enableHeaderBidding=!0)}}();
+
+ 
+		var s_topic="1637", 
+		s_business_reference="Feature", 
+		s_publication_source="WebMD Feature", 
+		s_sponsor_brand="", 
+		s_sponsor_program="", 
+		s_package_type="", 
+		s_package_name="", 
+		s_channel_super_portal="", 
+		s_channel_health="Health & Cooking", 
+		s_channel_topic_miniguide_guide="", 
+		s_channel_mini="", 
+		s_channel_micro="", 
+		s_tug="", 
+		s_topic_dir="true", 
+		s_mrt="9", 
+		s_site="core", 
+		s_assetname="", 
+		s_searchterm="", 
+		image_server_url="https://img.webmd.com/dtmcms/live", 
+		s_sensitive="false", 
+		s_mblv="false", 
+		s_tagemax="10000", 
+		s_tagemin="216", 
+		s_cuih="3494_78", 
+		s_cuil="", 
+		s_cuim="14040", 
+		s_sbtyp="Healthy Living", 
+		s_tgender="All", 
+		s_furl="/food-recipes/features/foods-fight-fatigue", 
+		s_uk_user="false", 
+		s_account="webmdcom", 
+		s_server_type="1b", 
+		s_server="WFAWS23L-CON-07", 
+		s_object_type="wbmd_cons_article", 
+		s_page_number="1", 
+		s_site_class="ooc", 
+		s_sponsored_uri="food-recipes/features/foods-fight-fatigue", 
+		s_pagename="www.webmd.com/food-recipes/features/foods-fight-fatigue", 
+		s_channel="", 
+		s_intended_demographics="Both_All_", 
+		s_stage_condition="Prevention", 
+		s_asset_id="091e9c5e80005971", 
+		s_unique_id="091e9c5e80005971", 
+		s_company="webmd", 
+		s_refpath="", 
+		s_pbnm="", 
+		s_pbtp="", 
+		s_tpcot="", 
+		center="health", 
+		center_name="Health & Cooking", 
+		center_id="1047", 
+		center_prefix="www", 
+		center_url="/food-recipes/default.htm"; 
+		
+
+
+
+window.s_responsive_design = true;
+    $('html').addClass('responsive');
+
+    if(webmd.url.getParam('print')){
+        if(window.s_business_reference.indexOf('Recipe') === -1){
+            $('html').addClass('print');
+        } else {
+            $('html').addClass('print recipe');
+        }
+        window.print();
+    }
+
+!function(){function e(e){d.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}function n(e,n){var a=void 0!==window.aFeoApplied?"1":"0";BOOMR.addVar("ak.feo",a)}function a(e,n){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.r"];BOOMR.removeVar(a)}function t(){BOOMR.subscribe("before_beacon",n,null,null),BOOMR.addVar({"ak.v":1,"ak.cp":"132506","ak.ai":"359391","ak.ol":"0","ak.cr":64,"ak.ipv":4,"ak.proto":"","ak.rid":"241509e0","ak.r":28247,"ak.a2":0,"ak.m":"","ak.n":"","ak.bpcip":"70.160.30.115","ak.cport":28687,"ak.gh":"23.215.10.167","ak.quicv":"","ak.csrc":"-"}),BOOMR.subscribe("onbeacon",a,null,null)}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetExecuted=!0;var o,i,r,c=document.createElement("iframe"),d=window;d.addEventListener?d.addEventListener("load",e,!1):d.attachEvent&&d.attachEvent("onload",e),c.src="javascript:void(0)",c.title="",c.role="presentation",(c.frameElement||c).style.cssText="width:0;height:0;border:0;display:none;",r=document.getElementsByTagName("script")[0],r.parentNode.insertBefore(c,r);try{i=c.contentWindow.document}catch(e){o=document.domain,c.src="javascript:var d=document.open();d.domain='"+o+"';void(0);",i=c.contentWindow.document}i.open()._l=function(){var e=this.createElement("script");o&&(this.domain=o),e.id="boomr-if-as",e.src="https://s.go-mpulse.net/boomerang/7TA4C-EHAW8-JP6NL-WZFXG-NSUSJ",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(e)},i.write('<bo'+'dy onload="document._l();">'),i.close();"".length>0&&d&&"performance"in d&&d.performance&&d.performance.setResourceTimingBufferSize&&d.performance.setResourceTimingBufferSize(),document.addEventListener?document.addEventListener("onBoomerangLoaded",t):document.attachEvent&&document.attachEvent("onpropertychange",function(e){e||(e=window.event),e&&"onBoomerangLoaded"===e.propertyName&&t()})}}();
+
+
+    $(function(){
+
+
+        require(["global_nav/1/global_nav"], function(global_nav) {
+            global_nav.init();
+        });
+    });
+
+Skip to main content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Check Your Symptoms
+
+
+Find A Doctor
+
+
+Find Lowest Drug Prices
+
+
+
+HealthA-Z
+Health A-Z
+
+
+
+Health A-Z
+
+
+
+Common Conditions
+
+
+ADD/ADHD
+
+
+Allergies
+
+
+Arthritis
+
+
+Cancer
+
+
+Cold, Flu & Cough
+
+
+Depression
+
+
+Diabetes
+
+
+Eye Health
+
+
+Heart Disease
+
+
+Heartburn/GERD
+
+
+Pain Management
+
+
+Sexual Conditions
+
+
+Skin Problems
+
+
+Sleep Disorders
+
+
+View All
+
+
+
+
+Resources
+
+
+Symptom Checker
+
+
+Expert Blogs and Interviews
+
+
+Message Boards
+
+
+Questions & Answers
+
+
+Insurance Guide
+
+
+Find a Doctor
+
+
+
+
+
+
+
+
+
+Featured Topics
+
+
+
+
+Assessment
+Get Help for Migraine Relief
+
+
+
+
+
+Video
+Doctors Tweet Things They've Heard From Patients
+
+
+Drugs & Supplements
+Drugs & Supplements
+
+
+
+Drugs & Supplements
+
+
+
+Find & Review
+
+
+Drugs
+
+
+Supplements
+
+
+
+
+Tools
+
+
+Manage Your Medications
+
+
+Pill Identifier
+
+
+Check for Interactions
+
+
+
+
+Drug Basics & Safety
+
+
+Commonly Abused Drugs
+
+
+Taking Meds When Pregnant
+
+
+
+
+
+
+
+
+
+Featured Topics
+
+
+
+
+Slideshow
+10 Diseases Vaccines Can Prevent
+
+
+
+
+
+Slideshow
+Vitamins & Minerals From A - Zinc
+
+
+Living  Healthy
+Living Healthy
+
+
+
+Living Healthy
+
+
+
+Diet, Food & Fitness
+
+
+Diet & Weight Management
+
+
+Weight Loss & Obesity
+
+
+Food & Recipes
+
+
+Fitness & Exercise
+
+
+
+
+Beauty & Balance
+
+
+Healthy Beauty
+
+
+Health & Balance
+
+
+Sex & Relationships
+
+
+Oral Care
+
+
+
+
+Living Well
+
+
+Women's Health
+
+
+Men's Health
+
+
+Aging Well
+
+
+Healthy Teens
+
+
+Fit Kids
+
+
+
+
+
+
+
+
+
+Featured Topics
+
+
+
+
+Slideshow
+How Your Bad Habits Can Affect Your Health
+
+
+
+
+
+Slideshow
+Best and Worst Salads
+
+
+Family & Pregnancy
+Family & Pregnancy
+
+
+
+Family & Pregnancy
+
+
+
+All About Pregnancy
+
+
+Getting Pregnant
+
+
+First Trimester
+
+
+Second Trimester
+
+
+Third Trimester
+
+
+View All
+
+
+
+
+Parenting Guide
+
+
+Newborn & Baby
+
+
+Children’s Health
+
+
+Children’s Vaccines
+
+
+Raising Fit Kids
+
+
+View All
+
+
+
+
+Pet Care Essentials
+
+
+Healthy Cats
+
+
+Healthy Dogs
+
+
+View All
+
+
+
+
+
+
+
+
+
+Featured Topics
+
+
+
+
+Expert Blog
+Dangers After Childbirth -- What to Watch For
+
+
+
+
+
+Video
+3 Things to Keep in a Diaper Bag
+
+
+News & Experts
+News & Experts
+
+
+
+News & Experts
+
+
+
+Health News
+
+
+When Is It Safe to Go Back to Work After the Flu?
+
+
+Cellphones Linked to Tumors?
+
+
+Pet Alert: Euthanasia Drug Found in Wet Dog Food
+
+
+How to Eat to Keep Weight Off
+
+
+First Human Case of 'Eye Worms'
+
+
+
+
+Experts & Community
+
+
+Message Boards
+
+
+Expert Blogs
+
+
+News Center
+
+
+
+
+
+
+
+
+
+Featured Topics
+
+
+
+
+News Special
+Why Are Women Still Dying From Childbirth?
+
+
+
+
+
+Newsletters
+Sign Up to Receive Our Free Newsletters
+
+
+Mobile Apps
+
+
+Subscriptions
+
+
+
+
+
+
+Sign In
+
+Subscribe
+
+
+                My Profile
+            
+
+
+My Tools
+
+
+My WebMD Pages
+
+
+My Account
+
+
+Sign Out
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    var priTopId='1637', secTopId='';
+                
+
+
+
+
+
+
+Fatigue Home
+
+
+
+
+Medical Reference
+
+
+Features
+
+
+Video
+
+
+Slideshows & Images
+
+
+Quizzes
+
+
+Health Tools
+
+
+Symptom Checker
+
+
+News Archive
+
+
+
+Food & Recipes Home
+
+
+Recipes
+
+
+News
+
+
+Reference
+
+
+Slideshows
+
+
+Quizzes
+
+
+Videos
+
+
+Questions & Answers
+
+
+Message Board
+
+
+
+
+
+Health & Cooking Guide
+
+
+
+
+Healthy Eating
+
+
+Food & Nutrients
+
+
+Smart Swaps
+
+
+Grocery Shopping
+
+
+Cooking Tips
+
+
+Special Diets
+
+
+
+
+Related to Food & Cooking
+
+
+
+Healthy Recipe Finder
+
+
+Diet & Weight Management
+
+
+Fitness & Exercise
+
+
+Food Poisoning
+
+
+Food & Fitness Planner
+
+
+Diabetes
+
+
+Cholesterol Management
+
+
+More Related Topics
+
+
+
+                    var priTopId='1637', secTopId='';
+                
+
+
+
+
+
+
+Food & Recipes
+
+
+
+
+
+Feature Stories
+
+
+
+
+
+	window.videoMap = {
+          inArtVideo: {
+		enableMobile: false, /* If falsy, videos wont load on that device */
+		enableTablet: false,
+		enableDesktop: true
+          }
+
+
+
+
+	}
+
+
+window.videoSpecialTopics = [
+1629,
+1662,
+1667,
+1678,
+1688,
+1822,
+1827,
+1830,
+1834,
+1835,
+3052,
+3553,
+3554,
+3556,
+3557,
+3629,
+3630,
+3641,
+3645,
+4030,
+4051,
+4054,
+4223
+]
+
+						$(function(){
+							require(['webmd.threestackmetrics/1/webmd.threestackmetrics'],function(webmd_threestackmetrics){
+								 webmd_threestackmetrics.init();
+							});
+						});
+						 
+
+						$(function(){
+							require(['embedded_assets/2/embedded-assets','css!embedded_assets/2/embedded-assets.css'],function(embed_asset){
+								 embed_asset.init();});
+						});
+						 
+
+
+
+
+Foods to Fight Fatigue
+
+By Dulce  Zamora
+
+
+
+
+					require.config({
+						paths: {
+							"webmd.m.socialshareplugin": "socialshareplugin/2/webmd.m.socialshareplugin.min"
+						}
+					});
+					
+						requirejs(['infnite-article/1/responsive-infinite-article.min']);
+					
+				
+					$(function(){
+						require(["webmd.m.socialshareplugin", "css!socialshareplugin/2/socialshareplugin.min.css"], function(socialshare) {
+							$(".module-social-share-container").socialshareplugin({shareOrder: ["facebook","twitter","pinterest","save","email","print","listen"]});
+						});
+					});
+
+From the WebMD Archives
+
+
+
+Tired. Drained. Pooped. No matter how you phrase it, you're beat and need to drum up some energy.
+Generally reported by more women than men, sluggishness can be caused by many things. But experts say poor nutrition is a big culprit. "Food is truly our body's fuel," says Cindy Moore, director of nutrition therapy for The Cleveland Clinic. "What we choose as our fuel is going to absolutely impact the performance of our bodies."
+Here's what the experts have to say about making sure your body gets the right fuel when it needs it.
+
+
+The Forgotten Meal
+At the beginning of the day, most people dash off to work or school without a thought to their body's dietary needs. Who has time to eat in the morning anyway?
+Mary Ellen Camire, PhD, professor of food science and human nutrition at the University of Maine says, "Breakfast is an easy meal to forget. But if people are skipping breakfast and find they're tired by midmorning, then it's time to re-evaluate that habit."
+Research shows breakfast improves alertness and concentration, helps shed pounds by preventing overeating during the day, and prevents obesity, diabetes, and heart disease.
+To get these benefits and to prepare the body for the day, the Academy of Nutrition and Dietetics recommends eating carbohydrates for energy and protein for endurance. Some quick options include:
+
+Whole grain bagel with cheese
+Cereal with fruit and yogurt
+Whole grain toast with peanut butter and fruit
+Hard-boiled egg sliced into a whole wheat pita
+Scrambled eggs, toast, and fruit
+Oatmeal with raisins
+
+For the really busy bee, Camire says breakfast bars, frozen omelets, breakfast sandwiches, oatmeal packets, and whole grain cereals in prepackaged plastic bowls are good choices for eating on the go. Be mindful, though, of the sugar and fat content of your morning meal. A study in Pediatrics found that children who ate sugary breakfasts were hungrier and ate more at lunch.
+
+
+Complex Carbohydrate Charge
+
+Healthy eating shouldn't stop with the morning meal. A well-balanced diet throughout the day is an essential source of sustained energy.
+
+
+
+Continued
+
+Although carbohydrates have gotten a bad reputation, the nutrient is still the body's preferred source of energy, says Dave Grotto, RD, director of nutrition at the Block Center for Integrative Cancer Care in Evanston, Ill. Low-carb diets, he says, initially boost energy but deplete it in the long run.
+The best way to maximize the body's potential for energy is to eat a combination of complex and simple carbohydrates. Complex carbohydrates, which are slow burning, should make up the bulk of the carbohydrates we eat, says Grotto. Whole grains and starchy vegetables such as potatoes, squash, pumpkin, and carrots fall into this category.
+This does not mean ignoring simple carbohydrates with a faster burn, such as those found in fruits, vegetables, and honey. They can provide an immediate source of energy.
+Simple sugars found in candy bars, soft drinks, and cookies can also provide a quick boost, but then a big letdown afterward.
+"You are going to get a rise in energy from the original hit of the sugar," says John W. Finley, associate editor of the Journal of Agriculture and Food Chemistry, "but then, particularly for diabetics, sugar can drop below the baseline where it started." Finley says the peak effect of simple sugar normally lasts 30 minutes to an hour, depending on the dose.
+Without complex carbohydrates to sustain blood sugars, the body loses steam. "A diet that is based in complex carbohydrates," Grotto says, "seems to have less of that peak and valley of blood sugar effect."
+It is also important to make sure your complex carbohydrates have fiber, says Dee Sandquist, a spokesperson for the Academy of Nutrition and Dietetics. "Fiber helps the carbohydrates that we eat to be more slowly absorbed by the body," she says. "So, therefore, the body gets a more balanced release of energy, as opposed to the quick burst of energy."
+Many processed carbohydrates, such as white rice, white bread, and pasta, contain little or no fiber, resulting in expending energy at a rapid rate. To ensure you have a food rich in fiber, check the label. A slice of bread should contain 2 to 3 grams of fiber.
+
+
+
+Continued
+
+Fat Force
+Fat has gotten a bad rap, too, but it's one that's not entirely undeserved. "Bad" fats are associated with heart disease, some types of cancer, and some chronic illnesses. The right types of fat, however, are a concentrated source of energy. Saturated fat (found in foods like meat, butter, lard, and cream) and trans fat (found in baked goods, snack foods, fried foods, and margarines) have been shown to increase the risk for heart disease. Replacing saturated and trans fat in your diet with unsaturated fat (found in foods like olive oil, avocados, nuts, and canola oil) has been shown to decrease the risk of developing heart disease.
+In order to strike the right balance, choose polyunsaturated fats such as vegetable oils and seafood and monounsaturated fats such as olive oil, nuts, and seeds. The unsaturated variety can help lower "bad" LDL cholesterol.
+
+
+Protein Power
+Fats and carbohydrates may supply the body with energy, but protein helps regulate the release of that power. Protein maintains cells, assists in growth, transports hormones and vitamins, and preserves lean muscle mass. Muscles and many hormones are, in fact, made up of protein. You need proteins for your immune system. So replenishing your body's source of the nutrient is very important.
+Good sources of protein include meat, poultry, fish, eggs, beans, nuts, soy, and low-fat dairy products. When you eat these types of foods, your body breaks down the protein that they contain into amino acids (the building blocks of proteins). Some amino acids are essential, which means that you need to get them from your diet, and others are nonessential, which means that your body can make them. 
+In diets where the body does not get its usual fuel of carbohydrates and fat, protein provides the body energy.
+
+
+The Weight of Water
+Two-thirds of your body is made up of water. Without it, you could only live a few days. The fluid helps control body temperature through sweat, moves food through the intestines, and greases the joints. It's also an essential ingredient in the production of energy molecules.
+
+
+
+Continued
+
+"Dehydration is one of the leading causes of a lack of energy," says Grotto. If you're not well hydrated, your body puts its resources into maintaining your water balance instead of into giving you energy.
+Everyone's water needs vary. In February 2004, the Institute of Medicine released a report indicating most people meet their daily hydration needs by using thirst as their guide. In general, the Institute's expert panel recommended that women get about 11 cups of water from food and drink each day, and men get about 16 cups daily. This may seem like a lot of liquid, but 20% of it comes from food and the other 80% from drinking water and other beverages. .
+To adequately get your hydration needs, particularly on a hot and humid day, the Academy of Nutrition and Dietetics suggests carrying around a bottle of water, or replacing your afternoon soft drink with water. Frozen juice bars or icy treats are also a good idea.
+Water is especially important after exercise, with certain medicines, and with a high-fiber diet. Your fluid intake should be adjusted to how much water you're losing, says Finley. "A simple thing like stopping at a drinking fountain when you walk by one is a good idea."
+
+
+Caffeine Fix
+More than half of Americans reach for a coffee cup every day, and 25% drink it occasionally, reports the National Coffee Association. This should come as no surprise as there are those who swear they cannot function without the caffeine.
+The compound can be found not only in coffee but in tea, soft drinks, chocolate, and herbs as well.
+John Allred, PhD, a food science communicator for the Institute of Food Technologists, says stimulants like caffeine exaggerate the effect of natural hormones like adrenaline. "They get your heart pumping faster, you respire faster, and that gives you a stimulated feeling," he says, noting the results usually last no more than two hours.
+
+Psychology tests have shown a combination of caffeine and sugar can improve alertness and performance. "But then it wears off, and then you get a little bit of a slump afterward," says Camire. The high-low effect of caffeine, she says, is not as pronounced as it is in sugar, but it is significant enough that frequent users often experience headaches without the substance.
+
+
+
+Continued
+
+The effect of caffeine varies from person to person. Some people need a few cups before experiencing stimulation; others feel shaky or jittery with one serving.
+Caffeine can also interfere with sleep, particularly if it is consumed in the late afternoon. The lack of shuteye could obviously affect one's energy level. To resolve this issue, Camire recommends switching to decaffeinated beverages by about 3 p.m. She also suggests gradually cutting back on caffeinated drinks, especially since they may have a dehydrating effect.
+
+
+Beating the Doldrums
+Food can raise or diminish your body's energy levels. If you are eating healthy and are still tired, try changing the frequency of your meals. Some people find they get more of a boost with several small meals throughout the day, while others prefer the concept of three square meals daily. There's no right or wrong way, says Sandquist, noting that everyone's energy needs differ.
+The amount of food you eat can also make a difference. If someone overeats constantly, he or she tends to gain more weight and become lethargic, says Finley. "It's like the snowball rolling down the hill," he explains. "As [overeaters] get more overweight, they have less energy, and then they exercise less and don't burn the calories."
+Other dietary reasons for fatigue include too much alcohol (which is a depressant) and lack of certain vitamins and minerals. Low iron is a common problem for women.
+If you still find yourself sluggish with a well-balanced diet, then a visit to the doctor may be in order. Certain diseases, medications, stress, and inadequate sleep and exercise can contribute to fatigue.
+
+
+
+WebMD Feature
+Reviewed by Brunilda  Nazario, MD on January 09, 2013
+
+
+Sources
+
+SOURCES: 
+CDC. 
+Cindy Moore, MSRD, director of nutrition therapy, The Cleveland Clinic. 
+Mary Ellen Camire, PhD, professor of food science and human nutrition, University of Maine. 
+American Dietetic Association. 
+American Academy of Pediatrics. 
+Dave Grotto, RD, director of nutrition, Block Center for Integrative Cancer Care, Evanston, Ill. 
+John W. Finley, associate editor, Journal of Agriculture and Food Chemistry. 
+Dee Sandquist, MSRD, spokeswoman, American Dietetic Association. 
+Mayo Clinic. Institute of Medicine. 
+Coffee Research Institute. 
+John Allred, PhD, food science communicator, Institute of Food Technologists. 
+National Collegiate Athletic Association. 
+National Center for Drug Free Sport. 
+WebMD Feature: "Fight Fatigue With Short Energy Breaks." 
+American Heart Association. 
+Medline Plus.
+
+
+© 2004 WebMD, Inc. All rights Reserved.
+
+
+
+						$(document).ready(function() {
+							var $firstArtImg = $(".article-body .article-page p:nth-of-type(1) img"); 
+							var aspcaLogo;
+							// if article has an image in first paragraph
+								if ($firstArtImg.length > 0) {
+									aspcaLogo = $firstArtImg.attr('src').indexOf('163x68_aspca_reference');
+								// if image is ASPCA logo
+									if (aspcaLogo !== -1) {
+										$firstArtImg.hide();
+									}
+								}  
+						});
+					
+
+
+				(function(){
+					// Set PG=1 in the first Ad Call
+					webmd.ads2.setPageTarget('pg', 1);
+
+					// Some test Topic Id's & Buisness Ref for testing moving the ad higher into page 1
+					var moveAdTopicIds = [], // Place in Topic Ids  in the array example: ['1234','5678']
+						moveAdBuisRef = ['Feature','Medical Reference','News'],
+						moveAdAfter = 1; // Number of which node to place the ad after
+
+					// If we only have 1 page in the article we place the Ad on the top of the footer
+					if($('.article-page').length === 1){
+						$('article footer').prepend('<div class="bottom-ad-override">');
+					} else {
+						// If we match both our test Topic Ids and Buisness Ref we want to place the ad in the middle of page 1
+						if($.inArray(window.s_topic, moveAdTopicIds) > -1 && $.inArray(window.s_business_reference, moveAdBuisRef) > -1){
+							// The logic below reads count all nodes in page 1. Exclude the footer,ol,ul and table elements. Use the varible
+							// moveAdAfter to know which node to place the Ad container after.
+							window.placeAd = function(pn) {
+								var nodeTags = ['p', 'h3','aside', 'ul'],
+									nodes,
+									target;
+
+								nodes = $('.article-page:nth-child(' + pn + ')').find(nodeTags.join()).not('p:empty').not('footer *').not('ol *, ul *, table *');
+
+								//target = nodes.eq(Math.floor(nodes.length / 2));
+								target = nodes.eq(moveAdAfter);
+
+								$('').insertAfter(target);
+							}
+							// Currently passing in 1 to move the Ad in to page 1
+							window.placeAd(1);
+						} else {
+							// This is the default location on the bottom of page 1
+							$('.article-page:nth-child(1)').append('');
+						}
+					}
+				})();
+				$(function(){
+					// Create a new conatiner where we will make our lazy load Ad call if the reach the footer section of the article
+					$('.main-container-3').prepend('');
+				});
+			
+
+						$(function(){
+							require(['webmd.pagination/1/webmd.pagination'],function(webmd_pagination){
+								 webmd_pagination.init();
+							});
+						});
+						 
+Pagination
+
+
+
+
+Top Picks
+
+
+
+Nutrition Terms and Their Definitions
+
+
+Best Foods for RA
+
+
+How to Make a Great Grocery List
+
+
+Becoming a Vegetarian: Foods to Choose From
+
+
+Best and Worst Appetizers
+
+
+Truth About Omega-3s
+
+
+Video: Powerhouse Fruits and Veggies
+
+
+
+    <a class="{type_prefix}{type}" data-metrics-link="{link_position}" href="{href}">{alt}{i_tag}
+
+
+				
+					webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_top_picks'] = ['x62','x63','x64','x65','x66','x67'];
+				
+			
+
+
+
+further reading
+
+
+
+Slideshow: What to do Today to Sleep Better Tonight
+
+
+Slideshow: 12 Causes of Fatigue and How to Fight It
+
+
+Get a Good Night's Sleep: Tips for You and Your Family
+
+
+Fatigue Quiz: Understanding Acute Fatigue, Chronic Fatigue Syndrome, and More
+
+
+Why Am I So Tired? Conditions That Cause Fatigue
+
+
+Instant Energizers
+
+
+Exercise for Energy: Workouts That Work
+
+
+Fatigue Topics
+
+
+
+                    var priTopId='1637', secTopId='';
+                
+
+
+
+                        (function () {
+                        window.placeICM = function(pn) {
+                                var nodeTags = ['p:not(:empty)', 'h3','aside', 'ul'],
+                                  nodes,
+                                  active,
+                                  target;
+                                if ($('.ad-5000').length) {
+                                  if ($('.active-page').length){
+                                        active = $('.active-page');
+                                        if (active.length > 1) {
+                                                nodes = $(active.eq(pn -1)).find(nodeTags.join()).not('footer *').not('ol *, ul *, table *');
+                                        } else {
+                                            nodes = $('.active-page').find(nodeTags.join()).not('footer *').not('ol *, ul *, table *');
+                                        }
+                                  } else {
+                                    nodes = $('.article-page:nth-child(' + pn + ')').find(nodeTags.join()).not('footer *').not('ol *, ul *, table *');
+                                  }
+
+                                  target = nodes.eq(nodes.length - Math.floor(nodes.length / 4) - 1);
+                                  if (s_publication_source.indexOf("Healthwise") === -1) {
+                                    $('.ad-5000').insertAfter(target);
+                                  }
+                                }
+                              }
+                        window.placeICM(1)
+                    })();
+
+
+                         
+                    var priTopId='1637', secTopId='';
+                
+
+
+
+
+Today on WebMD
+
+
+
+
+
+Protein Myths & Facts
+Test your knowledge.
+
+
+
+
+
+
+
+			
+                   if($('#ads2-pos-921-ad-right').length > 0 && $('.ad').first().data('is-mobile') === true) { 
+                            $('#ads2-pos-921-ad-right').removeClass('ad-921').addClass('ad-1921').attr('id', 'ads2-pos-1921-ad-right').data('pos', '1921');
+                   }
+         
+
+
+
+
+Truth About Vitamin D
+Wonder pill or overkill?
+
+
+
+
+
+Worst Restaurant Meals
+Avoid these fattening options.
+
+
+
+
+
+Secrets of Healthy Eating
+How to change your habits.
+
+
+
+
+
+  <a data-metrics-link="{link_position}{onclick_append}" href="{href}">
+    <img src="{img}?resize=110px:*&amp;output-quality=50" alt="{alt_text}">
+    <h4>{alt}
+{text}
+
+
+webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {};webmd.oas.mapping['oas_ed-urr'] = ['x52','x53','x54','x55']; 
+                    var priTopId='1637', secTopId='';
+                
+
+
+
+Recommended for You
+
+
+
+
+
+Article
+Is Wheatgrass Good for You?
+
+
+
+
+
+Article
+Vegetarian & Vegan Diets Explained
+
+
+
+
+
+Slideshow
+Condiments: Dress Up Your Foods
+
+
+
+
+
+Slideshow
+Food and Faith
+
+
+
+
+
+Quiz
+Truth About Seafood
+
+
+
+
+
+Quiz
+What's in Your Food?
+
+
+
+
+
+Slideshow
+What Is a Gluten-Free Diet?
+
+
+
+
+
+Slideshow
+Truth About Sugar Cravings
+
+
+
+
+
+Slideshow
+Fat-Fighting Foods
+
+
+
+
+
+Slideshow
+25 Low-Calorie Snacks
+
+
+
+
+
+Slideshow
+High-Protein Diets
+
+
+
+
+
+Slideshow
+Low-Carb Snacks
+
+
+
+
+
+  <a data-metrics-link="{link_position}{onclick_append}" href="{href}">
+    <img src="{img}?resize=69px:*&amp;output-quality=50" alt="{alt_text}">
+    <span class="asset-type">{text}
+{alt}
+
+
+webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {};webmd.oas.mapping['oas_ed-rcmmnddforyou'] = ['x20','x21','x22','x23','x24','x25','x26','x27','x28','x29','x30','x31']; 
+                    var priTopId='1637', secTopId='';
+                
+
+
+
+                        // Removes Popular Tools & Resources OAS from TOC pages or 
+                        // where www.webmd.com is followed by "news-features"
+                        // Create array(s) of the ID's to add the Tools module to
+                        var s_topic = s_topic || "",
+                        	s_business_reference = s_business_reference || "",
+                        	s_publication_source = s_publication_source ||"",
+                        	s_channel_health = s_channel_health || "",
+                        	cssBlockOverride = [
+                        		'Glossary',
+                        		'Nav - A-Z page',
+                        		'WebMD Image Collection'
+                        		],
+                        	sTopicException = ['7002','7006','7019','7022','7023','7024']; // Exceptions we want to show
+                                                
+                        // if the publication source (s_publication_source) or 
+                        // the business reference (s_business_reference) isn't in the array or
+                        // the channel (s_channel_health) is equal to 'Health Insurance and Medicare'
+                        if ( cssBlockOverride.indexOf(s_publication_source) === -1 ||  cssBlockOverride.indexOf(s_business_reference) === -1 || s_channel_health === 'Health Insurance and Medicare') {
+                        	// if the Topic ID's (s_topic ID) first number is not 7 or
+                        	// the Topic ID (s_topic ID) is included in the sTopicException array and
+                        	// the business reference (s_business_reference) is not in the cssBlockOverride Array
+                        	if ((s_topic.substring(0, 1) !== "7" || sTopicException.indexOf(s_topic) >= 0) && cssBlockOverride.indexOf(s_business_reference) === -1) {
+                        		$('.module-tools-and-resources').css('display', 'block');
+                        		webmd.oas = window.webmd.oas || {};
+                        		webmd.oas.mapping = window.webmd.oas.mapping || {};
+                        		webmd.oas.mapping['oas_tools_and_resources'] = ['x56', 'x57', 'x58', 'x59', 'x60', 'x61'];
+                        	}
+                        }
+            	    
+Tools & ResourcesVitamin & Mineral SourcesCanola Oil BenefitsBest and Worst JuicesLow-Sodium Cooking TipsGuide to Becoming VegetarianBest and Worst Appetizers<a class="{type_prefix}{type}" data-metrics-link="{link_position}" href="{href}">{alt}{i_tag}
+
+                    if (window.$) {
+                    	$(function () {
+                    		// produce array from value(s) of 'secTopId'
+                    		var mySplitResultsecTopId = secTopId.split("|");
+                    
+                    		// Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+                    		$.each(mySplitResultsecTopId, function (i, item) {
+                    			item = item.toString();
+                    			if (item.substring(0,1) === '7' && $.inArray(item, sTopicException) === -1) {
+                    				$('.module-tools-and-resources').hide();
+                    			}
+                    		});
+                    
+                    		// Hides the Pop Tools list on Actionset Pages
+                    		if ($('.actionset').length > 0) {
+                    			$('.module-tools-and-resources').hide();
+                    		}
+                    	});
+                    }
+                
+
+
+
+                        require(['newsletter/1/mapping-centers-desktop'], function(module){
+                          module.init({
+                            selector: "#newsletter-mapping-center",
+                            template: {
+                              successMsg: '<p class="success">You will receive your first newsletter with our next scheduled circulation!',
+                              content: '' +
+                                '\n' +
+                                '{header}\n' +
+                                '{preContent}' +
+                                '\n' +
+                                '{preForm}' +
+                                '\n' +
+                                'Select your newsletters:{inputs}\n' +
+                                '\n' +
+                                '\n' +
+                                'Enter email address: ' +
+                                'Subscribe\n' +
+                                '' +
+                                '\n' + // .email-container
+                                '\n' + // .input-container
+                                '' + 
+                                'By clicking Submit, I agree to the WebMD Terms & Conditions & Privacy Policy and understand that I may opt out of WebMD subscriptions at any time.' +
+                                '' + // .privacy-disclaimer
+                                '\n' +
+                                '{postForm}' +
+                                '\n' + // .nls-content 
+                                '{postContent}' + 
+                                '',
+                                header: 'Subscribe to {title} Newsletter',
+                                headerMulti: 'Subscribe to WebMD Newsletters',
+                                submitClass: 'webmd-btn webmd-btn-pr webmd-btn-s',
+                                successHeader: 'Thank you for signing up',
+                                promo: '{text}{button}'
+
+                            }
+                          });
+                        });
+                    
+
+
+                    var priTopId='1637', secTopId='';
+                
+
+
+Health Solutions
+
+
+Cancer Survivorship
+
+
+Independent Seniors
+
+
+Live Better With Diabetes
+
+
+Transitional Care
+
+
+21st Century Cures
+
+
+Ringing in the Ears
+
+
+Life-Changing Vitamins
+
+
+Have Trouble Sleeping?
+
+
+Immediate Pain Relief
+
+
+Caregiving Solutions
+
+
+Time to Quit Smoking
+
+
+Therapy at Home?
+
+
+Peyronie’s Treatment
+
+
+Survive Cold and Flu Season
+
+
+Smartphone Health Apps
+
+
+
+More from WebMD
+
+
+Tips to Better Manage Your Migraine
+
+
+The Stress of Caregiving
+
+
+Immunotherapy for Cancer
+
+
+Could You Have Tinnitus?
+
+
+Foods That Fight Inflammation
+
+
+Do I Have a Yeast Infection or Something Else?
+
+
+Living Better With Migraine
+
+
+3 Ways to Protect Your Heart
+
+
+Fertility Quiz
+
+
+Pre-Pregnancy To-Dos
+
+
+Avoid Allergy Triggers
+
+
+Treating Advanced Prostate Cancer
+
+
+Small Steps to Manage Your Blood Sugar
+
+
+
+
+
+
+
+
+
+
+
+
+Visit WebMD on Facebook 
+
+
+
+
+Visit WebMD on Twitter 
+
+
+
+
+Visit WebMD on Pinterest 
+
+
+
+PoliciesPrivacy PolicyEditorial PolicyAdvertising PolicyCorrection PolicyTerms of UseAboutContact UsAbout WebMDCareersNewsletterCorporateWebMD Health ServicesSite MapAccessibilityWebMD NetworkMedscapeMedscape ReferenceMedicineNeteMedicineHealthRxListOnHealthBootsWebMDWebMDRxFirst AidWebMD MagazineWebMD Health RecordDictionaryPhysician DirectoryOur AppsWebMD MobileWebMD AppPregnancyBabyAllergyMedscapeTheHeartFor AdvertisersAdvertise with UsAdvertising Policy
+
+© 2005 - 2018 WebMD LLC. All rights reserved.WebMD does not provide medical advice, diagnosis or treatment.See additional information.// Comscore Beacon
+	(function(){
+		// duckpunching s_before_pv as some assets are using that vs our event driven system. This lets the event system get triggered as well as the other functions
+		var _old = window.s_before_pv;
+
+		window.s_before_pv = function() {
+			var timestamp = Number(new Date());
+			if (window.location.protocol === 'http:') {
+				webmd.load({image: '//b.scorecardresearch.com/b?c1=2&c2=6035829&c3=&c4=&c5=&c6=&c7=' + encodeURIComponent(window.location.href) + '&c9=' + encodeURIComponent(window.document.referrer) + '&c15=&cv=2.0&cj=1&cb='+ timestamp});
+			}
+			if (window.location.protocol === 'https:') {
+				webmd.load({image: '//sb.scorecardresearch.com/b?c1=2&c2=6035829&c3=&c4=&c5=&c6=&c7=' + encodeURIComponent(window.location.href) + '&c9=' + encodeURIComponent(window.document.referrer) + '&c15=&cv=2.0&cj=1&cb='+ timestamp});
+			}
+
+			_old();
+		}
+	})();
+
+
+(function () {
+		var isSensitive, excludeTopics = ["1634", "1663", "1664", "1669", "1695", "1700", "1703", "1705", "1707", "1709", "1711", "1719", "1756", "1760", "1761", "1762", "1783", "1814", "1818", "1819", "1835", "1840", "2730", "2756", "2857", "2950", "2952", "2953", "3079", "3236", "3539", "3540", "3541", "3552", "3571", "3607", "3608", "3623", "3631", "3637", "3644", "3838", "3927", "3928", "3930", "3937", "3939", "3950", "3951", "3954", "3958", "3962", "3963", "3965", "3966", "3971", "3989", "4010", "4048", "4049", "4050", "4052", "4058", "4099", "4119", "4121", "4140", "4203", "4222", "4227", "4228", "4236", "4242", "4251", "4254", "4257", "5555", "6041", "18091", "18092", "18093", "18094"];
+
+		if (window.s_topic) {
+			isSensitive = s_topic.match(/^7\d\d\d/gi);
+		}
+
+		if (window.s_topic && !isSensitive && excludeTopics.indexOf(window.s_topic) === -1) {
+
+			pixelForFacebook();
+			pixelForTwitter();
+			pixelForPinterest();
+		}
+	})();
+
+	function pixelForFacebook() {
+	    ! function(f, b, e, v, n, t, s) {
+	        if (f.fbq) return;
+	        n = f.fbq = function() {
+	            n.callMethod ? n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+	        };
+	        if (!f._fbq) f._fbq = n;
+	        n.push = n;
+	        n.loaded = !0;
+	        n.version = '2.0';
+	        n.queue = [];
+	        t = b.createElement(e);
+	        t.async = !0;
+	        t.src = v;
+	        s = b.getElementsByTagName(e)[0];
+	        s.parentNode.insertBefore(t, s)
+	    }(window, document, 'script', '//connect.facebook.net/en_US/fbevents.js');
+	    fbq('init', '428750600651790');
+	    fbq('track', 'PageView');
+	}
+
+	function pixelForTwitter() {
+	    ! function(e, t, n, s, u, a) {
+	        e.twq || (s = e.twq = function() {
+	                s.exe ? s.exe.apply(s, arguments) : s.queue.push(arguments);
+	            },
+	            s.version = '1.1',
+	            s.queue = [],
+	            u = t.createElement(n),
+	            u.async = !0,
+	            u.src = '//static.ads-twitter.com/uwt.js',
+	            a = t.getElementsByTagName(n)[0],
+	            a.parentNode.insertBefore(u, a))
+	    }(window, document, 'script');
+	    // Insert Twitter Pixel ID and Standard Event data below
+	    twq('init', 'nxo3v');
+	    twq('track', 'PageView');
+	}
+
+	function pixelForPinterest() {
+	    ! function(e) {
+	        if (!window.pintrk) {
+	            window.pintrk = function() {
+	                window.pintrk.queue.push(Array.prototype.slice.call(arguments))
+	            };
+	            var n = window.pintrk;
+	            n.queue = [],
+	                n.version = "3.0";
+	            var t = document.createElement("script");
+	            t.async = !0,
+	                t.src = e;
+	            var r = document.getElementsByTagName("script")[0];
+	            r.parentNode.insertBefore(t, r)
+	        }
+	    }("https://s.pinimg.com/ct/core.js");
+	    pintrk('load', '2618142259440');
+	    pintrk('page');
+	}  $(function(){
+	// once the page loads, get the DFP targets and pass to google pixel
+
+	/*
+	 * This function will execute only once, after which it becomes a no-op.
+	 */
+	var _once = function() {
+		var params = {};
+		_once = function(){};
+
+		if (typeof window.google_trackConversion !== "undefined") {
+			// for parameters with multiple values, pass parameter as a JavaScript array instead of string (https://support.google.com/adwords/answer/7280698)
+			$.each(webmd.ads2.pageTargets, function(index,value){
+				if (value.indexOf(",") > -1) {
+					params[index] = value.split(",");
+				} else {
+					params[index] = value;
+				}
+			});
+
+			window.google_trackConversion({
+				google_conversion_id: 875612316,
+				google_custom_params: params,
+				google_remarketing_only: true
+			});
+		}
+	};
+
+	// queue a callback to execute once GPT is ready
+	googletag.cmd.push(function(){
+		/*
+		 * since all ad units on our pages have the same page targets,
+		 * we grab the targets out of the first ad that renders and pass it through to google pixel.
+		 * we can't rely on the targets in data-attributes because some targets are added dynamically during run-time, so we have to wait for slot render.
+		 * The conversion tracking call is guaranteed to execute just once even if there are multiple slotRenderEnded events.
+		 */
+		googletag.pubads().addEventListener('slotRenderEnded', function(e) {
+			_once();
+		});
+	});
+});require(['fly_in/2/fly_in'], function (flyIn) {
+		flyIn.init('#triggerFlyin');
+	});
+
+
+
+
+if(typeof _satellite != "undefined"){_satellite.pageBottom();}
+
+(function(){
+var wot_referrer = "";
+var wot_s_Topic = "";
+var wot_url = "";
+if(typeof s_topic != "undefined"){wot_s_Topic = s_topic;}
+if(typeof document.referrer != "undefined"){wot_referrer = document.referrer;}
+if(typeof document.location != "undefined") {wot_url = document.location;}
+var webmdDomain = document.domain;
+if((webmdDomain != null) && (webmdDomain.toLowerCase().indexOf("fit.") < 0) && (webmdDomain.toLowerCase().indexOf(".webmd.boots.com") < 0))
+{ var urlstr = "//s.tagsrvcs.com/2/587654/analytics.js?pp="+wot_referrer+"&sn="+wot_s_Topic+"&c1="+wot_url;
+document.write("<script src='" + urlstr + "' async='true'><\/script>"); }
+})();
+
+
