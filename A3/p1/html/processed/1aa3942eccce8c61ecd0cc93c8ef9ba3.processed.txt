@@ -1,0 +1,18 @@
+https://www.vogue.com/article/homes-taylor-swift-at-home-cooking
+
+
+
+
+10 Times Taylor Swift Proved She’s the Ultimate Homebody - Vogue
+
+
+
+
+    var docEl = document.documentElement;
+    docEl.className = docEl.className.replace('no-js', 'js');
+  
+{"@context":"http://schema.org","@type":"Article","headline":"10 Times Taylor Swift Proved She’s the Ultimate Homebody","image":"https://assets.vogue.com/photos/589159c7736d5f2410e38062/16:9/pass/10-taylor-swift-homebody-instagrams.jpg","keywords":["Living","Taylor Swift","Instagram","mobileAppReadyTrue","Living"],"section":"Living","articleSection":"Living","description":"Baking cookies, frosting cakes, and curating the coffee-table decor—this is how the world’s biggest pop star spends her precious downtime.","mainEntityOfPage":"True","publisher":{"@type":"Organization","name":"Vogue","logo":{"@type":"ImageObject","url":"https://www.vogue.com/wp-content/uploads/2016/02/24/logo_vogue.png","width":213,"height":59}},"datePublished":"2016-04-14T08:22:37.000Z","dateModified":"2017-05-26T03:01:08.841Z","author":[{"@type":"Person","name":"Brooke Bobb"}],"editor":[]}
+
+
+
+subscribeVoguefashionbeautyculturelivingrunwayFall 2018 Ready-to-WearFall 2018 MenswearSpring 2018 CouturePre-Fall 2018Spring 2018 Ready-to-WearvideoprojectsshopMost SharedShare on FacebookShare on TwitterShare on PinterestShare on EmailShareCloseLiving10 Times Taylor Swift Showed Us She’s the Ultimate HomebodyApril 14, 2016 8:22 AMby Brooke BobbWhen Taylor Swift isn’t reading over her own deeply personal song lyrics, she’s typically focused on a very different type of text: words found in the cookbooks written by the Barefoot Contessa, Ina Garten. If the pop star isn’t touring the world, being a down-to-earth role model and a Vogue cover girl, and making music with industry greats, she’s perhaps happiest playing the domestic goddess at home, a notion highlighted by the sweet, intimate Instagrams she frequently posts from her kitchen or her living room.The T. Swift feed is chock-full of homebody favorites like freshly baked cookies and well-curated coffee tables. She also always has family and friends over for casual meals, Gigi Hadid and Hailee Steinfeld included. It’s nice to know that the hardest-working girl in pop music gets some chill time on her well-appointed couch and in her perfect kitchen, always with her beloved cats nearby. In fact, we can all take a page out of Swift’s book and learn to unwind a little in the comforts of our own home, even if it’s only for the cooking time allotted in one of Ina’s recipes.Below, take a look at the most charming snapshots from Taylor Swift’s cozy life at home.Loading

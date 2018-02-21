@@ -1,0 +1,876 @@
+https://www.npr.org/2011/03/12/134456594/study-diet-may-help-adhd-kids-more-than-drugs
+
+   try {var _sf_startpt=(new Date()).getTime();} catch(e){}
+
+Study: Diet May Help ADHD Kids More Than Drugs : NPR
+   window.NPR = window.NPR || {};
+NPR.ServerConstants = {"cbHost":"npr.org","webHost":"https:\/\/www.npr.org","embedHost":"https:\/\/www.npr.org","webHostSecure":"https:\/\/secure.npr.org","apiHost":"https:\/\/api.npr.org","staticAssetHost":"https:\/\/s.npr.org","serverMediaCache":"https:\/\/media.npr.org","googleAnalyticsAccount":"UA-5828686-4","gtmKey":"GTM-K9RKM5","nielsenSFCode":"dcr","nielsenAPN":"NPR-dcr"};
+NPR.serverVars = {"storyId":"134456594","facebookAppId":"138837436154588","webpackPublicPath":"https:\/\/s.npr.org\/templates\/javascript\/dist\/bundles\/","persistenceVersion":"922f126a5fe5fbd55eece3d4cf7ae74b","isBuildOut":true,"topicIds":["P1024","1001","1002","1007","1030","1066","1128"],"primaryTopic":"Research News","topics":["Research News","News","Home Page Top Stories","Science","Children\u0027s Health","Your Health","Health"],"theme":"1024","programId":"All Things Considered","program":"2","aggIds":["2","1001","1002","1007","1024","1030","1066","1090","1128","134431344"],"byline":["NPR Staff"],"pubDate":"2011031200","pageTypeId":"1","title":"Study: Diet May Help ADHD Kids More Than Drugs","publisherOrgId":"1","rocketfuelCode":20501671};
+
+
+
+
+   !function(e){function c(a){if(d[a])return d[a].exports;var f=d[a]={exports:{},id:a,loaded:!1};return e[a].call(f.exports,f,f.exports,c),f.loaded=!0,f.exports}var a=window.webpackJsonp;window.webpackJsonp=function(b,t){for(var n,r,o=0,i=[];o<b.length;o++)r=b[o],f[r]&&i.push.apply(i,f[r]),f[r]=0;for(n in t){var s=t[n];switch(typeof s){case"object":e[n]=function(c){var a=c.slice(1),d=c[0];return function(c,f,b){e[d].apply(this,[c,f,b].concat(a))}}(s);break;case"function":e[n]=s;break;default:e[n]=e[s]}}for(a&&a(b,t);i.length;)i.shift().call(null,c);if(t[0])return d[0]=0,c(0)};var d={},f={22:0};c.e=function(e,a){if(0===f[e])return a.call(null,c);if(void 0!==f[e])f[e].push(a);else{f[e]=[a];var d=document.getElementsByTagName("head")[0],b=document.createElement("script");b.type="text/javascript",b.charset="utf-8",b.async=!0,b.src=c.p+""+e+"."+{0:"0a717c45cbda754dee03",1:"64c309b2e27a15d90040",2:"bd40ed403cefebc443a7",3:"fc03ddc26d3e6120522e",4:"12e8f597f716c404ca21",5:"74159041d155cb89fea8",6:"a32d7212b1a161a04f81",7:"1e2ed060720442d3ccc7",8:"1f3592ddeae232f9e01f",9:"c6ed6c1a54a93bc8847e",10:"e7ecea70fd87c07fcf01",11:"544a47b5572c187587e0",12:"51f75b91dcb5b85eb800",13:"d5d3eaee41289bd0e5a6",14:"55ed1ff3d9588722ab75",15:"58b7041890c6c65f6c82",16:"a3eab3c832128d6a5a09",17:"0ccf649f80f190d25a34",18:"cd7c16540b46f83432a9",19:"50e5d932d2b06d1ee9c8",20:"c329ec8733f94c6e3326",21:"3d3e0b6e7e534c0e5a65",23:"50aae6a27ab3ec1612f8",24:"63ab92b3363eab4cc5e8",25:"d09f59e5f25e5a7f1630",26:"2f3e77b8665e0f7ad2db",27:"cee7451589dde66a95f1",28:"0f6093c98245978c42b1",29:"81a8a8607466b00bce69",30:"3d9bc2ec0485138c2c19",31:"8d52f2726f6f3c2d309e",32:"d4ecb2be23e8c5cea318",33:"7362d35511039496bff4",34:"ffd16fb3bed1a9dd1763",35:"dbb0156f462f698783d5",36:"cf32f6e6f210a07638f8",37:"8498a043e0353efb1635",38:"4dc88e20e921dcea2c6f",39:"397ba15a24b02d497a1c",40:"7acdd26901b6f61704bd",41:"72586922ae5838fe3686",42:"2cf83a63179d5f678033",43:"b83cbedc4b62aaf9f551",44:"81ed09c988441c5a320d",45:"7acff8bfadf058f63bc1",46:"3628f2ec68d40c297422",47:"095976b8d527b6dd25c7",48:"7aa7b764ef53c6ba4dc8",49:"4d53e3abd175a6d2c751",50:"aab262b0d543a8350d22",51:"8c26e480ae9ebe074bd5",52:"0a6fe6344f11df2e5efb",53:"32208f94fd75fdf523ed",54:"7ec924790c36ba62fd99",55:"de53e98293944c3a0dae",56:"3129dd607df9ceaed018",57:"c104a39866d4e4d480dd",58:"2356656be29ad138c7c4",59:"27e8c24a212df4b11fe1",60:"563b6c999ff16ddea2ff",61:"52f1cd4e2b6bdfb2799e",62:"f9100259e8dc4610eb81",63:"26027c15267cace3910f",64:"8ed9707572ab098f8a5e",65:"047d9a59a90683165308",66:"d72eec1a4f2d7be27dc6",67:"f24cbde74958e8491c12",68:"d133ed7f0fceb5b72d2d",69:"169ae388d175c1eb4096",70:"f951cbcd5c4ddea0b9fa",71:"3de197813163998c2684",72:"31a1bfe54b1785f046f8",73:"95641818bf88f1833e44",74:"7b7838b2aee646ae2a99",75:"e28c65c8607b9bd3da02"}[e]+".chunk.js",d.appendChild(b)}},c.m=e,c.c=d,c.p="/templates/javascript/dist/bundles/"}(function(e){for(var c in e)if(Object.prototype.hasOwnProperty.call(e,c))switch(typeof e[c]){case"function":break;case"object":e[c]=function(c){var a=c.slice(1),d=e[c[0]];return function(e,c,f){d.apply(this,[e,c,f].concat(a))}}(e[c]);break;default:e[c]=e[e[c]]}return e}([]));
+
+
+   document.domain="npr.org";
+
+
+Accessibility links
+
+Skip to main content
+Keyboard shortcuts for audio player
+
+
+
+
+View Navigation
+
+
+
+NPR
+
+
+
+
+NPR
+
+
+
+
+NPR Music
+
+
+
+
+NPR Books
+
+
+
+
+NPR About
+
+
+
+
+
+NPRPodcast Directory
+
+
+
+Search
+
+Toggle search
+
+
+
+
+
+
+
+
+
+NPR Home
+
+
+
+
+News
+Arts & Life
+Music
+Topics
+
+
+                            Programs & Podcasts
+
+
+
+
+
+
+NPR Music
+
+Genres
+
+New Music
+
+
+Concerts & Videos
+
+
+Articles & Lists
+
+
+Tiny Desk
+
+
+
+
+
+NPR Books
+
+
+Author Interviews
+
+
+Find Books
+
+
+Reviews
+
+
+
+
+
+About NPR
+
+
+Overview
+
+
+Connect
+
+
+Support
+
+
+Press
+
+
+Careers
+
+
+
+
+
+Podcast Directory
+
+
+Categories
+
+
+
+
+
+
+
+
+
+
+NPR Shop
+
+
+
+
+
+
+
+
+Back
+
+News
+
+National
+World
+Politics
+Business
+Technology
+Science
+Health
+Race & Culture
+Education
+
+
+
+Arts & Life
+
+Books
+Movies
+Pop Culture
+Food
+Art & Design
+Performing Arts
+Photography
+
+
+
+Music
+
+First Listen
+Songs We Love
+Music Articles
+Tiny Desk
+Videos
+
+
+
+More
+
+Our Blogs
+Corrections
+All About NPR
+
+
+
+
+Back
+
+News & Conversations
+
+Morning Edition
+All Things Considered
+Fresh Air
+Here & Now
+1A
+Code Switch
+Embedded
+The Indicator from Planet Money
+It's Been a Minute with Sam Sanders
+Latino USA
+NPR Politics Podcast
+On Point
+Rough Translation
+Up First
+Weekend Edition Saturday
+Weekend Edition Sunday
+What's Good with Stretch & Bobbito
+Youth Radio
+
+
+
+Storytelling & Humor
+
+Ask Me Another
+The Best Of Car Talk
+The Big Listen
+Bullseye
+Hidden Brain
+How I Built This
+Invisibilia
+Only A Game
+Planet Money
+Pop Culture Happy Hour
+Radio Ambulante
+StoryCorps
+TED Radio Hour
+Wait Wait...Don't Tell Me!
+Wow in the World
+
+
+
+Music
+
+First Listen
+All Songs Considered
+Songs We Love
+Tiny Desk
+Alt.Latino
+From The Top
+Jazz Night In America
+Mountain Stage
+Piano Jazz
+The Thistle & Shamrock
+World Cafe
+
+
+
+More
+
+All Programs
+Podcast Directory
+
+NPR Podcasts
+
+
+
+
+
+
+
+Back
+
+Rock
+Pop
+Jazz
+Classical
+Hip-Hop
+R&B/Soul
+Folk
+Latin
+World
+Electronic/Dance
+
+
+
+Back
+
+First Listen
+Songs We Love
+All Songs Considered
+Reviews
+Music Videos
+
+
+
+Back
+
+Tiny Desk
+Live Concerts
+Field Recordings
+Studio Sessions
+Music Documentaries
+Music Videos
+Festival Recordings
+
+
+
+Back
+
+Articles
+Interviews
+Quizzes
+Music Lists
+Best Music of the Year
+
+
+
+
+
+Back
+
+
+Art & Design
+Arts & Entertainment
+Biography & Memoir
+Business & Economy
+Children's Books
+Comedy
+Comics & Graphic Novels
+Digital Culture
+
+
+
+
+Faith & Spirituality
+Food & Wine
+History & Society
+Historical Fiction
+Horror & Supernatural
+Literary Fiction
+Mystery & Thrillers
+Parenting & Families
+
+
+
+
+Poetry
+Politics & Public Affairs
+Romance
+Science Fiction & Fantasy
+Science & Health
+Sports
+Travel
+Young Adult
+
+
+
+
+Nonfiction
+Fiction
+
+
+
+
+Back
+
+Book Reviews
+This Week's Must Read
+My Guilty Pleasure
+Three Books...
+PG-13: Risky Reads
+You Must Read This
+Summer Books
+Best Books of the Year
+
+
+
+
+
+Back
+
+Overview
+Overview and History
+Mission and Vision
+Stations and Public Media
+NPR Finances
+People
+Ethics
+Awards
+
+
+
+Back
+
+Visit NPR
+NPR Presents
+Studio 1 Events
+Generation Listen
+Book a Speaker
+Request Permissions
+Ways to Listen
+NPR Extra Blog
+Email Newsletters
+Shop NPR
+Get Help
+Contact Us
+
+
+
+Back
+
+Support Public Radio
+Corporate Sponsorship
+Volunteer
+
+
+
+Back
+
+Releases and Statements
+Photos and Logos
+Fact Sheet (PDF)
+Media Relations Contacts
+
+
+
+Back
+
+Careers at NPR
+Search Jobs
+Culture
+Applying
+Interns
+Fellows
+Digital
+
+
+
+
+
+Back
+
+
+Arts
+Business
+Comedy
+Education
+Games & Hobbies
+Government & Organizations
+Health
+Kids & Family
+
+
+
+
+Music
+
+News & Politics
+Religion & Spirituality
+Science & Medicine
+Society & Culture
+Sports & Recreation
+Technology
+TV & Film
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NPR Shop
+
+
+
+
+
+
+
+Study: Diet May Help ADHD Kids More Than Drugs Kids with attention deficit hyperactivity disorder can be restless, impulsive, inattentive and difficult to handle. Many are treated with drugs, but a new study suggests that food may be the key. The study's author says a very restrictive diet can significantly reduce symptoms.
+
+
+
+
+
+
+
+
+Study: Diet May Help ADHD Kids More Than Drugs
+
+
+
+
+
+
+Listen
+
+· 
+4:24
+
+
+
+
+4:24
+
+
+
+
+
+Toggle more options
+
+
+Download
+
+
+Embed
+
+
+
+
+Embed
+
+
+
+<iframe src="https://www.npr.org/player/embed/134456594/134494078" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player">
+
+
+
+
+
+
+Transcript
+
+
+
+
+
+
+
+Study: Diet May Help ADHD Kids More Than Drugs
+4:24
+
+
+ 
+
+Research News
+
+
+
+Study: Diet May Help ADHD Kids More Than Drugs
+
+
+
+
+
+
+
+
+
+Study: Diet May Help ADHD Kids More Than Drugs
+
+
+
+
+
+
+Listen
+
+· 
+4:24
+
+
+
+
+4:24
+
+
+
+
+
+Toggle more options
+
+
+Download
+
+
+Embed
+
+
+
+
+Embed
+
+
+
+<iframe src="https://www.npr.org/player/embed/134456594/134494078" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player">
+
+
+
+
+
+
+Transcript
+
+
+
+
+
+
+
+
+
+Facebook
+Twitter
+Flipboard
+Email
+
+
+
+
+
+
+
+
+
+March 12, 201112:24 AM ET
+
+ 
+                  Heard on          All Things Considered
+
+
+
+
+
+
+
+
+
+
+    
+      NPR Staff
+    
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                According to Dr. Lidy Pelsser's study, 64 percent of children diagnosed with ADHD are actually experiencing a hypersensitivity to food.
+                
+                
+                    
+                    iStockphoto.com
+                    
+                
+hide caption
+
+
+toggle caption
+
+
+        
+        iStockphoto.com
+        
+    
+
+
+Hyperactivity. Fidgeting. Inattention. Impulsivity. If your child has one or more of these qualities on a regular basis, you may be told that he or she has attention deficit hyperactivity disorder. If so, they'd be among about 10 percent of children in the United States. Kids with ADHD can be restless and difficult to handle. Many of them are treated with drugs, but a new study says food may be the key. Published in The Lancet journal, the study suggests that with a very restrictive diet, kids with ADHD could experience a significant reduction in symptoms. The study's lead author, Dr. Lidy Pelsser of the ADHD Research Centre in the Netherlands, writes in The Lancet that the disorder is triggered in many cases by external factors — and those can be treated through changes to one's environment. "ADHD, it's just a couple of symptoms — it's not a disease," the Dutch researcher tells All Things Considered weekend host Guy Raz. The way we think about — and treat — these behaviors is wrong, Pelsser says. "There is a paradigm shift needed. If a child is diagnosed ADHD, we should say, 'OK, we have got those symptoms, now let's start looking for a cause.' " 
+
+ 
+
+ Pelsser compares ADHD to eczema. "The skin is affected, but a lot of people get eczema because of a latex allergy or because they are eating a pineapple or strawberries." According to Pelsser, 64 percent of children diagnosed with ADHD are actually experiencing a hypersensitivity to food. Researchers determined that by starting kids on a very elaborate diet, then restricting it over a few weeks' time. "It's only five weeks," Pelsser says. "If it is the diet, then we start to find out which foods are causing the problems." Teachers and doctors who worked with children in the study reported marked changes in behavior. "In fact, they were flabbergasted," Pelsser says. "After the diet, they were just normal children with normal behavior," she says. No longer were they easily distracted or forgetful, and the temper tantrums subsided. Some teachers said they never thought it would work, Pelsser says. "It was so strange," she says, "that a diet would change the behavior of a child as thoroughly as they saw it. It was a miracle, a teacher said." But diet is not the solution for all children with ADHD, Pelsser cautions. "In all children, we should start with diet research," she says. If a child's behavior doesn't change, then drugs may still be necessary. "But now we are giving them all drugs, and I think that's a huge mistake," she says. Also, Pelsser warns, altering your child's diet without a doctor's supervision is inadvisable. "We have got good news — that food is the main cause of ADHD," she says. "We've got bad news — that we have to train physicians to monitor this procedure because it cannot be done by a physician who is not trained."
+
+
+
+Facebook
+Twitter
+Flipboard
+Email
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+NPR thanks our sponsorsBecome an NPR sponsor
+
+
+
+
+
+
+
+
+
+
+
+Homepage
+
+
+News
+
+National
+World
+Politics
+Business
+Technology
+Science
+Health
+Race & Culture
+Education
+
+
+
+Arts & Life
+
+Books
+Movies
+Pop Culture
+Food
+Art & Design
+Performing Arts
+Photography
+
+
+
+Music
+
+First Listen
+Songs We Love
+Music Articles
+Tiny Desk
+Videos
+
+
+
+Programs
+
+
+About
+
+NPR Overview
+NPR Finances
+People at NPR
+Support NPR
+Visit NPR
+Press Room
+NPR Extra Blog
+Careers at NPR
+Corrections
+NPR Ombudsman
+Permissions
+
+
+
+
+
+
+
+Help
+Contact
+Terms of Use
+Privacy
+Sponsorship Choices
+Text Only
+
+
+
+
+   (function () {
+    var loadPageJs = function () { webpackJsonp([72,22],{0:function(n,t,c){n.exports=c(1271)},1271:function(n,t,c){"use strict";c.p=NPR.serverVars.webpackPublicPath,function(){var n=2,t=function(){--n<1&&function(n){c(21),c(1339),c(139),c(369),c(107),c(262),c(161),c(1344),c(160),c(1343),c(1342),c(583),c(165)}(c)}.bind(this);c.e(0,t),c.e(2,t)}.call(this)}}); };
+    if (document.readyState === 'complete') {
+        loadPageJs();
+    } else {
+        window.addEventListener('load', function load() {
+            window.removeEventListener('load', load, false);
+            loadPageJs();
+        });
+    }
+})();
+
+
+
+
+    (function(global) {
+        if (typeof TTDUniversalPixelApi === 'function') {
+            var universalPixelApi = new TTDUniversalPixelApi();
+            universalPixelApi.init("vflsioo", ["gkjeidp"], "https://insight.adsrvr.org/track/up", "ttdUniversalPixelTag53f1888d7923458abf666fadbafb67b0");
+        }
+    })(this);
+
+
+
+   /* <![CDATA[ */
+var google_conversion_id = 824814092;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+
+
+
+
+
+
+    var _sf_async_config = _sf_async_config || {};
+    /** CONFIGURATION START **/
+    _sf_async_config.uid = '18888';
+    _sf_async_config.domain = NPR.ServerConstants.cbHost;
+    _sf_async_config.useCanonical = true;
+
+    /** CONFIGURATION END **/
+    (function() {
+        function loadChartbeat() {
+            window._sf_endpt = (new Date()).getTime();
+            var e = document.createElement('script');
+            e.setAttribute('language', 'javascript');
+            e.setAttribute('type', 'text/javascript');
+            e.setAttribute('src', 'https://static.chartbeat.com/js/chartbeat.js');
+            document.body.appendChild(e);
+        }
+        var oldonload = window.onload;
+        window.onload = (typeof window.onload != 'function') ?
+                loadChartbeat : function() {
+            oldonload();
+            loadChartbeat();
+        };
+    })();

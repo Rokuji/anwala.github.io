@@ -1,0 +1,81 @@
+http://pr.aljazeera.com/post/156352595380/senior-hamas-leader-speaks-to-al-jazeera-on-moving
+var __pbpa = true;var translated_warning_string = 'Warning: Never enter your Tumblr password unless \u201chttps://www.tumblr.com/login\u201d\x0ais the address in your web browser.\x0a\x0aYou should also see a green \u201cTumblr, Inc.\u201d identification in the address bar.\x0a\x0aSpammers and other bad guys use fake forms to steal passwords.\x0a\x0aTumblr will never ask you to log in from a user\u2019s blog.\x0a\x0aAre you absolutely sure you want to continue?';Senior Hamas leader speaks to Al Jazeera on moving...figure{margin:0}.tmblr-iframe{position:absolute}.tmblr-iframe.hide{display:none}.tmblr-iframe--amp-cta-button{visibility:hidden;position:fixed;bottom:10px;left:50%;transform:translateX(-50%);z-index:100}.tmblr-iframe--amp-cta-button.tmblr-iframe--loaded{visibility:visible;animation:iframe-app-cta-transition .2s ease-out}
+      // test for svg as image @see http://css-tricks.com/test-support-svg-img/
+      if(document.implementation.hasFeature("http://www.w3.org/TR/SVG11/feature#Image", "1.1")) {
+        document.documentElement.className += " svgasimg";
+      }
+
+    
+	{"@type":"SocialMediaPosting","url":"http:\/\/pr.aljazeera.com\/post\/156352595380\/senior-hamas-leader-speaks-to-al-jazeera-on-moving","mainEntityOfPage":true,"datePublished":"2017-01-25T12:40:19-05:00","author":"aljazeerapr","image":"http:\/\/78.media.tumblr.com\/7c670c3dd9f0d7db2db03564472693ae\/tumblr_inline_okc5t1nfXv1rwl04r_540.jpg","articleBody":"Senior Hamas leader speaks to Al Jazeera on moving the US embassy to Jerusalem\n\u2022 Reveals Hamas will be releasing a new charter \u201cvery soon\u201d that addresses anti-Semitic statements in their 1988 original charter\n\u2022  Says it\u2019s \u201cinaccurate\u201d to suggest Hamas supports a two-state solution, but says they...","@context":"http:\/\/schema.org"}Al Jazeera PRHomeAboutAwardsContact UsArchiveAl Jazeera PRهنا الجزيرةSearch
+                                        January 25, 2017
+                                    Senior Hamas leader speaks to Al Jazeera on moving the US embassy to JerusalemReveals Hamas will be releasing a new
+charter “very soon” that addresses anti-Semitic statements in their 1988
+original charter Says it’s “inaccurate” to suggest Hamas
+supports a two-state solution, but says they support a “Palestinian state on the
+lines of 4th of June 67, including the right of return and Jerusalem
+as a capital”Supports the newly announced unity
+government with rival faction Fatah: “The international community will not
+support us unless we’re united”Warns U.S. President Donald Trump not to
+add “more oil to the fire” by moving the U.S. embassy from Tel Aviv
+to Jerusalem. (Washington,
+D.C. – 25th, January) -  In an
+interview with Al Jazeera English’s current affairs show UpFront, Osama Hamdan, a senior leader of Hamas, revealed that the group is
+working on a new charter which includes addressing
+widely criticised anti-Semitic statements in
+the [1988] original.  “We
+will have a clear political document, which is supposed to be in the near
+future, clarifying all those points,” Hamadan told UpFront
+host Mehdi Hasan, referring to anti-Semitic conspiratorial
+claims in the Hamas charter accusing Jews of
+running the world,
+creating communism and starting World War One and Two. “You will find in this document
+clear words that we against the Zionists, against the occupation of our lands
+and we will resist the occupiers, whoever they were. And we are not against
+anyone regarding to this religion or to his race,” Hamdan said. When asked about a
+timeframe for the new charter, Hamdan said it would be released “very soon”.Hamdan also commented
+on his organisation’s current stance on a two-state solution with
+Israel. “We want to build a Palestinian state on the lines of
+the 4th of June 67, including Jerusalem, with the right of return
+for Palestinians,” he said, referring to the West
+Bank and the Gaza Strip. However, when pressed
+to further clarify if that meant Hamas supports a
+two-state solution, Hamdan said that “would be
+inaccurate”. “You can call it
+whatever you want, but this is what we accept. Nothing more than this, nothing
+less than this,” he added.On the issue of the
+newly announced unity government with rival Palestinian group Fatah, Hamdan
+offered his full support. “We need… a national unity government,” he said. “Israelis now are taking over the land
+by the settlements. The region is unstable.” “The international
+community is not willing to help the Palestinians unless they are united,”
+he added.  During the interview,
+Hamdan was also asked how he believes new U.S. President Donald Trump’s support
+of Israel and plans to move the U.S. embassy from Tel Aviv to Jerusalem might
+impact the region.“[Trump] has
+to make a choice whether he wants to create peace in the region or he wants to
+add more oil on the
+fire,” he said. “Palestinians will
+not accept to abandon Jerusalem, they will not accept to abandon their rights,” he added.  Asked whether or not the embassy moving to Jerusalem would lead to renewed
+violence, Hamdan said: “I don’t accept the idea of having violence from the
+Palestinian side.”“Now if there was
+changes or the United States administration try to make a change in the status
+of Jerusalem, of course that will mean an action from the Palestinian side and
+no one can control that,” he added.  He also defended his
+organisation’s past use of suicide attacks across the Green Line, against
+Israeli targets, asking, “What’s the problem in that: the bombs or the suicide
+actions?” – He made a comparison with Israeli rockets against Palestinian homes
+and markets. “As Palestinians we
+don’t have…  tanks…so we use what we have,” he added.  ###Note
+to Editors·        
+This UpFront interview with Osama
+Hamdan is airing Friday January 27 at 19:30GMT.·        
+The full show will be available through
+this link: www.aljazeera.com/upfront from 19:30GMT onwards.·        
+If using quotes, please credit Al Jazeera
+English and UpFront and please add this link to online copy www.aljazeera.com/upfront·        
+UpFront
+broadcasts on Fridays at 19:30 GMT. Follow UpFront
+on Twitter@AJUpFront·        
+For more information, or media enquiries,
+please contact: pressoffice@aljazeera.netMehdi Hasanal jazeera englishupfrontOsama HamdanHamasRead moreFacebookTwitterAboutThe Public Relations team at Al Jazeera sharing what's new and exclusive.
+                    function recent_tweets(data) { window.tweets_data = data; }
+                People I followAl Jazeera PRHomeAboutAwardsContact UsArchive© Copyright Al Jazeera 2012–2018

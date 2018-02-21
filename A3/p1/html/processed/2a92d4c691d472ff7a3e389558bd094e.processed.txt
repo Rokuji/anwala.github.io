@@ -1,0 +1,1129 @@
+https://www.npr.org/sections/goatsandsoda/2015/06/08/412314701/lost-posture-why-indigenous-cultures-dont-have-back-pain?utm_source=facebook.com&utm_medium=social&utm_campaign=npr&utm_term=nprnews&utm_content=20150608
+
+   try {var _sf_startpt=(new Date()).getTime();} catch(e){}
+
+Lost Posture: Why Some Indigenous Cultures May Not Have Back Pain : Goats and Soda : NPR
+   window.NPR = window.NPR || {};
+NPR.ServerConstants = {"cbHost":"npr.org","webHost":"https:\/\/www.npr.org","embedHost":"https:\/\/www.npr.org","webHostSecure":"https:\/\/secure.npr.org","apiHost":"https:\/\/api.npr.org","staticAssetHost":"https:\/\/s.npr.org","serverMediaCache":"https:\/\/media.npr.org","googleAnalyticsAccount":"UA-5828686-4","gtmKey":"GTM-K9RKM5","nielsenSFCode":"dcr","nielsenAPN":"NPR-dcr"};
+NPR.serverVars = {"storyId":"412314701","facebookAppId":"138837436154588","webpackPublicPath":"https:\/\/s.npr.org\/templates\/javascript\/dist\/bundles\/","persistenceVersion":"922f126a5fe5fbd55eece3d4cf7ae74b","isBuildOut":true,"topicIds":["P1031","1001","1002","1007","1066","1128","1129"],"primaryTopic":"Global Health","topics":["Global Health","News","Home Page Top Stories","Science","Your Health","Health","Humans"],"blog":"Goats and Soda","theme":"327351768","programId":"Morning Edition","program":"3","aggIds":["3","1001","1002","1007","1031","1066","1128","1129","126567816","150987467","152920114","191676894","312150170","327351768","329599196","412803104"],"tagIds":["Global Health","back pain","chronic pain"],"byline":["Michaeleen Doucleff"],"pubDate":"2015060803","pageTypeId":"1","title":"Lost Posture: Why Some Indigenous Cultures May Not Have Back Pain","publisherOrgId":"1","rocketfuelCode":20501671};
+
+
+
+
+   !function(e){function c(a){if(d[a])return d[a].exports;var f=d[a]={exports:{},id:a,loaded:!1};return e[a].call(f.exports,f,f.exports,c),f.loaded=!0,f.exports}var a=window.webpackJsonp;window.webpackJsonp=function(b,t){for(var n,r,o=0,i=[];o<b.length;o++)r=b[o],f[r]&&i.push.apply(i,f[r]),f[r]=0;for(n in t){var s=t[n];switch(typeof s){case"object":e[n]=function(c){var a=c.slice(1),d=c[0];return function(c,f,b){e[d].apply(this,[c,f,b].concat(a))}}(s);break;case"function":e[n]=s;break;default:e[n]=e[s]}}for(a&&a(b,t);i.length;)i.shift().call(null,c);if(t[0])return d[0]=0,c(0)};var d={},f={22:0};c.e=function(e,a){if(0===f[e])return a.call(null,c);if(void 0!==f[e])f[e].push(a);else{f[e]=[a];var d=document.getElementsByTagName("head")[0],b=document.createElement("script");b.type="text/javascript",b.charset="utf-8",b.async=!0,b.src=c.p+""+e+"."+{0:"0a717c45cbda754dee03",1:"64c309b2e27a15d90040",2:"bd40ed403cefebc443a7",3:"fc03ddc26d3e6120522e",4:"12e8f597f716c404ca21",5:"74159041d155cb89fea8",6:"a32d7212b1a161a04f81",7:"1e2ed060720442d3ccc7",8:"1f3592ddeae232f9e01f",9:"c6ed6c1a54a93bc8847e",10:"e7ecea70fd87c07fcf01",11:"544a47b5572c187587e0",12:"51f75b91dcb5b85eb800",13:"d5d3eaee41289bd0e5a6",14:"55ed1ff3d9588722ab75",15:"58b7041890c6c65f6c82",16:"a3eab3c832128d6a5a09",17:"0ccf649f80f190d25a34",18:"cd7c16540b46f83432a9",19:"50e5d932d2b06d1ee9c8",20:"c329ec8733f94c6e3326",21:"3d3e0b6e7e534c0e5a65",23:"50aae6a27ab3ec1612f8",24:"63ab92b3363eab4cc5e8",25:"d09f59e5f25e5a7f1630",26:"2f3e77b8665e0f7ad2db",27:"cee7451589dde66a95f1",28:"0f6093c98245978c42b1",29:"81a8a8607466b00bce69",30:"3d9bc2ec0485138c2c19",31:"8d52f2726f6f3c2d309e",32:"d4ecb2be23e8c5cea318",33:"7362d35511039496bff4",34:"ffd16fb3bed1a9dd1763",35:"dbb0156f462f698783d5",36:"cf32f6e6f210a07638f8",37:"8498a043e0353efb1635",38:"4dc88e20e921dcea2c6f",39:"397ba15a24b02d497a1c",40:"7acdd26901b6f61704bd",41:"72586922ae5838fe3686",42:"2cf83a63179d5f678033",43:"b83cbedc4b62aaf9f551",44:"81ed09c988441c5a320d",45:"7acff8bfadf058f63bc1",46:"3628f2ec68d40c297422",47:"095976b8d527b6dd25c7",48:"7aa7b764ef53c6ba4dc8",49:"4d53e3abd175a6d2c751",50:"aab262b0d543a8350d22",51:"8c26e480ae9ebe074bd5",52:"0a6fe6344f11df2e5efb",53:"32208f94fd75fdf523ed",54:"7ec924790c36ba62fd99",55:"de53e98293944c3a0dae",56:"3129dd607df9ceaed018",57:"c104a39866d4e4d480dd",58:"2356656be29ad138c7c4",59:"27e8c24a212df4b11fe1",60:"563b6c999ff16ddea2ff",61:"52f1cd4e2b6bdfb2799e",62:"f9100259e8dc4610eb81",63:"26027c15267cace3910f",64:"8ed9707572ab098f8a5e",65:"047d9a59a90683165308",66:"d72eec1a4f2d7be27dc6",67:"f24cbde74958e8491c12",68:"d133ed7f0fceb5b72d2d",69:"169ae388d175c1eb4096",70:"f951cbcd5c4ddea0b9fa",71:"3de197813163998c2684",72:"31a1bfe54b1785f046f8",73:"95641818bf88f1833e44",74:"7b7838b2aee646ae2a99",75:"e28c65c8607b9bd3da02"}[e]+".chunk.js",d.appendChild(b)}},c.m=e,c.c=d,c.p="/templates/javascript/dist/bundles/"}(function(e){for(var c in e)if(Object.prototype.hasOwnProperty.call(e,c))switch(typeof e[c]){case"function":break;case"object":e[c]=function(c){var a=c.slice(1),d=e[c[0]];return function(e,c,f){d.apply(this,[e,c,f].concat(a))}}(e[c]);break;default:e[c]=e[e[c]]}return e}([]));
+
+
+   document.domain="npr.org";
+
+
+Accessibility links
+
+Skip to main content
+Keyboard shortcuts for audio player
+
+
+
+
+View Navigation
+
+
+
+NPR
+
+
+
+
+NPR
+
+
+
+
+NPR Music
+
+
+
+
+NPR Books
+
+
+
+
+NPR About
+
+
+
+
+
+NPRPodcast Directory
+
+
+
+Search
+
+Toggle search
+
+
+
+
+
+
+
+
+
+NPR Home
+
+
+
+
+News
+Arts & Life
+Music
+Topics
+
+
+                            Programs & Podcasts
+
+
+
+
+
+
+NPR Music
+
+Genres
+
+New Music
+
+
+Concerts & Videos
+
+
+Articles & Lists
+
+
+Tiny Desk
+
+
+
+
+
+NPR Books
+
+
+Author Interviews
+
+
+Find Books
+
+
+Reviews
+
+
+
+
+
+About NPR
+
+
+Overview
+
+
+Connect
+
+
+Support
+
+
+Press
+
+
+Careers
+
+
+
+
+
+Podcast Directory
+
+
+Categories
+
+
+
+
+
+
+
+
+
+
+NPR Shop
+
+
+
+
+
+
+
+
+Back
+
+News
+
+National
+World
+Politics
+Business
+Technology
+Science
+Health
+Race & Culture
+Education
+
+
+
+Arts & Life
+
+Books
+Movies
+Pop Culture
+Food
+Art & Design
+Performing Arts
+Photography
+
+
+
+Music
+
+First Listen
+Songs We Love
+Music Articles
+Tiny Desk
+Videos
+
+
+
+More
+
+Our Blogs
+Corrections
+All About NPR
+
+
+
+
+Back
+
+News & Conversations
+
+Morning Edition
+All Things Considered
+Fresh Air
+Here & Now
+1A
+Code Switch
+Embedded
+The Indicator from Planet Money
+It's Been a Minute with Sam Sanders
+Latino USA
+NPR Politics Podcast
+On Point
+Rough Translation
+Up First
+Weekend Edition Saturday
+Weekend Edition Sunday
+What's Good with Stretch & Bobbito
+Youth Radio
+
+
+
+Storytelling & Humor
+
+Ask Me Another
+The Best Of Car Talk
+The Big Listen
+Bullseye
+Hidden Brain
+How I Built This
+Invisibilia
+Only A Game
+Planet Money
+Pop Culture Happy Hour
+Radio Ambulante
+StoryCorps
+TED Radio Hour
+Wait Wait...Don't Tell Me!
+Wow in the World
+
+
+
+Music
+
+First Listen
+All Songs Considered
+Songs We Love
+Tiny Desk
+Alt.Latino
+From The Top
+Jazz Night In America
+Mountain Stage
+Piano Jazz
+The Thistle & Shamrock
+World Cafe
+
+
+
+More
+
+All Programs
+Podcast Directory
+
+NPR Podcasts
+
+
+
+
+
+
+
+Back
+
+Rock
+Pop
+Jazz
+Classical
+Hip-Hop
+R&B/Soul
+Folk
+Latin
+World
+Electronic/Dance
+
+
+
+Back
+
+First Listen
+Songs We Love
+All Songs Considered
+Reviews
+Music Videos
+
+
+
+Back
+
+Tiny Desk
+Live Concerts
+Field Recordings
+Studio Sessions
+Music Documentaries
+Music Videos
+Festival Recordings
+
+
+
+Back
+
+Articles
+Interviews
+Quizzes
+Music Lists
+Best Music of the Year
+
+
+
+
+
+Back
+
+
+Art & Design
+Arts & Entertainment
+Biography & Memoir
+Business & Economy
+Children's Books
+Comedy
+Comics & Graphic Novels
+Digital Culture
+
+
+
+
+Faith & Spirituality
+Food & Wine
+History & Society
+Historical Fiction
+Horror & Supernatural
+Literary Fiction
+Mystery & Thrillers
+Parenting & Families
+
+
+
+
+Poetry
+Politics & Public Affairs
+Romance
+Science Fiction & Fantasy
+Science & Health
+Sports
+Travel
+Young Adult
+
+
+
+
+Nonfiction
+Fiction
+
+
+
+
+Back
+
+Book Reviews
+This Week's Must Read
+My Guilty Pleasure
+Three Books...
+PG-13: Risky Reads
+You Must Read This
+Summer Books
+Best Books of the Year
+
+
+
+
+
+Back
+
+Overview
+Overview and History
+Mission and Vision
+Stations and Public Media
+NPR Finances
+People
+Ethics
+Awards
+
+
+
+Back
+
+Visit NPR
+NPR Presents
+Studio 1 Events
+Generation Listen
+Book a Speaker
+Request Permissions
+Ways to Listen
+NPR Extra Blog
+Email Newsletters
+Shop NPR
+Get Help
+Contact Us
+
+
+
+Back
+
+Support Public Radio
+Corporate Sponsorship
+Volunteer
+
+
+
+Back
+
+Releases and Statements
+Photos and Logos
+Fact Sheet (PDF)
+Media Relations Contacts
+
+
+
+Back
+
+Careers at NPR
+Search Jobs
+Culture
+Applying
+Interns
+Fellows
+Digital
+
+
+
+
+
+Back
+
+
+Arts
+Business
+Comedy
+Education
+Games & Hobbies
+Government & Organizations
+Health
+Kids & Family
+
+
+
+
+Music
+
+News & Politics
+Religion & Spirituality
+Science & Medicine
+Society & Culture
+Sports & Recreation
+Technology
+TV & Film
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NPR Shop
+
+
+
+
+
+
+
+Lost Posture: Why Some Indigenous Cultures May Not Have Back Pain : Goats and Soda There are a few populations in the world where back pain hardly exists. One woman thinks she has figured out why, and she's sharing their secrets. Have Americans forgotten how to stand properly?
+
+
+
+
+
+
+
+
+Lost Posture: Why Some Indigenous Cultures May Not Have Back Pain
+
+
+
+
+
+
+Listen
+
+· 
+7:02
+
+
+
+
+7:02
+
+
+
+
+
+Toggle more options
+
+
+Download
+
+
+Embed
+
+
+
+
+Embed
+
+
+
+<iframe src="https://www.npr.org/player/embed/412314701/412805189" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player">
+
+
+
+
+
+
+Transcript
+
+
+
+
+
+
+
+Lost Posture: Why Some Indigenous Cultures May Not Have Back Pain
+7:02
+
+
+ 
+
+Goats and Soda
+STORIES OF LIFE IN A CHANGING WORLD
+
+
+
+
+
+
+
+
+
+
+About Us
+Contact Us
+Health
+Development
+Women & Girls
+Culture
+
+
+
+
+Twitter
+
+
+
+
+
+
+
+Health
+
+
+
+Lost Posture: Why Some Indigenous Cultures May Not Have Back Pain
+
+
+
+
+
+
+
+
+
+Lost Posture: Why Some Indigenous Cultures May Not Have Back Pain
+
+
+
+
+
+
+Listen
+
+· 
+7:02
+
+
+
+
+7:02
+
+
+
+
+
+Toggle more options
+
+
+Download
+
+
+Embed
+
+
+
+
+Embed
+
+
+
+<iframe src="https://www.npr.org/player/embed/412314701/412805189" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player">
+
+
+
+
+
+
+Transcript
+
+
+
+
+
+
+
+
+
+Facebook
+Twitter
+Flipboard
+Email
+
+
+
+
+
+
+
+
+
+June 8, 20153:25 AM ET
+
+ 
+                  Heard on          Morning Edition
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      Michaeleen Doucleff
+    
+
+
+      Twitter
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Enlarge this image
+
+
+
+
+
+
+                Primal posture: Ubong tribesmen in Borneo (right) display the perfect J-shaped spines. A woman in Burkina Faso (left) holds her baby so that his spine stays straight. The center image shows the S-shaped spine drawn in a modern anatomy book (Fig. I) and the J-shaped spine (Fig. II) drawn in the 1897 anatomy book Traite d'Anatomie Humaine.
+                
+                
+                    
+                    Courtesy of Esther Gokhale and Ian Mackenzie/Nomads of the Dawn
+                    
+                
+hide caption
+
+
+toggle caption
+
+
+        
+        Courtesy of Esther Gokhale and Ian Mackenzie/Nomads of the Dawn
+        
+    
+
+
+
+
+
+
+
+
+Primal posture: Ubong tribesmen in Borneo (right) display the perfect J-shaped spines. A woman in Burkina Faso (left) holds her baby so that his spine stays straight. The center image shows the S-shaped spine drawn in a modern anatomy book (Fig. I) and the J-shaped spine (Fig. II) drawn in the 1897 anatomy book Traite d'Anatomie Humaine.
+
+            
+            Courtesy of Esther Gokhale and Ian Mackenzie/Nomads of the Dawn
+            
+        
+
+
+
+Editor's note, June 10: We have added an acknowledgement of several sources that Esther Gokhale used while developing her theories on back pain. These include physiotherapy methods, such as the Alexander Technique and the Feldenkrais Method, and the work of anthropologist Noelle Perez-Christiaens. Back pain is a tricky beast. Most Americans will at some point have a problem with their backs. And for an unlucky third, treatments won't work, and the problem will become chronic. 
+
+
+
+Enlarge this image
+
+
+
+
+
+
+                Many ancient statues, such as this one from Greece, display a J-shaped spine. The statue's back is nearly flat until the bottom, where it curves so the buttocks are behind the spine.
+                
+                
+                    
+                    Courtesy of Esther Gokhale/Gerard Mackworth-Young
+                    
+                
+hide caption
+
+
+toggle caption
+
+
+        
+        Courtesy of Esther Gokhale/Gerard Mackworth-Young
+        
+    
+
+
+
+
+
+
+
+
+Many ancient statues, such as this one from Greece, display a J-shaped spine. The statue's back is nearly flat until the bottom, where it curves so the buttocks are behind the spine.
+
+            
+            Courtesy of Esther Gokhale/Gerard Mackworth-Young
+            
+        
+
+
+
+Believe it or not, there are a few cultures in the world where back pain hardly exists. One indigenous tribe in central India reported essentially none. And the discs in their backs showed little signs of degeneration as people aged. An acupuncturist in Palo Alto, Calif., thinks she has figured out why. She has traveled around the world studying cultures with low rates of back pain — how they stand, sit and walk. Now she's sharing their secrets with back pain sufferers across the U.S. About two decades ago, Esther Gokhale started to struggle with her own back after she had her first child. "I had excruciating pain. I couldn't sleep at night," she says. "I was walking around the block every two hours. I was just crippled." Gokhale had a herniated disc. Eventually she had surgery to fix it. But a year later, it happened again. "They wanted to do another back surgery. You don't want to make a habit out of back surgery," she says. This time around, Gokhale wanted to find a permanent fix for her back. And she wasn't convinced Western medicine could do that. So Gokhale started to think outside the box. She had an idea: "Go to populations where they don't have these huge problems and see what they're doing." 
+
+ 
+
+ 
+Esther Gokhale's Five Tips For Better Posture And Less Back Pain
+
+
+Try these exercises while you're working at your desk, sitting at the dinner table or walking around, Esther Gokhale recommends. 1. Do a shoulder roll: Americans tend to scrunch their shoulders forward, so our arms are in front of our bodies. That's not how people in indigenous cultures carry their arms, Gokhale says. To fix that, gently pull your shoulders up, push them back and then let them drop — like a shoulder roll. Now your arms should dangle by your side, with your thumbs pointing out. "This is the way all your ancestors parked their shoulders," she says. "This is the natural architecture for our species." 2. Lengthen your spine: Adding extra length to your spine is easy, Gokhale says. Being careful not to arch your back, take a deep breath in and grow tall. Then maintain that height as you exhale. Repeat: Breathe in, grow even taller and maintain that new height as you exhale. "It takes some effort, but it really strengthens your abdominal muscles," Gokhale says. 3. Squeeze, squeeze your glute muscles when you walk: In many indigenous cultures, people squeeze their gluteus medius muscles every time they take a step. That's one reason they have such shapely buttocks muscles that support their lower backs. Gokhale says you can start developing the same type of derrière by tightening the buttocks muscles when you take each step. "The gluteus medius is the one you're after here. It's the one high up on your bum," Gokhale says. "It's the muscle that keeps you perky, at any age." 4. Don't put your chin up: Instead, add length to your neck by taking a lightweight object, like a bean bag or folded washcloth, and balance it on the top of your crown. Try to push your head against the object. "This will lengthen the back of your neck and allow your chin to angle down — not in an exaggerated way, but in a relaxed manner," Gokhale says. 5. Don't sit up straight! "That's just arching your back and getting you into all sorts of trouble," Gokhale says. Instead do a shoulder roll to open up the chest and take a deep breath to stretch and lengthen the spine.
+
+
+
+
+
+
+[Added June 10] So Gokhale studied findings from anthropologists, such as Noelle Perez-Christiaens, who analyzed postures of indigenous populations. And she studied physiotherapy methods, such as the Alexander Technique and the Feldenkrais Method. And the original post continues ... Then over the next decade, Gokhale went to cultures around the world that live far away from modern life. She went to the mountains in Ecuador, tiny fishing towns in Portugal and remote villages of West Africa. "I went to villages where every kid under age 4 was crying because they were frightened to see somebody with white skin — they'd never seen a white person before," she says. Gokhale took photos and videos of people who walked with water buckets on their heads, collected firewood or sat on the ground weaving, for hours. "I have a picture in my book of these two women who spend seven to nine hours everyday, bent over, gathering water chestnuts," Gokhale says. "They're quite old. But the truth is they don't have a back pain." She tried to figure out what all these different people had in common. The first thing that popped out was the shape of their spines. "They have this regal posture, and it's very compelling." And it's quite different than American spines. If you look at an American's spine from the side, or profile, it's shaped like the letter S. It curves at the top and then back again at the bottom. But Gokhale didn't see those two big curves in people who don't have back pain. "That S shape is actually not natural," she says. "It's a J-shaped spine that you want." In fact, if you look at drawings from Leonardo da Vinci — or a Gray's Anatomy book from 1901 — the spine isn't shaped like a sharp, curvy S. It's much flatter, all the way down the back. Then at the bottom, it curves to stick the buttocks out. So the spine looks more like the letter J. "The J-shaped spine is what you see in Greek statues. It's what you see in young children. It's good design," Gokhale says. So Gokhale worked to get her spine into the J shape. And gradually her back pain went away. 
+
+
+
+Enlarge this image
+
+
+
+
+
+
+                Healthy spines in the Western world: The J-shaped spine is often seen in photographs from the late 19th and early 20th centuries.
+                
+                
+                    
+                    Library of Congress
+                    
+                
+hide caption
+
+
+toggle caption
+
+
+        
+        Library of Congress
+        
+    
+
+
+
+
+
+
+
+
+Healthy spines in the Western world: The J-shaped spine is often seen in photographs from the late 19th and early 20th centuries.
+
+            
+            Library of Congress
+            
+        
+
+
+
+Then Gokhale realized she could help others. She developed a set of exercises, wrote a book and set up a studio in downtown Palo Alto. Now her list of clients is impressive. She's helped YouTube CEO Susan Wojcicki and Matt Drudge of the Drudge Report. She has given classes at Google, Facebook and companies across the country. In Silicon Valley, she's known as the "posture guru." Each year, doctors in the Bay Area refer hundreds of patients to Gokhale. One of them is Dr. Neeta Jain, an internist at the Palo Alto Medical Foundation. She puts Gokhale's method in the same category as Pilates and yoga for back pain. And it doesn't bother her that the method hasn't been tested in a clinical trial. "If people are finding things that are helpful, and it's not causing any harm, then why do we have to wait for a trial?" Jain asked. But there's still a big question looming here: Is Gokhale right? Have people in Western cultures somehow forgotten the right way to stand? Scientists don't know yet, says Dr. Praveen Mummaneni, a neurosurgeon at the University of California, San Francisco's Spine Center. Nobody has done a study on traditional cultures to see why some have lower rates of back pain, he says. Nobody has even documented the shape of their spines. "I'd like to go and take X-rays of indigenous populations and compare it to people in the Western world," Mummaneni says. "I think that would be helpful." But there's a whole bunch of reasons why Americans' postures — and the shape of their spines — may be different than those of indigenous populations, he says. For starters, Americans tend to be much heavier. "If you have a lot of fat built up in the belly, that could pull your weight forward," Mummaneni says. "That could curve the spine. And people who are thinner probably have less curvature" — and thus a spine shaped more like J than than an S. Americans are also much less active than people in traditional cultures, Mummaneni says. "I think the sedentary lifestyle promotes a lack of muscle tone and a lack of postural stability because the muscles get weak." 
+
+
+
+
+
+
+
+
+
+Click here to subscribe to our weekly global health and development email.
+
+                    
+                    NPR
+                    
+                
+hide caption
+
+
+toggle caption
+
+
+        
+        NPR
+        
+    
+
+
+Everyone knows that weak abdominal muscles can cause back pain. In fact, Mummaneni says, stronger muscles might be the secret to Gokhale's success. In other words, it's not that the J-shaped spine is the ideal one — or the healthiest. It's what goes into making the J-shaped spine that matters: "You have to use muscle strength to get your spine to look like a J shape," he says. So Gokhale has somehow figured out a way to teach people to build up their core muscles without them even knowing it. "Yes, I think that's correct," Mummaneni says. "You're not going to be able to go from the S- to the J-shaped spine without having good core muscle strength. And I think that's key here." So indigenous people around the world don't have a magic bullet for stopping back pain. They've just got beefy abdominal muscles, and their lifestyle helps to keep them that way, even as they age.
+
+
+
+chronic pain
+back pain
+Global Health
+
+
+
+
+
+Facebook
+Twitter
+Flipboard
+Email
+
+
+
+
+
+
+
+
+
+
+
+
+
+Goats and Soda
+STORIES OF LIFE IN A CHANGING WORLD
+
+
+
+
+
+
+
+Goats and Soda
+STORIES OF LIFE IN A CHANGING WORLD
+
+
+
+
+
+
+
+About
+
+
+
+We're all neighbors on our tiny globe. The poor and the rich and everyone in between. We'll explore the downs and ups of life in this global village. And if you're curious about our name, Goats and Soda, here's the story.
+
+
+
+
+
+
+
+
+Subscribe
+
+
+@NPRGoatsandSoda
+Tumblr
+
+
+
+
+
+
+Connect With Us
+
+Follow the team @NPRGoatsandSoda
+Nurith Aizenman @aizenglobe
+Jason Beaubien @jasonbnpr
+Ben de la Cruz @bendelacruz
+Michaeleen Doucleff @FoodieScience
+Malaka Gharib @malakagharib
+John Poole @thejohnpoole
+Marc Silver  @MarcSilver1
+Vikki Valentine  @valentinevikki
+
+
+
+
+
+ 
+
+
+NPR thanks our sponsorsBecome an NPR sponsor
+
+
+
+
+
+
+
+
+
+
+
+Homepage
+
+
+News
+
+National
+World
+Politics
+Business
+Technology
+Science
+Health
+Race & Culture
+Education
+
+
+
+Arts & Life
+
+Books
+Movies
+Pop Culture
+Food
+Art & Design
+Performing Arts
+Photography
+
+
+
+Music
+
+First Listen
+Songs We Love
+Music Articles
+Tiny Desk
+Videos
+
+
+
+Programs
+
+
+About
+
+NPR Overview
+NPR Finances
+People at NPR
+Support NPR
+Visit NPR
+Press Room
+NPR Extra Blog
+Careers at NPR
+Corrections
+NPR Ombudsman
+Permissions
+
+
+
+
+
+
+
+Help
+Contact
+Terms of Use
+Privacy
+Sponsorship Choices
+Text Only
+
+
+
+
+   (function () {
+    var loadPageJs = function () { webpackJsonp([72,22],{0:function(n,t,c){n.exports=c(1271)},1271:function(n,t,c){"use strict";c.p=NPR.serverVars.webpackPublicPath,function(){var n=2,t=function(){--n<1&&function(n){c(21),c(1339),c(139),c(369),c(107),c(262),c(161),c(1344),c(160),c(1343),c(1342),c(583),c(165)}(c)}.bind(this);c.e(0,t),c.e(2,t)}.call(this)}}); };
+    if (document.readyState === 'complete') {
+        loadPageJs();
+    } else {
+        window.addEventListener('load', function load() {
+            window.removeEventListener('load', load, false);
+            loadPageJs();
+        });
+    }
+})();
+
+
+
+
+    (function(global) {
+        if (typeof TTDUniversalPixelApi === 'function') {
+            var universalPixelApi = new TTDUniversalPixelApi();
+            universalPixelApi.init("vflsioo", ["gkjeidp"], "https://insight.adsrvr.org/track/up", "ttdUniversalPixelTag53f1888d7923458abf666fadbafb67b0");
+        }
+    })(this);
+
+
+
+   /* <![CDATA[ */
+var google_conversion_id = 824814092;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+
+
+
+
+
+
+    var _sf_async_config = _sf_async_config || {};
+    /** CONFIGURATION START **/
+    _sf_async_config.uid = '18888';
+    _sf_async_config.domain = NPR.ServerConstants.cbHost;
+    _sf_async_config.useCanonical = true;
+
+    /** CONFIGURATION END **/
+    (function() {
+        function loadChartbeat() {
+            window._sf_endpt = (new Date()).getTime();
+            var e = document.createElement('script');
+            e.setAttribute('language', 'javascript');
+            e.setAttribute('type', 'text/javascript');
+            e.setAttribute('src', 'https://static.chartbeat.com/js/chartbeat.js');
+            document.body.appendChild(e);
+        }
+        var oldonload = window.onload;
+        window.onload = (typeof window.onload != 'function') ?
+                loadChartbeat : function() {
+            oldonload();
+            loadChartbeat();
+        };
+    })();

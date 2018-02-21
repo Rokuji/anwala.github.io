@@ -1,0 +1,713 @@
+http://www.aljazeera.com/programmes/faultlines/2016/11/afghan-translators-hiding-161114104958282.html
+
+
+
+
+
+Afghan Translators: Out of Hiding | USA | Al Jazeera
+
+
+var _sf_startpt=(new Date()).getTime()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+window.rsConf = {settings: {hlicon: 'iconoff'}};
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Created with Sketch.             Watch Live 
+
+
+
+
+
+
+
+
+
+
+
+
+				 
+
+
+
+
+
+
+					 
+
+
+Now Playing
+
+ Watch
+
+
+
+ 
+
+ Listen
+
+
+
+TV Schedule
+
+
+
+
+
+
+ Live 
+
+submit
+
+
+
+
+
+
+
+
+
+al jazeera
+menu
+ 
+
+
+
+submit
+
+
+Home
+NewsMore
+
+
+Middle East
+Africa
+Asia
+US & Canada
+
+
+
+
+Latin America
+Europe
+Asia Pacific
+All
+
+
+
+
+Middle East
+DocumentariesMore
+
+
+Featured Documentaries
+Witness
+Al Jazeera World
+101 East
+
+
+
+
+People & Power
+Fault Lines
+My Tunisia
+Al Jazeera Selects 
+Al Jazeera Correspondent
+REWIND
+All
+
+
+
+
+ShowsMore
+
+
+Inside Story
+The Stream
+The Listening Post
+Talk to Al Jazeera
+
+
+
+
+The Big Picture
+Counting the Cost
+UpFront
+earthrise
+Empire
+All
+
+
+
+
+Investigations
+Opinion
+In Pictures
+MoreMore
+
+
+Features
+Investigations
+In Pictures
+Interactive
+
+
+
+
+Interactive Documentaries
+AJ Shorts
+Podcasts
+Reporter's Notebook
+Human Rights
+Sport
+Science & Technology
+Weather
+
+
+
+
+
+
+
+Trending:
+Ethiopia
+Donald Trump
+Gun control
+Zimbabwe
+Syria's Civil War
+
+
+
+
+
+
+
+
+Most Searched
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+googletag.cmd.push(function() { 
+googletag.display('div-gpt-ad-1430377943388-2'); 
+});
+
+
+
+
+
+
+        .oryx-bg {
+        background-image: url(/mritems/Images/programmes/FAULTLINES%20BG01.jpg);
+        }
+      
+
+Home
+Episodes
+Afghan Translators: Out of Hiding
+
+An insight into the lives of Afghan translators who risked everything to work with the US military and were left behind.
+15 Nov 2016 15:08 GMT Afghanistan, United States, Taliban
+
+RenderPagesVideo('5209028198001', 0, '100%', 473, 'vdoContainer');Wahdat worked as an interpreter for the US military in Afghanistan for three years. Now unemployed, he lives in hiding in Kabul, fearful of the Taliban, who have threatened his life numerous times because he worked with the American forces.
+"Taliban thought that the interpreters are ears and eyes for the military ... you'll have to be killed. They don't kill you the easy way if you worked as an interpreter. They will try every maniac punishment first to hurt you," he said.
+
+
+
+
+
+Interpreters coming new to the US have all big dreams, and think that this is the end of my trouble, I'll have a better life, but I think it's the start of another big trouble. There will be challenges.
+Wahdat, former translator for the US military in Afghanistan,
+
+
+
+
+
+During more than a decade of US operations in Afghanistan, thousands of Afghan civilians like Wahdat signed up to work for the American military as translators.
+In exchange for taking these jobs, the US government promised them a degree of protection through a special visa programme giving them safe passage to the United States. But applying for a visa is a lengthy process. Many interpreters have waited years for approval, in the meantime facing death threats at home.
+In early 2016, Fault Lines went to Afghanistan to investigate the lives of Afghan translators who qualify for these so-called "special immigrant visas" and to find out why so many of them have been left behind. Later this year, we followed up on their stories.
+Sakhidad Afghan was one of the many interpreters who tried to escape death threats by applying for a special visa to live in the US. He met all the requirements for a visa, but the process took far longer than the promised nine months. When the Americans pulled out of the base where he worked, Sakhidad had to find a new job, and living off-base put him at a greater risk.
+In March 2015, Sakhidad Afghan was kidnapped, tortured and killed by the Taliban - while still waiting for his visa. 
+US State Department officials declined to comment on Sakhidad's case and said they don't keep track of how many interpreters have been killed while waiting for their visa approval.
+"The only difference between me and Sakhidad, or people like me and Sakhidad is our chances. That we still survived ... by chance. I mean we can take precautions, we can take security measures, but for how long?" says Wahdat.
+Weeks after we met Wahdat in Afghanistan in the spring of 2016, officials from the US government contacted us to ask for more information about his case. A month later, his visa was approved.
+"I still remember, it was May 12, 2016, at 02:32 o'clock. I was at the top of the roof and I checked it, I just yelled and I started running to my mom, jumping up and down and said, here is my visa it's approved and it’s issued. Everyone was so happy and cheering, and my mom was almost crying ... it was the happiest day of my life," Wahdat recalls.
+But once they've managed to escape their life in fear and hiding, what next? What is life in the US like for the former translators? And what are the new challenges facing them?
+Fault Lines follows Wahdat during his first few days in the US, documenting his journey from Kabul to Texas, as he adjusts to a new life in a new home.Source: Al Jazeera News
+
+
+Tell us what you think
+
+
+
+{
+    "@context": "http://schema.org",
+        "@type": "Article",
+    
+        "mainEntityOfPage": "http://www.aljazeera.com/programmes/faultlines/2016/11/afghan-translators-hiding-161114104958282.html",
+        "headline": "Afghan Translators: Out of Hiding",
+    "datePublished": "14 Nov 2016 11:15 GMT",
+    "dateModified": "15 Nov 2016 15:08 GMT",
+    "description": "An insight into the lives of Afghan translators who risked everything to work with the US military and were left behind.",
+    "author": {
+    "@type": "Organization",
+    "name": "Al Jazeera"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Al Jazeera",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "http://www.aljazeera.com/mritems/assets/images/AJLOGOGOOGLE.png",
+        "width": 250,
+        "height": 40
+      }
+    }, 
+    "image": {
+        "@type": "ImageObject",
+        "url": "http://www.aljazeera.com/mritems/imagecache/mbdxxlarge/mritems/Images/2016/11/14/5eaae73511c74b60ab3e38c6ab617bfe_18.jpg",
+            "height": 450,
+            "width": 800
+    }
+}
+
+
+{
+  "@context": "http://schema.org",
+  "@type": "VideoObject",
+          "name": "Afghan Translators: Out of Hiding",
+  "description": "An insight into the lives of Afghan translators who risked everything to work with the US military and were left behind.",
+  "thumbnailUrl": "http://www.aljazeera.com/mritems/imagecache/mbdxxlarge/mritems/Images/2016/11/14/5eaae73511c74b60ab3e38c6ab617bfe_18.jpg",
+  "uploadDate": "15 Nov 2016 15:08 GMT",
+      "publisher": {
+      "@type": "Organization",
+      "name": "Al Jazeera",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "http://www.aljazeera.com/mritems/assets/images/AJLOGOGOOGLE.png",
+        "width": 250,
+        "height": 40
+      }
+    }
+}
+
+RelatedLeft Behind: America's Afghan Translators
+We ask why many former Afghan translators for the US military risk their lives to return to Afghanistan from the US.
+Taliban, Afghanistan, War & Conflict, MilitaryAfghan interpreter: 'Taliban don't wait to kill you'
+Hiding in Afghanistan, a former translator for the US military describes what life is like for those left behind.
+Taliban, Afghanistan, United States, Politics, War & Conflict
+
+
+      Commenting has been disabled. To find out more, click      
+      here.
+     
+
+
+MORE FROM AL JAZEERA
+Revival: The Muslim Response to the Crusades
+This part of 'The Crusades: An Arab Perspective' explores the birth of the Muslim revival in the face of the Crusades.
+Religion, Islam, Christianity
+
+Is Mexico the most dangerous country on earth?
+Or does it just suffer from the misfortune of being a neighbour of the US?
+Mexico, United States, Drug cartels
+
+Africa is not poor, we are stealing its wealth
+It's time to change the way we talk and think about Africa. 
+Africa, Corruption, Aid
+
+Myanmar: Who are the Rohingya?
+Why are the more than one million Rohingya in Myanmar considered the 'world's most persecuted minority'?
+Rohingya, Humanitarian crises, Myanmar
+Related
+Left Behind: America's Afghan Translators
+We ask why many former Afghan translators for the US military risk their lives to return to Afghanistan from the US.
+Taliban, Afghanistan, War & Conflict, Military
+
+Afghan interpreter: 'Taliban don't wait to kill you'
+Hiding in Afghanistan, a former translator for the US military describes what life is like for those left behind.
+Taliban, Afghanistan, United States, Politics, War & Conflict
+Latest News
+Iran denies 'hegemon' plans, denounces Saudi and Israel
+Saudi Arabia urges 'fundamental change in Iranian regime' as Tehran's foreign minister calls foes 'US client states'. 
+Middle East, Israel, Saudi Arabia, Iran
+
+12 ISIL widows sentenced to death, life by Iraqi court
+A dozen foreign women who joined ISIL husbands while fighting in Iraq sentenced by a court in Baghdad. 
+Iraq, ISIS, Middle East
+Trending
+
+Canada deports North Korean asylum seekers
+12 ISIL widows sentenced to death, life by Iraqi court
+Iran denies 'hegemon' plans, denounces Saudi and Israel
+Iran plane crash kills all 66 people on board
+How Navalny changed the rules of the game in Russia
+Revival: The Muslim Response to the Crusades
+Iran and India sign deal to deepen relations
+Africa is not poor, we are stealing its wealth
+What triggered unrest in Ethiopia?
+How far will Robert Mueller's investigation go?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MUST-SEE PROGRAMMESPeople & PowerUkraine: A dangerous gameAs crucial elections approach, is Ukraine really as divided as people have been told?Crimea, Ukraine, RussiaGaddafi: The EndgameLibya: State of DenialThe story of the fall of Gaddafi as told by the insiders, defectors and military advisers who helped bring it about.Muammar Gaddafi, Libya, PoliticsTalk to Al JazeeraHailemariam Desalegn: Democracy 'not only an election'The Ethiopian prime minister discusses democracy, human rights, press freedom and the future of his country.Politics, Human Rights, EthiopiaProgrammesBahrain: Shouting in the DarkThe story of the Arab revolution that was abandoned by the Arabs, forsaken by the West and forgotten by the world.Bahrain, Middle East, Arab Spring
+
+
+
+
+
+
+
+ 
+
+
+News
+
+Programmes
+
+Opinion
+
+About
+
+Investigations
+
+Contact Us
+
+Video
+
+
+
+Facebook
+
+Twitter
+
+Google+
+
+RSS
+
+Podcast
+
+YouTube
+
+SnapChat
+
+
+
+			© 2017 Al Jazeera Media Network
+
+
+
+
+
+					About
+
+
+About Us
+
+Press Office
+
+Awards
+
+Code of Ethics
+
+Terms and Conditions
+
+Community Guidelines
+
+Work for us
+
+HR Quality
+
+
+
+
+					Connect
+
+
+Contact Us
+
+Apps
+
+Social
+
+Channel Finder
+
+TV Schedule
+
+Podcasts
+
+Newsletter
+
+
+
+
+
+
+					Our Channels
+
+
+Al Jazeera Arabic
+
+Al Jazeera English
+
+Al Jazeera Mubasher
+
+Al Jazeera Documentary
+
+Al Jazeera Balkans
+
+AJ+
+
+
+
+
+					Our Network
+
+
+Jetty
+
+Al Jazeera Centre for Studies
+
+Al Jazeera Media Institute
+
+Al Jazeera Centre for Public Liberties & Human Rights
+
+Al Jazeera Forum
+
+Al Jazeera Film Festival
+
+Al Jazeera Learning
+
+Al Jazeera Hotel Partners
+
+
+
+
+
+
+					 
+
+
+
+
+
+					© 2018 Al Jazeera Media Network
+
+
+
+
+
+	 
+
+
+
+
+
+
+
+
+ 
+        $(function() {   
+            $('img.lazy').lazy({
+                effect: "fadeIn",
+                effectTime: 1000,
+		defaultImage: "http://www.aljazeera.com/img/nov-2016/novresptopfeature.jpg",
+		visibleOnly: true
+                
+            });
+        });
+
+    
+
+
+
+
+googletag.cmd.push(function() { 
+googletag.display('div-gpt-ad-1430377943388-0'); 
+});
+
+
+
+
+
+
+	
+googletag.cmd.push(function() { 
+googletag.display('div-gpt-ad-1430377943388-1'); 
+});
+
+
+
+
+
+	
+googletag.cmd.push(function() { 
+googletag.display('div-gpt-ad-1430377943388-4'); 
+});
+
+
+
+
+	try {
+	$('.topadcontainer').remove();
+        $('#topdivad').insertAfter('#oryxcontext');
+	document.getElementById("topdivad").style.display = "block";
+if (document.getElementById("toprightlongad")!= null){
+	var RightDiv = document.getElementById("toprightlongad");
+	RightDiv.innerHTML = document.getElementById("rightlongad").innerHTML;  
+	document.getElementById("rightlongad").innerHTML = "";
+}
+$( document ).ready(function() {
+    if (document.getElementById("ArticleSecAd")!= null){
+	var RightboDiv = document.getElementById("ArticleSecAd");
+	RightboDiv.innerHTML = document.getElementById("rightbottomad").innerHTML;  
+	document.getElementById("rightbottomad").innerHTML = "";
+}
+});
+
+
+
+	$('#div-gpt-ad-1430377943388-2').remove();
+	}
+	catch(err) {
+    		
+	}
+
+
+
+
+googletag.cmd.push(function() { 
+googletag.display('div-gpt-ad-1430377943388-3'); 
+});
+
+
+
+
+
+
+
+/* <![CDATA[ */
+var google_conversion_id = 944250150;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+var google_conversion_format = 3;
+/* ]]> */
+
+
+
+
+
+
+
+
+
+
+
+
+/* <![CDATA[ */
+var google_conversion_id = 944250150;
+var google_conversion_language = "en";
+var google_conversion_format = 3;
+var google_conversion_color = "ffffff";
+var google_conversion_label = "qHeuCOSxnF8QprqgwgM";
+var google_remarketing_only = false;
+/* ]]> */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
