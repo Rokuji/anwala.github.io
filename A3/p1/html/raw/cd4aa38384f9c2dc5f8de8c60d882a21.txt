@@ -1,0 +1,808 @@
+http://realfarmacy.com/family-never-ate-organic-what-happens-bodies-make-switch/
+
+<!DOCTYPE html>
+<html lang="en-US" xmlns:fb="http://ogp.me/ns/fb#" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="http://realfarmacy.com/xmlrpc.php">
+
+<title>This Family Never Ate Organic. Watch What Happens To Their Bodies As Soon As They Make The Switch &#8211; REALfarmacy.com</title>
+<script>
+                            /* You can add more configuration options to webfontloader by previously defining the WebFontConfig with your options */
+                            if ( typeof WebFontConfig === "undefined" ) {
+                                WebFontConfig = new Object();
+                            }
+                            WebFontConfig['google'] = {families: ['Open+Sans:300,400,600,700,800,300italic,400italic,600italic,700italic,800italic', 'Source+Sans+Pro:200,300,400,600,700,900,200italic,300italic,400italic,600italic,700italic,900italic']};
+
+                            (function() {
+                                var wf = document.createElement( 'script' );
+                                wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1.5.3/webfont.js';
+                                wf.type = 'text/javascript';
+                                wf.async = 'true';
+                                var s = document.getElementsByTagName( 'script' )[0];
+                                s.parentNode.insertBefore( wf, s );
+                            })();
+                        </script>
+
+<meta name="robots" content="noodp,noydir" />
+<meta name="description" content="This family always ate conventional food because it was cheaper. That is until they got involved with this study conducted by the Swedish ERI IVL. The result surprised and disgusted..." />
+<link rel="canonical" href="http://realfarmacy.com/family-never-ate-organic-what-happens-bodies-make-switch/" />
+<link rel="publisher" href="http://google.com/+realfarmacy" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="This Family Never Ate Organic. Watch What Happens To Their Bodies As Soon As They Make The Switch" />
+<meta property="og:description" content="This family always ate conventional food because it was cheaper. That is until they got involved with this study conducted by the Swedish ERI IVL. The result surprised and disgusted..." />
+<meta property="og:url" content="http://realfarmacy.com/family-never-ate-organic-what-happens-bodies-make-switch/" />
+<meta property="og:site_name" content="REALfarmacy.com" />
+<meta property="article:tag" content="farm to table,Organic,pesticides,video" />
+<meta property="article:section" content="A Paradigm Shift" />
+<meta property="article:published_time" content="2015-05-08T11:01:57+00:00" />
+<meta property="article:modified_time" content="2017-01-03T21:21:51+00:00" />
+<meta property="og:updated_time" content="2017-01-03T21:21:51+00:00" />
+<meta property="og:image" content="http://www.realfarmacy.com/wp-content/uploads/2015/05/organic.jpg" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="This family always ate conventional food because it was cheaper. That is until they got involved with this study conducted by the Swedish ERI IVL. The result surprised and disgusted..." />
+<meta name="twitter:title" content="This Family Never Ate Organic. Watch What Happens To Their Bodies As Soon As They Make The Switch" />
+<meta name="twitter:domain" content="REALfarmacy.com" />
+<meta name="twitter:image:src" content="http://www.realfarmacy.com/wp-content/uploads/2015/05/organic.jpg" />
+<meta itemprop="name" content="This Family Never Ate Organic. Watch What Happens To Their Bodies As Soon As They Make The Switch">
+<meta itemprop="description" content="This family always ate conventional food because it was cheaper. That is until they got involved with this study conducted by the Swedish ERI IVL. The result surprised and disgusted...">
+<meta itemprop="image" content="http://www.realfarmacy.com/wp-content/uploads/2015/05/organic.jpg">
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","url":"http:\/\/realfarmacy.com\/","name":"REALfarmacy.com"}</script>
+
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/realfarmacy.com\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='blogon-bootstrap-css' href='http://realfarmacy.com/wp-content/themes/blogon%204/css/bootstrap.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='blogon-bootstrap-wp-css' href='http://realfarmacy.com/wp-content/themes/blogon%204/css/bootstrap-wp.css' type='text/css' media='all' />
+<link rel='stylesheet' id='owl.theme-min-css' href='http://realfarmacy.com/wp-content/themes/blogon%204/css/owl.theme-min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='owl.carousel-css' href='http://realfarmacy.com/wp-content/themes/blogon%204/css/owl.carousel.css' type='text/css' media='all' />
+<link rel='stylesheet' id='cd-hero-css' href='http://realfarmacy.com/wp-content/themes/blogon%204/css/cd-hero.css' type='text/css' media='all' />
+<link rel='stylesheet' id='nanoscroller-css' href='http://realfarmacy.com/wp-content/themes/blogon%204/css/nanoscroller.css' type='text/css' media='all' />
+<link rel='stylesheet' id='lightbox-css' href='http://realfarmacy.com/wp-content/themes/blogon%204/css/lightbox.css' type='text/css' media='all' />
+<link rel='stylesheet' id='blogon-style-css' href='http://realfarmacy.com/wp-content/themes/blogon%204/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='quick-style-css' href='http://realfarmacy.com/wp-content/themes/blogon%204/blogon-style.php' type='text/css' media='all' />
+<link rel='stylesheet' id='upprev-css-css' href='http://realfarmacy.com/wp-content/plugins/upprev/styles/upprev.css' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css' href='//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css' type='text/css' media='all' />
+<script type="text/javascript">
+var iworks_upprev = { animation: 'flyout', position: 'right', offset_percent: 75, offset_element: '#comments', css_width: 360, css_side: 5, compare: 'simple', url_new_window: 0, ga_track_views: 1, ga_track_clicks: 1, ga_opt_noninteraction: 1, title: 'This Family Never Ate Organic. Watch What Happens To Their Bodies As Soon As They Make The Switch' };
+</script>
+<script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js'></script>
+<script type='text/javascript'>try{jQuery.noConflict();}catch(e){};</script>
+<script type='text/javascript' src='http://realfarmacy.com/wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<script type='text/javascript' src='http://realfarmacy.com/wp-content/themes/blogon%204/js/bootstrap.min.js'></script>
+<script type='text/javascript' src='http://realfarmacy.com/wp-content/themes/blogon%204/js/bootstrap-wp.js'></script>
+<script type='text/javascript' src='http://realfarmacy.com/wp-content/themes/blogon%204/js/owl.carousel.min.js'></script>
+<script type='text/javascript' src='http://realfarmacy.com/wp-content/themes/blogon%204/js/cd-hero.js'></script>
+<script type='text/javascript' src='http://realfarmacy.com/wp-content/themes/blogon%204/js/jquery.nanoscroller.min.js'></script>
+<script type='text/javascript' src='http://realfarmacy.com/wp-content/themes/blogon%204/js/theia-sticky-sidebar.js'></script>
+<script type='text/javascript' src='http://realfarmacy.com/wp-content/themes/blogon%204/js/custom.js'></script>
+<script type='text/javascript' src='http://realfarmacy.com/wp-content/plugins/upprev/scripts/upprev.js'></script>
+<link rel='https://api.w.org/' href='http://realfarmacy.com/wp-json/' />
+<link rel="alternate" type="application/json+oembed" href="http://realfarmacy.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Frealfarmacy.com%2Ffamily-never-ate-organic-what-happens-bodies-make-switch%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://realfarmacy.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Frealfarmacy.com%2Ffamily-never-ate-organic-what-happens-bodies-make-switch%2F&#038;format=xml" />
+<meta property="fb:app_id" content="433619846727554" />
+
+<script type="text/javascript">//<![CDATA[
+	function external_links_in_new_windows_loop() {
+		if (!document.links) {
+			document.links = document.getElementsByTagName('a');
+		}
+		var change_link = false;
+		var force = 'http:// or https://';
+		var ignore = '';
+
+		for (var t=0; t<document.links.length; t++) {
+			var all_links = document.links[t];
+			change_link = false;
+			
+			if(document.links[t].hasAttribute('onClick') == false) {
+				// forced if the address starts with http (or also https), but does not link to the current domain
+				if(all_links.href.search(/^http/) != -1 && all_links.href.search('realfarmacy.com') == -1) {
+					// alert('Changeda '+all_links.href);
+					change_link = true;
+				}
+					
+				if(force != '' && all_links.href.search(force) != -1) {
+					// forced
+					// alert('force '+all_links.href);
+					change_link = true;
+				}
+				
+				if(ignore != '' && all_links.href.search(ignore) != -1) {
+					// alert('ignore '+all_links.href);
+					// ignored
+					change_link = false;
+				}
+
+				if(change_link == true) {
+					// alert('Changed '+all_links.href);
+					document.links[t].setAttribute('onClick', 'javascript:window.open(\''+all_links.href+'\'); return false;');
+					document.links[t].removeAttribute('target');
+				}
+			}
+		}
+	}
+	
+	// Load
+	function external_links_in_new_windows_load(func)
+	{	
+		var oldonload = window.onload;
+		if (typeof window.onload != 'function'){
+			window.onload = func;
+		} else {
+			window.onload = function(){
+				oldonload();
+				func();
+			}
+		}
+	}
+
+	external_links_in_new_windows_load(external_links_in_new_windows_loop);
+	//]]></script>
+
+<style type="text/css">
+.wp-links-icon { background:url("http://realfarmacy.com/wp-content/plugins/wp-links/icons/") no-repeat 100% 50%; padding-right:15px; margin-right: 2px;};
+</style>
+<style type="text/css"></style>
+<style type="text/css">
+.synved-social-resolution-single {
+display: inline-block;
+}
+.synved-social-resolution-normal {
+display: inline-block;
+}
+.synved-social-resolution-hidef {
+display: none;
+}
+
+@media only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2/1),
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min-device-pixel-ratio: 2),
+only screen and (min-resolution: 2dppx),
+only screen and (min-resolution: 192dpi) {
+	.synved-social-resolution-normal {
+	display: none;
+	}
+	.synved-social-resolution-hidef {
+	display: inline-block;
+	}
+}
+</style>
+<script>
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-40566678-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<script>
+var Tynt=Tynt||[];Tynt.push('aZ9dI0Xlar544iaKkv7mNO');
+Tynt.cmd=Tynt.cmd||[];Tynt.cmd.push(function(){
+Tynt.ads.display('','','inview');});
+(function(){var h,s=document.createElement('script');
+s.src=(window.location.protocol==='https:'?
+'https':'http')+'://cdn.tynt.com/rciv.js';
+h=document.getElementsByTagName('script')[0];
+h.parentNode.insertBefore(s,h);})();
+</script>
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({article:'auto'});
+  !function (e, f, u, i) {
+    if (!document.getElementById(i)){
+      e.async = 1;
+      e.src = u;
+      e.id = i;
+      f.parentNode.insertBefore(e, f);
+    }
+  }(document.createElement('script'),
+  document.getElementsByTagName('script')[0],
+  '//cdn.taboola.com/libtrc/peasnews-realfarmacy/loader.js',
+  'tb_loader_script');
+  if(window.performance && typeof window.performance.mark == 'function')
+    {window.performance.mark('tbl_ic');}
+</script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js"></script>
+<script type="text/javascript" src="https://blockchain.info/Resources/js/pay-now-button.js"></script>
+<link rel="icon" href="http://realfarmacy.com/wp-content/uploads/2017/10/cropped-RealFarmacy-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="http://realfarmacy.com/wp-content/uploads/2017/10/cropped-RealFarmacy-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://realfarmacy.com/wp-content/uploads/2017/10/cropped-RealFarmacy-180x180.jpg" />
+<meta name="msapplication-TileImage" content="http://realfarmacy.com/wp-content/uploads/2017/10/cropped-RealFarmacy-270x270.jpg" />
+<style type="text/css" title="dynamic-css" class="options-output">.logo-text{margin-top:30px;margin-right:0;margin-bottom:0;margin-left:0;}.site-header{padding-top:10px;padding-bottom:10px;}body{font-family:"Open Sans";line-height:22px;font-weight:400;font-style:normal;color:#414549;font-size:13px;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading body,{opacity: 0;}.ie.wf-loading body,{visibility: hidden;}ul.main-menu>li>a{font-family:"Open Sans";line-height:36px;font-weight:600;font-style:normal;color:#000000;font-size:13px;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading ul.main-menu>li>a,{opacity: 0;}.ie.wf-loading ul.main-menu>li>a,{visibility: hidden;}ul.main-menu li ul li a{font-family:"Open Sans";line-height:24px;font-weight:400;font-style:normal;color:#a0acad;font-size:11px;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading ul.main-menu li ul li a,{opacity: 0;}.ie.wf-loading ul.main-menu li ul li a,{visibility: hidden;}h1{font-family:"Source Sans Pro";line-height:36px;font-weight:600;font-style:normal;color:#000000;font-size:36px;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading h1,{opacity: 0;}.ie.wf-loading h1,{visibility: hidden;}h2{font-family:"Source Sans Pro";line-height:28px;font-weight:600;font-style:normal;color:#000000;font-size:24px;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading h2,{opacity: 0;}.ie.wf-loading h2,{visibility: hidden;}h3{font-family:"Source Sans Pro";line-height:24px;font-weight:600;font-style:normal;color:#000000;font-size:22px;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading h3,{opacity: 0;}.ie.wf-loading h3,{visibility: hidden;}h4{font-family:"Source Sans Pro";line-height:24px;font-weight:600;font-style:normal;color:#000000;font-size:20px;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading h4,{opacity: 0;}.ie.wf-loading h4,{visibility: hidden;}h5{font-family:"Source Sans Pro";line-height:24px;font-weight:600;font-style:normal;color:#000000;font-size:18px;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading h5,{opacity: 0;}.ie.wf-loading h5,{visibility: hidden;}h6{font-family:"Source Sans Pro";line-height:24px;font-weight:600;font-style:normal;color:#000000;font-size:16px;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading h6,{opacity: 0;}.ie.wf-loading h6,{visibility: hidden;}</style><style type="text/css">
+#upprev_box{bottom:5px;width:360px;right:5px;display:block;right:-415px;display:block;}
+ </style>
+</head>
+<body class="single single-post postid-39229 single-format-standard fullwidth">
+<div id="body-inner" class="homedefault">
+<div class="topbar clearfix">
+<div class="site-search">
+<div class="container">
+<form role="form" method="get" id="searchform" action="http://realfarmacy.com/">
+<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" title="Search for:">
+</form> </div>
+<div class="site-search-btn">
+<a href="#" class="icon-search-btn-close"><i class='fa fa-close'></i></a>
+</div>
+</div> 
+<div class="container">
+<div class="row">
+<div class="col-sm-5 col-xs-12 text-right topshare">
+<ul class="header-social-buttons unstyled">
+<li class="header-social-buttons-list">
+<a class="social-buttons-hover" href="#">Follow Us<i class="fa fa-angle-down"></i></a>
+<ul>
+<li><a class="facebook" href="https://www.facebook.com/REALfarmacyCOM" target="_blank"><i class="fa fa-facebook"></i></a></li>
+<li><a class="twitter" href="https://twitter.com/realfarmacy" target="_blank"><i class="fa fa-twitter"></i></a></li>
+<li><a class="g-plus" href="https://plus.google.com/+Realfarmacy" target="_blank"><i class="fa fa-google-plus"></i></a></li>
+<li><a class="instagram" href="https://www.instagram.com/realfarmacy/" target="_blank"><i class="fa fa-instagram"></i></a></li>
+</ul>
+</li>
+</ul>
+<div class="site-search-btn">
+<a href="#" class="icon-search-btn"><span>Search</span><i class="fa fa-search"></i></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="site-header headlayout1">
+<div class="container">
+<div class="row">
+<div class="col-sm-3 site-header-2">
+<div class="site-logo">
+<div class="logo-header-inner">
+<div>
+<a href="http://realfarmacy.com/"> <img class="entry-logo img-responsive" src="http://realfarmacy.com/wp-content/uploads/2017/10/RealFarmacy-1-e1510310233404.jpg" alt="logo" title="logo"></a>
+</div>
+</div>
+</div>
+</div> 
+</div> 
+</div> 
+</div> 
+<div class="thw-offcanvas">
+<div class="nano">
+<div class="nano-content">
+<div class="thw-offcanvas-in">
+<div class="offc-about">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="main-content">
+<div class="container">
+<div class="thw-main-content">
+<div class="row">
+<div id="content" class="col-sm-9">
+<div class="main-content-inner">
+<article id="post-39229" class="post-layout post-39229 post type-post status-publish format-standard has-post-thumbnail hentry category-in-the-news category-health-2 category-videos tag-farm-to-table-2 tag-organic tag-pesticides tag-video">
+<div class="entry-blog">
+<div class="blog-header">
+<h2 class="page-title">
+<a href="http://realfarmacy.com/family-never-ate-organic-what-happens-bodies-make-switch/" rel="bookmark">This Family Never Ate Organic. Watch What Happens To Their Bodies As Soon As They Make The Switch</a>
+</h2>
+</div>
+<header class="entry-header">
+<div class="featured-image">
+<a href="http://realfarmacy.com/family-never-ate-organic-what-happens-bodies-make-switch/" rel="bookmark"><img width="560" height="292" src="http://realfarmacy.com/wp-content/plugins/speed-booster-pack/inc/images/1x1.trans.gif" data-lazy-src="http://realfarmacy.com/wp-content/uploads/2015/05/organic.jpg" class="img-responsive wp-post-image" alt="organic" srcset="http://realfarmacy.com/wp-content/uploads/2015/05/organic.jpg 560w, http://realfarmacy.com/wp-content/uploads/2015/05/organic-300x156.jpg 300w" sizes="(max-width: 560px) 100vw, 560px" /><noscript><img width="560" height="292" src="http://realfarmacy.com/wp-content/uploads/2015/05/organic.jpg" class="img-responsive wp-post-image" alt="organic" srcset="http://realfarmacy.com/wp-content/uploads/2015/05/organic.jpg 560w, http://realfarmacy.com/wp-content/uploads/2015/05/organic-300x156.jpg 300w" sizes="(max-width: 560px) 100vw, 560px" /></noscript></a>
+</div>
+</header>
+<div class="entry-summary blog-entry-summary">
+<p><iframe width="660" height="371" src="https://www.youtube.com/embed/UPirDWfxfKc?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<p>This family always ate conventional food because it was cheaper. That is until they got involved with <span style="color: #0000ff;"><a href="https://www.coop.se/Vart--ansvar/Ekoeffekten/The-Organic-Effect/Read-the-report-from-IVL/" target="">this study</a></span> conducted by the Swedish Environmental Research Institute IVL. The result surprised and disgusted everyone. Organic food was also recently found to be irrefutably higher in cancer-preventing antioxidants (<span style="color: #0000ff;"><a href="http://www.foodpolitics.com/wp-content/uploads/14-06-12-Final-Crops-Paper-BJN5552.pdf" target="">full study</a></span>). Considering the study presented in this video in addition to the higher antioxidant profile it&#8217;s about time for everyone who values their health to switch to an organic diet.<br />
+The <span style="color: #000000;">increased use of pesticides</span> and the sky-rocketing disease rate in America is a huge correlation that cannot be ignored any longer. Of course it&#8217;s best not to depend on legislation to protect you and your family. The best step you can take after deciding to eat organically is to grow as much of your own food as possible. Even if you&#8217;ve never grown anything before it&#8217;s never too late to start and can be quite easy, enjoyable, and rewarding. Make sure you check into our <span style="color: #0000ff;"><a href="http://realfarmacy.com/grow-it-yourself/">Grow-it-yourself </a></span>category which is updated daily with gardening tips, tricks, and tutorials for both beginners and experienced gardeners alike.<br />
+Second to growing your own <span style="color: #0000ff;"><a href="http://eatlocalgrown.com/how-it-works.html" target="" target="_blank">finding your nearest farmers&#8217; market</a></span> has become a must for the health-conscious consumer. Eat as seasonally and locally as possible, meet your farmer, and grow your own clean nutritious organic food. This is real healthcare and your family&#8217;s health is worth it.<br />
+I&#8217;ll leave you with a quote from the <span style="color: #0000ff;"><a href="http://www.foodpolitics.com/wp-content/uploads/14-06-12-Final-Crops-Paper-BJN5552.pdf" target="">abstract</a></span> of what is considered to be the most comprehensive study comparing organic to conventional food published in the British Journal of Nutrition this past September. These solid findings didn&#8217;t receive as much press as they deserved. Show this to any friends or family that still eat conventional food.</p>
+<div class='code-block code-block-2' style='margin: 8px auto; text-align: center; clear: both;'>
+<script type="text/javascript">
+    google_ad_client = "ca-pub-5590547337599978";
+    google_ad_slot = "6187945249";
+    google_ad_width = 300;
+    google_ad_height = 250;
+</script>
+
+<script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+<p style="padding-left: 60px;"><strong><em>&#8220;In the present study, we carried out <span style="color: #ff0000;">meta-analyses based on 343 peer-reviewed publications</span> that indicate statistically <span style="color: #000000;">significant and meaningful differences</span> in composition between organic and non-organic crops/crop-based foods. Most importantly, the concentrations of a range of <span style="color: #ff0000;">antioxidants such as polyphenolics were found to be substantially higher in organic crops</span>/crop-based foods, with those of phenolic acids, flavanones, stilbenes, flavones, flavonols and anthocyanins being an estimated 19 (95 % CI 5, 33) %, 69 (95 % CI 13, 125) %, 28 (95 % CI 12, 44) %, 26 (95 % CI 3, 48) %, 50 (95 % CI 28, 72) % and 51 (95 % CI 17, 86) % higher, respectively. Many of these compounds have previously been linked to a <span style="color: #ff0000;">reduced risk of chronic diseases, including CVD and neurodegenerative diseases and certain cancers</span>, in dietary intervention and epidemiological studies. Additionally, the frequency of occurrence of <span style="color: #ff0000;">pesticide residues was found to be four times higher in conventional crops</span>, which also contained significantly <span style="color: #ff0000;">higher concentrations of the toxic metal Cd.</span> Significant differences were also detected for some other (e.g. minerals and vitamins) compounds&#8230;&#8221;<br />
+</em></strong></p>
+<strong> Share: </strong><span class="synved-social-container synved-social-container-share"><a class="synved-social-button synved-social-button-share synved-social-size-32 synved-social-resolution-normal synved-social-provider-facebook nolightbox" data-provider="facebook" target="_blank" rel="nofollow" title="Share on Facebook" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Frealfarmacy.com%2Ffamily-never-ate-organic-what-happens-bodies-make-switch%2F&#038;t=This%20Family%20Never%20Ate%20Organic.%20Watch%20What%20Happens%20To%20Their%20Bodies%20As%20Soon%20As%20They%20Make%20The%20Switch&#038;s=100&#038;p&#091;url&#093;=http%3A%2F%2Frealfarmacy.com%2Ffamily-never-ate-organic-what-happens-bodies-make-switch%2F&#038;p&#091;images&#093;&#091;0&#093;=http%3A%2F%2Frealfarmacy.com%2Fwp-content%2Fuploads%2F2015%2F05%2Forganic.jpg&#038;p&#091;title&#093;=This%20Family%20Never%20Ate%20Organic.%20Watch%20What%20Happens%20To%20Their%20Bodies%20As%20Soon%20As%20They%20Make%20The%20Switch" style="font-size: 0px; width:32px;height:32px;margin:0;margin-bottom:4px;margin-right:4px;"><img alt="Facebook" title="Share on Facebook" class="synved-share-image synved-social-image synved-social-image-share" width="32" height="32" style="display: inline; width:32px;height:32px; margin: 0; padding: 0; border: none; box-shadow: none;" src="http://realfarmacy.com/wp-content/plugins/speed-booster-pack/inc/images/1x1.trans.gif" data-lazy-src="http://realfarmacy.com/wp-content/plugins/social-media-feather/synved-social/image/social/regular/32x32/facebook.png" /><noscript><img alt="Facebook" title="Share on Facebook" class="synved-share-image synved-social-image synved-social-image-share" width="32" height="32" style="display: inline; width:32px;height:32px; margin: 0; padding: 0; border: none; box-shadow: none;" src="http://realfarmacy.com/wp-content/plugins/social-media-feather/synved-social/image/social/regular/32x32/facebook.png" /></noscript></a><a class="synved-social-button synved-social-button-share synved-social-size-32 synved-social-resolution-normal synved-social-provider-twitter nolightbox" data-provider="twitter" target="_blank" rel="nofollow" title="Share on Twitter" href="http://twitter.com/share?url=http%3A%2F%2Frealfarmacy.com%2Ffamily-never-ate-organic-what-happens-bodies-make-switch%2F&#038;text=Hey%20check%20this%20out" style="font-size: 0px; width:32px;height:32px;margin:0;margin-bottom:4px;margin-right:4px;"><img alt="twitter" title="Share on Twitter" class="synved-share-image synved-social-image synved-social-image-share" width="32" height="32" style="display: inline; width:32px;height:32px; margin: 0; padding: 0; border: none; box-shadow: none;" src="http://realfarmacy.com/wp-content/plugins/speed-booster-pack/inc/images/1x1.trans.gif" data-lazy-src="http://realfarmacy.com/wp-content/plugins/social-media-feather/synved-social/image/social/regular/32x32/twitter.png" /><noscript><img alt="twitter" title="Share on Twitter" class="synved-share-image synved-social-image synved-social-image-share" width="32" height="32" style="display: inline; width:32px;height:32px; margin: 0; padding: 0; border: none; box-shadow: none;" src="http://realfarmacy.com/wp-content/plugins/social-media-feather/synved-social/image/social/regular/32x32/twitter.png" /></noscript></a><a class="synved-social-button synved-social-button-share synved-social-size-32 synved-social-resolution-normal synved-social-provider-google_plus nolightbox" data-provider="google_plus" target="_blank" rel="nofollow" title="Share on Google+" href="https://plus.google.com/share?url=http%3A%2F%2Frealfarmacy.com%2Ffamily-never-ate-organic-what-happens-bodies-make-switch%2F" style="font-size: 0px; width:32px;height:32px;margin:0;margin-bottom:4px;margin-right:4px;"><img alt="google_plus" title="Share on Google+" class="synved-share-image synved-social-image synved-social-image-share" width="32" height="32" style="display: inline; width:32px;height:32px; margin: 0; padding: 0; border: none; box-shadow: none;" src="http://realfarmacy.com/wp-content/plugins/speed-booster-pack/inc/images/1x1.trans.gif" data-lazy-src="http://realfarmacy.com/wp-content/plugins/social-media-feather/synved-social/image/social/regular/32x32/google_plus.png" /><noscript><img alt="google_plus" title="Share on Google+" class="synved-share-image synved-social-image synved-social-image-share" width="32" height="32" style="display: inline; width:32px;height:32px; margin: 0; padding: 0; border: none; box-shadow: none;" src="http://realfarmacy.com/wp-content/plugins/social-media-feather/synved-social/image/social/regular/32x32/google_plus.png" /></noscript></a><a class="synved-social-button synved-social-button-share synved-social-size-32 synved-social-resolution-normal synved-social-provider-reddit nolightbox" data-provider="reddit" target="_blank" rel="nofollow" title="Share on Reddit" href="http://www.reddit.com/submit?url=http%3A%2F%2Frealfarmacy.com%2Ffamily-never-ate-organic-what-happens-bodies-make-switch%2F&#038;title=This%20Family%20Never%20Ate%20Organic.%20Watch%20What%20Happens%20To%20Their%20Bodies%20As%20Soon%20As%20They%20Make%20The%20Switch" style="font-size: 0px; width:32px;height:32px;margin:0;margin-bottom:4px;margin-right:4px;"><img alt="reddit" title="Share on Reddit" class="synved-share-image synved-social-image synved-social-image-share" width="32" height="32" style="display: inline; width:32px;height:32px; margin: 0; padding: 0; border: none; box-shadow: none;" src="http://realfarmacy.com/wp-content/plugins/speed-booster-pack/inc/images/1x1.trans.gif" data-lazy-src="http://realfarmacy.com/wp-content/plugins/social-media-feather/synved-social/image/social/regular/32x32/reddit.png" /><noscript><img alt="reddit" title="Share on Reddit" class="synved-share-image synved-social-image synved-social-image-share" width="32" height="32" style="display: inline; width:32px;height:32px; margin: 0; padding: 0; border: none; box-shadow: none;" src="http://realfarmacy.com/wp-content/plugins/social-media-feather/synved-social/image/social/regular/32x32/reddit.png" /></noscript></a><a class="synved-social-button synved-social-button-share synved-social-size-32 synved-social-resolution-normal synved-social-provider-mail nolightbox" data-provider="mail" rel="nofollow" title="Share by email" href="/cdn-cgi/l/email-protection#93ace0e6f1f9f6f0e7aec7fbfae0b6a1a3d5f2fefaffeab6a1a3ddf6e5f6e1b6a1a3d2e7f6b6a1a3dce1f4f2fdfaf0bdb6a1a3c4f2e7f0fbb6a1a3c4fbf2e7b6a1a3dbf2e3e3f6fde0b6a1a3c7fcb6a1a3c7fbf6fae1b6a1a3d1fcf7faf6e0b6a1a3d2e0b6a1a3c0fcfcfdb6a1a3d2e0b6a1a3c7fbf6eab6a1a3def2f8f6b6a1a3c7fbf6b6a1a3c0e4fae7f0fbb5b0a3a0aba8f1fcf7eaaedbf6eab6a1a3f0fbf6f0f8b6a1a3e7fbfae0b6a1a3fce6e7a9b6a1a3fbe7e7e3b6a0d2b6a1d5b6a1d5e1f6f2fff5f2e1fef2f0eabdf0fcfeb6a1d5f5f2fefaffeabefdf6e5f6e1bef2e7f6befce1f4f2fdfaf0bee4fbf2e7befbf2e3e3f6fde0bef1fcf7faf6e0befef2f8f6bee0e4fae7f0fbb6a1d5" style="font-size: 0px; width:32px;height:32px;margin:0;margin-bottom:4px;"><img alt="mail" title="Share by email" class="synved-share-image synved-social-image synved-social-image-share" width="32" height="32" style="display: inline; width:32px;height:32px; margin: 0; padding: 0; border: none; box-shadow: none;" src="http://realfarmacy.com/wp-content/plugins/speed-booster-pack/inc/images/1x1.trans.gif" data-lazy-src="http://realfarmacy.com/wp-content/plugins/social-media-feather/synved-social/image/social/regular/32x32/mail.png" /><noscript><img alt="mail" title="Share by email" class="synved-share-image synved-social-image synved-social-image-share" width="32" height="32" style="display: inline; width:32px;height:32px; margin: 0; padding: 0; border: none; box-shadow: none;" src="http://realfarmacy.com/wp-content/plugins/social-media-feather/synved-social/image/social/regular/32x32/mail.png" /></noscript></a><a class="synved-social-button synved-social-button-share synved-social-size-32 synved-social-resolution-hidef synved-social-provider-facebook nolightbox" data-provider="facebook" target="_blank" rel="nofollow" title="Share on Facebook" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Frealfarmacy.com%2Ffamily-never-ate-organic-what-happens-bodies-make-switch%2F&#038;t=This%20Family%20Never%20Ate%20Organic.%20Watch%20What%20Happens%20To%20Their%20Bodies%20As%20Soon%20As%20They%20Make%20The%20Switch&#038;s=100&#038;p&#091;url&#093;=http%3A%2F%2Frealfarmacy.com%2Ffamily-never-ate-organic-what-happens-bodies-make-switch%2F&#038;p&#091;images&#093;&#091;0&#093;=http%3A%2F%2Frealfarmacy.com%2Fwp-content%2Fuploads%2F2015%2F05%2Forganic.jpg&#038;p&#091;title&#093;=This%20Family%20Never%20Ate%20Organic.%20Watch%20What%20Happens%20To%20Their%20Bodies%20As%20Soon%20As%20They%20Make%20The%20Switch" style="font-size: 0px; width:32px;height:32px;margin:0;margin-bottom:4px;margin-right:4px;"><img alt="Facebook" title="Share on Facebook" class="synved-share-image synved-social-image synved-social-image-share" width="32" height="32" style="display: inline; width:32px;height:32px; margin: 0; padding: 0; border: none; box-shadow: none;" src="http://realfarmacy.com/wp-content/plugins/speed-booster-pack/inc/images/1x1.trans.gif" data-lazy-src="http://realfarmacy.com/wp-content/plugins/social-media-feather/synved-social/image/social/regular/64x64/facebook.png" /><noscript><img alt="Facebook" title="Share on Facebook" class="synved-share-image synved-social-image synved-social-image-share" width="32" height="32" style="display: inline; width:32px;height:32px; margin: 0; padding: 0; border: none; box-shadow: none;" src="http://realfarmacy.com/wp-content/plugins/social-media-feather/synved-social/image/social/regular/64x64/facebook.png" /></noscript></a><a class="synved-social-button synved-social-button-share synved-social-size-32 synved-social-resolution-hidef synved-social-provider-twitter nolightbox" data-provider="twitter" target="_blank" rel="nofollow" title="Share on Twitter" href="http://twitter.com/share?url=http%3A%2F%2Frealfarmacy.com%2Ffamily-never-ate-organic-what-happens-bodies-make-switch%2F&#038;text=Hey%20check%20this%20out" style="font-size: 0px; width:32px;height:32px;margin:0;margin-bottom:4px;margin-right:4px;"><img alt="twitter" title="Share on Twitter" class="synved-share-image synved-social-image synved-social-image-share" width="32" height="32" style="display: inline; width:32px;height:32px; margin: 0; padding: 0; border: none; box-shadow: none;" src="http://realfarmacy.com/wp-content/plugins/speed-booster-pack/inc/images/1x1.trans.gif" data-lazy-src="http://realfarmacy.com/wp-content/plugins/social-media-feather/synved-social/image/social/regular/64x64/twitter.png" /><noscript><img alt="twitter" title="Share on Twitter" class="synved-share-image synved-social-image synved-social-image-share" width="32" height="32" style="display: inline; width:32px;height:32px; margin: 0; padding: 0; border: none; box-shadow: none;" src="http://realfarmacy.com/wp-content/plugins/social-media-feather/synved-social/image/social/regular/64x64/twitter.png" /></noscript></a><a class="synved-social-button synved-social-button-share synved-social-size-32 synved-social-resolution-hidef synved-social-provider-google_plus nolightbox" data-provider="google_plus" target="_blank" rel="nofollow" title="Share on Google+" href="https://plus.google.com/share?url=http%3A%2F%2Frealfarmacy.com%2Ffamily-never-ate-organic-what-happens-bodies-make-switch%2F" style="font-size: 0px; width:32px;height:32px;margin:0;margin-bottom:4px;margin-right:4px;"><img alt="google_plus" title="Share on Google+" class="synved-share-image synved-social-image synved-social-image-share" width="32" height="32" style="display: inline; width:32px;height:32px; margin: 0; padding: 0; border: none; box-shadow: none;" src="http://realfarmacy.com/wp-content/plugins/speed-booster-pack/inc/images/1x1.trans.gif" data-lazy-src="http://realfarmacy.com/wp-content/plugins/social-media-feather/synved-social/image/social/regular/64x64/google_plus.png" /><noscript><img alt="google_plus" title="Share on Google+" class="synved-share-image synved-social-image synved-social-image-share" width="32" height="32" style="display: inline; width:32px;height:32px; margin: 0; padding: 0; border: none; box-shadow: none;" src="http://realfarmacy.com/wp-content/plugins/social-media-feather/synved-social/image/social/regular/64x64/google_plus.png" /></noscript></a><a class="synved-social-button synved-social-button-share synved-social-size-32 synved-social-resolution-hidef synved-social-provider-reddit nolightbox" data-provider="reddit" target="_blank" rel="nofollow" title="Share on Reddit" href="http://www.reddit.com/submit?url=http%3A%2F%2Frealfarmacy.com%2Ffamily-never-ate-organic-what-happens-bodies-make-switch%2F&#038;title=This%20Family%20Never%20Ate%20Organic.%20Watch%20What%20Happens%20To%20Their%20Bodies%20As%20Soon%20As%20They%20Make%20The%20Switch" style="font-size: 0px; width:32px;height:32px;margin:0;margin-bottom:4px;margin-right:4px;"><img alt="reddit" title="Share on Reddit" class="synved-share-image synved-social-image synved-social-image-share" width="32" height="32" style="display: inline; width:32px;height:32px; margin: 0; padding: 0; border: none; box-shadow: none;" src="http://realfarmacy.com/wp-content/plugins/speed-booster-pack/inc/images/1x1.trans.gif" data-lazy-src="http://realfarmacy.com/wp-content/plugins/social-media-feather/synved-social/image/social/regular/64x64/reddit.png" /><noscript><img alt="reddit" title="Share on Reddit" class="synved-share-image synved-social-image synved-social-image-share" width="32" height="32" style="display: inline; width:32px;height:32px; margin: 0; padding: 0; border: none; box-shadow: none;" src="http://realfarmacy.com/wp-content/plugins/social-media-feather/synved-social/image/social/regular/64x64/reddit.png" /></noscript></a><a class="synved-social-button synved-social-button-share synved-social-size-32 synved-social-resolution-hidef synved-social-provider-mail nolightbox" data-provider="mail" rel="nofollow" title="Share by email" href="/cdn-cgi/l/email-protection#536c202631393630276e073b3a2076616315323e3a3f2a7661631d362536217661631227367661631c2134323d3a307d766163043227303b766163043b32277661631b322323363d20766163073c766163073b363a21766163113c373a36207661631220766163003c3c3d7661631220766163073b362a7661631e323836766163073b3676616300243a27303b757063606b68313c372a6e1b362a766163303b363038766163273b3a207661633c2627697661633b2727237660127661157661152136323f3532213e32302a7d303c3e76611535323e3a3f2a7e3d362536217e3227367e3c2134323d3a307e243b32277e3b322323363d207e313c373a36207e3e3238367e20243a27303b766115" style="font-size: 0px; width:32px;height:32px;margin:0;margin-bottom:4px;"><img alt="mail" title="Share by email" class="synved-share-image synved-social-image synved-social-image-share" width="32" height="32" style="display: inline; width:32px;height:32px; margin: 0; padding: 0; border: none; box-shadow: none;" src="http://realfarmacy.com/wp-content/plugins/speed-booster-pack/inc/images/1x1.trans.gif" data-lazy-src="http://realfarmacy.com/wp-content/plugins/social-media-feather/synved-social/image/social/regular/64x64/mail.png" /><noscript><img alt="mail" title="Share by email" class="synved-share-image synved-social-image synved-social-image-share" width="32" height="32" style="display: inline; width:32px;height:32px; margin: 0; padding: 0; border: none; box-shadow: none;" src="http://realfarmacy.com/wp-content/plugins/social-media-feather/synved-social/image/social/regular/64x64/mail.png" /></noscript></a></span><div class='code-block code-block-1' style='margin: 8px auto; text-align: center; clear: both;'>
+<script data-cfasync="false" src="/cdn-cgi/scripts/d07b1474/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+    google_ad_client = "ca-pub-5590547337599978";
+    google_ad_slot = "4711212043";
+    google_ad_width = 300;
+    google_ad_height = 250;
+</script>
+
+<script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+<p><fb:comments-count href=http://realfarmacy.com/family-never-ate-organic-what-happens-bodies-make-switch/></fb:comments-count> </p><div class="fb-comments" data-href="http://realfarmacy.com/family-never-ate-organic-what-happens-bodies-make-switch/" data-numposts="5" data-width="100%" data-colorscheme="light"></div><div class='code-block code-block-8' style='margin: 8px 0; clear: both;'>
+<div id="taboola-below-article-thumbnails"></div>
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({
+    mode: 'thumbnails-a',
+    container: 'taboola-below-article-thumbnails',
+    placement: 'Below Article Thumbnails',
+    target_type: 'mix'
+  });
+</script></div>
+</div>
+</div> 
+</article>
+<div class="clearfix"></div>
+<nav id="nav-below" class="post-navigation clearfix">
+<ul class="post-nav">
+<li class="nav-previous previous"><a href="http://realfarmacy.com/main-reasons-acne/" rel="prev"><span class="meta-nav"><i class="fa fa-angle-double-left"></i></span> The 2 Main Reasons You Have Acne (and what to do about it)</a></li> <li class="nav-next next"><a href="http://realfarmacy.com/world-health-organization-shakesup-big-pharma/" rel="next">World Health Organization Finally Cracks Down on Big Pharma <span class="meta-nav"><i class="fa fa-angle-double-right"></i></span></a></li>
+</ul>
+</nav>
+<div class="post-related">
+<div class="related-title themewing-title">
+<h3>Related Post</h3>
+</div>
+<div class="row">
+<div class="col-sm-6">
+<div class="item-related" style="background-image:url(http://realfarmacy.com/wp-content/uploads/2014/01/mush-feat.jpg);background-repeat:no-repeat;background-size: cover;width:100%;height:100%;">
+<div class="related-overlay">
+<div>
+<time class="entry-date" datetime="2014-01-28T15:49:30+00:00">28 Jan, 2014</time>
+<h4><a href="http://realfarmacy.com/magic-mushrooms-do-what-to-your-mental-health/">Magic Mushrooms Do What To Your Mental Health?!</a></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="col-sm-6">
+<div class="item-related" style="background-image:url(http://realfarmacy.com/wp-content/uploads/2017/03/Screen-Shot-2017-03-28-at-3.44.20-PM.png);background-repeat:no-repeat;background-size: cover;width:100%;height:100%;">
+<div class="related-overlay">
+<div>
+<time class="entry-date" datetime="2017-10-12T09:14:12+00:00">12 Oct, 2017</time>
+<h4><a href="http://realfarmacy.com/apple-cider-vinegar-life/">Here&#8217;s How Apple Cider Vinegar Can Change Your Life For the Better</a></h4>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div> 
+</div> 
+<div id="sidebar" class="sidebar col-sm-3 stickys">
+<div class="sidebar-inner">
+<aside class="widget ad-widget">
+</aside>
+<aside class="widget ad-widget">
+</aside>
+<div id="text-2" class="widget widget_text"> <div class="textwidget"><div id="taboola-right-rail-thumbnails"></div>
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({
+    mode: 'thumbnails-rr',
+    container: 'taboola-right-rail-thumbnails',
+    placement: 'Right Rail Thumbnails',
+    target_type: 'mix'
+  });
+</script></div>
+</div><div id="blogon_latest_news_widget-3" class="widget blogon_latest_news_widget"><h3 class="widget_title">Featured Articles</h3> <ul class="themewing-latest-post">
+<li>
+<div class="latest-post-items">
+<div class="latest-post-image">
+<a href="http://realfarmacy.com/florida-shooting/" rel="bookmark" title="Media is Ignoring This One Crucial Factor in Florida School Shooting"><img width="704" height="332" src="http://realfarmacy.com/wp-content/plugins/speed-booster-pack/inc/images/1x1.trans.gif" data-lazy-src="http://realfarmacy.com/wp-content/uploads/2018/02/floridashooting-header.png" class="attachment-blogon-full-size size-blogon-full-size wp-post-image" alt="floridashooting-header" srcset="http://realfarmacy.com/wp-content/uploads/2018/02/floridashooting-header.png 704w, http://realfarmacy.com/wp-content/uploads/2018/02/floridashooting-header-300x141.png 300w" sizes="(max-width: 704px) 100vw, 704px" /><noscript><img width="704" height="332" src="http://realfarmacy.com/wp-content/uploads/2018/02/floridashooting-header.png" class="attachment-blogon-full-size size-blogon-full-size wp-post-image" alt="floridashooting-header" srcset="http://realfarmacy.com/wp-content/uploads/2018/02/floridashooting-header.png 704w, http://realfarmacy.com/wp-content/uploads/2018/02/floridashooting-header-300x141.png 300w" sizes="(max-width: 704px) 100vw, 704px" /></noscript></a>
+</div>
+<div class="latest-post-content">
+<h4><a href="http://realfarmacy.com/florida-shooting/" rel="bookmark" title="Media is Ignoring This One Crucial Factor in Florida School Shooting">Media is Ignoring This One Crucial Factor in Florida School Shooting</a></h4>
+<p class="side-meta"><time class="entry-date" datetime="2018-02-16T13:15:09+00:00"> February 16, 2018</time></p>
+</div>
+</div>
+<div class="clearfix"></div>
+</li>
+<li>
+<div class="latest-post-items">
+<div class="latest-post-image">
+<a href="http://realfarmacy.com/breast-cancer-risk/" rel="bookmark" title="Top Tips to Decrease Your Breast Cancer Risk"><img width="1140" height="560" src="http://realfarmacy.com/wp-content/plugins/speed-booster-pack/inc/images/1x1.trans.gif" data-lazy-src="http://realfarmacy.com/wp-content/uploads/2018/02/breastcancerrr-1140x560.jpg" class="attachment-blogon-full-size size-blogon-full-size wp-post-image" alt="breastcancerrr" /><noscript><img width="1140" height="560" src="http://realfarmacy.com/wp-content/uploads/2018/02/breastcancerrr-1140x560.jpg" class="attachment-blogon-full-size size-blogon-full-size wp-post-image" alt="breastcancerrr" /></noscript></a>
+</div>
+<div class="latest-post-content">
+<h4><a href="http://realfarmacy.com/breast-cancer-risk/" rel="bookmark" title="Top Tips to Decrease Your Breast Cancer Risk">Top Tips to Decrease Your Breast Cancer Risk</a></h4>
+<p class="side-meta"><time class="entry-date" datetime="2018-02-16T10:39:02+00:00"> February 16, 2018</time></p>
+</div>
+</div>
+<div class="clearfix"></div>
+</li>
+<li>
+<div class="latest-post-items">
+<div class="latest-post-image">
+<a href="http://realfarmacy.com/homeopathic-illegal/" rel="bookmark" title="All Homeopathic Products Now Illegal?"><img width="1140" height="560" src="http://realfarmacy.com/wp-content/plugins/speed-booster-pack/inc/images/1x1.trans.gif" data-lazy-src="http://realfarmacy.com/wp-content/uploads/2018/02/homeopathy-1140x560.jpg" class="attachment-blogon-full-size size-blogon-full-size wp-post-image" alt="homeopathy" /><noscript><img width="1140" height="560" src="http://realfarmacy.com/wp-content/uploads/2018/02/homeopathy-1140x560.jpg" class="attachment-blogon-full-size size-blogon-full-size wp-post-image" alt="homeopathy" /></noscript></a>
+</div>
+<div class="latest-post-content">
+<h4><a href="http://realfarmacy.com/homeopathic-illegal/" rel="bookmark" title="All Homeopathic Products Now Illegal?">All Homeopathic Products Now Illegal?</a></h4>
+<p class="side-meta"><time class="entry-date" datetime="2018-02-16T01:00:09+00:00"> February 16, 2018</time></p>
+</div>
+</div>
+<div class="clearfix"></div>
+</li>
+<li>
+<div class="latest-post-items">
+<div class="latest-post-image">
+<a href="http://realfarmacy.com/vaccine-cause-dengue/" rel="bookmark" title="730,000 Filipino Children Receive Faulty Dengue Vaccine Which Causes Dengue Rather Than Preventing it"><img width="1140" height="560" src="http://realfarmacy.com/wp-content/plugins/speed-booster-pack/inc/images/1x1.trans.gif" data-lazy-src="http://realfarmacy.com/wp-content/uploads/2018/02/vaccinedengueee-1140x560.png" class="attachment-blogon-full-size size-blogon-full-size wp-post-image" alt="vaccinedengueee" /><noscript><img width="1140" height="560" src="http://realfarmacy.com/wp-content/uploads/2018/02/vaccinedengueee-1140x560.png" class="attachment-blogon-full-size size-blogon-full-size wp-post-image" alt="vaccinedengueee" /></noscript></a>
+</div>
+<div class="latest-post-content">
+<h4><a href="http://realfarmacy.com/vaccine-cause-dengue/" rel="bookmark" title="730,000 Filipino Children Receive Faulty Dengue Vaccine Which Causes Dengue Rather Than Preventing it">730,000 Filipino Children Receive Faulty Dengue Vaccine Which Causes Dengue Rather Than Preventing it</a></h4>
+<p class="side-meta"><time class="entry-date" datetime="2018-02-15T23:49:47+00:00"> February 15, 2018</time></p>
+</div>
+</div>
+<div class="clearfix"></div>
+</li>
+<li>
+<div class="latest-post-items">
+<div class="latest-post-image">
+<a href="http://realfarmacy.com/pine-nut/" rel="bookmark" title="How to Harvest Wild Pine Nuts"><img width="704" height="333" src="http://realfarmacy.com/wp-content/plugins/speed-booster-pack/inc/images/1x1.trans.gif" data-lazy-src="http://realfarmacy.com/wp-content/uploads/2018/02/harvest-pine-nuts.jpg" class="attachment-blogon-full-size size-blogon-full-size wp-post-image" alt="harvest pine nuts" srcset="http://realfarmacy.com/wp-content/uploads/2018/02/harvest-pine-nuts.jpg 704w, http://realfarmacy.com/wp-content/uploads/2018/02/harvest-pine-nuts-300x142.jpg 300w" sizes="(max-width: 704px) 100vw, 704px" /><noscript><img width="704" height="333" src="http://realfarmacy.com/wp-content/uploads/2018/02/harvest-pine-nuts.jpg" class="attachment-blogon-full-size size-blogon-full-size wp-post-image" alt="harvest pine nuts" srcset="http://realfarmacy.com/wp-content/uploads/2018/02/harvest-pine-nuts.jpg 704w, http://realfarmacy.com/wp-content/uploads/2018/02/harvest-pine-nuts-300x142.jpg 300w" sizes="(max-width: 704px) 100vw, 704px" /></noscript></a>
+</div>
+<div class="latest-post-content">
+<h4><a href="http://realfarmacy.com/pine-nut/" rel="bookmark" title="How to Harvest Wild Pine Nuts">How to Harvest Wild Pine Nuts</a></h4>
+<p class="side-meta"><time class="entry-date" datetime="2018-02-15T12:39:44+00:00"> February 15, 2018</time></p>
+</div>
+</div>
+<div class="clearfix"></div>
+</li>
+<li>
+<div class="latest-post-items">
+<div class="latest-post-image">
+<a href="http://realfarmacy.com/flu-safer-shot/" rel="bookmark" title="Doctor Warns: Getting the Flu Is Safer Than Getting the Flu Shot"><img width="1140" height="560" src="http://realfarmacy.com/wp-content/plugins/speed-booster-pack/inc/images/1x1.trans.gif" data-lazy-src="http://realfarmacy.com/wp-content/uploads/2018/02/flusaferthanflushottt-1140x560.jpg" class="attachment-blogon-full-size size-blogon-full-size wp-post-image" alt="flusaferthanflushottt" /><noscript><img width="1140" height="560" src="http://realfarmacy.com/wp-content/uploads/2018/02/flusaferthanflushottt-1140x560.jpg" class="attachment-blogon-full-size size-blogon-full-size wp-post-image" alt="flusaferthanflushottt" /></noscript></a>
+</div>
+<div class="latest-post-content">
+<h4><a href="http://realfarmacy.com/flu-safer-shot/" rel="bookmark" title="Doctor Warns: Getting the Flu Is Safer Than Getting the Flu Shot">Doctor Warns: Getting the Flu Is Safer Than Getting the Flu Shot</a></h4>
+<p class="side-meta"><time class="entry-date" datetime="2018-02-15T11:36:20+00:00"> February 15, 2018</time></p>
+</div>
+</div>
+<div class="clearfix"></div>
+</li>
+<li>
+<div class="latest-post-items">
+<div class="latest-post-image">
+<a href="http://realfarmacy.com/soda-brain/" rel="bookmark" title="Did You Know? 63% of Americans Actively Avoid Soda Pop"><img width="545" height="283" src="http://realfarmacy.com/wp-content/plugins/speed-booster-pack/inc/images/1x1.trans.gif" data-lazy-src="http://realfarmacy.com/wp-content/uploads/2018/02/braincocacola.png" class="attachment-blogon-full-size size-blogon-full-size wp-post-image" alt="braincocacola" srcset="http://realfarmacy.com/wp-content/uploads/2018/02/braincocacola.png 545w, http://realfarmacy.com/wp-content/uploads/2018/02/braincocacola-300x156.png 300w" sizes="(max-width: 545px) 100vw, 545px" /><noscript><img width="545" height="283" src="http://realfarmacy.com/wp-content/uploads/2018/02/braincocacola.png" class="attachment-blogon-full-size size-blogon-full-size wp-post-image" alt="braincocacola" srcset="http://realfarmacy.com/wp-content/uploads/2018/02/braincocacola.png 545w, http://realfarmacy.com/wp-content/uploads/2018/02/braincocacola-300x156.png 300w" sizes="(max-width: 545px) 100vw, 545px" /></noscript></a>
+</div>
+<div class="latest-post-content">
+<h4><a href="http://realfarmacy.com/soda-brain/" rel="bookmark" title="Did You Know? 63% of Americans Actively Avoid Soda Pop">Did You Know? 63% of Americans Actively Avoid Soda Pop</a></h4>
+<p class="side-meta"><time class="entry-date" datetime="2018-02-15T11:28:23+00:00"> February 15, 2018</time></p>
+</div>
+</div>
+<div class="clearfix"></div>
+</li>
+<li>
+<div class="latest-post-items">
+<div class="latest-post-image">
+<a href="http://realfarmacy.com/maine-cannabis-work/" rel="bookmark" title="Maine Becomes First State to Protect Cannabis Use Outside of Work"><img width="800" height="420" src="http://realfarmacy.com/wp-content/plugins/speed-booster-pack/inc/images/1x1.trans.gif" data-lazy-src="http://realfarmacy.com/wp-content/uploads/2018/02/mainecannabisss.png" class="attachment-blogon-full-size size-blogon-full-size wp-post-image" alt="mainecannabisss" srcset="http://realfarmacy.com/wp-content/uploads/2018/02/mainecannabisss.png 800w, http://realfarmacy.com/wp-content/uploads/2018/02/mainecannabisss-300x158.png 300w, http://realfarmacy.com/wp-content/uploads/2018/02/mainecannabisss-768x403.png 768w" sizes="(max-width: 800px) 100vw, 800px" /><noscript><img width="800" height="420" src="http://realfarmacy.com/wp-content/uploads/2018/02/mainecannabisss.png" class="attachment-blogon-full-size size-blogon-full-size wp-post-image" alt="mainecannabisss" srcset="http://realfarmacy.com/wp-content/uploads/2018/02/mainecannabisss.png 800w, http://realfarmacy.com/wp-content/uploads/2018/02/mainecannabisss-300x158.png 300w, http://realfarmacy.com/wp-content/uploads/2018/02/mainecannabisss-768x403.png 768w" sizes="(max-width: 800px) 100vw, 800px" /></noscript></a>
+</div>
+<div class="latest-post-content">
+<h4><a href="http://realfarmacy.com/maine-cannabis-work/" rel="bookmark" title="Maine Becomes First State to Protect Cannabis Use Outside of Work">Maine Becomes First State to Protect Cannabis Use Outside of Work</a></h4>
+<p class="side-meta"><time class="entry-date" datetime="2018-02-13T12:58:06+00:00"> February 13, 2018</time></p>
+</div>
+</div>
+<div class="clearfix"></div>
+</li>
+<li>
+<div class="latest-post-items">
+<div class="latest-post-image">
+<a href="http://realfarmacy.com/how-to-cut-your-watering-bill-in-half/" rel="bookmark" title="How to Cut Your Water Bill in Half With Ollas"><img width="560" height="292" src="http://realfarmacy.com/wp-content/plugins/speed-booster-pack/inc/images/1x1.trans.gif" data-lazy-src="http://realfarmacy.com/wp-content/uploads/2014/01/olla-feat.jpg" class="attachment-blogon-full-size size-blogon-full-size wp-post-image" alt="olla feat" srcset="http://realfarmacy.com/wp-content/uploads/2014/01/olla-feat.jpg 560w, http://realfarmacy.com/wp-content/uploads/2014/01/olla-feat-300x156.jpg 300w" sizes="(max-width: 560px) 100vw, 560px" /><noscript><img width="560" height="292" src="http://realfarmacy.com/wp-content/uploads/2014/01/olla-feat.jpg" class="attachment-blogon-full-size size-blogon-full-size wp-post-image" alt="olla feat" srcset="http://realfarmacy.com/wp-content/uploads/2014/01/olla-feat.jpg 560w, http://realfarmacy.com/wp-content/uploads/2014/01/olla-feat-300x156.jpg 300w" sizes="(max-width: 560px) 100vw, 560px" /></noscript></a>
+</div>
+<div class="latest-post-content">
+<h4><a href="http://realfarmacy.com/how-to-cut-your-watering-bill-in-half/" rel="bookmark" title="How to Cut Your Water Bill in Half With Ollas">How to Cut Your Water Bill in Half With Ollas</a></h4>
+<p class="side-meta"><time class="entry-date" datetime="2018-02-10T20:04:38+00:00"> February 10, 2018</time></p>
+</div>
+</div>
+<div class="clearfix"></div>
+</li>
+<li>
+<div class="latest-post-items">
+<div class="latest-post-image">
+<a href="http://realfarmacy.com/ginger-wrap-cough/" rel="bookmark" title="Wrapped Ginger: Removes Mucus From Your Lungs In One Night And Cures Bad Cough"><img width="800" height="430" src="http://realfarmacy.com/wp-content/plugins/speed-booster-pack/inc/images/1x1.trans.gif" data-lazy-src="http://realfarmacy.com/wp-content/uploads/2018/02/gingercough.jpg" class="attachment-blogon-full-size size-blogon-full-size wp-post-image" alt="gingercough" srcset="http://realfarmacy.com/wp-content/uploads/2018/02/gingercough.jpg 800w, http://realfarmacy.com/wp-content/uploads/2018/02/gingercough-300x161.jpg 300w, http://realfarmacy.com/wp-content/uploads/2018/02/gingercough-768x413.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /><noscript><img width="800" height="430" src="http://realfarmacy.com/wp-content/uploads/2018/02/gingercough.jpg" class="attachment-blogon-full-size size-blogon-full-size wp-post-image" alt="gingercough" srcset="http://realfarmacy.com/wp-content/uploads/2018/02/gingercough.jpg 800w, http://realfarmacy.com/wp-content/uploads/2018/02/gingercough-300x161.jpg 300w, http://realfarmacy.com/wp-content/uploads/2018/02/gingercough-768x413.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></noscript></a>
+</div>
+<div class="latest-post-content">
+<h4><a href="http://realfarmacy.com/ginger-wrap-cough/" rel="bookmark" title="Wrapped Ginger: Removes Mucus From Your Lungs In One Night And Cures Bad Cough">Wrapped Ginger: Removes Mucus From Your Lungs In One Night And Cures Bad Cough</a></h4>
+<p class="side-meta"><time class="entry-date" datetime="2018-02-09T12:42:42+00:00"> February 9, 2018</time></p>
+</div>
+</div>
+<div class="clearfix"></div>
+</li>
+<li>
+<div class="latest-post-items">
+<div class="latest-post-image">
+<a href="http://realfarmacy.com/vertigo-cause-symptom-treatment/" rel="bookmark" title="Vertigo: Causes, Symptoms and Treatment"><img width="704" height="275" src="http://realfarmacy.com/wp-content/plugins/speed-booster-pack/inc/images/1x1.trans.gif" data-lazy-src="http://realfarmacy.com/wp-content/uploads/2018/02/vertigo.jpg" class="attachment-blogon-full-size size-blogon-full-size wp-post-image" alt="vertigo" srcset="http://realfarmacy.com/wp-content/uploads/2018/02/vertigo.jpg 704w, http://realfarmacy.com/wp-content/uploads/2018/02/vertigo-300x117.jpg 300w" sizes="(max-width: 704px) 100vw, 704px" /><noscript><img width="704" height="275" src="http://realfarmacy.com/wp-content/uploads/2018/02/vertigo.jpg" class="attachment-blogon-full-size size-blogon-full-size wp-post-image" alt="vertigo" srcset="http://realfarmacy.com/wp-content/uploads/2018/02/vertigo.jpg 704w, http://realfarmacy.com/wp-content/uploads/2018/02/vertigo-300x117.jpg 300w" sizes="(max-width: 704px) 100vw, 704px" /></noscript></a>
+</div>
+<div class="latest-post-content">
+<h4><a href="http://realfarmacy.com/vertigo-cause-symptom-treatment/" rel="bookmark" title="Vertigo: Causes, Symptoms and Treatment">Vertigo: Causes, Symptoms and Treatment</a></h4>
+<p class="side-meta"><time class="entry-date" datetime="2018-02-09T12:20:30+00:00"> February 9, 2018</time></p>
+</div>
+</div>
+<div class="clearfix"></div>
+</li>
+<li>
+<div class="latest-post-items">
+<div class="latest-post-image">
+<a href="http://realfarmacy.com/lost-mayan-city/" rel="bookmark" title="Hidden Mayan City of 10 Million People Discovered in Guatemala"><img width="1024" height="560" src="http://realfarmacy.com/wp-content/plugins/speed-booster-pack/inc/images/1x1.trans.gif" data-lazy-src="http://realfarmacy.com/wp-content/uploads/2018/02/5919534691_f724eb14d5_b-1024x560.jpg" class="attachment-blogon-full-size size-blogon-full-size wp-post-image" alt="Quintana Roo, Mexico" /><noscript><img width="1024" height="560" src="http://realfarmacy.com/wp-content/uploads/2018/02/5919534691_f724eb14d5_b-1024x560.jpg" class="attachment-blogon-full-size size-blogon-full-size wp-post-image" alt="Quintana Roo, Mexico" /></noscript></a>
+</div>
+<div class="latest-post-content">
+<h4><a href="http://realfarmacy.com/lost-mayan-city/" rel="bookmark" title="Hidden Mayan City of 10 Million People Discovered in Guatemala">Hidden Mayan City of 10 Million People Discovered in Guatemala</a></h4>
+<p class="side-meta"><time class="entry-date" datetime="2018-02-08T20:34:48+00:00"> February 8, 2018</time></p>
+</div>
+</div>
+<div class="clearfix"></div>
+</li>
+<li>
+<div class="latest-post-items">
+<div class="latest-post-image">
+<a href="http://realfarmacy.com/cholesterol-juice/" rel="bookmark" title="Study Finds Pomegranate Outperforms Lipitor Drug For Managing Cholesterol Level"><img width="800" height="419" src="http://realfarmacy.com/wp-content/plugins/speed-booster-pack/inc/images/1x1.trans.gif" data-lazy-src="http://realfarmacy.com/wp-content/uploads/2018/02/Cholesteroljuiceee.png" class="attachment-blogon-full-size size-blogon-full-size wp-post-image" alt="Cholesteroljuiceee" srcset="http://realfarmacy.com/wp-content/uploads/2018/02/Cholesteroljuiceee.png 800w, http://realfarmacy.com/wp-content/uploads/2018/02/Cholesteroljuiceee-300x157.png 300w, http://realfarmacy.com/wp-content/uploads/2018/02/Cholesteroljuiceee-768x402.png 768w" sizes="(max-width: 800px) 100vw, 800px" /><noscript><img width="800" height="419" src="http://realfarmacy.com/wp-content/uploads/2018/02/Cholesteroljuiceee.png" class="attachment-blogon-full-size size-blogon-full-size wp-post-image" alt="Cholesteroljuiceee" srcset="http://realfarmacy.com/wp-content/uploads/2018/02/Cholesteroljuiceee.png 800w, http://realfarmacy.com/wp-content/uploads/2018/02/Cholesteroljuiceee-300x157.png 300w, http://realfarmacy.com/wp-content/uploads/2018/02/Cholesteroljuiceee-768x402.png 768w" sizes="(max-width: 800px) 100vw, 800px" /></noscript></a>
+</div>
+<div class="latest-post-content">
+<h4><a href="http://realfarmacy.com/cholesterol-juice/" rel="bookmark" title="Study Finds Pomegranate Outperforms Lipitor Drug For Managing Cholesterol Level">Study Finds Pomegranate Outperforms Lipitor Drug For Managing Cholesterol Level</a></h4>
+<p class="side-meta"><time class="entry-date" datetime="2018-02-08T20:05:36+00:00"> February 8, 2018</time></p>
+</div>
+</div>
+<div class="clearfix"></div>
+</li>
+<li>
+<div class="latest-post-items">
+<div class="latest-post-image">
+<a href="http://realfarmacy.com/detect-fake-honey/" rel="bookmark" title="How to Detect Fake Honey (It is Everywhere). Just Use This Simple Trick!"><img width="800" height="427" src="http://realfarmacy.com/wp-content/plugins/speed-booster-pack/inc/images/1x1.trans.gif" data-lazy-src="http://realfarmacy.com/wp-content/uploads/2018/02/fakehoneyyy.png" class="attachment-blogon-full-size size-blogon-full-size wp-post-image" alt="fakehoneyyy" srcset="http://realfarmacy.com/wp-content/uploads/2018/02/fakehoneyyy.png 800w, http://realfarmacy.com/wp-content/uploads/2018/02/fakehoneyyy-300x160.png 300w, http://realfarmacy.com/wp-content/uploads/2018/02/fakehoneyyy-768x410.png 768w" sizes="(max-width: 800px) 100vw, 800px" /><noscript><img width="800" height="427" src="http://realfarmacy.com/wp-content/uploads/2018/02/fakehoneyyy.png" class="attachment-blogon-full-size size-blogon-full-size wp-post-image" alt="fakehoneyyy" srcset="http://realfarmacy.com/wp-content/uploads/2018/02/fakehoneyyy.png 800w, http://realfarmacy.com/wp-content/uploads/2018/02/fakehoneyyy-300x160.png 300w, http://realfarmacy.com/wp-content/uploads/2018/02/fakehoneyyy-768x410.png 768w" sizes="(max-width: 800px) 100vw, 800px" /></noscript></a>
+</div>
+<div class="latest-post-content">
+<h4><a href="http://realfarmacy.com/detect-fake-honey/" rel="bookmark" title="How to Detect Fake Honey (It is Everywhere). Just Use This Simple Trick!">How to Detect Fake Honey (It is Everywhere). Just Use This Simple Trick!</a></h4>
+<p class="side-meta"><time class="entry-date" datetime="2018-02-08T19:49:10+00:00"> February 8, 2018</time></p>
+</div>
+</div>
+<div class="clearfix"></div>
+</li>
+<li>
+<div class="latest-post-items">
+<div class="latest-post-image">
+<a href="http://realfarmacy.com/100-year-old-drug-reverses-autism-symptoms/" rel="bookmark" title="100 Year Old Drug Reverses Autism Symptoms"><img width="800" height="419" src="http://realfarmacy.com/wp-content/plugins/speed-booster-pack/inc/images/1x1.trans.gif" data-lazy-src="http://realfarmacy.com/wp-content/uploads/2018/02/autismmm.jpg" class="attachment-blogon-full-size size-blogon-full-size wp-post-image" alt="autismmm" srcset="http://realfarmacy.com/wp-content/uploads/2018/02/autismmm.jpg 800w, http://realfarmacy.com/wp-content/uploads/2018/02/autismmm-300x157.jpg 300w, http://realfarmacy.com/wp-content/uploads/2018/02/autismmm-768x402.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /><noscript><img width="800" height="419" src="http://realfarmacy.com/wp-content/uploads/2018/02/autismmm.jpg" class="attachment-blogon-full-size size-blogon-full-size wp-post-image" alt="autismmm" srcset="http://realfarmacy.com/wp-content/uploads/2018/02/autismmm.jpg 800w, http://realfarmacy.com/wp-content/uploads/2018/02/autismmm-300x157.jpg 300w, http://realfarmacy.com/wp-content/uploads/2018/02/autismmm-768x402.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></noscript></a>
+</div>
+<div class="latest-post-content">
+<h4><a href="http://realfarmacy.com/100-year-old-drug-reverses-autism-symptoms/" rel="bookmark" title="100 Year Old Drug Reverses Autism Symptoms">100 Year Old Drug Reverses Autism Symptoms</a></h4>
+<p class="side-meta"><time class="entry-date" datetime="2018-02-08T16:52:49+00:00"> February 8, 2018</time></p>
+</div>
+</div>
+<div class="clearfix"></div>
+</li>
+<li>
+<div class="latest-post-items">
+<div class="latest-post-image">
+<a href="http://realfarmacy.com/mcdonalds-fries/" rel="bookmark" title="The Big Food Discrepancy: Why Are American Foods More Toxic Than European Versions?"><img width="800" height="419" src="http://realfarmacy.com/wp-content/plugins/speed-booster-pack/inc/images/1x1.trans.gif" data-lazy-src="http://realfarmacy.com/wp-content/uploads/2018/02/frenchfries.jpg" class="attachment-blogon-full-size size-blogon-full-size wp-post-image" alt="frenchfries" srcset="http://realfarmacy.com/wp-content/uploads/2018/02/frenchfries.jpg 800w, http://realfarmacy.com/wp-content/uploads/2018/02/frenchfries-300x157.jpg 300w, http://realfarmacy.com/wp-content/uploads/2018/02/frenchfries-768x402.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /><noscript><img width="800" height="419" src="http://realfarmacy.com/wp-content/uploads/2018/02/frenchfries.jpg" class="attachment-blogon-full-size size-blogon-full-size wp-post-image" alt="frenchfries" srcset="http://realfarmacy.com/wp-content/uploads/2018/02/frenchfries.jpg 800w, http://realfarmacy.com/wp-content/uploads/2018/02/frenchfries-300x157.jpg 300w, http://realfarmacy.com/wp-content/uploads/2018/02/frenchfries-768x402.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></noscript></a>
+</div>
+<div class="latest-post-content">
+<h4><a href="http://realfarmacy.com/mcdonalds-fries/" rel="bookmark" title="The Big Food Discrepancy: Why Are American Foods More Toxic Than European Versions?">The Big Food Discrepancy: Why Are American Foods More Toxic Than European Versions?</a></h4>
+<p class="side-meta"><time class="entry-date" datetime="2018-02-08T16:35:25+00:00"> February 8, 2018</time></p>
+</div>
+</div>
+<div class="clearfix"></div>
+</li>
+<li>
+<div class="latest-post-items">
+<div class="latest-post-image">
+<a href="http://realfarmacy.com/cdc-resign-vaccine/" rel="bookmark" title="Centers For Disease Control Head Forced to Resign After Being Caught Buying Shares in Vaccine and Big Tobacco Companies"><img width="802" height="419" src="http://realfarmacy.com/wp-content/plugins/speed-booster-pack/inc/images/1x1.trans.gif" data-lazy-src="http://realfarmacy.com/wp-content/uploads/2018/02/cdcBrendaFitzgerald.png" class="attachment-blogon-full-size size-blogon-full-size wp-post-image" alt="cdcBrendaFitzgerald" srcset="http://realfarmacy.com/wp-content/uploads/2018/02/cdcBrendaFitzgerald.png 802w, http://realfarmacy.com/wp-content/uploads/2018/02/cdcBrendaFitzgerald-300x157.png 300w, http://realfarmacy.com/wp-content/uploads/2018/02/cdcBrendaFitzgerald-768x401.png 768w" sizes="(max-width: 802px) 100vw, 802px" /><noscript><img width="802" height="419" src="http://realfarmacy.com/wp-content/uploads/2018/02/cdcBrendaFitzgerald.png" class="attachment-blogon-full-size size-blogon-full-size wp-post-image" alt="cdcBrendaFitzgerald" srcset="http://realfarmacy.com/wp-content/uploads/2018/02/cdcBrendaFitzgerald.png 802w, http://realfarmacy.com/wp-content/uploads/2018/02/cdcBrendaFitzgerald-300x157.png 300w, http://realfarmacy.com/wp-content/uploads/2018/02/cdcBrendaFitzgerald-768x401.png 768w" sizes="(max-width: 802px) 100vw, 802px" /></noscript></a>
+</div>
+<div class="latest-post-content">
+<h4><a href="http://realfarmacy.com/cdc-resign-vaccine/" rel="bookmark" title="Centers For Disease Control Head Forced to Resign After Being Caught Buying Shares in Vaccine and Big Tobacco Companies">Centers For Disease Control Head Forced to Resign After Being Caught Buying Shares in Vaccine and Big Tobacco Companies</a></h4>
+<p class="side-meta"><time class="entry-date" datetime="2018-02-08T16:04:49+00:00"> February 8, 2018</time></p>
+</div>
+</div>
+<div class="clearfix"></div>
+</li>
+<li>
+<div class="latest-post-items">
+<div class="latest-post-image">
+<a href="http://realfarmacy.com/cause-depression-overlooked/" rel="bookmark" title="The Real Cause of Depression That Has Been Completely Overlooked"><img width="704" height="333" src="http://realfarmacy.com/wp-content/plugins/speed-booster-pack/inc/images/1x1.trans.gif" data-lazy-src="http://realfarmacy.com/wp-content/uploads/2018/02/depressioncause.jpg" class="attachment-blogon-full-size size-blogon-full-size wp-post-image" alt="" srcset="http://realfarmacy.com/wp-content/uploads/2018/02/depressioncause.jpg 704w, http://realfarmacy.com/wp-content/uploads/2018/02/depressioncause-300x142.jpg 300w" sizes="(max-width: 704px) 100vw, 704px" /><noscript><img width="704" height="333" src="http://realfarmacy.com/wp-content/uploads/2018/02/depressioncause.jpg" class="attachment-blogon-full-size size-blogon-full-size wp-post-image" alt="" srcset="http://realfarmacy.com/wp-content/uploads/2018/02/depressioncause.jpg 704w, http://realfarmacy.com/wp-content/uploads/2018/02/depressioncause-300x142.jpg 300w" sizes="(max-width: 704px) 100vw, 704px" /></noscript></a>
+</div>
+<div class="latest-post-content">
+<h4><a href="http://realfarmacy.com/cause-depression-overlooked/" rel="bookmark" title="The Real Cause of Depression That Has Been Completely Overlooked">The Real Cause of Depression That Has Been Completely Overlooked</a></h4>
+<p class="side-meta"><time class="entry-date" datetime="2018-02-08T15:22:17+00:00"> February 8, 2018</time></p>
+</div>
+</div>
+<div class="clearfix"></div>
+</li>
+<li>
+<div class="latest-post-items">
+<div class="latest-post-image">
+<a href="http://realfarmacy.com/plastic-gender/" rel="bookmark" title="Gender-Bending Chemicals in Plastic, Linked to Breast and Prostate Cancer, Found in 86% of Teen Bodies"><img width="704" height="369" src="http://realfarmacy.com/wp-content/plugins/speed-booster-pack/inc/images/1x1.trans.gif" data-lazy-src="http://realfarmacy.com/wp-content/uploads/2018/02/hormone_bpa-plastic_cancer.jpg" class="attachment-blogon-full-size size-blogon-full-size wp-post-image" alt="hormone_bpa-plastic_cancer" srcset="http://realfarmacy.com/wp-content/uploads/2018/02/hormone_bpa-plastic_cancer.jpg 704w, http://realfarmacy.com/wp-content/uploads/2018/02/hormone_bpa-plastic_cancer-300x157.jpg 300w" sizes="(max-width: 704px) 100vw, 704px" /><noscript><img width="704" height="369" src="http://realfarmacy.com/wp-content/uploads/2018/02/hormone_bpa-plastic_cancer.jpg" class="attachment-blogon-full-size size-blogon-full-size wp-post-image" alt="hormone_bpa-plastic_cancer" srcset="http://realfarmacy.com/wp-content/uploads/2018/02/hormone_bpa-plastic_cancer.jpg 704w, http://realfarmacy.com/wp-content/uploads/2018/02/hormone_bpa-plastic_cancer-300x157.jpg 300w" sizes="(max-width: 704px) 100vw, 704px" /></noscript></a>
+</div>
+<div class="latest-post-content">
+<h4><a href="http://realfarmacy.com/plastic-gender/" rel="bookmark" title="Gender-Bending Chemicals in Plastic, Linked to Breast and Prostate Cancer, Found in 86% of Teen Bodies">Gender-Bending Chemicals in Plastic, Linked to Breast and Prostate Cancer, Found in 86% of Teen Bodies</a></h4>
+<p class="side-meta"><time class="entry-date" datetime="2018-02-06T10:16:31+00:00"> February 6, 2018</time></p>
+</div>
+</div>
+<div class="clearfix"></div>
+</li>
+<li>
+<div class="latest-post-items">
+<div class="latest-post-image">
+<a href="http://realfarmacy.com/flu-shot-630-percent-spread/" rel="bookmark" title="Study: 630% More “Aerosolized Flu Virus Particles” Emitted by People Who Received Flu Shots&#8230; Flu Shots Actually Spread the Flu"><img width="800" height="450" src="http://realfarmacy.com/wp-content/plugins/speed-booster-pack/inc/images/1x1.trans.gif" data-lazy-src="http://realfarmacy.com/wp-content/uploads/2018/02/flushot630.png" class="attachment-blogon-full-size size-blogon-full-size wp-post-image" alt="flushot630" srcset="http://realfarmacy.com/wp-content/uploads/2018/02/flushot630.png 800w, http://realfarmacy.com/wp-content/uploads/2018/02/flushot630-300x169.png 300w, http://realfarmacy.com/wp-content/uploads/2018/02/flushot630-768x432.png 768w" sizes="(max-width: 800px) 100vw, 800px" /><noscript><img width="800" height="450" src="http://realfarmacy.com/wp-content/uploads/2018/02/flushot630.png" class="attachment-blogon-full-size size-blogon-full-size wp-post-image" alt="flushot630" srcset="http://realfarmacy.com/wp-content/uploads/2018/02/flushot630.png 800w, http://realfarmacy.com/wp-content/uploads/2018/02/flushot630-300x169.png 300w, http://realfarmacy.com/wp-content/uploads/2018/02/flushot630-768x432.png 768w" sizes="(max-width: 800px) 100vw, 800px" /></noscript></a>
+</div>
+<div class="latest-post-content">
+<h4><a href="http://realfarmacy.com/flu-shot-630-percent-spread/" rel="bookmark" title="Study: 630% More “Aerosolized Flu Virus Particles” Emitted by People Who Received Flu Shots&#8230; Flu Shots Actually Spread the Flu">Study: 630% More “Aerosolized Flu Virus Particles” Emitted by People Who Received Flu Shots&#8230; Flu Shots Actually Spread the Flu</a></h4>
+<p class="side-meta"><time class="entry-date" datetime="2018-02-01T11:53:03+00:00"> February 1, 2018</time></p>
+</div>
+</div>
+<div class="clearfix"></div>
+</li>
+</ul>
+</div>
+</div> 
+</div> 
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer id="footer" class="footer">
+<div class="container">
+<div class="footer-inner">
+<div class="row">
+<div class="col-md-3 col-sm-6 footer-widget">
+<div class="footer-widget"><div id="categories-2" class="widget widget_categories"><h3 class="widget_title">Categories</h3><label class="screen-reader-text" for="cat">Categories</label><select name='cat' id='cat' class='postform'>
+<option value='-1'>Select Category</option>
+<option class="level-0" value="53">&#8220;Food&#8221; to Avoid</option>
+<option class="level-0" value="36">A Paradigm Shift</option>
+<option class="level-0" value="1019">animals</option>
+<option class="level-0" value="78">Apartment Gardening</option>
+<option class="level-0" value="364">Aquaponics</option>
+<option class="level-0" value="75">Articles</option>
+<option class="level-0" value="88">Bees</option>
+<option class="level-0" value="40">Big Pharma</option>
+<option class="level-0" value="163">Blacksmithing</option>
+<option class="level-0" value="336">Bonsai</option>
+<option class="level-0" value="12">Breaking Stories</option>
+<option class="level-0" value="108">Bug Repellant</option>
+<option class="level-0" value="73">Canning Your Own Food</option>
+<option class="level-0" value="258">Chickens</option>
+<option class="level-0" value="99">Cleaning Products</option>
+<option class="level-0" value="993">composting</option>
+<option class="level-0" value="46">Consciousness</option>
+<option class="level-0" value="33">Detox</option>
+<option class="level-0" value="17">Diet</option>
+<option class="level-0" value="22">Do It Yourself</option>
+<option class="level-0" value="154">Documentaries</option>
+<option class="level-0" value="100">Edible Yards</option>
+<option class="level-0" value="98">Farm to Table</option>
+<option class="level-0" value="138">First Aid</option>
+<option class="level-0" value="95">Fluoride</option>
+<option class="level-0" value="70">Fruit</option>
+<option class="level-0" value="37">GMOs</option>
+<option class="level-0" value="64">Good Healthy Food</option>
+<option class="level-0" value="204">Government Watch</option>
+<option class="level-0" value="101">Greenhouses</option>
+<option class="level-0" value="50">Grow It Yourself</option>
+<option class="level-0" value="61">Growing in the Shade</option>
+<option class="level-0" value="16">Health</option>
+<option class="level-0" value="23">Health and Beauty</option>
+<option class="level-0" value="31">Healthy Recipes</option>
+<option class="level-0" value="38">Hemp</option>
+<option class="level-0" value="109">Herbs</option>
+<option class="level-0" value="146">Home Building</option>
+<option class="level-0" value="34">Humor</option>
+<option class="level-0" value="32">Juicing</option>
+<option class="level-0" value="93">Laundry</option>
+<option class="level-0" value="18">Media</option>
+<option class="level-0" value="112">Medical Marijuana</option>
+<option class="level-0" value="19">Memes</option>
+<option class="level-0" value="152">Memory</option>
+<option class="level-0" value="107">Mushrooms</option>
+<option class="level-0" value="80">Natural Relief</option>
+<option class="level-0" value="939">Nature</option>
+<option class="level-0" value="156">Off Grid</option>
+<option class="level-0" value="125">Oils</option>
+<option class="level-0" value="58">Peace of Mind</option>
+<option class="level-0" value="111">Permaculture</option>
+<option class="level-0" value="221">Poison</option>
+<option class="level-0" value="81">Protein</option>
+<option class="level-0" value="114">Rain Collecting</option>
+<option class="level-0" value="74">Raised Bed Gardening</option>
+<option class="level-0" value="94">Repurposing</option>
+<option class="level-0" value="97">Rooftop Gardening</option>
+<option class="level-0" value="65">Seeds</option>
+<option class="level-0" value="139">Sleep</option>
+<option class="level-0" value="168">Solar</option>
+<option class="level-0" value="28">Spices</option>
+<option class="level-0" value="55">Straw Bale Gardening</option>
+<option class="level-0" value="104">Sunlight</option>
+<option class="level-0" value="169">Technology</option>
+<option class="level-0" value="48">Toons</option>
+<option class="level-0" value="96">Vaccines</option>
+<option class="level-0" value="77">Vegetables</option>
+<option class="level-0" value="41">Videos</option>
+</select>
+<script type='text/javascript'>
+/* <![CDATA[ */
+(function() {
+	var dropdown = document.getElementById( "cat" );
+	function onCatChange() {
+		if ( dropdown.options[ dropdown.selectedIndex ].value > 0 ) {
+			location.href = "http://realfarmacy.com/?cat=" + dropdown.options[ dropdown.selectedIndex ].value;
+		}
+	}
+	dropdown.onchange = onCatChange;
+})();
+/* ]]> */
+</script>
+</div></div>
+</div> 
+ <div class="col-md-3 col-sm-6 footer-widget">
+<div class="footer-widget"><div id="search-2" class="widget widget_search">
+<form role="form" method="get" id="searchform" action="http://realfarmacy.com/">
+<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" title="Search for:">
+</form></div></div> </div> 
+<div class="col-md-3 col-sm-6 footer-widget">
+<div class="footer-widget"><div id="pages-3" class="widget widget_pages"><h3 class="widget_title">Pages</h3> <ul>
+<li class="page_item page-item-7785"><a href="http://realfarmacy.com/dmca/">DMCA</a></li>
+<li class="page_item page-item-159 page_item_has_children"><a href="http://realfarmacy.com/legal-disclaimer/">Legal Disclaimer</a>
+<ul class='children'>
+<li class="page_item page-item-20573"><a href="http://realfarmacy.com/legal-disclaimer/privacy-policy/">Privacy Policy</a></li>
+</ul>
+</li>
+</ul>
+</div></div> </div> 
+<div class="col-md-3 col-sm-6 footer-widget">
+<div class="footer-widget"><div id="text-4" class="widget widget_text"> <div class="textwidget"><img src="http://realfarmacy.com/wp-content/uploads/2017/11/Screen-Shot-2017-11-10-at-5.43.43-AM.png" < div>
+</div></div> </div> 
+</div>
+</div>
+</div>
+</footer>
+<div class="footer-bottom">
+<div class="container">
+<div class="row">
+<div class="col-sm-12 text-center">
+<div class="copyright-info">
+© 2017 REALfarmacy.com </div>
+<div class="footer-social-buttons">
+<ul class="unstyled">
+<li><a class="facebook" href="https://www.facebook.com/REALfarmacyCOM/" target="_blank">Facebook</a></li>
+<li><a class="twitter" href="https://twitter.com/realfarmacy" target="_blank">Twitter</a></li>
+<li><a class="g-plus" href="https://plus.google.com/+Realfarmacy" target="_blank">Google Plus</a></li>
+<li><a class="instagram" href="https://www.instagram.com/realfarmacy/" target="_blank">Instagram</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({flush: true});
+</script><script type='text/javascript' src='http://realfarmacy.com/wp-content/plugins/speed-booster-pack/js/sbp-lazy-load.min.js'></script>
+<script type='text/javascript' src='http://realfarmacy.com/wp-content/themes/blogon%204/js/skip-link-focus-fix.js'></script>
+<script type='text/javascript' src='http://realfarmacy.com/wp-includes/js/wp-embed.min.js'></script>
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=433619846727554&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="upprev_box"><h6>Read previous post:</h6><div class="upprev_excerpt upprev_thumbnail"><a href="http://realfarmacy.com/main-reasons-acne/" title="The 2 Main Reasons You Have Acne (and what to do about it)" class="upprev_thumbnail" rel="This Family Never Ate Organic. Watch What Happens To Their Bodies As Soon As They Make The Switch"><img width="48" height="25" src="http://realfarmacy.com/wp-content/plugins/speed-booster-pack/inc/images/1x1.trans.gif" data-lazy-src="http://realfarmacy.com/wp-content/uploads/2015/05/clearacnenaturally.jpg" class="iworks_upprev_thumb wp-post-image" alt="clearacnenaturally" title="The 2 Main Reasons You Have Acne (and what to do about it)" srcset="http://realfarmacy.com/wp-content/uploads/2015/05/clearacnenaturally.jpg 560w, http://realfarmacy.com/wp-content/uploads/2015/05/clearacnenaturally-300x156.jpg 300w" sizes="(max-width: 48px) 100vw, 48px" /><noscript><img width="48" height="25" src="http://realfarmacy.com/wp-content/uploads/2015/05/clearacnenaturally.jpg" class="iworks_upprev_thumb wp-post-image" alt="clearacnenaturally" title="The 2 Main Reasons You Have Acne (and what to do about it)" srcset="http://realfarmacy.com/wp-content/uploads/2015/05/clearacnenaturally.jpg 560w, http://realfarmacy.com/wp-content/uploads/2015/05/clearacnenaturally-300x156.jpg 300w" sizes="(max-width: 48px) 100vw, 48px" /></noscript></a><h5><a href="http://realfarmacy.com/main-reasons-acne/" rel="This Family Never Ate Organic. Watch What Happens To Their Bodies As Soon As They Make The Switch">The 2 Main Reasons You Have Acne (and what to do about it)</a></h5><p>by DAVID BENJAMIN Acne is an inflammatory skin condition that can have many causes and as someone who has spent...</p></div><a id="upprev_close" href="#" rel="close">Close</a></div></body>
+</html>
