@@ -1,0 +1,885 @@
+http://www.aljazeera.com/programmes/peopleandpower/episodes.html
+﻿
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0 maximum-scale=1.0, minimal-ui" />
+
+
+
+
+
+    
+
+
+<!-- header tags -->
+<meta name="guid" content="2008610141059592441"><title>Episodes - Al Jazeera English</title><meta name="title" content="Episodes"><meta name="description" content=""><meta name="keywords" content=""><meta name="GUID" content="2008610141059592441"><meta name="Parent_GUID" content="200852516720151116"><meta property="og:description" content=""><meta property="og:url" content="http://www.aljazeera.com/programmes/peopleandpower/episodes.html"><meta property="og:title" content="Episodes"><meta name="url" content="http://www.aljazeera.com/programmes/peopleandpower/episodes.html"><meta property="og:internalurl" content="http://www.aljazeera.com/programmes/peopleandpower/episodes.html"><meta name="ShortURL" content=""><meta property="og:image" content="http://www.aljazeera.com"><meta property="twitter:title" content="Episodes"><meta property="twitter:description" content=""><meta http-equiv="Last-Modified" name="LastModifiedDate" content="Fri, 31 October 2014 13:19:44 GMT">
+<meta http-equiv="x-ua-compatible" content="ie=Edge"> 
+<!-- or enable chrome Frame if available in IE -->
+<meta http-equiv="X-UA-Compatible" content="chrome=1" />
+<script type='text/javascript'>var _sf_startpt=(new Date()).getTime()</script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+ <meta property="twitter:account_id" content="4970411" />
+ <meta name="twitter:site" content="@AJEnglish" />
+
+<meta name="google-play-app" content="app-id=net.aljazeera.english">
+<link rel="alternate" type="application/rss+xml" title="Al Jazeera English" href="/xml/rss/all.xml" />
+
+<link rel="apple-touch-icon" href="/mritems/assets/images/touch-icon-iphone.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/mritems/assets/images/touch-icon-ipad.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/mritems/assets/images/touch-icon-iphone-retina.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/mritems/assets/images/touch-icon-ipad-retina.png">
+
+<!--Site Scripts: To have all js functions required for website -->
+  <script src="/assets/scripts/jquery-1.11.1.min.js"></script>
+ <script src="/assets/scripts/common.js?x=153" async></script>
+ <script src="/assets/scripts/SiteScripts.js?x=153" type="text/javascript"></script> 
+ <script src="/assets/scripts/Brightcove.js?x=158" type="text/javascript"></script>
+
+ <script src="/assets/scripts/JsonFeed.js?x=153"></script>
+<script type="text/javascript" src="https://cdns.gigya.com/js/gigya.js?apikey=3_6G4aGVfJdVoChfuB5nfPCBHvzYFfWvvhwmQz1-hHZo-mUDJ29NmDtcfEHx3L8ZjY">
+{"URL": $("meta[property='og:internalurl']").attr('content').toString() ,"enabledProviders":"*"}</script>
+<script type="text/javascript"  src='//connect.facebook.net/en_US/all.js'></script>
+<script src="/assets/scripts/SocialPluginIndex.js??x=155" type="text/javascript"></script> 
+
+ <script src="/assets/scripts/moment-with-locales.min.js"></script> 
+
+<link href="/Assets/styles/ArticleSocialMediaTopBar.css" rel="stylesheet" type="text/css" /> <script type='text/javascript'>
+if ( /(iPad).*AppleWebKit.*Mobile.*Safari/.test(navigator.userAgent) ) {
+  var headNode = document.getElementsByTagName("head")[0];
+  var sbNode = document.createElement('meta');
+  sbNode.name = 'apple-itunes-app';
+  sbNode.content = 'app-id=504847776';
+  headNode.appendChild(sbNode);
+} 
+else if ( /(iPhone|iPod).*AppleWebKit.*Mobile.*Safari/.test(navigator.userAgent) ) {
+  var headNode = document.getElementsByTagName("head")[0];
+  var sbNode = document.createElement('meta');                    
+  sbNode.name = 'apple-itunes-app';                
+  sbNode.content = 'app-id=504847776';
+  headNode.appendChild(sbNode);
+}
+</script>
+ <script>
+        $(document).ready(function () {
+	ShowingNow();	});
+	
+	 if (/(iPhone|iPod|iPad)/.test(navigator.userAgent)) 
+	{
+		if(window.localStorage.getItem ("AJE_Safari")==null)
+		{ 				
+			window.localStorage.setItem("AJE_Safari","true");
+			window.location.reload(true)
+		} 
+		else
+		{ 
+			window.localStorage.removeItem ("AJE_Safari");
+		}
+        }
+
+ </script>
+<!-- Facebook AJE Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+fbq('init', '968100353246427');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=968100353246427&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook AJE Pixel Code -->
+<script src="/assets/scripts/prebid.js?x=1" type="text/javascript"></script>
+<script src="/assets/scripts/adsscript.js?x=171" type="text/javascript"></script>
+<script src="/assets/scripts/ticker-plugin-script.js??x=153" type="text/javascript" async></script>
+<script src="/assets/scripts/ticker-helper-script.js??x=153" type="text/javascript" async></script>
+
+ <link href="/assets/styles/GridSet_Style.css?x=153" rel="stylesheet" />
+ <link href="/assets/styles/Markbolton_Style.css?x=153" rel="stylesheet" />
+ <link href="/assets/styles/AJE_Custom_Styles.css?x=164" rel="stylesheet" />
+ <link href="/assets/styles/H1Class.css?x=153" rel="stylesheet" />
+ <link href="/assets/styles/CustomMasterHead.css?x=153" rel="stylesheet" />
+ <link href="/assets/styles/Template_Boxes.css?x=153" rel="stylesheet" />
+ <link href="/assets/styles/ticker-plugin-style.css?x=155" rel="stylesheet" />
+ <link href="/mritems/assets/styles/epg-schedule-style.css?x=153" rel="stylesheet" />
+ <link  href="/assets/styles/bc-styles.css?x=153" rel="stylesheet" >
+ <link href="/assets/styles/CustomHeaderAndFooter.css?x=210" rel="stylesheet" />
+ <script src="/assets/scripts/CustomHeaderFooter.js?x=210" type="text/javascript"></script>
+ <script src="/assets/scripts/CustomSiteScripts.js?x=154" type="text/javascript"></script>
+</head>
+<body>
+    <form id='Episodes' name='Episodes' method='post'>    
+    
+    
+     
+
+<!-- important tag dont remove(used to carry page context) -->
+<input type="hidden" id="oryxcontext" value="B8C906090FB19032EA03A7D3B8D5B5D7E6FECE8A7FAB9931C9009AD734A674CDACBA0314DC9A49BC902407CEB99AAA13D79863866FAF4F8AA30B87BA8C8C3420869B8352B67995367C11E65294F518DC720790077773C8082E0C3767E8C7245EFD876C96C74DCE7F3D94D6D20ECCBADBBD40664AC2DBC034B24BE942610401AFD4D6CB83C4B2831F80C9B06453A67C48CA001A4E500D51BF43A990DF55AD7B8EBE0A10D619B07783D724A68C79B1C4780CCBA129F6F25AF2AC3D4D8ADD9D5DC252F42121D2136445E0C5A259C99BCB680AE341BA9D7597C9B7BF0DB05C50F3BAB503BD857B553193E5C64FBA47CF6F48BF222AA81699DA762AB0786CBCAED40C7CB9FA90F99ACF3D0C8726281BFE2B4FB04BBDF0EACBB118437DF7CB4F87DB015273E6F1E07B5699C0B8795A8B04A56BC0DD331998FCFC305C84004B82A46AD0" data-postingguid="2008610141059592441">
+<div class="da-showgrid d-showgrid t-showgrid ta-showgrid m-showgrid">
+<header id="site-header">
+<!-- googleoff: index -->
+    <div><div><div><div><div style="width:100%"><div></div></div><div></div></div></div></div><div><div><div><div style="width:100%"><div><div><div style=";border-style:none"><div class="top-grey-bar">
+	<div class="top-social-wrapper">
+		<div class="wrapper clearfix">
+			<div class="socialmediaicons" id="SocialMediaIconsID">
+				<ul>
+					<li id="watchlive">
+						<a href="/live/"><svg height="20px" version="1.1" viewbox="0 0 14 14" width="20px"> <desc>Created with Sketch.</desc> <defs></defs> <g fill="none" fill-rule="evenodd" id="Page-1" stroke="none" stroke-width="1"> <g fill="#A60015" id="Group" transform="translate(-186.000000, -27.000000)"> <g id="ajmn-icons_play" transform="translate(10.000000, 13.000000)"> <g transform="translate(176.000000, 14.000000)"> <path d="M6.84444444,13.0812889 C3.39982222,13.0812889 0.6076,10.2890667 0.6076,6.84444444 C0.6076,3.39982222 3.39982222,0.6076 6.84444444,0.6076 C10.2890667,0.6076 13.0812889,3.39982222 13.0812889,6.84444444 C13.0812889,10.2890667 10.2890667,13.0812889 6.84444444,13.0812889 L6.84444444,13.0812889 Z M6.84444444,0 C3.06444444,0 0,3.06444444 0,6.84444444 C0,10.6244444 3.06444444,13.6888889 6.84444444,13.6888889 C10.6244444,13.6888889 13.6888889,10.6244444 13.6888889,6.84444444 C13.6888889,3.06444444 10.6244444,0 6.84444444,0 L6.84444444,0 Z" id="Fill-1"></path> <path d="M5.45066667,4.43488889 L5.45066667,9.254 L9.48266667,6.84444444 L5.45066667,4.43488889" id="Fill-2"></path> </g> </g> </g> </g> </svg> <span>Watch Live</span> </a></li>
+					<li id="watchnow">
+						<a href="/live/"><img alt="Watch Now" src="/mritems/images/site/WatchNow.png" title="Watch Now"></a></li>
+					<li id="facebook">
+						<a href="http://www.facebook.com/aljazeera" target="_blank"><img alt="Follow us on Facebook" data-pin-nopin="true" src="/mrItems/Assets/Images/NewArticle/facebook.png" title="Follow us on Facebook"></a></li>
+					<li id="twitter">
+						<a href="http://twitter.com/ajenglish" target="_blank"><img alt="Follow us on Twitter" data-pin-nopin="true" src="/mrItems/Assets/Images/NewArticle/twitter.png" title="Follow us on Twitter"></a></li>
+					<li id="instagram">
+						<a href="http://instagram.com/aljazeeraenglish" target="_blank"><img alt="Follow us on Instagram" data-pin-nopin="true" src="/mrItems/Assets/Images/NewArticle/instagram.png" title="Follow us on Instagram"></a></li>
+				</ul>
+			</div>
+			<!-- weather -->
+			<div class="m-hide weather-widgets" id="weatherwidgets">
+				&nbsp;</div>
+			<!-- /weather --></div>
+	</div>
+	<div class="wrapper clearfix">
+		<div class="top-search-wrapper">
+			<div class="live-watch-section">
+				<div class="arr-up">
+					&nbsp;</div>
+				<ul class="live-watch-play">
+					<li class="live-now-playing">
+						<a>Now Playing</a></li>
+					<li class="live-watch">
+						<span><img alt="" data-pin-nopin="true" src="/mrItems/Assets/Images/NewArticle/WatchLive_SmallWatchIcon.png"> </span><a class="watch-anchor" href="/live/" id="watch-now-link">Watch</a></li>
+				</ul>
+				<ul class="live-listen-play">
+					<li class="live-now-listening">
+						<a id="showing-now"> <!-- Showing Now --></a></li>
+					<li class="live-listen">
+						<a class="listen-anchor-img watch-anchor" href="http://listen.aljazeera.com/english/livestream?utm_source=AJE_website&amp;utm_medium=navbar&amp;utm_campaign=AJE_nav" id="listen-now-link" onclick="window.open(this.href,'ajlisten','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=380,height=567'); return false;" target="_blank"><span><img alt="" data-pin-nopin="true" src="/mrItems/Assets/Images/NewArticle/WatchLive_SmallListenIcon.png"> </span><span class="live-listen-wd">Listen</span></a></li>
+				</ul>
+				<ul class="TVScheduleLink">
+					<li>
+						<a href="/watch_now/epgschedule.html">TV Schedule</a></li>
+				</ul>
+			</div>
+			<div class="wrapper clearfix">
+				<div class="search-btn-section">
+					<ul>
+						<li id="watchlive-active">
+							<a href="#"><img src="/mrItems/Assets/Images/NewArticle/WatchNowPlayIcon_V1.png"> <span>Live</span> </a></li>
+						<li>
+							<button class="button-search-top" type="button">submit</button></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+</div></div><!--PageLoadedSucessfully--></div></div><div></div></div></div></div></div>
+<!-- social media bars shown here -->
+<div class="wrapper clearfix">
+
+
+  <div class="ta1 da1" id="site-logo"><a class="current" href="/">al jazeera</a><img alt="al jazeera" src="/mritems/assets/images/newarticle/a-j-e-overlay-copy.png" class="site-logo-img" style="cursor: pointer;"></div>
+
+<div class="ta2-ta6 d4" id="nav-account-search"><a href="#" id="nav-mobile-menu">menu</a>
+
+<nav class="ta2-ta4 nav-wide" id="nav-account-live">&nbsp;</nav>
+</div>
+
+<div class="nav-group ta2-ta6 da2-da6">
+<div class="mobile-wrap">
+<div class="form-search" id="nav-form-search"><input class="field-search" name="search" id="search" type="text" value=""><button class="button-search" type="button">submit</button></div>
+<!-- <div friendlyname="topmenuheader" id="10" type="regular" zonepath="topmenuheader/pagetype/default" zonetemplate="pagetype"> -->
+
+<div><div><div><div><div style="width:100%"><div><div><div style=";border-style:none"><nav id="nav-site" class="nav-wide da2-da4 clearfix"><ul>
+    <li data-guid="171025111604759" class="nav-item-171025111604759"><a href="/" target="_self">Home</a></li>
+    <li data-guid="161023134902510" class="nav-item-161023134902510"><a class="drop" href="/news/">News</a><a class="mobile-drop" href="#">More</a><div class="drop-mega"><nav class="&#xA;          nav-divider&#xA;        "><div class="subnav list nav-menu-width" style="margin-left: 2em;">
+            <div class="drp-mega-left">
+              <ul>
+                <li data-guid="140311071122120"><a href="/topics/regions/middleeast.html">Middle East</a></li>
+                <li data-guid="131113081710422"><a href="/topics/regions/africa.html">Africa</a></li>
+                <li data-guid="131112142029837"><a href="/topics/regions/asia.html">Asia</a></li>
+                <li data-guid="140311071220644"><a href="/topics/regions/us-canada.html">US &amp; Canada</a></li>
+              </ul>
+            </div>
+            <div class="drp-mega-right">
+              <ul>
+                <li data-guid="131113111908681"><a href="/topics/regions/latin-america.html">Latin America</a></li>
+                <li data-guid="131113084937332"><a href="/topics/regions/europe.html">Europe</a></li>
+                <li data-guid="140311071939629"><a href="/topics/regions/asia-pacific.html">Asia Pacific</a></li>
+                <li data-guid="170926095124731"><a href="/news" target="_self">All</a></li>
+              </ul>
+            </div>
+          </div></nav></div>
+    </li>
+    <li data-guid="140311071122120" class="nav-item-140311071122120"><a href="/topics/regions/middleeast.html">Middle East</a></li>
+    <li data-guid="161016132227401" class="nav-item-161016132227401"><a class="drop" href="/documentaries/">Documentaries</a><a class="mobile-drop" href="#">More</a><div class="drop-mega"><nav class="&#xA;          nav-divider&#xA;        "><div class="subnav list nav-menu-width" style="margin-left: 2em;">
+            <div class="drp-mega-left">
+              <ul>
+                <li data-guid="140309125006070"><a href="/programmes/specialseries/">Featured Documentaries</a></li>
+                <li data-guid="140309124146566"><a href="/programmes/witness/">Witness</a></li>
+                <li data-guid="140309100922773"><a href="/programmes/aljazeeraworld/">Al Jazeera World</a></li>
+                <li data-guid="140309083414124"><a href="/programmes/101east/">101 East</a></li>
+              </ul>
+            </div>
+            <div class="drp-mega-right">
+              <ul>
+                <li data-guid="140309103232322"><a href="/programmes/peopleandpower/">People &amp; Power</a></li>
+                <li data-guid="140309101835880"><a href="/programmes/faultlines/">Fault Lines</a></li>
+                <li data-guid="171104105940754"><a href="/programmes/my-tunisia/tunisia.html">My Tunisia</a></li>
+                <li data-guid="170702220310988"><a href="/programmes/aljazeera-selects/">Al Jazeera Selects </a></li>
+                <li data-guid="140309100153551"><a href="/programmes/aljazeeracorrespondent/">Al Jazeera Correspondent</a></li>
+                <li data-guid="160905084557919"><a href="/programmes/rewind/">REWIND</a></li>
+                <li data-guid="161019084747265"><a href="/documentaries">All</a></li>
+              </ul>
+            </div>
+          </div></nav></div>
+    </li>
+    <li data-guid="140204094724441" class="nav-item-140204094724441"><a class="drop" href="/programmes/">Shows</a><a class="mobile-drop" href="#">More</a><div class="drop-mega"><nav class="&#xA;          nav-divider&#xA;        "><div class="subnav list nav-menu-width" style="margin-left: 2em;">
+            <div class="drp-mega-left">
+              <ul>
+                <li data-guid="140309102519696"><a href="/programmes/insidestory/">Inside Story</a></li>
+                <li data-guid="140327064406019"><a href="http://stream.aljazeera.com" target="_blank">The Stream</a></li>
+                <li data-guid="140309102803328"><a href="/programmes/listeningpost/">The Listening Post</a></li>
+                <li data-guid="140309123607662"><a href="/programmes/talktojazeera/">Talk to Al Jazeera</a></li>
+              </ul>
+            </div>
+            <div class="drp-mega-right">
+              <ul>
+                <li data-guid="170215082732680"><a href="/programmes/the-big-picture/">The Big Picture</a></li>
+                <li data-guid="140309101519781"><a href="/programmes/countingthecost/">Counting the Cost</a></li>
+                <li data-guid="150811112506260"><a href="/programmes/upfront/">UpFront</a></li>
+                <li data-guid="140309100432009"><a href="/programmes/earthrise/">earthrise</a></li>
+                <li data-guid="140309101636015"><a href="/programmes/empire/">Empire</a></li>
+                <li data-guid="161019085813616"><a href="/programmes" target="_self">All</a></li>
+              </ul>
+            </div>
+          </div></nav></div>
+    </li>
+    <li data-guid="141105143951929" class="nav-item-141105143951929"><a href="/investigations/">Investigations</a></li>
+    <li data-guid="140130065247497" class="nav-item-140130065247497"><a href="/indepth/opinion/">Opinion</a></li>
+    <li data-guid="161027083327112" class="nav-item-161027083327112"><a href="/indepth/inpictures/">In Pictures</a></li>
+    <li data-guid="161017091647457" class="nav-item-161017091647457"><a class="drop" href="#">More</a><a class="mobile-drop" href="#">More</a><div class="drop-mega"><nav class="&#xA;          nav-divider&#xA;        "><div class="subnav list nav-menu-width" style="margin-left: 2em;">
+            <div class="drp-mega-left">
+              <ul>
+                <li data-guid="161027081630642"><a href="/indepth/features/">Features</a></li>
+                <li data-guid="141105143951929"><a href="/investigations/">Investigations</a></li>
+                <li data-guid="161027083327112"><a href="/indepth/inpictures/">In Pictures</a></li>
+                <li data-guid="161027100258444"><a href="/indepth/interactive/">Interactive</a></li>
+              </ul>
+            </div>
+            <div class="drp-mega-right">
+              <ul>
+                <li data-guid="161019084958582"><a href="/indepth/interactive/documentaries/">Interactive Documentaries</a></li>
+                <li data-guid="161115094809507"><a href="/shorts/">AJ Shorts</a></li>
+                <li data-guid="170219130504928"><a href="/podcasts/">Podcasts</a></li>
+                <li data-guid="161028145404792"><a href="/blogs/">Reporter's Notebook</a></li>
+                <li data-guid="131112151343070"><a href="/topics/categories/human_rights.html">Human Rights</a></li>
+                <li data-guid="131112152428605"><a href="/topics/categories/sport.html">Sport</a></li>
+                <li data-guid="131112152215639"><a href="/topics/categories/science-and-technology.html">Science &amp; Technology</a></li>
+                <li data-guid="140319114634577"><a href="/topics/categories/weather.html">Weather</a></li>
+              </ul>
+            </div>
+          </div></nav></div>
+    </li>
+  </ul></nav></div></div><!--PageLoadedSucessfully--></div></div><div></div></div></div></div></div>
+<!--menu goes here -->
+
+<div><div><div><div><div style="width:100%"><div><div><div style=";border-style:none"><nav id="nav-topics" class="nav-wide t-all da-all"><ul>
+    <li id="NavTopTopics">Trending:</li>
+    <li><a href="/topics/country/ethiopia.html">Ethiopia</a></li>
+    <li><a href="/topics/people/donald-trump.html">Donald Trump</a></li>
+    <li><a href="/topics/issues/gun-control.html">Gun control</a></li>
+    <li><a href="/topics/country/zimbabwe.html">Zimbabwe</a></li>
+    <li><a href="/topics/country/syria.html">Syria's Civil War</a></li>
+  </ul></nav></div></div><!--PageLoadedSucessfully--></div></div><div></div></div></div></div></div>
+<!-- <div id="weatherwidget" class="m-hide weather-widget"> </div> -->
+</div>
+</div>
+</div>
+
+<div><div><div><div><div style="width:100%"><div><div><div><div><div style="width:100%"><div><div><div style=";border-style:none"><div class="form-wrapper-wrap">
+  <div class="wrapper clearfix">
+    <div class="form-wrapper"><span class="genericon genericon-close search-close"></span><input class="field-search" id="searchText" placeholder="Search..." type="text"><nav id="search-nav-topics" class="nav-wide t-all da-all"><ul>
+          <p class="most-searched">Most Searched</p>
+        </ul></nav></div>
+  </div>
+</div>
+<div id="site-header-links"></div></div></div><!--PageLoadedSucessfully--></div></div><div></div></div></div></div></div></div><div></div></div></div></div></div>
+<!-- googleon: index -->
+ 
+</header>
+   
+</div>
+  <!-- news ticker -->
+<div id="header_container" style="display: none;">
+   <ul id="js-news" class="js-hidden">
+   </ul>
+</div>
+<div><div><div style=";border-style:none"><!-- googleoff: index --><div id="div-gpt-ad-1430377943388-2">  
+      
+       <script type="text/javascript">
+googletag.cmd.push(function() { 
+googletag.display('div-gpt-ad-1430377943388-2'); 
+});
+</script>
+      
+      </div><!-- googleon: index --></div></div></div>
+<div id="site-content">
+
+
+<div id="Container_Zone_1" handle="header" type="regular"></div>
+
+<div id="placeholder1" type="content"><!-- comments goes here -->
+	<div><div><div><div><div style="width:100%"><div><div class="branded oryx-bg"><div><div><div><div style="width:100%"><div guid="" path="Show-ShowEpisode_Header" inherited="a211" applyzonekeepinhritance="true"><header id="show-header" class="clearfix wrapper" type="renderzoneblock"><div><div style=";border-style:none"><style>
+        .oryx-bg {
+        background-image: url(/mritems/Images/2015/2/16/3bc6af76afb741639e245ffaf7d74da0_6.jpg);
+        }
+      </style>
+<div id="show-logo" class="da1-da2 ta1-ta2"><a href="/programmes/peopleandpower/"><img style="width: 100%; vertical-align: bottom;" src="/mritems/Images/2014/9/25/e90f2781130a43eaaecf92796eeb1d31_7.png"></a></div><nav class="nav-wide da-all ta-all"><ul>
+    <li><a href="/programmes/peopleandpower/">Home</a></li>
+    <li><a href="/programmes/peopleandpower/episodes.html">Episodes</a></li>
+  </ul></nav></div></div></header></div></div><div></div></div></div></div><div><div><div><div style="width:100%"><div><div class="wrapper clearfix "><div><div><div><div style="width:100%"><div><div class="page-section clearfix da-all da-pad ta-all ta-pad box "><div><div><div><div style="width:100%"><div><div id="main-content" class="programmesepisodes clearfix box d-pad box-section-news da1-da4 ta1-ta4 ta-pad db-showgrid "><div><div><div><div style="width:100%"><div><div><div style=";border-style:none"><blurb xmlns:media="http://search.yahoo.com/mrss/"><!-- googleoff: index --><article class="blurb-wide clearfix"><a class="play" href="/programmes/peopleandpower/2018/02/disinformation-democracy-180201060250730.html"><img class="db1 tb1" src="/mritems/imagecache/mbdresplarge/mritems/Images/2018/2/1/d8a19091719d4598a42be46daaea1765_18.jpg" title="Disinformation and Democracy " alt="Disinformation and Democracy "></a><div class="db2-db3 tb2-tb3">
+      <h1><a href="/programmes/peopleandpower/2018/02/disinformation-democracy-180201060250730.html">Disinformation and Democracy </a></h1>
+      <p>A two-part investigation into the threats to democracy posed by fake news and propaganda on social media. </p>
+      <p class="meta"><a href="/topics/subjects/social-media.html">Social media</a>, <a href="/topics/subjects/internet.html">Internet</a>, <a href="/topics/people/donald-trump.html">Donald Trump</a>, <a href="/topics/country/russia.html">Russia</a></p>
+    </div></article><article class="blurb-wide clearfix"><a class="play" href="/programmes/peopleandpower/2018/01/searching-sanctuary-180118063233163.html"><img class="db1 tb1" src="/mritems/imagecache/mbdresplarge/mritems/Images/2018/1/18/fab6c1277cfe40e28c5779053bde5706_18.jpg" title="Searching for Sanctuary in Germany" alt="Searching for Sanctuary in Germany"></a><div class="db2-db3 tb2-tb3">
+      <h1><a href="/programmes/peopleandpower/2018/01/searching-sanctuary-180118063233163.html">Searching for Sanctuary in Germany</a></h1>
+      <p>The remarkable story of two Syrian refugees and their journey to safety in Germany.</p>
+      <p class="meta"><a href="/topics/spotlight/syrian-refugees.html">Syrian Refugees</a>, <a href="/topics/country/germany.html">Germany</a>, <a href="/topics/categories/war-conflict.html">War &amp; Conflict</a>, <a href="/topics/regions/europe.html">Europe</a>, <a href="/topics/regions/middleeast.html">Middle East</a></p>
+    </div></article><article class="blurb-wide clearfix"><a class="play" href="/programmes/peopleandpower/2018/01/defiance-mapuche-180110043941553.html"><img class="db1 tb1" src="/mritems/imagecache/mbdresplarge/mritems/Images/2018/1/10/0a985a91415c467880ac3d884c6b35f6_18.jpg" title="Defiance of the Mapuche " alt="Defiance of the Mapuche "></a><div class="db2-db3 tb2-tb3">
+      <h1><a href="/programmes/peopleandpower/2018/01/defiance-mapuche-180110043941553.html">Defiance of the Mapuche </a></h1>
+      <p>Why the Mapuche of Argentina and Chile have been pushed to the brink of insurrection in defence of their ancient lands.</p>
+      <p class="meta"><a href="/topics/country/argentina.html">Argentina</a>, <a href="/topics/country/chile.html">Chile</a>, <a href="/topics/categories/human_rights.html">Human Rights</a>, <a href="/topics/regions/latin-america.html">Latin America</a></p>
+    </div></article><article class="blurb-wide clearfix"><a class="play" href="/programmes/peopleandpower/2018/01/moscow-kyrgyzstan-180104110206013.html"><img class="db1 tb1" src="/mritems/imagecache/mbdresplarge/mritems/Images/2018/1/4/0b28fd74d3034289a3420ac6c57a32a2_18.jpg" title="Moscow's Little Kyrgyzstan            " alt="Moscow's Little Kyrgyzstan            "></a><div class="db2-db3 tb2-tb3">
+      <h1><a href="/programmes/peopleandpower/2018/01/moscow-kyrgyzstan-180104110206013.html">Moscow's Little Kyrgyzstan            </a></h1>
+      <p>We investigate claims of corruption, harassment and xenophobia experienced by Russia's Central Asian migrant community.</p>
+      <p class="meta"><a href="/topics/country/kyrgyzstan.html">Kyrgyzstan</a>, <a href="/topics/subjects/immigration.html">Immigration</a>, <a href="/topics/country/russia.html">Russia</a></p>
+    </div></article><article class="blurb-wide clearfix"><a class="play" href="/programmes/peopleandpower/2017/12/trump-ethics-foreign-aid-171205094358118.html"><img class="db1 tb1" src="/mritems/imagecache/mbdresplarge/mritems/Images/2017/12/6/1a69f94be8d047ce9a6ac0ae3a8c1680_18.jpg" title="Trump and the Ethics of Foreign Aid" alt="Trump and the Ethics of Foreign Aid"></a><div class="db2-db3 tb2-tb3">
+      <h1><a href="/programmes/peopleandpower/2017/12/trump-ethics-foreign-aid-171205094358118.html">Trump and the Ethics of Foreign Aid</a></h1>
+      <p>What are the consequences of President Trump's decision to slash US aid to international NGOs that promote abortion?</p>
+      <p class="meta"><a href="/topics/subjects/abortion.html">Abortion</a>, <a href="/topics/country/mozambique.html">Mozambique</a>, <a href="/topics/people/donald-trump.html">Donald Trump</a>, <a href="/topics/subjects/foreign-aid.html">Aid</a>, <a href="/topics/regions/africa.html">Africa</a></p>
+    </div></article><article class="blurb-wide clearfix"><a class="play" href="/programmes/peopleandpower/2017/10/russia-orthodox-connection-171017140019859.html"><img class="db1 tb1" src="/mritems/imagecache/mbdresplarge/mritems/Images/2017/10/18/26701ee3120642f086288fe4372b15eb_18.jpg" title="Russia: The Orthodox connection" alt="Russia: The Orthodox connection"></a><div class="db2-db3 tb2-tb3">
+      <h1><a href="/programmes/peopleandpower/2017/10/russia-orthodox-connection-171017140019859.html">Russia: The Orthodox connection</a></h1>
+      <p>What lies behind the close relationship between the Russian Orthodox Church and President Vladimir Putin?</p>
+      <p class="meta"><a href="/topics/people/vladimir-putin.html">Vladimir Putin</a>, <a href="/topics/country/russia.html">Russia</a>, <a href="/topics/subjects/christianity.html">Christianity</a>, <a href="/topics/categories/politics.html">Politics</a></p>
+    </div></article><article class="blurb-wide clearfix"><a class="play" href="/programmes/peopleandpower/2017/10/manchester-united-171011121809000.html"><img class="db1 tb1" src="/mritems/imagecache/mbdresplarge/mritems/Images/2017/10/11/cc3c375d3ba340b88ffa1938e01f303f_18.jpg" title="Manchester United" alt="Manchester United"></a><div class="db2-db3 tb2-tb3">
+      <h1><a href="/programmes/peopleandpower/2017/10/manchester-united-171011121809000.html">Manchester United</a></h1>
+      <p>A look at questions on diversity and incitement to violence in the UK raised in the aftermath of the Manchester bombing.</p>
+      <p class="meta"><a href="/topics/events/manchester-attack.html">Manchester Bombing</a>, <a href="/topics/organisations/isis-isil.html">ISIS</a>, <a href="/topics/country/united-kingdom.html">United Kingdom</a></p>
+    </div></article><article class="blurb-wide clearfix"><a class="play" href="/programmes/peopleandpower/2017/09/estonia-bear-hunt-170914055839448.html"><img class="db1 tb1" src="/mritems/imagecache/mbdresplarge/mritems/Images/2017/9/14/658b64b82d124cf39270d73ed1f0cf6b_18.jpg" title="Estonia: Going on a Bear Hunt" alt="Estonia: Going on a Bear Hunt"></a><div class="db2-db3 tb2-tb3">
+      <h1><a href="/programmes/peopleandpower/2017/09/estonia-bear-hunt-170914055839448.html">Estonia: Going on a Bear Hunt</a></h1>
+      <p>How would Estonia and its NATO allies respond should the small Baltic state be invaded by Russia? </p>
+      <p class="meta"><a href="/topics/country/estonia.html">Estonia</a>, <a href="/topics/country/russia.html">Russia</a>, <a href="/topics/organisations/nato.html">NATO</a>, <a href="/topics/categories/war-conflict.html">War &amp; Conflict</a>, <a href="/topics/categories/politics.html">Politics</a></p>
+    </div></article><article class="blurb-wide clearfix"><a class="play" href="/programmes/peopleandpower/2017/08/polluted-paradise-170831042123144.html"><img class="db1 tb1" src="/mritems/imagecache/mbdresplarge/mritems/Images/2017/8/31/80f01a596b6946f9981d5bebab35729e_18.jpg" title="New Zealand: Polluted Paradise" alt="New Zealand: Polluted Paradise"></a><div class="db2-db3 tb2-tb3">
+      <h1><a href="/programmes/peopleandpower/2017/08/polluted-paradise-170831042123144.html">New Zealand: Polluted Paradise</a></h1>
+      <p>People &amp; Power investigates New Zealand's water pollution problem as regional elections gear up. </p>
+      <p class="meta"><a href="/topics/country/new-zealand.html">New Zealand</a>, <a href="/topics/issues/water.html">Water</a>, <a href="/topics/issues/pollution.html">Pollution</a></p>
+    </div></article><article class="blurb-wide clearfix"><a class="play" href="/programmes/peopleandpower/2017/07/syria-civil-war-arms-resistance-jobar-170704140713612.html"><img class="db1 tb1" src="/mritems/imagecache/mbdresplarge/mritems/Images/2017/7/5/a0c171affb6e45ae84b4559c27ddbb1b_18.jpg" title="Inside Syria's War: Arms and Resistance in Jobar" alt="Inside Syria's War: Arms and Resistance in Jobar"></a><div class="db2-db3 tb2-tb3">
+      <h1><a href="/programmes/peopleandpower/2017/07/syria-civil-war-arms-resistance-jobar-170704140713612.html">Inside Syria's War: Arms and Resistance in Jobar</a></h1>
+      <p>The inside story of how the people of Jobar have defended their homes against the might of the Assad regime.</p>
+      <p class="meta"><a href="/topics/country/syria.html">Syria's Civil War</a>, <a href="/topics/regions/middleeast.html">Middle East</a>, <a href="/topics/categories/war-conflict.html">War &amp; Conflict</a></p>
+    </div></article><article class="blurb-wide clearfix"><a class="play" href="/programmes/peopleandpower/2017/06/constitution-trump-170628122318620.html"><img class="db1 tb1" src="/mritems/imagecache/mbdresplarge/mritems/Images/2017/6/28/de8fcd7969d441fb8b089027db01c96e_18.jpg" title="The Constitution vs. Trump" alt="The Constitution vs. Trump"></a><div class="db2-db3 tb2-tb3">
+      <h1><a href="/programmes/peopleandpower/2017/06/constitution-trump-170628122318620.html">The Constitution vs. Trump</a></h1>
+      <p>How President Trump's opponents believe the US Constitution may prove the most effective barrier against his policies.</p>
+      <p class="meta"><a href="/topics/country/united-states.html">United States</a>, <a href="/topics/people/donald-trump.html">Donald Trump</a></p>
+    </div></article><article class="blurb-wide clearfix"><a class="play" href="/programmes/peopleandpower/2017/02/uganda-health-pyramid-170202054305553.html"><img class="db1 tb1" src="/mritems/imagecache/mbdresplarge/mritems/Images/2017/2/2/3d714b2e39c046fd9eff764fdce13aea_18.jpg" title="Uganda's Health Pyramid" alt="Uganda's Health Pyramid"></a><div class="db2-db3 tb2-tb3">
+      <h1><a href="/programmes/peopleandpower/2017/02/uganda-health-pyramid-170202054305553.html">Uganda's Health Pyramid</a></h1>
+      <p>We investigate allegations involving a Chinese billionaire and a controversial alternative health scheme in Africa.</p>
+      <p class="meta"><a href="/topics/categories/health.html">Health</a>, <a href="/topics/categories/poverty-development.html">Poverty &amp; Development</a>, <a href="/topics/regions/africa.html">Africa</a></p>
+    </div></article><article class="blurb-wide clearfix"><a class="play" href="/programmes/peopleandpower/2017/06/afghanistan-bullets-burqas-170608075806151.html"><img class="db1 tb1" src="/mritems/imagecache/mbdresplarge/mritems/Images/2017/6/8/82c84f57f3534006988f0ba7403722b8_18.jpg" title="Afghanistan: Bullets And Burqas" alt="Afghanistan: Bullets And Burqas"></a><div class="db2-db3 tb2-tb3">
+      <h1><a href="/programmes/peopleandpower/2017/06/afghanistan-bullets-burqas-170608075806151.html">Afghanistan: Bullets And Burqas</a></h1>
+      <p>People &amp; Power follows a group of Afghan women who have signed up to fight the Taliban.</p>
+      <p class="meta"><a href="/topics/categories/politics.html">Politics</a>, <a href="/topics/country/afghanistan.html">Afghanistan</a></p>
+    </div></article><article class="blurb-wide clearfix"><a class="play" href="/programmes/peopleandpower/2017/05/belarusian-spring-170531071313178.html"><img class="db1 tb1" src="/mritems/imagecache/mbdresplarge/mritems/Images/2017/5/31/77a63f1e83e64051ba08329bbc915058_18.jpg" title="A Belarusian Spring" alt="A Belarusian Spring"></a><div class="db2-db3 tb2-tb3">
+      <h1><a href="/programmes/peopleandpower/2017/05/belarusian-spring-170531071313178.html">A Belarusian Spring</a></h1>
+      <p>People &amp; Power follows pro-democracy protesters in their fight against dictatorship in Belarus.</p>
+      <p class="meta"><a href="/topics/categories/politics.html">Politics</a>, <a href="/topics/country/belarus.html">Belarus</a>, <a href="/topics/regions/europe.html">Europe</a></p>
+    </div></article><article class="blurb-wide clearfix"><a class="play" href="/programmes/peopleandpower/2017/05/laos-borders-empire-170522105221541.html"><img class="db1 tb1" src="/mritems/imagecache/mbdresplarge/mritems/Images/2017/5/24/bd596d4a320648b0be852bb6c26c47a7_18.jpg" title="Laos: On the Borders of the Empire" alt="Laos: On the Borders of the Empire"></a><div class="db2-db3 tb2-tb3">
+      <h1><a href="/programmes/peopleandpower/2017/05/laos-borders-empire-170522105221541.html">Laos: On the Borders of the Empire</a></h1>
+      <p>We investigate China's rising influence in Laos and the potentially disastrous consequences for the local population.</p>
+      <p class="meta"><a href="/topics/categories/business.html">Business &amp; Economy</a>, <a href="/topics/country/laos.html">Laos</a>, <a href="/topics/country/china.html">China</a>, <a href="/topics/regions/asia.html">Asia</a></p>
+    </div></article><article class="blurb-wide clearfix"><a class="play" href="/programmes/peopleandpower/2017/05/caribbean-caliphate-170517073332147.html"><img class="db1 tb1" src="/mritems/imagecache/mbdresplarge/mritems/Images/2017/5/17/81da95ca7e58458bb923aa105f1d4058_18.jpg" title="Caribbean to Caliphate" alt="Caribbean to Caliphate"></a><div class="db2-db3 tb2-tb3">
+      <h1><a href="/programmes/peopleandpower/2017/05/caribbean-caliphate-170517073332147.html">Caribbean to Caliphate</a></h1>
+      <p>Why are young Muslims from the Caribbean island of Trinidad and Tobago being drawn to the conflicts in Syria and Iraq?</p>
+      <p class="meta"><a href="/topics/organisations/isis-isil.html">ISIS</a>, <a href="/topics/country/trinidad-and-tobago.html">Trinidad and Tobago</a>, <a href="/topics/subjects/islam.html">Islam</a></p>
+    </div></article><article class="blurb-wide clearfix"><a class="play" href="/programmes/peopleandpower/2017/05/dark-side-france-170503082525808.html"><img class="db1 tb1" src="/mritems/imagecache/mbdresplarge/mritems/Images/2017/5/3/606e3476c73d4ae9adc9c751dca9c733_18.jpg" title="The Dark Side of France" alt="The Dark Side of France"></a><div class="db2-db3 tb2-tb3">
+      <h1><a href="/programmes/peopleandpower/2017/05/dark-side-france-170503082525808.html">The Dark Side of France</a></h1>
+      <p>People and Power examines the impact of the far-right on the French presidential elections.</p>
+      <p class="meta"><a href="/topics/spotlight/french-elections-2017.html">French elections 2017</a>, <a href="/topics/country/france.html">France</a>, <a href="/topics/categories/politics.html">Politics</a>, <a href="/topics/people/emmanuel-macron.html">Emmanuel Macron</a></p>
+    </div></article><article class="blurb-wide clearfix"><a class="play" href="/programmes/peopleandpower/2016/11/piracy-nigeria-161117080711053.html"><img class="db1 tb1" src="/mritems/imagecache/mbdresplarge/mritems/Images/2016/11/17/6d96227025854636b4550b3b2bc01ace_18.jpg" title="Piracy in Nigeria" alt="Piracy in Nigeria"></a><div class="db2-db3 tb2-tb3">
+      <h1><a href="/programmes/peopleandpower/2016/11/piracy-nigeria-161117080711053.html">Piracy in Nigeria</a></h1>
+      <p>People and Power investigates the rise of piracy in the oil-rich Niger Delta region.</p>
+      <p class="meta"><a href="/topics/country/nigeria.html">Nigeria</a>, <a href="/topics/categories/human_rights.html">Human Rights</a>, <a href="/topics/country/niger.html">Niger</a>, <a href="/topics/regions/africa.html">Africa</a></p>
+    </div></article><article class="blurb-wide clearfix"><a class="play" href="/programmes/peopleandpower/2017/03/montenegrin-coup-170302060130440.html"><img class="db1 tb1" src="/mritems/imagecache/mbdresplarge/mritems/Images/2017/3/2/95a6277ba3e94e6faea99f4aa6723d99_18.jpg" title="A Very Montenegrin Coup" alt="A Very Montenegrin Coup"></a><div class="db2-db3 tb2-tb3">
+      <h1><a href="/programmes/peopleandpower/2017/03/montenegrin-coup-170302060130440.html">A Very Montenegrin Coup</a></h1>
+      <p>Last October, Montenegro's prime minister announced that an attempted coup had been foiled, but was this 'fake news'?</p>
+      <p class="meta"><a href="/topics/categories/politics.html">Politics</a>, <a href="/topics/country/montenegro.html">Montenegro</a>, <a href="/topics/country/russia.html">Russia</a></p>
+    </div></article><article class="blurb-wide clearfix"><a class="play" href="/programmes/peopleandpower/2017/02/afghanistan-fall-helmand-170223060925342.html"><img class="db1 tb1" src="/mritems/imagecache/mbdresplarge/mritems/Images/2017/2/23/be61c023475a4b7e989d80b73eb73205_18.jpg" title="Afghanistan: The Fall Of Helmand" alt="Afghanistan: The Fall Of Helmand"></a><div class="db2-db3 tb2-tb3">
+      <h1><a href="/programmes/peopleandpower/2017/02/afghanistan-fall-helmand-170223060925342.html">Afghanistan: The Fall Of Helmand</a></h1>
+      <p>People and Power goes behind the scenes with the Taliban in the Helmand province of Afghanistan.</p>
+      <p class="meta"><a href="/topics/country/afghanistan.html">Afghanistan</a>, <a href="/topics/organisations/taliban.html">Taliban</a></p>
+    </div></article><article class="blurb-wide clearfix"><a class="play" href="/programmes/peopleandpower/2016/08/brazil-river-mud-160818081002569.html"><img class="db1 tb1" src="/mritems/imagecache/mbdresplarge/mritems/Images/2016/10/25/ac3af771eb184bafa0adfe16464c245e_18.jpg" title="Brazil's River of Mud " alt="Brazil's River of Mud "></a><div class="db2-db3 tb2-tb3">
+      <h1><a href="/programmes/peopleandpower/2016/08/brazil-river-mud-160818081002569.html">Brazil's River of Mud </a></h1>
+      <p>We investigate the events leading up to the Fundao dam disaster. Is enough being done to avoid future recurrences?</p>
+      <p class="meta"><a href="/topics/country/brazil.html">Brazil</a>, <a href="/topics/categories/environment.html">Environment</a>, <a href="/topics/categories/poverty-development.html">Poverty &amp; Development</a></p>
+    </div></article><article class="blurb-wide clearfix"><a class="play" href="/programmes/peopleandpower/2017/01/cote-partial-justice-170126114050818.html"><img class="db1 tb1" src="/mritems/imagecache/mbdresplarge/mritems/Images/2017/1/26/32a064e28bec4bd58543cb59ba1706e3_18.jpg" title="Cote d'Ivoire: Partial Justice" alt="Cote d'Ivoire: Partial Justice"></a><div class="db2-db3 tb2-tb3">
+      <h1><a href="/programmes/peopleandpower/2017/01/cote-partial-justice-170126114050818.html">Cote d'Ivoire: Partial Justice</a></h1>
+      <p>An investigation into a massacre reveals the lack of political will to unite the country.</p>
+      <p class="meta"><a href="/topics/categories/human_rights.html">Human Rights</a>, <a href="/topics/country/ivory-coast.html">Ivory Coast</a>, <a href="/topics/categories/politics.html">Politics</a>, <a href="/topics/regions/africa.html">Africa</a></p>
+    </div></article><article class="blurb-wide clearfix"><a class="play" href="/programmes/peopleandpower/2017/01/hong-kong-localist-revolutionaries-170118060422170.html"><img class="db1 tb1" src="/mritems/imagecache/mbdresplarge/mritems/Images/2017/1/18/43805ced08af4758805d9d14781aa6f9_18.jpg" title="Hong Kong's Localist Revolutionaries" alt="Hong Kong's Localist Revolutionaries"></a><div class="db2-db3 tb2-tb3">
+      <h1><a href="/programmes/peopleandpower/2017/01/hong-kong-localist-revolutionaries-170118060422170.html">Hong Kong's Localist Revolutionaries</a></h1>
+      <p>Why a new group of radical activists in Hong Kong are calling for greater autonomy - and even independence - from China.</p>
+      <p class="meta"><a href="/topics/issues/democracy.html">Democracy</a>, <a href="/topics/country/china.html">China</a>, <a href="/topics/regions/asia-pacific.html">Asia Pacific</a>, <a href="/topics/categories/human_rights.html">Human Rights</a></p>
+    </div></article><article class="blurb-wide clearfix"><a class="play" href="/programmes/peopleandpower/2017/01/interpol-red-alert-170111133954581.html"><img class="db1 tb1" src="/mritems/imagecache/mbdresplarge/mritems/Images/2017/1/11/482cc152839d405789c0aed367c05fcb_18.jpg" title="Interpol: Red Alert!" alt="Interpol: Red Alert!"></a><div class="db2-db3 tb2-tb3">
+      <h1><a href="/programmes/peopleandpower/2017/01/interpol-red-alert-170111133954581.html">Interpol: Red Alert!</a></h1>
+      <p>How states have used Interpol alerts to persecute exiled dissidents and refugees across international borders.</p>
+      <p class="meta"><a href="/topics/categories/politics.html">Politics</a>, <a href="/topics/subjects/security.html">Security</a>, <a href="/topics/categories/human_rights.html">Human Rights</a></p>
+    </div></article><article class="blurb-wide clearfix"><a class="play" href="/programmes/peopleandpower/2016/07/india-burning-city-160711081146127.html"><img class="db1 tb1" src="/mritems/imagecache/mbdresplarge/mritems/Images/2016/7/11/bca041906dc9424998dfd29aab8ba569_18.jpg" title="India: The Burning City " alt="India: The Burning City "></a><div class="db2-db3 tb2-tb3">
+      <h1><a href="/programmes/peopleandpower/2016/07/india-burning-city-160711081146127.html">India: The Burning City </a></h1>
+      <p>We investigate how an underground fire that has been burning for 100 years has led to one of India's largest land grabs.</p>
+      <p class="meta"><a href="/topics/country/india.html">India</a>, <a href="/topics/categories/environment.html">Environment</a>, <a href="/topics/categories/health.html">Health</a></p>
+    </div></article><article class="blurb-wide clearfix"><a class="play" href="/programmes/peopleandpower/2016/11/iran-water-crisis-161109114752047.html"><img class="db1 tb1" src="/mritems/imagecache/mbdresplarge/mritems/Images/2016/11/9/c12fafcd8ae741b99c20a279ef92db32_18.jpg" title="Iran's Water Crisis" alt="Iran's Water Crisis"></a><div class="db2-db3 tb2-tb3">
+      <h1><a href="/programmes/peopleandpower/2016/11/iran-water-crisis-161109114752047.html">Iran's Water Crisis</a></h1>
+      <p>We investigate the race to save Iran's water, before water scarcity dries out entire cities and displaces millions.</p>
+      <p class="meta"><a href="/topics/country/iran.html">Iran</a>, <a href="/topics/issues/water.html">Water</a>, <a href="/topics/categories/environment.html">Environment</a>, <a href="/topics/regions/middleeast.html">Middle East</a></p>
+    </div></article><article class="blurb-wide clearfix"><a class="play" href="/programmes/peopleandpower/2016/11/search-great-american-job-161102065913173.html"><img class="db1 tb1" src="/mritems/imagecache/mbdresplarge/mritems/Images/2016/11/2/7eb6756f0a2c463486007e7d21d815f5_18.jpg" title="In Search of the Great American Job" alt="In Search of the Great American Job"></a><div class="db2-db3 tb2-tb3">
+      <h1><a href="/programmes/peopleandpower/2016/11/search-great-american-job-161102065913173.html">In Search of the Great American Job</a></h1>
+      <p>Can the next US president retrieve the secure, well-paid employment enjoyed by previous generations of American workers?</p>
+      <p class="meta"><a href="/topics/events/election-2016.html">US Elections 2016</a>, <a href="/topics/subjects/unemployment.html">Unemployment</a></p>
+    </div></article><article class="blurb-wide clearfix"><a class="play" href="/programmes/peopleandpower/2016/10/armenia-divided-161026070435409.html"><img class="db1 tb1" src="/mritems/imagecache/mbdresplarge/mritems/Images/2016/7/31/915cd72059874d0c860487bc02b504fc_18.jpg" title="Armenia: Divided Within?" alt="Armenia: Divided Within?"></a><div class="db2-db3 tb2-tb3">
+      <h1><a href="/programmes/peopleandpower/2016/10/armenia-divided-161026070435409.html">Armenia: Divided Within?</a></h1>
+      <p>Could a faltering economy, corruption and public disaffection over its relationship with Russia lead to an uprising?</p>
+      <p class="meta"><a href="/topics/country/armenia.html">Armenia</a>, <a href="/topics/regions/nagorno-karabakh.html">Nagorno-Karabakh</a>, <a href="/topics/categories/politics.html">Politics</a></p>
+    </div></article><article class="blurb-wide clearfix"><a class="play" href="/programmes/peopleandpower/2016/08/india-nuclear-riddle-160831143938805.html"><img class="db1 tb1" src="/mritems/imagecache/mbdresplarge/mritems/Images/2016/8/31/4e5b49364a5344b7a930c8fc5db562c4_18.jpg" title="India's Nuclear Riddle" alt="India's Nuclear Riddle"></a><div class="db2-db3 tb2-tb3">
+      <h1><a href="/programmes/peopleandpower/2016/08/india-nuclear-riddle-160831143938805.html">India's Nuclear Riddle</a></h1>
+      <p>People and Power investigates whether India is about to escalate its nuclear arms race with rivals Pakistan and China.
+</p>
+      <p class="meta"><a href="/topics/issues/nuclear-weapons.html">Nuclear weapons</a>, <a href="/topics/country/india.html">India</a>, <a href="/topics/country/pakistan.html">Pakistan</a></p>
+    </div></article><article class="blurb-wide clearfix"><a class="play" href="/programmes/peopleandpower/2016/08/war-world-forgot-160824134809716.html"><img class="db1 tb1" src="/mritems/imagecache/mbdresplarge/mritems/Images/2016/8/24/1ff2dd9140f047d19204d077ac578d99_18.jpg" title="The War the World Forgot" alt="The War the World Forgot"></a><div class="db2-db3 tb2-tb3">
+      <h1><a href="/programmes/peopleandpower/2016/08/war-world-forgot-160824134809716.html">The War the World Forgot</a></h1>
+      <p>People and Power investigates the forgotten war taking place on the borders between North and South Sudan.</p>
+      <p class="meta"><a href="/topics/country/south-sudan.html">South Sudan</a>, <a href="/topics/country/sudan.html">Sudan</a>, <a href="/topics/people/omar-bashir.html">Omar al-Bashir</a></p>
+    </div></article><!-- googleon: index --></blurb><button id="btn_showmore" type="button" cmdtext="D2AEAD90362EBA2D588998BF152C2F79DCCA892CE9479B7D17D92437212EAE2D7FE84BDC2837CC51EFD244383B1990CC1220D7BFD71276F466155155CD7CC40C0CF4A508390B3E2E681C67DFBB54C66822AE1FF7B8CCAC984AA29220C1054A1E11E9501050703530185C9B66BE45E6B6102F4E8202C6B90833FDF9B7246649BEC24C1E4B0AC0B2EA0A105729AD9B270D" class="showmorebutton" onclick="Sys_ShowMore(this);">Show More</button></div></div></div></div><div></div></div></div></div></div></div></div><div></div></div><div><div style="width:100%"><div><aside id="main-content-sidebar" class="da5-da6 ta5-ta6 da-pad ta-pad box db-showgrid " type="renderzoneblock"><div><div><div><div style="width:100%"><div><div><div><div><div style="width:100%"><div guid="" path="AlJazeeraAdsBox" inherited="a1" applyzonekeepinhritance="true"><div><div><div><div style="width:100%"><div><div><div><div><div style="width:100%"><div><section class="divgptad" style="text-align: center;"><div><div style=";border-style:none"><!-- googleoff: index --><div class="RightSideAds" id="toprightlongad"></div><!-- googleon: index --></div></div></section><!--PageLoadedSucessfully--></div></div><div></div></div></div></div></div></div><div></div></div></div></div></div></div><div></div></div></div></div></div></div><div></div></div></div></div><div><div><div><div style="width:100%"><div><div><div><div><div style="width:100%"><div guid="" path="LatestNewsContent" inherited="a1" applyzonekeepinhritance="true"><div><div><div><div style="width:100%"><div><div><div><div><div style="width:100%"><div></div></div><div></div></div><div><div style="width:100%"><div><div><div style=";border-style:none"><!-- googleoff: index --><section class="page-section box-section-news da-all da-pad ta-all ta-pad ArticlesSideBarNews"><div class="heading-section h1class TS_MainTitle" cn="MainTitle">Latest News</div><article class="blurb-wide clearfix"><a href="/news/2018/02/iran-denies-hegemon-plans-denounces-saudi-israel-180218164231680.html"><img width="100%" class="db1" src="/mritems/imagecache/mbdresplarge/mritems/Images/2018/2/18/8868d44ecc354d9db6a28bb30c2f0875_18.jpg" alt="{Caption}" title="Iran denies 'hegemon' plans, denounces Saudi and Israel"></a><div class="db2-db3">
+      <div class="h1class cntype-200771816342556199"><a href="/news/2018/02/iran-denies-hegemon-plans-denounces-saudi-israel-180218164231680.html">Iran denies 'hegemon' plans, denounces Saudi and Israel</a></div>
+      <p>Saudi Arabia urges 'fundamental change in Iranian regime' as Tehran's foreign minister calls foes 'US client states'. </p>
+      <p class="meta da-clear"><a href="/topics/regions/middleeast.html">Middle East</a>, <a href="/topics/country/israel.html">Israel</a>, <a href="/topics/country/saudi-arabia.html">Saudi Arabia</a>, <a href="/topics/country/iran.html">Iran</a></p>
+    </div></article><article class="blurb-wide clearfix"><a href="/news/2018/02/12-isil-widows-sentenced-death-life-iraqi-court-180218172230088.html"><img width="100%" class="db1" src="/mritems/imagecache/mbdresplarge/mritems/Images/2018/2/18/12e80a4b84e24c359e7312880895c864_18.jpg" alt="{Caption}" title="12 ISIL widows sentenced to death, life by Iraqi court"></a><div class="db2-db3">
+      <div class="h1class cntype-200771816342556199"><a href="/news/2018/02/12-isil-widows-sentenced-death-life-iraqi-court-180218172230088.html">12 ISIL widows sentenced to death, life by Iraqi court</a></div>
+      <p>A dozen foreign women who joined ISIL husbands while fighting in Iraq sentenced by a court in Baghdad. </p>
+      <p class="meta da-clear"><a href="/topics/country/iraq.html">Iraq</a>, <a href="/topics/organisations/isis-isil.html">ISIS</a>, <a href="/topics/regions/middleeast.html">Middle East</a></p>
+    </div></article></section><!-- googleon: index --></div></div><!--PageLoadedSucessfully--></div></div><div></div></div></div></div></div></div><div></div></div></div></div></div></div><div></div></div></div></div></div></div><div></div></div></div></div><div><div><div><div style="width:100%"><div><div><div><div><div style="width:100%"><div guid="" path="MostViewedToday" inherited="a1" applyzonekeepinhritance="true"><div><div><div><div style="width:100%"><div><div><div style=";border-style:none"><div class="MostViewedArticlesNew"><!-- googleoff: index --><section class="page-section box-section ta-all ta-pad da-pad da-all "><div class="heading-section h1class">Trending</div>
+    <ol class="list">
+      <li><a onclick="sendGAEvent('Right Lane','click','Most Viewed Articles');" href="/news/2018/02/canada-deports-north-korean-asylum-seekers-180218144353430.html" target="">Canada deports North Korean asylum seekers</a></li>
+      <li><a onclick="sendGAEvent('Right Lane','click','Most Viewed Articles');" href="/news/2018/02/12-isil-widows-sentenced-death-life-iraqi-court-180218172230088.html" target="">12 ISIL widows sentenced to death, life by Iraqi court</a></li>
+      <li><a onclick="sendGAEvent('Right Lane','click','Most Viewed Articles');" href="/news/2018/02/iran-denies-hegemon-plans-denounces-saudi-israel-180218164231680.html" target="">Iran denies 'hegemon' plans, denounces Saudi and Israel</a></li>
+      <li><a onclick="sendGAEvent('Right Lane','click','Most Viewed Articles');" href="/news/2018/02/iranian-passenger-plane-crashes-isfahan-180218074546342.html" target="">Iran plane crash kills all 66 people on board</a></li>
+      <li><a onclick="sendGAEvent('Right Lane','click','Most Viewed Articles');" href="/indepth/opinion/winner-russian-presidential-race-180218104653257.html" target="">How Navalny changed the rules of the game in Russia</a></li>
+      <li><a onclick="sendGAEvent('Right Lane','click','Most Viewed Articles');" href="/programmes/the-crusades-an-arab-perspective/2016/12/revival-muslim-response-crusades-161210142659166.html" target="">Revival: The Muslim Response to the Crusades</a></li>
+      <li><a onclick="sendGAEvent('Right Lane','click','Most Viewed Articles');" href="/indepth/features/iran-india-sign-deal-deepen-relations-180218131756257.html" target="">Iran and India sign deal to deepen relations</a></li>
+      <li><a onclick="sendGAEvent('Right Lane','click','Most Viewed Articles');" href="/indepth/opinion/2017/05/africa-poor-stealing-wealth-170524063731884.html" target="">Africa is not poor, we are stealing its wealth</a></li>
+      <li><a onclick="sendGAEvent('Right Lane','click','Most Viewed Articles');" href="/programmes/insidestory/2018/02/triggered-unrest-ethiopia-180217185056520.html" target="">What triggered unrest in Ethiopia?</a></li>
+      <li><a onclick="sendGAEvent('Right Lane','click','Most Viewed Articles');" href="/programmes/insidestory/2018/02/robert-mueller-investigation-180218134745501.html" target="">How far will Robert Mueller's investigation go?</a></li>
+    </ol></section><!-- googleon: index --></div></div></div><!--PageLoadedSucessfully--></div></div><div></div></div></div></div></div></div><div></div></div></div></div></div></div><div></div></div></div></div></aside></div></div><div></div></div></div></div></div></div></div><div></div></div></div></div></div></div></div><div></div></div></div></div><div><div><div><div style="width:100%"><div></div></div><div></div></div></div></div></div></div></div><div></div></div></div></div></div>
+</div>
+
+<div id="Container_Zone_3" handle="footer" type="regular"></div>
+
+
+<div>
+<div><div><div><div><div style="width:100%"><div><section class="dark m-hide oryx-custom-clear"><div><div style=";border-style:none"><?xml version="1.0" encoding="utf-16"?><!-- googleoff: index --><div class="wrapper"><div class="heading-section h1class">MUST-SEE PROGRAMMES</div><article class=" item blurb  t1 d1"><h4 class="heading-section" style="padding-bottom:0px"><a class="showStrandName" href="/programmes/peopleandpower/">People & Power</a></h4><a href="/programmes/peopleandpower/2014/05/ukraine-dangerous-game-201451485934578156.html" onclick="sendGAEvent('Bottom Content','click','Program Highlights');" class="play"><img class="lazy" data-src="/mritems/imagecache/mbdresplarge/mritems/Images/2014/5/14//2014514131019630734_20.jpg" alt="Ukraine: A dangerous game" title="Ukraine: A dangerous game" src="/img/nov-2016/novresptopfeature.jpg"></a><h4><a href="/programmes/peopleandpower/2014/05/ukraine-dangerous-game-201451485934578156.html" style="text-transform: none;" onclick="sendGAEvent('Bottom Content','click','Program Highlights');">Ukraine: A dangerous game</a></h4><p>As crucial elections approach, is Ukraine really as divided as people have been told?</p><p class="meta"><a href="/topics/subjects/crimea.html">Crimea</a>, <a href="/topics/country/ukraine.html">Ukraine</a>, <a href="/topics/country/russia.html">Russia</a></p></article><article class=" item blurb  t2 d2"><h4 class="heading-section" style="padding-bottom:0px"><a class="showStrandName" href="/programmes/gaddafitheendgame/gaddafitheendgame.html">Gaddafi: The Endgame</a></h4><a href="/programmes/gaddafitheendgame/2011/12/2011128924117170.html" onclick="sendGAEvent('Bottom Content','click','Program Highlights');" class="play"><img class="lazy" data-src="/mritems/imagecache/mbdresplarge/mritems/Images/2011/12/8/201112885625275580_20.jpg" alt="Libya: State of Denial" title="Libya: State of Denial" src="/img/nov-2016/novresptopfeature.jpg"></a><h4><a href="/programmes/gaddafitheendgame/2011/12/2011128924117170.html" style="text-transform: none;" onclick="sendGAEvent('Bottom Content','click','Program Highlights');">Libya: State of Denial</a></h4><p>The story of the fall of Gaddafi as told by the insiders, defectors and military advisers who helped bring it about.</p><p class="meta"><a href="/topics/people/muammar-gaddafi.html">Muammar Gaddafi</a>, <a href="/topics/country/libya.html">Libya</a>, <a href="/topics/categories/politics.html">Politics</a></p></article><article class=" item blurb  t3 d3"><h4 class="heading-section" style="padding-bottom:0px"><a class="showStrandName" href="/programmes/talktojazeera/">Talk to Al Jazeera</a></h4><a href="/programmes/talktojazeera/2015/05/hailemariam-desalegn-democracy-election-150522074045193.html" onclick="sendGAEvent('Bottom Content','click','Program Highlights');" class="play"><img class="lazy" data-src="/mritems/imagecache/mbdresplarge/mritems/Images/2015/5/22/c551a037ac1d46b38ecf12ece7d1e3db_18.jpg" alt="Hailemariam Desalegn: Democracy 'not only an election'" title="Hailemariam Desalegn: Democracy 'not only an election'" src="/img/nov-2016/novresptopfeature.jpg"></a><h4><a href="/programmes/talktojazeera/2015/05/hailemariam-desalegn-democracy-election-150522074045193.html" style="text-transform: none;" onclick="sendGAEvent('Bottom Content','click','Program Highlights');">Hailemariam Desalegn: Democracy 'not only an election'</a></h4><p>The Ethiopian prime minister discusses democracy, human rights, press freedom and the future of his country.</p><p class="meta"><a href="/topics/categories/politics.html">Politics</a>, <a href="/topics/categories/human_rights.html">Human Rights</a>, <a href="/topics/country/ethiopia.html">Ethiopia</a></p></article><article class=" item blurb  t4 d4"><h4 class="heading-section" style="padding-bottom:0px"><a class="showStrandName" href="/programmes/">Programmes</a></h4><a href="/programmes/2011/08/201184144547798162.html" onclick="sendGAEvent('Bottom Content','click','Program Highlights');" class="play"><img class="lazy" data-src="/mritems/imagecache/mbdresplarge/mritems/Images/2011/7/29/2011729191150887734_20.jpg" alt="Bahrain: Shouting in the Dark" title="Bahrain: Shouting in the Dark" src="/img/nov-2016/novresptopfeature.jpg"></a><h4><a href="/programmes/2011/08/201184144547798162.html" style="text-transform: none;" onclick="sendGAEvent('Bottom Content','click','Program Highlights');">Bahrain: Shouting in the Dark</a></h4><p>The story of the Arab revolution that was abandoned by the Arabs, forsaken by the West and forgotten by the world.</p><p class="meta"><a href="/topics/country/bahrain.html">Bahrain</a>, <a href="/topics/regions/middleeast.html">Middle East</a>, <a href="/topics/subjects/arab-spring.html">Arab Spring</a></p></article></div><!-- googleon: index --></div></div></section><!--PageLoadedSucessfully--></div></div><div></div></div></div></div></div>
+</div>
+
+<div>
+<!-- googleoff: index -->
+<div><div><div><div><div style="width:100%"><div><div><div style=";border-style:none"><footer id="site-footer">
+	<div class="FooterTopBar">
+		<nav class="nav-social wrapper clearfix" id="footer-nav">
+			<p>
+				<a href="#"><!--[if (!IE) | (gt IE 8)]><!--></a><img alt="Al Jazeera" class="t1 da1" id="footer-logo" onerror="this.onerror=null; this.src='/mritems/images/site/logo-footer.png'" src="/mritems/images/site/aje-logo-white.svg"> <!--<![endif]--><!--[if lte IE 8]><img class="t1 da1" id="footer-logo" src="img/logo-footer.png" alt="Al Jazeera" /><![endif]--></p>
+			<ul class="ta1-t4 da2-da4" id="footer-nav-main">
+				<li>
+					<a href="/news/">News</a></li>
+				<li>
+					<a href="/programmes/">Programmes</a></li>
+				<li>
+					<a href="/indepth/opinion/">Opinion</a></li>
+				<li>
+					<a href="/aboutus/">About</a></li>
+				<li>
+					<a href="/investigations/">Investigations</a></li>
+				<li class="for-mobile" style="display: none;">
+					<a href="/contactus/">Contact Us</a></li>
+				<li class="last m-hide">
+					<a href="http://video.aljazeera.com/channels/eng" target="_blank">Video</a></li>
+			</ul>
+			<ul id="footer-nav-social">
+				<li>
+					<a class="icon-facebook" href="http://www.facebook.com/aljazeera" target="_blank">Facebook</a></li>
+				<li>
+					<a class="icon-twitter" href="http://twitter.com/ajenglish" target="_blank">Twitter</a></li>
+				<li>
+					<a class="icon-google" href="http://plus.google.com/+aljazeera" target="_blank">Google+</a></li>
+				<li>
+					<a class="icon-rss" href="/xml/rss/all.xml" target="_blank">RSS</a></li>
+				<li>
+					<a class="icon-pod" href="/programmes/Podcasts.html" target="_blank">Podcast</a></li>
+				<li>
+					<a class="icon-youtube" href="https://www.youtube.com/user/AlJazeeraEnglish?sub_confirmation=1" target="_blank">YouTube</a></li>
+				<li>
+					<a class="Snapchat" href="https://www.snapchat.com/add/AJENews">SnapChat</a></li>
+			</ul>
+		</nav>
+		<p class="copyright for-mobile" style="display: none;margin-left: 20px;">
+			© 2017 Al Jazeera Media Network</p>
+	</div>
+	<div class="wrapper m-hide clearfix">
+		<div class="ta1-ta2">
+			<nav class="m1 da1 da-clear">
+				<div class="heading-list h1class">
+					About</div>
+				<ul class="list">
+					<li>
+						<a href="/aboutus/">About Us</a></li>
+					<li>
+						<a href="http://pr.aljazeera.com/" target="_blank">Press Office</a></li>
+					<li>
+						<a href="/pressoffice/2012/04/2012416161854868952.html">Awards</a></li>
+					<li>
+						<a href="/aboutus/2006/11/2008525185733692771.html">Code of Ethics</a></li>
+					<li>
+						<a href="/aboutus/2011/01/20111168582648190.html">Terms and Conditions</a></li>
+					<li>
+						<a href="/aboutus/2011/01/201111681520872288.html">Community Guidelines</a></li>
+					<li>
+						<a href="http://careers.aljazeera.net/en/" target="_blank">Work for us</a></li>
+					<li>
+						<a href="/hraquality" target="_blank">HR Quality</a></li>
+				</ul>
+			</nav>
+			<nav class="m2 da2">
+				<div class="heading-list h1class">
+					Connect</div>
+				<ul class="list">
+					<li>
+						<a href="/contactus/">Contact Us</a></li>
+					<li>
+						<a href="/connect/">Apps</a></li>
+					<li>
+						<a href="/aboutus/follow-us.html">Social</a></li>
+					<li>
+						<a href="http://sat.aljazeera.net/en">Channel Finder</a></li>
+					<li>
+						<a href="/watch_now/epgschedule.html">TV Schedule</a></li>
+					<li>
+						<a href="/programmes/Podcasts.html">Podcasts</a></li>
+					<li>
+						<a href="/newsletter">Newsletter</a></li>
+				</ul>
+			</nav>
+		</div>
+		<div class="ta3-ta4">
+			<nav class="m1 da3">
+				<div class="heading-list h1class">
+					Our Channels</div>
+				<ul class="list">
+					<li>
+						<a href="http://aljazeera.net" target="_blank">Al Jazeera Arabic</a></li>
+					<li>
+						<a href="http://aljazeera.com" target="_blank">Al Jazeera English</a></li>
+					<li>
+						<a href="http://mubasher.aljazeera.net" target="_blank">Al Jazeera Mubasher</a></li>
+					<li>
+						<a href="http://doc.aljazeera.net" target="_blank">Al Jazeera Documentary</a></li>
+					<li>
+						<a href="http://balkans.aljazeera.net" target="_blank">Al Jazeera Balkans</a></li>
+					<li>
+						<a href="http://ajplus.net" target="_blank">AJ+</a></li>
+				</ul>
+			</nav>
+			<nav class="m2 da4">
+				<div class="heading-list h1class">
+					Our Network</div>
+				<ul class="list">
+					<li>
+						<a href="https://www.jetty.fm" target="_blank">Jetty</a></li>
+					<li>
+						<a href="http://studies.aljazeera.net/en/" target="_blank">Al Jazeera Centre for Studies</a></li>
+					<li>
+						<a href="http://training.aljazeera.net" target="_blank">Al Jazeera Media Institute</a></li>
+					<li>
+						<a href="http://liberties.aljazeera.com/en" target="_blank">Al Jazeera Centre for Public Liberties &amp; Human Rights</a></li>
+					<li>
+						<a href="http://forum.aljazeera.net" target="_blank">Al Jazeera Forum</a></li>
+					<li>
+						<a href="http://festival.aljazeera.net" target="_blank">Al Jazeera Film Festival</a></li>
+					<li>
+						<a href="http://learning.aljazeera.net" target="_blank">Al Jazeera Learning</a></li>
+					<li>
+						<a href="http://partners.aljazeera.net" target="_blank">Al Jazeera Hotel Partners</a></li>
+				</ul>
+			</nav>
+		</div>
+		<div class="ta5-ta6">
+			<nav class="m1 da5">
+				<div class="heading-list h1class">
+					&nbsp;</div>
+				<ul class="list">
+				</ul>
+			</nav>
+			<nav class="m2 da6">
+				<p class="copyright">
+					© 2018 Al Jazeera Media Network</p>
+			</nav>
+		</div>
+	</div>
+</footer>
+<p>
+	&nbsp;</p>
+</div></div><!--PageLoadedSucessfully--></div></div><div></div></div></div></div></div>
+<!-- googleon: index -->
+</div>
+</div>
+
+<!-- footer tags -->
+<!-- Google Code for Remarketing Tag -->
+<script type="text/javascript" src="/assets/scripts/jquery.lazy.min.js"></script>
+<script type="text/javascript" src="/assets/scripts/jquery.lazy.plugins.min.js" async></script>
+
+<script>
+        $(function() {   
+	   
+            $('img.lazy').lazy({
+                effect: "fadeIn",
+                effectTime: 1000,
+		defaultImage: "http://www.aljazeera.com/img/nov-2016/novresptopfeature.jpg",
+		visibleOnly: true
+                
+            });
+
+	$('.thumbnails-container .lazy').lazy({
+                effect: "fadeIn",
+                effectTime: 1000,
+		defaultImage: "http://www.aljazeera.com/img/nov-2016/novresptopfeature.jpg",
+		appendScroll: $('.thumbnails-container'), 
+		visibleOnly: true
+                
+            });  
+        });
+
+    </script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 944250150;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/944250150/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+<!-- End Of Google Code for Remarketing Tag -->
+
+<!-- Google Code for PVE Conversion Page -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 944250150;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "ffffff";
+var google_conversion_label = "qHeuCOSxnF8QprqgwgM";
+var google_remarketing_only = false;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//www.googleadservices.com/pagead/conversion/944250150/?label=qHeuCOSxnF8QprqgwgM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+<!-- End Of Google Code for PVE Conversion Page -->
+
+<!-- Chartbeat Analytics -->
+<script type='text/javascript'>
+    var _sf_async_config={};
+    var _url = "";
+
+    try {
+        _url = getMetaContentByName("url");
+	_url = _url.replace("http://www.aljazeera.com","");
+        if (!_url)
+            _url = window.location.pathname;
+    }
+    catch (Error) {
+        console.log(Error);
+    }
+
+    _sf_async_config.uid = 3291;
+    _sf_async_config.domain = 'aljazeera.com';
+    _sf_async_config.path = _url;
+    _sf_async_config.playerdomain = 'players.brightcove.net';
+    
+    (function(){
+      function loadChartbeat() {
+        window._sf_endpt=(new Date()).getTime();
+        var e = document.createElement('script');
+        e.setAttribute('language', 'javascript');
+        e.setAttribute('type', 'text/javascript');
+        e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+        document.body.appendChild(e);
+      }
+      var oldonload = window.onload;
+      window.onload = (typeof window.onload != 'function') ?
+         loadChartbeat : function() { oldonload(); loadChartbeat(); };
+    })();
+</script>
+<!-- End Chartbeat Analytics -->
+<!-- Start MouseFlow analytics -->
+<script type="text/javascript">
+if(/Mobile|iPhone|iPod|BlackBerry|nokia|IEMobile|Opera Mini/i.test(navigator.userAgent)){
+var _mfq = _mfq || [];
+(function()
+{ var mf = document.createElement("script"); mf.type = "text/javascript"; mf.async = true; mf.src = "//cdn.mouseflow.com/projects/f9672d00-7a4d-4e54-8581-ee611286a05d.js"; document.getElementsByTagName("head")[0].appendChild(mf); }
+)();}
+var mouseflowPath = document.location.pathname;
+if ($(window).width() <= 767) mouseflowPath += "/smartphone";
+</script>
+<!-- End MouseFlow analytics -->
+ <!-- Google Analytics -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-1615344-7', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- End Google Analytics -->
+<!-- Start QCRI -->
+<script type="text/javascript">
+var owa_sampleRate = 1.0;
+var owa_baseUrl = '//track.qcri.org/';
+var owa_cmds = owa_cmds || [];
+owa_cmds.push(['setSiteId', 'www.aljazeera.com']);
+owa_cmds.push(['setCustomVar', 1, 'sampleRate', owa_sampleRate, 'page']);
+owa_cmds.push(['trackPageView']);
+ 
+(function() {
+	function load_owa() {	
+		var s = document.createElement('script');
+		s.type = 'text/javascript'; s.async = true;
+		s.src = owa_baseUrl + 'v2-track-min.js';
+		var x = document.getElementsByTagName('script')[0];
+		x.parentNode.insertBefore(s, x);
+		
+	}
+	var pageURL = 'http://www.aljazeera.com' + window.location.pathname;	if (pageURL.indexOf("opinion") > 0 || pageURL.indexOf("middleeast") > 0){
+
+		if( owa_sampleRate == 1.0 || Math.random() > (1.0 - owa_sampleRate) ) {
+			if (window.attachEvent) {
+		    	window.attachEvent('onload', load_owa);
+			} else {
+		    	window.addEventListener('load', load_owa, false);
+			}
+		}
+	}
+}());
+</script><!-- End QCRI -->
+
+<!-- Start --><script> 
+(function(a,b,c,d,e){function f(){var a=b.createElement("script");a.async=!0;
+a.src="//radar.cedexis.com/1/15249/radar.js";b.body.appendChild(a)}/\bMSIE 6/i
+.test(a.navigator.userAgent)||(a[c]?a[c](e,f,!1):a[d]&&a[d]("on"+e,f))})
+(window,document,"addEventListener","attachEvent","load");
+</script>  
+<!-- End -->
+<script type="text/javascript">
+$('#showing-on-now').on('click', function() {
+  ga('send', 'event', 'EPG', 'click', 'Show Now Link - Masthead');
+});
+$('#watch-now-link').on('click', function() {
+  ga('send', 'event', 'Watch Live', 'click', 'Watch Now Link - Masthead');
+});
+$('#watchlive').on('click', function() {
+  ga('send', 'event', 'Watch Live', 'click', 'Watch Now Icon - Top - Mobile');
+});
+$('#showing-on-next').on('click', function() {
+  ga('send', 'event', 'EPG', 'click', 'Show Next Link - Masthead');
+});
+$('#nav-topics').on('click', function() {
+  ga('send', 'event', 'Topics', 'click', 'Top Topics Bar - Masthead');
+});
+$('#weatherwidget').on('click', function() {
+  ga('send', 'event', 'Weather', 'click', 'Weather Widget - Masthead');
+});
+$('#SocialMediaIconsID').on('click', function() {
+  ga('Site Social Links','click','Top Social Icons - Masthead');
+});
+$('.live-watch').on('click', function() {
+  ga('send','event','Watch Live','click','Watch Now Link - Top Live Menu');
+});
+$('.live-listen').on('click', function() {
+  ga('send','event','Listen Live','click','Listen Now Link - Top Live Menu');
+});
+$('.TVScheduleLink').on('click', function() {
+  ga('send','event','TVSchedule','click','TVSchedule - Top Live Menu');
+});
+</script> 
+<!-- The content included from Summary Index Footer file --> 
+
+ <div class="TopAdContainer" id="topdivad" style="display:none;">
+<div id="topad">
+<div id="div-gpt-ad-1430377943388-0">  
+ <script type="text/javascript">
+googletag.cmd.push(function() { 
+googletag.display('div-gpt-ad-1430377943388-0'); 
+});
+</script>
+</div>
+</div>
+</div>
+
+<div id="rightlongad" style="display:none;">
+<div id="div-gpt-ad-1430377943388-1">  
+ <script type="text/javascript">	
+googletag.cmd.push(function() { 
+googletag.display('div-gpt-ad-1430377943388-1'); 
+});
+</script>
+</div>
+</div>
+
+<script type="text/javascript">
+	try {
+	$('.topadcontainer').remove();
+        $('#topdivad').insertAfter('#oryxcontext');
+	document.getElementById("topdivad").style.display = "block";
+ if (document.getElementById("toprightlongad")!= null){
+	var RightDiv = document.getElementById("toprightlongad");
+	RightDiv.innerHTML = document.getElementById("rightlongad").innerHTML;  
+	document.getElementById("rightlongad").innerHTML = "";
+}
+	$('#div-gpt-ad-1430377943388-2').remove();
+
+	}
+	catch(err) {
+    		
+	}
+</script> 
+
+
+
+     <!--PageLoadedSucessfully-->
+    </form>
+</body>
+</html>
