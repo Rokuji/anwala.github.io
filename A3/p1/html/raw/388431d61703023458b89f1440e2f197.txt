@@ -1,0 +1,105 @@
+https://riri.fm/kiss
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script>
+        window.destinationUrl = "http://smarturl.it/RiRiKiss";
+        window.au_audience_code = "MJNKST";
+    </script>
+    <meta charset="UTF-8">
+    <title>http://smarturl.it/RiRiKiss</title>
+    <meta property="fb:app_id" content="252943011797050" />
+    
+<meta property="og:title" content="Fragrance | Rihanna" />
+<meta name="twitter:title" content="Fragrance | Rihanna" />
+<meta property="og:image" content="https://slimages.macysassets.com/is/image/MCY/products/8/optimized/8286228_fpx.tif?$filterlrg$&wid=327" />
+<meta name="twitter:image" content="https://slimages.macysassets.com/is/image/MCY/products/8/optimized/8286228_fpx.tif?$filterlrg$&wid=327" />
+<meta property="og:description" content=" " />
+<meta name="twitter:description" content=" " />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary_large_image" />
+
+    <meta property="og:url" content="http://riri.fm/kiss" />
+</head>
+<body style="background: white">
+    <script>
+        setTimeout(function(){ window.location="http://smarturl.it/RiRiKiss"; }, 2000);
+    </script>
+    <script>
+        window.numAsyncTasks = 13;
+
+        function decrementCounter() {
+            window.numAsyncTasks--;
+            if ( window.numAsyncTasks <= 0 && typeof(window.destinationUrl) !== 'undefined' && window.destinationUrl !== ""){
+                window.location = window.destinationUrl;
+            }
+        }
+
+    </script>
+
+    <!-- Begin BlueKai Tag --> 
+	<iframe name="__bkframe" height="0" width="0" frameborder="0" 
+        style="display:none;position:absolute;clip:rect(0px 0px 0px 0px)" 
+        src="about:blank"></iframe> 
+    <script type="text/javascript"> 
+        window.bk_async = function() {
+        if("13"==="13" || "13"==="14"){
+            bk_addPageCtx("AuDigent_Test_Music", "1");
+        }
+        else{  
+            bk_addPageCtx("AuDigent_Test_All", "1");
+        }
+       BKTAG.doTag(51219, 0, !1, null, false, decrementCounter(), 0);
+    };
+    </script> 
+    <script type="text/javascript" src="https://tags.bkrtx.com/js/bk-coretag.js"></script>
+   <!-- End BlueKai Tag -->
+
+
+    
+      <img height="1" width="1" style="display:none;" alt="" src="https://analytics.twitter.com/i/adsct?p_id=Twitter&p_user_id=0&txn_id=nx558&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0" onload="decrementCounter()" />
+      <img height="1" width="1" style="display:none;" alt="" src="//t.co/i/adsct?p_id=Twitter&p_user_id=0&txn_id=nx558&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0" onload="decrementCounter()" />
+    
+    
+      <img height="1" width="1" style="display:none;" alt="" src="https://analytics.twitter.com/i/adsct?p_id=Twitter&p_user_id=0&txn_id=nx4xv&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0" onload="decrementCounter()" />
+      <img height="1" width="1" style="display:none;" alt="" src="//t.co/i/adsct?p_id=Twitter&p_user_id=0&txn_id=nx4xv&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0" onload="decrementCounter()" />
+    
+    <img src="https://analytics.twitter.com/i/adsct?p_id=18ce542xh3g&p_user_id=bd10b0e4-a7bc-47bd-8230-03b8965a8236" width="1" height="1" onload="decrementCounter()"/>
+    <img src="https://secure.adnxs.com/getuid?https://ids.ad.gt/api/v1/match?id=bd10b0e4-a7bc-47bd-8230-03b8965a8236&adnxs_id=$UID" width="1" height="1" onload="decrementCounter()"/>
+    <img src="https://match.adsrvr.org/track/cmf/generic?ttd_pid=8gkxb6n&ttd_tpi=1&ttd_puid=bd10b0e4-a7bc-47bd-8230-03b8965a8236" width="1" height="1" onload="decrementCounter()"/>
+    <img height="1" width="1" src="https://www.facebook.com/tr?id=1853083501571805&ev=PageView" onload="decrementCounter()"/>
+    <img height="1" width="1" src="https://www.facebook.com/tr?id=1853083501571805&ev=Audience&cd%5Baudience_id%5D=MJNKST&cd%5Baudigent_id%5D=bd10b0e4-a7bc-47bd-8230-03b8965a8236&cd%5Btype%5D=active&cd%5Bpartner_id%5D=13&cd%5Bshort_url_id%5D=2436.0&cd%5Bengagement_type%5D=0.0&cd%5Bcontent_type%5D=0.0&cd%5Bconversion_pixels%5D=0" onload="decrementCounter()"/>
+    
+        <img src="https://cm.g.doubleclick.net/pixel?google_nid=audigent_w_appnexus_3985&google_cm&google_sc&google_ula=450542624&id=bd10b0e4-a7bc-47bd-8230-03b8965a8236" width="1" height="1" onload="decrementCounter()"/>
+    
+    <img height="1" width="1" style="display:none;" alt="" src="https://idm.ad.gt/api/v1/set?auid=bd10b0e4-a7bc-47bd-8230-03b8965a8236" onload="decrementCounter()" />
+
+    <script type="text/javascript" src="https://pixels.ad.gt/api/v1/getpixels?url=http%3A//smarturl.it/RiRiKiss&code=MJNKST" onload="decrementCounter()"></script>
+    
+    <script>
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r;
+        i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+          }, i[r].l = 1 * new Date();
+        a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0];
+        a.async = 1;
+        a.src = g;
+        m.parentNode.insertBefore(a, m)
+      })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+      ga('create', 'UA-87198801-1', 'auto', 'auPassiveTagger');
+      ga('auPassiveTagger.set', 'dimension1', 'bd10b0e4-a7bc-47bd-8230-03b8965a8236');
+      ga('auPassiveTagger.set', 'dimension2', 'MJNKST');
+      ga('auPassiveTagger.set', 'dimension3', '13');
+      ga('auPassiveTagger.set', 'dimension4', window.location.host);
+      ga('auPassiveTagger.set', 'dimension5', window.location.pathname);
+      ga('auPassiveTagger.set', 'dimension6', 'Active Tagger');
+      ga('auPassiveTagger.set', 'dimension7', '09d80d2646f5ce867ffe773234917388');
+      ga('auPassiveTagger.send', 'pageview');
+    </script>
+    
+
+</body>
+</html>

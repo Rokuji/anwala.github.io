@@ -1,0 +1,1908 @@
+http://www.feelguide.com/2015/01/06/new-research-discovers-tha-depression-is-an-allergic-reaction-to-inflammation/
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" lang="en-US"
+	itemscope 
+	itemtype="http://schema.org/Article" 
+	prefix="og: http://ogp.me/ns#" >
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" lang="en-US"
+	itemscope 
+	itemtype="http://schema.org/Article" 
+	prefix="og: http://ogp.me/ns#" >
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" lang="en-US"
+	itemscope 
+	itemtype="http://schema.org/Article" 
+	prefix="og: http://ogp.me/ns#" >
+<![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-US"
+	itemscope 
+	itemtype="http://schema.org/Article" 
+	prefix="og: http://ogp.me/ns#" >
+<!--<![endif]-->
+<head>
+<meta charset="utf-8" />
+<title>New Research Discovers That Depression Is An Allergic Reaction To Inflammation</title>
+
+<!-- Set the viewport width to device width for mobile -->
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+
+<link rel="pingback" href="http://www.feelguide.com/xmlrpc.php" />
+
+<!-- Themnific Mobile & Special CSS -->
+<link href='https://fonts.googleapis.com/css?family=Amatic+SC|Titillium+Web:400,900,700|Magra:400,700|Fjalla+One|BenchNine:700|Karla:700|Armata|Raleway:400,900,800,600,700,500,300,200,100|Stint+Ultra+Condensed|Merriweather|Arbutus+Slab|Open+Sans+Condensed:300|Archivo+Black|Carrois+Gothic|Patua+One|Questrial|Marvel:400,700|Gudea:400,700,400italic|Bitter:400,700,400italic|Passion+One:400,700|Jockey+One|Quicksand:400,300,700|Terminal+Dosis:400,800,300,600|Sansita+One|Changa+One|Paytone+One|Dorsa|Rochester|Bigshot+One|Open+Sans:300,400,600,700,800|Merienda+One|Six+Caps|Bevan|Oswald|Vidaloka|Droid+Sans|Josefin+Sans|Dancing+Script:400,700|Abel|Rokkitt|Droid+Serif' rel='stylesheet' type='text/css'/>
+<script>(function(d, s, id){
+				 var js, fjs = d.getElementsByTagName(s)[0];
+				 if (d.getElementById(id)) {return;}
+				 js = d.createElement(s); js.id = id;
+				 js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.6";
+				 fjs.parentNode.insertBefore(js, fjs);
+			   }(document, 'script', 'facebook-jssdk'));</script>
+<!-- All in One SEO Pack Pro 2.5.5.1 by Michael Torbert of Semper Fi Web Design[652,799] -->
+<!-- Debug String: O77/PKWNQFXQB1JAYMW/YLDD+L4 -->
+<meta name="keywords"  content="depression" />
+
+<link rel="canonical" href="https://www.feelguide.com/2015/01/06/new-research-discovers-tha-depression-is-an-allergic-reaction-to-inflammation/" />
+<meta property="og:title" content="New Research Discovers That Depression Is An Allergic Reaction To Inflammation" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.feelguide.com/2015/01/06/new-research-discovers-tha-depression-is-an-allergic-reaction-to-inflammation/" />
+<meta property="og:image" content="http://www.feelguide.com/wp-content/uploads/2015/01/DepressionInflammation.jpg" />
+<meta property="og:site_name" content="FEELguide" />
+<meta property="og:description" content="New research is revealing that many cases of depression are caused by an allergic reaction to inflammation. Tim de Chant of NOVA writes: &quot;Inflammation is our immune system&#039;s natural response to injuries, infections, or foreign compounds. When triggered, the body pumps various cells and proteins to the site through the blood stream, including cytokines, a class of proteins that facilitate intercellular communication. It also happens that people suffering from depression are loaded with cytokines.&quot; Inflammation is caused by obesity, high sugar diets, high quantities of trans fats, unhealthy diets in general, and other causes. By treating the inflammatory symptoms of depression -- rather than the neurological ones -- researchers and doctors are opening up an exciting new dimension in the fight against what has become a global epidemic. Caroline Williams of The Guardian writes: &quot;The good news is that the few clinical trials done so far have found that adding anti-inflammatory medicines" />
+<meta property="article:published_time" content="2015-01-06T10:45:25Z" />
+<meta property="article:modified_time" content="2015-01-06T11:21:26Z" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="New Research Discovers That Depression Is An Allergic Reaction To Inflammation" />
+<meta name="twitter:description" content="New research is revealing that many cases of depression are caused by an allergic reaction to inflammation. Tim de Chant of NOVA writes: &quot;Inflammation is our immune system&#039;s natural response to injuries, infections, or foreign compounds. When triggered, the body pumps various cells and proteins to the site through the blood stream, including cytokines, a class of proteins that facilitate intercellular communication. It also happens that people suffering from depression are loaded with cytokines.&quot; Inflammation is caused by obesity, high sugar diets, high quantities of trans fats, unhealthy diets in general, and other causes. By treating the inflammatory symptoms of depression -- rather than the neurological ones -- researchers and doctors are opening up an exciting new dimension in the fight against what has become a global epidemic. Caroline Williams of The Guardian writes: &quot;The good news is that the few clinical trials done so far have found that adding anti-inflammatory medicines" />
+<meta name="twitter:image" content="http://www.feelguide.com/wp-content/uploads/2015/01/DepressionInflammation.jpg" />
+<meta itemprop="image" content="http://www.feelguide.com/wp-content/uploads/2015/01/DepressionInflammation.jpg" />
+<!-- /all in one seo pack pro -->
+<link rel='dns-prefetch' href='//w.sharethis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="FEELguide &raquo; Feed" href="https://www.feelguide.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="FEELguide &raquo; Comments Feed" href="https://www.feelguide.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="FEELguide &raquo; New Research Discovers That Depression Is An Allergic Reaction To Inflammation Comments Feed" href="https://www.feelguide.com/2015/01/06/new-research-discovers-tha-depression-is-an-allergic-reaction-to-inflammation/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.feelguide.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.4"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='style-css'  href='http://www.feelguide.com/wp-content/themes/columns/style.css?ver=4.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='prettyPhoto-css'  href='http://www.feelguide.com/wp-content/themes/columns/styles/prettyPhoto.css?ver=4.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='style-custom-css'  href='http://www.feelguide.com/wp-content/themes/columns/style-custom.css?ver=4.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome.min-css'  href='http://www.feelguide.com/wp-content/themes/columns/styles/font-awesome.min.css?ver=4.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-ie7-css'  href='http://www.feelguide.com/wp-content/themes/columns/styles/font-awesome-ie7.css?ver=4.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='mobile-css'  href='http://www.feelguide.com/wp-content/themes/columns/styles/mobile.css?ver=4.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='feed-bootstrap-css-css'  href='http://www.feelguide.com/wp-content/plugins/facebook-by-weblizar/css/bootstrap.min.css?ver=4.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='feed-font-awesome-min-css-css'  href='http://www.feelguide.com/wp-content/plugins/facebook-by-weblizar/css/font-awesome-latest/css/font-awesome.min.css?ver=4.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='feed-facebook-feed-shortcode-css-css'  href='http://www.feelguide.com/wp-content/plugins/facebook-by-weblizar/css/facebook-feed-shortcode.css?ver=4.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='feed-facebook-custom-box-slider-css-css'  href='http://www.feelguide.com/wp-content/plugins/facebook-by-weblizar/css/custom-box-slider.css?ver=4.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='instalink-lite-css'  href='http://www.feelguide.com/wp-content/plugins/instalinker/assets/instalink-lite/instalink-lite-1.4.0.min.css?ver=1.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-fancybox-styles-css'  href='http://www.feelguide.com/wp-content/plugins/magic-action-popup/assets/css/jquery.fancybox.css?ver=4.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='map-popup-styles-css'  href='http://www.feelguide.com/wp-content/plugins/magic-action-popup/assets/css/map-popup.css?ver=4.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='sossywp-font-css'  href='http://www.feelguide.com/wp-content/plugins/sossy-social-profile/lib/css/fontello.css?ver=4.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='sossywp-css-css'  href='http://www.feelguide.com/wp-content/plugins/sossy-social-profile/lib/css/sossy.css?ver=4.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='mab-base-style-css'  href='http://www.feelguide.com/wp-content/plugins/magic-action-box-pro/assets/css/magic-action-box-styles.css?ver=2.17.1' type='text/css' media='all' />
+<link rel='stylesheet' id='mab-preconfigured-style-mab-thedark-css'  href='http://www.feelguide.com/wp-content/plugins/magic-action-box-pro/styles/mab-thedark/style.css?ver=2.17.1' type='text/css' media='all' />
+<link rel='stylesheet' id='mab-actionbox-style-48320-css'  href='https://www.feelguide.com/wp-content/uploads/magic-action-box/actionbox-48320.css?ver=1488318188' type='text/css' media='all' />
+<link rel='stylesheet' id='mab-custom-buttons-css-css'  href='https://www.feelguide.com/wp-content/uploads/magic-action-box/custom-buttons.css?ver=1471034218' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.feelguide.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.feelguide.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://www.feelguide.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.feelguide.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.feelguide.com/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.feelguide.com/wp-content/themes/columns/functions/js/shortcodes.js?ver=1'></script>
+<script type='text/javascript' src='http://www.feelguide.com/wp-content/plugins/instalinker/assets/instalink-lite/instalink-lite-1.4.0.min.js?ver=1.5.2'></script>
+<script id='st_insights_js' type='text/javascript' src='http://w.sharethis.com/button/st_insights.js?publisher=4d48b7c5-0ae3-43d4-bfbe-3ff8c17a8ae6&#038;product=simpleshare'></script>
+<script type='text/javascript' src='http://www.feelguide.com/wp-content/plugins/magic-action-box-pro/assets/js/actionbox-helper.js?ver=2.17.1'></script>
+<script type='text/javascript' src='http://www.feelguide.com/wp-content/themes/columns/js/css3-mediaqueries.js?ver=4.9.4'></script>
+<link rel='https://api.w.org/' href='https://www.feelguide.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.feelguide.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.feelguide.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Scarlett Johansson To Star As Lead In Dreamworks&#8217; Live Action Thriller &#8220;Ghost In The Shell&#8221;' href='https://www.feelguide.com/2015/01/05/scarlett-johansson-to-star-as-lead-in-dreamworks-live-action-thriller-ghost-in-the-shell/' />
+<link rel='next' title='Lightmapping Projection Transforms Forest Into A Bioluminescent Dream World' href='https://www.feelguide.com/2015/01/06/lightmapping-projection-transforms-forest-into-a-bioluminescent-dream-world/' />
+<meta name="generator" content="WordPress 4.9.4" />
+<link rel='shortlink' href='https://www.feelguide.com/?p=42778' />
+<link rel="alternate" type="application/json+oembed" href="https://www.feelguide.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.feelguide.com%2F2015%2F01%2F06%2Fnew-research-discovers-tha-depression-is-an-allergic-reaction-to-inflammation%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.feelguide.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.feelguide.com%2F2015%2F01%2F06%2Fnew-research-discovers-tha-depression-is-an-allergic-reaction-to-inflammation%2F&#038;format=xml" />
+	<link rel="stylesheet" href="https://code.jquery.com/ui/1.10.2/themes/smoothness/jquery-ui.css" />
+	<script src="https://code.jquery.com/ui/1.10.2/jquery-ui.js"></script>
+	<script src="http://www.feelguide.com/wp-content/plugins/google-mp3-audio-player/jquery.ui.touch-punch.js"></script>
+	<script src="http://www.feelguide.com/wp-content/plugins/google-mp3-audio-player/swfobject.js"></script>
+	<link rel="stylesheet" href="http://www.feelguide.com/wp-content/plugins/google-mp3-audio-player/style.css" />
+	<script type="text/javascript">
+		
+		//An array containing the id's of all mp3 players
+		var ca_myPlayers = new Array();
+		//An array containing the Volume State of each mp3 player
+		var ca_volumeStates = new Array();
+		var ca_position = 0;
+		
+		var $codeart = jQuery.noConflict();
+		$codeart(document).ready(function() {
+		});
+		
+		//Function that checks whether or not an audio format is supported
+		function supports_media(mimetype, container) {
+			var elem = document.createElement(container);
+			if(typeof elem.canPlayType == 'function'){
+				var playable = elem.canPlayType(mimetype);
+				if((playable.toLowerCase() == 'maybe')||(playable.toLowerCase() == 'probably')){
+					return true;
+				}
+			}	
+			return false;
+		};
+		
+		function ca_stopAllAudio(except){
+			$codeart('audio').each(function(){
+				if(this.id!=except){
+					this.pause(); // Stop playing
+				}
+			});
+			$codeart('.playpause').removeClass('play');
+			$codeart('.playpause').addClass('pause');
+		}
+		
+		//Function that toogles play/pause functions of the audio element
+		function ca_tooglePlayPause(el,sender){
+			var btn = document.getElementById(sender.id);
+			if(document.getElementById(el).paused){
+				ca_stopAllAudio(el);
+				document.getElementById(el).play();	
+				btn.className = "playpause play";
+			}
+			else{
+				document.getElementById(el).pause();
+				btn.className = "playpause pause";
+			}
+		}
+		
+		//Funtion to stop the audio playing
+		function ca_stop(el,id){
+			document.getElementById(el).pause();
+			document.getElementById(el).currentTime = 0;
+			document.getElementById("playpause"+id).className = "playpause pause";
+		}
+		
+		//timeupdate media event handler
+		function ca_timeUpdate(el, sender, id){
+			//update span id current_time
+			var sec = sender.currentTime;
+			sec = sec % 3600;
+			var min = Math.floor(sec / 60);
+			sec = Math.floor(sec % 60);
+			if (sec.toString().length < 2) sec = "0" + sec;
+			if (min.toString().length < 2) min = "0" + min;
+			document.getElementById('currentTime'+id).innerHTML = min + ":" + sec + " / ";
+			
+			//update span id duration
+			var sec2 = sender.duration;
+			sec2 = sec2 % 3600;
+			var min2 = Math.floor(sec2 / 60);
+			sec2 = Math.floor(sec2 % 60);
+			if (sec2.toString().length < 2) sec2 = "0" + sec2;
+			if (min2.toString().length < 2) min2 = "0" + min2;
+			document.getElementById('duration'+id).innerHTML = min2 + ":" + sec2;
+			
+			//update seekbar attributes: start time, end time, and current time
+			var seekbar = document.getElementById(el);
+			seekbar.min = sender.startTime;
+			seekbar.max = sender.duration;
+			seekbar.value = sender.currentTime;
+			
+			$codeart( "#"+el ).slider( "value", sender.currentTime);
+			$codeart( "#"+el ).slider( "option", "max", sender.duration );
+			
+			//update buffered percent of the audio file
+			var width = $codeart('#seek'+id).width();
+			var parentWidth = $codeart('#seek'+id).offsetParent().width();
+			var percent = 100*width/parentWidth;
+			var res = (sender.buffered.end(0)/sender.duration)*percent+"%";
+			$codeart("#gutter"+id).css("width", res);
+		}
+		
+		//Toogle muted property of the audio
+		function ca_toogleMuted(el,sender){
+			var btn = document.getElementById(sender.id);
+			if(document.getElementById(el).muted==true){
+				document.getElementById(el).muted=false;
+				var i=ca_myPlayers.indexOf(el);
+				var classVolume = ca_volumeStates[i];
+				btn.className = "muteButton "+classVolume;
+			}
+			else{
+				document.getElementById(el).muted=true;
+				btn.className = "muteButton noVolume";
+			}
+		}
+		
+		//When the audio ends make the pause button look like a play button
+		function ca_audioEnded(el){
+			btn = document.getElementById(el);
+			btn.className = "playpause pause";
+		}
+		
+		//loadedmetadata Media event handler to update span id=duration of the audio player
+		function ca_metaLoaded(id){
+			var sender = document.getElementById("audio_with_controls"+id);
+			var sec = sender.duration;
+			sec = sec % 3600;
+			var min = Math.floor(sec / 60);
+			sec = Math.floor(sec % 60);
+			if (sec.toString().length < 2) sec = "0" + sec;
+			if (min.toString().length < 2) min = "0" + min;
+			document.getElementById('duration'+id).innerHTML = min + ":" + sec;
+		}
+		
+		//function to create the volume bar of the audio player
+		function ca_createVolumeBar(id){
+			$codeart("#volume"+id).slider({
+				value  : 75,
+				step   : 1,
+				range  : "min",
+				min    : 0,
+				max    : 100,
+				change : function(){
+					var value = $codeart("#volume"+id).slider("value");
+					var player = document.getElementById("audio_with_controls"+id);
+					player.volume = (value / 100);
+					
+					var classVolume = "";
+					if(value>55){
+						classVolume = "fullVolume";
+					} else if(value>10 && value<=55){
+						classVolume = "middleVolume";
+					} else{
+						classVolume = "noVolume";
+					}
+					var i=ca_myPlayers.indexOf("audio_with_controls"+id);
+					ca_volumeStates[i] = classVolume;
+					if(player.muted==true){
+						player.muted=false;
+					}
+					document.getElementById("muteButton"+id).className = "muteButton "+classVolume;
+				}
+			});
+		}
+		
+		//function to create the seek bar of the audio player
+		function ca_createSeekBar(id){
+			var seek = $codeart("#seek"+id).slider({
+				value  : 0,
+				step   : 0.00000001,
+				range  : "min",
+				min    : 0,
+				max    : document.getElementById("audio_with_controls"+id).duration,
+				slide  : function( event, ui ) {
+					var player = document.getElementById("audio_with_controls"+id);
+					player.currentTime = ui.value;
+				}
+			});
+		}
+		
+		//Initialize the volume state of the audio player when page is loaded
+		function ca_initMuteButtonClass(id){
+			ca_myPlayers[ca_position] = "audio_with_controls"+id;
+			if($codeart("#muteButton"+id).hasClass("fullVolume")) 
+			{
+				ca_volumeStates[ca_position] = "fullVolume";
+			} else if($codeart("#muteButton"+id).hasClass("middleVolume")){
+				ca_volumeStates[ca_position] = "middleVolume";
+			} else{
+				ca_volumeStates[ca_position] = "noVolume";
+			}
+			ca_position++;
+		}
+		
+		//Make the audio player responsive
+		function ca_responsiveAudioPlayer(id,skin,download){
+			var playerH = $codeart("#controls"+id).height();
+			var playerW = $codeart("#controls"+id).width();
+			
+			//Verticaly center playpause button
+			var playpauseH = $codeart("#playpause"+id).height();
+			var fplaypauseH = (playerH-playpauseH)/2;
+			$codeart("#playpause"+id).css("top",fplaypauseH);
+			
+			//Verticaly center seekbar
+			var seekH = $codeart("#seek"+id).height();
+			var fseekH = (playerH-seekH)/2;
+			$codeart("#seek"+id).css("top",fseekH);
+			
+			//Verticaly center gutter
+			var gutterH = $codeart("#gutter"+id).height();
+			var fgutterH = (playerH-gutterH)/2;
+			$codeart("#gutter"+id).css("top",fgutterH);
+			
+			//Verticaly adjust timer span to be above the seekbar
+			var timerH = 27;
+			var ftimerH = ((playerH-timerH)/2)-(gutterH);
+			$codeart("#timer"+id).css("top",ftimerH);
+			//Verticaly center volumebar
+			var volumeH = $codeart("#volume"+id).height();
+			var fvolumeH = (playerH-volumeH)/2;
+			$codeart("#volume"+id).css("top",fvolumeH);
+			//Verticaly center mute button
+			var muteH = $codeart("#muteButton"+id).height()+2;
+			var fmuteH = (playerH-muteH)/2;
+			$codeart("#muteButton"+id).css("top",fmuteH);
+			var stopminiH = $codeart("#stop"+id).height();
+			if(skin==="small"){
+				//Available space for the seekbar & volumebar within audio player
+				//The seekbar's volumebar's width attribute changes, other elements remain the same
+				var available = playerW-95;
+				if(download==="true"){
+					available = playerW-110;
+				}
+				//Verticaly center stop button
+				var fstopminiH = (playerH-stopminiH)/2;
+				var pomMuteR = 7;
+				var pomTimerR = 27;
+				if(download==="true"){
+					pomMuteR = 35;
+					pomTimerR = 50;
+				}
+			} else{
+				//Available space for the seekbar & volumebar within audio player
+				//The seekbar's volumebar's width attribute changes, other elements remain the same
+				var available = playerW-100;
+				//Align stop button with playpause button
+				var fstopminiH = (playpauseH+fplaypauseH-stopminiH);
+				var pomMuteR = 12;
+				var pomTimerR = 35;
+			}
+			//The seekbar and the gutter are 3/4 of the available space
+			var seekW = (available*75)/100;
+			$codeart("#seek"+id).css("width",seekW);
+			$codeart("#gutter"+id).css("width",seekW);
+			
+			//The volumebar is 1/4 of the available space
+			var volumeW = (available*25)/100;
+			if(download==="true" && skin==="small"){
+				volumeW = (available*20)/100;
+				$codeart("#volume"+id).css("right","34px");	
+				
+			}
+			$codeart("#volume"+id).css("width",volumeW);
+			
+			var muteR = volumeW+pomMuteR;
+			$codeart("#muteButton"+id).css("right",muteR);
+			var timerR = volumeW+pomTimerR;
+			$codeart("#timer"+id).css("right",timerR);
+			$codeart("#stop"+id).css("top",fstopminiH);
+			
+			if(download==="true")
+				$codeart("#downloadButton"+id).css("top",fstopminiH);
+		}
+		
+		function ca_appendDownloadButton(id,mp3){
+			$codeart('#default_player_fallback'+id).after('<a id="downloadButton'+id+'" class="download-flash" href="'+mp3+'"></a>');
+		}
+	</script>
+	
+	<style type="text/css">
+	.codeart-google-mp3-player .download-link{
+		display:block;
+		padding: 0 5px 0 5px;
+		float: left;
+	}
+	.codeart-google-mp3-player embed{
+		float: left;
+	}
+	.codeart-google-mp3-player{
+		overflow: hidden;
+	}
+	.codeart-google-mp3-player object{
+		float: left;
+	}
+	</style>
+	<!--[if gte IE 9]>
+		<style type="text/css">
+			.gradient {
+				filter: none;
+			}
+		</style>
+	<![endif]-->
+	<style>
+		div.sossy-social-profile .sossy-social-cover{
+							background-color: ;
+					}
+		div.sossy-social-profile .sossy-social-cover span.sossy-name, div.sossy-social-profile .sossy-social-cover span.sossy-desc{
+							color: ;
+					}
+		</style>
+	<script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//www.feelguide.com/?wordfence_lh=1&hid=A6991BA0FC238F3B86D9621C3740D2F6');
+</script><link rel="shortcut icon" href="https://www.feelguide.com/wp-content/uploads/2014/03/FEELguideFacebook1.jpg"/>
+<!-- Themnific Shortcodes CSS -->
+<link href="http://www.feelguide.com/wp-content/themes/columns/functions/css/shortcodes.css" rel="stylesheet" type="text/css" />
+
+<!-- Themnific Styling -->
+<style type="text/css">
+ul#block li,#footer,#sec-nav,.stuff,.body2{background-color:#1f1f1f}
+#navigation,body.page-template-homepage_alt-php .container,body.page-template-demo_homepage_alt-php .container,.hrline,h2.widget,.archivepost li:nth-child(even),.raws li:nth-child(even),.small_posts:nth-child(even),.ad300,#serinfo-nav li.current,#serinfo,.tagcloud a,#serpane3 a{background-color:#fafafa}
+.container,.nav li ul,.body3,#serpane3 a,ul.mansory>li{background-color:#ffffff}
+h2.widget span,#tickerwarp span.lab,.searchformhead input.s,p.meta_move,.scrollTo_top,.overrating,a#navtrigger,.hrline span,.hrlineB span,.flexcarousel .flex-direction-nav li a,.singleslider .flex-direction-nav li a,.page-numbers.current,.imgwrap,.nav-next a,.nav-previous a,span.ribbon,a.mainbutton,#submit,#comments .navigation a,.tagssingle a,.contact-form .submit{background-color:#47B7DD}
+#main-nav>li:hover,#main-nav>li.current-cat,#main-nav>li.current_page_item{border-color:#47B7DD !important}
+.nav a:hover,.tagcloud a:before,#serpane3 a:before,p.more a.fr{color:#47B7DD}
+body{background-color:#1f1f1f}
+.body1 a, a:link, a:visited,#serinfo h4 a,.related li a {color:#000000}
+#footer a,.body2 a{color:#d4d4d4 !important}
+.entry a,a:hover,.body1 a:hover,#serinfo a:hover,#homecontent h2 span a,.nav>li.current-cat>a,.nav>li.current_page_item>a {color:#1fc260}
+.imagepost,.videopost,.imageformat{background-color:#1fc260}
+#navigation,#serinfo-nav li.current,#serinfo,.widgetable,.searchformhead,.nav>li>a,#headtop,#header ul.social-menu li,.searchform input.s,#main-nav,#main-nav>li,.pagination,input, textarea,input checkbox,input radio,select, file{border-color:#e6e6e6 !important}
+.hrline,.hrlineB{background-color:#e6e6e6}
+.body2,.ratingblock,#footer h2,#footer .tagcloud a,#footer select,#footer .searchform input.s {border-color:#ddd !important}
+body,input, textarea,input checkbox,input radio,select, file {font:400 12px/1.8em "Sans Serif", sans-serif;color:#242424}
+#main-nav a,.nav ul li a {color:#242424}
+#footer,.stuff,#footer select,.body2 {font:400 11px/2.2em Arial, sans-serif;color:#e8e8e8}
+#footer h2,#footer h3,.stuff h2 a,.body2 h2,.body2 h3 {color:#e8e8e8}
+h1 {font:600 34px/1.1em "Open Sans", sans-serif;color:#1f1f1f}h2 {font:700 24px/1em "Raleway", sans-serif;color:#1c1c1c}h2.widget,.ratingblock h2,.archivepost li h2,#tickerwarp span.lab,.searchformhead input.s {font:700 10px/1.2em "Open Sans", sans-serif;color:#fff}h2.widget a {color:#fff}h3,ul#serinfo-nav li a {font:600 13px/1.5em "Open Sans", sans-serif;color:#1f1f1f}h4 {font:400 13px/1.5em "Open Sans", sans-serif;color:#5c5c5c}h5 {font:400 13px/1.5em "Open Sans", sans-serif;color:#5c5c5c}h6 {font:400 13px/1.5em "Open Sans", sans-serif;color:#5c5c5c}
+#sec-nav>li>a,.ratingblock p {font:600 12px/1em "Open Sans", sans-serif;color:#fff}#main-nav>li>a {font-family:"Open Sans", sans-serif}#main-nav>li>a {font-family:"Open Sans", sans-serif;font-weight:600}.tab-post small a,.taggs a,.ei-slider-thumbs li a {color:#242424}
+</style>
+<link rel="icon" href="https://www.feelguide.com/wp-content/uploads/2016/10/cropped-FBsquarelogo_MagicBoxNewsletterSideWidget_100-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.feelguide.com/wp-content/uploads/2016/10/cropped-FBsquarelogo_MagicBoxNewsletterSideWidget_100-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://www.feelguide.com/wp-content/uploads/2016/10/cropped-FBsquarelogo_MagicBoxNewsletterSideWidget_100-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.feelguide.com/wp-content/uploads/2016/10/cropped-FBsquarelogo_MagicBoxNewsletterSideWidget_100-270x270.png" />
+
+<meta name="google-site-verification" content="_E1vHQcU7K47svU9nBbysxRVIi_AqgNuIQze2sSyhvM" />
+
+</head>
+
+     
+<body class="post-template-default single single-post postid-42778 single-format-standard">
+    
+<div class="container twocols  upper"> 
+
+    <header id="header">
+    
+        <div id="tickerwarp" class="resmode-No">
+
+<span class="lab">Breaking</span>
+    
+    <ul class="scroller">
+    
+		        
+        <li>
+           <span class="tickdate">February 13, 2018  | </span><a href="https://www.feelguide.com/2018/02/13/my-night-with-david-lynch-his-epic-lecture-on-the-miracles-of-transcendental-meditation/"> My Night With David Lynch &#038; His Epic Lecture On The Miracles Of Transcendental Meditation</a>
+        </li>
+            
+                
+        <li>
+           <span class="tickdate">February 12, 2018  | </span><a href="https://www.feelguide.com/2018/02/12/hbos-paranormal-drama-here-and-now-explores-the-powerful-phenomenon-meaning-of-1111/"> HBO&#8217;s Paranormal Drama &#8216;Here And Now&#8217; Explores The Powerful Phenomenon &#038; Meaning Of 11:11</a>
+        </li>
+            
+                
+        <li>
+           <span class="tickdate">February 12, 2018  | </span><a href="https://www.feelguide.com/2018/02/12/out-magazine-caught-red-handed-revising-lgbt-olympic-history-with-kenworthy-rippon-posts/"> OUT Magazine Caught Red-Handed Revising LGBT Olympic History With Kenworthy-Rippon Posts</a>
+        </li>
+            
+                
+        <li>
+           <span class="tickdate">February 9, 2018  | </span><a href="https://www.feelguide.com/2018/02/09/video-shows-divers-arm-getting-paralyzed-from-sperm-whales-powerful-clicking-sound/"> Video Shows Diver&#8217;s Arm Getting Paralyzed From Sperm Whale&#8217;s Powerful Clicking Sound</a>
+        </li>
+            
+                
+        <li>
+           <span class="tickdate">February 8, 2018  | </span><a href="https://www.feelguide.com/2018/02/08/the-mystery-of-mary-trump-how-donalds-dark-relationship-with-his-mom-explains-his-mania/"> The Mystery Of Mary Trump: How Donald&#8217;s Dark Relationship With His Mom Explains His Mania</a>
+        </li>
+            
+                
+        <li>
+           <span class="tickdate">February 7, 2018  | </span><a href="https://www.feelguide.com/2018/02/07/game-of-thrones-creators-benioff-weiss-creating-new-series-of-star-wars-films/"> &#8220;Game Of Thrones&#8221; Creators Benioff &#038; Weiss Creating New Series Of &#8220;STAR WARS&#8221; Films</a>
+        </li>
+            
+                
+        <li>
+           <span class="tickdate">February 6, 2018  | </span><a href="https://www.feelguide.com/2018/02/06/how-do-you-subpoena-a-president-who-lives-in-the-most-fortified-home-in-the-world/"> How Do You Subpoena A President Who Lives In The Most Fortified Home In The World?</a>
+        </li>
+            
+                
+        <li>
+           <span class="tickdate">January 29, 2018  | </span><a href="https://www.feelguide.com/2018/01/29/feelguides-hottest-man-alive-2018-behold-the-amazingness-of-french-model-nabil-taleb/"> FEELguide&#8217;s Hottest Man Alive 2018: Behold The Amazingness Of French Model Nabil Taleb</a>
+        </li>
+            
+                
+        <li>
+           <span class="tickdate">October 31, 2017  | </span><a href="https://www.feelguide.com/2017/10/31/the-wire-why-this-march-31st-photograph-sent-chills-up-trumps-spine-on-mueller-monday/"> The Wire: Why This March 31st Photograph Sent Chills Up Trump&#8217;s Spine On &#8216;Mueller Monday&#8217;</a>
+        </li>
+            
+                
+        <li>
+           <span class="tickdate">October 5, 2017  | </span><a href="https://www.feelguide.com/2017/10/05/40-states-gearing-up-to-cripple-big-pharma-the-opioid-industry-like-they-did-big-tobacco/"> 40 States Gearing Up To Cripple Big Pharma &#038; The Opioid Industry Like They Did Big Tobacco</a>
+        </li>
+            
+                
+    </ul>
+        
+    <form class="searchformhead" method="get" action="https://www.feelguide.com">
+<input type="text" name="s" class="s" size="30" value="Search" onfocus="if (this.value = '') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search...';}" />
+<button class='searchSubmit' ><i class="icon-search"></i></button>
+</form>    
+</div>
+        
+		    
+        <h1>
+        
+                                        
+                <a href="https://www.feelguide.com/">
+                
+                    <img class="logo" src="https://www.feelguide.com/wp-content/uploads/2015/07/00_LOGOnew4.jpg" alt="FEELguide"/>
+                        
+                </a>
+                    
+            	
+        
+        </h1>                
+        
+        <div class="headad"><style>
+.headad-ins { width: 728px; height: 90px; }
+/* iPad Landscape */
+@media screen and (max-width: 1181px){
+  .headad-ins { width: 468px; height: 60px; }
+}
+/* iPad Portrait */
+@media screen and (max-width: 770px){
+  .headad-ins { width: 320px; height: 100px; }
+}
+/* Mobile */
+@media handheld, only screen and (max-width: 740px) {
+  .headad-ins {
+    width: 320px; 
+    height: 50px;
+  }
+  .headad {
+  margin: 10px 0 35px 0;
+  float: none;
+  width: 100%;
+  text-align: center;
+  }
+}
+@media only screen and (max-width: 660px) {
+  .headad-ins {  }
+}
+@media only screen and (max-width: 490px) {
+  .headad-ins {  }
+}
+</style>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+<!-- Newest --> 
+<ins class="adsbygoogle headad-ins" 
+  style="display:inline-block" 
+  data-ad-client="ca-pub-3045776261688803" 
+  data-ad-slot="6360660164"></ins> 
+<script> 
+(adsbygoogle = window.adsbygoogle || []).push({}); 
+</script></div>            
+        
+        <a id="navtrigger" href="#">MENU</a>
+        
+        <nav id="navigation"> 
+        
+            <ul id="sec-nav" class="nav custom-nav"><li id="menu-item-49409" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-49409"><a href="https://www.feelguide.com/posts">ARTICLES</a></li>
+<li id="menu-item-48443" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48443"><a href="https://www.feelguide.com/category/travel/">Travel</a></li>
+<li id="menu-item-48535" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48535"><a href="https://www.feelguide.com/category/hotels/">Hotels</a></li>
+<li id="menu-item-48444" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48444"><a href="https://www.feelguide.com/category/design/">Design</a></li>
+<li id="menu-item-49251" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-49251"><a href="https://www.feelguide.com/category/film/">Movies</a></li>
+<li id="menu-item-49252" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-49252"><a href="https://www.feelguide.com/category/music/">Music</a></li>
+<li id="menu-item-49253" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-49253"><a href="https://www.feelguide.com/category/lgbt/">LGBT</a></li>
+<li id="menu-item-49254" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-49254"><a href="https://www.feelguide.com/category/the-human-brain/">Neuroscience</a></li>
+<li id="menu-item-49255" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-49255"><a href="https://www.feelguide.com/category/government-politics/">Politics</a></li>
+<li id="menu-item-49476" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-49476"><a href="https://www.feelguide.com/category/health/">Health</a></li>
+</ul>
+	              
+            <div style="clear: both;"></div>  
+        
+			<ul id="main-nav" class="nav custom-nav"><li id="menu-item-36756" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-36756"><a href="https://www.feelguide.com">HOME</a></li>
+<li id="menu-item-36650" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36650"><a href="https://www.feelguide.com/about/">About</a></li>
+<li id="menu-item-36649" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36649"><a href="https://www.feelguide.com/contact/">Contact</a></li>
+<li id="menu-item-36648" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36648"><a href="https://www.feelguide.com/privacy_policy/">Privacy Policy</a></li>
+<li id="menu-item-49275" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-49275"><a href="https://www.feelguide.com/2010/09/23/advertise-promote/">Advertise &#038; Promote Your Hotel Or Brand On FEELguide</a></li>
+</ul>
+	  <ul class="social-menu">
+<li class="rss"><a title="Rss Feed" href="http://feeds.feedburner.com/feelguidefeed">Rss Feed</a></li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li class="twitter"><a title="Twitter" href="https://twitter.com/FEELguide">Twitter</a></li>
+<li class="facebook"><a title="Facebook" href="https://www.facebook.com/FEELguide">Facebook</a></li>
+
+<li class="instagram"><a title="Instagram" href="http://instagram.com/feelguide/">Instagram</a></li>
+
+
+
+
+
+</ul>
+<div class="clear-floats"></div>                            
+        </nav>
+
+    </header> 
+
+ <div style="clear: both;"></div>
+<div id="homecontent" class="homecontent_alt">
+
+        	<div class="twinsbox post-42778 post type-post status-publish format-standard has-post-thumbnail hentry category-health category-the-human-brain category-science tag-depression"> 
+ 
+			
+			<img width="657" height="360" src="https://www.feelguide.com/wp-content/uploads/2015/01/DepressionInflammation-657x360.jpg" class="main-single wp-post-image" alt="" />			
+            <div style="clear: both;"></div>
+            
+           
+            
+            <h1 class="heading"><a href="https://www.feelguide.com/2015/01/06/new-research-discovers-tha-depression-is-an-allergic-reaction-to-inflammation/">New Research Discovers That Depression Is An Allergic Reaction To Inflammation</a></h1>
+
+                
+	<p class="meta">
+    	by <a href="https://www.feelguide.com/author/feelguide/" title="Posts by Brent Lambert" rel="author">Brent Lambert</a> &bull; 
+		January 6, 2015 &bull; 
+		<a href="https://www.feelguide.com/category/health/" rel="category tag">Health</a>, <a href="https://www.feelguide.com/category/the-human-brain/" rel="category tag">Neuroscience</a>, <a href="https://www.feelguide.com/category/science/" rel="category tag">Science</a>  &bull;
+              <a href="https://www.feelguide.com/2015/01/06/new-research-discovers-tha-depression-is-an-allergic-reaction-to-inflammation/#respond">Comments (0)</a>  &bull; 
+        <i class="icon-heart-empty"></i>3373255		</p>
+             
+            <div class="hrline"><span></span></div>
+            
+            <div class="entry">
+            	
+                            
+            	<!-- Simple Share Buttons Adder (7.3.10) simplesharebuttons.com --><div class="ssba ssba-wrap"><div style="text-align:left"><a data-site="" class="ssba_facebook_share" href="http://www.facebook.com/sharer.php?u=https://www.feelguide.com/2015/01/06/new-research-discovers-tha-depression-is-an-allergic-reaction-to-inflammation/"  target="_blank" ><img src="http://www.feelguide.com/wp-content/plugins/simple-share-buttons-adder/buttons/somacro/facebook.png" title="Facebook" class="ssba ssba-img" alt="Share on Facebook" /></a><a data-site="" class="ssba_twitter_share" href="http://twitter.com/share?url=https://www.feelguide.com/2015/01/06/new-research-discovers-tha-depression-is-an-allergic-reaction-to-inflammation/&amp;text=New%20Research%20Discovers%20That%20Depression%20Is%20An%20Allergic%20Reaction%20To%20Inflammation%20"  target=&quot;_blank&quot; ><img src="http://www.feelguide.com/wp-content/plugins/simple-share-buttons-adder/buttons/somacro/twitter.png" title="Twitter" class="ssba ssba-img" alt="Tweet about this on Twitter" /></a><a data-site='pinterest' class='ssba_pinterest_share' href='javascript:void((function()%7Bvar%20e=document.createElement(&apos;script&apos;);e.setAttribute(&apos;type&apos;,&apos;text/javascript&apos;);e.setAttribute(&apos;charset&apos;,&apos;UTF-8&apos;);e.setAttribute(&apos;src&apos;,&apos;//assets.pinterest.com/js/pinmarklet.js?r=&apos;+Math.random()*99999999);document.body.appendChild(e)%7D)());'><img src="http://www.feelguide.com/wp-content/plugins/simple-share-buttons-adder/buttons/somacro/pinterest.png" title="Pinterest" class="ssba ssba-img" alt="Pin on Pinterest" /></a><a data-site="stumbleupon" class="ssba_stumbleupon_share ssba_share_link" href="http://www.stumbleupon.com/submit?url=https://www.feelguide.com/2015/01/06/new-research-discovers-tha-depression-is-an-allergic-reaction-to-inflammation/&#038;title=New%20Research%20Discovers%20That%20Depression%20Is%20An%20Allergic%20Reaction%20To%20Inflammation"  target=&quot;_blank&quot; ><img src="http://www.feelguide.com/wp-content/plugins/simple-share-buttons-adder/buttons/somacro/stumbleupon.png" title="StumbleUpon" class="ssba ssba-img" alt="Share on StumbleUpon" /></a><a data-site="email" class="ssba_email_share" href="mailto:?subject=New%20Research%20Discovers%20That%20Depression%20Is%20An%20Allergic%20Reaction%20To%20Inflammation&#038;body=%20https://www.feelguide.com/2015/01/06/new-research-discovers-tha-depression-is-an-allergic-reaction-to-inflammation/"><img src="http://www.feelguide.com/wp-content/plugins/simple-share-buttons-adder/buttons/somacro/email.png" title="Email" class="ssba ssba-img" alt="Email this to someone" /></a><a data-site="" class="ssba_google_share" href="https://plus.google.com/share?url=https://www.feelguide.com/2015/01/06/new-research-discovers-tha-depression-is-an-allergic-reaction-to-inflammation/"  target=&quot;_blank&quot; ><img src="http://www.feelguide.com/wp-content/plugins/simple-share-buttons-adder/buttons/somacro/google.png" title="Google+" class="ssba ssba-img" alt="Share on Google+" /></a><a data-site="reddit" class="ssba_reddit_share" href="http://reddit.com/submit?url=https://www.feelguide.com/2015/01/06/new-research-discovers-tha-depression-is-an-allergic-reaction-to-inflammation/&amp;title=New Research Discovers That Depression Is An Allergic Reaction To Inflammation"  target=&quot;_blank&quot; ><img src="http://www.feelguide.com/wp-content/plugins/simple-share-buttons-adder/buttons/somacro/reddit.png" title="Reddit" class="ssba ssba-img" alt="Share on Reddit" /></a><a data-site="linkedin" class="ssba_linkedin_share ssba_share_link" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.feelguide.com/2015/01/06/new-research-discovers-tha-depression-is-an-allergic-reaction-to-inflammation/"  target=&quot;_blank&quot; ><img src="http://www.feelguide.com/wp-content/plugins/simple-share-buttons-adder/buttons/somacro/linkedin.png" title="LinkedIn" class="ssba ssba-img" alt="Share on LinkedIn" /></a><a data-site="digg" class="ssba_diggit_share ssba_share_link" href="http://www.digg.com/submit?url=https://www.feelguide.com/2015/01/06/new-research-discovers-tha-depression-is-an-allergic-reaction-to-inflammation/"  target=&quot;_blank&quot; ><img src="http://www.feelguide.com/wp-content/plugins/simple-share-buttons-adder/buttons/somacro/diggit.png" title="Digg" class="ssba ssba-img" alt="Digg this" /></a><a data-site="tumblr" class="ssba_tumblr_share" href="http://www.tumblr.com/share/link?url=https://www.feelguide.com/2015/01/06/new-research-discovers-tha-depression-is-an-allergic-reaction-to-inflammation/"  target=&quot;_blank&quot; ><img src="http://www.feelguide.com/wp-content/plugins/simple-share-buttons-adder/buttons/somacro/tumblr.png" title="tumblr" class="ssba ssba-img" alt="Share on Tumblr" /></a><a data-site="flattr" class="ssba_flattr_share" href="https://flattr.com/submit/auto?user_id=&amp;title=New Research Discovers That Depression Is An Allergic Reaction To Inflammation&amp;url=https://www.feelguide.com/2015/01/06/new-research-discovers-tha-depression-is-an-allergic-reaction-to-inflammation/"  target=&quot;_blank&quot; ><img src="http://www.feelguide.com/wp-content/plugins/simple-share-buttons-adder/buttons/somacro/flattr.png" title="Flattr" class="ssba ssba-img" alt="Flattr the author" /></a><a  data-site="buffer" class="ssba_buffer_share" href="https://bufferapp.com/add?url=https://www.feelguide.com/2015/01/06/new-research-discovers-tha-depression-is-an-allergic-reaction-to-inflammation/&amp;text= New Research Discovers That Depression Is An Allergic Reaction To Inflammation"  target=&quot;_blank&quot; ><img src="http://www.feelguide.com/wp-content/plugins/simple-share-buttons-adder/buttons/somacro/buffer.png" title="Buffer" class="ssba ssba-img" alt="Buffer this page" /></a><a data-site="vk" class="ssba_vk_share ssba_share_link" href="http://vkontakte.ru/share.php?url=https://www.feelguide.com/2015/01/06/new-research-discovers-tha-depression-is-an-allergic-reaction-to-inflammation/"  target=&quot;_blank&quot; ><img src="http://www.feelguide.com/wp-content/plugins/simple-share-buttons-adder/buttons/somacro/vk.png" title="VK" class="ssba ssba-img" alt="Share on VK" /></a><a data-site="yummly" class="ssba_yummly_share ssba_share_link" href="http://www.yummly.com/urb/verify?url=https://www.feelguide.com/2015/01/06/new-research-discovers-tha-depression-is-an-allergic-reaction-to-inflammation/&title=New%20Research%20Discovers%20That%20Depression%20Is%20An%20Allergic%20Reaction%20To%20Inflammation"  target=&quot;_blank&quot; ><img src="http://www.feelguide.com/wp-content/plugins/simple-share-buttons-adder/buttons/somacro/yummly.png" title="Yummly" class="ssba ssba-img" alt="Share on Yummly" /></a><a data-site="print" class="ssba_print ssba_share_link" href="#" onclick="window.print()"><img src="http://www.feelguide.com/wp-content/plugins/simple-share-buttons-adder/buttons/somacro/print.png" title="Print" class="ssba ssba-img" alt="Print this page" /></a></div></div><p>New research is revealing that many cases of <a href="http://www.feelguide.com/?s=depression" target="_blank">depression</a> are caused by an allergic reaction to inflammation.  Tim de Chant of <em><a href="http://www.pbs.org/wgbh/nova/next/body/depression-may-caused-inflammation/" target="_blank">NOVA</a></em> writes: &#8220;Inflammation is our immune system’s natural response to injuries, infections, or foreign compounds. When triggered, the body pumps various cells and proteins to the site through the blood stream, including cytokines, a class of proteins that facilitate intercellular communication.  It also happens that people suffering from depression are loaded with cytokines.&#8221;  Inflammation is caused by obesity, high sugar diets, high quantities of trans fats, unhealthy diets in general, and other causes.<span id="more-42778"></span></p>
+<p>By treating the inflammatory symptoms of depression &#8212; rather than the neurological ones &#8212; researchers and doctors are opening up an exciting new dimension in the fight against what has become a global epidemic.  Caroline Williams of <a href="http://www.theguardian.com/lifeandstyle/2015/jan/04/depression-allergic-reaction-inflammation-immune-system" target="_blank"><em>The Guardian</em></a> writes: &#8220;The good news is that the few clinical trials done so far have found that adding anti-inflammatory medicines to antidepressants not only improves symptoms, it also increases the proportion of people who respond to treatment, although more trials will be needed to confirm this. There is also some evidence that omega 3 and curcumin, an extract of the spice turmeric, might have similar effects. Both are available over the counter and might be worth a try, although as an add-on to any prescribed treatment – there’s definitely not enough evidence to use them as a replacement.&#8221;</p>
+<p>Eleanor Morgan of <a href="http://www.vice.com/en_ca/read/is-depression-an-allergic-reaction-039?utm_source=vicefbca" target="_blank"><em>VICE</em></a> adds: &#8220;Cytokines skyrocket during depressive episodes and, in those with bipolar disorder, halt in remission. The fact that &#8216;normal,&#8217; healthy people can become temporarily anxious or depressed after receiving an inflammatory vaccine &#8212; like typhoid &#8212; lends further credence to the theory. There are even those who think we should re-brand depression altogether as an infectious disease &#8230; Carmine Pariante, a Kings College psychiatrist who is quoted in <em>The Guardian</em> report, says that we&#8217;re between five and ten years away from a blood test that can measure levels of inflammation in depressed people.  If both Pariante&#8217;s estimate and the inflammation-depression theory are correct, we could potentially be just five years from an adequate &#8216;cure&#8217; for depression.&#8221;</p>
+<p>You can read much more by visiting <em><a href="http://www.theguardian.com/lifeandstyle/2015/jan/04/depression-allergic-reaction-inflammation-immune-system" target="_blank">The Guardian</a>, <a href="http://www.vice.com/en_ca/read/is-depression-an-allergic-reaction-039?utm_source=vicefbca" target="_blank">VICE</a>,</em> and <em><a href="http://www.pbs.org/wgbh/nova/next/body/depression-may-caused-inflammation/" target="_blank">NOVA</a></em>.  And to learn much more about how food and mood are powerfully connected, be sure to read this fascinating article on <a href="http://kripalu.org/blog/thrive/2013/06/14/is-your-diet-making-you-anxious-or-depressed/?utm_source=Thrive&amp;utm_medium=post&amp;utm_content=010615NIP&amp;utm_campaign=Programs_2015" target="_blank">Kripalu.org</a>. (Image courtesy of the American Heart Association).</p>
+<p><span style="color: #ffffff;"><a style="color: #ffffff;" href="http://www.feelguide.com/?s=depression" target="_blank">.</a></span></p>
+<p><iframe src="//www.youtube.com/embed/1dD29XHp6CU?rel=0" width="657" height="370" frameborder="0" allowfullscreen="allowfullscreen"></iframe><iframe src="//www.youtube.com/embed/-eBUcBfkVCo?rel=0" width="657" height="370" frameborder="0" allowfullscreen="allowfullscreen"></iframe><iframe src="//www.youtube.com/embed/9EVEmZ2c_es?rel=0" width="657" height="370" frameborder="0" allowfullscreen="allowfullscreen"></iframe><iframe src="http://www.hulu.com/embed.html?eid=jtbuenogofhazez2srqgca&amp;partner=charlierose&amp;url=http%3A%2F%2Fwww.hulu.com%2Fwatch%2F366103" width="657" height="369" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe></p>
+
+<div id="mab-483201" class="magic-action-box mab-type-optin mab-id-48320 mabstyle-mab-thedark use-mab-button-default mab-fields-layout-default mab-label-position-stacked" data-mabid="48320" data-trackid="48320" data-type="optin" data-track="1"  >
+	<div class="mab-pad mab-wrap mab-aside-left mab-aside-type-image">
+			<div class="mab-aside"><img src="https://www.feelguide.com/wp-content/uploads/2016/08/FBsquarelogo_MagicBoxNewsletter.png" alt="Opt In Image" width="200" height="200" style="height: 200px; width: 200px;" /></div>
+		<div class="mab-content">
+						<div class="mab-heading">GET THE LATEST FEELGUIDE UPDATES!</div>
+									<div class="mab-subheading">The freshest stories straight to your Inbox</div>
+									<div class="mab-main-copy"><h6><span style="color: #ffffff;">By signing up you will also get exclusive updates on FEELguide offers, events, deals, tips, and all sorts of other goodies.</span></h6>
+</div>
+						<div class="mab-main-action-wrap ">
+				<form method="POST" action="//feelguide.us13.list-manage.com/subscribe/post?u=9bf9c50d18caf97ca10638b61&id=613a92d19d">
+			<div class="mab-field mab-field-email">
+				<label for="mab-email">Email</label>
+				<input type="email" id="mab-email" placeholder="Enter your email" name="EMAIL" />
+	</div>
+	<div class="mab-field mab-field-submit">
+				<input class="mab-submit" type="submit" value="Submit" />
+			</div>
+
+	
+		<div class="clear"></div>
+</form>
+			</div>
+						<div class="mab-secondary-copy"><h6><span style="color: #ffffff;">All things imaginative and inspired.</span></h6>
+</div>
+					</div>
+		<div class="clear" style="clear:both;"></div>	</div>
+
+	</div>            
+            	
+
+					
+            	
+					            	
+                    	<div style="clear: both;"></div>
+            
+                			<div class="postinfo body2">
+
+							           <div class="nextprev">
+            
+                <span class="fl">
+                    <i class="icon-chevron-sign-left"></i> Previous post:<br/>
+                    <a href="https://www.feelguide.com/2015/01/05/scarlett-johansson-to-star-as-lead-in-dreamworks-live-action-thriller-ghost-in-the-shell/" rel="prev">Scarlett Johansson To Star As Lead In Dreamworks&#8217; Live Action Thriller &#8220;Ghost In The Shell&#8221;</a>                </span>
+                
+                <span class="fr">
+                    Next Post: <i class="icon-chevron-sign-right"></i><br/>
+                    <a href="https://www.feelguide.com/2015/01/06/lightmapping-projection-transforms-forest-into-a-bioluminescent-dream-world/" rel="next">Lightmapping Projection Transforms Forest Into A Bioluminescent Dream World</a>                </span>
+                    
+            </div>                        
+                            <div style="clear: both;"></div> 
+                            
+                		</div>
+                        
+                	                    
+                            
+				                
+            	            
+            	<div style="clear: both;"></div>
+            
+            	
+
+
+<div id="comments">
+
+	<p class="nocomments">Comments are closed.</p>
+
+
+
+</div><!-- #comments -->
+            
+            </div>
+            
+            </div>
+
+	
+    <div style="clear: both;"></div>
+
+</div><!-- #homecontent -->
+
+<div id="sidebar" class="widgetable">
+        <h2 class="widget"><span>FEELguide on Facebook</span></h2>			<div class="textwidget"><iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FFEELguide%2F&tabs=timeline&width=340&height=155&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=327673584241618" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe></div>
+		<h2 class="widget"><span>Categories</span></h2><form action="https://www.feelguide.com" method="get"><label class="screen-reader-text" for="cat">Categories</label><select  name='cat' id='cat' class='postform' >
+	<option value='-1'>Select Category</option>
+	<option class="level-0" value="16375">Adventure&nbsp;&nbsp;(19)</option>
+	<option class="level-0" value="1409">Advertising&nbsp;&nbsp;(50)</option>
+	<option class="level-0" value="506">Amy Sedaris&nbsp;&nbsp;(15)</option>
+	<option class="level-0" value="767">Archaeology&nbsp;&nbsp;(13)</option>
+	<option class="level-0" value="2462">Architecture&nbsp;&nbsp;(265)</option>
+	<option class="level-0" value="382">Art&nbsp;&nbsp;(400)</option>
+	<option class="level-0" value="34">Banner Photos&nbsp;&nbsp;(141)</option>
+	<option class="level-0" value="450">Books&nbsp;&nbsp;(304)</option>
+	<option class="level-0" value="24">Business&nbsp;&nbsp;(342)</option>
+	<option class="level-0" value="376">Canadiana&nbsp;&nbsp;(61)</option>
+	<option class="level-0" value="3046">Charlie Rose&nbsp;&nbsp;(186)</option>
+	<option class="level-0" value="4448">Christopher Hitchens&nbsp;&nbsp;(57)</option>
+	<option class="level-0" value="3">Design&nbsp;&nbsp;(484)</option>
+	<option class="level-0" value="35">Fashion&nbsp;&nbsp;(148)</option>
+	<option class="level-0" value="13101">Featured Video&nbsp;&nbsp;(24)</option>
+	<option class="level-0" value="6228">FEELguide Classics&nbsp;&nbsp;(13)</option>
+	<option class="level-0" value="1330">FEELguide Editorials&nbsp;&nbsp;(16)</option>
+	<option class="level-0" value="6610">FEELguide Hero&nbsp;&nbsp;(8)</option>
+	<option class="level-0" value="2555">FEELprize&nbsp;&nbsp;(5)</option>
+	<option class="level-0" value="16372">Flights &amp; Airlines&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="32">Food&nbsp;&nbsp;(53)</option>
+	<option class="level-0" value="18">Funny&nbsp;&nbsp;(318)</option>
+	<option class="level-0" value="758">Graphic Design&nbsp;&nbsp;(62)</option>
+	<option class="level-0" value="26">Health&nbsp;&nbsp;(332)</option>
+	<option class="level-0" value="356">History&nbsp;&nbsp;(498)</option>
+	<option class="level-0" value="254">Hollywoodland&nbsp;&nbsp;(579)</option>
+	<option class="level-0" value="16389">Hotels&nbsp;&nbsp;(45)</option>
+	<option class="level-0" value="759">Industrial And Product Design&nbsp;&nbsp;(136)</option>
+	<option class="level-0" value="28">Infographics&nbsp;&nbsp;(35)</option>
+	<option class="level-0" value="16">Inspiration&nbsp;&nbsp;(521)</option>
+	<option class="level-0" value="3139">Jason Silva&nbsp;&nbsp;(29)</option>
+	<option class="level-0" value="253">Just Because&nbsp;&nbsp;(35)</option>
+	<option class="level-0" value="16153">LGBT&nbsp;&nbsp;(255)</option>
+	<option class="level-0" value="1860">LINKguide&nbsp;&nbsp;(426)</option>
+	<option class="level-0" value="17">Me&nbsp;&nbsp;(307)</option>
+	<option class="level-0" value="4">Movies&nbsp;&nbsp;(1,044)</option>
+	<option class="level-0" value="5">Music&nbsp;&nbsp;(1,284)</option>
+	<option class="level-0" value="29">Nature&nbsp;&nbsp;(401)</option>
+	<option class="level-0" value="30">Neuroscience&nbsp;&nbsp;(244)</option>
+	<option class="level-0" value="482">Philosophy&nbsp;&nbsp;(207)</option>
+	<option class="level-0" value="27">Photography&nbsp;&nbsp;(220)</option>
+	<option class="level-0" value="2045">Physics&nbsp;&nbsp;(101)</option>
+	<option class="level-0" value="619">Politics&nbsp;&nbsp;(365)</option>
+	<option class="level-0" value="381">Psychology&nbsp;&nbsp;(291)</option>
+	<option class="level-0" value="701">Random News&nbsp;&nbsp;(288)</option>
+	<option class="level-0" value="2180">Robotics&nbsp;&nbsp;(28)</option>
+	<option class="level-0" value="2702">Sam Harris&nbsp;&nbsp;(32)</option>
+	<option class="level-0" value="6">Science&nbsp;&nbsp;(593)</option>
+	<option class="level-0" value="23">Society&nbsp;&nbsp;(431)</option>
+	<option class="level-0" value="215">Space&nbsp;&nbsp;(210)</option>
+	<option class="level-0" value="31">Spirituality&nbsp;&nbsp;(266)</option>
+	<option class="level-0" value="21">Style&nbsp;&nbsp;(157)</option>
+	<option class="level-0" value="15">Technology&nbsp;&nbsp;(393)</option>
+	<option class="level-0" value="426">Television&nbsp;&nbsp;(274)</option>
+	<option class="level-0" value="3164">The WOW Files&nbsp;&nbsp;(128)</option>
+	<option class="level-0" value="795">The WTF Files&nbsp;&nbsp;(8)</option>
+	<option class="level-0" value="15673">The ZEN Files&nbsp;&nbsp;(5)</option>
+	<option class="level-0" value="2277">Tilda Swinton&nbsp;&nbsp;(66)</option>
+	<option class="level-0" value="19">Travel&nbsp;&nbsp;(160)</option>
+	<option class="level-0" value="1">Uncategorized&nbsp;&nbsp;(143)</option>
+	<option class="level-0" value="20">Unexplained&nbsp;&nbsp;(185)</option>
+	<option class="level-0" value="22">Video&nbsp;&nbsp;(489)</option>
+</select>
+</form>
+<script type='text/javascript'>
+/* <![CDATA[ */
+(function() {
+	var dropdown = document.getElementById( "cat" );
+	function onCatChange() {
+		if ( dropdown.options[ dropdown.selectedIndex ].value > 0 ) {
+			dropdown.parentNode.submit();
+		}
+	}
+	dropdown.onchange = onCatChange;
+})();
+/* ]]> */
+</script>
+
+<div class="ad300">		
+			<a href="https://www.karmaroof.com"><img src="https://www.feelguide.com/wp-content/uploads/2017/03/KarmaRoofAd.png" alt="" /></a>
+			<div style="clear: both;"></div>
+		</div><div class="ad300">		
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- New Responsive 300 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-3045776261688803"
+     data-ad-slot="5532205364"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>		
+		</div><h2 class="widget"><span>Archives</span></h2>		<label class="screen-reader-text" for="archives-dropdown-3">Archives</label>
+		<select id="archives-dropdown-3" name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'>
+			
+			<option value="">Select Month</option>
+				<option value='https://www.feelguide.com/2018/02/'> February 2018 &nbsp;(7)</option>
+	<option value='https://www.feelguide.com/2018/01/'> January 2018 &nbsp;(1)</option>
+	<option value='https://www.feelguide.com/2017/10/'> October 2017 &nbsp;(3)</option>
+	<option value='https://www.feelguide.com/2017/09/'> September 2017 &nbsp;(9)</option>
+	<option value='https://www.feelguide.com/2017/08/'> August 2017 &nbsp;(9)</option>
+	<option value='https://www.feelguide.com/2017/07/'> July 2017 &nbsp;(2)</option>
+	<option value='https://www.feelguide.com/2017/04/'> April 2017 &nbsp;(9)</option>
+	<option value='https://www.feelguide.com/2017/03/'> March 2017 &nbsp;(11)</option>
+	<option value='https://www.feelguide.com/2017/02/'> February 2017 &nbsp;(7)</option>
+	<option value='https://www.feelguide.com/2017/01/'> January 2017 &nbsp;(25)</option>
+	<option value='https://www.feelguide.com/2016/12/'> December 2016 &nbsp;(14)</option>
+	<option value='https://www.feelguide.com/2016/11/'> November 2016 &nbsp;(18)</option>
+	<option value='https://www.feelguide.com/2016/10/'> October 2016 &nbsp;(25)</option>
+	<option value='https://www.feelguide.com/2016/09/'> September 2016 &nbsp;(34)</option>
+	<option value='https://www.feelguide.com/2016/08/'> August 2016 &nbsp;(45)</option>
+	<option value='https://www.feelguide.com/2016/07/'> July 2016 &nbsp;(19)</option>
+	<option value='https://www.feelguide.com/2016/06/'> June 2016 &nbsp;(40)</option>
+	<option value='https://www.feelguide.com/2016/05/'> May 2016 &nbsp;(36)</option>
+	<option value='https://www.feelguide.com/2016/04/'> April 2016 &nbsp;(36)</option>
+	<option value='https://www.feelguide.com/2016/03/'> March 2016 &nbsp;(41)</option>
+	<option value='https://www.feelguide.com/2016/02/'> February 2016 &nbsp;(41)</option>
+	<option value='https://www.feelguide.com/2016/01/'> January 2016 &nbsp;(40)</option>
+	<option value='https://www.feelguide.com/2015/12/'> December 2015 &nbsp;(19)</option>
+	<option value='https://www.feelguide.com/2015/11/'> November 2015 &nbsp;(16)</option>
+	<option value='https://www.feelguide.com/2015/10/'> October 2015 &nbsp;(46)</option>
+	<option value='https://www.feelguide.com/2015/09/'> September 2015 &nbsp;(53)</option>
+	<option value='https://www.feelguide.com/2015/08/'> August 2015 &nbsp;(31)</option>
+	<option value='https://www.feelguide.com/2015/07/'> July 2015 &nbsp;(63)</option>
+	<option value='https://www.feelguide.com/2015/06/'> June 2015 &nbsp;(58)</option>
+	<option value='https://www.feelguide.com/2015/05/'> May 2015 &nbsp;(48)</option>
+	<option value='https://www.feelguide.com/2015/04/'> April 2015 &nbsp;(65)</option>
+	<option value='https://www.feelguide.com/2015/03/'> March 2015 &nbsp;(72)</option>
+	<option value='https://www.feelguide.com/2015/02/'> February 2015 &nbsp;(42)</option>
+	<option value='https://www.feelguide.com/2015/01/'> January 2015 &nbsp;(70)</option>
+	<option value='https://www.feelguide.com/2014/12/'> December 2014 &nbsp;(79)</option>
+	<option value='https://www.feelguide.com/2014/11/'> November 2014 &nbsp;(80)</option>
+	<option value='https://www.feelguide.com/2014/10/'> October 2014 &nbsp;(90)</option>
+	<option value='https://www.feelguide.com/2014/09/'> September 2014 &nbsp;(48)</option>
+	<option value='https://www.feelguide.com/2014/08/'> August 2014 &nbsp;(46)</option>
+	<option value='https://www.feelguide.com/2014/07/'> July 2014 &nbsp;(22)</option>
+	<option value='https://www.feelguide.com/2014/06/'> June 2014 &nbsp;(20)</option>
+	<option value='https://www.feelguide.com/2014/05/'> May 2014 &nbsp;(39)</option>
+	<option value='https://www.feelguide.com/2014/04/'> April 2014 &nbsp;(50)</option>
+	<option value='https://www.feelguide.com/2014/03/'> March 2014 &nbsp;(88)</option>
+	<option value='https://www.feelguide.com/2014/02/'> February 2014 &nbsp;(68)</option>
+	<option value='https://www.feelguide.com/2014/01/'> January 2014 &nbsp;(53)</option>
+	<option value='https://www.feelguide.com/2013/12/'> December 2013 &nbsp;(57)</option>
+	<option value='https://www.feelguide.com/2013/11/'> November 2013 &nbsp;(96)</option>
+	<option value='https://www.feelguide.com/2013/10/'> October 2013 &nbsp;(114)</option>
+	<option value='https://www.feelguide.com/2013/09/'> September 2013 &nbsp;(76)</option>
+	<option value='https://www.feelguide.com/2013/08/'> August 2013 &nbsp;(54)</option>
+	<option value='https://www.feelguide.com/2013/07/'> July 2013 &nbsp;(42)</option>
+	<option value='https://www.feelguide.com/2013/06/'> June 2013 &nbsp;(76)</option>
+	<option value='https://www.feelguide.com/2013/05/'> May 2013 &nbsp;(76)</option>
+	<option value='https://www.feelguide.com/2013/04/'> April 2013 &nbsp;(65)</option>
+	<option value='https://www.feelguide.com/2013/03/'> March 2013 &nbsp;(65)</option>
+	<option value='https://www.feelguide.com/2013/02/'> February 2013 &nbsp;(56)</option>
+	<option value='https://www.feelguide.com/2013/01/'> January 2013 &nbsp;(66)</option>
+	<option value='https://www.feelguide.com/2012/12/'> December 2012 &nbsp;(65)</option>
+	<option value='https://www.feelguide.com/2012/11/'> November 2012 &nbsp;(111)</option>
+	<option value='https://www.feelguide.com/2012/10/'> October 2012 &nbsp;(100)</option>
+	<option value='https://www.feelguide.com/2012/09/'> September 2012 &nbsp;(77)</option>
+	<option value='https://www.feelguide.com/2012/08/'> August 2012 &nbsp;(66)</option>
+	<option value='https://www.feelguide.com/2012/07/'> July 2012 &nbsp;(73)</option>
+	<option value='https://www.feelguide.com/2012/06/'> June 2012 &nbsp;(102)</option>
+	<option value='https://www.feelguide.com/2012/05/'> May 2012 &nbsp;(79)</option>
+	<option value='https://www.feelguide.com/2012/04/'> April 2012 &nbsp;(53)</option>
+	<option value='https://www.feelguide.com/2012/03/'> March 2012 &nbsp;(88)</option>
+	<option value='https://www.feelguide.com/2012/02/'> February 2012 &nbsp;(88)</option>
+	<option value='https://www.feelguide.com/2012/01/'> January 2012 &nbsp;(119)</option>
+	<option value='https://www.feelguide.com/2011/12/'> December 2011 &nbsp;(116)</option>
+	<option value='https://www.feelguide.com/2011/11/'> November 2011 &nbsp;(114)</option>
+	<option value='https://www.feelguide.com/2011/10/'> October 2011 &nbsp;(97)</option>
+	<option value='https://www.feelguide.com/2011/09/'> September 2011 &nbsp;(109)</option>
+	<option value='https://www.feelguide.com/2011/08/'> August 2011 &nbsp;(116)</option>
+	<option value='https://www.feelguide.com/2011/07/'> July 2011 &nbsp;(110)</option>
+	<option value='https://www.feelguide.com/2011/06/'> June 2011 &nbsp;(123)</option>
+	<option value='https://www.feelguide.com/2011/05/'> May 2011 &nbsp;(127)</option>
+	<option value='https://www.feelguide.com/2011/04/'> April 2011 &nbsp;(157)</option>
+	<option value='https://www.feelguide.com/2011/03/'> March 2011 &nbsp;(221)</option>
+	<option value='https://www.feelguide.com/2011/02/'> February 2011 &nbsp;(142)</option>
+	<option value='https://www.feelguide.com/2011/01/'> January 2011 &nbsp;(126)</option>
+	<option value='https://www.feelguide.com/2010/12/'> December 2010 &nbsp;(94)</option>
+	<option value='https://www.feelguide.com/2010/11/'> November 2010 &nbsp;(295)</option>
+	<option value='https://www.feelguide.com/2010/10/'> October 2010 &nbsp;(270)</option>
+	<option value='https://www.feelguide.com/2010/09/'> September 2010 &nbsp;(245)</option>
+
+		</select>
+		<div class="ad300">		
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- New Responsive 300 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-3045776261688803"
+     data-ad-slot="5532205364"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>		
+		</div><div class="ad300">		
+			<a href="https://www.feelguide.com/2016/10/12/congress-must-give-every-american-one-month-free-vacation-to-heal-from-historys-most-toxic-election/"><img src="https://www.feelguide.com/wp-content/uploads/2016/10/GreatAmericanVacationSq320.png" alt="" /></a>
+			<div style="clear: both;"></div>
+		</div>				
+		<h2 class="widget"><span>FEELguide Newsletter</span></h2>		
+		<div class="mab-inside-wrap">
+					
+			<div id="mab-483231" class="magic-action-box mab-type-optin mab-id-48323 mabstyle-mab-thedark use-mab-button-default mab-fields-layout-stacked mab-label-position-stacked mab-responsive mab-center-content" data-mabid="48323" data-trackid="48323" data-type="optin" data-track="1"  >
+	<div class="mab-pad mab-wrap mab-aside-top mab-aside-type-none">
+				<div class="mab-content">
+						<div class="mab-heading">FEELguide's Newsletter</div>
+												<div class="mab-main-copy"><h6><span style="color: #ffffff;">Get the latest exclusive offers, events &amp; gifts!</span></h6>
+</div>
+						<div class="mab-main-action-wrap ">
+				<form method="POST" action="//feelguide.us13.list-manage.com/subscribe/post?u=9bf9c50d18caf97ca10638b61&id=613a92d19d">
+		<div class="mab-field mab-field-name mab-field-fname">
+				<label for="mab-name">First Name</label>
+				<input type="text" id="mab-name" placeholder="Enter your name" name="FNAME" />
+	</div>
+			<div class="mab-field mab-field-name mab-field-lname">
+				<label for="mab-name">Last Name</label>
+				<input type="text" id="mab-name" placeholder="Enter your last name" name="LNAME" />
+	</div>
+		<div class="mab-field mab-field-email">
+				<label for="mab-email">Email</label>
+				<input type="email" id="mab-email" placeholder="Enter your email" name="EMAIL" />
+	</div>
+	<div class="mab-field mab-field-submit">
+				<input class="mab-submit" type="submit" value="Submit" />
+			</div>
+
+	
+		<div class="clear"></div>
+</form>
+			</div>
+					</div>
+		<div class="clear" style="clear:both;"></div>	</div>
+
+	</div>			
+				</div>
+		
+				
+	<h2 class="widget"><span>INSTAGRAM</span></h2>			<div class="textwidget"><div
+        data-il data-il-access-token="3220112191.4780cbf.9a5b664e4f38493bac85f8ce49b2f81b" 
+        data-il-width="100%"
+        data-il-height="360px"
+        data-il-image-size="small"
+        data-il-bg-color="#33bbee">
+    </div></div>
+				
+		
+			<h2 class="widget"><a href="https://www.feelguide.com/category/featured-video/"><span><i class="icon-youtube-play"></i> Latest Video</span></a></h2>
+			
+				
+                     
+            <ul class="tab-container">
+  
+				                
+  						<li id="tabbs-50083" class="tabitem">
+
+								                                                                        <iframe width="657" height="370" src="https://www.youtube.com/embed/i7BlSf--98o?rel=0" frameborder="0" allowfullscreen></iframe>                                 
+                                <div style="clear: both;"></div>
+
+  						</li>
+
+				  
+                        <li class="tab">
+                            <a href="https://www.feelguide.com/2017/02/03/mindblowing-academy-award-nominated-doc-i-am-not-your-negro-now-in-theatres/">
+                            	<i class="icon-play-sign"></i>
+                                                                    <img width="190" height="170" src="https://www.feelguide.com/wp-content/uploads/2017/02/IAmNotYourNegro-190x170.jpg" class="attachment-blog size-blog wp-post-image" alt="The Story Behind &quot;I Am Not Your Negro&quot;" title="" srcset="https://www.feelguide.com/wp-content/uploads/2017/02/IAmNotYourNegro-190x170.jpg 190w, https://www.feelguide.com/wp-content/uploads/2017/02/IAmNotYourNegro-455x405.jpg 455w, https://www.feelguide.com/wp-content/uploads/2017/02/IAmNotYourNegro-230x205.jpg 230w" sizes="(max-width: 190px) 100vw, 190px" />                                                            </a>
+                        </li>
+				
+                  
+                        <li class="tab">
+                            <a href="https://www.feelguide.com/2016/11/04/ryan-gosling-emma-stone-will-blow-the-roof-off-the-oscars-with-new-sci-fi-jazz-epic-la-la-land/">
+                            	<i class="icon-play-sign"></i>
+                                                                    <img width="190" height="170" src="https://www.feelguide.com/wp-content/uploads/2016/11/LalalandNew-190x170.png" class="attachment-blog size-blog wp-post-image" alt="Ryan Gosling&#039;s &quot;La La Land&quot; Charts a Course for Oscar Gold" title="" srcset="https://www.feelguide.com/wp-content/uploads/2016/11/LalalandNew-190x170.png 190w, https://www.feelguide.com/wp-content/uploads/2016/11/LalalandNew-455x405.png 455w, https://www.feelguide.com/wp-content/uploads/2016/11/LalalandNew-230x205.png 230w" sizes="(max-width: 190px) 100vw, 190px" />                                                            </a>
+                        </li>
+				
+                  
+                        <li class="tab">
+                            <a href="https://www.feelguide.com/2016/08/25/travel-as-a-moral-imperative-why-design-travel-must-be-added-as-3rd-4th-pillars-of-education/">
+                            	<i class="icon-play-sign"></i>
+                                                                    <img width="190" height="170" src="https://www.feelguide.com/wp-content/uploads/2016/08/TravelDesignEducation-190x170.png" class="attachment-blog size-blog wp-post-image" alt="Importance of travel and design in education" title="" srcset="https://www.feelguide.com/wp-content/uploads/2016/08/TravelDesignEducation-190x170.png 190w, https://www.feelguide.com/wp-content/uploads/2016/08/TravelDesignEducation-455x405.png 455w, https://www.feelguide.com/wp-content/uploads/2016/08/TravelDesignEducation-230x205.png 230w" sizes="(max-width: 190px) 100vw, 190px" />                                                            </a>
+                        </li>
+				
+                                
+			</ul><!-- end .tab-container -->
+
+
+		
+				        		<div id="hometab">
+
+<ul id="serinfo-nav">
+
+        <li class="li01"><a href="#serpane0">Latest</a></li>
+        <li class="li02"><a href="#serpane1">Popular</a></li>
+        <li class="li03"><a href="#serpane2">Random</a></li>
+        <li class="li04" style="width:20.5%"><a href="#serpane3">Tags</a></li>
+
+</ul>
+
+<ul id="serinfo">
+
+  		<li id="serpane0">	
+        		
+        		<div class="tab-post">
+
+	        
+           <a href="https://www.feelguide.com/2018/02/13/my-night-with-david-lynch-his-epic-lecture-on-the-miracles-of-transcendental-meditation/" title="My Night With David Lynch &#038; His Epic Lecture On The Miracles Of Transcendental Meditation" >
+           
+           		<img width="80" height="60" src="https://www.feelguide.com/wp-content/uploads/2018/02/DavidLynch0-80x60.jpg" class="attachment-tabs size-tabs wp-post-image" alt="" title="" srcset="https://www.feelguide.com/wp-content/uploads/2018/02/DavidLynch0-80x60.jpg 80w, https://www.feelguide.com/wp-content/uploads/2018/02/DavidLynch0-255x190.jpg 255w" sizes="(max-width: 80px) 100vw, 80px" />                
+           </a>
+           
+                
+      <h3><a href="https://www.feelguide.com/2018/02/13/my-night-with-david-lynch-his-epic-lecture-on-the-miracles-of-transcendental-meditation/" title="My Night With David Lynch &#038; His Epic Lecture On The Miracles Of Transcendental Meditation">My Night With David Lynch &#038; His Epic Lecture On... </a></h3>
+      
+          
+	<p class="meta">
+		February 13, 2018  &bull; 
+        <i class="icon-heart-empty"></i>555		</p>
+            
+</div>            	
+        		<div class="tab-post">
+
+	        
+           <a href="https://www.feelguide.com/2018/02/12/hbos-paranormal-drama-here-and-now-explores-the-powerful-phenomenon-meaning-of-1111/" title="HBO&#8217;s Paranormal Drama &#8216;Here And Now&#8217; Explores The Powerful Phenomenon &#038; Meaning Of 11:11" >
+           
+           		<img width="80" height="60" src="https://www.feelguide.com/wp-content/uploads/2018/02/1111a-80x60.jpg" class="attachment-tabs size-tabs wp-post-image" alt="" title="" srcset="https://www.feelguide.com/wp-content/uploads/2018/02/1111a-80x60.jpg 80w, https://www.feelguide.com/wp-content/uploads/2018/02/1111a-255x190.jpg 255w" sizes="(max-width: 80px) 100vw, 80px" />                
+           </a>
+           
+                
+      <h3><a href="https://www.feelguide.com/2018/02/12/hbos-paranormal-drama-here-and-now-explores-the-powerful-phenomenon-meaning-of-1111/" title="HBO&#8217;s Paranormal Drama &#8216;Here And Now&#8217; Explores The Powerful Phenomenon &#038; Meaning Of 11:11">HBO&#8217;s Paranormal Drama &#8216;Here And Now&#8217; Explores The Powerful Phenomenon... </a></h3>
+      
+          
+	<p class="meta">
+		February 12, 2018  &bull; 
+        <i class="icon-heart-empty"></i>658		</p>
+            
+</div>            	
+        		<div class="tab-post">
+
+	        
+           <a href="https://www.feelguide.com/2018/02/12/out-magazine-caught-red-handed-revising-lgbt-olympic-history-with-kenworthy-rippon-posts/" title="OUT Magazine Caught Red-Handed Revising LGBT Olympic History With Kenworthy-Rippon Posts" >
+           
+           		<img width="80" height="60" src="https://www.feelguide.com/wp-content/uploads/2018/02/OUT0-80x60.jpg" class="attachment-tabs size-tabs wp-post-image" alt="" title="" srcset="https://www.feelguide.com/wp-content/uploads/2018/02/OUT0-80x60.jpg 80w, https://www.feelguide.com/wp-content/uploads/2018/02/OUT0-255x190.jpg 255w" sizes="(max-width: 80px) 100vw, 80px" />                
+           </a>
+           
+                
+      <h3><a href="https://www.feelguide.com/2018/02/12/out-magazine-caught-red-handed-revising-lgbt-olympic-history-with-kenworthy-rippon-posts/" title="OUT Magazine Caught Red-Handed Revising LGBT Olympic History With Kenworthy-Rippon Posts">OUT Magazine Caught Red-Handed Revising LGBT Olympic History With Kenworthy-Rippon... </a></h3>
+      
+          
+	<p class="meta">
+		February 12, 2018  &bull; 
+        <i class="icon-heart-empty"></i>477		</p>
+            
+</div>            	
+        		<div class="tab-post">
+
+	        
+           <a href="https://www.feelguide.com/2018/02/09/video-shows-divers-arm-getting-paralyzed-from-sperm-whales-powerful-clicking-sound/" title="Video Shows Diver&#8217;s Arm Getting Paralyzed From Sperm Whale&#8217;s Powerful Clicking Sound" >
+           
+           		<img width="80" height="60" src="https://www.feelguide.com/wp-content/uploads/2018/02/SpermWhale-80x60.png" class="attachment-tabs size-tabs wp-post-image" alt="" title="" srcset="https://www.feelguide.com/wp-content/uploads/2018/02/SpermWhale-80x60.png 80w, https://www.feelguide.com/wp-content/uploads/2018/02/SpermWhale-255x190.png 255w" sizes="(max-width: 80px) 100vw, 80px" />                
+           </a>
+           
+                
+      <h3><a href="https://www.feelguide.com/2018/02/09/video-shows-divers-arm-getting-paralyzed-from-sperm-whales-powerful-clicking-sound/" title="Video Shows Diver&#8217;s Arm Getting Paralyzed From Sperm Whale&#8217;s Powerful Clicking Sound">Video Shows Diver&#8217;s Arm Getting Paralyzed From Sperm Whale&#8217;s Powerful... </a></h3>
+      
+          
+	<p class="meta">
+		February 9, 2018  &bull; 
+        <i class="icon-heart-empty"></i>1013		</p>
+            
+</div>            	
+        		<div class="tab-post">
+
+	        
+           <a href="https://www.feelguide.com/2018/02/08/the-mystery-of-mary-trump-how-donalds-dark-relationship-with-his-mom-explains-his-mania/" title="The Mystery Of Mary Trump: How Donald&#8217;s Dark Relationship With His Mom Explains His Mania" >
+           
+           		<img width="80" height="60" src="https://www.feelguide.com/wp-content/uploads/2018/02/MaryTrump2-80x60.jpg" class="attachment-tabs size-tabs wp-post-image" alt="" title="" srcset="https://www.feelguide.com/wp-content/uploads/2018/02/MaryTrump2-80x60.jpg 80w, https://www.feelguide.com/wp-content/uploads/2018/02/MaryTrump2-255x190.jpg 255w" sizes="(max-width: 80px) 100vw, 80px" />                
+           </a>
+           
+                
+      <h3><a href="https://www.feelguide.com/2018/02/08/the-mystery-of-mary-trump-how-donalds-dark-relationship-with-his-mom-explains-his-mania/" title="The Mystery Of Mary Trump: How Donald&#8217;s Dark Relationship With His Mom Explains His Mania">The Mystery Of Mary Trump: How Donald&#8217;s Dark Relationship With... </a></h3>
+      
+          
+	<p class="meta">
+		February 8, 2018  &bull; 
+        <i class="icon-heart-empty"></i>1088		</p>
+            
+</div>            	
+        		<div class="tab-post">
+
+	        
+           <a href="https://www.feelguide.com/2018/02/07/game-of-thrones-creators-benioff-weiss-creating-new-series-of-star-wars-films/" title="&#8220;Game Of Thrones&#8221; Creators Benioff &#038; Weiss Creating New Series Of &#8220;STAR WARS&#8221; Films" >
+           
+           		<img width="80" height="60" src="https://www.feelguide.com/wp-content/uploads/2018/02/GOTstarWars-80x60.jpg" class="attachment-tabs size-tabs wp-post-image" alt="" title="" srcset="https://www.feelguide.com/wp-content/uploads/2018/02/GOTstarWars-80x60.jpg 80w, https://www.feelguide.com/wp-content/uploads/2018/02/GOTstarWars-255x190.jpg 255w" sizes="(max-width: 80px) 100vw, 80px" />                
+           </a>
+           
+                
+      <h3><a href="https://www.feelguide.com/2018/02/07/game-of-thrones-creators-benioff-weiss-creating-new-series-of-star-wars-films/" title="&#8220;Game Of Thrones&#8221; Creators Benioff &#038; Weiss Creating New Series Of &#8220;STAR WARS&#8221; Films">&#8220;Game Of Thrones&#8221; Creators Benioff &#038; Weiss Creating New Series... </a></h3>
+      
+          
+	<p class="meta">
+		February 7, 2018  &bull; 
+        <i class="icon-heart-empty"></i>445		</p>
+            
+</div>            	
+  		</li>
+
+
+  		<li id="serpane1">
+						        		<div class="tab-post">
+
+	        
+           <a href="https://www.feelguide.com/2011/01/17/buddhist-temple-design-inspired-by-superman-spiderman-batman-and-keanu-reeves/" title="Buddhist Temple Design Inspired By Superman, Spiderman, Batman, And Keanu Reeves" >
+           
+           		<img width="80" height="47" src="https://www.feelguide.com/wp-content/uploads/2011/01/Temple61.jpg" class="attachment-tabs size-tabs wp-post-image" alt="" title="" srcset="https://www.feelguide.com/wp-content/uploads/2011/01/Temple61.jpg 648w, https://www.feelguide.com/wp-content/uploads/2011/01/Temple61-300x174.jpg 300w" sizes="(max-width: 80px) 100vw, 80px" />                
+           </a>
+           
+                
+      <h3><a href="https://www.feelguide.com/2011/01/17/buddhist-temple-design-inspired-by-superman-spiderman-batman-and-keanu-reeves/" title="Buddhist Temple Design Inspired By Superman, Spiderman, Batman, And Keanu Reeves">Buddhist Temple Design Inspired By Superman, Spiderman, Batman, And Keanu... </a></h3>
+      
+          
+	<p class="meta">
+		January 17, 2011  &bull; 
+        <i class="icon-heart-empty"></i>40902		</p>
+            
+</div>                    		<div class="tab-post">
+
+	        
+           <a href="https://www.feelguide.com/2011/04/07/pae-white-oslo-opera-aluminum-curtain/" title="Pae White Uses Computer-Assisted Loom To Weave Opera Curtain Of Scanned Images Of Aluminum Foil" >
+           
+           		<img width="80" height="54" src="https://www.feelguide.com/wp-content/uploads/2011/04/paewhite1.jpg" class="attachment-tabs size-tabs wp-post-image" alt="" title="" srcset="https://www.feelguide.com/wp-content/uploads/2011/04/paewhite1.jpg 720w, https://www.feelguide.com/wp-content/uploads/2011/04/paewhite1-300x203.jpg 300w" sizes="(max-width: 80px) 100vw, 80px" />                
+           </a>
+           
+                
+      <h3><a href="https://www.feelguide.com/2011/04/07/pae-white-oslo-opera-aluminum-curtain/" title="Pae White Uses Computer-Assisted Loom To Weave Opera Curtain Of Scanned Images Of Aluminum Foil">Pae White Uses Computer-Assisted Loom To Weave Opera Curtain Of... </a></h3>
+      
+          
+	<p class="meta">
+		April 7, 2011  &bull; 
+        <i class="icon-heart-empty"></i>12304		</p>
+            
+</div>                    		<div class="tab-post">
+
+	            
+      <h3><a href="https://www.feelguide.com/2010/09/24/sade-by-your-side/" title="Sade  &#8220;By Your Side&#8221;">Sade  &#8220;By Your Side&#8221; </a></h3>
+      
+          
+	<p class="meta">
+		September 24, 2010  &bull; 
+        <i class="icon-heart-empty"></i>3750		</p>
+            
+</div>                    		<div class="tab-post">
+
+	        
+           <a href="https://www.feelguide.com/2010/09/24/early-screening-of-terrence-malicks-tree-of-life-compares-film-to-2001-a-space-odyssey/" title="Early Screening of Terrence Malick&#8217;s &#8220;TREE of LIFE&#8221; Compares Film To &#8220;2001: A Space Odyssey&#8221;" >
+           
+           		<img width="69" height="60" src="https://www.feelguide.com/wp-content/uploads/2010/09/BradPitt.jpg" class="attachment-tabs size-tabs wp-post-image" alt="" title="" srcset="https://www.feelguide.com/wp-content/uploads/2010/09/BradPitt.jpg 496w, https://www.feelguide.com/wp-content/uploads/2010/09/BradPitt-300x261.jpg 300w" sizes="(max-width: 69px) 100vw, 69px" />                
+           </a>
+           
+                
+      <h3><a href="https://www.feelguide.com/2010/09/24/early-screening-of-terrence-malicks-tree-of-life-compares-film-to-2001-a-space-odyssey/" title="Early Screening of Terrence Malick&#8217;s &#8220;TREE of LIFE&#8221; Compares Film To &#8220;2001: A Space Odyssey&#8221;">Early Screening of Terrence Malick&#8217;s &#8220;TREE of LIFE&#8221; Compares Film... </a></h3>
+      
+          
+	<p class="meta">
+		September 24, 2010  &bull; 
+        <i class="icon-heart-empty"></i>4643		</p>
+            
+</div>                    		<div class="tab-post">
+
+	            
+      <h3><a href="https://www.feelguide.com/2010/09/27/cnn-reports-120-us-air-force-personnel-who-confirm-ufo-incursions-near-nuclear-missile-facilities-video/" title="CNN, Washington Post, and The Daily Telegraph Report 120 US Air Force Personnel Confirming UFO Incursions At Nuclear Missile Facilities Across United States, Russia, and England (VIDEO)">CNN, Washington Post, and The Daily Telegraph Report 120 US... </a></h3>
+      
+          
+	<p class="meta">
+		September 27, 2010  &bull; 
+        <i class="icon-heart-empty"></i>3608		</p>
+            
+</div>                    		<div class="tab-post">
+
+	            
+      <h3><a href="https://www.feelguide.com/2010/11/17/latest-research-proves-majority-of-animals-have-conciousness-emotions-and-souls/" title="Latest Research Proves Vast Majority Of Animals Have Consciousness, Emotions, And Souls">Latest Research Proves Vast Majority Of Animals Have Consciousness, Emotions,... </a></h3>
+      
+          
+	<p class="meta">
+		November 17, 2010  &bull; 
+        <i class="icon-heart-empty"></i>3747		</p>
+            
+</div>              		</li>
+        
+        
+        
+     	<li id="serpane2">	
+        		
+        		<div class="tab-post">
+
+	            
+      <h3><a href="https://www.feelguide.com/2011/10/25/listen-to-depeche-mode-the-killers-and-nins-brilliant-covers-of-zooropa-tracks-in-honor-of-u2/" title="Listen To Depeche Mode, The Killers, And NIN&#8217;s Brilliant Covers Of &#8220;ZOOROPA&#8221; Tracks In Honor Of U2">Listen To Depeche Mode, The Killers, And NIN&#8217;s Brilliant Covers... </a></h3>
+      
+          
+	<p class="meta">
+		October 25, 2011  &bull; 
+        <i class="icon-heart-empty"></i>1036		</p>
+            
+</div>            	
+        		<div class="tab-post">
+
+	            
+      <h3><a href="https://www.feelguide.com/2010/11/25/the-carter-family-john-hardy-was-a-desperate-little-man-1928/" title="The Carter Family  &#8220;John Hardy Was A Desperate Little Man&#8221; (1928)">The Carter Family  &#8220;John Hardy Was A Desperate Little... </a></h3>
+      
+          
+	<p class="meta">
+		November 25, 2010  &bull; 
+        <i class="icon-heart-empty"></i>726		</p>
+            
+</div>            	
+        		<div class="tab-post">
+
+	            
+      <h3><a href="https://www.feelguide.com/2012/06/11/cbs-talks-to-beth-howard-malibu-writer-who-lives-inside-the-iconic-american-gothic-house-in-iowa/" title="CBS Talks To Beth Howard, The Malibu Writer Living Inside The Iconic &#8220;American Gothic&#8221; House In Iowa">CBS Talks To Beth Howard, The Malibu Writer Living Inside... </a></h3>
+      
+          
+	<p class="meta">
+		June 11, 2012  &bull; 
+        <i class="icon-heart-empty"></i>1912		</p>
+            
+</div>            	
+        		<div class="tab-post">
+
+	            
+      <h3><a href="https://www.feelguide.com/2011/04/01/lesson-of-the-day-never-let-a-homeless-man-put-anything-inside-your-mouth/" title="Lesson Of The Day: Never Let A Homeless Man Put Anything Inside Your Mouth">Lesson Of The Day: Never Let A Homeless Man Put... </a></h3>
+      
+          
+	<p class="meta">
+		April 1, 2011  &bull; 
+        <i class="icon-heart-empty"></i>904		</p>
+            
+</div>            	
+        		<div class="tab-post">
+
+	        
+           <a href="https://www.feelguide.com/2012/11/17/hypnotized-and-helpless-please-email-me-if-you-know-the-track-on-this-capri-psichica-youtube-video/" title="Hypnotized And Helpless: Please Email Me If You Know The Track On This &#8220;CAPRI PSICHICA&#8221; YouTube Video" >
+           
+           		<img width="80" height="37" src="https://www.feelguide.com/wp-content/uploads/2012/11/CAPRIPSICHICA.jpg" class="attachment-tabs size-tabs wp-post-image" alt="" title="" srcset="https://www.feelguide.com/wp-content/uploads/2012/11/CAPRIPSICHICA.jpg 1080w, https://www.feelguide.com/wp-content/uploads/2012/11/CAPRIPSICHICA-300x137.jpg 300w, https://www.feelguide.com/wp-content/uploads/2012/11/CAPRIPSICHICA-1024x469.jpg 1024w" sizes="(max-width: 80px) 100vw, 80px" />                
+           </a>
+           
+                
+      <h3><a href="https://www.feelguide.com/2012/11/17/hypnotized-and-helpless-please-email-me-if-you-know-the-track-on-this-capri-psichica-youtube-video/" title="Hypnotized And Helpless: Please Email Me If You Know The Track On This &#8220;CAPRI PSICHICA&#8221; YouTube Video">Hypnotized And Helpless: Please Email Me If You Know The... </a></h3>
+      
+          
+	<p class="meta">
+		November 17, 2012  &bull; 
+        <i class="icon-heart-empty"></i>1094		</p>
+            
+</div>            	
+        		<div class="tab-post">
+
+	        
+           <a href="https://www.feelguide.com/2015/09/13/linkguide-september-13-2015/" title="LINKguide (September 13, 2015)" >
+           
+           		<img width="80" height="60" src="https://www.feelguide.com/wp-content/uploads/2015/09/LINKguideSept13_2015-80x60.jpg" class="attachment-tabs size-tabs wp-post-image" alt="" title="" srcset="https://www.feelguide.com/wp-content/uploads/2015/09/LINKguideSept13_2015-80x60.jpg 80w, https://www.feelguide.com/wp-content/uploads/2015/09/LINKguideSept13_2015-255x190.jpg 255w" sizes="(max-width: 80px) 100vw, 80px" />                
+           </a>
+           
+                
+      <h3><a href="https://www.feelguide.com/2015/09/13/linkguide-september-13-2015/" title="LINKguide (September 13, 2015)">LINKguide (September 13, 2015) </a></h3>
+      
+          
+	<p class="meta">
+		September 13, 2015  &bull; 
+        <i class="icon-heart-empty"></i>894		</p>
+            
+</div>                    </li>
+        
+        
+        
+  		<li id="serpane3">
+           <a href="https://www.feelguide.com/tag/cbs-this-morning/" class="tag-cloud-link tag-link-4484 tag-link-position-1" style="font-size: 9.9545454545455pt;" aria-label="&quot;CBS This Morning&quot; (26 items)">&quot;CBS This Morning&quot;</a>
+<a href="https://www.feelguide.com/tag/star-wars/" class="tag-cloud-link tag-link-4262 tag-link-position-2" style="font-size: 12pt;" aria-label="&quot;Star Wars&quot; (32 items)">&quot;Star Wars&quot;</a>
+<a href="https://www.feelguide.com/tag/60-minutes/" class="tag-cloud-link tag-link-2162 tag-link-position-3" style="font-size: 16.090909090909pt;" aria-label="60 minutes (49 items)">60 minutes</a>
+<a href="https://www.feelguide.com/tag/active-child/" class="tag-cloud-link tag-link-2313 tag-link-position-4" style="font-size: 7pt;" aria-label="active child (19 items)">active child</a>
+<a href="https://www.feelguide.com/tag/animation/" class="tag-cloud-link tag-link-6215 tag-link-position-5" style="font-size: 7.9090909090909pt;" aria-label="Animation (21 items)">Animation</a>
+<a href="https://www.feelguide.com/tag/apple/" class="tag-cloud-link tag-link-62 tag-link-position-6" style="font-size: 7.4545454545455pt;" aria-label="apple (20 items)">apple</a>
+<a href="https://www.feelguide.com/tag/architecture/" class="tag-cloud-link tag-link-2006 tag-link-position-7" style="font-size: 14.045454545455pt;" aria-label="architecture (40 items)">architecture</a>
+<a href="https://www.feelguide.com/tag/brad-pitt/" class="tag-cloud-link tag-link-2204 tag-link-position-8" style="font-size: 8.8181818181818pt;" aria-label="brad pitt (23 items)">brad pitt</a>
+<a href="https://www.feelguide.com/tag/charlie-rose/" class="tag-cloud-link tag-link-15716 tag-link-position-9" style="font-size: 22pt;" aria-label="Charlie Rose (91 items)">Charlie Rose</a>
+<a href="https://www.feelguide.com/tag/christopher-hitchens/" class="tag-cloud-link tag-link-2161 tag-link-position-10" style="font-size: 9.5pt;" aria-label="christopher hitchens (25 items)">christopher hitchens</a>
+<a href="https://www.feelguide.com/tag/christopher-nolan/" class="tag-cloud-link tag-link-2337 tag-link-position-11" style="font-size: 7.4545454545455pt;" aria-label="christopher nolan (20 items)">christopher nolan</a>
+<a href="https://www.feelguide.com/tag/classical-music/" class="tag-cloud-link tag-link-4818 tag-link-position-12" style="font-size: 9.9545454545455pt;" aria-label="Classical Music (26 items)">Classical Music</a>
+<a href="https://www.feelguide.com/tag/climate-change/" class="tag-cloud-link tag-link-2282 tag-link-position-13" style="font-size: 8.8181818181818pt;" aria-label="climate change (23 items)">climate change</a>
+<a href="https://www.feelguide.com/tag/daft-punk/" class="tag-cloud-link tag-link-2228 tag-link-position-14" style="font-size: 9.5pt;" aria-label="daft punk (25 items)">daft punk</a>
+<a href="https://www.feelguide.com/tag/david-lynch/" class="tag-cloud-link tag-link-2146 tag-link-position-15" style="font-size: 7.9090909090909pt;" aria-label="david lynch (21 items)">david lynch</a>
+<a href="https://www.feelguide.com/tag/documentary/" class="tag-cloud-link tag-link-54 tag-link-position-16" style="font-size: 17pt;" aria-label="documentary (54 items)">documentary</a>
+<a href="https://www.feelguide.com/tag/dream-home/" class="tag-cloud-link tag-link-2200 tag-link-position-17" style="font-size: 19.954545454545pt;" aria-label="dream home (73 items)">dream home</a>
+<a href="https://www.feelguide.com/tag/ghostly-international/" class="tag-cloud-link tag-link-2370 tag-link-position-18" style="font-size: 8.3636363636364pt;" aria-label="ghostly international (22 items)">ghostly international</a>
+<a href="https://www.feelguide.com/tag/hbo/" class="tag-cloud-link tag-link-3018 tag-link-position-19" style="font-size: 7.4545454545455pt;" aria-label="HBO (20 items)">HBO</a>
+<a href="https://www.feelguide.com/tag/hillary-clinton/" class="tag-cloud-link tag-link-2447 tag-link-position-20" style="font-size: 8.3636363636364pt;" aria-label="HIllary Clinton (22 items)">HIllary Clinton</a>
+<a href="https://www.feelguide.com/tag/iso50/" class="tag-cloud-link tag-link-1964 tag-link-position-21" style="font-size: 12.227272727273pt;" aria-label="iso50 (33 items)">iso50</a>
+<a href="https://www.feelguide.com/tag/james-franco/" class="tag-cloud-link tag-link-3743 tag-link-position-22" style="font-size: 7.9090909090909pt;" aria-label="James Franco (21 items)">James Franco</a>
+<a href="https://www.feelguide.com/tag/japan/" class="tag-cloud-link tag-link-1017 tag-link-position-23" style="font-size: 7pt;" aria-label="japan (19 items)">japan</a>
+<a href="https://www.feelguide.com/tag/jason-silva/" class="tag-cloud-link tag-link-15717 tag-link-position-24" style="font-size: 7.4545454545455pt;" aria-label="Jason Silva (20 items)">Jason Silva</a>
+<a href="https://www.feelguide.com/tag/love/" class="tag-cloud-link tag-link-42 tag-link-position-25" style="font-size: 9.5pt;" aria-label="love (25 items)">love</a>
+<a href="https://www.feelguide.com/tag/madonna/" class="tag-cloud-link tag-link-1250 tag-link-position-26" style="font-size: 9.9545454545455pt;" aria-label="madonna (26 items)">madonna</a>
+<a href="https://www.feelguide.com/tag/mixtape/" class="tag-cloud-link tag-link-9241 tag-link-position-27" style="font-size: 8.3636363636364pt;" aria-label="Mixtape (22 items)">Mixtape</a>
+<a href="https://www.feelguide.com/tag/nasa/" class="tag-cloud-link tag-link-1198 tag-link-position-28" style="font-size: 18.136363636364pt;" aria-label="nasa (60 items)">nasa</a>
+<a href="https://www.feelguide.com/tag/neuroscience/" class="tag-cloud-link tag-link-2001 tag-link-position-29" style="font-size: 13.590909090909pt;" aria-label="neuroscience (38 items)">neuroscience</a>
+<a href="https://www.feelguide.com/tag/no-fear-of-pop/" class="tag-cloud-link tag-link-4334 tag-link-position-30" style="font-size: 12pt;" aria-label="NO FEAR OF POP (32 items)">NO FEAR OF POP</a>
+<a href="https://www.feelguide.com/tag/nowness/" class="tag-cloud-link tag-link-2638 tag-link-position-31" style="font-size: 7.4545454545455pt;" aria-label="NOWNESS (20 items)">NOWNESS</a>
+<a href="https://www.feelguide.com/tag/paranormal/" class="tag-cloud-link tag-link-212 tag-link-position-32" style="font-size: 7pt;" aria-label="paranormal (19 items)">paranormal</a>
+<a href="https://www.feelguide.com/tag/photography-2/" class="tag-cloud-link tag-link-465 tag-link-position-33" style="font-size: 7pt;" aria-label="photography (19 items)">photography</a>
+<a href="https://www.feelguide.com/tag/president-obama/" class="tag-cloud-link tag-link-4552 tag-link-position-34" style="font-size: 9.9545454545455pt;" aria-label="President Obama (26 items)">President Obama</a>
+<a href="https://www.feelguide.com/tag/radiohead/" class="tag-cloud-link tag-link-681 tag-link-position-35" style="font-size: 9.9545454545455pt;" aria-label="radiohead (26 items)">radiohead</a>
+<a href="https://www.feelguide.com/tag/religion/" class="tag-cloud-link tag-link-914 tag-link-position-36" style="font-size: 7.9090909090909pt;" aria-label="religion (21 items)">religion</a>
+<a href="https://www.feelguide.com/tag/sam-harris/" class="tag-cloud-link tag-link-15715 tag-link-position-37" style="font-size: 7.4545454545455pt;" aria-label="Sam Harris (20 items)">Sam Harris</a>
+<a href="https://www.feelguide.com/tag/science-fiction/" class="tag-cloud-link tag-link-8322 tag-link-position-38" style="font-size: 7.4545454545455pt;" aria-label="Science Fiction (20 items)">Science Fiction</a>
+<a href="https://www.feelguide.com/tag/stanley-kubrick/" class="tag-cloud-link tag-link-2274 tag-link-position-39" style="font-size: 12.909090909091pt;" aria-label="stanley kubrick (35 items)">stanley kubrick</a>
+<a href="https://www.feelguide.com/tag/steven-spielberg/" class="tag-cloud-link tag-link-2275 tag-link-position-40" style="font-size: 7.9090909090909pt;" aria-label="steven spielberg (21 items)">steven spielberg</a>
+<a href="https://www.feelguide.com/tag/terrence-malick/" class="tag-cloud-link tag-link-2203 tag-link-position-41" style="font-size: 9.5pt;" aria-label="terrence malick (25 items)">terrence malick</a>
+<a href="https://www.feelguide.com/tag/the-creators-project/" class="tag-cloud-link tag-link-2112 tag-link-position-42" style="font-size: 7.4545454545455pt;" aria-label="the creators project (20 items)">the creators project</a>
+<a href="https://www.feelguide.com/tag/tilda-swinton-2/" class="tag-cloud-link tag-link-2341 tag-link-position-43" style="font-size: 18.363636363636pt;" aria-label="tilda swinton (62 items)">tilda swinton</a>
+<a href="https://www.feelguide.com/tag/travel-2/" class="tag-cloud-link tag-link-1192 tag-link-position-44" style="font-size: 13.818181818182pt;" aria-label="travel (39 items)">travel</a>
+<a href="https://www.feelguide.com/tag/wes-anderson/" class="tag-cloud-link tag-link-4575 tag-link-position-45" style="font-size: 7.4545454545455pt;" aria-label="Wes Anderson (20 items)">Wes Anderson</a>        </li>
+     
+
+
+
+</ul>
+
+</div>
+<div style="clear: both;"></div>				
+		
+			<h2 class="widget"><span><i class="icon-file"></i> Latest posts</span></h2>
+			
+			            <ul class="raws">
+			
+			<li>
+                    
+				                     <a href="https://www.feelguide.com/2018/02/13/my-night-with-david-lynch-his-epic-lecture-on-the-miracles-of-transcendental-meditation/" title="My Night With David Lynch &#038; His Epic Lecture On The Miracles Of Transcendental Meditation" >
+                     <img width="190" height="170" src="https://www.feelguide.com/wp-content/uploads/2018/02/DavidLynch0-190x170.jpg" class="attachment-blog size-blog wp-post-image" alt="" title="" srcset="https://www.feelguide.com/wp-content/uploads/2018/02/DavidLynch0-190x170.jpg 190w, https://www.feelguide.com/wp-content/uploads/2018/02/DavidLynch0-455x405.jpg 455w, https://www.feelguide.com/wp-content/uploads/2018/02/DavidLynch0-230x205.jpg 230w" sizes="(max-width: 190px) 100vw, 190px" />                     </a>
+                                    
+                
+                    
+	<p class="meta">
+		February 13, 2018  &bull; 
+        <i class="icon-heart-empty"></i>555		</p>
+                        
+                <h3 class="upperfont"><a href="https://www.feelguide.com/2018/02/13/my-night-with-david-lynch-his-epic-lecture-on-the-miracles-of-transcendental-meditation/" title="My Night With David Lynch &#038; His Epic Lecture On The Miracles Of Transcendental Meditation">My Night With David Lynch &#038; His Epic Lecture On The Miracles Of Transcendental Meditation</a></h3>
+                
+                
+                <p class="teaser">It&#8217;s not everyday that you get to meet one of your biggest heroes, so last night as David Lynch and Bob Roth...</p>
+                
+                    
+	<p class="meta more">
+		<i class="icon-file-alt"></i> <a href="https://www.feelguide.com/category/health/" rel="category tag">Health</a>, <a href="https://www.feelguide.com/category/inspiration/" rel="category tag">Inspiration</a>, <a href="https://www.feelguide.com/category/me/" rel="category tag">Me</a>, <a href="https://www.feelguide.com/category/psychology/" rel="category tag">Psychology</a>, <a href="https://www.feelguide.com/category/spirituality/" rel="category tag">Spirituality</a>, <a href="https://www.feelguide.com/category/the-zen-files/" rel="category tag">The ZEN Files</a>		<a class="fr" href="https://www.feelguide.com/2018/02/13/my-night-with-david-lynch-his-epic-lecture-on-the-miracles-of-transcendental-meditation/">Read More <i class="icon-circle-arrow-right"></i></a></p>
+                            
+			</li>
+
+			
+			<li>
+                    
+				                     <a href="https://www.feelguide.com/2018/02/12/hbos-paranormal-drama-here-and-now-explores-the-powerful-phenomenon-meaning-of-1111/" title="HBO&#8217;s Paranormal Drama &#8216;Here And Now&#8217; Explores The Powerful Phenomenon &#038; Meaning Of 11:11" >
+                     <img width="190" height="170" src="https://www.feelguide.com/wp-content/uploads/2018/02/1111a-190x170.jpg" class="attachment-blog size-blog wp-post-image" alt="" title="" srcset="https://www.feelguide.com/wp-content/uploads/2018/02/1111a-190x170.jpg 190w, https://www.feelguide.com/wp-content/uploads/2018/02/1111a-455x405.jpg 455w, https://www.feelguide.com/wp-content/uploads/2018/02/1111a-230x205.jpg 230w" sizes="(max-width: 190px) 100vw, 190px" />                     </a>
+                                    
+                
+                    
+	<p class="meta">
+		February 12, 2018  &bull; 
+        <i class="icon-heart-empty"></i>658		</p>
+                        
+                <h3 class="upperfont"><a href="https://www.feelguide.com/2018/02/12/hbos-paranormal-drama-here-and-now-explores-the-powerful-phenomenon-meaning-of-1111/" title="HBO&#8217;s Paranormal Drama &#8216;Here And Now&#8217; Explores The Powerful Phenomenon &#038; Meaning Of 11:11">HBO&#8217;s Paranormal Drama &#8216;Here And Now&#8217; Explores The Powerful Phenomenon &#038; Meaning Of 11:11</a></h3>
+                
+                
+                <p class="teaser">Last night HBO premiered its brand new series Here And Now from Alan Ball, the award-winning writer-director-producer...</p>
+                
+                    
+	<p class="meta more">
+		<i class="icon-file-alt"></i> <a href="https://www.feelguide.com/category/me/" rel="category tag">Me</a>, <a href="https://www.feelguide.com/category/philosophy-2/" rel="category tag">Philosophy</a>, <a href="https://www.feelguide.com/category/spirituality/" rel="category tag">Spirituality</a>, <a href="https://www.feelguide.com/category/television/" rel="category tag">Television</a>, <a href="https://www.feelguide.com/category/unexplained/" rel="category tag">Unexplained</a>		<a class="fr" href="https://www.feelguide.com/2018/02/12/hbos-paranormal-drama-here-and-now-explores-the-powerful-phenomenon-meaning-of-1111/">Read More <i class="icon-circle-arrow-right"></i></a></p>
+                            
+			</li>
+
+			
+			<li>
+                    
+				                     <a href="https://www.feelguide.com/2018/02/12/out-magazine-caught-red-handed-revising-lgbt-olympic-history-with-kenworthy-rippon-posts/" title="OUT Magazine Caught Red-Handed Revising LGBT Olympic History With Kenworthy-Rippon Posts" >
+                     <img width="190" height="170" src="https://www.feelguide.com/wp-content/uploads/2018/02/OUT0-190x170.jpg" class="attachment-blog size-blog wp-post-image" alt="" title="" srcset="https://www.feelguide.com/wp-content/uploads/2018/02/OUT0-190x170.jpg 190w, https://www.feelguide.com/wp-content/uploads/2018/02/OUT0-455x405.jpg 455w, https://www.feelguide.com/wp-content/uploads/2018/02/OUT0-230x205.jpg 230w" sizes="(max-width: 190px) 100vw, 190px" />                     </a>
+                                    
+                
+                    
+	<p class="meta">
+		February 12, 2018  &bull; 
+        <i class="icon-heart-empty"></i>477		</p>
+                        
+                <h3 class="upperfont"><a href="https://www.feelguide.com/2018/02/12/out-magazine-caught-red-handed-revising-lgbt-olympic-history-with-kenworthy-rippon-posts/" title="OUT Magazine Caught Red-Handed Revising LGBT Olympic History With Kenworthy-Rippon Posts">OUT Magazine Caught Red-Handed Revising LGBT Olympic History With Kenworthy-Rippon Posts</a></h3>
+                
+                
+                <p class="teaser">I used to have respect for OUT magazine and its coverage of LGBT issues, but this morning I had my fill of them. As I...</p>
+                
+                    
+	<p class="meta more">
+		<i class="icon-file-alt"></i> <a href="https://www.feelguide.com/category/lgbt/" rel="category tag">LGBT</a>		<a class="fr" href="https://www.feelguide.com/2018/02/12/out-magazine-caught-red-handed-revising-lgbt-olympic-history-with-kenworthy-rippon-posts/">Read More <i class="icon-circle-arrow-right"></i></a></p>
+                            
+			</li>
+
+			
+			<li>
+                    
+				                     <a href="https://www.feelguide.com/2018/02/09/video-shows-divers-arm-getting-paralyzed-from-sperm-whales-powerful-clicking-sound/" title="Video Shows Diver&#8217;s Arm Getting Paralyzed From Sperm Whale&#8217;s Powerful Clicking Sound" >
+                     <img width="190" height="170" src="https://www.feelguide.com/wp-content/uploads/2018/02/SpermWhale-190x170.png" class="attachment-blog size-blog wp-post-image" alt="" title="" srcset="https://www.feelguide.com/wp-content/uploads/2018/02/SpermWhale-190x170.png 190w, https://www.feelguide.com/wp-content/uploads/2018/02/SpermWhale-455x405.png 455w, https://www.feelguide.com/wp-content/uploads/2018/02/SpermWhale-230x205.png 230w" sizes="(max-width: 190px) 100vw, 190px" />                     </a>
+                                    
+                
+                    
+	<p class="meta">
+		February 9, 2018  &bull; 
+        <i class="icon-heart-empty"></i>1013		</p>
+                        
+                <h3 class="upperfont"><a href="https://www.feelguide.com/2018/02/09/video-shows-divers-arm-getting-paralyzed-from-sperm-whales-powerful-clicking-sound/" title="Video Shows Diver&#8217;s Arm Getting Paralyzed From Sperm Whale&#8217;s Powerful Clicking Sound">Video Shows Diver&#8217;s Arm Getting Paralyzed From Sperm Whale&#8217;s Powerful Clicking Sound</a></h3>
+                
+                
+                <p class="teaser">Whales and dolphins are the most intelligent creatures in existence with the highest levels of consciousness. And with...</p>
+                
+                    
+	<p class="meta more">
+		<i class="icon-file-alt"></i> <a href="https://www.feelguide.com/category/nature/" rel="category tag">Nature</a>, <a href="https://www.feelguide.com/category/science/" rel="category tag">Science</a>		<a class="fr" href="https://www.feelguide.com/2018/02/09/video-shows-divers-arm-getting-paralyzed-from-sperm-whales-powerful-clicking-sound/">Read More <i class="icon-circle-arrow-right"></i></a></p>
+                            
+			</li>
+
+			
+			<li>
+                    
+				                     <a href="https://www.feelguide.com/2018/02/08/the-mystery-of-mary-trump-how-donalds-dark-relationship-with-his-mom-explains-his-mania/" title="The Mystery Of Mary Trump: How Donald&#8217;s Dark Relationship With His Mom Explains His Mania" >
+                     <img width="190" height="170" src="https://www.feelguide.com/wp-content/uploads/2018/02/MaryTrump2-190x170.jpg" class="attachment-blog size-blog wp-post-image" alt="" title="" srcset="https://www.feelguide.com/wp-content/uploads/2018/02/MaryTrump2-190x170.jpg 190w, https://www.feelguide.com/wp-content/uploads/2018/02/MaryTrump2-455x405.jpg 455w, https://www.feelguide.com/wp-content/uploads/2018/02/MaryTrump2-230x205.jpg 230w" sizes="(max-width: 190px) 100vw, 190px" />                     </a>
+                                    
+                
+                    
+	<p class="meta">
+		February 8, 2018  &bull; 
+        <i class="icon-heart-empty"></i>1088		</p>
+                        
+                <h3 class="upperfont"><a href="https://www.feelguide.com/2018/02/08/the-mystery-of-mary-trump-how-donalds-dark-relationship-with-his-mom-explains-his-mania/" title="The Mystery Of Mary Trump: How Donald&#8217;s Dark Relationship With His Mom Explains His Mania">The Mystery Of Mary Trump: How Donald&#8217;s Dark Relationship With His Mom Explains His Mania</a></h3>
+                
+                
+                <p class="teaser">One of Sigmund Freud&#8216;s most renowned theories is the Oedipus Complex, part of his larger theory of the...</p>
+                
+                    
+	<p class="meta more">
+		<i class="icon-file-alt"></i> <a href="https://www.feelguide.com/category/government-politics/" rel="category tag">Politics</a>, <a href="https://www.feelguide.com/category/psychology/" rel="category tag">Psychology</a>		<a class="fr" href="https://www.feelguide.com/2018/02/08/the-mystery-of-mary-trump-how-donalds-dark-relationship-with-his-mom-explains-his-mania/">Read More <i class="icon-circle-arrow-right"></i></a></p>
+                            
+			</li>
+
+			
+			<li>
+                    
+				                     <a href="https://www.feelguide.com/2018/02/07/game-of-thrones-creators-benioff-weiss-creating-new-series-of-star-wars-films/" title="&#8220;Game Of Thrones&#8221; Creators Benioff &#038; Weiss Creating New Series Of &#8220;STAR WARS&#8221; Films" >
+                     <img width="190" height="170" src="https://www.feelguide.com/wp-content/uploads/2018/02/GOTstarWars-190x170.jpg" class="attachment-blog size-blog wp-post-image" alt="" title="" srcset="https://www.feelguide.com/wp-content/uploads/2018/02/GOTstarWars-190x170.jpg 190w, https://www.feelguide.com/wp-content/uploads/2018/02/GOTstarWars-455x405.jpg 455w, https://www.feelguide.com/wp-content/uploads/2018/02/GOTstarWars-230x205.jpg 230w" sizes="(max-width: 190px) 100vw, 190px" />                     </a>
+                                    
+                
+                    
+	<p class="meta">
+		February 7, 2018  &bull; 
+        <i class="icon-heart-empty"></i>445		</p>
+                        
+                <h3 class="upperfont"><a href="https://www.feelguide.com/2018/02/07/game-of-thrones-creators-benioff-weiss-creating-new-series-of-star-wars-films/" title="&#8220;Game Of Thrones&#8221; Creators Benioff &#038; Weiss Creating New Series Of &#8220;STAR WARS&#8221; Films">&#8220;Game Of Thrones&#8221; Creators Benioff &#038; Weiss Creating New Series Of &#8220;STAR WARS&#8221; Films</a></h3>
+                
+                
+                <p class="teaser">Lucasfilm and Disney just announced that David Benioff and D.B. Weiss, the creators of Game Of Thrones, are creating an...</p>
+                
+                    
+	<p class="meta more">
+		<i class="icon-file-alt"></i> <a href="https://www.feelguide.com/category/film/" rel="category tag">Movies</a>		<a class="fr" href="https://www.feelguide.com/2018/02/07/game-of-thrones-creators-benioff-weiss-creating-new-series-of-star-wars-films/">Read More <i class="icon-circle-arrow-right"></i></a></p>
+                            
+			</li>
+
+			
+			<li>
+                    
+				                     <a href="https://www.feelguide.com/2018/02/06/how-do-you-subpoena-a-president-who-lives-in-the-most-fortified-home-in-the-world/" title="How Do You Subpoena A President Who Lives In The Most Fortified Home In The World?" >
+                     <img width="190" height="170" src="https://www.feelguide.com/wp-content/uploads/2018/02/WhiteHouse-190x170.jpg" class="attachment-blog size-blog wp-post-image" alt="" title="" srcset="https://www.feelguide.com/wp-content/uploads/2018/02/WhiteHouse-190x170.jpg 190w, https://www.feelguide.com/wp-content/uploads/2018/02/WhiteHouse-455x405.jpg 455w, https://www.feelguide.com/wp-content/uploads/2018/02/WhiteHouse-230x205.jpg 230w" sizes="(max-width: 190px) 100vw, 190px" />                     </a>
+                                    
+                
+                    
+	<p class="meta">
+		February 6, 2018  &bull; 
+        <i class="icon-heart-empty"></i>524		</p>
+                        
+                <h3 class="upperfont"><a href="https://www.feelguide.com/2018/02/06/how-do-you-subpoena-a-president-who-lives-in-the-most-fortified-home-in-the-world/" title="How Do You Subpoena A President Who Lives In The Most Fortified Home In The World?">How Do You Subpoena A President Who Lives In The Most Fortified Home In The...</a></h3>
+                
+                
+                <p class="teaser">The New York Times broke the story last night that Donald Trump&#8217;s lawyers are advising him not to speak in person...</p>
+                
+                    
+	<p class="meta more">
+		<i class="icon-file-alt"></i> <a href="https://www.feelguide.com/category/government-politics/" rel="category tag">Politics</a>		<a class="fr" href="https://www.feelguide.com/2018/02/06/how-do-you-subpoena-a-president-who-lives-in-the-most-fortified-home-in-the-world/">Read More <i class="icon-circle-arrow-right"></i></a></p>
+                            
+			</li>
+
+			
+			<li>
+                    
+				                     <a href="https://www.feelguide.com/2018/01/29/feelguides-hottest-man-alive-2018-behold-the-amazingness-of-french-model-nabil-taleb/" title="FEELguide&#8217;s Hottest Man Alive 2018: Behold The Amazingness Of French Model Nabil Taleb" >
+                     <img width="190" height="170" src="https://www.feelguide.com/wp-content/uploads/2018/01/000A-190x170.jpg" class="attachment-blog size-blog wp-post-image" alt="" title="" srcset="https://www.feelguide.com/wp-content/uploads/2018/01/000A-190x170.jpg 190w, https://www.feelguide.com/wp-content/uploads/2018/01/000A-455x405.jpg 455w, https://www.feelguide.com/wp-content/uploads/2018/01/000A-230x205.jpg 230w" sizes="(max-width: 190px) 100vw, 190px" />                     </a>
+                                    
+                
+                    
+	<p class="meta">
+		January 29, 2018  &bull; 
+        <i class="icon-heart-empty"></i>768		</p>
+                        
+                <h3 class="upperfont"><a href="https://www.feelguide.com/2018/01/29/feelguides-hottest-man-alive-2018-behold-the-amazingness-of-french-model-nabil-taleb/" title="FEELguide&#8217;s Hottest Man Alive 2018: Behold The Amazingness Of French Model Nabil Taleb">FEELguide&#8217;s Hottest Man Alive 2018: Behold The Amazingness Of French Model Nabil Taleb</a></h3>
+                
+                
+                <p class="teaser">Every now and then I&#8217;ll take a good, long break from blogging. After six and a half years of almost non-stop...</p>
+                
+                    
+	<p class="meta more">
+		<i class="icon-file-alt"></i> <a href="https://www.feelguide.com/category/fashion/" rel="category tag">Fashion</a>, <a href="https://www.feelguide.com/category/random-news/" rel="category tag">Random News</a>		<a class="fr" href="https://www.feelguide.com/2018/01/29/feelguides-hottest-man-alive-2018-behold-the-amazingness-of-french-model-nabil-taleb/">Read More <i class="icon-circle-arrow-right"></i></a></p>
+                            
+			</li>
+
+			
+			<li>
+                    
+				                     <a href="https://www.feelguide.com/2017/10/31/the-wire-why-this-march-31st-photograph-sent-chills-up-trumps-spine-on-mueller-monday/" title="The Wire: Why This March 31st Photograph Sent Chills Up Trump&#8217;s Spine On &#8216;Mueller Monday&#8217;" >
+                     <img width="190" height="170" src="https://www.feelguide.com/wp-content/uploads/2017/10/MarchPhoto-190x170.jpg" class="attachment-blog size-blog wp-post-image" alt="The Photograph Connecting George Papadopoulos to Donald Trump" title="" srcset="https://www.feelguide.com/wp-content/uploads/2017/10/MarchPhoto-190x170.jpg 190w, https://www.feelguide.com/wp-content/uploads/2017/10/MarchPhoto-455x405.jpg 455w, https://www.feelguide.com/wp-content/uploads/2017/10/MarchPhoto-230x205.jpg 230w" sizes="(max-width: 190px) 100vw, 190px" />                     </a>
+                                    
+                
+                    
+	<p class="meta">
+		October 31, 2017  &bull; 
+        <i class="icon-heart-empty"></i>3844		</p>
+                        
+                <h3 class="upperfont"><a href="https://www.feelguide.com/2017/10/31/the-wire-why-this-march-31st-photograph-sent-chills-up-trumps-spine-on-mueller-monday/" title="The Wire: Why This March 31st Photograph Sent Chills Up Trump&#8217;s Spine On &#8216;Mueller Monday&#8217;">The Wire: Why This March 31st Photograph Sent Chills Up Trump&#8217;s Spine On &#8216;Mueller Monday&#8217;</a></h3>
+                
+                
+                <p class="teaser">Yesterday&#8217;s public reveal of the indictments against former Trump campaign chair Paul Manafort, and...</p>
+                
+                    
+	<p class="meta more">
+		<i class="icon-file-alt"></i> <a href="https://www.feelguide.com/category/government-politics/" rel="category tag">Politics</a>		<a class="fr" href="https://www.feelguide.com/2017/10/31/the-wire-why-this-march-31st-photograph-sent-chills-up-trumps-spine-on-mueller-monday/">Read More <i class="icon-circle-arrow-right"></i></a></p>
+                            
+			</li>
+
+			
+			<li>
+                    
+				                     <a href="https://www.feelguide.com/2017/10/05/40-states-gearing-up-to-cripple-big-pharma-the-opioid-industry-like-they-did-big-tobacco/" title="40 States Gearing Up To Cripple Big Pharma &#038; The Opioid Industry Like They Did Big Tobacco" >
+                     <img width="190" height="170" src="https://www.feelguide.com/wp-content/uploads/2017/10/Opioids-190x170.jpg" class="attachment-blog size-blog wp-post-image" alt="" title="" srcset="https://www.feelguide.com/wp-content/uploads/2017/10/Opioids-190x170.jpg 190w, https://www.feelguide.com/wp-content/uploads/2017/10/Opioids-455x405.jpg 455w, https://www.feelguide.com/wp-content/uploads/2017/10/Opioids-230x205.jpg 230w" sizes="(max-width: 190px) 100vw, 190px" />                     </a>
+                                    
+                
+                    
+	<p class="meta">
+		October 5, 2017  &bull; 
+        <i class="icon-heart-empty"></i>5869		</p>
+                        
+                <h3 class="upperfont"><a href="https://www.feelguide.com/2017/10/05/40-states-gearing-up-to-cripple-big-pharma-the-opioid-industry-like-they-did-big-tobacco/" title="40 States Gearing Up To Cripple Big Pharma &#038; The Opioid Industry Like They Did Big Tobacco">40 States Gearing Up To Cripple Big Pharma &#038; The Opioid Industry Like They Did...</a></h3>
+                
+                
+                <p class="teaser">It looks like the it&#8217;s the beginning of the end for the opioid industry and its drug lords in Big Pharma. As of...</p>
+                
+                    
+	<p class="meta more">
+		<i class="icon-file-alt"></i> <a href="https://www.feelguide.com/category/health/" rel="category tag">Health</a>, <a href="https://www.feelguide.com/category/government-politics/" rel="category tag">Politics</a>		<a class="fr" href="https://www.feelguide.com/2017/10/05/40-states-gearing-up-to-cripple-big-pharma-the-opioid-industry-like-they-did-big-tobacco/">Read More <i class="icon-circle-arrow-right"></i></a></p>
+                            
+			</li>
+
+			            <li class="rawsfix"><h2 class="widget"><a href="http://www.feelguide.com/posts"><span class="fr">Recent Posts <i class="icon-circle-arrow-right"></i></span></a></h2></li>
+			</ul>
+            
+			<div style="clear: both;"></div>
+		
+		</div><!-- #sidebar -->
+
+
+<div id="footer">
+
+		            <div class="threecol first"> 
+				<h2>FEELguide™ ©2010-2017</h2>			<div class="textwidget"></div>
+					<div class="textwidget">Contact: info@FEELguide.com</div>
+		<div class="menu-advertising-container"><ul id="menu-advertising" class="menu"><li id="menu-item-49276" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-49276"><a href="https://www.feelguide.com/2010/09/23/advertise-promote/">Advertise &#038; Promote Your Hotel Or Brand On FEELguide</a></li>
+</ul></div><div class="menu-menu-4-container"><ul id="menu-menu-4" class="menu"><li id="menu-item-36728" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36728"><a href="https://www.feelguide.com/privacy-policy-and-disclaimer/">Privacy Policy and Disclaimer</a></li>
+</ul></div>            </div>
+            
+            
+            <div class="threecol">
+				<h2>Search</h2><form class="searchform" method="get" action="https://www.feelguide.com">
+<input type="text" name="s" class="s" size="30" value="Search" onfocus="if (this.value = '') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search...';}" /><input type="submit" class="searchSubmit" value="" />
+</form><h2>Categories</h2><form action="https://www.feelguide.com" method="get"><label class="screen-reader-text" for="categories-dropdown-6">Categories</label><select  name='cat' id='categories-dropdown-6' class='postform' >
+	<option value='-1'>Select Category</option>
+	<option class="level-0" value="16375">Adventure</option>
+	<option class="level-0" value="1409">Advertising</option>
+	<option class="level-0" value="506">Amy Sedaris</option>
+	<option class="level-0" value="767">Archaeology</option>
+	<option class="level-0" value="2462">Architecture</option>
+	<option class="level-0" value="382">Art</option>
+	<option class="level-0" value="34">Banner Photos</option>
+	<option class="level-0" value="450">Books</option>
+	<option class="level-0" value="24">Business</option>
+	<option class="level-0" value="376">Canadiana</option>
+	<option class="level-0" value="3046">Charlie Rose</option>
+	<option class="level-0" value="4448">Christopher Hitchens</option>
+	<option class="level-0" value="3">Design</option>
+	<option class="level-0" value="35">Fashion</option>
+	<option class="level-0" value="13101">Featured Video</option>
+	<option class="level-0" value="6228">FEELguide Classics</option>
+	<option class="level-0" value="1330">FEELguide Editorials</option>
+	<option class="level-0" value="6610">FEELguide Hero</option>
+	<option class="level-0" value="2555">FEELprize</option>
+	<option class="level-0" value="16372">Flights &amp; Airlines</option>
+	<option class="level-0" value="32">Food</option>
+	<option class="level-0" value="18">Funny</option>
+	<option class="level-0" value="758">Graphic Design</option>
+	<option class="level-0" value="26">Health</option>
+	<option class="level-0" value="356">History</option>
+	<option class="level-0" value="254">Hollywoodland</option>
+	<option class="level-0" value="16389">Hotels</option>
+	<option class="level-0" value="759">Industrial And Product Design</option>
+	<option class="level-0" value="28">Infographics</option>
+	<option class="level-0" value="16">Inspiration</option>
+	<option class="level-0" value="3139">Jason Silva</option>
+	<option class="level-0" value="253">Just Because</option>
+	<option class="level-0" value="16153">LGBT</option>
+	<option class="level-0" value="1860">LINKguide</option>
+	<option class="level-0" value="17">Me</option>
+	<option class="level-0" value="4">Movies</option>
+	<option class="level-0" value="5">Music</option>
+	<option class="level-0" value="29">Nature</option>
+	<option class="level-0" value="30">Neuroscience</option>
+	<option class="level-0" value="482">Philosophy</option>
+	<option class="level-0" value="27">Photography</option>
+	<option class="level-0" value="2045">Physics</option>
+	<option class="level-0" value="619">Politics</option>
+	<option class="level-0" value="381">Psychology</option>
+	<option class="level-0" value="701">Random News</option>
+	<option class="level-0" value="2180">Robotics</option>
+	<option class="level-0" value="2702">Sam Harris</option>
+	<option class="level-0" value="6">Science</option>
+	<option class="level-0" value="23">Society</option>
+	<option class="level-0" value="215">Space</option>
+	<option class="level-0" value="31">Spirituality</option>
+	<option class="level-0" value="21">Style</option>
+	<option class="level-0" value="15">Technology</option>
+	<option class="level-0" value="426">Television</option>
+	<option class="level-0" value="3164">The WOW Files</option>
+	<option class="level-0" value="795">The WTF Files</option>
+	<option class="level-0" value="15673">The ZEN Files</option>
+	<option class="level-0" value="2277">Tilda Swinton</option>
+	<option class="level-0" value="19">Travel</option>
+	<option class="level-0" value="1">Uncategorized</option>
+	<option class="level-0" value="20">Unexplained</option>
+	<option class="level-0" value="22">Video</option>
+</select>
+</form>
+<script type='text/javascript'>
+/* <![CDATA[ */
+(function() {
+	var dropdown = document.getElementById( "categories-dropdown-6" );
+	function onCatChange() {
+		if ( dropdown.options[ dropdown.selectedIndex ].value > 0 ) {
+			dropdown.parentNode.submit();
+		}
+	}
+	dropdown.onchange = onCatChange;
+})();
+/* ]]> */
+</script>
+
+            </div>
+            
+            <div class="threecol"> 
+				<h2>FEELguide on Facebook</h2>			<div class="textwidget"><iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FFEELguide%2F&tabs=timeline&width=210&height=155&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=327673584241618" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe></div>
+		            </div>
+            
+            <div class="threecol"> 
+						                	<ul class="social-menu">
+<li class="rss"><a title="Rss Feed" href="http://feeds.feedburner.com/feelguidefeed">Rss Feed</a></li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li class="twitter"><a title="Twitter" href="https://twitter.com/FEELguide">Twitter</a></li>
+<li class="facebook"><a title="Facebook" href="https://www.facebook.com/FEELguide">Facebook</a></li>
+
+<li class="instagram"><a title="Instagram" href="http://instagram.com/feelguide/">Instagram</a></li>
+
+
+
+
+
+</ul>
+<div class="clear-floats"></div>            <div style="clear: both;"></div> 
+		   
+               </div>        
+        <div style="clear: both;"></div>
+        
+        <div class="hrlineB"></div>
+        
+        <div id="copyright">
+                
+          	<div class="fl">
+                
+				                
+                    <p>&copy; 2018 FEELguide&trade;</p>
+                    
+                               
+			</div>
+            
+        	<div class="fr">
+            
+				                
+                    <p>Powered by <a href="http://www.wordpress.org">Wordpress</a>. Designed by <a href="http://themnific.com">Themnific&trade;</a></p>
+                    
+                                
+			</div>
+            
+        </div> 
+    
+    </div>
+    
+</div><!-- /#footer  -->
+    
+
+
+
+<div class="scrollTo_top" style="display: block">
+<a title="Scroll to top" href="#"></a>
+</div>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-18749266-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<link rel='stylesheet' id='simple-share-buttons-adder-ssba-css'  href='http://www.feelguide.com/wp-content/plugins/simple-share-buttons-adder/css/ssba.css?ver=4.9.4' type='text/css' media='all' />
+<style id='simple-share-buttons-adder-ssba-inline-css' type='text/css'>
+	.ssba {
+									padding: 23px;
+									border: 1px solid #ffffff;
+									background-color: #ffffff;
+									
+								}
+								.ssba img
+								{
+									width: 20px !important;
+									padding: 07px;
+									border:  0;
+									box-shadow: none !important;
+									display: inline !important;
+									vertical-align: middle;
+									box-sizing: unset;
+								}
+								
+								.ssba .fb-save
+								{
+								padding: 07px;
+								line-height: 15px;
+								}
+								.ssba, .ssba a
+								{
+									text-decoration:none;
+									
+									
+									font-size: 20px;
+									
+									font-weight: bold;
+								}
+								
+</style>
+<link rel='stylesheet' id='mab-actionbox-style-48323-css'  href='https://www.feelguide.com/wp-content/uploads/magic-action-box/actionbox-48323.css?ver=1471012931' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.feelguide.com/wp-content/themes/columns/js/tabs.js?ver=4.9.4'></script>
+<script type='text/javascript' src='http://www.feelguide.com/wp-content/themes/columns/js/jquery.flexslider-min.js?ver=4.9.4'></script>
+<script type='text/javascript' src='http://www.feelguide.com/wp-content/themes/columns/js/jquery.flexslider.start.widget.js?ver=4.9.4'></script>
+<script type='text/javascript' src='http://www.feelguide.com/wp-content/plugins/magic-action-popup/assets/js/jquery.fancybox.js?ver=2.5.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mapAjax = {"ajaxurl":"https:\/\/www.feelguide.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.feelguide.com/wp-content/plugins/magic-action-popup/assets/js/button-popup.js?ver=0.1'></script>
+<script type='text/javascript' src='http://www.feelguide.com/wp-content/plugins/simple-share-buttons-adder/js/ssba.js?ver=4.9.4'></script>
+<script type='text/javascript'>
+Main.boot( [] );
+</script>
+<script type='text/javascript' src='http://www.feelguide.com/wp-content/plugins/sossy-social-profile/lib/js/jquery.sossywp.js?ver=4.9.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var MabAjax = {"ajaxurl":"https:\/\/www.feelguide.com\/wp-admin\/admin-ajax.php","action":"mab-process-optin","wpspinner":"https:\/\/www.feelguide.com\/wp-admin\/images\/wpspin_light.gif","wpspinner2x":"https:\/\/www.feelguide.com\/wp-admin\/images\/wpspin_light-2x.gif","spinner":"https:\/\/www.feelguide.com\/wp-admin\/images\/spinner.gif","spinner2x":"https:\/\/www.feelguide.com\/wp-admin\/images\/spinner-2x.gif","baseStylesUrl":"http:\/\/www.feelguide.com\/wp-content\/plugins\/magic-action-box-pro\/styles\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.feelguide.com/wp-content/plugins/magic-action-box-pro/assets/js/ajax-form.js?ver=2.17.1'></script>
+<script type='text/javascript' src='http://www.feelguide.com/wp-content/plugins/magic-action-box-pro/assets/js/responsive-videos.js?ver=2.17.1'></script>
+<script type='text/javascript' src='http://www.feelguide.com/wp-content/themes/columns/js/superfish.js?ver=4.9.4'></script>
+<script type='text/javascript' src='http://www.feelguide.com/wp-content/themes/columns/js/jquery.hoverIntent.minified.js?ver=4.9.4'></script>
+<script type='text/javascript' src='http://www.feelguide.com/wp-content/themes/columns/js/jquery.prettyPhoto.js?ver=4.9.4'></script>
+<script type='text/javascript' src='http://www.feelguide.com/wp-content/themes/columns/js/jquery.simplyscroll.min.js?ver=4.9.4'></script>
+<script type='text/javascript' src='http://www.feelguide.com/wp-content/themes/columns/js/jquery.simplyscroll.start.js?ver=4.9.4'></script>
+<script type='text/javascript' src='http://www.feelguide.com/wp-content/themes/columns/js/ownScript.js?ver=4.9.4'></script>
+<script type='text/javascript' src='http://www.feelguide.com/wp-includes/js/comment-reply.min.js?ver=4.9.4'></script>
+<script type='text/javascript' src='http://www.feelguide.com/wp-content/themes/columns/js/jquery.flexslider.start.single.js?ver=4.9.4'></script>
+<script type='text/javascript' src='http://www.feelguide.com/wp-includes/js/wp-embed.min.js?ver=4.9.4'></script>
+<!--mabv2.17.1-->
+</body>
+</html>

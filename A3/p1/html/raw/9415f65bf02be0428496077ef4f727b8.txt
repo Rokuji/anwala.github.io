@@ -1,0 +1,1196 @@
+https://www.grammy.com/grammys/videos/production-process-inside-taylor-swifts-1989-part-1?sf14065875=1
+<!DOCTYPE html>
+  <!--[if IEMobile 7]><html class="no-js ie iem7" lang="en" dir="ltr"><![endif]-->
+  <!--[if lte IE 6]><html class="no-js ie lt-ie9 lt-ie8 lt-ie7" lang="en" dir="ltr"><![endif]-->
+  <!--[if (IE 7)&(!IEMobile)]><html class="no-js ie lt-ie9 lt-ie8" lang="en" dir="ltr"><![endif]-->
+  <!--[if IE 8]><html class="no-js ie lt-ie9" lang="en" dir="ltr"><![endif]-->
+  <!--[if (gte IE 9)|(gt IEMobile 7)]><html class="no-js ie" lang="en" dir="ltr" prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product# content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><![endif]-->
+  <!--[if !IE]><!--><html class="no-js" lang="en" dir="ltr" prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product# content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<link rel="apple-touch-icon" href="https://www.grammy.com/sites/com/themes/custom/com/apple-touch-icon.png" />
+<link rel="apple-touch-icon" href="https://www.grammy.com/sites/com/themes/custom/com/apple-touch-icon-72x72.png" sizes="72x72" />
+<link rel="apple-touch-icon" href="https://www.grammy.com/sites/com/themes/custom/com/apple-touch-icon-114x114.png" sizes="114x114" />
+<link rel="apple-touch-icon" href="https://www.grammy.com/sites/com/themes/custom/com/apple-touch-icon-144x144.png" sizes="144x144" />
+<meta http-equiv="cleartype" content="on" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<link rel="shortcut icon" href="https://www.grammy.com/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+<meta name="drupal_parsely_version" id="drupal_parsely_version" content="0.1" />
+<meta property="fb:app_id" content="146983968702505" />
+<script content="Parsely metadata" type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"NewsArticle","articleId":"119696","creator":"fancystatue","dateCreated":"2017-05-15T08:50:02Z","headline":"Production & process: Inside Taylor Swift's '1989' (part 1)","url":"https:\/\/www.grammy.com\/grammys\/videos\/production-process-inside-taylor-swifts-1989-part-1","keywords":["pillar_grammys","taylor swift"],"articleSection":"video_interview","thumbnailUrl":"https:\/\/www.grammy.com\/sites\/all\/modules\/custom\/tra_share\/images\/banner.default.jpg"}</script>
+<meta name="description" content="Taylor Swift talks &#039;1989&#039; (1/3). Watch exclusive videos from GRAMMY winners, nominees and artists on the rise at GRAMMY.com." />
+<meta name="keywords" content="Taylor Swift talks &#039;1989&#039; (1/3), grammy video, music video, grammy.com" />
+<meta name="viewport" content="width=device-width" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="image_src" href="https://www.grammy.com/sites/all/modules/custom/tra_share/images/banner.default.jpg" />
+<link rel="canonical" href="https://www.grammy.com/grammys/videos/production-process-inside-taylor-swifts-1989-part-1" />
+<link rel="shortlink" href="https://www.grammy.com/node/119696" />
+<meta property="og:site_name" content="GRAMMY.com" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.grammy.com/grammys/videos/production-process-inside-taylor-swifts-1989-part-1" />
+<meta property="og:title" content="Taylor Swift talks &#039;1989&#039; (1/3)" />
+<meta property="og:description" content="Explore the production and songwriting process behindTaylor Swift&#039;s chart-topping fifth album,1989,with Swift herself." />
+<meta property="og:updated_time" content="2017-11-07T09:38:20-08:00" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@RecordingAcad" />
+<meta name="twitter:site:id" content="17243213" />
+<meta name="twitter:url" content="https://www.grammy.com/grammys/videos/production-process-inside-taylor-swifts-1989-part-1" />
+<meta name="twitter:title" content="Production &amp; process: Inside Taylor Swift&#039;s &#039;1989&#039; (part 1)" />
+<meta name="twitter:image:width" content="1200" />
+<meta name="twitter:image:height" content="630" />
+<meta property="article:published_time" content="2015-10-12T16:02:00-07:00" />
+<meta property="article:modified_time" content="2017-11-07T09:38:20-08:00" />
+  <title>Taylor Swift talks '1989' (1/3) | GRAMMY.com</title>
+  <link type="text/css" rel="stylesheet" href="https://www.grammy.com/sites/com/files/css/css_7iZ9tAKQKBuKdBKCpA26Hb-uhKdzui-eZPW25VEvpW0.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.grammy.com/sites/com/files/css/css__CwDmLmIb-uu9qLX_8jxgDM-dupC7NEmKMZKSqC6CQ8.css" media="all" />
+<style>#fbcomments,.fb-comments,.fb-comments iframe,.fb-comments span{width:100% !important;}
+</style>
+<link type="text/css" rel="stylesheet" href="https://www.grammy.com/sites/com/files/css/css_yioGtyimZt2_jsTie3BD2kC8xv-CaLFSDHFozocQXvw.css" media="all" />
+<style>#fbcomments,.fb-comments,.fb-comments iframe,.fb-comments span{width:100% !important;}
+</style>
+<link type="text/css" rel="stylesheet" href="https://www.grammy.com/sites/com/files/css/css_wHU2DZg35qLtpA7pUEac-vfGAi9Qa1j7Etc33D7OSZs.css" media="all" />
+<style>#fbcomments,.fb-comments,.fb-comments iframe,.fb-comments span{width:100% !important;}
+#fbcomments,.fb-comments,.fb-comments iframe,.fb-comments span{width:100% !important;}
+#fbcomments,.fb-comments,.fb-comments iframe,.fb-comments span{width:100% !important;}
+#fbcomments,.fb-comments,.fb-comments iframe,.fb-comments span{width:100% !important;}
+#fbcomments,.fb-comments,.fb-comments iframe,.fb-comments span{width:100% !important;}
+#fbcomments,.fb-comments,.fb-comments iframe,.fb-comments span{width:100% !important;}
+#fbcomments,.fb-comments,.fb-comments iframe,.fb-comments span{width:100% !important;}
+#fbcomments,.fb-comments,.fb-comments iframe,.fb-comments span{width:100% !important;}
+#fbcomments,.fb-comments,.fb-comments iframe,.fb-comments span{width:100% !important;}
+#fbcomments,.fb-comments,.fb-comments iframe,.fb-comments span{width:100% !important;}
+#fbcomments,.fb-comments,.fb-comments iframe,.fb-comments span{width:100% !important;}
+#fbcomments,.fb-comments,.fb-comments iframe,.fb-comments span{width:100% !important;}
+#fbcomments,.fb-comments,.fb-comments iframe,.fb-comments span{width:100% !important;}
+#fbcomments,.fb-comments,.fb-comments iframe,.fb-comments span{width:100% !important;}
+#fbcomments,.fb-comments,.fb-comments iframe,.fb-comments span{width:100% !important;}
+</style>
+<link type="text/css" rel="stylesheet" href="//player.ooyala.com/static/v4/stable/latest/skin-plugin/html5-skin.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.grammy.com/sites/com/files/css/css_P6wFHjDDdVSXCZjRo-8MgN00seRZhWOQ13RtTwMqhG8.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.grammy.com/sites/com/files/css/css_mq1XmiGTBMnzRBdpL_rtieFMt-d9QGXluD3pH8aZQ0Y.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.grammy.com/sites/com/files/css/css_2DJJWqAvXAlnIHtj-Aqlqi5iDiFhosrskUcVVUvrkQk.css" media="print" />
+
+<!--[if lte IE 8]>
+<link type="text/css" rel="stylesheet" href="https://www.grammy.com/sites/com/files/css/css_tZU53kZ1Uujku8-cKP8rPdC74o3vEK271ugdQiJmFe0.css" media="all" />
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="https://www.grammy.com/sites/com/files/css/css_2TDPpqFBO047KynhE2v57N0C5xd0W2Z6M3spu5Sg8gY.css" media="all" />
+
+<!--[if lte IE 8]>
+<link type="text/css" rel="stylesheet" href="https://www.grammy.com/sites/com/files/css/css_AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs.css" media="all" />
+<![endif]-->
+  <script src="https://www.grammy.com/sites/com/files/js/js_WeLJmJdCbcIcvcxSv3uTyKLsX_2Qtx1Loibrxc0ng8c.js"></script>
+<script src="https://www.grammy.com/sites/com/files/js/js_ZlbZCt9VIesFzM75iHKSbqRnsBoSHbjj0YQjK494mHI.js"></script>
+<script>var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+googletag.slots = googletag.slots || {};</script>
+<script src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+<script src="https://www.grammy.com/sites/com/files/js/js_m1llWhY9_cAUdkqjYzGe6NtbeMnsuGzuJZ9pBCW5OjU.js"></script>
+<script src="https://www.grammy.com/sites/com/files/js/js_kOeGaOUYuYDwvIIfdc0d9J25Ft9BGPR8mm-Z858PxMA.js"></script>
+<script>googletag.slots["dfp-ad-tra_desktop_grammy_video_2_300_250-5a89ff638df3f"] = googletag.defineSlot("2066046/tra_desktop_grammy_video_2_300-250", [300, 250], "dfp-ad-tra_desktop_grammy_video_2_300_250-5a89ff638df3f")
+  .addService(googletag.pubads());</script>
+<script>googletag.slots["dfp-ad-tra_mobile_grammy_video_2_300_250-5a89ff64036a6"] = googletag.defineSlot("2066046/tra_mobile_grammy_video_2_300-250", [300, 250], "dfp-ad-tra_mobile_grammy_video_2_300_250-5a89ff64036a6")
+  .addService(googletag.pubads());</script>
+<script>googletag.slots["dfp-ad-tra_desktop_grammy_video_1_728_90-5a89ff640a436"] = googletag.defineSlot("2066046/tra_desktop_grammy_video_1_728-90", [728, 90], "dfp-ad-tra_desktop_grammy_video_1_728_90-5a89ff640a436")
+  .addService(googletag.pubads());</script>
+<script>googletag.slots["dfp-ad-tra_mobile_grammy_video_1_300_50-5a89ff640ae4f"] = googletag.defineSlot("2066046/tra_mobile_grammy_video_1_300-50", [300, 50], "dfp-ad-tra_mobile_grammy_video_1_300_50-5a89ff640ae4f")
+  .addService(googletag.pubads());</script>
+<script src="https://www.grammy.com/sites/com/files/js/js_ebXecIWzJ-Qjwrf8VhtZODLsZFDqK9J9Yso_VJBE2_4.js"></script>
+<script>googletag.slots["dfp-ad-tra_desktop_grammy_video_2_300_250-5a89ff640b831"] = googletag.defineSlot("2066046/tra_desktop_grammy_video_2_300-250", [300, 250], "dfp-ad-tra_desktop_grammy_video_2_300_250-5a89ff640b831")
+  .addService(googletag.pubads());</script>
+<script src="https://www.grammy.com/sites/com/files/js/js_c-h5H6Gdt6t1cxUf6KmAtZXIH32tGrzEKx60Jjg5AUA.js"></script>
+<script src="https://www.grammy.com/sites/com/files/js/js__1U848-ZbZWSt49maQ8pTKq8Ow5NA0Ll0MjqRGfTR-k.js"></script>
+<script>googletag.cmd.push(function() {
+  googletag.pubads().enableAsyncRendering();
+  googletag.pubads().enableSingleRequest();
+  googletag.pubads().collapseEmptyDivs();
+});
+
+googletag.enableServices();</script>
+<script>
+    window.twttr = (function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0],
+        t = window.twttr || {};
+      if (d.getElementById(id)) return t;
+      js = d.createElement(s);
+      js.id = id;
+      js.src = "https://platform.twitter.com/widgets.js";
+      fjs.parentNode.insertBefore(js, fjs);
+    
+      t._e = [];
+      t.ready = function(f) {
+        t._e.push(f);
+      };
+    
+      return t;
+    }(document, "script", "twitter-wjs"));</script>
+<script>
+    window.fbAsyncInit = function() {
+      FB.init({
+        appId      : '146983968702505',
+        xfbml      : true,
+        version    : 'v2.8'
+      });
+      FB.AppEvents.logPageView();
+    };
+  
+    (function(d, s, id){
+       var js, fjs = d.getElementsByTagName(s)[0];
+       if (d.getElementById(id)) {return;}
+       js = d.createElement(s); js.id = id;
+       js.src = "//connect.facebook.net/en_US/sdk.js";
+       fjs.parentNode.insertBefore(js, fjs);
+     }(document, 'script', 'facebook-jssdk'));</script>
+<script src="https://www.grammy.com/sites/com/files/js/js_tUjM93ghqgbWlOzfKU4JUu3Hw73Xn790xYKePg3UjfE.js"></script>
+<script src="//player.ooyala.com/static/v4/stable/latest/core.js"></script>
+<script src="//player.ooyala.com/static/v4/stable/latest/video-plugin/main_html5.min.js"></script>
+<script src="//player.ooyala.com/static/v4/stable/latest/video-plugin/bit_wrapper.min.js"></script>
+<script src="//player.ooyala.com/static/v4/stable/latest/ad-plugin/google_ima.min.js"></script>
+<script src="//player.ooyala.com/static/v4/stable/latest/other-plugin/discovery_api.min.js"></script>
+<script src="//player.ooyala.com/static/v4/stable/latest/skin-plugin/html5-skin.js"></script>
+<script src="https://www.grammy.com/sites/com/files/js/js_JLSVWOD-7ksxZ0oY_NMiyjrK2msnc9ULC50UHbCN6OA.js"></script>
+<script src="//widgets.outbrain.com/outbrain.js"></script>
+<script src="https://www.grammy.com/sites/com/files/js/js_rNWXRyWxPGe4GVCxbACBtIIdGvtibQiNIBqL5y-1V9U.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"com","theme_token":"W5_1ZRltm_5jck7oBw6OujN22FghowWpagsJXjdjIfw","jquery_version":"1.7","js":{"sites\/all\/modules\/contrib\/views_infinite_scroll\/views-infinite-scroll.js":1,"sites\/all\/modules\/custom\/tra_analytics\/js\/tra_analytics.track-video.js":1,"0":1,"sites\/all\/modules\/custom\/tra_analytics\/js\/tra_analytics.track-click-map.js":1,"sites\/all\/modules\/custom\/tra_analytics\/js\/tra_analytics.behaviors.js":1,"public:\/\/google_tag\/google_tag.script.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery.once.js":1,"1":1,"https:\/\/www.googletagservices.com\/tag\/js\/gpt.js":1,"misc\/drupal.js":1,"sites\/all\/themes\/contrib\/omega\/omega\/js\/no-js.js":1,"sites\/all\/libraries\/jquery.scrolldepth\/jquery.scrolldepth.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.effect.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/misc\/jquery.form.min.js":1,"sites\/all\/modules\/contrib\/nice_menus\/js\/jquery.bgiframe.js":1,"sites\/all\/modules\/contrib\/nice_menus\/js\/jquery.hoverIntent.js":1,"sites\/all\/modules\/contrib\/nice_menus\/js\/superfish.js":1,"sites\/all\/modules\/contrib\/nice_menus\/js\/nice_menus.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.button.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.mouse.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.draggable.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.position.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.resizable.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.dialog.min.js":1,"2":1,"3":1,"4":1,"5":1,"sites\/com\/modules\/features\/com_site_search\/js\/jquery.comsitesearch.fastautocomplete.js":1,"6":1,"sites\/all\/libraries\/jquery.waypoints\/lib\/jquery.waypoints.min.js":1,"sites\/all\/libraries\/object-fit-images\/ofi.min.js":1,"sites\/all\/modules\/contrib\/dialog\/misc\/ajax.js":1,"sites\/all\/modules\/contrib\/dialog\/js\/drupal\/debounce.js":1,"sites\/all\/modules\/contrib\/dialog\/js\/drupal\/displace.js":1,"sites\/all\/modules\/contrib\/dialog\/js\/dialog\/dialog.js":1,"sites\/all\/modules\/contrib\/dialog\/js\/dialog\/dialog.position.js":1,"sites\/all\/modules\/contrib\/dialog\/js\/dialog\/dialog.jquery-ui.js":1,"sites\/all\/libraries\/jquery.waypoints\/lib\/shortcuts\/sticky.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/js\/jquery_update.js":1,"sites\/com\/modules\/custom\/com_global\/js\/com_global.behaviors.js":1,"sites\/all\/modules\/contrib\/equalheights\/equalheights.js":1,"sites\/all\/modules\/contrib\/extlink\/extlink.js":1,"7":1,"8":1,"9":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"sites\/all\/modules\/contrib\/views\/js\/base.js":1,"misc\/progress.js":1,"sites\/com\/modules\/features\/com_site_message\/js\/com_site_message.behaviors.js":1,"sites\/com\/modules\/features\/com_site_search\/js\/com_site_search_input_helper.js":1,"sites\/com\/modules\/features\/com_site_mail\/js\/com_site_mail.js":1,"sites\/com\/themes\/custom\/com\/js\/com.sticky-video.js":1,"sites\/com\/modules\/custom\/simple_share\/js\/simple_share.js":1,"sites\/all\/modules\/contrib\/better_exposed_filters\/better_exposed_filters.js":1,"sites\/all\/modules\/contrib\/views\/js\/ajax_view.js":1,"sites\/all\/modules\/contrib\/ooyala\/ooyala_player.js":1,"\/\/player.ooyala.com\/static\/v4\/stable\/latest\/core.js":1,"\/\/player.ooyala.com\/static\/v4\/stable\/latest\/video-plugin\/main_html5.min.js":1,"\/\/player.ooyala.com\/static\/v4\/stable\/latest\/video-plugin\/bit_wrapper.min.js":1,"\/\/player.ooyala.com\/static\/v4\/stable\/latest\/ad-plugin\/google_ima.min.js":1,"\/\/player.ooyala.com\/static\/v4\/stable\/latest\/other-plugin\/discovery_api.min.js":1,"\/\/player.ooyala.com\/static\/v4\/stable\/latest\/skin-plugin\/html5-skin.js":1,"sites\/com\/themes\/custom\/com\/js\/com.ooyala.js":1,"sites\/com\/themes\/custom\/com\/js\/com.video-list.js":1,"sites\/all\/modules\/contrib\/fac\/js\/fac.js":1,"sites\/all\/modules\/contrib\/responsive_dropdown_menus\/theme\/responsive-dropdown-menus.js":1,"sites\/all\/libraries\/highlight\/jquery.highlight.js":1,"\/\/widgets.outbrain.com\/outbrain.js":1,"sites\/all\/themes\/custom\/tra\/js\/libs\/jquery.lazyload\/jquery.lazyload.min.js":1,"sites\/all\/themes\/custom\/tra\/js\/libs\/jquery.swiper\/dist\/js\/swiper.jquery.min.js":1,"sites\/all\/themes\/custom\/tra\/js\/tra.behaviors.js":1,"sites\/com\/themes\/custom\/com\/js\/com.colorbox.js":1,"sites\/com\/themes\/custom\/com\/js\/com.behaviors.js":1,"sites\/com\/themes\/custom\/com\/js\/com.back-to-top.js":1,"sites\/com\/themes\/custom\/com\/js\/com.navigation.js":1},"css":{"sites\/all\/themes\/contrib\/omega\/omega\/css\/modules\/system\/system.base.css":1,"sites\/all\/themes\/contrib\/omega\/omega\/css\/modules\/system\/system.menus.theme.css":1,"sites\/all\/themes\/contrib\/omega\/omega\/css\/modules\/system\/system.messages.theme.css":1,"sites\/all\/themes\/contrib\/omega\/omega\/css\/modules\/system\/system.theme.css":1,"sites\/all\/modules\/contrib\/calendar\/css\/calendar_multiday.css":1,"sites\/com\/modules\/features\/com_site_menu\/css\/com-site-menu-base-menu-layouts.css":1,"sites\/com\/modules\/features\/com_site_menu\/css\/com-site-menu-footer.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/node\/node.css":1,"sites\/all\/themes\/contrib\/omega\/omega\/css\/modules\/comment\/comment.theme.css":1,"sites\/all\/modules\/contrib\/extlink\/extlink.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/themes\/contrib\/omega\/omega\/css\/modules\/field\/field.theme.css":1,"sites\/all\/themes\/contrib\/omega\/omega\/css\/modules\/poll\/poll.theme.css":1,"sites\/all\/themes\/contrib\/omega\/omega\/css\/modules\/search\/search.theme.css":1,"sites\/all\/themes\/contrib\/omega\/omega\/css\/modules\/user\/user.base.css":1,"sites\/all\/themes\/contrib\/omega\/omega\/css\/modules\/user\/user.theme.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/entity_embed\/css\/entity_embed.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.button.css":1,"misc\/ui\/jquery.ui.resizable.css":1,"misc\/ui\/jquery.ui.dialog.css":1,"sites\/all\/modules\/contrib\/dialog\/js\/dialog\/dialog.theme.css":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"0":1,"sites\/all\/modules\/contrib\/nice_menus\/css\/nice_menus.css":1,"sites\/all\/modules\/contrib\/nice_menus\/css\/nice_menus_default.css":1,"1":1,"sites\/com\/modules\/custom\/simple_share\/css\/simple_share.css":1,"2":1,"3":1,"4":1,"5":1,"6":1,"7":1,"8":1,"9":1,"10":1,"11":1,"12":1,"13":1,"14":1,"15":1,"16":1,"\/\/player.ooyala.com\/static\/v4\/stable\/latest\/skin-plugin\/html5-skin.min.css":1,"sites\/all\/modules\/contrib\/ooyala\/ooyala.css":1,"sites\/all\/modules\/contrib\/responsive_dropdown_menus\/theme\/responsive-dropdown-menus.css":1,"sites\/com\/modules\/features\/com_site_menu\/css\/com-site-menu-responsive-dropdown-menus.css":1,"sites\/all\/themes\/custom\/tra\/js\/libs\/jquery.swiper\/dist\/css\/swiper.min.css":1,"sites\/all\/themes\/custom\/tra\/css\/tra.normalize.css":1,"sites\/all\/themes\/custom\/tra\/css\/tra.hacks.css":1,"sites\/all\/themes\/custom\/tra\/css\/tra.styles.css":1,"sites\/com\/themes\/custom\/com\/css\/com.hacks.css":1,"sites\/com\/themes\/custom\/com\/css\/com.styles.css":1,"sites\/all\/themes\/custom\/tra\/css\/tra.print.css":1,"sites\/all\/themes\/custom\/tra\/css\/tra.no-query.css":1,"sites\/com\/themes\/custom\/com\/css\/com.no-query.css":1,"all:0":1,"all:1":1}},"colorbox":{"transition":"elastic","speed":"350","opacity":"0.85","slideshow":false,"slideshowAuto":true,"slideshowSpeed":"2500","slideshowStart":"start slideshow","slideshowStop":"stop slideshow","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","overlayClose":true,"returnFocus":true,"maxWidth":"100%","maxHeight":"100%","initialWidth":"300","initialHeight":"250","fixed":true,"scrolling":true,"mobiledetect":false,"mobiledevicewidth":"480px"},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:1d1f74585895f5f51f38336a07cd2cd6":{"view_name":"breaking_news_bar","view_display_id":"block","view_args":"","view_path":"node\/119696","view_base_path":null,"view_dom_id":"1d1f74585895f5f51f38336a07cd2cd6","pager_element":0},"views_dom_id:0d775d18a27a400941f0267d2d9f35c3":{"view_name":"videos","view_display_id":"related_videos","view_args":"119696","view_path":"node\/119696","view_base_path":null,"view_dom_id":"0d775d18a27a400941f0267d2d9f35c3","pager_element":0}}},"urlIsAjaxTrusted":{"\/views\/ajax":true,"\/":true,"\/grammys\/videos\/production-process-inside-taylor-swifts-1989-part-1?sf14065875=1":true},"better_exposed_filters":{"views":{"breaking_news_bar":{"displays":{"block":{"filters":[]}}},"video_page_video_playlist":{"displays":{"single_video":{"filters":[]},"most_recent_playlist":{"filters":[]},"selected_playlist":{"filters":[]}}},"videos":{"displays":{"related_videos":{"filters":{"type":{"required":false},"field_pillar_tid":{"required":false}}}}}},"datepicker":false,"slider":false,"settings":[],"autosubmit":false},"com_site_message":{"breaking_news_bar_delay":"5000"},"nice_menus_options":{"delay":"800","speed":"slow"},"views_infinite_scroll":{"img_path":"https:\/\/www.grammy.com\/sites\/all\/modules\/contrib\/views_infinite_scroll\/images\/ajax-loader.gif","scroll_threshold":200},"tra_analytics":{"videoMarks":["10","25","50","75","100"],"clickMap":[{"t":"","e":"clickMapCom","c":"global nav","a":"hamburger menu","l":"","v":"","n":"There seems to be something overriding the hamburger menu selector, will have to investigate later. https:\/\/productforums.google.com\/forum\/#!topic\/tag-manager\/TxobWYqgyxQ"},{"t":"","e":"clickMapCom","c":"global nav","a":"close","l":"","v":"","n":"There seems to be something overriding the hamburger menu selector, will have to investigate later. https:\/\/productforums.google.com\/forum\/#!topic\/tag-manager\/TxobWYqgyxQ"},{"t":".header-menu .pillar-wrapper #menu-the-recording-academy \u003E li \u003E a","e":"clickMapCom","c":"global nav","a":"getLinkText","l":"","v":"","n":""},{"t":"body:not(.section-grammys) #block-menu-menu-social-search #menu-stay-connected","e":"clickMapCom","c":"global nav","a":"stay connected cta","l":"","v":"","n":""},{"t":"#mailchimp-signup-subscribe-block-tra-newsletters-form .form-submit","e":"clickMapCom","c":"global connected","a":"email subscribe","l":"","v":"","n":""},{"t":"#mailchimp-signup-subscribe-block-tra-newsletters-form #edit-mailchimp-lists-mailchimp-all-subscribe","e":"clickMapCom","c":"global connected","a":"select all","l":"","v":"","n":""},{"t":"#mailchimp-signup-subscribe-block-tra-newsletters-form .form-item-mailchimp-lists-mailchimp-a4c7a52cac-subscribe input, #mailchimp-signup-subscribe-block-tra-newsletters-form .form-item-mailchimp-lists-mailchimp-a4c7a52cac-subscribe label","e":"clickMapCom","c":"global connected","a":"grammys newsletter","l":"","v":"","n":""},{"t":"#mailchimp-signup-subscribe-block-tra-newsletters-form #mailchimp-newsletter-d2ef154578 a","e":"clickMapCom","c":"global connected","a":"grammy museum newsletter","l":"","v":"","n":""},{"t":"#mailchimp-signup-subscribe-block-tra-newsletters-form #mailchimp-newsletter-118deaa607 input, #mailchimp-signup-subscribe-block-tra-newsletters-form #mailchimp-newsletter-118deaa607 label","e":"clickMapCom","c":"global connected","a":"musicares newsletter","l":"","v":"","n":""},{"t":"#mailchimp-signup-subscribe-block-tra-newsletters-form #mailchimp-newsletter-d4b545a4fe a","e":"clickMapCom","c":"global connected","a":"advocacy newsletter","l":"","v":"","n":""},{"t":"#mailchimp-signup-subscribe-block-tra-newsletters-form #mailchimp-newsletter-150c758810 a","e":"clickMapCom","c":"global connected","a":"membership newsletter","l":"","v":"","n":""},{"t":"#block-menu-menu-social .recording-academy a[href*=\u0022facebook.com\/RecordingAcademy\u0022]","e":"clickMapCom","c":"global connected","a":"facebook","l":"recording academy","v":"","n":""},{"t":"#block-menu-menu-social .recording-academy a[href*=\u0022twitter.com\/RecordingAcad\u0022]","e":"clickMapCom","c":"global connected","a":"twitter","l":"recording academy","v":"","n":""},{"t":"#block-menu-menu-social .recording-academy a[href*=\u0022instagram.com\/RecordingAcademy\u0022]","e":"clickMapCom","c":"global connected","a":"instagram","l":"recording academy","v":"","n":""},{"t":"#block-menu-menu-social .recording-academy a[href*=\u0022youtube.com\/user\/TheGRAMMYs\u0022]","e":"clickMapCom","c":"global connected","a":"youtube","l":"recording academy","v":"","n":""},{"t":"#block-menu-menu-social .grammys a[href*=\u0022facebook.com\/RecordingAcademy\u0022]","e":"clickMapCom","c":"global connected","a":"facebook","l":"grammys","v":"","n":""},{"t":"#block-menu-menu-social .grammys a[href*=\u0022twitter.com\/RecordingAcad\u0022]","e":"clickMapCom","c":"global connected","a":"twitter","l":"grammys","v":"","n":""},{"t":"#block-menu-menu-social .grammys a[href*=\u0022instagram.com\/RecordingAcademy\u0022]","e":"clickMapCom","c":"global connected","a":"instagram","l":"grammys","v":"","n":""},{"t":"#block-menu-menu-social .grammys a[href*=\u0022youtube.com\/user\/TheGRAMMYs\u0022]","e":"clickMapCom","c":"global connected","a":"youtube","l":"grammys","v":"","n":""},{"t":"#block-menu-menu-social .latin-grammys a[href*=\u0022facebook.com\/LatinGRAMMYs\u0022]","e":"clickMapCom","c":"global connected","a":"facebook","l":"latin grammys","v":"","n":""},{"t":"#block-menu-menu-social .latin-grammys a[href*=\u0022twitter.com\/LatinGRAMMYs\u0022]","e":"clickMapCom","c":"global connected","a":"twitter","l":"latin grammys","v":"","n":""},{"t":"#block-menu-menu-social .latin-grammys a[href*=\u0022instagram.com\/LatinGRAMMYs\u0022]","e":"clickMapCom","c":"global connected","a":"instagram","l":"latin grammys","v":"","n":""},{"t":"#block-menu-menu-social .latin-grammys a[href*=\u0022youtube.com\/latinGRAMMYs\u0022]","e":"clickMapCom","c":"global connected","a":"youtube","l":"latin grammys","v":"","n":""},{"t":"#block-menu-menu-social .grammy-museum a[href*=\u0022facebook.com\/thegrammymuseum\u0022]","e":"clickMapCom","c":"global connected","a":"facebook","l":"grammy museum","v":"","n":""},{"t":"#block-menu-menu-social .grammy-museum a[href*=\u0022twitter.com\/TheGRAMMYMuseum\u0022]","e":"clickMapCom","c":"global connected","a":"twitter","l":"grammy museum","v":"","n":""},{"t":"#block-menu-menu-social .grammy-museum a[href*=\u0022instagram.com\/thegrammymuseum\u0022]","e":"clickMapCom","c":"global connected","a":"instagram","l":"grammy museum","v":"","n":""},{"t":"#block-menu-menu-social .grammy-museum a[href*=\u0022youtube.com\/user\/thegrammymuseum\u0022]","e":"clickMapCom","c":"global connected","a":"youtube","l":"grammy museum","v":"","n":""},{"t":"#block-menu-menu-social .musicares a[href*=\u0022facebook.com\/MusiCares\u0022]","e":"clickMapCom","c":"global connected","a":"facebook","l":"musicares","v":"","n":""},{"t":"#block-menu-menu-social .musicares a[href*=\u0022twitter.com\/MusiCares\u0022]","e":"clickMapCom","c":"global connected","a":"twitter","l":"musicares","v":"","n":""},{"t":"#block-menu-menu-social .musicares a[href*=\u0022instagram.com\/musicares\u0022]","e":"clickMapCom","c":"global connected","a":"instagram","l":"musicares","v":"","n":""},{"t":"#block-menu-menu-social .advocacy a[href*=\u0022facebook.com\/GRAMMYAdvocacy\u0022]","e":"clickMapCom","c":"global connected","a":"facebook","l":"advocacy","v":"","n":""},{"t":"#block-menu-menu-social .advocacy a[href*=\u0022twitter.com\/GRAMMYAdvocacy\u0022]","e":"clickMapCom","c":"global connected","a":"twitter","l":"advocacy","v":"","n":""},{"t":"#block-menu-menu-social .membership a[href*=\u0022facebook.com\/RecordingAcademy\u0022]","e":"clickMapCom","c":"global connected","a":"facebook","l":"membership","v":"","n":""},{"t":"#block-menu-menu-social .membership a[href*=\u0022twitter.com\/RecordingAcad\u0022]","e":"clickMapCom","c":"global connected","a":"twitter","l":"membership","v":"","n":""},{"t":"#block-menu-menu-social .membership a[href*=\u0022instagram.com\/RecordingAcademy\u0022]","e":"clickMapCom","c":"global connected","a":"instagram","l":"membership","v":"","n":""},{"t":"#block-menu-menu-social .membership a[href*=\u0022youtube.com\/user\/TheGRAMMYs\u0022]","e":"clickMapCom","c":"global connected","a":"youtube","l":"membership","v":"","n":""},{"t":".modal-stay-connected .ui-dialog-titlebar-close","e":"clickMapCom","c":"global connected","a":"close","l":"","v":"","n":"Same JS issue as above: https:\/\/productforums.google.com\/forum\/#!topic\/tag-manager\/TxobWYqgyxQ"},{"t":"#search-api-page-search-form-node .form-submit","e":"clickMapCom","c":"global search","a":"see all results","l":"","v":"","n":""},{"t":".modal-search-block .ui-dialog-titlebar-close .ui-icon-closethick","e":"clickMapCom","c":"global search","a":"close","l":"","v":"","n":"Same JS issue as above: https:\/\/productforums.google.com\/forum\/#!topic\/tag-manager\/TxobWYqgyxQ"},{"t":"#block-com-site-search-search-filters-desktop label[for=\u0022edit-search-api-aggregation-1-1\u0022]","e":"clickMapCom","c":"global search","a":"see all artists","l":"","v":"","n":""},{"t":"#block-com-site-search-search-filters-desktop label[for=\u0022edit-search-api-aggregation-1-2\u0022]","e":"clickMapCom","c":"global search","a":"see all articles","l":"","v":"","n":""},{"t":"#block-com-site-search-search-filters-desktop label[for=\u0022edit-search-api-aggregation-1-3\u0022]","e":"clickMapCom","c":"global search","a":"see all videos","l":"","v":"","n":""},{"t":"#block-com-site-search-search-filters-desktop label[for=\u0022edit-search-api-aggregation-1-5\u0022]","e":"clickMapCom","c":"global search","a":"see all events","l":"","v":"","n":""},{"t":"#block-com-site-search-search-filters-desktop label[for=\u0022edit-search-api-aggregation-1-4\u0022]","e":"clickMapCom","c":"global search","a":"see all photos","l":"","v":"","n":""},{"t":"#block-com-site-search-search-filters-desktop label[for=\u0022edit-search-api-aggregation-1-6\u0022]","e":"clickMapCom","c":"global search","a":"see all polls","l":"","v":"","n":""},{"t":".node--photo--content-list .swiper-button.swiper-button-next","e":"clickMapCom","c":"global article","a":"embed overlay right arrow","l":"","v":"","n":""},{"t":".node--photo--content-list .swiper-button.swiper-button-prev","e":"clickMapCom","c":"global article","a":"embed overlay left arrow","l":"","v":"","n":""},{"t":".node--gallery .swiper-container.swiper-container-horizontal","e":"clickMapCom","c":"global article","a":"embed image scroll","l":"","v":"","n":""},{"t":"#block-menu-menu-pillar-footer li.expanded a[href=\u0022\/\u0022]","e":"clickMapCom","c":"global footer","a":"rec page link","l":"","v":"","n":""},{"t":"#block-menu-menu-pillar-footer li.expanded a[href*=\u0022\/recording-academy\u0022]","e":"clickMapCom","c":"global footer","a":"rec about","l":"","v":"","n":""},{"t":"#block-menu-menu-pillar-footer li.expanded a[href*=\u0022\/recording-academy\/governance\u0022]","e":"clickMapCom","c":"global footer","a":"rec governance","l":"","v":"","n":""},{"t":"#block-menu-menu-pillar-footer li.expanded a[href*=\u0022\/recording-academy\/press-room\u0022]","e":"clickMapCom","c":"global footer","a":"rec press room","l":"","v":"","n":""},{"t":"#block-menu-menu-pillar-footer li.expanded a[href*=\u0022\/recording-academy\/jobs\u0022]","e":"clickMapCom","c":"global footer","a":"rec jobs","l":"","v":"","n":""},{"t":"#block-menu-menu-pillar-footer li.expanded a[href*=\u0022\/recording-academy\/awards\u0022]","e":"clickMapCom","c":"global footer","a":"rec awards info \u0026 process","l":"","v":"","n":""},{"t":"#block-menu-menu-pillar-footer li.expanded a[href=\u0022\/grammys\u0022]","e":"clickMapCom","c":"global footer","a":"grm page link","l":"","v":"","n":""},{"t":"#block-menu-menu-pillar-footer li.expanded a[href=\u0022\/grammys\/awards\u0022]","e":"clickMapCom","c":"global footer","a":"grm awards","l":"","v":"","n":""},{"t":"#block-menu-menu-pillar-footer li.expanded a[href*=\u0022\/recording-academy\/awards\u0022]","e":"clickMapCom","c":"global footer","a":"grm special merit awards","l":"","v":"","n":""},{"t":"#block-menu-menu-pillar-footer li.expanded a[href=\u0022\/grammys\/news\u0022]","e":"clickMapCom","c":"global footer","a":"grm news","l":"","v":"","n":""},{"t":"#block-menu-menu-pillar-footer li.expanded a[href=\u0022\/grammys\/videos\u0022]","e":"clickMapCom","c":"global footer","a":"grm videos","l":"","v":"","n":""},{"t":"#block-menu-menu-pillar-footer li.expanded a[href=\u0022http:\/\/www.grammymuseum.org\u0022]","e":"clickMapCom","c":"global footer","a":"msm page link","l":"","v":"","n":""},{"t":"#block-menu-menu-pillar-footer li.expanded a[href*=\u0022grammymuseum.org\/explore\u0022]","e":"clickMapCom","c":"global footer","a":"msm explore","l":"","v":"","n":""},{"t":"#block-menu-menu-pillar-footer li.expanded a[href*=\u0022grammymuseum.org\/exhibits\u0022]","e":"clickMapCom","c":"global footer","a":"msm exhibits","l":"","v":"","n":""},{"t":"#block-menu-menu-pillar-footer li.expanded a[href*=\u0022grammymuseum.org\/education\u0022]","e":"clickMapCom","c":"global footer","a":"msm education","l":"","v":"","n":""},{"t":"#block-menu-menu-pillar-footer li.expanded a[href*=\u0022grammymuseum.org\/support\u0022]","e":"clickMapCom","c":"global footer","a":"msm support","l":"","v":"","n":""},{"t":"#block-menu-menu-pillar-footer li.expanded a[href*=\u0022grammymuseum.org\/programs\u0022]","e":"clickMapCom","c":"global footer","a":"msm programs","l":"","v":"","n":""},{"t":"#block-menu-menu-pillar-footer li.expanded a[href=\u0022https:\/\/www.latingrammy.com\u0022]","e":"clickMapCom","c":"global footer","a":"lat page link","l":"","v":"","n":""},{"t":"#block-menu-menu-pillar-footer li.expanded a[href=\u0022https:\/\/www.latingrammy.com\/es\/calendario-departamento-de-premiaci-n\u0022]","e":"clickMapCom","c":"global footer","a":"lat awards","l":"","v":"","n":""},{"t":"#block-menu-menu-pillar-footer li.expanded a[href=\u0022https:\/\/www.latingrammy.com\/es\/news\u0022]","e":"clickMapCom","c":"global footer","a":"lat news","l":"","v":"","n":""},{"t":"#block-menu-menu-pillar-footer li.expanded a[href=\u0022https:\/\/www.latingrammy.com\/es\/photos\u0022]","e":"clickMapCom","c":"global footer","a":"lat photos","l":"","v":"","n":""},{"t":"#block-menu-menu-pillar-footer li.expanded a[href=\u0022https:\/\/www.latingrammy.com\/es\/videos\/latest\u0022]","e":"clickMapCom","c":"global footer","a":"lat videos","l":"","v":"","n":""},{"t":"#block-menu-menu-pillar-footer li.expanded a[href=\u0022https:\/\/www.latingrammy.com\/es\/press\u0022]","e":"clickMapCom","c":"global footer","a":"lat press","l":"","v":"","n":""},{"t":"#block-menu-menu-pillar-footer li.expanded a[href=\u0022\/musicares\u0022]","e":"clickMapCom","c":"global footer","a":"msc page link","l":"","v":"","n":""},{"t":"#block-menu-menu-pillar-footer li.expanded a[href*=\u0022\/musicares\/who-we-are\u0022]","e":"clickMapCom","c":"global footer","a":"msc about","l":"","v":"","n":""},{"t":"#block-menu-menu-pillar-footer li.expanded a[href*=\u0022\/2017-musicares-person-of-the-year-tom-petty\u0022]","e":"clickMapCom","c":"global footer","a":"msc person of the year","l":"","v":"","n":""},{"t":"#block-menu-menu-pillar-footer li.expanded a[href*=\u0022\/musicares\/news\u0022]","e":"clickMapCom","c":"global footer","a":"msc news","l":"","v":"","n":""},{"t":"#block-menu-menu-pillar-footer li.expanded a[href*=\u0022\/musicares\/client-services\u0022]","e":"clickMapCom","c":"global footer","a":"msc client services","l":"","v":"","n":""},{"t":"#block-menu-menu-pillar-footer li.expanded a[href*=\u0022\/musicares\/donations\u0022]","e":"clickMapCom","c":"global footer","a":"msc donate","l":"","v":"","n":""},{"t":"#block-menu-menu-pillar-footer li.expanded a[href*=\u0022grammypro.com\/advocacy\u0022]","e":"clickMapCom","c":"global footer","a":"adv page link","l":"","v":"","n":""},{"t":"#block-menu-menu-pillar-footer li.expanded a[href*=\u0022\/advocacy\u0022]","e":"clickMapCom","c":"global footer","a":"adv about","l":"","v":"","n":""},{"t":"#block-menu-menu-pillar-footer li.expanded a[href*=\u0022grammypro.com\/advocacy-action\u0022]","e":"clickMapCom","c":"global footer","a":"adv action","l":"","v":"","n":""},{"t":"#block-menu-menu-pillar-footer li.expanded a[href*=\u0022\/advocacy\/blog\u0022]","e":"clickMapCom","c":"global footer","a":"adv blog","l":"","v":"","n":""},{"t":"#block-menu-menu-pillar-footer li.expanded a[href*=\u0022\/advocacy\/issues\u0022]","e":"clickMapCom","c":"global footer","a":"adv issues","l":"","v":"","n":""},{"t":"#block-menu-menu-pillar-footer li.expanded a[href*=\u0022\/advocacy\/the-grammy-fund-for-music-creators\u0022]","e":"clickMapCom","c":"global footer","a":"adv fund","l":"","v":"","n":""},{"t":"#block-menu-menu-pillar-footer li.expanded a[href*=\u0022grammypro.com\/advocacy\/grammys-in-my-district\/join\u0022]","e":"clickMapCom","c":"global footer","a":"adv grammys in my district","l":"","v":"","n":""},{"t":"#block-menu-menu-pillar-footer li.expanded a[href=\u0022https:\/\/www.grammypro.com\u0022]","e":"clickMapCom","c":"global footer","a":"mem page link","l":"","v":"","n":""},{"t":"#block-menu-menu-pillar-footer li.expanded a[href=\u0022https:\/\/www.grammypro.com\/about\u0022]","e":"clickMapCom","c":"global footer","a":"mem about","l":"","v":"","n":""},{"t":"#block-menu-menu-pillar-footer li.expanded a[href=\u0022https:\/\/www.grammypro.com\/join\u0022]","e":"clickMapCom","c":"global footer","a":"mem apply","l":"","v":"","n":""},{"t":"#block-menu-menu-pillar-footer li.expanded a[href=\u0022https:\/\/www.grammypro.com\/grammy-u\u0022]","e":"clickMapCom","c":"global footer","a":"mem grammy u","l":"","v":"","n":""},{"t":"#block-menu-menu-pillar-footer li.expanded a[href=\u0022https:\/\/www.grammypro.com\/producers-engineers-wing\u0022]","e":"clickMapCom","c":"global footer","a":"mem producers \u0026 engineers wing","l":"","v":"","n":""},{"t":"#block-menu-menu-pillar-footer li.expanded a[href=\u0022https:\/\/www.grammypro.com\/chapters\u0022]","e":"clickMapCom","c":"global footer","a":"mem chapters","l":"","v":"","n":""},{"t":"#block-menu-menu-social .recording-academy a[href*=\u0022youtube.com\/user\/MusiCaresFoundation\u0022]","e":"clickMapCom","c":"global connected","a":"youtube","l":"musicares","v":"","n":""},{"t":".fac-search-artists .fac-read-more","e":"clickMapCom","c":"global search","a":"see all artists","l":"","v":"","n":"THIS IS NOT WORKING"},{"t":".fac-search-news .fac-read-more","e":"clickMapCom","c":"global search","a":"see all news","l":"","v":"","n":"THIS IS NOT WORKING"},{"t":".fac-search-videos .fac-read-more","e":"clickMapCom","c":"global search","a":"see all videos","l":"","v":"","n":"THIS IS NOT WORKING"},{"t":".fac-search-events .fac-read-more","e":"clickMapCom","c":"global search","a":"see all events","l":"","v":"","n":"THIS IS NOT WORKING"},{"t":".fac-search-photos .fac-read-more","e":"clickMapCom","c":"global search","a":"see all photos","l":"","v":"","n":"THIS IS NOT WORKING"},{"t":".fac-search-polls .fac-read-more","e":"clickMapCom","c":"global search","a":"see all polls","l":"","v":"","n":"THIS IS NOT WORKING"},{"t":".videos-page .pager--infinite-scroll a","e":"clickMapCom","c":"videos","a":"load more","l":"","v":"","n":""},{"t":".mailchimp-signup-subscribe-form #edit-submit","e":"clickMapCom","c":"email signup","a":"email subscribe","l":"","v":"","n":""},{"t":"body.node-type-news div#read-list ol li","e":"clickMapCom","c":"news","a":"read list","l":"","v":"","n":""},{"t":"body.node-type-event div#read-list ol li","e":"clickMapCom","c":"events","a":"events list","l":"","v":"","n":""},{"t":".video-list-filters-content .apply","e":"clickMapCom","c":"videos","a":"filter results","l":"","v":"","n":""},{"t":".events-page-filters-content .apply","e":"clickMapCom","c":"events","a":"filter results","l":"","v":"","n":""},{"t":".view-upcoming-events .pager--infinite-scroll a","e":"clickMapCom","c":"events","a":"load more","l":"","v":"","n":""},{"t":".block--com-donations input[type=\u0022submit\u0022]","e":"clickMapCom","c":"donate","a":"donate submit","l":"","v":"","n":""},{"t":"#block-fieldblock-node-front-default-field-explore-tra .field--name-field-explore-tra \u003E .field__items \u003E .field__item:nth-child(1) .slide-top a","e":"clickMapCom","c":"rec explore","a":"promo image 1","l":"getHref","v":"","n":""},{"t":"#block-fieldblock-node-front-default-field-explore-tra .field--name-field-explore-tra \u003E .field__items \u003E .field__item:nth-child(2) .slide-top a","e":"clickMapCom","c":"rec explore","a":"promo image 2","l":"getHref","v":"","n":""},{"t":"#block-fieldblock-node-front-default-field-explore-tra .field--name-field-explore-tra \u003E .field__items \u003E .field__item:nth-child(3) .slide-top a","e":"clickMapCom","c":"rec explore","a":"promo image 3","l":"getHref","v":"","n":""},{"t":"#block-fieldblock-node-front-default-field-explore-tra .field--name-field-explore-tra \u003E .field__items \u003E .field__item:nth-child(1) .field--name-field-urls a","e":"clickMapCom","c":"rec explore","a":"promo cta 1","l":"getLinkText","v":"","n":""},{"t":"#block-fieldblock-node-front-default-field-explore-tra .field--name-field-explore-tra \u003E .field__items \u003E .field__item:nth-child(2) .field--name-field-urls a","e":"clickMapCom","c":"rec explore","a":"promo cta 2","l":"getLinkText","v":"","n":""},{"t":"#block-fieldblock-node-front-default-field-explore-tra .field--name-field-explore-tra \u003E .field__items \u003E .field__item:nth-child(3) .field--name-field-urls a","e":"clickMapCom","c":"rec explore","a":"promo cta 3","l":"getLinkText","v":"","n":""},{"t":".field--name-field-pillars \u003E .field__items \u003E .field__item:nth-child(1) \u003E article \u003E .node-details \u003E .cta-go-to","e":"clickMapCom","c":"rec grm content grid","a":"go to grammys cta","l":"","v":"","n":""},{"t":".field--name-field-pillars \u003E .field__items \u003E .field__item:nth-child(1) input[type=\u0022submit\u0022]","e":"clickMapCom","c":"rec grm content grid","a":"email subscribe","l":"","v":"","n":""},{"t":".field--name-field-pillars \u003E .field__items \u003E .field__item:nth-child(1) .field--name-field-featured-contents \u003E .field__items \u003E .field__item:nth-child(1) \u003E article","e":"clickMapCom","c":"rec grm content grid","a":"getWideType position 1","l":"getDataTitle","v":"","n":"RA HP GRAMMY Pillar grid position 1"},{"t":".field--name-field-pillars \u003E .field__items \u003E .field__item:nth-child(1) .field--name-field-featured-contents \u003E .field__items \u003E .field__item:nth-child(2) \u003E article","e":"clickMapCom","c":"rec grm content grid","a":"getWideType position 2","l":"getDataTitle","v":"","n":"RA HP GRAMMY Pillar grid position 2"},{"t":".field--name-field-pillars \u003E .field__items \u003E .field__item:nth-child(1) .field--name-field-featured-contents \u003E .field__items \u003E .field__item:nth-child(3) \u003E article","e":"clickMapCom","c":"rec grm content grid","a":"getWideType position 3","l":"getDataTitle","v":"","n":"RA HP GRAMMY Pillar grid position 3"},{"t":".field--name-field-pillars \u003E .field__items \u003E .field__item:nth-child(2) \u003E article \u003E .node-details \u003E .cta-go-to","e":"clickMapCom","c":"rec lat content grid","a":"go to lat cta","l":"","v":"","n":""},{"t":".field--name-field-pillars \u003E .field__items \u003E .field__item:nth-child(2) input[type=\u0022submit\u0022]","e":"clickMapCom","c":"rec lat content grid","a":"email subscribe","l":"","v":"","n":""},{"t":".field--name-field-pillars \u003E .field__items \u003E .field__item:nth-child(2) .field--name-field-featured-contents \u003E .field__items \u003E .field__item:nth-child(1) \u003E article","e":"clickMapCom","c":"rec lat content grid","a":"getWideType position 1","l":"getDataTitle","v":"","n":"RA HP Latin GRAMMY Pillar position 1"},{"t":".field--name-field-pillars \u003E .field__items \u003E .field__item:nth-child(2) .field--name-field-featured-contents \u003E .field__items \u003E .field__item:nth-child(2) \u003E article","e":"clickMapCom","c":"rec lat content grid","a":"getWideType position 2","l":"getDataTitle","v":"","n":"RA HP Latin GRAMMY Pillar position 2"},{"t":".field--name-field-pillars \u003E .field__items \u003E .field__item:nth-child(2) .field--name-field-featured-contents \u003E .field__items \u003E .field__item:nth-child(3) \u003E article","e":"clickMapCom","c":"rec lat content grid","a":"getWideType position 3","l":"getDataTitle","v":"","n":"RA HP Latin GRAMMY Pillar position 3"},{"t":".field--name-field-pillars \u003E .field__items \u003E .field__item:nth-child(3) \u003E article \u003E .node-details \u003E .cta-go-to","e":"clickMapCom","c":"rec msm content grid","a":"go to msm cta","l":"","v":"","n":""},{"t":".field--name-field-pillars \u003E .field__items \u003E .field__item:nth-child(3) input[type=\u0022submit\u0022]","e":"clickMapCom","c":"rec msm content grid","a":"email subscribe","l":"","v":"","n":""},{"t":".field--name-field-pillars \u003E .field__items \u003E .field__item:nth-child(3) .field--name-field-featured-contents \u003E .field__items \u003E .field__item:nth-child(1) \u003E article","e":"clickMapCom","c":"rec msm content grid","a":"getWideType position 1","l":"getDataTitle","v":"","n":"RA HP Museum Pillar position 1"},{"t":".field--name-field-pillars \u003E .field__items \u003E .field__item:nth-child(3) .field--name-field-featured-contents \u003E .field__items \u003E .field__item:nth-child(2) \u003E article","e":"clickMapCom","c":"rec msm content grid","a":"getWideType position 2","l":"getDataTitle","v":"","n":"RA HP Museum Pillar position 2"},{"t":".field--name-field-pillars \u003E .field__items \u003E .field__item:nth-child(3) .field--name-field-featured-contents \u003E .field__items \u003E .field__item:nth-child(3) \u003E article","e":"clickMapCom","c":"rec msm content grid","a":"getWideType position 3","l":"getDataTitle","v":"","n":"RA HP Museum Pillar position 3"},{"t":".field--name-field-pillars \u003E .field__items \u003E .field__item:nth-child(4) \u003E article \u003E .node-details \u003E .cta-go-to","e":"clickMapCom","c":"rec msc content grid","a":"go to msc cta","l":"","v":"","n":""},{"t":".field--name-field-pillars \u003E .field__items \u003E .field__item:nth-child(4) input[type=\u0022submit\u0022]","e":"clickMapCom","c":"rec msc content grid","a":"email subscribe","l":"","v":"","n":""},{"t":".field--name-field-pillars \u003E .field__items \u003E .field__item:nth-child(4) .field--name-field-featured-contents \u003E .field__items \u003E .field__item:nth-child(1) \u003E article","e":"clickMapCom","c":"rec msc content grid","a":"getWideType position 1","l":"getDataTitle","v":"","n":"RA HP MusiCares Pillar position 1"},{"t":".field--name-field-pillars \u003E .field__items \u003E .field__item:nth-child(4) .field--name-field-featured-contents \u003E .field__items \u003E .field__item:nth-child(2) \u003E article","e":"clickMapCom","c":"rec msc content grid","a":"getWideType position 2","l":"getDataTitle","v":"","n":"RA HP MusiCares Pillar position 2"},{"t":".field--name-field-pillars \u003E .field__items \u003E .field__item:nth-child(4) .field--name-field-featured-contents \u003E .field__items \u003E .field__item:nth-child(3) \u003E article","e":"clickMapCom","c":"rec msc content grid","a":"getWideType position 3","l":"getDataTitle","v":"","n":"RA HP MusiCares Pillar position 3"},{"t":".field--name-field-pillars \u003E .field__items \u003E .field__item:nth-child(5) \u003E article \u003E .node-details \u003E .cta-go-to","e":"clickMapCom","c":"rec adv content grid","a":"go to adv cta","l":"","v":"","n":""},{"t":".field--name-field-pillars \u003E .field__items \u003E .field__item:nth-child(5) input[type=\u0022submit\u0022]","e":"clickMapCom","c":"rec adv content grid","a":"email subscribe","l":"","v":"","n":""},{"t":".field--name-field-pillars \u003E .field__items \u003E .field__item:nth-child(5) .field--name-field-featured-contents \u003E .field__items \u003E .field__item:nth-child(1) \u003E article","e":"clickMapCom","c":"rec adv content grid","a":"getWideType position 1","l":"","v":"","n":"RA HP Advocacy Pillar position 1"},{"t":".field--name-field-pillars \u003E .field__items \u003E .field__item:nth-child(5) .field--name-field-featured-contents \u003E .field__items \u003E .field__item:nth-child(2) \u003E article","e":"clickMapCom","c":"rec adv content grid","a":"getWideType position 2","l":"","v":"","n":"RA HP Advocacy Pillar position 2"},{"t":".field--name-field-pillars \u003E .field__items \u003E .field__item:nth-child(5) .field--name-field-featured-contents \u003E .field__items \u003E .field__item:nth-child(3) \u003E article","e":"clickMapCom","c":"rec adv content grid","a":"getWideType position 3","l":"","v":"","n":"RA HP Advocacy Pillar position 3"},{"t":".field--name-field-pillars \u003E .field__items \u003E .field__item:nth-child(6) \u003E article \u003E .node-details \u003E .cta-go-to","e":"clickMapCom","c":"rec mem content grid","a":"go to mem cta","l":"","v":"","n":""},{"t":".field--name-field-pillars \u003E .field__items \u003E .field__item:nth-child(6) input[type=\u0022submit\u0022]","e":"clickMapCom","c":"rec mem content grid","a":"email subscribe","l":"","v":"","n":""},{"t":".field--name-field-pillars \u003E .field__items \u003E .field__item:nth-child(6) .field--name-field-featured-contents \u003E .field__items \u003E .field__item:nth-child(1) \u003E article","e":"clickMapCom","c":"rec mem content grid","a":"getWideType position 1","l":"getDataTitle","v":"","n":"RA HP Membership Pillar position 1"},{"t":".field--name-field-pillars \u003E .field__items \u003E .field__item:nth-child(6) .field--name-field-featured-contents \u003E .field__items \u003E .field__item:nth-child(2) \u003E article","e":"clickMapCom","c":"rec mem content grid","a":"getWideType position 2","l":"getDataTitle","v":"","n":"RA HP Membership Pillar position 2"},{"t":".field--name-field-pillars \u003E .field__items \u003E .field__item:nth-child(6) .field--name-field-featured-contents \u003E .field__items \u003E .field__item:nth-child(3) \u003E article","e":"clickMapCom","c":"rec mem content grid","a":"getWideType position 3","l":"getDataTitle","v":"","n":"RA HP Membership Pillar position 3"},{"t":".field--name-field-pillars \u003E .field__items \u003E .field__item:nth-child(1) form .cta-go-to a","e":"clickMapCom","c":"rec grm content grid","a":"email subscribe","l":"","v":"","n":""},{"t":".field--name-field-pillars \u003E .field__items \u003E .field__item:nth-child(2) form .cta-go-to a","e":"clickMapCom","c":"rec lat content grid","a":"email subscribe","l":"","v":"","n":""},{"t":".field--name-field-pillars \u003E .field__items \u003E .field__item:nth-child(3) form .cta-go-to a","e":"clickMapCom","c":"rec msm content grid","a":"email subscribe","l":"","v":"","n":""},{"t":".field--name-field-pillars \u003E .field__items \u003E .field__item:nth-child(4) form .cta-go-to a","e":"clickMapCom","c":"rec msc content grid","a":"email subscribe","l":"","v":"","n":""},{"t":".field--name-field-pillars \u003E .field__items \u003E .field__item:nth-child(5) form .cta-go-to a","e":"clickMapCom","c":"rec adv content grid","a":"email subscribe","l":"","v":"","n":""},{"t":".field--name-field-pillars \u003E .field__items \u003E .field__item:nth-child(6) form .cta-go-to a","e":"clickMapCom","c":"rec mem content grid","a":"email subscribe","l":"","v":"","n":""},{"t":"body.section-recording-academy .header-menu [id^=\u0022nice-menu-\u0022] \u003E li \u003E a","e":"clickMapCom","c":"rec top nav","a":"getLinkText","l":"","v":"","n":""},{"t":"#block-fieldblock-node-front-default-field-hero .slide-overlay .field--name-field-urls a","e":"clickMapCom","c":"rec hero","a":"hero cta","l":"","v":"","n":"Homepage hero cta."},{"t":"body.section-recording-academy .header-menu [id^=\u0022nice-menu-\u0022] \u003E li \u003E ul \u003E li \u003E a","e":"clickMapCom","c":"rec top nav","a":"getLinkText","l":"","v":"","n":"Sub-links"},{"t":"body.section-recording-academy .field--name-field-pillars article[data-url=\u0022\/grammys\u0022] .grammy-pillar-logo","e":"clickMapCom","c":"rec grm content grid","a":"the grammys","l":"","v":"","n":"RA HP GRAMMY Icon\/Pillar Name"},{"t":"body.section-recording-academy .field--name-field-pillars article[data-url=\u0022\/latin-grammys\u0022] .latin-pillar-logo","e":"clickMapCom","c":"rec lat content grid","a":"latin grammys","l":"","v":"","n":"RA HP Latin GRAMMY Icon\/Pillar Name"},{"t":"body.section-recording-academy .field--name-field-pillars article[data-url=\u0022\/grammy-museum\u0022] .museum-pillar-logo","e":"clickMapCom","c":"rec msm content grid","a":"grammy museum","l":"","v":"","n":"RA HP Museum Icon\/Pillar Name"},{"t":"body.section-recording-academy .field--name-field-pillars article[data-url=\u0022\/musicares\u0022] .musicares-pillar-logo","e":"clickMapCom","c":"rec msc content grid","a":"musicares","l":"","v":"","n":"RA HP MusiCares Icon\/Pillar Name"},{"t":"body.section-recording-academy .field--name-field-pillars article[data-url=\u0022\/advocacy\u0022] .advocacy-pillar-logo","e":"clickMapCom","c":"rec adv content grid","a":"advocacy","l":"","v":"","n":"RA HP Advocacy Icon\/Pillar Name"},{"t":"body.section-recording-academy .field--name-field-pillars article[data-url=\u0022\/membership\u0022] .membership-pillar-logo","e":"clickMapCom","c":"rec mem content grid","a":"membership","l":"","v":"","n":"RA HP Membership Icon\/Pillar Name"},{"t":"body.section-recording-academy .view-upcoming-events .view-content .views-row:nth-child(1) .node__title a","e":"clickMapCom","c":"rec events","a":"event detail position 1","l":"getLinkText","v":"","n":""},{"t":"body.section-recording-academy .view-upcoming-events .view-content .views-row:nth-child(1) .event-buy a","e":"clickMapCom","c":"rec events","a":"buy tickets position 1","l":"getLinkText","v":"","n":""},{"t":"body.section-recording-academy .view-upcoming-events .view-content .views-row:nth-child(2) .node__title a","e":"clickMapCom","c":"rec events","a":"event detail position 2","l":"getLinkText","v":"","n":""},{"t":"body.section-recording-academy .view-upcoming-events .view-content .views-row:nth-child(2) .event-buy a","e":"clickMapCom","c":"rec events","a":"buy tickets position 2","l":"getLinkText","v":"","n":""},{"t":"body.section-recording-academy .view-upcoming-events .view-content .views-row:nth-child(3) .node__title a","e":"clickMapCom","c":"rec events","a":"event detail position 3","l":"getLinkText","v":"","n":""},{"t":"body.section-recording-academy .view-upcoming-events .view-content .views-row:nth-child(3) .event-buy a","e":"clickMapCom","c":"rec events","a":"buy tickets position 3","l":"getLinkText","v":"","n":""},{"t":"body.section-recording-academy .view-upcoming-events .view-header .event-alert","e":"clickMapCom","c":"rec events","a":"get event alerts cta","l":"","v":"","n":""},{"t":"body.section-recording-academy .view-upcoming-events .view-footer a","e":"clickMapCom","c":"rec events","a":"see all events cta","l":"","v":"","n":""},{"t":"body.pillar-grammys #block-com-site-menu-com-site-menu-pillar-block a","e":"clickMapCom","c":"grm top nav","a":"grm home","l":"","v":"","n":""},{"t":"body.pillar-grammys .header-menu [id^=\u0022nice-menu-\u0022] \u003E li \u003E a","e":"clickMapCom","c":"grm top nav","a":"getLinkText","l":"","v":"","n":""},{"t":"body.pillar-grammys #menu-stay-connected .nolink","e":"clickMapCom","c":"grm top nav","a":"stay connected","l":"","v":"","n":""},{"t":"body.pillar-grammys #menu-search","e":"clickMapCom","c":"grm top nav","a":"search","l":"","v":"","n":""},{"t":"body.pillar-grammys #block-fieldblock-node-main-default-field-heroes .linked-articles \u003E article:first","e":"clickMapCom","c":"grm hero","a":"single wide position 1","l":"getDataTitle","v":"","n":""},{"t":"body.pillar-grammys #block-fieldblock-node-main-default-field-heroes .linked-articles \u003E article:last","e":"clickMapCom","c":"grm hero","a":"single wide position 2","l":"getDataTitle","v":"","n":""},{"t":"body.pillar-grammys #block-fieldblock-node-main-default-field-heroes .main-content article","e":"clickMapCom","c":"grm hero","a":"single wide position 3","l":"getDataTitle","v":"","n":""},{"t":"body.pillar-grammys #block-dfp-7031aa33539108b27deaee8959660270 .dfp-tag-wrapper","e":"clickMapCom","c":"grm ad","a":"ad position 1","l":"","v":"","n":""},{"t":"body.pillar-grammys .view-meet-the-artist .views-field-view-node a","e":"clickMapCom","c":"grm meet the artists","a":"view profile","l":"getHref","v":"","n":""},{"t":"body.pillar-grammys .view-meet-the-artist .views-field-nothing a.cta","e":"clickMapCom","c":"grm meet the artists","a":"see all winners cta","l":"","v":"","n":""},{"t":"body.pillar-grammys .view-meet-the-artist .gallery-thumbs .swiper-slide","e":"clickMapCom","c":"grm meet the artists","a":"photo gallery","l":"","v":"","n":""},{"t":"body.pillar-grammys .entity-rocks-and-streams .stream-item.slot-1 a","e":"clickMapCom","c":"grm content grid","a":"single wide position 1","l":"getLinkText","v":"","n":""},{"t":"body.pillar-grammys .entity-rocks-and-streams .stream-item.slot-2 a","e":"clickMapCom","c":"grm content grid","a":"single wide position 2","l":"getLinkText","v":"","n":""},{"t":"body.pillar-grammys .entity-rocks-and-streams .stream-item.slot-3 .dfp-tag-wrapper","e":"clickMapCom","c":"grm content grid","a":"ad position 2","l":"","v":"","n":""},{"t":"body.pillar-grammys .entity-rocks-and-streams .stream-item.slot-4 a","e":"clickMapCom","c":"grm content grid","a":"double wide position 3","l":"getLinkText","v":"","n":""},{"t":"body.pillar-grammys .entity-rocks-and-streams #block-mailchimp-signup-13 .form-submit","e":"clickMapCom","c":"grm content grid","a":"email subscribe","l":"","v":"","n":""},{"t":"body.pillar-grammys .entity-rocks-and-streams #poll-view-voting .form-item-choice label, body.pillar-grammys .entity-rocks-and-streams #poll-view-voting .form-item-choice input","e":"clickMapCom","c":"grm content grid","a":"poll clicks","l":"","v":"","n":""},{"t":"body.pillar-grammys .entity-rocks-and-streams .stream-item.slot-8 a","e":"clickMapCom","c":"grm content grid","a":"double wide position 4","l":"getLinkText","v":"","n":""},{"t":"body.pillar-grammys .entity-rocks-and-streams .stream-item.slot-9 a","e":"clickMapCom","c":"grm content grid","a":"single wide position 5","l":"getLinkText","v":"","n":""},{"t":"body.pillar-grammys .entity-rocks-and-streams .stream-item.slot-10 a","e":"clickMapCom","c":"grm content grid","a":"single wide position 6","l":"getLinkText","v":"","n":""},{"t":"body.pillar-grammys .entity-rocks-and-streams .stream-item.slot-11 .dfp-tag-wrapper","e":"clickMapCom","c":"grm content grid","a":"ad position 3","l":"","v":"","n":""},{"t":"body.pillar-grammys .entity-rocks-and-streams .stream-item.slot-12 a","e":"clickMapCom","c":"grm content grid","a":"single wide position 7","l":"getLinkText","v":"","n":""},{"t":"body.pillar-grammys .entity-rocks-and-streams .stream-item.slot-13 a","e":"clickMapCom","c":"grm content grid","a":"single wide position 8","l":"getLinkText","v":"","n":""},{"t":"body.pillar-grammys .entity-rocks-and-streams .stream-item.slot-14 a","e":"clickMapCom","c":"grm content grid","a":"single wide position 9","l":"getLinkText","v":"","n":""},{"t":"body.pillar-grammys .entity-rocks-and-streams .stream-item.slot-16 a","e":"clickMapCom","c":"grm content grid","a":"double wide position 10","l":"getLinkText","v":"","n":""},{"t":"body.pillar-grammys .entity-rocks-and-streams .stream-item.slot-17 a","e":"clickMapCom","c":"grm content grid","a":"single wide position 11","l":"getLinkText","v":"","n":""},{"t":"body.pillar-grammys .node--main--full .field--name-field-sponsor-slides .node--sponsor a","e":"clickMapCom","c":"grm sponsors","a":"sponsor clicks","l":"getHref","v":"","n":""},{"t":"body.pillar-grammys #block-outbrain-outbrain-horizontal","e":"clickMapCom","c":"grm outbrain","a":"outbrain clicks","l":"","v":"","n":""},{"t":"body.pillar-grammys .view-upcoming-events .view-content .views-row:nth-child(1) .node__title a","e":"clickMapCom","c":"grm events","a":"event detail position 1","l":"getLinkText","v":"","n":""},{"t":"body.pillar-grammys .view-upcoming-events .view-content .views-row:nth-child(1) .event-buy a","e":"clickMapCom","c":"grm events","a":"buy tickets position 1","l":"getLinkText","v":"","n":""},{"t":"body.pillar-grammys .view-upcoming-events .view-content .views-row:nth-child(2) .node__title a","e":"clickMapCom","c":"grm events","a":"event detail position 2","l":"getLinkText","v":"","n":""},{"t":"body.pillar-grammys .view-upcoming-events .view-content .views-row:nth-child(2) .event-buy a","e":"clickMapCom","c":"grm events","a":"buy tickets position 2","l":"getLinkText","v":"","n":""},{"t":"body.pillar-grammys .view-upcoming-events .view-content .views-row:nth-child(3) .node__title a","e":"clickMapCom","c":"grm events","a":"event detail position 3","l":"getLinkText","v":"","n":""},{"t":"body.pillar-grammys .view-upcoming-events .view-content .views-row:nth-child(3) .event-buy a","e":"clickMapCom","c":"grm events","a":"buy tickets position 3","l":"getLinkText","v":"","n":""},{"t":"body.pillar-grammys .view-upcoming-events .view-header .event-alert","e":"clickMapCom","c":"grm events","a":"get event alerts cta","l":"","v":"","n":""},{"t":"body.pillar-grammys .view-upcoming-events .view-footer a","e":"clickMapCom","c":"grm events","a":"see all events cta","l":"","v":"","n":""},{"t":"body.pillar-advocacy #block-com-site-menu-com-site-menu-pillar-block a","e":"clickMapCom","c":"adv top nav","a":"adv home","l":"","v":"","n":""},{"t":"body.pillar-advocacy .header-menu [id^=\u0022nice-menu-\u0022] \u003E li \u003E a","e":"clickMapCom","c":"adv top nav","a":"getLinkText","l":"","v":"","n":""},{"t":"body.pillar-advocacy #menu-stay-connected .nolink","e":"clickMapCom","c":"adv top nav","a":"stay connected","l":"","v":"","n":""},{"t":"body.pillar-advocacy #menu-search","e":"clickMapCom","c":"adv top nav","a":"search","l":"","v":"","n":""},{"t":"body.pillar-advocacy #block-fieldblock-node-main-default-field-heroes .linked-articles \u003E article:first","e":"clickMapCom","c":"adv hero","a":"single wide position 1","l":"getDataTitle","v":"","n":""},{"t":"body.pillar-advocacy #block-fieldblock-node-main-default-field-heroes .linked-articles \u003E article:last","e":"clickMapCom","c":"adv hero","a":"single wide position 2","l":"getDataTitle","v":"","n":""},{"t":"body.pillar-advocacy #block-fieldblock-node-main-default-field-heroes .main-content article","e":"clickMapCom","c":"adv hero","a":"single wide position 3","l":"getDataTitle","v":"","n":""},{"t":"body.pillar-advocacy #block-dfp-7031aa33539108b27deaee8959660270 .dfp-tag-wrapper","e":"clickMapCom","c":"adv ad","a":"ad position 1","l":"","v":"","n":""},{"t":"body.pillar-advocacy .entity-rocks-and-streams .stream-item.slot-1 a","e":"clickMapCom","c":"adv content grid","a":"single wide position 1","l":"getLinkText","v":"","n":""},{"t":"body.pillar-advocacy .entity-rocks-and-streams .stream-item.slot-2 a","e":"clickMapCom","c":"adv content grid","a":"single wide position 2","l":"getLinkText","v":"","n":""},{"t":"body.pillar-advocacy .entity-rocks-and-streams .stream-item.slot-3 .dfp-tag-wrapper","e":"clickMapCom","c":"adv content grid","a":"ad position 2","l":"","v":"","n":""},{"t":"body.pillar-advocacy .entity-rocks-and-streams .stream-item.slot-4 a","e":"clickMapCom","c":"adv content grid","a":"double wide position 3","l":"getLinkText","v":"","n":""},{"t":"body.pillar-advocacy .entity-rocks-and-streams #block-mailchimp-signup-13 .form-submit","e":"clickMapCom","c":"adv content grid","a":"email subscribe","l":"","v":"","n":""},{"t":"body.pillar-advocacy .entity-rocks-and-streams #poll-view-voting .form-item-choice label, body.pillar-advocacy .entity-rocks-and-streams #poll-view-voting .form-item-choice input","e":"clickMapCom","c":"adv content grid","a":"poll clicks","l":"","v":"","n":""},{"t":"body.pillar-advocacy .entity-rocks-and-streams .stream-item.slot-8 a","e":"clickMapCom","c":"adv content grid","a":"double wide position 4","l":"getLinkText","v":"","n":""},{"t":"body.pillar-advocacy .entity-rocks-and-streams .stream-item.slot-9 a","e":"clickMapCom","c":"adv content grid","a":"single wide position 5","l":"getLinkText","v":"","n":""},{"t":"body.pillar-advocacy .entity-rocks-and-streams .stream-item.slot-10 a","e":"clickMapCom","c":"adv content grid","a":"single wide position 6","l":"getLinkText","v":"","n":""},{"t":"body.pillar-advocacy .entity-rocks-and-streams .stream-item.slot-11 .dfp-tag-wrapper","e":"clickMapCom","c":"adv content grid","a":"ad position 3","l":"","v":"","n":""},{"t":"body.pillar-advocacy .entity-rocks-and-streams .stream-item.slot-12 a","e":"clickMapCom","c":"adv content grid","a":"single wide position 7","l":"getLinkText","v":"","n":""},{"t":"body.pillar-advocacy .entity-rocks-and-streams .stream-item.slot-13 a","e":"clickMapCom","c":"adv content grid","a":"single wide position 8","l":"getLinkText","v":"","n":""},{"t":"body.pillar-advocacy .entity-rocks-and-streams .stream-item.slot-14 a","e":"clickMapCom","c":"adv content grid","a":"single wide position 9","l":"getLinkText","v":"","n":""},{"t":"body.pillar-advocacy .entity-rocks-and-streams .stream-item.slot-16 a","e":"clickMapCom","c":"adv content grid","a":"double wide position 10","l":"getLinkText","v":"","n":""},{"t":"body.pillar-advocacy .entity-rocks-and-streams .stream-item.slot-17 a","e":"clickMapCom","c":"adv content grid","a":"single wide position 11","l":"getLinkText","v":"","n":""},{"t":"body.pillar-advocacy .node--main--full .field--name-field-sponsor-slides .node--sponsor a","e":"clickMapCom","c":"adv sponsors","a":"sponsor clicks","l":"getHref","v":"","n":""},{"t":"body.pillar-advocacy #block-outbrain-outbrain-horizontal","e":"clickMapCom","c":"adv outbrain","a":"outbrain clicks","l":"","v":"","n":""},{"t":"body.pillar-advocacy .view-upcoming-events .view-content .views-row:nth-child(1) .node__title a","e":"clickMapCom","c":"adv events","a":"event detail position 1","l":"getLinkText","v":"","n":""},{"t":"body.pillar-advocacy .view-upcoming-events .view-content .views-row:nth-child(1) .event-buy a","e":"clickMapCom","c":"adv events","a":"buy tickets position 1","l":"getLinkText","v":"","n":""},{"t":"body.pillar-advocacy .view-upcoming-events .view-content .views-row:nth-child(2) .node__title a","e":"clickMapCom","c":"adv events","a":"event detail position 2","l":"getLinkText","v":"","n":""},{"t":"body.pillar-advocacy .view-upcoming-events .view-content .views-row:nth-child(2) .event-buy a","e":"clickMapCom","c":"adv events","a":"buy tickets position 2","l":"getLinkText","v":"","n":""},{"t":"body.pillar-advocacy .view-upcoming-events .view-content .views-row:nth-child(3) .node__title a","e":"clickMapCom","c":"adv events","a":"event detail position 3","l":"getLinkText","v":"","n":""},{"t":"body.pillar-advocacy .view-upcoming-events .view-content .views-row:nth-child(3) .event-buy a","e":"clickMapCom","c":"adv events","a":"buy tickets position 3","l":"getLinkText","v":"","n":""},{"t":"body.pillar-advocacy .view-upcoming-events .view-header .event-alert","e":"clickMapCom","c":"adv events","a":"get event alerts cta","l":"","v":"","n":""},{"t":"body.pillar-advocacy .view-upcoming-events .view-footer a","e":"clickMapCom","c":"adv events","a":"see all events cta","l":"","v":"","n":""},{"t":"body.pillar-musicares #block-com-site-menu-com-site-menu-pillar-block a","e":"clickMapCom","c":"msc top nav","a":"msc home","l":"","v":"","n":""},{"t":"body.pillar-musicares .header-menu [id^=\u0022nice-menu-\u0022] \u003E li \u003E a","e":"clickMapCom","c":"msc top nav","a":"getLinkText","l":"","v":"","n":""},{"t":"body.pillar-musicares #menu-stay-connected .nolink","e":"clickMapCom","c":"msc top nav","a":"stay connected","l":"","v":"","n":""},{"t":"body.pillar-musicares #menu-search","e":"clickMapCom","c":"msc top nav","a":"search","l":"","v":"","n":""},{"t":"body.pillar-musicares #block-fieldblock-node-main-default-field-heroes .linked-articles \u003E article:first","e":"clickMapCom","c":"msc hero","a":"single wide position 1","l":"getDataTitle","v":"","n":""},{"t":"body.pillar-musicares #block-fieldblock-node-main-default-field-heroes .linked-articles \u003E article:last","e":"clickMapCom","c":"msc hero","a":"single wide position 2","l":"getDataTitle","v":"","n":""},{"t":"body.pillar-musicares #block-fieldblock-node-main-default-field-heroes .main-content article","e":"clickMapCom","c":"msc hero","a":"single wide position 3","l":"getDataTitle","v":"","n":""},{"t":"body.pillar-musicares #block-dfp-7031aa33539108b27deaee8959660270 .dfp-tag-wrapper","e":"clickMapCom","c":"msc ad","a":"ad position 1","l":"","v":"","n":""},{"t":"body.pillar-musicares .entity-rocks-and-streams .stream-item.slot-1 a","e":"clickMapCom","c":"msc content grid","a":"single wide position 1","l":"getLinkText","v":"","n":""},{"t":"body.pillar-musicares .entity-rocks-and-streams .stream-item.slot-2 a","e":"clickMapCom","c":"msc content grid","a":"single wide position 2","l":"getLinkText","v":"","n":""},{"t":"body.pillar-musicares .entity-rocks-and-streams .stream-item.slot-3 .dfp-tag-wrapper","e":"clickMapCom","c":"msc content grid","a":"ad position 2","l":"","v":"","n":""},{"t":"body.pillar-musicares .entity-rocks-and-streams .stream-item.slot-4 a","e":"clickMapCom","c":"msc content grid","a":"double wide position 3","l":"getLinkText","v":"","n":""},{"t":"body.pillar-musicares .entity-rocks-and-streams #block-mailchimp-signup-13 .form-submit","e":"clickMapCom","c":"msc content grid","a":"email subscribe","l":"","v":"","n":""},{"t":"body.pillar-musicares .entity-rocks-and-streams #poll-view-voting .form-item-choice label, body.pillar-musicares .entity-rocks-and-streams #poll-view-voting .form-item-choice input","e":"clickMapCom","c":"msc content grid","a":"poll clicks","l":"","v":"","n":""},{"t":"body.pillar-musicares .entity-rocks-and-streams .stream-item.slot-8 a","e":"clickMapCom","c":"msc content grid","a":"double wide position 4","l":"getLinkText","v":"","n":""},{"t":"body.pillar-musicares .entity-rocks-and-streams .stream-item.slot-9 a","e":"clickMapCom","c":"msc content grid","a":"single wide position 5","l":"getLinkText","v":"","n":""},{"t":"body.pillar-musicares .entity-rocks-and-streams .stream-item.slot-10 a","e":"clickMapCom","c":"msc content grid","a":"single wide position 6","l":"getLinkText","v":"","n":""},{"t":"body.pillar-musicares .entity-rocks-and-streams .stream-item.slot-11 .dfp-tag-wrapper","e":"clickMapCom","c":"msc content grid","a":"ad position 3","l":"","v":"","n":""},{"t":"body.pillar-musicares .entity-rocks-and-streams .stream-item.slot-12 a","e":"clickMapCom","c":"msc content grid","a":"single wide position 7","l":"getLinkText","v":"","n":""},{"t":"body.pillar-musicares .entity-rocks-and-streams .stream-item.slot-13 a","e":"clickMapCom","c":"msc content grid","a":"single wide position 8","l":"getLinkText","v":"","n":""},{"t":"body.pillar-musicares .entity-rocks-and-streams .stream-item.slot-14 a","e":"clickMapCom","c":"msc content grid","a":"single wide position 9","l":"getLinkText","v":"","n":""},{"t":"body.pillar-musicares .entity-rocks-and-streams .stream-item.slot-16 a","e":"clickMapCom","c":"msc content grid","a":"double wide position 10","l":"getLinkText","v":"","n":""},{"t":"body.pillar-musicares .entity-rocks-and-streams .stream-item.slot-17 a","e":"clickMapCom","c":"msc content grid","a":"single wide position 11","l":"getLinkText","v":"","n":""},{"t":"body.pillar-musicares .node--main--full .field--name-field-sponsor-slides .node--sponsor a","e":"clickMapCom","c":"msc sponsors","a":"sponsor clicks","l":"getHref","v":"","n":""},{"t":"body.pillar-musicares #block-outbrain-outbrain-horizontal","e":"clickMapCom","c":"msc outbrain","a":"outbrain clicks","l":"","v":"","n":""},{"t":"body.pillar-musicares .view-upcoming-events .view-content .views-row:nth-child(1) .node__title a","e":"clickMapCom","c":"msc events","a":"event detail position 1","l":"getLinkText","v":"","n":""},{"t":"body.pillar-musicares .view-upcoming-events .view-content .views-row:nth-child(1) .event-buy a","e":"clickMapCom","c":"msc events","a":"buy tickets position 1","l":"getLinkText","v":"","n":""},{"t":"body.pillar-musicares .view-upcoming-events .view-content .views-row:nth-child(2) .node__title a","e":"clickMapCom","c":"msc events","a":"event detail position 2","l":"getLinkText","v":"","n":""},{"t":"body.pillar-musicares .view-upcoming-events .view-content .views-row:nth-child(2) .event-buy a","e":"clickMapCom","c":"msc events","a":"buy tickets position 2","l":"getLinkText","v":"","n":""},{"t":"body.pillar-musicares .view-upcoming-events .view-content .views-row:nth-child(3) .node__title a","e":"clickMapCom","c":"msc events","a":"event detail position 3","l":"getLinkText","v":"","n":""},{"t":"body.pillar-musicares .view-upcoming-events .view-content .views-row:nth-child(3) .event-buy a","e":"clickMapCom","c":"msc events","a":"buy tickets position 3","l":"getLinkText","v":"","n":""},{"t":"body.pillar-musicares .view-upcoming-events .view-header .event-alert","e":"clickMapCom","c":"msc events","a":"get event alerts cta","l":"","v":"","n":""},{"t":"body.pillar-musicares .view-upcoming-events .view-footer a","e":"clickMapCom","c":"msc events","a":"see all events cta","l":"","v":"","n":""}],"category":"video_interview","pillar":"GRAMMYs"},"extlink":{"extTarget":"_blank","extClass":0,"extLabel":"(link is external)","extImgClass":0,"extSubdomains":1,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":0,"extAlertText":"This link will take you to an external web site.","mailtoClass":0,"mailtoLabel":"(link sends e-mail)"},"comOoyala":{"pcode":"JldmY6KL4Ufi6F7wGSY0m3nayjID","playerBrandingId":"YjlhZDY1YzdkZDhlMGEzN2ZiMWU4OWI3"},"fac":{"jsonFilesPath":"sites\/com\/files\/fac-json\/en\/","inputSelectors":".search-api-page-search-form-node .search-fac-enabled","keyMinLength":"3","keyMaxLength":"100","breakpoint":0,"emptyResult":"","allResultsLink":true,"allResultsLinkThreshold":-1,"highlightEnabled":true,"resultLocation":false},"responsive_dropdown_menus":{"menu-advocacy-menu":"Advocacy Menu","menu-chapter-menu-atlanta":"Chapter Menu - Atlanta","menu-chapter-menu-chicago":"Chapter Menu - Chicago","menu-chapter-menu-florida":"Chapter Menu - Florida","menu-chapter-menu-grammyu":"Chapter Menu - GrammyU","menu-chapter-menu-los-angeles":"Chapter Menu - Los Angeles","menu-chapter-menu-memphis":"Chapter Menu - Memphis","menu-chapter-menu-nashville":"Chapter Menu - Nashville","menu-chapter-menu-new-york":"Chapter Menu - New York","menu-chapter-menu-pacific-northw":"Chapter Menu - Pacific Northwest","menu-chapter-menu-philadelphia":"Chapter Menu - Philadelphia","menu-chapter-menu-producers-engi":"Chapter Menu - Producers \u0026 Engineers","menu-chapter-menu-overall":"Chapter Menu - Recording Academy Overview","menu-chapter-menu-san-francisco":"Chapter Menu - San Francisco","menu-chapter-menu-texas":"Chapter Menu - Texas","menu-chapter-menu-washington-dc":"Chapter Menu - Washington DC","devel":"Development","menu-editor":"Editor","features":"Features","menu-footer":"Footer","menu-grammys-menu":"GRAMMYs Menu","menu-grammys-museum":"GRAMMYs Museum","menu-latin-grammys-menu":"Latin GRAMMYs Menu","main-menu":"Main menu","management":"Management","menu-member-application-menu":"Member Application Menu","menu-membership-menu":"Membership Menu","menu-musicares-menu":"MusiCares Menu","navigation":"Navigation","menu-pillar":"Pillar","menu-pillar-footer":"Pillar Footer","menu-the-recording-academy":"Recording Academy","menu-social":"Social","menu-social-search":"Social Search","menu-tra-menu":"TRA Menu","menu-user-dashboard-menu":"User Dashboard Menu","user-menu":"User menu"}});</script>
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-119696 node-type-video videos-page no-title section-grammys pillar-grammys">
+  <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NJ4RJP" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>  <div class="layout-sidebar-right l-page has-one-sidebar has-sidebar-second">
+  <header class="l-header" role="banner">
+    <div id="tra-header-bars">
+        <div class="l-region l-region--breaking">
+    <div id="block-views-breaking-news-bar-block" class="block block--views block--views-breaking-news-bar-block">
+        <div class="block__content">
+    <div class="view view-breaking-news-bar view-id-breaking_news_bar view-display-id-block view-dom-id-1d1f74585895f5f51f38336a07cd2cd6">
+        
+  
+  
+      <div class="view-empty">
+      &nbsp;    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+</div>
+  </div>
+        <div class="l-region l-region--header">
+    <div class="header-menu">
+    <div class="pillar-wrapper">
+      <div id="block-responsive-dropdown-menus-menu-the-recording-academy" class="block block--responsive-dropdown-menus block--responsive-dropdown-menus-menu-the-recording-academy">
+        <div class="block__content">
+    <ul id="menu-the-recording-academy" class="menu-the-recording-academy responsive-menu links"><li id="menu-item-1762" class="menu-item menu-item-primary first"><a href="/recording-academy">Recording Academy</a></li>
+<li id="menu-item-1910" class="menu-item menu-item-primary"><a href="https://www.grammy.com/">GRAMMYs</a></li>
+<li id="menu-item-1906" class="menu-item menu-item-primary"><a href="https://www.latingrammy.com" target="_blank">Latin GRAMMYs</a></li>
+<li id="menu-item-1907" class="menu-item menu-item-primary"><a href="http://www.grammymuseum.org" target="_blank">GRAMMY Museum</a></li>
+<li id="menu-item-1909" class="menu-item menu-item-primary"><a href="https://www.grammy.com/musicares">MusiCares</a></li>
+<li id="menu-item-1899" class="menu-item menu-item-primary"><a href="https://www.grammy.com/advocacy">Advocacy</a></li>
+<li id="menu-item-1908" class="menu-item menu-item-primary last"><a href="https://www.grammypro.com" target="_blank">Membership</a></li>
+</ul>  </div>
+</div>
+      <div id="block-com-site-menu-com-site-menu-pillar-block" class="block block--com-site-menu block--com-site-menu-com-site-menu-pillar-block">
+        <div class="block__content">
+    <a href="/grammys" class="pillar-logo pillar-grammys">GRAMMYs</a>  </div>
+</div>
+    </div>
+  <div id="block-nice-menus-3" class="block block--nice-menus block--nice-menus-3">
+        <div class="block__content">
+    <ul class="nice-menu nice-menu-down nice-menu-menu-tra-menu" id="nice-menu-3"><li class="menu-5556 menu-path-front first odd "><a href="/">GRAMMYs</a></li>
+<li class="menu-1900 menu-path-slatingrammycom  even "><a href="https://www.latingrammy.com" target="_blank">Latin GRAMMYs</a></li>
+<li class="menu-1901 menu-path-grammymuseumorg  odd "><a href="http://www.grammymuseum.org" target="_blank">GRAMMY Museum</a></li>
+<li class="menu-5581 menu-path-sgrammycom-musicares  even "><a href="https://www.grammy.com/musicares">MusiCares</a></li>
+<li class="menu-5586 menu-path-sgrammycom-advocacy  odd "><a href="https://www.grammy.com/advocacy">Advocacy</a></li>
+<li class="menu-1902 menu-path-sgrammyprocom  even "><a href="https://www.grammypro.com">Membership</a></li>
+<li class="menu-1764 menu-path-node-165136  odd "><a href="/recording-academy/about">About</a></li>
+<li class="menu-1970 menu-path-node-135518  even "><a href="/recording-academy/governance">Corporate Governance</a></li>
+<li class="menu-1964 menu-path-node-170096  odd "><a href="/events">Events</a></li>
+<li class="menu-1963 menu-path-node-170101  even "><a href="/recording-academy/press-room">Press Room</a></li>
+<li class="menu-1965 menu-path-node-135544  odd last"><a href="/recording-academy/jobs">Jobs</a></li>
+<li class="more-menu-li menuparent"><span class="nolink">More</span><ul class="more-menu-ul""><li class="menu-5556 menu-path-front first odd "><a href="/">GRAMMYs</a></li>
+<li class="menu-1900 menu-path-slatingrammycom  even "><a href="https://www.latingrammy.com" target="_blank">Latin GRAMMYs</a></li>
+<li class="menu-1901 menu-path-grammymuseumorg  odd "><a href="http://www.grammymuseum.org" target="_blank">GRAMMY Museum</a></li>
+<li class="menu-5581 menu-path-sgrammycom-musicares  even "><a href="https://www.grammy.com/musicares">MusiCares</a></li>
+<li class="menu-5586 menu-path-sgrammycom-advocacy  odd "><a href="https://www.grammy.com/advocacy">Advocacy</a></li>
+<li class="menu-1902 menu-path-sgrammyprocom  even "><a href="https://www.grammypro.com">Membership</a></li>
+<li class="menu-1764 menu-path-node-165136  odd "><a href="/recording-academy/about">About</a></li>
+<li class="menu-1970 menu-path-node-135518  even "><a href="/recording-academy/governance">Corporate Governance</a></li>
+<li class="menu-1964 menu-path-node-170096  odd "><a href="/events">Events</a></li>
+<li class="menu-1963 menu-path-node-170101  even "><a href="/recording-academy/press-room">Press Room</a></li>
+<li class="menu-1965 menu-path-node-135544  odd last"><a href="/recording-academy/jobs">Jobs</a></li>
+</ul></li></ul>
+  </div>
+</div>
+  <div id="block-nice-menus-4" class="block block--nice-menus block--nice-menus-4 main-menu-current">
+        <h2 class="block__title">The GRAMMYs</h2>
+      <div class="block__content">
+    <ul class="nice-menu nice-menu-down nice-menu-menu-grammys-menu" id="nice-menu-4"><li class="menu-1912 menu-path-node-28 first odd "><a href="/grammys/awards">Awards</a></li>
+<li class="menu-1747 menu-path-node-29  even "><a href="/grammys/news">News</a></li>
+<li class="menu-1761 menu-path-node-30 active-trail  odd   active-trail"><a href="/grammys/videos" class="active">Videos</a></li>
+<li class="menu-1751 menu-path-node-170096  even last"><a href="/events?field_pillar_tid%5B%5D=2">Events</a></li>
+<li class="more-menu-li menuparent"><span class="nolink">More</span><ul class="more-menu-ul""><li class="menu-1912 menu-path-node-28 first odd "><a href="/grammys/awards">Awards</a></li>
+<li class="menu-1747 menu-path-node-29  even "><a href="/grammys/news">News</a></li>
+<li class="menu-1761 menu-path-node-30 active-trail  odd   active-trail"><a href="/grammys/videos" class="active">Videos</a></li>
+<li class="menu-1751 menu-path-node-170096  even last"><a href="/events?field_pillar_tid%5B%5D=2">Events</a></li>
+</ul></li></ul>
+  </div>
+</div>
+  <div id="block-nice-menus-5" class="block block--nice-menus block--nice-menus-5">
+        <h2 class="block__title">Latin GRAMMYs</h2>
+      <div class="block__content">
+    <ul class="nice-menu nice-menu-down nice-menu-menu-latin-grammys-menu" id="nice-menu-5"><li class="menu-1758 menu-path-nolink first odd last"><span class="nolink">More</span></li>
+<li class="more-menu-li menuparent"><span class="nolink">More</span><ul class="more-menu-ul""><li class="menu-1758 menu-path-nolink first odd last"><span class="nolink">More</span></li>
+</ul></li></ul>
+  </div>
+</div>
+  <div id="block-nice-menus-6" class="block block--nice-menus block--nice-menus-6">
+        <h2 class="block__title"><span class="nice-menu-hide-title">GRAMMYs Museum</span></h2>
+      <div class="block__content">
+    <ul class="nice-menu nice-menu-down nice-menu-menu-grammys-museum" id="nice-menu-6"><li class="more-menu-li menuparent"><span class="nolink">More</span><ul class="more-menu-ul""></ul></li></ul>
+  </div>
+</div>
+  <div id="block-nice-menus-7" class="block block--nice-menus block--nice-menus-7">
+        <h2 class="block__title">MusiCares</h2>
+      <div class="block__content">
+    <ul class="nice-menu nice-menu-down nice-menu-menu-musicares-menu" id="nice-menu-7"><li class="menu-23731 menu-path-sgrammycom-musicares first odd "><a href="https://www.grammy.com/musicares">Home</a></li>
+<li class="menu-4006 menu-path-node-135486  even "><a href="/musicares/about">About</a></li>
+<li class="menu-1757 menu-path-node-135506  odd "><a href="/musicares/programs" class="mobile-only">Programs</a></li>
+<li class="menu-4071 menu-path-musicares-donations  even "><a href="/musicares/donations">Donate</a></li>
+<li class="menu-1755 menu-path-node-170116  odd "><a href="/musicares/news">News</a></li>
+<li class="menu-1744 menu-path-node-170121  even "><a href="/musicares/videos">Videos</a></li>
+<li class="menu-1759 menu-path-node-170096  odd "><a href="/events?field_pillar_tid%5B%5D=4">Events</a></li>
+<li class="menu-1756 menu-path-node-170126  even last"><a href="/musicares/person-of-the-year">Person of the Year</a></li>
+<li class="more-menu-li menuparent"><span class="nolink">More</span><ul class="more-menu-ul""><li class="menu-23731 menu-path-sgrammycom-musicares first odd "><a href="https://www.grammy.com/musicares">Home</a></li>
+<li class="menu-4006 menu-path-node-135486  even "><a href="/musicares/about">About</a></li>
+<li class="menu-1757 menu-path-node-135506  odd "><a href="/musicares/programs" class="mobile-only">Programs</a></li>
+<li class="menu-4071 menu-path-musicares-donations  even "><a href="/musicares/donations">Donate</a></li>
+<li class="menu-1755 menu-path-node-170116  odd "><a href="/musicares/news">News</a></li>
+<li class="menu-1744 menu-path-node-170121  even "><a href="/musicares/videos">Videos</a></li>
+<li class="menu-1759 menu-path-node-170096  odd "><a href="/events?field_pillar_tid%5B%5D=4">Events</a></li>
+<li class="menu-1756 menu-path-node-170126  even last"><a href="/musicares/person-of-the-year">Person of the Year</a></li>
+</ul></li></ul>
+  </div>
+</div>
+  <div id="block-nice-menus-8" class="block block--nice-menus block--nice-menus-8">
+        <h2 class="block__title">Advocacy</h2>
+      <div class="block__content">
+    <ul class="nice-menu nice-menu-down nice-menu-menu-advocacy-menu" id="nice-menu-8"><li class="menu-4096 menu-path-node-135487 first odd "><a href="/advocacy/about">About</a></li>
+<li class="menu-4116 menu-path-node-170131  even "><a href="/advocacy/news">News</a></li>
+<li class="menu-4121 menu-path-node-165761  odd "><a href="/advocacy/learn">Learn</a></li>
+<li class="menu-4151 menu-path-node-170136  even last"><a href="/advocacy/act">Act</a></li>
+<li class="more-menu-li menuparent"><span class="nolink">More</span><ul class="more-menu-ul""><li class="menu-4096 menu-path-node-135487 first odd "><a href="/advocacy/about">About</a></li>
+<li class="menu-4116 menu-path-node-170131  even "><a href="/advocacy/news">News</a></li>
+<li class="menu-4121 menu-path-node-165761  odd "><a href="/advocacy/learn">Learn</a></li>
+<li class="menu-4151 menu-path-node-170136  even last"><a href="/advocacy/act">Act</a></li>
+</ul></li></ul>
+  </div>
+</div>
+  <div id="block-nice-menus-9" class="block block--nice-menus block--nice-menus-9">
+        <h2 class="block__title">Membership</h2>
+      <div class="block__content">
+    <ul class="nice-menu nice-menu-down nice-menu-menu-membership-menu" id="nice-menu-9"><li class="more-menu-li menuparent"><span class="nolink">More</span><ul class="more-menu-ul""></ul></li></ul>
+  </div>
+</div>
+  <nav id="block-menu-menu-social-search" role="navigation" class="block block--menu block--menu-menu-social-search">
+      
+  <ul class="menu"><li class="first leaf" id="menu-stay-connected"><span class="nolink">Stay Connected</span></li>
+<li class="leaf"><span class="separator"><hr></span></li>
+<li class="last leaf" id="menu-search"><span class="nolink">Search</span></li>
+</ul></nav>
+</div>
+<div id="block-search-api-page-node" class="block block--search-api-page block--search-api-page-node">
+        <div class="block__content">
+    <form class="search-api-page-search-form-node" action="/grammys/videos/production-process-inside-taylor-swifts-1989-part-1?sf14065875=1" method="post" id="search-api-page-search-form-node" accept-charset="UTF-8"><div class="form-content"><div class="form-item form-type-textfield form-item-keys-1">
+  <label class="element-invisible" for="edit-keys-1">Enter your keywords </label>
+ <input placeholder="Search" class="search-fac-enabled form-text" type="text" id="edit-keys-1" name="keys_1" value="" size="15" maxlength="128" /> <span class="field-suffix"><div class="form-text-helper form-text"></div></span>
+</div>
+<input type="hidden" name="id" value="1" />
+<input type="submit" id="edit-submit-1" name="op" value="See All Results" class="form-submit" /><input type="hidden" name="form_build_id" value="form-HJDN7sUpZf15Ih0p95V7lhi4HwIWWteHuU3dbzqC9Iw" />
+<input type="hidden" name="form_id" value="search_api_page_search_form_node" />
+</div></form>  </div>
+</div>
+<div class="stay-connected-wrapper">
+  <a href="#" class="element-invisible">Modal Open</a>
+  <div class="stay-connected">
+    <div class="stay-connected-inner">
+      <div id="block-mailchimp-signup-tra-newsletters" class="block block--mailchimp-signup block--mailchimp-signup-tra-newsletters">
+        <div class="mailchimp-block-header">
+        <div class="block-label">Subscribe Now</div>
+        <hr class="gold-divider" />
+      <h2 class="block__title">Subscribe to Newsletters</h2>
+    </div>
+      <div class="block__content">
+    <form class="mailchimp-signup-subscribe-form mailchimp-signup-subscribe-block-tra-newsletters-form" action="/grammys/videos/production-process-inside-taylor-swifts-1989-part-1?sf14065875=1" method="post" id="mailchimp-signup-subscribe-block-tra-newsletters-form" accept-charset="UTF-8"><div class="form-content"><div class="mailchimp-signup-subscribe-form-description">Be the first to find out about GRAMMY nominees, winners, important news, and events. <a href="/legal#privacy">Privacy Policy</a></div><div id="mailchimp-newsletter-all" class="mailchimp-newsletter-wrapper"><div class="form-item form-type-checkbox form-item-mailchimp-lists-mailchimp-all-subscribe">
+ <input type="checkbox" id="edit-mailchimp-lists-mailchimp-all-subscribe" name="mailchimp_lists[mailchimp_all][subscribe]" value="1" class="form-checkbox" />  <label class="option" for="edit-mailchimp-lists-mailchimp-all-subscribe">Select All </label>
+
+</div>
+</div><div id="mailchimp-newsletter-66a2af8346" class="mailchimp-newsletter-wrapper"><div class="form-item form-type-checkbox form-item-mailchimp-lists-mailchimp-66a2af8346-subscribe">
+ <input type="checkbox" id="edit-mailchimp-lists-mailchimp-66a2af8346-subscribe" name="mailchimp_lists[mailchimp_66a2af8346][subscribe]" value="66a2af8346" class="form-checkbox" />  <label class="option" for="edit-mailchimp-lists-mailchimp-66a2af8346-subscribe">GRAMMYs </label>
+
+</div>
+</div><div id="mailchimp-newsletter-118deaa607" class="mailchimp-newsletter-wrapper"><div class="form-item form-type-checkbox form-item-mailchimp-lists-mailchimp-118deaa607-subscribe">
+ <input type="checkbox" id="edit-mailchimp-lists-mailchimp-118deaa607-subscribe" name="mailchimp_lists[mailchimp_118deaa607][subscribe]" value="118deaa607" class="form-checkbox" />  <label class="option" for="edit-mailchimp-lists-mailchimp-118deaa607-subscribe">MusiCares </label>
+
+</div>
+</div><div id="mailchimp-newsletter-d2ef154578" class="mailchimp-newsletter-wrapper"><a href="http://www.grammymuseum.org/newsletter" target="_blank" class="cta">GRAMMY Museum</a></div><div id="mailchimp-newsletter-d4b545a4fe" class="mailchimp-newsletter-wrapper"><a href="https://www.grammypro.com/user/login?destination=my-membership/mailing-lists" target="_blank" class="cta">Advocacy</a></div><div id="mailchimp-newsletter-150c758810" class="mailchimp-newsletter-wrapper"><a href="https://www.grammypro.com/user/login?destination=my-membership/mailing-lists" target="_blank" class="cta">Membership</a></div><div id="mailchimp-newsletter-118deaa607-mergefields" class="mailchimp-newsletter-mergefields"><div class="form-item form-type-textfield form-item-mergevars-EMAIL">
+  <label for="edit-mergevars-email">Email Address <span class="form-required" title="This field is required.">*</span></label>
+ <input placeholder="Enter Email" type="text" id="edit-mergevars-email" name="mergevars[EMAIL]" value="" size="25" maxlength="128" class="form-text required" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Subscribe" class="form-submit" /></div></div><input type="hidden" name="form_build_id" value="form-nVLmk-oDodxYb5dGAP-jS7DBjC77qJoRgEWD1i8FwAY" />
+<input type="hidden" name="form_id" value="mailchimp_signup_subscribe_block_tra_newsletters_form" />
+</div></form>  </div>
+</div>
+      <nav id="block-menu-menu-social" role="navigation" class="block block--menu block--menu-menu-social">
+        <h2 class="block__title">Join us on Social</h2>
+    
+  <ul class="menu"><li class="first expanded recording-academy"><span class="nolink">Recording Academy</span><ul class="menu"><li class="first leaf"><a href="https://www.facebook.com/RecordingAcademy" class="icon-facebook">The Recording Academy: Facebook</a></li>
+<li class="leaf"><a href="https://twitter.com/RecordingAcad" class="icon-twitter">The Recording Academy: Twitter</a></li>
+<li class="leaf"><a href="https://www.instagram.com/RecordingAcademy" class="icon-instagram">The Recording Academy: Instagram</a></li>
+<li class="last leaf"><a href="https://www.youtube.com/user/TheGRAMMYs" class="icon-youtube">The Recording Academy: YouTube</a></li>
+</ul></li>
+<li class="expanded grammys"><span class="nolink">GRAMMYs</span><ul class="menu"><li class="first leaf"><a href="https://www.facebook.com/RecordingAcademy" class="icon-facebook" target="_blank">GRAMMYs: Facebook</a></li>
+<li class="leaf"><a href="https://twitter.com/RecordingAcad" class="icon-twitter" target="_blank">GRAMMYs: Twitter</a></li>
+<li class="leaf"><a href="https://www.instagram.com/RecordingAcademy" class="icon-instagram" target="_blank">GRAMMYs: Instagram</a></li>
+<li class="last leaf"><a href="https://www.youtube.com/user/TheGRAMMYs" class="icon-youtube" target="_blank">GRAMMYs: YouTube</a></li>
+</ul></li>
+<li class="expanded latin-grammys"><span class="nolink">Latin GRAMMYs</span><ul class="menu"><li class="first leaf"><a href="http://www.facebook.com/LatinGRAMMYs" class="icon-facebook" target="_blank">Latin GRAMMYs: Facebook</a></li>
+<li class="leaf"><a href="http://twitter.com/LatinGRAMMYs" class="icon-twitter" target="_blank">Latin GRAMMYs: Twitter</a></li>
+<li class="leaf"><a href="http://www.instagram.com/LatinGRAMMYs" class="icon-instagram" target="_blank">Latin GRAMMYs: Instagram</a></li>
+<li class="last leaf"><a href="http://www.youtube.com/latinGRAMMYs" class="icon-youtube" target="_blank">Latin GRAMMYs: YouTube</a></li>
+</ul></li>
+<li class="expanded grammy-museum"><span class="nolink">GRAMMY Museum</span><ul class="menu"><li class="first leaf"><a href="https://www.facebook.com/grammymuseum/" class="icon-facebook" target="_blank">GRAMMY Museum: Facebook</a></li>
+<li class="leaf"><a href="https://twitter.com/GRAMMYMuseum" class="icon-twitter" target="_blank">GRAMMY Museum: Twitter</a></li>
+<li class="leaf"><a href="https://www.instagram.com/grammymuseum/" class="icon-instagram" target="_blank">GRAMMY Museum: Instagram</a></li>
+<li class="last leaf"><a href="https://www.youtube.com/user/thegrammymuseum" class="icon-youtube" target="_blank">GRAMMY Museum: YouTube</a></li>
+</ul></li>
+<li class="expanded musicares"><span class="nolink">MusiCares</span><ul class="menu"><li class="first leaf"><a href="https://www.facebook.com/MusiCares" class="icon-facebook" target="_blank">MusiCares: Facebook</a></li>
+<li class="leaf"><a href="https://twitter.com/MusiCares" class="icon-twitter" target="_blank">MusiCares: Twitter</a></li>
+<li class="leaf"><a href="https://www.instagram.com/musicares" class="icon-instagram" target="_blank">MusiCares: Instagram</a></li>
+<li class="last leaf"><a href="https://www.youtube.com/user/MusiCaresFoundation" class="icon-youtube" target="_blank">MusiCares: YouTube</a></li>
+</ul></li>
+<li class="expanded advocacy"><span class="nolink">Advocacy</span><ul class="menu"><li class="first leaf"><a href="https://www.facebook.com/GRAMMYAdvocacy" class="icon-facebook" target="_blank">Advocacy: Facebook</a></li>
+<li class="last leaf"><a href="https://twitter.com/GRAMMYAdvocacy" class="icon-twitter" target="_blank">Advocacy: Twitter</a></li>
+</ul></li>
+<li class="last expanded membership"><span class="nolink">Membership</span><ul class="menu"><li class="first leaf"><a href="https://www.facebook.com/RecordingAcademy" class="icon-facebook" target="_blank">Membership: Facebook</a></li>
+<li class="leaf"><a href="https://twitter.com/RecordingAcad" class="icon-twitter" target="_blank">Membership: Twitter</a></li>
+<li class="leaf"><a href="https://www.instagram.com/RecordingAcademy" class="icon-instagram">Membership: Instagram</a></li>
+<li class="last leaf"><a href="https://www.youtube.com/user/TheGRAMMYs" class="icon-youtube">Membership: Youtube</a></li>
+</ul></li>
+</ul></nav>
+    </div>
+  </div>
+</div>
+  <div class="l-region l-region--header">
+    <div id="block-block-6" class="block block--block block--block-6">
+        <div class="block__content">
+    <script>
+<!--//--><![CDATA[// ><!--
+
+jQuery(".block-views-winners-nominees-per-year").css("margin-top","50px");
+jQuery(window).load(function(){
+   jQuery(".swiper-button-prev").removeClass("swiper-button-disabled");
+   jQuery(".swiper-button-next").removeClass("swiper-button-disabled");
+   jQuery(".view-winners-nominees").parent().css("margin-top","50px");
+})
+
+//--><!]]>
+</script><style type="text/css">
+<!--/*--><![CDATA[/* ><!--*/
+#block-views-winners-nominees-per-year{
+   margin-top : 50px  !important;
+}
+
+/*--><!]]>*/
+</style>  </div>
+</div>
+  </div>
+  </div>
+    </div>
+
+    
+    
+      <div class="l-region l-region--hero">
+    <div id="block-views-0e703a3e348222f334e1ae8ad1cf906d" class="block block--views block--views-0e703a3e348222f334e1ae8ad1cf906d">
+        <div class="block__content">
+    <div class="view view-video-page-video-playlist view-id-video_page_video_playlist view-display-id-selected_playlist view-dom-id-21f8f547a02b0228fda10d65b1a56fbd">
+        
+  
+  
+      <div class="view-empty">
+      <div class="view view-video-page-video-playlist view-id-video_page_video_playlist view-display-id-most_recent_playlist view-dom-id-469a80a992679b3c9e5aff9403b8683a">
+        
+  
+  
+      <div class="view-empty">
+      <div class="view view-video-page-video-playlist view-id-video_page_video_playlist view-display-id-single_video view-dom-id-20ef439834293535a235e866db302c4b">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+    <article search_type="video" about="/grammys/videos/production-process-inside-taylor-swifts-1989-part-1" typeof="sioc:Item foaf:Document" role="article" class="node node--video node--video-single-hero node--video--video-single-hero" id="node-video-119696" data-id="119696" data-type="video" data-title="Production &amp; process: Inside Taylor Swift&#039;s &#039;1989&#039; (part 1)" data-url="/grammys/videos/production-process-inside-taylor-swifts-1989-part-1">
+
+  <div class="tra-playlist-wrapper tra-single-video-hero">
+
+    <div class="tra-playlist-active">
+      <div class="field field--name-field-video field--type-file field--label-hidden"><div class="field__items"><div class="field__item even"><div class="tra-sticky-video-wrapper">
+        <div class="tra-sticky-video"><div id="file-28245" class="file file-file file-text-oembed" class="file file-file file-text-oembed">
+
+        <h2 class="element-invisible"><a href="/file/28245"></a></h2>
+    
+  
+  <div class="content">
+    <span class="file"><img class="file-icon" alt="" title="text/oembed" src="/modules/file/icons/text-x-generic.png" /> <a href="http://player.ooyala.com/v3/asset/s1cms2eDoAi1Q1opfe9Nsptj0McS7cN7" type="text/oembed; length=0"></a></span>  </div>
+
+  
+</div>
+<div class="tra-sticky-video-title">
+        <span class="label">Now Playing&nbsp;</span>
+        <span class="title">Production & process: Inside Taylor Swift's '1989' (part 1)</span>
+      </div><div class="tra-sticky-video-close"><button>Close</button></div></div></div></div></div></div>
+      <div class="video-details">
+        <div class="video-details-content">
+          <div class="video-details-scroller">
+            <div class="video-single-fields">
+                                            <h2 class="node__title"><a href="/grammys/videos/production-process-inside-taylor-swifts-1989-part-1" rel="bookmark">Production &amp; process: Inside Taylor Swift&#039;s &#039;1989&#039; (part 1)</a></h2>
+                            <span property="dc:title" content="Production &amp; process: Inside Taylor Swift&#039;s &#039;1989&#039; (part 1)" class="rdf-meta element-hidden"></span>              <div class="field field--name-body field--type-text-with-summary field--label-hidden"><div class="field__items"><div class="field__item even" property="content:encoded"><p>Explore the production and songwriting process behind <strong><a href="/grammys/artists/taylor-swift" target="_self">Taylor Swift</a></strong>'s chart-topping fifth album, <em>1989,</em> with Swift herself. In this intimate listening session presented by <strong><a href="https://www.grammypro.com/chapters/nashville" target="_blank">The Recording Academy Nashville Chapter</a></strong> and the <strong><a href="https://www.grammypro.com/producers-engineers-wing" target="_blank">Producers &amp; Engineers Wing</a></strong>, Swift shares never-before-heard demos and personal cell phone videos from her experience crafting <em>1989</em><i> </i>with co-executive producer Max Martin.</p>
+<p>In Part 1 of this three-part series, Swift recounts the musical journey that led to <em>1989</em> and dissects the creation of "<strong><a href="https://www.youtube.com/watch?v=e-ORhEE9VVg" target="_blank">Blank Space</a></strong>," recorded with Martin and Shellback. Parts 2 and 3 explore Swift's collaborations with Jack Antonoff on "Out Of The Woods," Ryan Tedder on "I Know Places," Imogen Heap on "Clean," and Martin and Shellback on "<strong><a href="https://www.youtube.com/watch?v=nfWlot6h_JM" target="_blank">Shake It Off</a></strong>."</p>
+<p><strong><a href="https://www.grammypro.com/professional-development/video/listening-session-taylor-swift-1989-part-2" target="_blank">Watch <i>1989</i> Listening Session: Part 2 at GRAMMYPro.com </a></strong><br /><br /><strong><a href="https://www.grammypro.com/professional-development/video/listening-session-taylor-swift-1989-part-3" target="_blank">Watch <i>1989</i> Listening Session: Part 3 at GRAMMYPro.com</a></strong></p>
+</div></div></div><div class="simple-share-links">
+      <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.grammy.com%2Fgrammys%2Fvideos%2Fproduction-process-inside-taylor-swifts-1989-part-1" data-destination="https://www.grammy.com/grammys/videos/production-process-inside-taylor-swifts-1989-part-1" class="simple-share-link simple-share-link-facebook"
+      target="_blank">
+      Facebook    </a>
+      <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.grammy.com%2Fgrammys%2Fvideos%2Fproduction-process-inside-taylor-swifts-1989-part-1" data-destination="https://www.grammy.com/grammys/videos/production-process-inside-taylor-swifts-1989-part-1" class="simple-share-link simple-share-link-twitter"
+      target="_blank">
+      Twitter    </a>
+      <a href="mailto:?body=https%3A%2F%2Fwww.grammy.com%2Fgrammys%2Fvideos%2Fproduction-process-inside-taylor-swifts-1989-part-1&subject=Production%20%26amp%3B%20process%3A%20Inside%20Taylor%20Swift%26%23039%3Bs%20%26%23039%3B1989%26%23039%3B%20%28part%201%29" data-destination="https://www.grammy.com/grammys/videos/production-process-inside-taylor-swifts-1989-part-1" class="simple-share-link simple-share-link-email"
+      >
+      Email    </a>
+  </div>
+            </div>
+          </div>
+
+          <div class="video-playlist-ad">
+            <div id="block-dfp-9d583e2449d1cf3fb2156c9843595b40" class="block block--dfp block--dfp-9d583e2449d1cf3fb2156c9843595b40 block--dfp-ad--desktop block--dfp-ad--desktop--300-250 tra_desktop_grammy_video_2_300-250-block-wrapper">
+        <div class="block__content">
+    <div id="dfp-ad-tra_desktop_grammy_video_2_300_250-5a89ff638df3f-wrapper" class="dfp-tag-wrapper" style="width: 300px; height: 250px;">
+<div  id="dfp-ad-tra_desktop_grammy_video_2_300_250-5a89ff638df3f" class="dfp-tag-wrapper">
+    <script type="text/javascript">
+    googletag.cmd.push(function() {
+      googletag.display("dfp-ad-tra_desktop_grammy_video_2_300_250-5a89ff638df3f");
+    });
+  </script>
+</div>
+</div>  </div>
+</div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+
+</article>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+</div>
+  </div>
+  </header>
+
+  <div class="l-main">
+    <div class="l-content" role="main">
+        <div class="l-region l-region--highlighted">
+    <div id="block-dfp-2a7eadfcc764faa3620bd249709567b5" class="block block--dfp block--dfp-2a7eadfcc764faa3620bd249709567b5 block--dfp-ad--desktop block--dfp-ad--desktop--728-90 tra_desktop_grammy_video_1_728-90-block-wrapper">
+        <div class="block__content">
+    <div id="dfp-ad-tra_desktop_grammy_video_1_728_90-5a89ff640a436-wrapper" class="dfp-tag-wrapper" style="width: 728px; height: 90px;">
+<div  id="dfp-ad-tra_desktop_grammy_video_1_728_90-5a89ff640a436" class="dfp-tag-wrapper">
+    <script type="text/javascript">
+    googletag.cmd.push(function() {
+      googletag.display("dfp-ad-tra_desktop_grammy_video_1_728_90-5a89ff640a436");
+    });
+  </script>
+</div>
+</div>  </div>
+</div>
+<div id="block-dfp-1a9dec1c9c1cf29eded1e674d8a8a3c7" class="block block--dfp block--dfp-1a9dec1c9c1cf29eded1e674d8a8a3c7 block--dfp-ad--mobile block--dfp-ad--mobile--300-50 tra_mobile_grammy_video_1_300-50-block-wrapper">
+        <div class="block__content">
+    <div id="dfp-ad-tra_mobile_grammy_video_1_300_50-5a89ff640ae4f-wrapper" class="dfp-tag-wrapper" style="width: 300px; height: 50px;">
+<div  id="dfp-ad-tra_mobile_grammy_video_1_300_50-5a89ff640ae4f" class="dfp-tag-wrapper">
+    <script type="text/javascript">
+    googletag.cmd.push(function() {
+      googletag.display("dfp-ad-tra_mobile_grammy_video_1_300_50-5a89ff640ae4f");
+    });
+  </script>
+</div>
+</div>  </div>
+</div>
+  </div>
+      
+            <div class="l-content-inner">
+        <div class="l-region l-region--content">
+          <a id="main-content"></a>
+
+                                <h1 id="page-title">Production &amp; process: Inside Taylor Swift&#039;s &#039;1989&#039; (part 1)</h1>
+                    
+          
+          
+          
+          <div id="block-com-ct-video-video-filters-mobile" class="block block--com-ct-video block--com-ct-video-video-filters-mobile">
+        <div class="block__content">
+    
+<header class="video-list-header">
+  <div class="video-list-mobile-title-wrapper com-filters-title-wrapper">
+    <h1 class="video-list-mobile-title com-filters-title">Related Videos</h1>
+    <div class="video-list-filters-toggle-wrapper com-filters-toggle-wrapper">
+      <button class="video-list-filters-toggle com-filters-toggle">Filter</button>
+    </div>
+  </div>
+  <div class="video-list-filters com-filters com-filters-mobile mobile-only">
+    <div class="video-list-filters-close content-list-filters-close com-filters-toggle">Close</div>
+    <div class="video-list-filters-content"></div>
+  </div>
+</header>  </div>
+</div>
+<div id="block-views-videos-related-videos" class="block block--views block--views-videos-related-videos">
+        <div class="block__content">
+    <div class="view view-videos view-id-videos view-display-id-related_videos view-dom-id-0d775d18a27a400941f0267d2d9f35c3">
+        
+      <div class="view-filters">
+      <form class="views-exposed-form-videos-related-videos" action="/" method="get" id="views-exposed-form-videos-related-videos" accept-charset="UTF-8"><div class="form-content"><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-type-wrapper" class="views-exposed-widget views-widget-filter-field_video_category_value">
+                  <label for="edit-type">
+            All Types          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-select form-item-type">
+ <div class="form-checkboxes bef-select-as-checkboxes"><div class="bef-checkboxes"><div class="form-item form-type-bef-checkbox form-item-edit-type-interview">
+ <input type="checkbox" name="type[]" id="edit-type-interview" value="interview"  /> <label class='option' for='edit-type-interview'>Interviews</label>
+</div>
+<div class="form-item form-type-bef-checkbox form-item-edit-type-performances">
+ <input type="checkbox" name="type[]" id="edit-type-performances" value="performances"  /> <label class='option' for='edit-type-performances'>Performances</label>
+</div>
+<div class="form-item form-type-bef-checkbox form-item-edit-type-recaps">
+ <input type="checkbox" name="type[]" id="edit-type-recaps" value="recaps"  /> <label class='option' for='edit-type-recaps'>Recaps</label>
+</div>
+<div class="form-item form-type-bef-checkbox form-item-edit-type-documentary">
+ <input type="checkbox" name="type[]" id="edit-type-documentary" value="documentary"  /> <label class='option' for='edit-type-documentary'>Documentary</label>
+</div>
+<div class="form-item form-type-bef-checkbox form-item-edit-type-sizzles">
+ <input type="checkbox" name="type[]" id="edit-type-sizzles" value="sizzles"  /> <label class='option' for='edit-type-sizzles'>Sizzles</label>
+</div>
+<div class="form-item form-type-bef-checkbox form-item-edit-type-craft">
+ <input type="checkbox" name="type[]" id="edit-type-craft" value="craft"  /> <label class='option' for='edit-type-craft'>Craft</label>
+</div>
+<div class="form-item form-type-bef-checkbox form-item-edit-type-speeches">
+ <input type="checkbox" name="type[]" id="edit-type-speeches" value="speeches"  /> <label class='option' for='edit-type-speeches'>Speeches</label>
+</div>
+<div class="form-item form-type-bef-checkbox form-item-edit-type-compilation">
+ <input type="checkbox" name="type[]" id="edit-type-compilation" value="compilation"  /> <label class='option' for='edit-type-compilation'>Compilation</label>
+</div>
+</div></div>
+</div>
+        </div>
+              </div>
+          <div id="edit-field-pillar-tid-wrapper" class="views-exposed-widget views-widget-filter-field_pillar_tid">
+                  <label for="edit-field-pillar-tid">
+            All Categories          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-select form-item-field-pillar-tid">
+ <div class="form-checkboxes bef-select-as-checkboxes"><div class="bef-checkboxes"><div class="form-item form-type-bef-checkbox form-item-edit-field-pillar-tid-1">
+ <input type="checkbox" name="field_pillar_tid[]" id="edit-field-pillar-tid-1" value="1"  /> <label class='option' for='edit-field-pillar-tid-1'>Recording Academy</label>
+</div>
+<div class="form-item form-type-bef-checkbox form-item-edit-field-pillar-tid-2">
+ <input type="checkbox" name="field_pillar_tid[]" id="edit-field-pillar-tid-2" value="2" checked="checked"  /> <label class='option' for='edit-field-pillar-tid-2'>GRAMMYs</label>
+</div>
+<div class="form-item form-type-bef-checkbox form-item-edit-field-pillar-tid-3">
+ <input type="checkbox" name="field_pillar_tid[]" id="edit-field-pillar-tid-3" value="3"  /> <label class='option' for='edit-field-pillar-tid-3'>Latin GRAMMYs</label>
+</div>
+<div class="form-item form-type-bef-checkbox form-item-edit-field-pillar-tid-7">
+ <input type="checkbox" name="field_pillar_tid[]" id="edit-field-pillar-tid-7" value="7"  /> <label class='option' for='edit-field-pillar-tid-7'>GRAMMY Museum</label>
+</div>
+<div class="form-item form-type-bef-checkbox form-item-edit-field-pillar-tid-4">
+ <input type="checkbox" name="field_pillar_tid[]" id="edit-field-pillar-tid-4" value="4"  /> <label class='option' for='edit-field-pillar-tid-4'>MusiCares</label>
+</div>
+<div class="form-item form-type-bef-checkbox form-item-edit-field-pillar-tid-5">
+ <input type="checkbox" name="field_pillar_tid[]" id="edit-field-pillar-tid-5" value="5"  /> <label class='option' for='edit-field-pillar-tid-5'>Advocacy</label>
+</div>
+<div class="form-item form-type-bef-checkbox form-item-edit-field-pillar-tid-6">
+ <input type="checkbox" name="field_pillar_tid[]" id="edit-field-pillar-tid-6" value="6"  /> <label class='option' for='edit-field-pillar-tid-6'>Membership</label>
+</div>
+</div></div>
+</div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-videos" name="" value="Apply" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>    </div>
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+    <article search_type="video" about="/grammys/videos/michael-jackson-adele-album-year-grammy-rewind" typeof="sioc:Item foaf:Document" role="article" class="node node--video node--content-list node--video--content-list">
+
+  <div class="item-thumbnail">
+    <a class="item-thumbnail-link" href="/grammys/videos/michael-jackson-adele-album-year-grammy-rewind">
+      <div class="field field--name-field-video field--type-file field--label-hidden"><div class="field__items"><div class="field__item even"><div id="file-83336" class="file file-video file-video-oembed" class="file file-video file-video-oembed">
+  <div class="content">
+    <img typeof="foaf:Image" src="https://www.grammy.com/sites/com/files/styles/image_square_teaser/public/ooyalathumbs/NmMWMwZTE6g0cY-RvIWjjDIggb1IcqTa.jpg?itok=Z9T46USD" alt="Embedded video media on Ooyala" title="" />  </div>
+</div>
+</div></div></div>    </a>
+  </div>
+
+  <div class="node__content">
+    <div class="title"><a href="/grammys/videos/michael-jackson-adele-album-year-grammy-rewind">Michael Jackson To Adele: Album Of The Year GRAMMY Rewind </a></div>
+    <div class="field field--name-body field--type-text-with-summary field--label-hidden"><div class="field__items"><div class="field__item even" property="content:encoded"><p>Take a trip through GRAMMY history and look back at some of the incredible artists and albums that have been recognized for Album Of The Year.</p>
+</div></div></div><div class="field field--name-field-pillar field--type-taxonomy-term-reference field--label-hidden"><div class="field__items"><div class="field__item even">GRAMMYs</div></div></div>        <div class="created-date">
+      Jan 19, 2018 - 3:54 pm    </div>
+  </div>
+</article>
+  </div>
+    <div class="views-row views-row-2 views-row-even">
+    <article search_type="video" about="/grammys/videos/taylor-swifts-1989-record" typeof="sioc:Item foaf:Document" role="article" class="node node--video node--content-list node--video--content-list">
+
+  <div class="item-thumbnail">
+    <a class="item-thumbnail-link" href="/grammys/videos/taylor-swifts-1989-record">
+      <div class="field field--name-field-video field--type-file field--label-hidden"><div class="field__items"><div class="field__item even"><div id="file-83306" class="file file-video file-video-oembed" class="file file-video file-video-oembed">
+  <div class="content">
+    <img typeof="foaf:Image" src="https://www.grammy.com/sites/com/files/styles/image_square_teaser/public/ooyalathumbs/k1aHEwZTE6coV8TEjBs8oeOo43td19bV.jpg?itok=QQm3WlDC" alt="Embedded video media on Ooyala" title="" />  </div>
+</div>
+</div></div></div>    </a>
+  </div>
+
+  <div class="node__content">
+    <div class="title"><a href="/grammys/videos/taylor-swifts-1989-record">Taylor Swift&#039;s &#039;1989&#039;: For The Record</a></div>
+    <div class="field field--name-body field--type-text-with-summary field--label-hidden"><div class="field__items"><div class="field__item even" property="content:encoded"><p>Revisit T-Swift's 2014 pop masterpiece that led to her history-making GRAMMY moment</p>
+</div></div></div><div class="field field--name-field-pillar field--type-taxonomy-term-reference field--label-hidden"><div class="field__items"><div class="field__item even">GRAMMYs</div></div></div>        <div class="created-date">
+      Jan 18, 2018 - 1:40 pm    </div>
+  </div>
+</article>
+  </div>
+    <div class="views-row views-row-3 views-row-odd">
+    <article search_type="video" about="/grammys/videos/taylor-swift-wins-album-year-grammy-1989" typeof="sioc:Item foaf:Document" role="article" class="node node--video node--content-list node--video--content-list">
+
+  <div class="item-thumbnail">
+    <a class="item-thumbnail-link" href="/grammys/videos/taylor-swift-wins-album-year-grammy-1989">
+      <div class="field field--name-field-video field--type-file field--label-hidden"><div class="field__items"><div class="field__item even"><div id="file-28448" class="file file-video file-video-oembed" class="file file-video file-video-oembed">
+  <div class="content">
+    <img typeof="foaf:Image" src="https://www.grammy.com/sites/com/files/styles/image_square_teaser/public/media-oembed/ak.c.ooyala.com/o3aW94MDE6l2xW1aHMn0ArGK3XBNBkrz/promo280011727?itok=WIJE2ND_" alt="Taylor Swift wins Album Of The Year GRAMMY for &#039;1989&#039;" title="" />  </div>
+</div>
+</div></div></div>    </a>
+  </div>
+
+  <div class="node__content">
+    <div class="title"><a href="/grammys/videos/taylor-swift-wins-album-year-grammy-1989">Taylor Swift wins Album Of The Year GRAMMY for &#039;1989&#039;</a></div>
+    <div class="field field--name-body field--type-text-with-summary field--label-hidden"><div class="field__items"><div class="field__item even" property="content:encoded"><p><em>(Taylor Swift accepts the GRAMMY for Album Of The Year at the 58th GRAMMY Awards on Feb. 15, 2016, at Staples Center in Los Angeles.)</em></p></div></div></div><div class="field field--name-field-pillar field--type-taxonomy-term-reference field--label-hidden"><div class="field__items"><div class="field__item even">GRAMMYs</div></div></div>        <div class="created-date">
+      May 15, 2017 - 1:50 am    </div>
+  </div>
+</article>
+  </div>
+      <div class="injected-ad-wrapper container-2">
+      <div class="ad"><div id="block-dfp-8808abf5374c438ddc75539fbf8014ed" class="block block--dfp block--dfp-8808abf5374c438ddc75539fbf8014ed block--dfp-ad--mobile block--dfp-ad--mobile--300-250 tra_mobile_grammy_video_2_300-250-block-wrapper">
+        <div class="block__content">
+    <div id="dfp-ad-tra_mobile_grammy_video_2_300_250-5a89ff64036a6-wrapper" class="dfp-tag-wrapper" style="width: 300px; height: 250px;">
+<div  id="dfp-ad-tra_mobile_grammy_video_2_300_250-5a89ff64036a6" class="dfp-tag-wrapper">
+    <script type="text/javascript">
+    googletag.cmd.push(function() {
+      googletag.display("dfp-ad-tra_mobile_grammy_video_2_300_250-5a89ff64036a6");
+    });
+  </script>
+</div>
+</div>  </div>
+</div>
+</div>
+    </div>
+    <div class="views-row views-row-4 views-row-even">
+    <article search_type="video" about="/grammys/videos/2016-grammys-taylor-swift-kendrick-lamar-win-big" typeof="sioc:Item foaf:Document" role="article" class="node node--video node--content-list node--video--content-list">
+
+  <div class="item-thumbnail">
+    <a class="item-thumbnail-link" href="/grammys/videos/2016-grammys-taylor-swift-kendrick-lamar-win-big">
+      <div class="field field--name-field-video field--type-file field--label-hidden"><div class="field__items"><div class="field__item even"><div id="file-28457" class="file file-video file-video-oembed" class="file file-video file-video-oembed">
+  <div class="content">
+    <img typeof="foaf:Image" src="https://www.grammy.com/sites/com/files/styles/image_square_teaser/public/media-oembed/ak.c.ooyala.com/RzMXF4MDE6yENoemNSUyfHEaHvpQyF2b/promo294445240?itok=M2_0F04I" alt="2016 GRAMMYs: Taylor Swift, Kendrick Lamar win big" title="" />  </div>
+</div>
+</div></div></div>    </a>
+  </div>
+
+  <div class="node__content">
+    <div class="title"><a href="/grammys/videos/2016-grammys-taylor-swift-kendrick-lamar-win-big">2016 GRAMMYs: Taylor Swift, Kendrick Lamar win big</a></div>
+    <div class="field field--name-body field--type-text-with-summary field--label-hidden"><div class="field__items"><div class="field__item even" property="content:encoded"><p>Did you miss anything from Music's Biggest Night? GRAMMY Live host Ted Stryker recaps the big winners, performance highlights, major storylines, and more in our 58th GRAMMY Awards wrap-up show. </p>
+</div></div></div><div class="field field--name-field-pillar field--type-taxonomy-term-reference field--label-hidden"><div class="field__items"><div class="field__item even">GRAMMYs</div></div></div>        <div class="created-date">
+      May 15, 2017 - 1:50 am    </div>
+  </div>
+</article>
+  </div>
+    <div class="views-row views-row-5 views-row-odd">
+    <article search_type="video" about="/grammys/videos/grammys-unexpected-moments" typeof="sioc:Item foaf:Document" role="article" class="node node--video node--content-list node--video--content-list">
+
+  <div class="item-thumbnail">
+    <a class="item-thumbnail-link" href="/grammys/videos/grammys-unexpected-moments">
+      <div class="field field--name-field-video field--type-file field--label-hidden"><div class="field__items"><div class="field__item even"><div id="file-28503" class="file file-video file-video-oembed" class="file file-video file-video-oembed">
+  <div class="content">
+    <img typeof="foaf:Image" src="https://www.grammy.com/sites/com/files/styles/image_square_teaser/public/media-oembed/ak.c.ooyala.com/5ocmczNzE6HkynOZr9Vw0kgRQ648dfcb/a6ordDA_nwxILuLn4xMDoxOjA4MTsiGN?itok=sdzoZesb" alt="The GRAMMYs&#039; Unexpected Moments" title="" />  </div>
+</div>
+</div></div></div>    </a>
+  </div>
+
+  <div class="node__content">
+    <div class="title"><a href="/grammys/videos/grammys-unexpected-moments">The GRAMMYs&#039; Unexpected Moments</a></div>
+    <div class="field field--name-body field--type-text-with-summary field--label-hidden"><div class="field__items"><div class="field__item even" property="content:encoded"><p>A look back at a collection of unexpected moments in GRAMMY history. Who will surprise us next? Watch the 59th GRAMMY Awards on Sunday, Feb. 12, 2017, on CBS at 8 p.m. ET/PT.</p>
+</div></div></div><div class="field field--name-field-pillar field--type-taxonomy-term-reference field--label-hidden"><div class="field__items"><div class="field__item even">GRAMMYs</div></div></div>        <div class="created-date">
+      May 15, 2017 - 1:50 am    </div>
+  </div>
+</article>
+  </div>
+    <div class="views-row views-row-6 views-row-even">
+    <article search_type="video" about="/grammys/videos/2017-grammys-believe-music%E2%84%A2" typeof="sioc:Item foaf:Document" role="article" class="node node--video node--content-list node--video--content-list">
+
+  <div class="item-thumbnail">
+    <a class="item-thumbnail-link" href="/grammys/videos/2017-grammys-believe-music%E2%84%A2">
+      <div class="field field--name-field-video field--type-file field--label-hidden"><div class="field__items"><div class="field__item even"><div id="file-28510" class="file file-video file-video-oembed" class="file file-video file-video-oembed">
+  <div class="content">
+    <img typeof="foaf:Image" src="https://www.grammy.com/sites/com/files/styles/image_square_teaser/public/media-oembed/ak.c.ooyala.com/l0aTcyODE6EVacyIGrjWE6DXswLm7R3z/promo305256514?itok=vQcNlVs7" alt="2017 GRAMMYs: Believe In Music™" title="" />  </div>
+</div>
+</div></div></div>    </a>
+  </div>
+
+  <div class="node__content">
+    <div class="title"><a href="/grammys/videos/2017-grammys-believe-music%E2%84%A2">2017 GRAMMYs: Believe In Music™</a></div>
+    <div class="field field--name-body field--type-text-with-summary field--label-hidden"><div class="field__items"><div class="field__item even" property="content:encoded"><p>The Recording Academy and TBWA\Chiat\Day have teamed for the 10th year to promote the GRAMMY Awards with a new campaign titled "Believe In Music™." In the first campaign spot, <b><a href="/grammys/artists/kendrick-lamar">Kendrick Lamar</a></b>, <b><a href="/grammys/artists/taylor-swift">Taylor Sw</a></b></p></div></div></div><div class="field field--name-field-pillar field--type-taxonomy-term-reference field--label-hidden"><div class="field__items"><div class="field__item even">GRAMMYs</div></div></div>        <div class="created-date">
+      May 15, 2017 - 1:50 am    </div>
+  </div>
+</article>
+  </div>
+    <div class="views-row views-row-7 views-row-odd">
+    <article search_type="video" about="/grammys/videos/witness-grammy-effect" typeof="sioc:Item foaf:Document" role="article" class="node node--video node--content-list node--video--content-list">
+
+  <div class="item-thumbnail">
+    <a class="item-thumbnail-link" href="/grammys/videos/witness-grammy-effect">
+      <div class="field field--name-field-video field--type-file field--label-hidden"><div class="field__items"><div class="field__item even"><div id="file-28540" class="file file-video file-video-oembed" class="file file-video file-video-oembed">
+  <div class="content">
+    <img typeof="foaf:Image" src="https://www.grammy.com/sites/com/files/styles/image_square_teaser/public/media-oembed/ak.c.ooyala.com/82OGwwOTE6GIzUKOcPmFlwW-zfUh0ky7/DLOokYc8UKM-fB9H4xMDoxOjA4MTsiGN?itok=QRcOpXNK" alt="Witness The GRAMMY Effect" title="" />  </div>
+</div>
+</div></div></div>    </a>
+  </div>
+
+  <div class="node__content">
+    <div class="title"><a href="/grammys/videos/witness-grammy-effect">Witness The GRAMMY Effect</a></div>
+    <div class="field field--name-body field--type-text-with-summary field--label-hidden"><div class="field__items"><div class="field__item even" property="content:encoded"><p>The GRAMMY Awards has the unique power to harness fans, artists and social media, spur music sales and spark a global conversation.</p></div></div></div><div class="field field--name-field-pillar field--type-taxonomy-term-reference field--label-hidden"><div class="field__items"><div class="field__item even">GRAMMYs</div></div></div>        <div class="created-date">
+      May 15, 2017 - 1:50 am    </div>
+  </div>
+</article>
+  </div>
+    <div class="views-row views-row-8 views-row-even">
+    <article search_type="video" about="/grammys/videos/2010s-which-grammy-performances-do-you-remember" typeof="sioc:Item foaf:Document" role="article" class="node node--video node--content-list node--video--content-list">
+
+  <div class="item-thumbnail">
+    <a class="item-thumbnail-link" href="/grammys/videos/2010s-which-grammy-performances-do-you-remember">
+      <div class="field field--name-field-video field--type-file field--label-hidden"><div class="field__items"><div class="field__item even"><div id="file-28546" class="file file-video file-video-oembed" class="file file-video file-video-oembed">
+  <div class="content">
+    <img typeof="foaf:Image" src="https://www.grammy.com/sites/com/files/styles/image_square_teaser/public/media-oembed/ak.c.ooyala.com/txbXBhOTE6yEJslD5lBt6JiU3-bmCXNm/promo310090540?itok=DcrutlV2" alt="2010s: Which GRAMMY Performances Do You Remember?" title="" />  </div>
+</div>
+</div></div></div>    </a>
+  </div>
+
+  <div class="node__content">
+    <div class="title"><a href="/grammys/videos/2010s-which-grammy-performances-do-you-remember">2010s: Which GRAMMY Performances Do You Remember?</a></div>
+    <div class="field field--name-body field--type-text-with-summary field--label-hidden"><div class="field__items"><div class="field__item even" property="content:encoded"><p>The GRAMMY Awards have presented an impressive array of performers over the years. From Justin Bieber, Drake and Taylor Swift to Bruno Mars, Rihanna and the Foo Fighters, take a look back at GRAMMY performers from the 2010s.</p></div></div></div><div class="field field--name-field-pillar field--type-taxonomy-term-reference field--label-hidden"><div class="field__items"><div class="field__item even">GRAMMYs</div></div></div>        <div class="created-date">
+      May 15, 2017 - 1:50 am    </div>
+  </div>
+</article>
+  </div>
+    <div class="views-row views-row-9 views-row-odd">
+    <article search_type="video" about="/grammys/videos/it-was-you-believe-music%E2%84%A2" typeof="sioc:Item foaf:Document" role="article" class="node node--video node--content-list node--video--content-list">
+
+  <div class="item-thumbnail">
+    <a class="item-thumbnail-link" href="/grammys/videos/it-was-you-believe-music%E2%84%A2">
+      <div class="field field--name-field-video field--type-file field--label-hidden"><div class="field__items"><div class="field__item even"><div id="file-28547" class="file file-video file-video-oembed" class="file file-video file-video-oembed">
+  <div class="content">
+    <img typeof="foaf:Image" src="https://www.grammy.com/sites/com/files/styles/image_square_teaser/public/media-oembed/ak.c.ooyala.com/9lMTdiOTE6wYZFzJtAOvrSDVTYRjOvD6/promo310154878?itok=J4-TzNTb" alt="It Was You: Believe In Music™" title="" />  </div>
+</div>
+</div></div></div>    </a>
+  </div>
+
+  <div class="node__content">
+    <div class="title"><a href="/grammys/videos/it-was-you-believe-music%E2%84%A2">It Was You: Believe In Music™</a></div>
+    <div class="field field--name-body field--type-text-with-summary field--label-hidden"><div class="field__items"><div class="field__item even" property="content:encoded"><p>Young women from all walks of life take a powerful GRAMMYs <b><a href="/node/214226">acceptance speech</a></b> by <b><a href="/grammys/artists/taylor-swift">Taylor Swift</a></b> and make it their own mantra of inspiration, hard work and hope. <br /><br />Believe In Music™. </p>
+</div></div></div><div class="field field--name-field-pillar field--type-taxonomy-term-reference field--label-hidden"><div class="field__items"><div class="field__item even">GRAMMYs</div></div></div>        <div class="created-date">
+      May 15, 2017 - 1:50 am    </div>
+  </div>
+</article>
+  </div>
+    <div class="views-row views-row-10 views-row-even">
+    <article search_type="video" about="/grammys/videos/taylor-swift-selena-gomez-58th-grammy-fashion-cam" typeof="sioc:Item foaf:Document" role="article" class="node node--video node--content-list node--video--content-list">
+
+  <div class="item-thumbnail">
+    <a class="item-thumbnail-link" href="/grammys/videos/taylor-swift-selena-gomez-58th-grammy-fashion-cam">
+      <div class="field field--name-field-video field--type-file field--label-hidden"><div class="field__items"><div class="field__item even"><div id="file-28394" class="file file-video file-video-oembed" class="file file-video file-video-oembed">
+  <div class="content">
+    <img typeof="foaf:Image" src="https://www.grammy.com/sites/com/files/styles/image_square_teaser/public/media-oembed/ak.c.ooyala.com/F2cWl4MDE6E2OAzWrrwzGdjOb5zZynfw/UE3mrvK1eZhx1Y-n4xMDoxOjA4MTsiGN?itok=t6zPg9QP" alt="Taylor Swift, Selena Gomez: 58th GRAMMY Fashion Cam " title="" />  </div>
+</div>
+</div></div></div>    </a>
+  </div>
+
+  <div class="node__content">
+    <div class="title"><a href="/grammys/videos/taylor-swift-selena-gomez-58th-grammy-fashion-cam">Taylor Swift, Selena Gomez: 58th GRAMMY Fashion Cam </a></div>
+    <div class="field field--name-body field--type-text-with-summary field--label-hidden"><div class="field__items"><div class="field__item even" property="content:encoded"><p>Taylor Swift and Selena Gomez stop by the red-carpet fashion cam at the 58th Annual GRAMMY Awards on Feb. 15, 2016, at Staples Center in Los Angeles.</p>
+</div></div></div><div class="field field--name-field-pillar field--type-taxonomy-term-reference field--label-hidden"><div class="field__items"><div class="field__item even">GRAMMYs</div></div></div>        <div class="created-date">
+      Feb 17, 2016 - 4:56 pm    </div>
+  </div>
+</article>
+  </div>
+    <div class="views-row views-row-11 views-row-odd">
+    <article search_type="video" about="/grammys/videos/taylor-swift-ed-sheeran-58th-grammy-audience-cam" typeof="sioc:Item foaf:Document" role="article" class="node node--video node--content-list node--video--content-list">
+
+  <div class="item-thumbnail">
+    <a class="item-thumbnail-link" href="/grammys/videos/taylor-swift-ed-sheeran-58th-grammy-audience-cam">
+      <div class="field field--name-field-video field--type-file field--label-hidden"><div class="field__items"><div class="field__item even"><div id="file-28431" class="file file-video file-video-oembed" class="file file-video file-video-oembed">
+  <div class="content">
+    <img typeof="foaf:Image" src="https://www.grammy.com/sites/com/files/styles/image_square_teaser/public/media-oembed/ak.c.ooyala.com/4zMG14MDE6oRonvd_4D7Ei_YgAxWrWUE/yeOkC802fbC1__xn4xMDoxOjA4MTsiGN?itok=z0FiUsLX" alt="Taylor Swift, Ed Sheeran: 58th GRAMMY Audience Cam" title="" />  </div>
+</div>
+</div></div></div>    </a>
+  </div>
+
+  <div class="node__content">
+    <div class="title"><a href="/grammys/videos/taylor-swift-ed-sheeran-58th-grammy-audience-cam">Taylor Swift, Ed Sheeran: 58th GRAMMY Audience Cam</a></div>
+    <div class="field field--name-body field--type-text-with-summary field--label-hidden"><div class="field__items"><div class="field__item even" property="content:encoded"><p>Watch Taylor Swift and Ed Sheeran react to the latter winning the GRAMMY for Song Of The Year, as captured by the GRAMMY audience cam, at the 58th GRAMMY Awards on Feb. 15, 2016, at Staples Center in Los Angeles.</p>
+</div></div></div><div class="field field--name-field-pillar field--type-taxonomy-term-reference field--label-hidden"><div class="field__items"><div class="field__item even">GRAMMYs</div></div></div>        <div class="created-date">
+      Feb 17, 2016 - 3:02 pm    </div>
+  </div>
+</article>
+  </div>
+    <div class="views-row views-row-12 views-row-even">
+    <article search_type="video" about="/grammys/videos/taylor-swift-wins-best-pop-vocal-album" typeof="sioc:Item foaf:Document" role="article" class="node node--video node--content-list node--video--content-list">
+
+  <div class="item-thumbnail">
+    <a class="item-thumbnail-link" href="/grammys/videos/taylor-swift-wins-best-pop-vocal-album">
+      <div class="field field--name-field-video field--type-file field--label-hidden"><div class="field__items"><div class="field__item even"><div id="file-28332" class="file file-video file-video-oembed" class="file file-video file-video-oembed">
+  <div class="content">
+    <img typeof="foaf:Image" src="https://www.grammy.com/sites/com/files/styles/image_square_teaser/public/media-oembed/ak.c.ooyala.com/13eGV4MDE6xq7skf4VnL8_blhf40gw4I/0e9W9u_-JHKKWWCX4xMDoxOjA4MTsiGN?itok=27IyESW-" alt="Taylor Swift Wins Best Pop Vocal Album" title="" />  </div>
+</div>
+</div></div></div>    </a>
+  </div>
+
+  <div class="node__content">
+    <div class="title"><a href="/grammys/videos/taylor-swift-wins-best-pop-vocal-album">Taylor Swift Wins Best Pop Vocal Album</a></div>
+    <div class="field field--name-body field--type-text-with-summary field--label-hidden"><div class="field__items"><div class="field__item even" property="content:encoded"><p>Producer Jack Antonoff accepts the GRAMMY for Best Pop Vocal Album over the phone with Taylor Swift at the 58th Annual GRAMMY Awards Premiere Ceremony on Feb. 15, 2016, in Los Angeles.</p>
+</div></div></div><div class="field field--name-field-pillar field--type-taxonomy-term-reference field--label-hidden"><div class="field__items"><div class="field__item even">GRAMMYs</div></div></div>        <div class="created-date">
+      Feb 17, 2016 - 1:55 pm    </div>
+  </div>
+</article>
+  </div>
+    <div class="views-row views-row-13 views-row-odd">
+    <article search_type="video" about="/grammys/videos/taylor-swift-mark-ronson-58th-grammy-audience-cam" typeof="sioc:Item foaf:Document" role="article" class="node node--video node--content-list node--video--content-list">
+
+  <div class="item-thumbnail">
+    <a class="item-thumbnail-link" href="/grammys/videos/taylor-swift-mark-ronson-58th-grammy-audience-cam">
+      <div class="field field--name-field-video field--type-file field--label-hidden"><div class="field__items"><div class="field__item even"><div id="file-28435" class="file file-video file-video-oembed" class="file file-video file-video-oembed">
+  <div class="content">
+    <img typeof="foaf:Image" src="https://www.grammy.com/sites/com/files/styles/image_square_teaser/public/media-oembed/ak.c.ooyala.com/Q2cm14MDE60iXH1q3w2EF8bJUj1ttrDZ/promo280011265?itok=E6IrYcsW" alt="Taylor Swift, Mark Ronson: 58th GRAMMY Audience Cam" title="" />  </div>
+</div>
+</div></div></div>    </a>
+  </div>
+
+  <div class="node__content">
+    <div class="title"><a href="/grammys/videos/taylor-swift-mark-ronson-58th-grammy-audience-cam">Taylor Swift, Mark Ronson: 58th GRAMMY Audience Cam</a></div>
+    <div class="field field--name-body field--type-text-with-summary field--label-hidden"><div class="field__items"><div class="field__item even" property="content:encoded"><p>Watch Taylor Swift and Mark Ronson converse, as captured by the GRAMMY audience cam, at the 58th GRAMMY Awards on Feb. 15, 2016, at Staples Center in Los Angeles.</p>
+</div></div></div><div class="field field--name-field-pillar field--type-taxonomy-term-reference field--label-hidden"><div class="field__items"><div class="field__item even">GRAMMYs</div></div></div>        <div class="created-date">
+      Feb 17, 2016 - 1:38 pm    </div>
+  </div>
+</article>
+  </div>
+    <div class="views-row views-row-14 views-row-even">
+    <article search_type="video" about="/grammys/videos/taylor-swift-pharrell-williams-58th-grammy-audience-cam" typeof="sioc:Item foaf:Document" role="article" class="node node--video node--content-list node--video--content-list">
+
+  <div class="item-thumbnail">
+    <a class="item-thumbnail-link" href="/grammys/videos/taylor-swift-pharrell-williams-58th-grammy-audience-cam">
+      <div class="field field--name-field-video field--type-file field--label-hidden"><div class="field__items"><div class="field__item even"><div id="file-28436" class="file file-video file-video-oembed" class="file file-video file-video-oembed">
+  <div class="content">
+    <img typeof="foaf:Image" src="https://www.grammy.com/sites/com/files/styles/image_square_teaser/public/media-oembed/ak.c.ooyala.com/tkeW14MDE6P34-j4-2kv5USsJFJ2gatb/promo280013822?itok=WLUGCCPL" alt="Taylor Swift, Pharrell Williams: 58th GRAMMY Audience Cam" title="" />  </div>
+</div>
+</div></div></div>    </a>
+  </div>
+
+  <div class="node__content">
+    <div class="title"><a href="/grammys/videos/taylor-swift-pharrell-williams-58th-grammy-audience-cam">Taylor Swift, Pharrell Williams: 58th GRAMMY Audience Cam</a></div>
+    <div class="field field--name-body field--type-text-with-summary field--label-hidden"><div class="field__items"><div class="field__item even" property="content:encoded"><p>Watch Taylor Swift and Pharrell Williams covnerse, as captured by the GRAMMY audience cam, at the 58th GRAMMY Awards on Feb. 15, 2016, at Staples Center in Los Angeles.</p>
+</div></div></div><div class="field field--name-field-pillar field--type-taxonomy-term-reference field--label-hidden"><div class="field__items"><div class="field__item even">GRAMMYs</div></div></div>        <div class="created-date">
+      Feb 17, 2016 - 1:36 pm    </div>
+  </div>
+</article>
+  </div>
+    <div class="views-row views-row-15 views-row-odd views-row-last">
+    <article search_type="video" about="/grammys/videos/taylor-swift-grammycam" typeof="sioc:Item foaf:Document" role="article" class="node node--video node--content-list node--video--content-list">
+
+  <div class="item-thumbnail">
+    <a class="item-thumbnail-link" href="/grammys/videos/taylor-swift-grammycam">
+      <div class="field field--name-field-video field--type-file field--label-hidden"><div class="field__items"><div class="field__item even"><div id="file-28451" class="file file-video file-video-oembed" class="file file-video file-video-oembed">
+  <div class="content">
+    <img typeof="foaf:Image" src="https://www.grammy.com/sites/com/files/styles/image_square_teaser/public/media-oembed/ak.c.ooyala.com/k4dG94MDE6Dk8fqVPdApHkp283ZGPq58/promo279869442?itok=eKwmQJnZ" alt="Taylor Swift: GRAMMYcam" title="" />  </div>
+</div>
+</div></div></div>    </a>
+  </div>
+
+  <div class="node__content">
+    <div class="title"><a href="/grammys/videos/taylor-swift-grammycam">Taylor Swift: GRAMMYcam</a></div>
+    <div class="field field--name-body field--type-text-with-summary field--label-hidden"><div class="field__items"><div class="field__item even" property="content:encoded"><p>Taylor Swift, as captured by GRAMMYcam, accepts the GRAMMY for Album Of The Year at the 58th GRAMMY Awards on Feb. 15, 2016, at Staples Center in Los Angeles.</p>
+</div></div></div><div class="field field--name-field-pillar field--type-taxonomy-term-reference field--label-hidden"><div class="field__items"><div class="field__item even">GRAMMYs</div></div></div>        <div class="created-date">
+      Feb 17, 2016 - 12:59 pm    </div>
+  </div>
+</article>
+  </div>
+      </div>
+  
+      <ul class="pager pager--infinite-scroll ">
+  <li class="pager__item">
+    
+    <a href="/grammys/videos/production-process-inside-taylor-swifts-1989-part-1?page=1&amp;sf14065875=1&amp;field_pillar_tid%5B0%5D=2" rel="nofollow">Load More</a>
+  </li>
+</ul>
+  
+  
+  
+  
+  
+</div>  </div>
+</div>
+<article search_type="video" about="/grammys/videos/production-process-inside-taylor-swifts-1989-part-1" typeof="sioc:Item foaf:Document" role="article" class="node node--video node--full node--video--full">
+
+  <h2 class="video-title">Production &amp; process: Inside Taylor Swift&#039;s &#039;1989&#039; (part 1)</h2>
+
+  <div class="node__content">
+      </div>
+</article>
+
+                  </div>
+
+          <aside class="l-region l-region--sidebar-second">
+    <div id="block-com-ct-video-video-filters-desktop" class="block block--com-ct-video block--com-ct-video-video-filters-desktop">
+        <div class="block__content">
+    <div class="video-list-filters com-filters"><div class="video-list-filters-content"></div></div>  </div>
+</div>
+<div id="block-dfp-9d583e2449d1cf3fb2156c9843595b40" class="block block--dfp block--dfp-9d583e2449d1cf3fb2156c9843595b40 block--dfp-ad--desktop block--dfp-ad--desktop--300-250 tra_desktop_grammy_video_2_300-250-block-wrapper">
+        <div class="block__content">
+    <div id="dfp-ad-tra_desktop_grammy_video_2_300_250-5a89ff640b831-wrapper" class="dfp-tag-wrapper" style="width: 300px; height: 250px;">
+<div  id="dfp-ad-tra_desktop_grammy_video_2_300_250-5a89ff640b831" class="dfp-tag-wrapper">
+    <script type="text/javascript">
+    googletag.cmd.push(function() {
+      googletag.display("dfp-ad-tra_desktop_grammy_video_2_300_250-5a89ff640b831");
+    });
+  </script>
+</div>
+</div>  </div>
+</div>
+  </aside>
+      </div>
+      <div class="l-content-inner">
+        <div class="l-region l-region--content-bottom">
+            <div class="l-region l-region--content-bottom-full">
+    <div id="block-outbrain-outbrain-horizontal" class="block block--outbrain block--outbrain-outbrain-horizontal">
+        <div class="block__content">
+    <div class="OUTBRAIN" data-src="https://www.grammy.com/grammys/videos/production-process-inside-taylor-swifts-1989-part-1" data-widget-id="TF_6" data-ob-template="TheRecordingAcademy"> </div>
+  </div>
+</div>
+  </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <footer class="l-footer" role="contentinfo">
+    
+<div class="back-to-top"><a href="#" rel="nofollow">Top</a></div>
+
+  <div class="l-region l-region--footer">
+
+    <div class="footer-menu-wrapper">
+      <div class="site-logo-wrapper footer-logo-mobile">
+        <img src="https://www.grammy.com/sites/com/themes/custom/com/logo.png" alt="Logo" class="site-logo" />
+      </div>
+      <nav id="block-menu-menu-pillar-footer" role="navigation" class="block block--menu block--menu-menu-pillar-footer">
+      
+  <ul class="menu"><li class="first expanded"><a href="/recording-academy" class="pillar">Recording Academy</a><ul class="menu"><li class="first leaf"><a href="/recording-academy/about">About</a></li>
+<li class="leaf"><a href="/recording-academy/governance">Governance</a></li>
+<li class="leaf"><a href="/recording-academy/press-room">Press Room</a></li>
+<li class="leaf"><a href="https://www.grammy.org/recording-academy/jobs">Jobs</a></li>
+<li class="last leaf"><a href="/events">Events</a></li>
+</ul></li>
+<li class="expanded"><a href="/grammys" class="pillar">GRAMMYs</a><ul class="menu"><li class="first leaf"><a href="/grammys/awards">Awards</a></li>
+<li class="leaf"><a href="/grammys/news">News</a></li>
+<li class="leaf"><a href="/grammys/videos">Videos</a></li>
+<li class="leaf"><a href="/events?field_pillar_tid%5B%5D=2">Events</a></li>
+<li class="last leaf"><a href="https://grammystore.com/">Store</a></li>
+</ul></li>
+<li class="expanded"><a href="https://www.latingrammy.com" class="pillar" target="_blank">Latin GRAMMYs</a><ul class="menu"><li class="first leaf"><a href="https://www.latingrammy.com/es/calendario-departamento-de-premiaci-n" target="_blank">Awards</a></li>
+<li class="leaf"><a href="https://www.latingrammy.com/es/news" target="_blank">News</a></li>
+<li class="leaf"><a href="https://www.latingrammy.com/es/photos" target="_blank">Photos</a></li>
+<li class="leaf"><a href="https://www.latingrammy.com/es/videos/latest" target="_blank">Videos</a></li>
+<li class="leaf"><a href="https://www.latingrammy.com/es/cultural-foundation" target="_blank">Cultural Foundation</a></li>
+<li class="leaf"><a href="https://www.latingrammy.com/es/my-membership" target="_blank">Members</a></li>
+<li class="last leaf"><a href="https://www.latingrammy.com/es/press" target="_blank">Press</a></li>
+</ul></li>
+<li class="expanded"><a href="http://www.grammymuseum.org" class="pillar" target="_blank">GRAMMY Museum</a><ul class="menu"><li class="first leaf"><a href="http://www.grammymuseum.org/explore" target="_blank">Explore</a></li>
+<li class="leaf"><a href="http://www.grammymuseum.org/exhibits" target="_blank">Exhibits</a></li>
+<li class="leaf"><a href="http://www.grammymuseum.org/education" target="_blank">Education</a></li>
+<li class="leaf"><a href="http://www.grammymuseum.org/support" target="_blank">Support</a></li>
+<li class="leaf"><a href="http://www.grammymuseum.org/programs" target="_blank">Programs</a></li>
+<li class="last leaf"><a href="/grammy-museum/donations" target="_blank">Donate</a></li>
+</ul></li>
+<li class="expanded"><a href="/musicares" class="pillar">MusiCares</a><ul class="menu"><li class="first leaf"><a href="/musicares/about">About</a></li>
+<li class="leaf"><a href="/musicares/programs">Programs</a></li>
+<li class="leaf"><a href="/musicares/donations">Donate</a></li>
+<li class="leaf"><a href="/musicares/news">News</a></li>
+<li class="leaf"><a href="/musicares/videos">Videos</a></li>
+<li class="leaf"><a href="/events?field_pillar_tid%5B%5D=4">Events</a></li>
+<li class="last leaf"><a href="/musicares/person-of-the-year">Person of the Year</a></li>
+</ul></li>
+<li class="expanded"><a href="/advocacy" class="pillar">Advocacy</a><ul class="menu"><li class="first leaf"><a href="/advocacy/about" target="_blank">About</a></li>
+<li class="leaf"><a href="/advocacy/news" target="_blank">News</a></li>
+<li class="leaf"><a href="/advocacy/learn" target="_blank">Learn</a></li>
+<li class="last leaf"><a href="/advocacy/act" target="_blank">Act</a></li>
+</ul></li>
+<li class="last expanded"><a href="https://www.grammypro.com" class="pillar" target="_blank">Membership</a><ul class="menu"><li class="first leaf"><a href="https://www.grammypro.com/about" target="_blank">About</a></li>
+<li class="leaf"><a href="https://www.grammypro.com/join" target="_blank">Apply</a></li>
+<li class="leaf"><a href="https://www.grammypro.com/grammy-u" target="_blank">GRAMMY U</a></li>
+<li class="leaf"><a href="https://www.grammypro.com/producers-engineers-wing" target="_blank">Producers &amp; Engineers Wing</a></li>
+<li class="last leaf"><a href="https://www.grammypro.com/chapters" target="_blank">Chapters</a></li>
+</ul></li>
+</ul></nav>
+<div id="block-block-1" class="block block--block block--block-1">
+        <div class="block__content">
+    <p><style type="text/css">
+<!--/*--><![CDATA[/* ><!--*/
+#block-block-1{
+position: absolute;
+}
+#chat_div{
+    position: fixed;
+    min-width: 600px;
+    max-width: 900px;
+    height: 100%;
+    top: 0px;
+    right: 0px;
+    z-index: 999999;
+-webkit-box-shadow: 0 2px 8px rgba(0,0,0,.09),0 4px 40px rgba(0,0,0,.54)!important;
+    box-shadow: 0 2px 8px rgba(0,0,0,.09),0 4px 40px rgba(0,0,0,.54)!important;
+    display:none;
+}
+@media (max-width: 540px){
+#chat_div{
+max-width: 100%;
+min-width: 100%;
+}
+}
+
+/*--><!]]>*/
+</style></p>
+<div class="fb-customerchat" page_id="36736245747" ref="WEB_EMBED"> </div>
+<script>
+<!--//--><![CDATA[// ><!--
+
+      window.fbMessengerPlugins = window.fbMessengerPlugins || {
+        init: function () {
+          FB.init({
+            appId            : '1639741779665013',
+            autoLogAppEvents : true,
+            xfbml            : true,
+            version          : 'v2.10'
+          });
+        }, callable: []
+      };
+      window.fbAsyncInit = window.fbAsyncInit || function () {
+        window.fbMessengerPlugins.callable.forEach(function (item) { item(); });
+        window.fbMessengerPlugins.init();
+      };
+      setTimeout(function () {
+        (function (d, s, id) {
+          var js, fjs = d.getElementsByTagName(s)[0];
+          if (d.getElementById(id)) { return; }
+          js = d.createElement(s);
+          js.id = id;
+          js.src = "//connect.facebook.net/en_US/sdk/xfbml.customerchat.js";
+          fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+      }, 0);
+
+//--><!]]>
+</script><div id="chat_div"> </div>
+<div id="chat_icon" onclick="showchat();"> </div>
+  </div>
+</div>
+    </div>
+    <div id="footer-legal" class="footer-legal">
+      <div class="site-logo-wrapper footer-logo-desktop">
+        <img src="https://www.grammy.com/sites/com/themes/custom/com/logo.png" alt="Logo" class="site-logo" />
+      </div>
+      <p id="footer-legal-copyright">
+        &copy; 2018 - Recording Academy. All rights reserved.      </p>
+
+      <ul class="links"><li class="menu-1978 first"><a href="/legal">Terms of Service</a></li>
+<li class="menu-1976"><a href="/legal#privacy">Privacy Policy</a></li>
+<li class="menu-1979"><a href="/digital-millenium-copyright-act-notice">Copyright Notice</a></li>
+<li class="menu-1977 last"><a href="/contact">Contact Us</a></li>
+</ul>
+      <p id="footer-legal-disclaimer">
+        Some of the content on this site expresses viewpoints and opinions that are not those of the Recording Academy. Responsibility for the accuracy of information provided in stories not written by or specifically prepared for the Academy lies with the story's original source or writer. Content on this site does not reflect an endorsement or recommendation of any artist or music by the Recording Academy.      </p>
+    </div>
+  </div>
+  </footer>
+</div>
+  
+<!-- START Parse.ly Include: Synchronous -->
+<script data-parsely-site="grammy.com" id="parsely-cfg" src="//d1z2jf7jlzjs58.cloudfront.net/code/ptrack-v0.9.2-engaged-time-slots-sync-video.js"></script>
+<!-- END Parse.ly Include: Synchronous --><script type="text/javascript">
+<!--//--><![CDATA[//><!--
+  var _qevents = _qevents || [];
+  (function() {
+    var elem = document.createElement('script');
+    elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+    elem.async = true;
+    elem.type = "text/javascript";
+    var scpt = document.getElementsByTagName('script')[0];
+    scpt.parentNode.insertBefore(elem, scpt);
+  })();
+  _qevents.push({qacct:"p-6E7VtLJEcC5ky"});
+//--><!]]>
+</script>
+<noscript>
+  <div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-6E7VtLJEcC5ky.gif" border="0" height="1" width="1" alt="Quantcast"/></div>
+</noscript>
+<script src="https://www.grammy.com/sites/com/files/js/js_1Fm9dfsQeycZ66p7SirJyc-dZ-_P0B152HigSjzTiig.js"></script>
+<script>
+      setTimeout(function(){var a=document.createElement("script");
+      var b=document.getElementsByTagName('script')[0];
+      a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0043/2010.js";
+      a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+      </script>
+<script src="https://www.grammy.com/sites/com/files/js/js_5FSUcbBCth8QkaKJx5gsSdHFnOiGDoJV7cmEJ7hbhDA.js"></script>
+</body>
+</html>
