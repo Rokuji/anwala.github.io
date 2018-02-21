@@ -1,0 +1,319 @@
+https://www.globalcitizen.org/en/content/global-citizen-apporte-la-musique-et-le-changement/
+Global Citizen Brings Music, and Change, to Canada
+      document.documentElement.setAttribute('data-useragent',  navigator.userAgent);
+      document.documentElement.setAttribute('data-iframe', !!window.frameElement);
+      if (window.frameElement) {
+        var parentUrl = window.parent.location.pathname;
+        var urlContainsQueryParams = window.location.href.match(/\?/);
+        var queryString = (urlContainsQueryParams ? '&' : '?') + "parent=" + encodeURI(parentUrl);
+        var newUrl = window.location.href + queryString;
+        window.history.replaceState(null, null, newUrl);
+      }
+    
+  
+   
+      .headline__category--advocacy {
+        background-color: #D62027;
+      }
+    
+  
+   
+      .headline__category--opinion {
+        background-color: #3FB34F;
+      }
+    
+  
+   
+      .headline__category--partner {
+        background-color: #FF6600;
+      }
+    
+  
+   
+      .headline__category--impact {
+        background-color: #0072bc;
+      }
+    
+  
+   
+      .headline__category--rewards {
+        background-color: #706EBC;
+      }
+    
+  
+
+      var _vwo_code=(function(){
+      var account_id=170957,
+      settings_tolerance=2000,
+      library_tolerance=2500,
+      use_existing_jquery=false,
+      // DO NOT EDIT BELOW THIS LINE
+      f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+    
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  (function() {
+      var gads = document.createElement('script');
+    gads.async = true;
+    gads.type = 'text/javascript';
+    var useSSL = 'https:' == document.location.protocol;
+    gads.src = (useSSL ? 'https:' : 'http:') +
+      '//www.googletagservices.com/tag/js/gpt.js';
+    var node = document.getElementsByTagName('script')[0];
+    node.parentNode.insertBefore(gads, node);
+
+  })();
+
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/14736946/globalcitizen_contentpage_top_square', [300, 250], 'div-gpt-ad-1445419019870-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-33907097-1', {'alwaysSendReferrer': true, 'cookieDomain': 'none'});
+  
+  ga('set', 'page', window.location.pathname);
+  ga('send', 'pageview');
+
+
+    $(function() {
+      new TrackLinkClick().trackLinkClick(
+        '.section-whats-trending a.read-more',
+        'Trending stories',
+        'Read more link',
+        'Navigate'
+      );
+    });
+  ×
+                
+                  Welcome back!
+                  Sign in to start taking action.
+                
+              Not a Global Citizen yet?
+                Sign upSign in  with FacebookorSubmitRemember meForget your password?×
+          Thanks for signing up as a global citizen. In order to create your account we need you to provide your email address. You can check out our Privacy Policy to see how we safeguard and use the information you provide us with. If your Facebook account does not have an attached e-mail address, you'll need to add that before you can sign up.
+        Rerequest  with Facebook×This account has been deactivated.
+          Please contact us at contact@globalcitizen.org if you would like to re-activate your account.
+        IssuesGirls & WomenHealthEducationFinance & InnovationFood & HungerWater & SanitationEnvironmentCitizenshipAboutWho We AreImpactFAQsContact UsJobsContestsTake ActionCampaignsThe Global GoalsHealthy PlanetBarriers#SheDecidesChildrenThink Local#RefugeesCrises and EmergenciesGlobal Citizenship#LeveltheLawThe People's Report Card#HereTogetherGlobal Citizen YearRewardsGlobal Citizen FestivalCommunityPartnersAwardsWaislitz AwardCurtis Scholarship2016 Global Citizen Youth Advocates SymposiumVideosStoreAbout UsSearch
+  $(function() {
+    var languageSelect = React.createElement(LanguageSelect, {});
+    ReactDOM.render(languageSelect, document.getElementById('languageSelectContainer'))
+  });
+Take ActionRewardsFestivalImpactCommunityGirls & WomenHealthEducationFinance & InnovationFood & HungerWater & SanitationEnvironmentCitizenship
+    $(function() {
+      var container = document.getElementById('Nav');
+      var component = React.createElement(Nav, {
+        staticAssetPath: '/static/',
+        languageCodeInput: '#languageCode',
+        setLanguageForm: '#setLanguage'
+      });
+      ReactDOM.render(component, container);
+    });
+
+    $(document).ready(function() {
+      if(window.location.pathname.startsWith('/de/')) {
+        $('.wrapper-nav').addClass('multiwrap');
+      }
+
+      if ($('#nav-issues').height() > 24) {
+        $('.wrapper-nav').addClass('multiwrap');
+      }
+    });
+  Global Citizen is a community of people like you
+        People who want to learn about and take action on the
+        world’s biggest challenges.
+        Extreme poverty ends with you.
+        Learn more1. Get Informed
+          
+          Check out original content and videos published every day to help you
+          learn about the issues that mean the most to you.
+          
+        2. Take Action
+          
+          Send petitions, emails, or tweets to world leaders. Call governments or
+          join rallies. We offer a variety of ways to make your voice heard.
+          
+        3. Connect with Others
+          
+          Meet other Global Citizens who care about the same issues you do. Keep
+          updated on what they're doing to change the world.
+          
+        Sign UpFind out more about Global Citizen
+  $(function() {
+    new LearnMore().call();
+  });
+
+              
+              This ‘Remarkable’ Breakthrough May Reverse The Effects of Alzheimer’s
+            
+              
+              The Most Dangerous Diseases You’ve Never Heard of
+            
+              
+              This Australian MP With an Autistic Child Just Launched a Great Defense of Vaccines
+            
+            Aug. 16, 2016
+          
+  $(function() {
+    bindComponentToDiv('content-like-9564-side', ContentLike, { contentId: 9564 });
+  });
+  HealthGlobal Citizen Brings Music, and Change, to CanadaCanada hosts the Global Citizen concert.  ShareTweetEmail
+            Aug. 16, 2016
+          This Saturday, Global Citizen is hosting our first-ever concert in Canada. Global Citizen: A Concert to End Aids, Tuberculosis, and Malaria is bringing together top musical guests with global dignitaries to celebreate the replenishment of The Global Fund. Tune in to watch it live on Sept. 17 at 7 p.m. on Fibe TV, channel 1158; watch on demand on Fibe TV, channel 1, or stream it at www.iheartradio.ca.Started in NYC in 2012, Global Citizen has a rich history of featuring some of the world’s biggest musical acts on stage while championing the world’s more dire issues. Past guests include Beyoncé, Pearl Jam, and Coldplay, who stood alongside some of the world’s most influential leaders, including Michelle Obama, Ban Ki-Moon, and Malala Yousafzai, with a shared goal: to eradicate extreme poverty from the world.This is more than just a concert or conference — it’s a celebration of the progress we’ve made to make the world a more equal, accessible place for all. It’s also an opportunity to hold world leaders accountable to the commitments they have made to the world.And now the Global Citizen concert 
+is coming to Canada
+.On the evening of September 17, music artist, world leaders, and Global Citizens will come together at the Bell Centre in Montreal for a historic night of music and positive policy change.Why now? Because on September 16, Canada is hosting the Global Fund Replenishment summit. Leaders from all over the world will be joining Prime Minister Justin Trudeau to pledge commitments to fight the end of HIV/AIDS, TB, and malaria.Not only is Prime Minister Trudeau hosting this event — he’s pledged $785 million to the fund over the next three years.With so many eyes on the world leaders in Canada, it’s a perfect time for Canadians to take action to support the Global Fund. Music artists Usher, Half Moon Run, Grimes, Metric, and Charlotte Cardin will join hosts Maripiere Morin, Patrick Langlois, and George Stroumboulopoulos to celebrate the progress being made in the fight to end these brutal diseases.And you can be there — for free. All you need to do is take action.Global Citizen and the Global Fund want to make a real difference in the fight against AIDS/HIV, TB, and malaria, but we need your help people all over the world. You can do the right thing by taking action on these issues. Complete all five actions, and you’ll be entered into the drawing of tickets to the concert.And more importantly, the more actions you take, the more the world will see how Canada is a leader in the global community.Ready to take action?TopicsHealthCanadaComments 
+  $(function() {
+    bindComponentToDiv('content-like-9564-bottom', ContentLike, { contentId: 9564 });
+  });
+  ShareTweetEmail
+        
+          What's Trending In Health
+        
+      Health
+              
+              This ‘Remarkable’ Breakthrough May Reverse The Effects of Alzheimer’s
+          
+    
+
+  By
+  
+    
+      David BrandFeb. 16, 2018An experiment “completely reversed” the buildup of proteins linked to the disease in mice. Read MoreHealth
+              
+              The Most Dangerous Diseases You’ve Never Heard of
+          
+    
+
+  By
+  
+    
+      Jackie MarchildonJan. 18, 2018More than 1 billion were treated last year. Read MoreHealth
+              
+              This Australian MP With an Autistic Child Just Launched a Great Defense of Vaccines
+          
+    
+
+  By
+  
+    
+      Imogen CalderwoodFeb. 13, 2018She hates when people link vaccinations and autism. Read MoreABOUTWho We AreImpactFAQContact UsJobsJOIN THE CONVERSATIONPrivacyTerms & Conditions© 2012-2018 Global Poverty Project, Inc All Rights Reserved
+        $(function() {
+          ReactDOM.render(
+            React.createElement(CanadaLanguagePopover, {}),
+            document.getElementById('canada-language-popover')
+          );
+        });
+      
+    $(document).ready(function() {
+      $(".comments-toggle").click(function(event) {
+        event.preventDefault();
+        $(".fb-comments-wrapper").toggleClass('slidedown').toggleClass('slideup');
+        $(this).find("i").toggleClass('fa-caret-down').toggleClass('fa-caret-up');
+      });
+    });
+  
+ $(document).ready(function() {
+     $('.facebook-share').on('click', function() {
+         FB.ui({
+             method: 'share',
+             href: 'https://www.globalcitizen.org/en/content/global-citizen-apporte-la-musique-et-le-changement/'
+         }, function() {}
+         );
+     });
+ });
+
+  $(function() {
+    var contentEndpoint = '/api/content/';
+    var contentID = 9564;
+    new IdentifyUser().call();
+
+    var shareTrackingAttrs = {
+      itemID: contentID
+    };
+
+    if (window.location.pathname.indexOf('/content/') > -1) {
+      shareTrackingAttrs.itemType = 'content';
+    } else if (window.location.pathname.indexOf('/action/') > -1) {
+      shareTrackingAttrs.itemType = 'action';
+    }
+    window.shareItemTracker = new TrackSharedItem(shareTrackingAttrs);
+
+    new TrackContentSession({
+      contentEndpoint: contentEndpoint,
+      contentID: contentID,
+      contentElementSelector: '#article-content',
+    }).call();
+
+    
+      if ($('#newsletter-container').length > 0) { 
+        ReactDOM.render(
+          React.createElement(NewsletterWidget, {}),
+          document.getElementById('newsletter-container')
+        );
+      }
+    
+
+  });
+
+  $(document).ready(function() {
+    $('.article-page-root iframe[src*="youtube"], .article-page-root iframe[src*="video"], .article-page-root iframe[src*="giphy"]').wrap('<div class="responsive-video-embed">');
+  });
+
+    window.fbAsyncInit = function() {
+      FB.init({
+        appId      : '167247350078234',
+        xfbml      : true,
+        version    : 'v2.8'
+      });
+    };
+    (function(d, s, id){ var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) {return;} js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/sdk.js"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));
+  
+          English (en)
+        
+          Deutsch (de)
+        
+          français (fr)
+        
+          español (es)
+        
+    $(function() {
+      DialogUtils.polyfillDialogs();
+
+          var shadowUserClient = new ShadowUserClient();
+          shadowUserClient.getShadowUser(function(props) {
+            props.shadowUserClient = shadowUserClient;
+
+            if (window.ga !== undefined) {
+              props.analytics = ga;
+            } else {
+              props.analytics = function(action, actionType, actionLocation) {
+                console.log("action: " + action);
+                console.log("actionType: " + actionType);
+                console.log("actionLocation: " + actionLocation);
+              }
+            };
+
+            var reactRegisterDialog = React.createElement(RegisterDialog, props);
+            ReactDOM.render(reactRegisterDialog, document.getElementById("registerDialogContainer"));
+        });
+    });
+  
+   $(function() {
+     var cookieWarning = React.createElement(CookieWarning, {});
+     ReactDOM.render(cookieWarning, document.getElementById('cookie-warning'));
+   });
+  
+  $(document).ready(function($) {
+	  $('a')
+		  .filter('[href^="http"]')
+		  .not('[href*="' + window.location.host + '"]')
+		  .attr('rel', 'noopener noreferrer')
+		  .attr('target', '_blank');
+  });
+  

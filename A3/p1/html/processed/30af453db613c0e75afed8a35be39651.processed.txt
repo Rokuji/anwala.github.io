@@ -1,0 +1,1471 @@
+http://www.slate.com/articles/business/moneybox/2016/09/an_interview_with_president_barack_obama_about_extending_paid_sick_leave.html?source=socnet_tw_econ_20160929_bo_paid-leave_slate_4&utm_medium=social&utm_source=tw_bo&utm_campaign=socnet_tw_econ_20160929_bo_paid-leave_slate_4&utm_content=20160929_bo_paid-leave_slate_4
+
+
+
+
+
+
+
+
+
+!function(a,b){var c={slatePlusCookieName:"slate_plus",abCountCookieName:"abo",showAboCookieName:"ab",firstPageToShowAds:3,firstPageToShowOverlay:2,overlayInterval:3,handle:function(a){if(this.isSlatePlus())return this.clearPageCount(),!1;this.updatePageCount();var b=this.shouldRedirect();return this.handleOverlay(b),b},isSlatePlus:function(){return this.getCookie(this.slatePlusCookieName)},clearPageCount:function(){this.setCookie(this.abCountCookieName,-1,-1)},updatePageCount:function(){var a=this.getPreviousPageCount();this.pageCount=a?a+1:1,this.setCookie(this.abCountCookieName,this.pageCount)},getPreviousPageCount:function(){var a=this.getCookie(this.abCountCookieName);return parseInt(a,10)},shouldRedirect:function(){return this.pageCount>=this.firstPageToShowAds?!0:!1},handleOverlay:function(a){return this.shouldShowOverlay()?void(a?this.setCookie(this.showAboCookieName,1):this.handleOverlayOnThisPageload()):(window.showAdBlockerOverlay=!1,!1)},shouldShowOverlay:function(){var a=this.pageCount-this.firstPageToShowOverlay;return a%this.overlayInterval===0},handleOverlayOnThisPageload:function(){window.adBlockerOverlay?window.adBlockerOverlay.init(!0):window.showAdBlockerOverlay=!0},getCookie:function(a){for(var b=a+"=",c=decodeURIComponent(document.cookie),d=c.split(";"),e=0;e<d.length;e++){for(var f=d[e];" "===f.charAt(0);)f=f.substring(1);if(0===f.indexOf(b))return f.substring(b.length,f.length)}return!1},setCookie:function(a,b,c){var d=(document.location.host+"").replace("www.","");c||(c=365);var e=new Date;e.setTime(e.getTime()+24*c*60*60*1e3);var f="expires="+e.toUTCString();document.cookie=a+"="+b+";"+f+";path=/;domain="+d}};window.I11C&&window.I11C.RegisterAbdCallback&&window.I11C.RegisterAbdCallback(c.handle.bind(c))}(window,document);
+
+
+      document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
+    
+
+    if (typeof COMSCORE !== 'undefined') {
+      COMSCORE.beacon({
+        c1:"2", c2: "18406752", c4: "http://www.slate.com/articles/business/moneybox/2016/09/an_interview_with_president_barack_obama_about_extending_paid_sick_leave.html"
+      });
+    } else {
+      (function (w, d) {
+        d.addEventListener('DOMContentLoaded', function(event) {
+          var img = d.createElement('img');
+          img.src = 'http://b.scorecardresearch.com/p?c1=2&c2=18406752&c3=&c4=http://www.slate.com/articles/business/moneybox/2016/09/an_interview_with_president_barack_obama_about_extending_paid_sick_leave.html&c5=&c6=&c15=&cj=1';
+          d.body.appendChild(img);
+        });
+      } (window, document));
+    }
+    
+
+
+
+
+
+
+         var ezt = ezt ||[];
+
+         (function(){
+           var elem = document.createElement('script');
+           elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://pixel") + ".quantserve.com/aquant.js?a=p-fw53_-Tq3MNK1";
+           elem.async = true;
+           elem.type = "text/javascript";
+           var scpt = document.getElementsByTagName('script')[0];
+           scpt.parentNode.insertBefore(elem,scpt);
+         }());
+
+
+         ezt.push({qacct: 'p-fw53_-Tq3MNK1',
+               uid: ''
+                   });
+        
+
+
+
+
+
+      //Reload to canonical if you try to paste in the print page
+      if (window.location.search.indexOf("print") > -1) {
+        if (document.referrer.indexOf("http://www.slate.com/articles/business/moneybox/2016/09/an_interview_with_president_barack_obama_about_extending_paid_sick_leave.html") != 0) {
+          window.location = "http://www.slate.com/articles/business/moneybox/2016/09/an_interview_with_president_barack_obama_about_extending_paid_sick_leave.html";
+        }
+      }
+      //-- Stop hiding script -->
+    
+
+      var slate_public_url = "http://www.slate.com/";
+    
+
+An interview with President Barack Obama about extending paid sick leave.
+
+
+
+
+      
+      var commercialNode = 'news/next20';
+      
+      var commercialPageType = 'article';
+      var selectedText = "";
+    
+
+
+      !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+      n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+      n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+      t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+      document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+      fbq('init', '166975463695820');
+      fbq('track', 'ViewContent', {
+        commercial_node: window.commercialNode,
+        referrer: document.referrer
+      });
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.social a .count { display: none !important; }
+!function(){function e(e,t,n){e.addEventListener?e.addEventListener(t,n,!1):e.attachEvent&&e.attachEvent("on"+t,n)}function t(e){return window.localStorage&&localStorage.font_base_css_cache&&localStorage.font_base_css_cache_file===e}function n(){if(window.localStorage&&window.XMLHttpRequest)if(t(o))a(localStorage.font_base_css_cache);else{var n=new XMLHttpRequest;n.open("GET",o,!0),e(n,"load",function(){4===n.readyState&&(a(n.responseText),localStorage.font_base_css_cache=n.responseText,localStorage.font_base_css_cache_file=o)}),n.send()}else{var c=document.createElement("link");c.href=o,c.rel="stylesheet",c.type="text/css",document.getElementsByTagName("head")[0].appendChild(c),document.cookie="font_base_css_cache"}}function a(e){var t=document.createElement("style");t.innerHTML=e,document.getElementsByTagName("head")[0].appendChild(t)}var o="http://static.cdnslate.com/etc/designs/slate/css/slate-fonts-base.bcb407b3.bcb407b3.css";window.localStorage&&localStorage.font_base_css_cache||document.cookie.indexOf("font_base_css_cache")>-1?n():e(document,"DOMContentLoaded",n)}();
+      // Load Apres Light for Mobile
+      if (window.matchMedia('(max-width: 1023px)').matches) {
+        !function(){function e(e,t,n){e.addEventListener?e.addEventListener(t,n,!1):e.attachEvent&&e.attachEvent("on"+t,n)}function t(e){return window.localStorage&&localStorage.font_mobile_css_cache&&localStorage.font_mobile_css_cache_file===e}function n(){if(window.localStorage&&window.XMLHttpRequest)if(t(o))a(localStorage.font_mobile_css_cache);else{var n=new XMLHttpRequest;n.open("GET",o,!0),e(n,"load",function(){4===n.readyState&&(a(n.responseText),localStorage.font_mobile_css_cache=n.responseText,localStorage.font_mobile_css_cache_file=o)}),n.send()}else{var c=document.createElement("link");c.href=o,c.rel="stylesheet",c.type="text/css",document.getElementsByTagName("head")[0].appendChild(c),document.cookie="font_mobile_css_cache"}}function a(e){var t=document.createElement("style");t.innerHTML=e,document.getElementsByTagName("head")[0].appendChild(t)}var o="http://static.cdnslate.com/etc/designs/slate/css/slate-fonts-mobile.015046cd.015046cd.css";window.localStorage&&localStorage.font_mobile_css_cache||document.cookie.indexOf("font_mobile_css_cache")>-1?n():e(document,"DOMContentLoaded",n)}();
+      }
+    
+
+
+
+
+
+    requirejs.createNode = function (config, moduleName) {
+      var node = config.xhtml ?
+                 document.createElementNS('http://www.w3.org/1999/xhtml', 'html:script') :
+                 document.createElement('script');
+
+      node.type = config.scriptType || 'text/javascript';
+      node.charset = 'utf-8';
+      node.async = true;
+
+      if (moduleName == "slateAds") {
+        node.setAttribute('data-ad-site', 'slate');
+        node.setAttribute('data-ad-page-type', 'responsive');
+      }
+      return node;
+    };
+    requirejs.config({
+      "baseUrl": "http://static.cdnslate.com/etc/designs/slate/js",
+      "waitSeconds": 0,
+      "paths": {
+        "jquery": "//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min",
+        "jqueryui": "//ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min",
+        "modernizr": "/etc/designs/slate/js/libs/modernizr-2.6.1.min",
+        "announcements": "/etc/designs/slate/js/announcements",
+        "slate": "/etc/designs/slate/lib",
+        "hogan": "libs/hogan-2.0.0",
+        "facebook": "//connect.facebook.net/en_US/all",
+        "twitter": "//platform.twitter.com/widgets",
+        "livefyre": "//cdn.livefyre.com/Livefyre",
+        "newbrightcoveplayer": "components/brightcovevideosingle/newbrightcoveplayer",
+        "brightcove": "https://sadmin.brightcove.com/js/BrightcoveExperiences",
+        "brightcovetracking": "/etc/designs/slate/js/components/brightcovevideosingle/brightcovetracking",
+        "videojs-omniture": "/etc/designs/slate/js/components/brightcovevideosingle/videojs.analytic.omniture",
+        "mobileredirection": "libs/redirection_mobile_1.0.0.min",
+        
+          
+          
+            "outbrain": [
+              "//widgets.outbrain.com/outbrain",
+              "nooooo"
+            ],
+          
+        
+        "shared": "http://static.cdnslate.com/etc/designs/shared/js",
+        "instafeed": "/etc/designs/slate/js/instafeed",
+        "campaigns": "http://campaigns.slate.com/campaigns/slate",
+        "clipboard": "libs/zeroclipboard/ZeroClipboard.min",
+        "waypoints": "libs/jquery-plugins/jquery.waypoints",
+        //janrain
+        "rpxnow": window.location.protocol === 'https:' ? 'https://rpxnow.com/load/login.slate.com?noext' : 'http://widget-cdn.rpxnow.com/load/login.slate.com?noext',
+        'promise': 'requirejs-promise',
+        'youtube': "/etc/designs/slate/js/youtube",
+        'youtubeapi' : "https://www.youtube.com/iframe_api?noext",
+        "keywee": "https://dc8xl0ndzn2cb.cloudfront.net/js/slate/v0/keywee.min",
+        "amplitude": "//d24n15hnbwhuhn.cloudfront.net/libs/amplitude-3.4.0-min.gz",
+        "slateAds": [
+          "http://ads.cdnslate.com/wp-srv/ad/loaders/latest/js/min/loader.min.js?noext",
+          "showme"
+        ]
+      },
+      "shim": {
+        "devicemode": ["modernizr"],
+        "hcs/script": ["jquery", "modernizr", "devicemode"],
+        "libs/jquery-plugins/jquery.browser": ["jquery"],
+        "hcs/plugins/jquery.transit": ["jquery"],
+        "hcs/plugins/SGFootnote.jquery": ["jquery"],
+        "hcs/plugins/SGSocialIcons.jquery": ["jquery", "hcs/script"],
+        "hcs/plugins/SGNavDropdown.jquery": ["jquery"],
+        "hcs/plugins/SGRollup.jquery": ["jquery", "hcs/script"],
+        "hcs/plugins/SGGlobalNav.jquery": ["jquery", "hcs/script"],
+        "hcs/plugins/SGLightbox.jquery": ["jquery"],
+        "hcs/plugins/jQuery.highlighter": ["jquery"],
+        "hcs/libs/swipe": ["jquery"],
+        "hcs/libs/magnific": ["jquery"],
+        "hcs/plugins/jquery.swipebox": ["jquery"],
+        "hcs/plugins/SGBigSlider.jquery": ["jquery", "hcs/script", "hcs/libs/swipe"],
+        "hcs/plugins/jquery.placeholder.min": ["jquery"],
+        "libs/jquery-plugins/jquery.timeago": ["jquery"],
+        "libs/jquery-plugins/jquery.form": ["jquery"],
+        "libs/jquery-plugins/jquery.cookie": ["jquery"],
+        "libs/jquery-plugins/jquery.fittext": ["jquery"],
+        "libs/jquery-plugins/jquery.backgroundSize": ["jquery"],
+        "libs/jquery-plugins/jquery.flexslider": ["jquery"],
+        "libs/jquery-plugins/purl": ["jquery"],
+        "libs/jquery-plugins/jquery.colorbox": [ "jquery" ],
+        "libs/jquery-plugins/jquery.sticky": ["jquery"],
+        "libs/jquery-plugins/jquery.autoComplete": ["jquery"],
+        "libs/jquery-plugins/jquery.boxfit": ["jquery"],
+        "libs/jquery-plugins/jquery.dateformat": ["jquery"],
+        "libs/jquery-plugins/jquery.lazyloadxt": ["jquery"],
+        "libs/jquery-plugins/jquery.lazyloadxt.extra": ["jquery"],
+        "libs/jquery-plugins/jquery.lazyloadxt.bg": ["jquery"],
+        "libs/jquery-plugins/jquery.lazyloadxt.widget": ["jquery"],
+        "libs/jquery-plugins/jquery.storageapi": ["jquery"],
+        "libs/jquery-plugins/jquery.ba-throttle-debounce": ["jquery"],
+        "libs/jquery-plugins/jquery.visible": ["jquery"],
+        "libs/jquery-plugins/jquery.event.move": ["jquery"],
+        "libs/jquery-plugins/jquery.twentytwenty": ["jquery"],
+        "facebook": {
+            deps: ["site-bottom"],
+            exports: "FB"
+        },
+        "livefyre": {
+            exports: "fyre"
+        },
+        "brightcove": {
+            "exports": "brightcove"
+        },
+        "mobileredirection": {
+                "exports": "mobileredirection"
+        },
+        "hogan": {
+          	"exports": "Hogan"
+        },
+        "outbrain": {
+          "exports": "OBR"
+        }
+      },
+      map: {
+        '*': {
+          'css': 'libs/require-css/css'
+        }
+      }
+    });
+
+    
+    define("config", {
+      "env": {
+        "edit": false,
+        "environment": "prod"
+      },
+      "janrain": {
+        "siteConfig": {
+          "enabled": true,
+          "propertyId": "login.slate.com",
+          "raceConditionTimeout": +"1500".replace(/\D/gi, ''),
+          "jsNamespace": "slateJanrain",
+          "userMessage": ""
+        },
+        "appUrl": "https://login.slate.com",
+        "tokenUrl": "http://www.slate.com",
+        "capture": {
+          "appId": "dbuhzej2qm7k436x6jg4qpef3f",
+          "captureServer": "https://profile.slate.com",
+          "clientId": "sskdd3tv7ekxx8mt6gq5hnu7mdxpmpha",
+          "accessTokenLifeHours": +"730".replace(/\D/gi, ''),
+          "returnExperienceUserData": "uuid,displayName,email".split(",").map(function(item) { return item.trim(); }),
+          "flowVersion": "HEAD",
+          "httpLoadUrl": 'http://widget-cdn.rpxnow.com/load/login.slate.com',
+          "httpsLoadUrl": 'https://rpxnow.com/load/login.slate.com'
+        },
+        "federate": {
+          "federate": true,
+          "federateServer": "https://slate.janrainsso.com/",
+          "federateXdReceiver": "http://www.slate.com/modules/xd_receiver.html",
+          "federateLogoutUri": "http://www.slate.com/modules/sso_logout.html"
+        }
+      },
+      "myslate": {
+        "site_base_domain": "slate.com",
+        "site_path": "/",
+        "site_url": "//www.slate.com/",
+        "myslate_domain": "//my.slate.com/",
+        "myslateTokenPath": "proxies/livefyre/token/",
+        "myslateJanrainTokenPath": "proxies/janrain/token/",
+        "myslateVerifyPath": "proxies/janrain/verify/",
+        "myslateSubscriptionsManagePath": "subscriptions/manage/",
+        "myslatePageInfoPath": "users/slate_page_info/",
+        "myslatePopularAuthorsPath": "articles/popular_authors/",
+        "myslateEventsPath": "subscriptions/events/",
+        "myslateRecommendationsPath": "recommendations/get_combined_json/",
+        "myslateIscrollRecommendationsPath": "contentapi/recommendations/v2/",
+        "myslateSegmentsPath": "store/segments/",
+        "myslateUserUpdatePath": "users/update/",
+        "myslatePartnersPath": "recommendations/partner_links/",
+        "myslate_https": true,
+        "fb_xd_receiver": "http://www.slate.com/xd_receiver.htm",
+        "fb_app_id": 142011022527753,
+      },
+      "iscroll": {
+        "hideStoryEvents": "",
+        "showThirdParties": true,
+        "hideScripts": "",
+        "disabled": false,
+        "mobile": true,
+        "bannerHTML": ""
+      },
+      "livefyre": {
+        "network": "slate.fyre.co",
+        "jsSourceUrl": "http://zor.livefyre.com/wjs/v3.0/javascripts/livefyre.js",
+        "siteId": "337720",
+        "loadTiming": "immediate"
+      },
+      "campaigns": {
+        "domain":"campaigns.slate.com",
+        "loadTiming": "immediate"
+      },
+      "site": {
+        "site": "slate",
+        "title": "Slate",
+        "staticUrl": "http://static.cdnslate.com",
+        "omniturePrefix": "sl"
+      },
+      "data_domain": "http://www.slate.com/",
+      "page": {
+        "articleId": "100160929002",
+        "roadblocked": false,
+        "embeddedContent": false,
+        "slateplus": false,
+        "enableIssueCollector": false,
+        "contentCreated": "2016-09-29T09:00:00"
+      },
+      "ads": {
+        "showme": false,
+        "enableHomepageViewability": false,
+        "enableStoryViewability": true,
+        "viewabilityEnabled": true,
+        "viewability": {
+          "leaderboardRollup": true,
+          "leaderboardRollupDisabledList": "",
+          "refreshInterval": "60",
+          "refreshPolar": false,
+          "testPageList": "news,life,arts,sports,technology,blogs,business,science,doublex,podvideo,podcasts,biztech,authors,archive,news,briefing,life,arts,sports,technology,blogs,business,science,doublex,video,podvideo,podcasts",
+          "lazyload": {
+            "homepageBB": true,
+            "leaderboard_2": true,
+            "tiffTiles": true,
+            "rightflex": true,
+            "billboard": false
+          }
+        },
+        "enablePageFair": false
+      },
+      
+      "banner": {
+        "showBanner": true,
+        "storyCount": 1,
+        "restDays": 30,
+        "showSlatePlus": false,
+        "messages": ['Support Dahlia Lithwick’s Supreme Court coverage. <a href="https://my.slate.com/plus?utm_medium=link&amp;utm_campaign=plus_support&amp;utm_content=Dahlia&amp;utm_source=ribbon">Join Slate Plus today.', 'Slate is made possible by the support of readers like you. Click here to do your part.', 'Overwhelmed and exhausted? Join Slate Plus as we try to make sense of each day’s insanity.', 'Support our tireless, fearless, yet somehow fun-to-read coverage of Trump’s America.', 'We’ve been holding Trump to account all year. Help us keep going. Become a member.']
+      },
+      
+      "_log": [],
+      "log": function(data) {
+        requirejs(["config"], function(config) {
+          if (typeof console != "undefined" && typeof console.log != "undefined") {
+            console.log(data);
+          }
+          config._log.push(data);
+        });
+      }
+    });
+    
+
+
+          requirejs(
+              ['ad-blocker-overlay'],
+              function(ad_blocker_overlay) {
+                  ad_blocker_overlay.execute();
+              }
+          );
+      
+
+    
+    requirejs(['config'], function(config) {
+      var documentDomain = 'slate.com';
+      if (config.janrain.siteConfig.enabled) {
+        documentDomain = config.myslate.site_base_domain;
+      }
+      document.domain = documentDomain;
+    });
+    
+    
+
+requirejs([
+  'jquery',
+  'config',
+  's_code',
+  'libs/jquery-plugins/jquery.cookie'
+], function($, config, s, unused) {
+
+        s.currencyCode="usd";
+        s.charSet="utf-8";
+        s.trackDownloadLinks=true;
+        s.trackExternalLinks=true;
+        s.trackInlineStats=true;
+        s.linkDownloadFileTypes="exe,zip,wav,mp3,mov,mpg,avi,wmv,doc,pdf,xls";
+        s.linkInternalFilters="javascript:,slate.com,traffic.outbrain.com";
+        s.linkTrackVars="none";
+        s.linkTrackEvents="none";
+        s.pageName="business:article - 20160929 - an interview with president barack obama about extending paid sick leave.";
+        s.channel="sl - business";
+        s.server="www.slate.com";
+        s.prop2="moneybox";
+        s.prop3="article";
+        s.prop4="slate";
+        s.prop5="jordan weissmann";
+        s.prop12="100160929002";
+        s.prop13="an interview with president barack obama about extending paid sick leave.";
+        s.prop14="1";
+        s.prop34="4.17.9";
+        s.prop36="general";
+        s.prop39="news/next20";
+        s.prop40="barack obama, illness, labor";
+        s.hier1="business|moneybox|article";
+        s.eVar8="jordan weissmann";
+        s.eVar17="article";
+    s.prop75 = "1";
+    s.eVar4 = "1";
+    s.prop32 = $.cookie('spf') || 'false';
+    /**
+     * Check for AdBlock
+     */
+    if (typeof placeAd2 === 'undefined') {
+      $.cookie('spf', true, {
+        expires: 365,
+        path: '/',
+        domain: config.myslate.site_base_domain
+      });
+    }
+    s.t();
+});
+
+
+            requirejs(["sgads"], function(slateads) {
+                slateads.wire("http://ads.cdnslate.com/wp-srv/ad/loaders/latest/js/min/loader.min.js");
+            });
+        
+               
+      var _isNavMoving = false; // acts as a global (sorry) mutex for keeping track of when our nav panels are moving around. Allows us to prevent overlapping actions.
+    
+
+
+
+
+
+
+
+
+var wp_meta_data = {"authors":["Jordan Weissmann"],"contentType":"article","page_id":"100160929002","keywords":"Moneybox,barack obama,illness,labor,slate","section":"Business","rubric":"Moneybox"};
+
+        var teadsEnabled = true;
+        requirejs(["jquery","myslate"], function($,myslate) {
+            if(myslate.isSlatePlusUser) {
+                teadsEnabled = false;
+            }
+        });
+        
+
+        {"@context":"http://schema.org","url":"http://www.slate.com/articles/business/moneybox/2016/09/an_interview_with_president_barack_obama_about_extending_paid_sick_leave.html","@type":"Article","mainEntityOfPage":"True","articleBody":"The United States is the only industrialized country in the world where employees aren\u2019t guaranteed the right to take a paid sick day off of work. As a result, there are some 44 million workers in the private sector without paid leave who are incentivized to show up to their job even if they or their child has the flu. It\u2019s a sad state of affairs\u2014one that won\u2019t drastically change as long as conservatives, who tend to oppose mandating workplace benefits, control Capitol Hill and so many state legislatures. On Thursday, however, the Obama administration is announcing a new regulation that will make a small but symbolic difference. The Department of Labor has finalized a rule requiring businesses to provide paid sick leave to employees working on contracts with the federal government. Individuals will be able to earn up to seven paid sick days in a year. The administration says the regulation will extend the benefit to almost 600,000 workers who currently lack it. That\u2019s not 44 million. But it\u2019s not nothing. Slate took the opportunity of an email interview with the president to ask about how future administrations could continue using executive power to improve the lot of workers\u2014which, beyond action at the city and state level, is the best progressives can hope for on the issue in the near future. (I also chatted with Secretary of Labor Tom Perez about the subject. The conversation is airing as a special Slate bonus podcast on Thursday.) The Obama administration has also been pushing the interesting, and I think accurate, idea that workplace issues like family and sick leave are actually macroeconomic issues because of their impacts on the labor force. We discussed how the executive branch can set an example as an employer, how flimsy leave policies perpetuate the gender gap, and why even generous paid sick leave isn\u2019t enough. Jordan Weissmann: The administration says this new rule will extend paid sick leave to nearly 437,000 employees who currently lack it. [The White House estimate has since risen.] But that\u2019s a small number compared to approximately the 40 million private-sector U.S. workers overall who don\u2019t get paid sick days. How important is this step in the wider scheme of things? Why should most Americans care? Barack Obama: Everybody gets sick. So when people don\u2019t have paid sick days, they might have to choose between taking care of themselves and putting food on the table. For Americans living paycheck to paycheck, a lost day of wages can be a huge loss. Or when a child gets sick and has to stay home, parents may have no choice but to care for them and lose a day\u2019s pay as a result. That\u2019s simply not a tradeoff the wealthiest nation on Earth should be asking working parents to make. Coming to work sick is bad for employees, co-workers, and customers alike. No one wants a colleague coming in and getting you sick. No one wants to be served by a waiter who\u2019s under the weather. I\u2019d much rather go to a restaurant knowing that if a chef or waiter is sick they have the choice to stay home without losing their paycheck. That\u2019s why it\u2019s so important that this new rule becomes final today. It will give additional paid sick leave to more than 1.1 million federal contract workers in the first five years, including nearly 600,000 who currently receive no paid sick leave at all. But just as importantly, this rule means that the federal government is putting our money where our mouth is. We know that providing at least seven paid sick days a year to our contracted workforce will give us the best value for taxpayer dollars and is good for workers and business alike. That\u2019s the same decision that companies large and small throughout the country have made, and we hope our leading by example will convince others to do the same. So we\u2019ve been doing everything we can to increase Americans\u2019 access to paid sick leave. We\u2019ve called on Congress to pass the Healthy Families Act, a bill that would give Americans the ability to earn up to seven paid sick days a year. We\u2019ve called on states and cities to pass similar legislation, and many have taken up that charge. And we\u2019ve called on businesses to step up and adopt these policies, just as the government has. The United States is the only developed country in the world that doesn\u2019t have some kind of national paid sick leave requirement. Short of the legislation you\u2019ve called for to change that, is there anything else that either you or your successor as president can do to make sure more workers can take a sick day? As long as I\u2019m president, I\u2019m going to work every day to convince Congress, states, cities, and businesses to expand access to paid sick leave. We\u2019ll continue to make the case for why sick leave is important to everyone, but we hope that the American people will as well. While only Congress can mandate that every employer offer paid sick days, we have seen tremendous progress across the country as folks come together in their communities and make the case to their state legislatures to pass paid sick days laws. That local organizing has increased coverage to millions of Americans, and it\u2019s building momentum that can ultimately lead to congressional action. Since I first called on them to act, we\u2019ve seen four states pass paid leave laws, over 25 localities take action on paid sick leave, and 22 localities take action on paid family leave. California, Massachusetts, Oregon, and this year Vermont have all passed bills, joining Connecticut, which did so in 2011. Philadelphia, Chicago, Minneapolis, and St. Paul have joined trailblazers like San Francisco, Seattle, New York City, and the District of Columbia in requiring paid sick leave for folks working in their cities. Businesses have been heeding the call, too, and some businesses now require their suppliers to provide paid sick leave as well. Another way in which our workplace policies have not kept up with the times is that many Americans don\u2019t have access to paid family leave. California, New Jersey, Rhode Island, and now New York have created these programs to allow moms and dads to stay home with a new child or care for a seriously ill family member without losing their entire paycheck. Until Congress acts and guarantees every working American paid family leave, we\u2019re going to see more states follow in their footsteps. Is the administration hoping cities and states will treat this regulation as a model and adopt it more widely? Absolutely. In fact, this rule builds on the great work done by sponsors of the Healthy Families Act and bills introduced in state legislatures across the nation who have already made progress on this issue. Should additional states and cities follow our lead, employees will accrue one hour of paid sick leave for every 30 hours worked, which means that part-time workers have the chance to earn paid sick leave, too. If an employee temporarily leaves a company and comes back within a year, they keep any sick leave they\u2019ve accrued. And employers can\u2019t deny you a paid sick day based on whether you have found a replacement worker or because of the company\u2019s operational needs. They can\u2019t discourage your use of the sick time, or retaliate against you in any way for taking it. The new rule has a pretty capacious definition of \u201csick leave.\u201d Employees can take time off to go to the doctor, recover from an illness or injury, or look after a loved one who is unwell or \u201cotherwise in need of care.\u201d So, for instance, it seems like a new mom without paid maternity leave could use this time to spend with her infant. Is it fair to conclude this rule mandates all-purpose family leave, or something close to it? That\u2019s a great observation. We definitely adopted a broad definition of \u201csick leave,\u201d just as many states, localities, and businesses have. Obviously you can use the sick days if you have the flu, or another illness, and need to rest and recover. They also can be used for preventive care, like an annual physical or dentist appointment. We also make these days available to be used as \u201csafe days\u201d for a survivor of domestic violence, sexual assault, or stalking. So if you need to seek medical care, obtain counseling, look for new housing, or pursue a protective order in court, you\u2019re covered. If you need to stay home with a sick child or care for a spouse after a surgery, that counts, too. The same goes for caring for a newborn, such as in those first few days when they are still in the hospital or have their first important appointments with the pediatrician. That being said, seven days is just not enough time to spend caring for a newborn. That\u2019s why I\u2019ve also called on Congress to pass a real paid family and medical leave bill so that all working Americans can care for new children, or a seriously ill parent or spouse, without having to leave their jobs or worry about not being paid. It\u2019s why it\u2019s such a big deal that the state of New York passed a sweeping paid family and medical leave bill this year that will provide up to 12 weeks of leave when it\u2019s fully phased in. And it\u2019s why California recently expanded its longstanding paid family leave program to boost wage replacement, making it easier for parents to take time away from their jobs to care for their new children. Aside from sick leave, the Department of Labor has already moved to expand federal overtime rules to cover more workers and increase the minimum wage for federal contractors. What else do you think the executive branch can do to improve working conditions for Americans without the help of Congress? And are there other benefits you can imagine requiring federal contractors to provide in the future? How about paid family leave? Over the last seven-and-a-half years, we\u2019ve done everything we can to grow and strengthen the middle class. Our policies have promoted greater opportunity for employment, higher wages and incomes, fairer pay for women, workplace flexibility and paid leave for parents, affordable health insurance, more affordable college, and adequate retirement benefits. A recent report showed that last year, across every age, every race in America, incomes rose and the poverty rate declined. A typical household\u2019s income increased by $2,800, the largest single-year increase on record, and the gender pay gap has fallen to the lowest level ever. But we\u2019re not resting on our laurels. In fact, today, we are announcing another key step to help reduce the gender pay gap. The Equal Employment Opportunity Commission has finalized a rule requiring every business with 100 or more employees to submit pay data broken down by gender, race, and ethnicity on an annual basis. Collecting and reporting this information will encourage employers to take voluntary action to address any existing pay gap, and it will help improve enforcement of our nation\u2019s equal pay laws. As for federal contractors, we encourage them to offer paid family leave if they want to attract and retain the best workforce. That\u2019s why leading businesses have chosen to offer generous paid family leave benefits. I\u2019ve done what I can through executive action to lead by example by directing federal agencies to advance up to six weeks of paid sick leave to employees who have a new child, and urge Congress to pass a bill giving them another six weeks of paid family leave on top of that. In a recent survey by the Center for Economic and Policy Research, 14 percent of New York City businesses said their costs had risen because of the city\u2019s new sick leave requirement. About 9 percent said they had cut back on hiring to deal with the burden. Do numbers like that make you worry about the unintended consequences of forcing companies to give their workers benefits? Or are they an acceptable tradeoff? It\u2019s pretty telling that only about one in 10 businesses self-reported any increased costs because of the new requirement. We\u2019ve seen a similar trend in other places. Many businesses initially opposed the first state paid sick days law in Connecticut, yet within a few years a survey showed a similar result\u2014that an overwhelming majority of businesses reported only small or no effects on their bottom line, and three-quarters now report being supportive of the new policy. But even more importantly, the question we should be asking is: What is the cost of not providing paid sick leave? We lose incredible talent in our workforce every year as millions of Americans are faced with the absurd choice of going to work sick or staying home and losing their pay, or perhaps even their jobs. How much more effective will businesses be when their sick employees stay at home to recover instead of getting their co-workers sick, too? During the 2009 H1N1 outbreak, one report estimated that 8 million Americans showed up to work and spread the illness to another 7 million coworkers. This \u201cpresenteeism\u201d and its reductions in productivity due to the spread of illness in the workplace may cost American businesses an estimated $160 billion each year. Is offering paid sick leave really too high a price to pay? The same applies to paid family and medical leave. How much more efficient will employees be when they can take concentrated time off to care for their 2-week-old, or their sick kid, or their partner after a surgery? Do businesses really think that those individuals are showing up ready to work each day? They aren\u2019t. They\u2019re preoccupied. Many are weighing the decision of whether they need to find a more flexible job or leave the workforce entirely. And many of them will. So businesses lose skilled workers and spend a good chunk of that employee\u2019s annual salary trying to replace them. The bottom line is this: Paid leave is not a luxury. It\u2019s a necessity. And it\u2019s sound economic policy. A lot of people think of benefits like sick leave and family leave as quality-of-life issues. But your economic advisers have pointed out that American women are now less likely to be in the workforce than their European peers, seemingly because our policies make it so hard to work and raise a family. What effect do you think this rule and changes like it could have on the labor market and overall economy? In a 21st century economy, we shouldn\u2019t sideline any of our talent. It\u2019s that simple. We\u2019re losing incredible talent in our workforce every year as parents decide to switch jobs or leave the workforce entirely to be able to better fulfill their obligations at home and at work. Beyond the moral imperative, common sense, and overwhelming public support to enact changes like paid sick leave or paid family leave, there is also the simple fact that these changes stand to make our country and our businesses a lot of money. To achieve these productivity gains and GDP growth, we would need to substantially increase our support for women\u2019s labor force participation\u2014and this means narrowing the gender gap between part-time and full-time work, reducing the gender pay gap, and supporting women who want to stay in the workforce while raising families. We know how to do this. Workplace flexibility, affordable child care, paid family leave, and paid sick days all boost women\u2019s participation rates in the workforce. They increase productivity, morale, and job retention. We know that when women can access paid family leave, they\u2019re more likely to remain in the workforce a year after giving birth. For a business, that means they\u2019re more likely to retain firm-specific skills. We\u2019re talking about opening up a huge talent pool that will drive competition. We also know that when leave is unpaid, men are less likely to take it. They stay at work. So if dads stay at work, moms take on more of the housework and child care from the time the first child is born. Throughout my life, I saw my own grandmother and mother take off a disproportionate amount of time to care for sick loved ones or to care for the kids. And today it\u2019s still something that is unbalanced between men and women. I\u2019ve seen how Michelle balanced the demands of a busy career and raising a family. Like many working mothers, she worried about the expectations and judgments of how she should handle the tradeoffs, knowing that few people would question my choices. But you know what? Taking care of a child isn\u2019t just a woman\u2019s job. It\u2019s a man\u2019s job, too. That\u2019s why it\u2019s critical that we have paid family leave for both men and women\u2014and that we foster a work culture where men and women are encouraged to actually take it. Listen to Jordan Weissmann\u2019s interview with Secretary of Labor Tom Perez.","headline":"What Can the President Do to Help Workers Who Need a Sick Day? We Asked Him.","datePublished":"2016-09-29T09:00:00-04:00","author":"Jordan Weissmann","image":{"@list":["http://www.slate.com/content/dam/slate/articles/business/moneybox/2016/09/160928_$BOX_Obama-Jobs.jpg.CROP.promo-mediumlarge.jpg"]}}
+        
+
+
+      window.Krux||((Krux=function(){Krux.q.push(arguments)}).q=[]);
+      (function(){
+        var k=document.createElement('script');k.type='text/javascript';k.async=true;
+        k.src=(location.protocol==='https:'?'https:':'http:')+'//cdn.krxd.net/controltag/KGU_SbHX.js';
+        var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(k,s);
+      }());
+
+      
+      window.Krux||((Krux=function(){Krux.q.push(arguments);}).q=[]);
+      (function(){
+          function retrieve(n){
+            var m, k='kxslate_'+n;
+            if(window.localStorage){
+                return window.localStorage[k] || "";
+            }else if(navigator.cookieEnabled){
+                m = document.cookie.match(k+'=([^;]*)');
+                return (m && unescape(m[1])) || "";
+            }else{
+                return '';
+            }
+          }
+          Krux.user = retrieve('user');
+          Krux.segments = retrieve('segs') && retrieve('segs').split(',') || [];
+      })();
+    
+
+
+
+
+    require(['amplitude'], function(amplitude) {
+      var amplitudeOptions = {
+       saveEvents: true,
+       includeUtm: true,
+       includeReferrer: true,
+       includeGclid: true,
+       saveParamsReferrerOncePerSession: false,
+       domain: '.slate.com'
+      };
+      amplitude.getInstance().init('5a7cb616c0717cb7f4f0eee43d9f4e1c', null, amplitudeOptions);
+      window.amplitude = amplitude; // You can bind the amplitude object to window if you want to use it directly.
+
+      
+    });
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Slate logo
+
+
+
+
+
+
+
+Sign In
+Sign Up
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What Can the President Do to Help Workers Who Need a Sick Day? We Asked Him.
+
+
+
+
+What Can the President Do to Help Workers Who Need a Sick Day? We Asked Him.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Slate logo
+
+
+
+
+
+
+
+Sign In
+Sign Up
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+@media (min-width: 641px) {
+.custom .landing-header.thin.rollup .sponsor-logo img {
+    height: 25px;
+    width: auto;
+}
+}
+
+@media (max-width: 640px) {
+.custom .landing-header.thin.rollup .sponsor-logo img {
+    height: auto;
+    max-width: 100px;
+    position: absolute;
+    right: auto;
+    top: 15px;
+    left: 155px;
+}
+}
+
+
+
+
+
+
+
+SlateMoneyboxCommentary about business and finance.Sept. 29 2016 9:00 AM
+
+The President Would Like You to Take a Sick Day
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Barack Obama answers Slate’s questions about his administration’s new rule extending paid sick leave to nearly 600,000 workers.
+
+        By Jordan Weissmann
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  President Barack Obama speaks next to Vice President Joe Biden following a tour of Techmer PM in Clinton, Tennessee, on Jan. 9, 2015. Mandel Ngan/AFP/Getty Images
+
+
+
+        requirejs(["jquery"], function($) {
+            if ($(window).width() < 640) {
+                $(".slate_image figure").width("100%");
+            }
+        });
+        
+
+
+The United States is the only industrialized country in the world where employees aren’t guaranteed the right to take a paid sick day off of work. As a result, there are some 44 million workers in the private sector without paid leave who are incentivized to show up to their job even if they or their child has the flu. It’s a sad state of affairs—one that won’t drastically change as long as conservatives, who tend to oppose mandating workplace benefits, control Capitol Hill and so many state legislatures.
+
+
+
+
+
+Jordan Weissmann
+
+
+Jordan Weissmann is Slate’s senior business and economics correspondent.
+
+
+
+
+
+ 
+
+On Thursday, however, the Obama administration is announcing a new regulation that will make a small but symbolic difference. The Department of Labor has finalized a rule requiring businesses to provide paid sick leave to employees working on contracts with the federal government. Individuals will be able to earn up to seven paid sick days in a year. The administration says the regulation will extend the benefit to almost 600,000 workers who currently lack it. That’s not 44 million. But it’s not nothing.
+
+
+ Advertisement  
+
+
+
+
+Slate took the opportunity of an email interview with the president to ask about how future administrations could continue using executive power to improve the lot of workers—which, beyond action at the city and state level, is the best progressives can hope for on the issue in the near future. (I also chatted with Secretary of Labor Tom Perez about the subject. The conversation is airing as a special Slate bonus podcast on Thursday.) The Obama administration has also been pushing the interesting, and I think accurate, idea that workplace issues like family and sick leave are actually macroeconomic issues because of their impacts on the labor force. We discussed how the executive branch can set an example as an employer, how flimsy leave policies perpetuate the gender gap, and why even generous paid sick leave isn’t enough.
+
+
+Jordan Weissmann: The administration says this new rule will extend paid sick leave to nearly 437,000 employees who currently lack it. [The White House estimate has since risen.] But that’s a small number compared to approximately the 40 million private-sector U.S. workers overall who don’t get paid sick days. How important is this step in the wider scheme of things? Why should most Americans care?
+
+
+Barack Obama: Everybody gets sick. So when people don’t have paid sick days, they might have to choose between taking care of themselves and putting food on the table. For Americans living paycheck to paycheck, a lost day of wages can be a huge loss. Or when a child gets sick and has to stay home, parents may have no choice but to care for them and lose a day’s pay as a result. That’s simply not a tradeoff the wealthiest nation on Earth should be asking working parents to make.
+
+
+Coming to work sick is bad for employees, co-workers, and customers alike. No one wants a colleague coming in and getting you sick. No one wants to be served by a waiter who’s under the weather. I’d much rather go to a restaurant knowing that if a chef or waiter is sick they have the choice to stay home without losing their paycheck.
+
+
+ Advertisement  
+
+
+
+
+That’s why it’s so important that this new rule becomes final today. It will give additional paid sick leave to more than 1.1 million federal contract workers in the first five years, including nearly 600,000 who currently receive no paid sick leave at all.
+
+
+
+“No one wants to be served by a waiter who’s under the weather.”
+
+
+
+But just as importantly, this rule means that the federal government is putting our money where our mouth is. We know that providing at least seven paid sick days a year to our contracted workforce will give us the best value for taxpayer dollars and is good for workers and business alike. That’s the same decision that companies large and small throughout the country have made, and we hope our leading by example will convince others to do the same.
+
+
+So we’ve been doing everything we can to increase Americans’ access to paid sick leave. We’ve called on Congress to pass the Healthy Families Act, a bill that would give Americans the ability to earn up to seven paid sick days a year. We’ve called on states and cities to pass similar legislation, and many have taken up that charge. And we’ve called on businesses to step up and adopt these policies, just as the government has.
+
+
+The United States is the only developed country in the world that doesn’t have some kind of national paid sick leave requirement. Short of the legislation you’ve called for to change that, is there anything else that either you or your successor as president can do to make sure more workers can take a sick day?
+
+
+ Advertisement  
+
+
+
+
+As long as I’m president, I’m going to work every day to convince Congress, states, cities, and businesses to expand access to paid sick leave. We’ll continue to make the case for why sick leave is important to everyone, but we hope that the American people will as well.
+
+
+While only Congress can mandate that every employer offer paid sick days, we have seen tremendous progress across the country as folks come together in their communities and make the case to their state legislatures to pass paid sick days laws. That local organizing has increased coverage to millions of Americans, and it’s building momentum that can ultimately lead to congressional action.
+
+
+Since I first called on them to act, we’ve seen four states pass paid leave laws, over 25 localities take action on paid sick leave, and 22 localities take action on paid family leave. California, Massachusetts, Oregon, and this year Vermont have all passed bills, joining Connecticut, which did so in 2011. Philadelphia, Chicago, Minneapolis, and St. Paul have joined trailblazers like San Francisco, Seattle, New York City, and the District of Columbia in requiring paid sick leave for folks working in their cities. Businesses have been heeding the call, too, and some businesses now require their suppliers to provide paid sick leave as well.
+
+
+Another way in which our workplace policies have not kept up with the times is that many Americans don’t have access to paid family leave. California, New Jersey, Rhode Island, and now New York have created these programs to allow moms and dads to stay home with a new child or care for a seriously ill family member without losing their entire paycheck. Until Congress acts and guarantees every working American paid family leave, we’re going to see more states follow in their footsteps.
+
+
+ Advertisement  
+
+
+
+
+Is the administration hoping cities and states will treat this regulation as a model and adopt it more widely?
+
+
+Absolutely. In fact, this rule builds on the great work done by sponsors of the Healthy Families Act and bills introduced in state legislatures across the nation who have already made progress on this issue. Should additional states and cities follow our lead, employees will accrue one hour of paid sick leave for every 30 hours worked, which means that part-time workers have the chance to earn paid sick leave, too. If an employee temporarily leaves a company and comes back within a year, they keep any sick leave they’ve accrued.
+
+
+And employers can’t deny you a paid sick day based on whether you have found a replacement worker or because of the company’s operational needs. They can’t discourage your use of the sick time, or retaliate against you in any way for taking it.
+
+
+
+Get the best of Slate in your inbox.
+ 
+
+
+
+
+The new rule has a pretty capacious definition of “sick leave.” Employees can take time off to go to the doctor, recover from an illness or injury, or look after a loved one who is unwell or “otherwise in need of care.” So, for instance, it seems like a new mom without paid maternity leave could use this time to spend with her infant. Is it fair to conclude this rule mandates all-purpose family leave, or something close to it?
+
+
+ Advertisement  
+
+
+
+
+That’s a great observation. We definitely adopted a broad definition of “sick leave,” just as many states, localities, and businesses have. Obviously you can use the sick days if you have the flu, or another illness, and need to rest and recover. They also can be used for preventive care, like an annual physical or dentist appointment. We also make these days available to be used as “safe days” for a survivor of domestic violence, sexual assault, or stalking. So if you need to seek medical care, obtain counseling, look for new housing, or pursue a protective order in court, you’re covered.
+
+
+If you need to stay home with a sick child or care for a spouse after a surgery, that counts, too. The same goes for caring for a newborn, such as in those first few days when they are still in the hospital or have their first important appointments with the pediatrician. That being said, seven days is just not enough time to spend caring for a newborn. That’s why I’ve also called on Congress to pass a real paid family and medical leave bill so that all working Americans can care for new children, or a seriously ill parent or spouse, without having to leave their jobs or worry about not being paid. It’s why it’s such a big deal that the state of New York passed a sweeping paid family and medical leave bill this year that will provide up to 12 weeks of leave when it’s fully phased in. And it’s why California recently expanded its longstanding paid family leave program to boost wage replacement, making it easier for parents to take time away from their jobs to care for their new children.
+
+
+Aside from sick leave, the Department of Labor has already moved to expand federal overtime rules to cover more workers and increase the minimum wage for federal contractors. What else do you think the executive branch can do to improve working conditions for Americans without the help of Congress? And are there other benefits you can imagine requiring federal contractors to provide in the future? How about paid family leave?
+
+
+Over the last seven-and-a-half years, we’ve done everything we can to grow and strengthen the middle class. Our policies have promoted greater opportunity for employment, higher wages and incomes, fairer pay for women, workplace flexibility and paid leave for parents, affordable health insurance, more affordable college, and adequate retirement benefits. A recent report showed that last year, across every age, every race in America, incomes rose and the poverty rate declined. A typical household’s income increased by $2,800, the largest single-year increase on record, and the gender pay gap has fallen to the lowest level ever.
+
+
+ Advertisement  
+
+
+
+
+But we’re not resting on our laurels. In fact, today, we are announcing another key step to help reduce the gender pay gap. The Equal Employment Opportunity Commission has finalized a rule requiring every business with 100 or more employees to submit pay data broken down by gender, race, and ethnicity on an annual basis. Collecting and reporting this information will encourage employers to take voluntary action to address any existing pay gap, and it will help improve enforcement of our nation’s equal pay laws.
+
+
+As for federal contractors, we encourage them to offer paid family leave if they want to attract and retain the best workforce. That’s why leading businesses have chosen to offer generous paid family leave benefits. I’ve done what I can through executive action to lead by example by directing federal agencies to advance up to six weeks of paid sick leave to employees who have a new child, and urge Congress to pass a bill giving them another six weeks of paid family leave on top of that.
+
+
+In a recent survey by the Center for Economic and Policy Research, 14 percent of New York City businesses said their costs had risen because of the city’s new sick leave requirement. About 9 percent said they had cut back on hiring to deal with the burden. Do numbers like that make you worry about the unintended consequences of forcing companies to give their workers benefits? Or are they an acceptable tradeoff?
+
+
+It’s pretty telling that only about one in 10 businesses self-reported any increased costs because of the new requirement. We’ve seen a similar trend in other places. Many businesses initially opposed the first state paid sick days law in Connecticut, yet within a few years a survey showed a similar result—that an overwhelming majority of businesses reported only small or no effects on their bottom line, and three-quarters now report being supportive of the new policy.
+
+
+
+“How much more efficient will employees be when they can take concentrated time off to care for their 2-week-old?”
+
+
+
+But even more importantly, the question we should be asking is: What is the cost of not providing paid sick leave? We lose incredible talent in our workforce every year as millions of Americans are faced with the absurd choice of going to work sick or staying home and losing their pay, or perhaps even their jobs. How much more effective will businesses be when their sick employees stay at home to recover instead of getting their co-workers sick, too? During the 2009 H1N1 outbreak, one report estimated that 8 million Americans showed up to work and spread the illness to another 7 million coworkers. This “presenteeism” and its reductions in productivity due to the spread of illness in the workplace may cost American businesses an estimated $160 billion each year. Is offering paid sick leave really too high a price to pay?
+
+
+The same applies to paid family and medical leave. How much more efficient will employees be when they can take concentrated time off to care for their 2-week-old, or their sick kid, or their partner after a surgery? Do businesses really think that those individuals are showing up ready to work each day? They aren’t. They’re preoccupied. Many are weighing the decision of whether they need to find a more flexible job or leave the workforce entirely. And many of them will. So businesses lose skilled workers and spend a good chunk of that employee’s annual salary trying to replace them.
+
+
+The bottom line is this: Paid leave is not a luxury. It’s a necessity. And it’s sound economic policy.
+
+
+A lot of people think of benefits like sick leave and family leave as quality-of-life issues. But your economic advisers have pointed out that American women are now less likely to be in the workforce than their European peers, seemingly because our policies make it so hard to work and raise a family. What effect do you think this rule and changes like it could have on the labor market and overall economy?
+
+
+In a 21st century economy, we shouldn’t sideline any of our talent. It’s that simple. We’re losing incredible talent in our workforce every year as parents decide to switch jobs or leave the workforce entirely to be able to better fulfill their obligations at home and at work.
+
+
+Beyond the moral imperative, common sense, and overwhelming public support to enact changes like paid sick leave or paid family leave, there is also the simple fact that these changes stand to make our country and our businesses a lot of money.
+
+
+To achieve these productivity gains and GDP growth, we would need to substantially increase our support for women’s labor force participation—and this means narrowing the gender gap between part-time and full-time work, reducing the gender pay gap, and supporting women who want to stay in the workforce while raising families. We know how to do this. Workplace flexibility, affordable child care, paid family leave, and paid sick days all boost women’s participation rates in the workforce. They increase productivity, morale, and job retention. We know that when women can access paid family leave, they’re more likely to remain in the workforce a year after giving birth. For a business, that means they’re more likely to retain firm-specific skills. We’re talking about opening up a huge talent pool that will drive competition.
+
+
+
+
+Top Comment
+
+
+    
+        
+            I think, instead of offering sick leave so that people who are sick don't have to work or lose their jobs, we should only pay employees if we feel like it, that way it would be more profitable and convenient!  More...
+
+
+
+
+Join In
+
+
+
+
+We also know that when leave is unpaid, men are less likely to take it. They stay at work. So if dads stay at work, moms take on more of the housework and child care from the time the first child is born. Throughout my life, I saw my own grandmother and mother take off a disproportionate amount of time to care for sick loved ones or to care for the kids. And today it’s still something that is unbalanced between men and women. I’ve seen how Michelle balanced the demands of a busy career and raising a family. Like many working mothers, she worried about the expectations and judgments of how she should handle the tradeoffs, knowing that few people would question my choices.
+
+
+But you know what? Taking care of a child isn’t just a woman’s job. It’s a man’s job, too. That’s why it’s critical that we have paid family leave for both men and women—and that we foster a work culture where men and women are encouraged to actually take it.
+
+
+Listen to Jordan Weissmann’s interview with Secretary of Labor Tom Perez.
+
+
+
+
+
+        requirejs(["jquery"], function($) {
+            function getDropCappedString(firstParagraphObj) {
+                var textString = firstParagraphObj.html().trim();
+                if (textString.length > 0) {
+                    var firstLetter = textString[0].match(/[A-Za-z0-9]/);
+                    if (firstLetter != null) {
+                        return '<span class="drop-capped">' +
+                            firstLetter + '' + textString.substr(1);
+                    }
+                }
+                return null;
+            };
+
+
+            $(function() {
+                var $p = $(".main div.body div.text:first p:first");
+                if ($p.length != 0 && $p.find("span.drop-capped").length==0 ) {
+                   var newString = getDropCappedString($p);
+                   if (newString != null && 1 < 2) {
+                       $p.html(newString);
+                   }
+                }
+                if($(".main div.body div.sectionheader").length!=0) {
+                    //apply to first par of each section of fresca
+                    $(".main div.body div.sectionheader").each(
+                            function(index) {
+                                if($(this).nextAll("div.text").first().find("p:first span.drop-capped").length==0)  {
+                                    var $p = $(this).nextAll("div.text").first().find("p:first"),
+                                     newString = getDropCappedString($p);
+                                    if (newString != null) {
+                                        $p.html(newString);
+                                    }
+                                }
+                            }
+                    )
+                }
+
+            });
+        });
+    
+
+
+
+
+
+
+Jordan Weissmann is Slate’s senior business and economics correspondent.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Load Comments
+
+
+Powered by Livefyre
+
+
+
+
+
+
+
+
+
+requirejs(['config', 'jquery', 'slatelivefyre'], function(config, $, slatelivefyre) {
+  $('#livefyre .lf-loader').html([
+    '<div style="color: #999;">Loading...',
+    '',
+    'Are Slate\'s comments not loading even after a few seconds? ',
+    '',
+    'Send us your browser and operating system information.',
+    ''
+  ].join(''));
+
+  $.extend(config.livefyre, {
+    collectionMeta: 'eyJhbGciOiJIUzI1NiJ9.eyJ0aXRsZSI6IldoYXQgQ2FuIHRoZSBQcmVzaWRlbnQgRG8gdG8gSGVscCBXb3JrZXJzIFdobyBOZWVkIGEgU2ljayBEYXk_IFdlIEFza2VkIEhpbS4iLCJ1cmwiOiJodHRwOi8vd3d3LnNsYXRlLmNvbS9hcnRpY2xlcy9idXNpbmVzcy9tb25leWJveC8yMDE2LzA5L2FuX2ludGVydmlld193aXRoX3ByZXNpZGVudF9iYXJhY2tfb2JhbWFfYWJvdXRfZXh0ZW5kaW5nX3BhaWRfc2lja19sZWF2ZS5odG1sP3dwaXNyY1x1MDAzZGxmIiwidGFncyI6ImJhcmFjayBvYmFtYSxpbGxuZXNzLGxhYm9yIiwiY2hlY2tzdW0iOiJmOGVjYWNhMGE5Y2ZlZmFmNjEyMzRkYTI0NGZkZjlmNSIsImFydGljbGVJZCI6ImNxLTEwMDE2MDkyOTAwMiJ9.Iyy-ySih7jrzhD67cw6kZzQ0D0ojnR6HdG4rxY8_SqM'
+  });
+
+  if (config.iscroll.disabled) {
+    slatelivefyre.loadLivefyre(config.page.articleId, config.livefyre.collectionMeta);
+  }
+});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Slate logo
+
+
+
+
+
+
+
+Sign In
+Sign Up
+
+
+
+
+
+
+
+
+requirejs(['jquery'], function($) {
+  if (mobileMode()) {
+    $(".rightrailstories section").remove();
+  }
+});
+
+
+
+
+
+
+
+
+
+
+
+
+      body > .bottom {
+        text-align: center;
+        padding: 10px 0;
+      }
+      .bottom > #slug_leaderboard_2 {
+        position: relative;
+        width: auto;
+        text-align: center;
+      }
+    
+
+
+
+
+
+
+FOLLOW SLATE
+
+
+Twitter
+
+
+Facebook
+
+
+Instagram
+
+
+
+
+
+SLATE ON
+
+IPHONE
+ANDROID
+KINDLE
+
+
+
+Reprints
+Advertise with us
+
+
+
+
+
+
+
+ABOUT US
+CONTACT US
+WORK WITH US
+USER AGREEMENT
+PRIVACY POLICY
+FAQ
+
+
+FEEDBACK
+CORRECTIONS
+
+
+
+Slate Group logo
+
+
+
+
+
+Slate is published by The Slate Group, a Graham Holdings Company. All contents ©
+        2018  The Slate Group LLC. All rights reserved.
+
+ 
+
+
+
+
+
+
+requirejs(["jquery", "hcs/libs/iscroll-lite", "modernizr", "hcs/script", "hcs/plugins/SGGlobalNav.jquery", "hcs/plugins/jQuery.highlighter","hcs/plugins/SGGlobalNav.jquery","libs/jquery-plugins/jquery.timeago","announcements","myslate"], function($, iScroll, unused0, unused1, unused2, unused3, unused4, unused5, announcements, myslate) {
+  $(document).ready(function() {
+    announcements.deleteOldCookies();
+    
+    $("span.timeago").timeago();
+  });
+  function pageLoadedForScrolling(){
+
+
+    scroller = new iScroll('main_sidebar', {
+      hScroll: false,
+      hScrollbar: false,
+      bounce: false
+    });
+
+    if(!mobileMode() && tabletMode() && $('html').hasClass('touch')){
+      // Nav gets iScroll if we're on an actual tablet.
+      window.tabletScroller = new iScroll('nav_sections', {
+        hScroll: false,
+        hScrollbar: false,
+        bounce: false,
+        onBeforeScrollStart: function (e) {
+          var target = e.target;
+          while (target.nodeType != 1) target = target.parentNode;
+
+          if (target.tagName != 'SELECT' && target.tagName != 'INPUT' && target.tagName != 'TEXTAREA')
+          e.preventDefault();
+        }
+      });
+    }
+
+  }
+
+  // We institute fancy scrolling on iscroll only on mobile webkit.
+
+  // Webkit detection script
+  Modernizr.addTest('webkit', function(){
+    return RegExp(" AppleWebKit/").test(navigator.userAgent);
+  });
+
+  // Mobile Webkit
+  Modernizr.addTest('mobile', function(){
+    return RegExp(" Mobile/").test(navigator.userAgent);
+  });
+
+  if(Modernizr.webkit && Modernizr.mobile){
+    if (document.addEventListener){
+      document.addEventListener('DOMContentLoaded', function () { setTimeout(pageLoadedForScrolling, 200); }, false);
+    } else if (document.attachEvent){
+      document.attachEvent('DOMContentLoaded', function () { setTimeout(pageLoadedForScrolling, 200); }, false);
+    }
+  }
+
+
+
+  $(function(){
+
+    if ($('body').hasClass('home')
+        || $('body').hasClass('landing')
+        || $('body').hasClass('settings')) {
+      $('.nav-header').SGGlobalNav({
+        noRollup: true, // Need to tell the homepage and landing etc that there's no rollup here, which causes things to behave differently.
+        noBurgerScroll: $('body').hasClass('no-burger-scroll'),
+        isSlatePlusUser: myslate.isSlatePlusUser
+      });
+    } else {
+      $('.nav-header').SGGlobalNav({
+        isSlatePlusUser: myslate.isSlatePlusUser
+      });
+    }
+
+
+    // Input field placeholder plugin to account for placeholder fallbacks.
+    jQuery(document).ready(function($) {
+      $(".field-with-placeholder").placeholder();
+    });
+
+
+    $('.content').highlighter({
+      'selector': '.highlighter-container',
+      'noHighlightIds': $('#podcast-slateplus-page'),
+      'minWords': 0,
+      'complete': function (data) {
+        // Here we have the selected string for use.
+        // console.log(data);
+        selectedText = data;
+      }
+    });
+
+  });
+
+
+  $(document).ready(function() {
+    $(".sticky").each(function() {
+      var stickyTop = $(".sticky").offset().top; // returns number
+      $(window).scroll(function() { // scroll event
+        var windowTop = $(window).scrollTop() + 57 + parseInt($(".sticky").css("margin-top").split("px")[0]); // returns number
+        if (stickyTop < windowTop) {
+          $(".sticky").css({ position: "fixed", top: "53px" });
+        } else {
+          $(".sticky").css("position","static");
+        }
+      });
+    })
+  });
+
+  watchSocialWelcomeNotifications();
+
+});
+    
+
+requirejs(["jquery", "myslate", "hcs/script", "hcs/plugins/SGNavDropdown.jquery",
+		"hcs/plugins/SGBigSlider.jquery","hcs/plugins/SGFootnote.jquery","hcs/plugins/SGRollup.jquery",
+		"hcs/plugins/SGNavDropdown.jquery","hcs/plugins/SGLightbox.jquery"],
+		function($, myslate, unused0, unused1, unused2, unused3, unused4, unused5, unused6) {
+
+    $(function(){
+
+      $('.footnote').SGFootnote();
+      var multipartArticleRollup = $('#article_rollup');
+
+      var subHed = $('#sub_hed');
+      if(subHed.length > 0){
+        subHed.SGNavDropdown({ // Multipart rollup triggered by tapping the subhed.
+          extraId: 'subhed', // Used to name events inside the plugin, so we can be sure to bind/unbind the correct stuff.
+          targetId: '#multipart_nav', // The thing to show.
+          leftOffset: function(){ return $('#sub_hed').position().left; },
+          topOffset: function(){ return $('#sub_hed').position().top + $('#sub_hed').outerHeight(true); },
+          onShow: function(){
+            $('#multipart_nav').css('position', 'absolute');
+            $('#multipart_nav').css('height', 'auto');
+            $('#multipart_nav').css('overflow', 'auto');
+            // subHed.find('.toggle').addClass('open-toggle');
+          },
+          onHide: function(){
+            // subHed.find('.toggle').removeClass('open-toggle');
+          }
+        });
+      }
+
+      if($('#article_header').length > 0){
+        // The roll up.
+        $('#main_sidebar').SGRollup({ // The main element assigned to this plugin is used to trigger the drop of the rollup on desktop mode.
+          rollupEl: multipartArticleRollup,
+          topOffset: $('#slate_logo').height(),
+          leftOffset: $('#article_header').offset().left,
+          tablet: {el: $('#article_header'), topOffset: $('#article_header').height()}, // Indicate the visibility triggers for tablet mode.
+          mobile: {el: $('#tablet_header'), topOffset: $('#tablet_header').height()},// Indicate the visibility triggers for mobile mode.
+          onHide: function(){
+            // On roll back up make sure to hide the nav if it's open, assuming it was opened by the rollup toggle.
+            if(multipartArticleRollup.data('plugin_SGNavDropdown').isTargetVisible() && $('#multipart_nav').data('openedByRollup')){
+              multipartArticleRollup.data('plugin_SGNavDropdown').close();
+            }
+          }
+        });
+      }
+
+    // Multipart dropdown triggered by the rollup in the multipart nav.
+      multipartArticleRollup.SGNavDropdown({
+        targetId: '#multipart_nav', // The thing to show.
+        extraSpecificHandle: '.handle',
+        extraId: 'multipart', // Used to name events inside the plugin, so we can be sure to bind/unbind the correct stuff.
+        leftOffset: function(){ return multipartArticleRollup.find('.main').offset().left; },
+        topOffset: function(){
+          return multipartArticleRollup.outerHeight(true)
+        },
+        onShow: function(){
+          $('#multipart_nav').css('position', ''); // undo the absolute bit we might have affixed in subHed.SGNavDropdown().
+          $('#multipart_nav').addClass('fixed').data('openedByRollup', true);
+          $('#multipart_nav').css('max-height', (mobileMode() ? $(window).outerHeight(true) + 10 : $(window).height() - $('#article_rollup').height()));
+          $('#multipart_nav').css('overflow', 'scroll');
+          if(mobileMode()){
+            $('#multipart_nav').css('right', 0);
+          }
+        },
+        onHide: function(){
+          $('#multipart_nav').data('openedByRollup', false);
+        }
+      });
+
+
+
+
+
+      // Trigger the slideshow lightbox for from the .slideshow-preview example.
+        $('#slideshow_preview_link').SGLightbox({
+          type: 'slideshow',
+          slideshowElement: $('#the_slideshow')
+        });
+
+
+      watchMobileRollupSocialToggle();
+
+      $('.expandable').find('.toggle').click(function(e){
+        $(this).closest('.social').toggleClass('visible');
+        $('#main_byline').toggle();
+        e.preventDefault();
+      });
+
+      $('.full-width').setFullWidth();
+
+    });
+});
+    
+
+    // Manage the social horizontal toggles on the landing pages.
+requirejs(["jquery", "hcs/script"],
+		function($, unused0) {
+
+      $(function(){
+        $('.social').find('.toggle').click(function(e){
+          e.preventDefault();
+          $(this).closest('.social').toggleClass('visible');
+        });
+      });
+});
+    
+
+
+
+
+
+  var parselyLoaded = false,
+      parselyActionname = 'noniscrollstory';
+
+  
+
+
+  
+
+  // Call Parsely Onload Handler
+  PARSELY = {
+    autotrack: false,
+    onload: function() {
+      parselyLoaded = true;
+      PARSELY.beacon.trackPageView(parselyEvent);
+    }
+  };
+
+  // Load Parsely API Script
+  (function(s, p, d) {
+    var h=d.location.protocol, i=p+"-"+s,
+        e=d.getElementById(i), r=d.getElementById(p+"-root"),
+        u=h==="https:"?"d1z2jf7jlzjs58.cloudfront.net"
+        :"static."+p+".com";
+    if (e) return;
+    e = d.createElement(s); e.id = i; e.async = true;
+    e.src = h+"//"+u+"/p.js"; r.appendChild(e);
+  })("script", "parsely", document);
+
+
+
+Slate
+
+
+
+
+
+
+
+
+
+Slate logo
+
+
+
+
+
+
+
+Sign In
+Sign Up
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

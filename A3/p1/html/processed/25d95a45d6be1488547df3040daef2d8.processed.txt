@@ -1,0 +1,701 @@
+http://www.aljazeera.com/programmes/specialseries/2016/12/thailand-footsteps-king-161206075540477.html
+
+
+
+
+
+Thailand: In the Footsteps of the King | Bhumibol Adulyadej | Al Jazeera
+
+
+var _sf_startpt=(new Date()).getTime()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+window.rsConf = {settings: {hlicon: 'iconoff'}};
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Created with Sketch.             Watch Live 
+
+
+
+
+
+
+
+
+
+
+
+
+				 
+
+
+
+
+
+
+					 
+
+
+Now Playing
+
+ Watch
+
+
+
+ 
+
+ Listen
+
+
+
+TV Schedule
+
+
+
+
+
+
+ Live 
+
+submit
+
+
+
+
+
+
+
+
+
+al jazeera
+menu
+ 
+
+
+
+submit
+
+
+Home
+NewsMore
+
+
+Middle East
+Africa
+Asia
+US & Canada
+
+
+
+
+Latin America
+Europe
+Asia Pacific
+All
+
+
+
+
+Middle East
+DocumentariesMore
+
+
+Featured Documentaries
+Witness
+Al Jazeera World
+101 East
+
+
+
+
+People & Power
+Fault Lines
+My Tunisia
+Al Jazeera Selects 
+Al Jazeera Correspondent
+REWIND
+All
+
+
+
+
+ShowsMore
+
+
+Inside Story
+The Stream
+The Listening Post
+Talk to Al Jazeera
+
+
+
+
+The Big Picture
+Counting the Cost
+UpFront
+earthrise
+Empire
+All
+
+
+
+
+Investigations
+Opinion
+In Pictures
+MoreMore
+
+
+Features
+Investigations
+In Pictures
+Interactive
+
+
+
+
+Interactive Documentaries
+AJ Shorts
+Podcasts
+Reporter's Notebook
+Human Rights
+Sport
+Science & Technology
+Weather
+
+
+
+
+
+
+
+Trending:
+Ethiopia
+Donald Trump
+Gun control
+Zimbabwe
+Syria's Civil War
+
+
+
+
+
+
+
+
+Most Searched
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+googletag.cmd.push(function() { 
+googletag.display('div-gpt-ad-1430377943388-2'); 
+});
+
+
+
+
+
+
+        .oryx-bg {
+        background-image: url(/mritems/Images/2015/3/25/4397ca12b78345f985ff62c155f834f8_6.jpg);
+        }
+      
+
+Home
+
+Thailand: In the Footsteps of the King
+
+A look at the life and legacy of Thailand's King Bhumibol and the challenges facing his successor.
+06 Dec 2016 16:31 GMT Thailand, Bhumibol Adulyadej
+
+RenderPagesVideo('5236235741001', 0, '100%', 473, 'vdoContainer');Thailand's new King Maha Vajiralongkorn assumed Thailand's throne on December 1, more than a month after the death of his father, the late King Bhumibol Adulyadej. The 64-year-old had been expected to ascend to the throne immediately, but asked for time to grieve.
+He accepted the throne following an invitation from parliament formalising his accession, but the official coronation won't take place until October 2017 - after a year of mourning for King Bhumibol.
+Vajiralongkorn succeeds a man described as Thailand's peace broker and champion of democracy. The much respected King Bhumibol succumbed to his illnesses at the age of 88 and his death set off widespread grief throughout the country.
+Serving since 1946, King Bhumibol was the country's symbol of national unity. Since the transition to a constitutional monarchy in 1932, the country has had 20 constitutions, 29 prime ministers, witnessed 19 attempted coups, 12 of them successful.
+Yet, in these turbulent political waters, he was a constant anchor and was the one credited for keeping Thailand from plunging into political anarchy.
+His passing comes at a time when the country is once again facing familiar challenges to its democracy: increased military control of the political system and ever-growing divisions in Thai society.
+The same will be expected of the new king.
+King Vajiralongkorn, educated in the UK and at Australia's Royal Military College, holds high-ranking posts in the Thai army. Currently single, he has been married three times and is father to seven children.
+He did not participate in most public and political duties, leaving them to his revered father; now, without the country's familiar guiding hand, many worry that Thailand's deep divisions will resurface. 
+The new king will need all his father's political acumen and authority to guide Thailand through what most predict will be challenging times ahead.
+"When a person has set such a high standard, and is much loved and respected and admired for his accomplishments and for what he did, it's always difficult for a successor," says Anand Panyarachun, former Thai prime minister.
+So will he be able to fill the shoes of his father and become Thailand's moral and spiritual authority?
+We look at the life and legacy of King Bhumibol and the challenges facing his successor, King Vajiralongkorn.Source: Al Jazeera
+
+
+Tell us what you think
+
+
+
+{
+    "@context": "http://schema.org",
+        "@type": "Article",
+    
+        "mainEntityOfPage": "http://www.aljazeera.com/programmes/specialseries/2016/12/thailand-footsteps-king-161206075540477.html",
+        "headline": "Thailand: In the Footsteps of the King",
+    "datePublished": "06 Dec 2016 08:04 GMT",
+    "dateModified": "06 Dec 2016 16:31 GMT",
+    "description": "A look at the life and legacy of Thailand's King Bhumibol and the challenges facing his successor.",
+    "author": {
+    "@type": "Organization",
+    "name": "Al Jazeera"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Al Jazeera",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "http://www.aljazeera.com/mritems/assets/images/AJLOGOGOOGLE.png",
+        "width": 250,
+        "height": 40
+      }
+    }, 
+    "image": {
+        "@type": "ImageObject",
+        "url": "http://www.aljazeera.com/mritems/imagecache/mbdxxlarge/mritems/Images/2016/12/6/eaaf107f3e404dfa9a1af41dff8122aa_18.jpg",
+            "height": 450,
+            "width": 800
+    }
+}
+
+
+{
+  "@context": "http://schema.org",
+  "@type": "VideoObject",
+          "name": "Thailand: In the Footsteps of the King",
+  "description": "A look at the life and legacy of Thailand's King Bhumibol and the challenges facing his successor.",
+  "thumbnailUrl": "http://www.aljazeera.com/mritems/imagecache/mbdxxlarge/mritems/Images/2016/12/6/eaaf107f3e404dfa9a1af41dff8122aa_18.jpg",
+  "uploadDate": "06 Dec 2016 16:31 GMT",
+      "publisher": {
+      "@type": "Organization",
+      "name": "Al Jazeera",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "http://www.aljazeera.com/mritems/assets/images/AJLOGOGOOGLE.png",
+        "width": 250,
+        "height": 40
+      }
+    }
+}
+
+RelatedCrown prince Vajiralongkorn becomes Thailand's new king
+The 64-year-old succeeds his much-revered father who died 50 days ago following a 70-year reign.
+Thailand, Asia PacificLife in pictures: Thai King Bhumibol Adulyadej
+The world's longest-reigning monarch, respected by the vast majority of Thai people, dies at 88 after prolonged illness.
+Politics, Thailand, Asia Pacific
+
+
+      Commenting has been disabled. To find out more, click      
+      here.
+     
+
+
+MORE FROM AL JAZEERA
+Revival: The Muslim Response to the Crusades
+This part of 'The Crusades: An Arab Perspective' explores the birth of the Muslim revival in the face of the Crusades.
+Religion, Islam, Christianity
+
+Is Mexico the most dangerous country on earth?
+Or does it just suffer from the misfortune of being a neighbour of the US?
+Mexico, United States, Drug cartels
+
+Africa is not poor, we are stealing its wealth
+It's time to change the way we talk and think about Africa. 
+Africa, Corruption, Aid
+
+Myanmar: Who are the Rohingya?
+Why are the more than one million Rohingya in Myanmar considered the 'world's most persecuted minority'?
+Rohingya, Humanitarian crises, Myanmar
+Related
+Crown prince Vajiralongkorn becomes Thailand's new king
+The 64-year-old succeeds his much-revered father who died 50 days ago following a 70-year reign.
+Thailand, Asia Pacific
+
+Life in pictures: Thai King Bhumibol Adulyadej
+The world's longest-reigning monarch, respected by the vast majority of Thai people, dies at 88 after prolonged illness.
+Politics, Thailand, Asia Pacific
+Latest News
+Iran denies 'hegemon' plans, denounces Saudi and Israel
+Saudi Arabia urges 'fundamental change in Iranian regime' as Tehran's foreign minister calls foes 'US client states'. 
+Middle East, Israel, Saudi Arabia, Iran
+
+12 ISIL widows sentenced to death, life by Iraqi court
+A dozen foreign women who joined ISIL husbands while fighting in Iraq sentenced by a court in Baghdad. 
+Iraq, ISIS, Middle East
+Trending
+
+Canada deports North Korean asylum seekers
+12 ISIL widows sentenced to death, life by Iraqi court
+Iran denies 'hegemon' plans, denounces Saudi and Israel
+Iran plane crash kills all 66 people on board
+How Navalny changed the rules of the game in Russia
+Revival: The Muslim Response to the Crusades
+Iran and India sign deal to deepen relations
+Africa is not poor, we are stealing its wealth
+What triggered unrest in Ethiopia?
+How far will Robert Mueller's investigation go?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MUST-SEE PROGRAMMESPeople & PowerUkraine: A dangerous gameAs crucial elections approach, is Ukraine really as divided as people have been told?Crimea, Ukraine, RussiaGaddafi: The EndgameLibya: State of DenialThe story of the fall of Gaddafi as told by the insiders, defectors and military advisers who helped bring it about.Muammar Gaddafi, Libya, PoliticsTalk to Al JazeeraHailemariam Desalegn: Democracy 'not only an election'The Ethiopian prime minister discusses democracy, human rights, press freedom and the future of his country.Politics, Human Rights, EthiopiaProgrammesBahrain: Shouting in the DarkThe story of the Arab revolution that was abandoned by the Arabs, forsaken by the West and forgotten by the world.Bahrain, Middle East, Arab Spring
+
+
+
+
+
+
+
+ 
+
+
+News
+
+Programmes
+
+Opinion
+
+About
+
+Investigations
+
+Contact Us
+
+Video
+
+
+
+Facebook
+
+Twitter
+
+Google+
+
+RSS
+
+Podcast
+
+YouTube
+
+SnapChat
+
+
+
+			© 2017 Al Jazeera Media Network
+
+
+
+
+
+					About
+
+
+About Us
+
+Press Office
+
+Awards
+
+Code of Ethics
+
+Terms and Conditions
+
+Community Guidelines
+
+Work for us
+
+HR Quality
+
+
+
+
+					Connect
+
+
+Contact Us
+
+Apps
+
+Social
+
+Channel Finder
+
+TV Schedule
+
+Podcasts
+
+Newsletter
+
+
+
+
+
+
+					Our Channels
+
+
+Al Jazeera Arabic
+
+Al Jazeera English
+
+Al Jazeera Mubasher
+
+Al Jazeera Documentary
+
+Al Jazeera Balkans
+
+AJ+
+
+
+
+
+					Our Network
+
+
+Jetty
+
+Al Jazeera Centre for Studies
+
+Al Jazeera Media Institute
+
+Al Jazeera Centre for Public Liberties & Human Rights
+
+Al Jazeera Forum
+
+Al Jazeera Film Festival
+
+Al Jazeera Learning
+
+Al Jazeera Hotel Partners
+
+
+
+
+
+
+					 
+
+
+
+
+
+					© 2018 Al Jazeera Media Network
+
+
+
+
+
+	 
+
+
+
+
+
+
+
+
+ 
+        $(function() {   
+            $('img.lazy').lazy({
+                effect: "fadeIn",
+                effectTime: 1000,
+		defaultImage: "http://www.aljazeera.com/img/nov-2016/novresptopfeature.jpg",
+		visibleOnly: true
+                
+            });
+        });
+
+    
+
+
+
+
+googletag.cmd.push(function() { 
+googletag.display('div-gpt-ad-1430377943388-0'); 
+});
+
+
+
+
+
+
+	
+googletag.cmd.push(function() { 
+googletag.display('div-gpt-ad-1430377943388-1'); 
+});
+
+
+
+
+
+	
+googletag.cmd.push(function() { 
+googletag.display('div-gpt-ad-1430377943388-4'); 
+});
+
+
+
+
+	try {
+	$('.topadcontainer').remove();
+        $('#topdivad').insertAfter('#oryxcontext');
+	document.getElementById("topdivad").style.display = "block";
+if (document.getElementById("toprightlongad")!= null){
+	var RightDiv = document.getElementById("toprightlongad");
+	RightDiv.innerHTML = document.getElementById("rightlongad").innerHTML;  
+	document.getElementById("rightlongad").innerHTML = "";
+}
+$( document ).ready(function() {
+    if (document.getElementById("ArticleSecAd")!= null){
+	var RightboDiv = document.getElementById("ArticleSecAd");
+	RightboDiv.innerHTML = document.getElementById("rightbottomad").innerHTML;  
+	document.getElementById("rightbottomad").innerHTML = "";
+}
+});
+
+
+
+	$('#div-gpt-ad-1430377943388-2').remove();
+	}
+	catch(err) {
+    		
+	}
+
+
+
+
+googletag.cmd.push(function() { 
+googletag.display('div-gpt-ad-1430377943388-3'); 
+});
+
+
+
+
+
+
+
+/* <![CDATA[ */
+var google_conversion_id = 944250150;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+var google_conversion_format = 3;
+/* ]]> */
+
+
+
+
+
+
+
+
+
+
+
+
+/* <![CDATA[ */
+var google_conversion_id = 944250150;
+var google_conversion_language = "en";
+var google_conversion_format = 3;
+var google_conversion_color = "ffffff";
+var google_conversion_label = "qHeuCOSxnF8QprqgwgM";
+var google_remarketing_only = false;
+/* ]]> */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,51 @@
+http://pr.aljazeera.com/post/156437557510/eu-chief-brexit-negotiator-says-technically
+var __pbpa = true;var translated_warning_string = 'Warning: Never enter your Tumblr password unless \u201chttps://www.tumblr.com/login\u201d\x0ais the address in your web browser.\x0a\x0aYou should also see a green \u201cTumblr, Inc.\u201d identification in the address bar.\x0a\x0aSpammers and other bad guys use fake forms to steal passwords.\x0a\x0aTumblr will never ask you to log in from a user\u2019s blog.\x0a\x0aAre you absolutely sure you want to continue?';EU Chief Brexit Negotiator says “technically...figure{margin:0}.tmblr-iframe{position:absolute}.tmblr-iframe.hide{display:none}.tmblr-iframe--amp-cta-button{visibility:hidden;position:fixed;bottom:10px;left:50%;transform:translateX(-50%);z-index:100}.tmblr-iframe--amp-cta-button.tmblr-iframe--loaded{visibility:visible;animation:iframe-app-cta-transition .2s ease-out}
+      // test for svg as image @see http://css-tricks.com/test-support-svg-img/
+      if(document.implementation.hasFeature("http://www.w3.org/TR/SVG11/feature#Image", "1.1")) {
+        document.documentElement.className += " svgasimg";
+      }
+
+    
+	{"@type":"SocialMediaPosting","url":"http:\/\/pr.aljazeera.com\/post\/156437557510\/eu-chief-brexit-negotiator-says-technically","mainEntityOfPage":true,"datePublished":"2017-01-27T09:34:42-05:00","author":"aljazeerapr","image":"http:\/\/78.media.tumblr.com\/b1984f1469756f861e6581788b487d16\/tumblr_inline_okfmi0RGTg1rwl04r_540.jpg","headline":"EU Chief Brexit Negotiator says \u201ctechnically impossible\u201d for new UK -EU trade deal within two years","articleBody":"Guy Verhofstadt MEP, the European Parliament\u2019s chief Brexit negotiator, speaks with UpFront:\n\u2022 Says a \u2018Little Englander\u2019 mentality could be a \u201cgood explanation\u201d for why Brits voted for Brexit\n\u2022 Declares it \u201ctechnically impossible\u201d for the UK to have a new trade deal in place with the EU in two...","@context":"http:\/\/schema.org"}Al Jazeera PRHomeAboutAwardsContact UsArchiveAl Jazeera PRهنا الجزيرةSearchEU Chief Brexit Negotiator says “technically impossible” for new UK -EU  trade deal within two years
+                                        January 27, 2017
+                                    Guy Verhofstadt MEP, the European Parliament’s chief Brexit negotiator,
+speaks with UpFront:Says a ‘Little Englander’
+mentality could be a “good explanation” for why Brits voted for BrexitDeclares it “technically
+impossible” for the UK to have a new trade deal in place with the EU in two years’
+time Suggests it’s “always
+possible” that the UK might rejoin the EU in the future and it could be a
+“little bit faster a process”Describes Brexit and other
+political challenges to the EU - from Trump to Putin - as an “existential
+threat”(Washington, D.C. – 27th, January) - In an interview with Al
+Jazeera English’s current affairs show, UpFront, Guy Verhofstadt, the
+European Parliament’s chief Brexit negotiator, speaks about Brexit, Britain and
+the challenges facing the European Union (EU). Asked about which issue drove 52% of Britons to vote for Brexit in
+June 2016, Verhofstadt replied: “Mainly the migration. It’s very clear.”When asked by UpFront host Mehdi Hasan if
+xenophobia and specifically a Little
+Englander mentality explained the Brexit vote, the MEP and former Belgian
+prime minister responded, “That’s maybe a good explanation”.During the interview, Verhofstadt was also asked whether it would
+be possible for the UK government to negotiate both Brexit and a new trade deal with the EU by 2019. “That’s technically impossible,” he said, referring to the
+timeline on a future trade agreement.He also emphasized that whilst they are not looking for a punitive
+exercise, the EU parliament will want a fair and generous agreement, where “you
+can never have outside the European Union a better status than as member of the
+European Union”.Verhofstadt also gave his thoughts on whether the UK could
+potentially re-enter the EU in the future under a different government. “That
+is always possible,” he said. “They can always reintroduce a request for
+membership of the European Union.”“Certainly, we have enough experience to make it a little bit a faster
+process than what is normal,” he added.The senior MEP and former Belgian prime minister also agreed that
+the numerous challenges facing the EU - the election of Donald Trump, the rise
+of Putin’s Russia, Brexit, and the fiscal and refugee crises - constitute an
+“existential threat” to the future of the union. Note to Editors·      
+This UpFront interview with Guy Verhofstadt will be
+available through this link: www.aljazeera.com/upfront by Saturday 28th
+January.·      
+More of the interview with Verhofstadt will air Friday 27th January
+at 19:30GMT·      
+If using quotes please credit Al Jazeera English and UpFront
+and please add this link to online copy
+www.aljazeera.com/upfront·      
+UpFront broadcasts on Fridays at 19:30 GMT. Follow UpFront
+on Twitter@AJUpFront·       For more
+information, or media enquiries, please contact: pressoffice@aljazeera.netal jazeera englishMehdi HasanAlJazeera AJUpFrontupfrontRead moreejomatic liked this                                    embrasse-mon-clone reblogged this from aljazeerapr embrasse-mon-clone liked this                                    aljazeerapr posted this                                                                        FacebookTwitterAboutThe Public Relations team at Al Jazeera sharing what's new and exclusive.
+                    function recent_tweets(data) { window.tweets_data = data; }
+                People I followAl Jazeera PRHomeAboutAwardsContact UsArchive© Copyright Al Jazeera 2012–2018
