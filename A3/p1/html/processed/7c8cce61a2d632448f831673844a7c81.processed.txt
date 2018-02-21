@@ -1,0 +1,1243 @@
+http://media2.liberty.edu/mediaplayer/939/full
+
+
+
+
+
+Liberty University Christian College Education - Media Archive
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-PVPCL2');
+        
+
+
+            //EDU TEMPLATE CHECK FOR GLOBAL HEADER
+            eduTemplate = true;
+        
+
+
+
+
+
+
+
+
+
+
+About Liberty
+
+
+
+ About Liberty
+Get a world-class education with the solid Christian foundation you’re looking for at Liberty University. Here, you’ll gain the values, knowledge, and skills you’ll need for success in every aspect of life.
+
+
+
+Top Links
+History of Liberty
+News & Events
+Leadership
+
+
+ 
+LU Quick Facts
+Doctrinal Statement
+Visit Liberty
+Campus Map
+Campus Construction
+
+
+ 
+Give to Liberty
+Contact Liberty
+
+
+ 
+
+
+
+
+
+Academics
+
+
+
+ Academics
+Liberty University offers undergraduate and graduate degrees through residential or online programs— choose from more than 500 programs of study.
+
+
+
+Top Links
+Undergraduate Degrees
+Graduate Degrees
+Course Catalog
+Academic Support (CASAS)
+Library
+
+
+ 
+LU Bookstore
+Honors Program
+Registrar's Office
+Academic Calendar
+
+
+ 
+Policy Directory
+Travel Experiences
+
+
+ 
+
+
+
+
+
+Athletics
+
+
+
+ Athletics
+A thriving athletics program has been an integral part of Liberty University's vision from the beginning, and today Liberty has 20 NCAA Division I athletic teams, 35 Club Sports teams, and 20 intramural sports. 
+
+
+
+Sports & Clubs
+NCAA Sports
+Club Sports
+Intramural Sports
+Flames Club
+Varsity Club
+
+
+Athletic Facilities
+Williams Stadium
+Vines Center
+Liberty Baseball Stadium
+Kamphuis Field
+Snowflex Centre
+LaHaye Ice Center
+LaHaye Student Union
+
+
+Tickets & Merchandise
+Ticket Information
+Flames Merchandise
+Flames License Plates
+
+
+ 
+
+
+
+
+
+Admissions & Tuition
+
+
+
+ Admissions & Tuition
+Get your associate or bachelor’s degree here on the Liberty University campus. Choose from more than 200 undergraduate residential programs in a wide variety of fields. You can also tailor your degree and target your area of interest through our specialized minors and certificates.
+
+
+
+Finances
+Tuition & Costs
+Financial Aid
+Scholarships & Grants
+Housing
+Dining
+
+
+Resident Admissions
+Apply Now
+Visit Liberty
+Undergraduate
+Graduate
+International
+Transfer
+Military
+Homeschool
+
+
+Online Admissions
+LU Online
+Certificate Programs
+Associate Degrees
+Bachelor's Degrees
+Master's Degrees
+Doctoral & Postgraduate Degrees
+Military Students
+
+
+Related Schools
+School of Law
+Osteopathic Medicine
+Liberty University Online Academy
+
+
+
+
+
+Campus Life
+
+
+
+ Campus Life
+Your schedule may be packed, but make sure you take some time to clear your head with one of the many recreational activities going on at Liberty University.
+
+
+
+Student Affairs
+Housing
+Student Government
+Yearbook
+Conduct Code & Appeals
+Counseling
+Student Leadership
+Multicultural Enrichment
+Department Index
+
+
+Campus Recreation
+Calendar
+Student Activities
+Club Sports
+Intramural Sports
+LaHaye Ice Center
+Campus Recreation
+Snowflex Centre
+LaHaye Student Union
+
+
+Related Offices
+Card Services
+Dining Services
+Parents & Families
+
+
+Support
+Advocate Office
+Disability Support
+Spiritual Support
+Commuter Students
+International Students
+Graduate Students
+Military Students
+
+
+
+
+Faith & Service
+
+
+
+Faith & Service
+Grow in your faith as you participate in the wide variety of ministry and mission opportunities at Liberty University.
+
+
+
+Top Links
+Convocation
+Campus Community
+Worship Collective
+Online Communities
+
+
+ 
+Spiritual Programs
+Travel (LU Send)
+Spiritual Development Office
+Campus Pastors Office
+
+
+ 
+Christian/Community Service
+Center for Global Engagement
+Center for Ministry Training
+
+
+ 
+
+
+
+
+News
+Calendar
+Affiliated Websites
+
+
+
+ Affiliated Websites
+
+
+
+
+Online
+
+
+Athletics
+
+
+Alumni
+
+
+myLU
+
+
+            Education
+            
+
+Liberty University
+
+
+Liberty University Online
+
+
+School of Divinity
+
+
+School of Law
+
+
+Osteopathic Medicine
+
+
+Liberty Online Academy
+
+
+Resident Undergrad Admissions
+
+
+Resident Graduate Admissions
+
+
+Liberty Christian Academy
+
+
+LU en Español
+
+
+Willmington School of the Bible
+
+
+Military Affairs
+
+
+            Athletics
+            
+
+Liberty Flames
+
+
+Flames Football
+
+
+Flames Basketball - Men
+
+
+Flames Basketball - Women
+
+
+Club Sports
+
+
+Campus Recreation
+
+
+Intramural Sports
+
+
+            Events
+            
+
+College For A Weekend
+
+
+Commencement
+
+
+Homecoming
+
+
+Online Communities
+
+
+Scaremare
+
+
+Winterfest
+
+
+            Media
+            
+
+Liberty News
+
+
+Liberty Journal
+
+
+The Journey FM
+
+
+90.9 The Light
+
+
+Liberty Champion
+
+
+Selah Yearbook
+
+
+Streaming Media
+
+
+Media Inquiries
+
+
+Campus Maps
+
+
+
+
+
+
+
+Apply Now
+Request More Information
+Visit Liberty
+Library
+Give
+
+
+
+
+
+
+
+
+
+                        .st0{fill:#FFFFFF;}
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+News
+
+
+Calendar
+
+
+Give
+
+
+
+
+
+
+A-Z Index
+Blackboard
+IT HelpDesk
+Library
+Offices
+Online Learning
+Parents
+
+
+
+
+
+
+
+
+
+About Liberty
+
+
+
+ About Liberty
+Get a world-class education with the solid Christian foundation you’re looking for at Liberty University. Here, you’ll gain the values, knowledge, and skills you’ll need for success in every aspect of life.
+
+
+
+Top Links
+History of Liberty
+News & Events
+Leadership
+
+
+ 
+LU Quick Facts
+Doctrinal Statement
+Visit Liberty
+Campus Map
+Campus Construction
+
+
+ 
+Give to Liberty
+Contact Liberty
+
+
+ 
+
+
+
+
+
+Academics
+
+
+
+ Academics
+Liberty University offers undergraduate and graduate degrees through residential or online programs— choose from more than 500 programs of study.
+
+
+
+Top Links
+Undergraduate Degrees
+Graduate Degrees
+Course Catalog
+Academic Support (CASAS)
+Library
+
+
+ 
+LU Bookstore
+Honors Program
+Registrar's Office
+Academic Calendar
+
+
+ 
+Policy Directory
+Travel Experiences
+
+
+ 
+
+
+
+
+
+Athletics
+
+
+
+ Athletics
+A thriving athletics program has been an integral part of Liberty University's vision from the beginning, and today Liberty has 20 NCAA Division I athletic teams, 35 Club Sports teams, and 20 intramural sports. 
+
+
+
+Sports & Clubs
+NCAA Sports
+Club Sports
+Intramural Sports
+Flames Club
+Varsity Club
+
+
+Athletic Facilities
+Williams Stadium
+Vines Center
+Liberty Baseball Stadium
+Kamphuis Field
+Snowflex Centre
+LaHaye Ice Center
+LaHaye Student Union
+
+
+Tickets & Merchandise
+Ticket Information
+Flames Merchandise
+Flames License Plates
+
+
+ 
+
+
+
+
+
+Admissions & Tuition
+
+
+
+ Admissions & Tuition
+Get your associate or bachelor’s degree here on the Liberty University campus. Choose from more than 200 undergraduate residential programs in a wide variety of fields. You can also tailor your degree and target your area of interest through our specialized minors and certificates.
+
+
+
+Finances
+Tuition & Costs
+Financial Aid
+Scholarships & Grants
+Housing
+Dining
+
+
+Resident Admissions
+Apply Now
+Visit Liberty
+Undergraduate
+Graduate
+International
+Transfer
+Military
+Homeschool
+
+
+Online Admissions
+LU Online
+Certificate Programs
+Associate Degrees
+Bachelor's Degrees
+Master's Degrees
+Doctoral & Postgraduate Degrees
+Military Students
+
+
+Related Schools
+School of Law
+Osteopathic Medicine
+Liberty University Online Academy
+
+
+
+
+
+Campus Life
+
+
+
+ Campus Life
+Your schedule may be packed, but make sure you take some time to clear your head with one of the many recreational activities going on at Liberty University.
+
+
+
+Student Affairs
+Housing
+Student Government
+Yearbook
+Conduct Code & Appeals
+Counseling
+Student Leadership
+Multicultural Enrichment
+Department Index
+
+
+Campus Recreation
+Calendar
+Student Activities
+Club Sports
+Intramural Sports
+LaHaye Ice Center
+Campus Recreation
+Snowflex Centre
+LaHaye Student Union
+
+
+Related Offices
+Card Services
+Dining Services
+Parents & Families
+
+
+Support
+Advocate Office
+Disability Support
+Spiritual Support
+Commuter Students
+International Students
+Graduate Students
+Military Students
+
+
+
+
+
+Faith & Service
+
+
+
+Faith & Service
+Grow in your faith as you participate in the wide variety of ministry and mission opportunities at Liberty University.
+
+
+
+Top Links
+Convocation
+Campus Community
+Worship Collective
+Online Communities
+
+
+ 
+Spiritual Programs
+Travel (LU Send)
+Spiritual Development Office
+Campus Pastors Office
+
+
+ 
+Christian/Community Service
+Center for Global Engagement
+Center for Ministry Training
+
+
+ 
+
+
+
+
+
+
+
+
+            //GET URL PARAMETERS/VARIABLES
+            function sf_param(parameter) {
+            return decodeURIComponent((new RegExp('[?|&]' + parameter + '=' + '([^&;]+?)(&|#|;|$)').exec(location.search) || [, ""])[1].replace(/\+/g, '%20')) || null;
+            }
+                //set up debug  add ?devMode=true before the # in the url to activate
+            showLog = false;
+            var consoleHolder = console;
+            function debug(bool){
+                if(!bool){
+                    consoleHolder = console;
+                    console = {};
+                    console.log = function(){};
+                }else
+                    showLog = true;
+                    console = consoleHolder;
+            }
+            
+            if(sf_param('devMode') == 'true' || sf_param('devmode') == 'true' || sf_param('dev') == 'true' || sf_param('showConsole') == 'true' || sf_param('logging') == 'true'){
+                debug(true);
+                console.log('%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n'+
+                            '-----------------------------------\n'+
+                            'DEVELOPER MODE ENABLED\n'+
+                            '-----------------------------------\n'+
+                            'Good job! You enabled developer mode.\n'+
+                            'This allows you to view and use console.logs.\n'+
+                            'It also allows you to use helpful commands for examble type "pageInfo" into the console and press enter\n'+
+                           '%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n\n')
+            }else{
+                debug(false);
+            }
+            
+            var br = '\n===========================================================\n'
+            
+            if(showLog == true){
+               pageInfo = "Title"+br+"Liberty University Christian College Education\n\nDescription"+br+"Get your bachelor's degree and choose from hundreds of graduate degrees including law, medicine, and divinity. Liberty is a Christian university in Central Virginia.\n\n\n\nWindow Size"+br+"("+$(window).width()+" x "+$(window).height()+")";
+            }
+            
+            
+            function showMenu(){
+            $('.menuBack').fadeIn()
+            $('.mobileMenu').css('left','0%');
+            $('.mobileMenu').addClass('shown');
+            $('.mobileMenu').removeClass('hidden');
+            $('.hamMenu').addClass('active')
+            $('html').addClass('noScroll');
+            }
+            function hideMenu(){
+            $('.menuBack').fadeOut()
+            $('.mobileMenu').css('left','-100%');
+            $('.mobileMenu').removeClass('shown');
+            $('.mobileMenu').addClass('hidden');
+            $('.hamMenu').removeClass('active')
+            $('html').removeClass('noScroll')
+            goback();
+            }
+            function goback(){
+            $('.mobileMenu .mega').css('right','-100%')
+            }
+            function getDSTstart(){
+                d = new Date(2016, 2, 1, 0, 0, 0, 0);
+                var day = 0;
+                if (d.getDay() != 0) {
+                day = 8-(d.getDay())
+                day = day + 7
+                d = d.setDate(day)
+                DST_start = new Date(d)
+                }
+            }
+            function getDSTend(){
+                d = new Date(2016, 10, 1, 0, 0, 0, 0);
+                var day = 0;
+                if (d.getDay() != 0) {
+                day = 8-(d.getDay())
+                d = d.setDate(day)
+                DST_end = new Date(d)
+                }
+            }
+            function setFooterTime(){
+             getDSTstart();
+             getDSTend();
+            //EST
+            clientDate = new Date();
+            if(clientDate >= DST_start && clientDate <=DST_end){
+                offset = -4;
+            }else{
+                offset = -5;
+            }
+            
+            utc = clientDate.getTime() + (clientDate.getTimezoneOffset() * 60000);
+            serverDate = new Date(utc + (3600000*offset));
+            var dt = serverDate
+            var hours = dt.getHours();
+            //it is pm if hours from 12 onwards
+            suffix = (hours >= 12)? 'p.m.' : 'a.m.';
+            //only -12 from hours if it is greater than 12 (if not back at mid night)
+            hours = (hours > 12)? hours -12 : hours;
+            //if 00 then it is 12 am
+            hours = (hours == '00')? 12 : hours;
+            var minutes = dt.getMinutes();
+            minutes = (minutes < 10)? '0'+minutes : minutes;
+            var time = hours+':'+minutes+' '+suffix
+            $('.realTime').text(time)
+            $('#copy_year').html(dt.getFullYear());
+            }
+            $(document).ready(function(){
+            
+            setFooterTime();
+            setInterval(function(){ setFooterTime(); }, 10000);
+            $('.mobileMenu .main_nav .mega .inner .left').prepend('<a href="javascript:goback();">Back')
+            $('.mobileMenu .main_nav').click(function(){
+                $(this).children('.mega').css('right','0')
+            })
+            $('.hamMenu').click(function(){
+                if($(this).hasClass('active')){
+                    hideMenu();
+                }else{
+                    showMenu();
+                }
+            });
+            $('.menuBack').bind("click",function(){
+                hideMenu();
+            })
+            });
+        
+
+
+        .main-slide-img-0{
+        background-position: bottom;
+        background-image:url("https://www.liberty.edu/media/1971/main_slideshow_img/sizes/Since-1971-Training-Champions_1920.jpg");
+        }
+        @media all and (max-width: 1366px) {
+        .main-slide-img-0{
+        background-image:url("https://www.liberty.edu/media/1971/main_slideshow_img/sizes/Since-1971-Training-Champions_1366.jpg");
+        }
+        }
+        @media all and (max-width: 1024px) {
+        .main-slide-img-0{
+        background-image:url("https://www.liberty.edu/media/1971/main_slideshow_img/sizes/Since-1971-Training-Champions_1024.jpg");
+        }
+        }
+        @media all and (max-width: 960px) {
+        .main-slide-img-0{
+        background-image:url("https://www.liberty.edu/media/1971/main_slideshow_img/sizes/Since-1971-Training-Champions_960.jpg");
+        }
+        }
+        @media all and (max-width: 400px) {
+        .main-slide-img-0{
+        background-image:url("https://www.liberty.edu/media/1971/main_slideshow_img/sizes/Since-1971-Training-Champions_400.jpg");
+        }
+        }
+        .main-slide-img-1{
+        background-position: center;
+        background-image:url("https://www.liberty.edu/media/1971/main_slideshow_img/sizes/LUCOM-Outreach_1920.jpg");
+        }
+        @media all and (max-width: 1366px) {
+        .main-slide-img-1{
+        background-image:url("https://www.liberty.edu/media/1971/main_slideshow_img/sizes/LUCOM-Outreach_1366.jpg");
+        }
+        }
+        @media all and (max-width: 1024px) {
+        .main-slide-img-1{
+        background-image:url("https://www.liberty.edu/media/1971/main_slideshow_img/sizes/LUCOM-Outreach_1024.jpg");
+        }
+        }
+        @media all and (max-width: 960px) {
+        .main-slide-img-1{
+        background-image:url("https://www.liberty.edu/media/1971/main_slideshow_img/sizes/LUCOM-Outreach_960.jpg");
+        }
+        }
+        @media all and (max-width: 400px) {
+        .main-slide-img-1{
+        background-image:url("https://www.liberty.edu/media/1971/main_slideshow_img/sizes/LUCOM-Outreach_400.jpg");
+        }
+        }
+        .main-slide-img-2{
+        background-position: top;
+        background-image:url("https://www.liberty.edu/media/1971/main_slideshow_img/sizes/Rashad-Jennings_1920.jpg");
+        }
+        @media all and (max-width: 1366px) {
+        .main-slide-img-2{
+        background-image:url("https://www.liberty.edu/media/1971/main_slideshow_img/sizes/Rashad-Jennings_1366.jpg");
+        }
+        }
+        @media all and (max-width: 1024px) {
+        .main-slide-img-2{
+        background-image:url("https://www.liberty.edu/media/1971/main_slideshow_img/sizes/Rashad-Jennings_1024.jpg");
+        }
+        }
+        @media all and (max-width: 960px) {
+        .main-slide-img-2{
+        background-image:url("https://www.liberty.edu/media/1971/main_slideshow_img/sizes/Rashad-Jennings_960.jpg");
+        }
+        }
+        @media all and (max-width: 400px) {
+        .main-slide-img-2{
+        background-image:url("https://www.liberty.edu/media/1971/main_slideshow_img/sizes/Rashad-Jennings_400.jpg");
+        }
+        }
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rashad-Jennings
+
+
+
+            <div class="main-slide-shared main-slide-img-1" data-cycle-title="Medical Outreach" data-cycle-desc="Student-doctors reach out to communities with limited access to health care." data-cycle-linked="http://www.liberty.edu/aboutliberty/index.cfm?PID=33810">
+            <a href="http://www.liberty.edu/aboutliberty/index.cfm?PID=33810">
+                <p class="element-invisible">LUCOM-Outreach
+
+
+            
+            
+                ---
+            
+            
+            
+
+Since-1971-Training-Champions
+
+
+
+
+
+
+
+
+Get Started Today!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apply Today...
+...to become a Liberty Student.
+
+
+
+
+Request Info...
+...to get your questions answered.
+
+
+
+
+
+
+Visit Us...
+...to experience college life at Liberty.
+
+
+
+
+Watch Now...
+...to view our latest videos.
+
+
+
+
+
+
+
+
+
+
+
+
+You Want a Christian University that Prepares You for Life. You Need Liberty.
+
+Join us at the world’s largest Christian university where you’ll prepare for a successful career while we prepare you for life. With over 500 programs of study, state-of-the-art technology, and a gifted faculty, Liberty University will equip you to enter a competitive job market. Learn, develop, and grow at Liberty so you can impact your culture as a Champion for Christ.
+
+
+
+
+
+
+
+
+Become a Student
+Tuition & Cost
+Visit Liberty
+Scholarships & Aid
+Apply Now
+
+
+Find Your Degree
+
+Choose from over 500 degree programs taught from a solid Christian foundation that will equip you with the values, knowledge, and skills essential for your success. At Liberty University, you can tailor your associate, bachelor’s, master’s, or doctoral degree to match your area of interest while studying at our Central Virginia campus or globally online. Certificates are also available at both the undergraduate and graduate level.
+Browse Undergraduate Degrees
+Browse Graduate Degrees
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            .callToAction svg {
+                            pointer-events: none;
+                            }
+                            .callToAction .cta_button p {
+                            pointer-events: none;
+                            }
+                        
+Get Started Today!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apply Now
+                                            
+Start your journey to Liberty
+
+
+
+
+Request Info
+                                            
+Get your questions answered
+
+
+
+
+
+
+Visit Us
+                                            
+Experience college life at Liberty
+
+
+
+
+Watch Now
+                                            
+View our latest videos
+
+
+
+
+
+
+
+
+Liberty News
+
+
+
+
+
+Future guests announced in end-of-year Convocation
+April 29, 2016
+
+
+
+
+
+
+
+Teachers honored for excellence during Convocation
+April 29, 2016
+
+
+
+
+
+
+
+Law Moot Court Team ranked among nation's top 10
+April 29, 2016
+
+
+View All News
+
+
+
+
+
+
+                                        May
+                                    
+03
+
+
+Baseball Game
+
+
+                                    vs. Virginia | 7pm
+                                    
+
+
+
+
+
+                                        May
+                                    
+14
+
+
+Commencement 2016 
+
+
+                                    10am | Williams Stadium
+                                    
+
+
+View Full Calendar
+
+
+
+LU Spotlight
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,579 @@
+https://rihanna.fanfire.com/cgi-bin/WebObjects/Store.woa/wa/artist?artistName=Rihanna&sourceCode=RIHWEBWWUSD&utm_source=rihofficialsiteus&utm_medium=navigation&utm_campaign=osrih_navlink_ususdstore
+
+
+
+
+
+
+
+
+
+
+Rihanna Official Store
+
+
+
+
+
+
+
+var dataLayer = dataLayer || [];
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		$(window).load(function() {
+			$('.flexslider').flexslider();
+		});
+	
+
+
+		$(window).load(function() {
+			$('.option_productSize').on("click", function(){
+				$('.productOptions li').removeClass("active");
+				$(this).addClass('active');
+				var sizeVal=$(this).text();
+				$(this).closest('.productOptions').find('.input_productSize').val(sizeVal);
+			});
+		});
+	
+
+
+
+CloudZoom.quickStart();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   window.onload = function(){
+          var mySourceCode = $('meta[tag=SOURCECODE]').attr("source");
+          $('iframe').each(function(){    $(this).get(0).contentWindow.postMessage(mySourceCode,'*')
+          });
+   };
+
+
+
+$(document).ready(function(){
+	var mustContain1 = 'sourceCode';
+	var mySourceCode = $('meta[tag=SOURCECODE]').attr("source");
+	$('.t30_01_header a, .t30_02_header a, .t30_03_banner a, .t30_04_banner a, .t30_05_banner a, .t30_07_banner a, .t30_08_footer a').each(function(){
+		var originalHref = $(this).attr('href');
+		if(originalHref.indexOf(mustContain1) == -1){
+			$(this).attr('href',originalHref + '&sourceCode=' + mySourceCode);
+		}
+	});
+});
+
+
+
+
+
+
+
+
+
+
+
+Optional Custom Text Field 1 - Artist Social, Email Capture, Announcements, Etc - t30_01_header
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Currency
+
+
+USD
+GBP
+EUR
+
+
+
+New Customer
+Sign In
+
+
+
+
+
+
+
+
+
+
+my cart(0)
+
+Checkout
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Featured Items
+
+
+Clara Lionel Foundation
+
+
+Apparel
+
+
+Accessories
+
+
+Stance Socks
+
+
+Posters
+
+All Products
+
+
+
+
+
+
+
+
+Optional Custom Text Field 2 - t30_02_header
+
+
+
+
+
+
+
+
+
+
+
+
+
+Shop
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Clara Lionel Foundation T-Shirt
+
+US$29.95
+
+
+
+ Size: 
+
+S
+M
+L
+XL
+
+
+ Quantity: 
+
+
+
+
+
+
+
+
+
+Rihanna Anti-Tour Program & Deluxe CD
+
+US$40.00
+
+
+
+ Quantity: 
+
+
+
+
+
+
+
+
+
+
+
+Rihanna Most Likely To Not Give A Fuck T-Shirt
+
+US$29.95
+
+
+
+ Size: 
+
+S
+L
+XL
+XXL +US$2.95
+
+
+ Quantity: 
+
+
+
+
+
+
+
+
+
+Rihanna Striped Anti Tee
+
+US$39.95
+
+
+
+ Size: 
+
+XL
+XXL +US$2.95
+
+
+ Quantity: 
+
+
+
+
+
+
+
+
+
+
+
+Rihanna Anti-Tour Full Zip Hoodie
+
+US$59.95
+
+
+
+ Size: 
+
+S
+M
+XL
+XXL +US$2.95
+
+
+ Quantity: 
+
+
+
+
+
+
+
+
+
+Rihanna X Stance Fall Collection
+
+
+
+
+
+
+
+
+
+
+
+
+Rihanna All Ages Sports Bra
+
+US$39.95
+
+
+
+ Size: 
+
+L
+
+
+ Quantity: 
+
+
+
+
+
+
+
+
+
+Anti World Tour Event Poster New York 3/30
+
+US$25.00
+
+
+
+ Quantity: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Join Our Mailing List
+For the latest in merchandise specials and promotions, please join this email list. You will only receive offers related to this artist. We never sell or give our mailing lists to anyone.
+Join
+
+
+
+
+
+
+Customer Service
+
+Contact us
+help
+privacy policy
+terms and conditions
+
+
+
+
+
+
+
+My Account
+
+create new account
+sign in
+order status
+
+
+
+
+
+
+
+
+
+
+
+
+
+Join Our Mailing List
+For the latest in merchandise specials and promotions, please join this email list. You will only receive offers related to this artist. We never sell or give our mailing lists to anyone.
+Join
+
+
+
+
+
+
+Customer Service+–
+
+
+Contact us
+help
+privacy policy
+terms and conditions
+
+
+
+
+
+
+
+
+My Account+–
+
+
+create new account
+sign in
+order status
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Optional Custom Text Field 8 - Full Width Sub Footer Content - t30_08_footer
+
+
+
+
+
+
+
+© 2018 Live Nation Merchandise is a division of Live Nation
+
+
+
+
+
+
+
+
+
+dataLayer.push({
+
+
+	'event' : 'virtualPageView',
+	'virtualPageTitle' : 'Rihanna Official Store',
+
+	'virtualPageURL' : '/virtual/Artist/Rihanna/Jump',
+	
+	'artistName' : 'Rihanna',
+	'startArtistName' : 'Rihanna',
+	'sourceCode':'RIHWEBWWUSD'
+});
+
+
+
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-58G3Q8');
+
+
+
