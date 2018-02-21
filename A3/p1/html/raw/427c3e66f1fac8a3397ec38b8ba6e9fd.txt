@@ -1,0 +1,1102 @@
+https://www.politico.com/story/2016/10/economy-created-156-000-jobs-in-september-229272?source=socnet_tw_econ_20161007_bo_jobs-day_article_4&utm_medium=social&utm_source=tw_bo&utm_campaign=socnet_tw_econ_20161007_bo_jobs-day_article_4&utm_content=20161007_bo_jobs-day_article_4
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]><html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie ie8 lte8 lt-ie9"> <![endif]-->
+<!--[if IE 9]>    <html class="no-js ie ie9 lte9"> <![endif]-->
+<!--[if gt IE 9]> <html class="no-js"> <![endif]-->
+<!--[if !IE]><!--><html class="no-js"> <!--<![endif]-->
+
+
+    <head>
+    <link rel="amphtml" href=>
+    <meta charset="utf-8" />
+    <script>window['optimizely'] = window['optimizely'] || []; window['optimizely'].push(["customTag", "site_section", "Policy: Employment & Immigration"]);</script>
+                <script src="//cdn.optimizely.com/js/553701075.js"></script>
+            
+<link rel="stylesheet" type="text/css" href="https://static3.politico.com/resource/assets/css/style-core-story.min.fac2cb73e34daa8b65f504e8738b9bb4.gz.css">
+<link rel="alternate" type="application/json+oembed" href="https://www.politico.com/story/2016/10/economy-created-156-000-jobs-in-september-229272?source=socnet_tw_econ_20161007_bo_jobs-day_article_4&amp;utm_medium=social&amp;utm_source=tw_bo&amp;utm_campaign=socnet_tw_econ_20161007_bo_jobs-day_article_4&amp;utm_content=20161007_bo_jobs-day_article_4&amp;_embed=true&amp;_format=oembed">
+<title>Economy created 156,000 jobs in September - POLITICO</title>
+<meta property="og:title" content="Economy created 156,000 jobs in September">
+<meta name="description" content="The economy added 156,000 jobs in September, the Labor Department reported Friday, down from 167,000&lt;b&gt; &lt;/b&gt;in August.">
+<meta property="og:description" content="The economy added 156,000 jobs in September, the Labor Department reported Friday, down from 167,000&lt;b&gt; &lt;/b&gt;in August.">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta property="og:type" content="article">
+<link rel="canonical" href="https://www.politico.com/story/2016/10/economy-created-156-000-jobs-in-september-229272">
+<meta property="fb:pages" content="62317591679">
+<meta property="og:url" content="https://www.politico.com/story/2016/10/economy-created-156-000-jobs-in-september-229272">
+<meta property="og:image" content="https://static.politico.com/2a/75/8a396f06430e8f1f082894791474/unemployment-crop.jpg">
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:site" content="@politico">
+<meta property="twitter:creator" content="@politico">
+<meta property="og:fb_appid" content="114037015331397">
+<link rel="shortcut icon" type="image/x-icon" href="https://static.politico.com/cf/05/ee684a274496b04fa20ba2978da1/politico.png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://static.politico.com/dims4/default/bd69088/2147483647/legacy_thumbnail/144x144/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fcf%2F05%2Fee684a274496b04fa20ba2978da1%2Fpolitico.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://static.politico.com/dims4/default/59ee5a3/2147483647/legacy_thumbnail/114x114/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fcf%2F05%2Fee684a274496b04fa20ba2978da1%2Fpolitico.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://static.politico.com/dims4/default/27ede68/2147483647/legacy_thumbnail/72x72/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fcf%2F05%2Fee684a274496b04fa20ba2978da1%2Fpolitico.png">
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="https://static.politico.com/dims4/default/c73c7f7/2147483647/legacy_thumbnail/57x57/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fcf%2F05%2Fee684a274496b04fa20ba2978da1%2Fpolitico.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
+<link rel="icon" sizes="32x32" type="image/png" href="/favicon-32x32.png">
+<link rel="icon" sizes="192x192" type="image/png" href="/android-chrome-192x192.png">
+<link rel="icon" sizes="96x96" type="image/png" href="/favicon-96x96.png">
+<link rel="icon" sizes="16x16" type="image/png" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta msapplication-TileColor="content">
+<meta msapplication-TileImage="content">
+<meta theme-color="content">
+<meta property="og:site_name" content="POLITICO">
+<meta name="host" content="www.politico.com">
+<meta name="build" content="hotfix/2018-02-08 f75a077 2018-02-09T18:35:08Z"><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script><script type="text/javascript">window.jQuery || document.write('<script src="https://static3.politico.com/resource/js/website/shared/libraries/jquery-1.11.0.min.daf47dbdebc0881066106b1dda1c9db3.gz.js"><\/script>')</script><script type="text/javascript" src="https://static3.politico.com/resource/js/website/shared/libraries/modernizr-2.8.3.min.eb9167fd3c12f05553135ffda5fcd108.gz.js"></script><script type="text/javascript" src="https://static3.politico.com/resource/assets/js.min/preload.23467d4eb12e6c1379bda37a93565040.gz.js"></script><script type="text/javascript" src="//tk.politico.com/zmr6qqx.js"></script><script type="text/javascript">try{Typekit.load();}catch(e){}</script></head>
+<body  class="template-story" id="pageStory">
+        <div class="global-wrapper" id="globalWrapper">
+
+            <div class="global-header" role="banner">
+    <div class="global-header-inner">
+        
+        <nav class="nav-macro subnav" role="navigation">
+    <h5 class="subnav-toggle keyboard-accessible">
+        <b aria-hidden="true" class="icon icon-menu"></b>
+        <span class="icon-text">Menu</span>
+    </h5>
+    <div class="subnav-content">
+        <div class="macro-row macro-verticals">
+            <div class="vertical-group capacity-small menu reveal-at-medium reveal-at-large reveal-at-extra">
+                    <h6 class="menu-toggle keyboard-accessible">
+                        Sections</h6>
+
+                    <ul class="vertical-list menu-content">
+                            <li>
+                                    <!-- leaving otherwise block so it can fall to somewhere -->
+                                            <a href="https://www.politico.com/congress" target="_top">Congress</a></li>
+                            <li>
+                                    <!-- leaving otherwise block so it can fall to somewhere -->
+                                            <a href="https://www.politico.com/white-house" target="_top">White House</a></li>
+                            <li>
+                                    <!-- leaving otherwise block so it can fall to somewhere -->
+                                            <a href="https://www.politico.com/news/2018-elections" target="_blank">2018 Elections</a></li>
+                            <li>
+                                    <!-- leaving otherwise block so it can fall to somewhere -->
+                                            <a href="https://www.politico.com/magazine/" target="_top">Magazine</a></li>
+                            <li>
+                                    <!-- leaving otherwise block so it can fall to somewhere -->
+                                            <a href="https://www.politico.com/agenda/" target="_blank">The Agenda</a></li>
+                            </ul>
+                    </div>
+            <div class="vertical-group capacity-small menu reveal-at-medium reveal-at-large reveal-at-extra">
+                    <h6 class="menu-toggle keyboard-accessible">
+                        POLITICO Live </h6>
+
+                    <ul class="vertical-list menu-content">
+                            <li>
+                                    <!-- leaving otherwise block so it can fall to somewhere -->
+                                            <a href="https://www.politico.com/live-events" target="_blank">POLITICO Live Home</a></li>
+                            <li>
+                                    <!-- leaving otherwise block so it can fall to somewhere -->
+                                            <a href="https://www.politico.com/live-events/upcoming" target="_blank">Upcoming Events</a></li>
+                            <li>
+                                    <!-- leaving otherwise block so it can fall to somewhere -->
+                                            <a href="https://www.politico.com/live-events/previous" target="_blank">Previous Events</a></li>
+                            <li>
+                                    <!-- leaving otherwise block so it can fall to somewhere -->
+                                            <a href="https://www.politico.com/live-events/about" target="_blank">About POLITICO Live</a></li>
+                            </ul>
+                    </div>
+            <div class="vertical-group capacity-small menu reveal-at-medium reveal-at-large reveal-at-extra">
+                    <h6 class="menu-toggle keyboard-accessible">
+                        Podcasts & Video</h6>
+
+                    <ul class="vertical-list menu-content">
+                            <li>
+                                    <!-- leaving otherwise block so it can fall to somewhere -->
+                                            <a href="http://www.politico.com/podcasts" target="_blank">POLITICO Podcasts</a></li>
+                            <li>
+                                    <!-- leaving otherwise block so it can fall to somewhere -->
+                                            <a href="https://www.politico.com/video" target="_top">All Video</a></li>
+                            <li>
+                                    <!-- leaving otherwise block so it can fall to somewhere -->
+                                            <a href="https://www.politico.com/news/playback" target="_top">Playback </a></li>
+                            </ul>
+                    </div>
+            <div class="vertical-group capacity-small menu reveal-at-medium reveal-at-large reveal-at-extra">
+                    <h6 class="menu-toggle keyboard-accessible">
+                        Blogs & Columns</h6>
+
+                    <ul class="vertical-list menu-content">
+                            <li>
+                                    <!-- leaving otherwise block so it can fall to somewhere -->
+                                            <a href="https://www.politico.com/playbook-plus" target="_top">Playbook Plus</a></li>
+                            <li>
+                                    <!-- leaving otherwise block so it can fall to somewhere -->
+                                            <a href="https://www.politico.com/blogs/under-the-radar" target="_top">Josh Gerstein</a></li>
+                            <li>
+                                    <!-- leaving otherwise block so it can fall to somewhere -->
+                                            <a href="http://www.politico.com/magazine/tag/rich-lowry" target="_blank">Rich Lowry </a></li>
+                            </ul>
+                    </div>
+            <div class="vertical-group capacity-small menu reveal-at-medium reveal-at-large reveal-at-extra">
+                    <h6 class="menu-toggle keyboard-accessible">
+                        Series</h6>
+
+                    <ul class="vertical-list menu-content">
+                            <li>
+                                    <!-- leaving otherwise block so it can fall to somewhere -->
+                                            <a href="https://www.politico.com/magazine/what-works/" target="_top">What Works</a></li>
+                            <li>
+                                    <!-- leaving otherwise block so it can fall to somewhere -->
+                                            <a href="https://www.politico.com/WomenRule" target="_top">Women Rule </a></li>
+                            <li>
+                                    <!-- leaving otherwise block so it can fall to somewhere -->
+                                            <a href="http://www.politico.com/agenda/issue/agenda-2020-november-2016" target="_blank">Agenda 2020</a></li>
+                            <li>
+                                    <!-- leaving otherwise block so it can fall to somewhere -->
+                                            <a href="https://www.politico.com/cabinet" target="_top">POLITICO Cabinet</a></li>
+                            </ul>
+                    </div>
+            <div class="vertical-group capacity-small menu reveal-at-medium reveal-at-large reveal-at-extra">
+                    <h6 class="menu-toggle">Connect With Us</h6>
+                    <ul class="vertical-follow menu-content">
+                        <li class="facebook">
+                                <div class="fb-follow" data-href="https://www.facebook.com/politico"
+                                         data-width="61" data-height="20" data-colorscheme="light"
+                                         data-layout="button" data-show-faces="false"></div>
+                            </li>
+                        <li class="twitter">
+                                <iframe
+                                        src="//platform.twitter.com/widgets/follow_button.html?screen_name=politico&show_count=false"
+                                        style="width: 65px; height: 20px;"
+                                        allowtransparency="true"
+                                        frameborder="0"
+                                        scrolling="no">
+                                </iframe>
+                            </li>
+                        </ul>
+                </div>
+            </div>
+    </div>
+</nav>
+<div class="global-branding">
+            <h1>
+                <a href="https://www.politico.com/" title="Home" target="_top"><b aria-hidden="true" class="icon icon-politico "></b>
+                    <span class="icon-text">POLITICO</span>
+                </a></h1>
+        </div>
+
+        <nav class="nav-micro" role="navigation">
+            <ul class="micro-list">
+                <li class="subnav micro-core-header-magazine-column conditional has-arrow format-s pos-alpha">
+    <a href="http://www.politico.com/magazine/table-of-contents/2016/01" class="subnav-toggle" target="_blank">Magazine</a><div class="subnav-content">
+        <ul class="micro-sublist">
+            <li>
+                    <a href="https://www.politico.com/magazine/" target="_top">Magazine Home</a></li>
+            <li>
+                    <a href="https://www.politico.com/magazine/" target="_blank">Today's Cover</a></li>
+            <li>
+                    <a href="https://www.politico.com/magazine/tag/opinion" target="_top">Opinion</a></li>
+            <li>
+                    <a href="/magazine/#superLatest" target="_top">Latest Stories</a></li>
+            <li>
+                    <a href="https://www.politico.com/magazine/subscribe" target="_top">Weekly Email Signups</a></li>
+            <li>
+                    <a href="https://www.politico.com/magazine/what-works/" target="_top">What Works</a></li>
+            </ul>
+    </div>
+</li>
+<li class="subnav micro-core-header-policy-column conditional has-arrow format-s pos-alpha">
+    <a href="#" class="subnav-toggle" target="_blank">Policy</a><div class="subnav-content">
+        <ul class="micro-sublist">
+            <li>
+                    <a href="https://www.politico.com/agriculture" target="_top">Agriculture</a></li>
+            <li>
+                    <a href="https://www.politico.com/cybersecurity" target="_top">Cybersecurity</a></li>
+            <li>
+                    <a href="https://www.politico.com/defense" target="_top">Defense</a></li>
+            <li>
+                    <a href="https://www.politico.com/education" target="_top">Education</a></li>
+            <li>
+                    <a href="https://www.politico.com/ehealth" target="_top">eHealth</a></li>
+            <li>
+                    <a href="https://www.politico.com/tag/employment-immigration" target="_top">Employment & Immigration</a></li>
+            <li>
+                    <a href="https://www.politico.com/energy-and-environment" target="_top">Energy & Environment</a></li>
+            <li>
+                    <a href="https://www.politico.com/finance" target="_top">Finance & Tax</a></li>
+            <li>
+                    <a href="https://www.politico.com/health-care" target="_top">Health Care</a></li>
+            <li>
+                    <a href="https://www.politico.com/technology" target="_top">Technology</a></li>
+            <li>
+                    <a href="https://www.politico.com/trade" target="_top">Trade</a></li>
+            <li>
+                    <a href="https://www.politico.com/transportation" target="_top">Transportation & Infrastructure</a></li>
+            </ul>
+    </div>
+</li>
+<li class="subnav micro-core-header-pro-column format-s pos-alpha">
+    <a href="https://www.politicopro.com" target="_top"><b aria-hidden="true" class="icon icon-pro-small-bold"></b>
+    <span class="icon-text">https://www.politicopro.com</span>
+</a></li>
+<li class="subnav micro-core-header-search-link format-m pos-beta">
+    <a href="#" class="subnav-toggle" target="_blank"><b aria-hidden="true" class="icon icon-search"></b>
+            <span class="icon-text">Search</span>
+            </a><div class="subnav-content">
+        <form class="simple-search" action="https://www.politico.com/search" method="get">
+            <fieldset>
+                <input type="search" name="q" id="searchTerm" placeholder=""/>
+                <button class="button type-link" type="submit">Search</button>
+            </fieldset>
+        </form>
+    </div>
+</li>
+<li class="subnav micro-core-header-editions-dropdown has-arrow vary-text-visibility format-s pos-beta">
+    <a href="#" class="subnav-toggle" target="_blank"><b aria-hidden="true" class="icon icon-globe"></b>
+    <span class="icon-text">U.S. Edition</span>
+ </a><div class="subnav-content">
+        <ul class="micro-sublist">
+            <li>
+                    <a href="http://www.politico.eu" target="_blank">Europe Edition</a></li>
+            <li>
+                    <a href="https://www.politico.com/states/florida" target="_blank">POLITICO Florida </a></li>
+            <li>
+                    <a href="https://www.politico.com/states/new-jersey" target="_blank">POLITICO New Jersey </a></li>
+            <li>
+                    <a href="https://www.politico.com/states/new-york" target="_blank">POLITICO New York </a></li>
+            </ul>
+    </div>
+</li>
+</ul>
+        </nav>
+
+    </div>
+</div>
+
+
+
+
+<main class="super-duper" role="main">
+    <div class="super  fixed-top">
+    <div class="super-inner">
+        <div class="content layout-full">
+            <section class="content-groupset pos-omega">
+                <div class="content-group ad ">
+    <div class="ad-slot js-lazy-load flex horizontal " id="pol-01" >
+        </div>
+
+    </div>
+    </section>
+        </div>
+    </div>
+</div>
+<div class="super  waypoint-content reveal-at-large reveal-at-extra  container-teaseboxes" data-waypoint-trigger="up" >
+        <div class="super-inner">
+            <div class="content layout-full ">
+                <section class="content-groupset pos-omega">
+                    <section class="content-group story-suggestions">
+    <div class="suggested">
+        <ul class="story-frag-list layout-grid grid-6">
+            <li>
+                    <article class="story-frag format-s">
+    <figure class="thumb">
+            <div class="fig-graphic">
+                <a href="https://www.politico.com/story/2018/02/18/trump-twitter-mueller-fbi-russia-scandal-416858" target="_top" data-tracking="mpos=page-top&mid=teasebox&lindex=1&lcol=1" class="js-tealium-tracking"><img data-lazy-img="https://static.politico.com/dims4/default/cfd950d/2147483647/legacy_thumbnail/167x91%3E/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F6b%2Fc4%2F16a3977c434eb06fd57b0ff9837f%2F22-donald-trump-ap-123-1160.jpg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="President Donald Trump is seen in 2017." title="22_donald_trump_ap_123_1160.jpg" data-size="promo_small"></a></div>
+        </figure>
+    <div class="summary">
+            <header>
+                <h3>
+                    <a href="https://www.politico.com/story/2018/02/18/trump-twitter-mueller-fbi-russia-scandal-416858" target="_top" data-tracking="mpos=page-top&mid=teasebox&lindex=1&lcol=1" class="js-tealium-tracking">Trump attacks everyone but Russia</a></h3>
+            </header>
+        </div>
+    </article>
+
+</li>
+            <li>
+                    <article class="story-frag format-s">
+    <figure class="thumb">
+            <div class="fig-graphic">
+                <a href="https://www.politico.com/story/2018/02/18/minimum-wage-not-enforced-investigation-409644" target="_top" data-tracking="mpos=page-top&mid=teasebox&lindex=1&lcol=2" class="js-tealium-tracking"><img data-lazy-img="https://static.politico.com/dims4/default/095ab14/2147483647/legacy_thumbnail/167x91%3E/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fba%2F53%2F551d18d84889a97b0929744f2f35%2Frobdobi-politico-theft2-final2.jpg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Rob Dobi/POLITICO" title="robdobi_politico_theft2-FINAL2.jpg" data-size="promo_small"></a></div>
+        </figure>
+    <div class="summary">
+            <header>
+                <h3>
+                    <a href="https://www.politico.com/story/2018/02/18/minimum-wage-not-enforced-investigation-409644" target="_top" data-tracking="mpos=page-top&mid=teasebox&lindex=1&lcol=2" class="js-tealium-tracking">Behind the minimum wage fight, a sweeping failure to enforce the law</a></h3>
+            </header>
+        </div>
+    </article>
+
+</li>
+            <li>
+                    <article class="story-frag format-s">
+    <figure class="thumb">
+            <div class="fig-graphic">
+                <a href="https://www.politico.com/story/2018/02/18/republicans-midterm-recruitment-failures-2018-415671" target="_top" data-tracking="mpos=page-top&mid=teasebox&lindex=1&lcol=3" class="js-tealium-tracking"><img data-lazy-img="https://static.politico.com/dims4/default/0767662/2147483647/legacy_thumbnail/167x91%3E/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fff%2Fc5%2F7e3295af408a98dd5e28e0667da7%2F180217cramerap-18048030499240.jpg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Kevin Cramer is pictured. | AP Photo" data-size="promo_small"></a></div>
+        </figure>
+    <div class="summary">
+            <header>
+                <h3>
+                    <a href="https://www.politico.com/story/2018/02/18/republicans-midterm-recruitment-failures-2018-415671" target="_top" data-tracking="mpos=page-top&mid=teasebox&lindex=1&lcol=3" class="js-tealium-tracking">Republicans race to reverse midterm recruitment failures</a></h3>
+            </header>
+        </div>
+    </article>
+
+</li>
+            <li>
+                    <article class="story-frag format-s">
+    <figure class="thumb">
+            <div class="fig-graphic">
+                <a href="https://www.politico.com/magazine/story/2018/02/18/conor-lamb-pennsylvania-special-election-profile-217018" target="_top" data-tracking="mpos=page-top&mid=teasebox&lindex=1&lcol=4" class="js-tealium-tracking"><img data-lazy-img="https://static.politico.com/dims4/default/e4d66bd/2147483647/legacy_thumbnail/167x91%3E/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F52%2F19%2F456e46284dd79be98516f3aaf89a%2F180216-conor-lamb-gty-1160.jpg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Conor Lamb is pictured. | Getty" title="180216_conor_lamb_gty_1160.jpg" data-size="promo_small"></a></div>
+        </figure>
+    <div class="summary">
+            <header>
+                <h3>
+                    <a href="https://www.politico.com/magazine/story/2018/02/18/conor-lamb-pennsylvania-special-election-profile-217018" target="_top" data-tracking="mpos=page-top&mid=teasebox&lindex=1&lcol=4" class="js-tealium-tracking">Is Conor Lamb the Next Big Democratic Upset?</a></h3>
+            </header>
+        </div>
+    </article>
+
+</li>
+            <li>
+                    <article class="story-frag format-s">
+    <figure class="thumb">
+            <div class="fig-graphic">
+                <a href="https://www.politico.com/story/2018/02/16/how-russia-turned-the-internet-against-america-353707" target="_top" data-tracking="mpos=page-top&mid=teasebox&lindex=1&lcol=5" class="js-tealium-tracking"><img data-lazy-img="https://static.politico.com/dims4/default/c0fa399/2147483647/legacy_thumbnail/167x91%3E/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Ffc%2Fb0%2F6b06e1344494a99f4dcb2c52641e%2F180216-facebook-ap-1160.jpg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="The Facebook app is pictured. | Getty" data-size="promo_small"></a></div>
+        </figure>
+    <div class="summary">
+            <header>
+                <h3>
+                    <a href="https://www.politico.com/story/2018/02/16/how-russia-turned-the-internet-against-america-353707" target="_top" data-tracking="mpos=page-top&mid=teasebox&lindex=1&lcol=5" class="js-tealium-tracking">How Russia turned the internet against America</a></h3>
+            </header>
+        </div>
+    </article>
+
+</li>
+            <li>
+                    <article class="story-frag format-s">
+    <figure class="thumb">
+            <div class="fig-graphic">
+                <a href="https://www.politico.com/story/2018/02/18/kasich-congress-guns-wake-up-416859" target="_top" data-tracking="mpos=page-top&mid=teasebox&lindex=1&lcol=6" class="js-tealium-tracking"><img data-lazy-img="https://static.politico.com/dims4/default/d1c78b1/2147483647/legacy_thumbnail/167x91%3E/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F7b%2Fc2%2Feedd6ddc4bc38221cd15b3c567be%2F180218kasichap-17095049099736.jpg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="John Kasich is pictured. | AP Photo" data-size="promo_small"></a></div>
+        </figure>
+    <div class="summary">
+            <header>
+                <h3>
+                    <a href="https://www.politico.com/story/2018/02/18/kasich-congress-guns-wake-up-416859" target="_top" data-tracking="mpos=page-top&mid=teasebox&lindex=1&lcol=6" class="js-tealium-tracking">Kasich hammers ‘dysfunctional’ Congress over inaction on guns: ‘Wake up’</a></h3>
+            </header>
+        </div>
+    </article>
+
+</li>
+            </ul>
+    </div>
+    </section>
+
+
+</section>
+                </div>
+        </div>
+    </div>
+    <div class="super">
+        <div class="super-inner ">
+            <article class="story-main-content ">
+                <div class="content layout-story sticky-wrapper">
+                <section class="content-groupset pos-alpha">
+                    <div class="content-group story-tools">
+                        <div class="tools-group">
+                            <div class="tools-item">
+                                <aside class="user-tools orient-vertical sticky-content">
+                                    <ul class="share-tools tools-list">
+        <li class="share-facebook">
+            <a href="http://api.addthis.com/oexchange/0.8/forward/facebook/offer?pco=tbx32nj-1.0&amp;url=https://www.politico.com/story/2016/10/economy-created-156-000-jobs-in-september-229272&amp;pubid=politico.com"
+               target="_blank">
+                <b aria-hidden="true" class="icon icon-facebook"></b>
+                <span class="icon-text count-facebook" data-shares-text="false" style="opacity: 1;">Facebook</span>
+            </a>
+        </li>
+        <li class="share-twitter">
+        <a href="http://api.addthis.com/oexchange/0.8/forward/twitter/offer?pco=tbx32nj-1.0&amp;url=https://www.politico.com/story/2016/10/economy-created-156-000-jobs-in-september-229272&amp;text=Economy created 156,000 jobs in September&amp;pubid=politico.com&amp;via=politico" target="_blank">
+                <b aria-hidden="true" class="icon icon-twitter"></b>
+                <span class="icon-text count-twitter" data-shares-text="true" style="opacity: 1;">Twitter</span>
+            </a>
+        </li>
+        <li class="share-googleplus">
+                    <a href="http://api.addthis.com/oexchange/0.8/forward/googleplus/offer?pco=tbxnj-1.0&amp;url=https://www.politico.com/story/2016/10/economy-created-156-000-jobs-in-september-229272&amp;pubid=politico.com&amp;title=Economy+created+156%2C000+jobs+in+September"
+                       target="_blank">
+                        <b aria-hidden="true" class="icon icon-google-plus"></b>
+                        <span class="icon-text count-googleplus" data-shares-text="true" style="opacity: 1;">Google +</span>
+                    </a>
+                </li>
+            </ul>
+<ul class="utility-tools tools-list">
+    <li class="utility-email">
+                    <a href="mailto:?to=&amp;subject=Economy created 156,000 jobs in September&amp;body=https://www.politico.com/story/2016/10/economy-created-156-000-jobs-in-september-229272">
+                        <b aria-hidden="true" class="icon icon-mail"></b>
+                        <span class="icon-text">Email</span>
+                    </a>
+                </li>
+            <li class="utility-comment">
+            <a href="#superComments" class="collapse-toggle jump-anchor">
+                <b aria-hidden="true" class="icon icon-comment"></b>
+                <span class="icon-text">Comment</span>
+            </a>
+        </li>
+    <li class="utility-print">  <a href="#" onClick="window.print();return false;">
+                <b aria-hidden="true" class="icon icon-print"></b>
+                <span class="icon-text">Print</span>
+            </a>
+        </li>
+    </ul></aside>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <section class="content-groupset pos-beta">
+                    <div class="content-group story-core">
+
+                        <div class="story-text " data-disable-viewport-ad="false">
+                            <div class="shifty-wrapper empty-at-base empty-at-small empty-at-medium" data-set="shifty-story-interrupt"></div>
+                            <div class=" story-intro format-s" itemscope itemprop="mainEntityOfPage" itemtype="http://schema.org/NewsArticle">
+        <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+    <meta itemprop="url" content="https://www.politico.com/">
+    <span itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+            <meta itemprop="url" content="https://static.politico.com/6d/9f/1e153a1748fa9ea656c575dc6dff/politico-logo-60px-tall-1.png">
+            <meta itemprop="width" content="150">
+            <meta itemprop="height" content="35">
+        </span>
+    <meta itemprop="name" content="POLITICO">
+</div><span itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
+                    <meta itemprop="url" content="https://static.politico.com/2a/75/8a396f06430e8f1f082894791474/unemployment-crop.jpg">
+                    <meta itemprop="width" content="1160">
+                    <meta itemprop="height" content="550">
+                </span>
+            <figure class="art ">
+    <div class="fig-graphic">
+        <picture>
+                    <source srcset="https://static.politico.com/dims4/default/547823a/2147483647/resize/1160x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F2a%2F75%2F8a396f06430e8f1f082894791474%2Funemployment-crop.jpg" media="(min-width: 1012px)">
+                    <source srcset="https://static.politico.com/dims4/default/a53ee96/2147483647/resize/971x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F2a%2F75%2F8a396f06430e8f1f082894791474%2Funemployment-crop.jpg" media="(min-width: 667px)">
+                    <source srcset="https://static.politico.com/dims4/default/6f19a61/2147483647/resize/646x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F2a%2F75%2F8a396f06430e8f1f082894791474%2Funemployment-crop.jpg" media="(min-width: 485px)">
+                    <source srcset="https://static.politico.com/dims4/default/2beb449/2147483647/resize/463x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F2a%2F75%2F8a396f06430e8f1f082894791474%2Funemployment-crop.jpg" media="(max-width: 484px)">
+                    <img src="https://static.politico.com/dims4/default/00bd956/2147483647/resize/1160x%3E/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F2a%2F75%2F8a396f06430e8f1f082894791474%2Funemployment-crop.jpg" alt="A job searcher holds an employment application as he attends the Choice Career Fair in West Palm Beach, Florida." title="A job searcher holds an employment application as he attends the Choice Career Fair in West Palm Beach, Florida."></picture>
+            </div>
+    <figcaption>
+            <p>
+                A job searcher holds an employment application as he attends the Choice Career Fair in West Palm Beach, Florida. | Getty</p>
+        </figcaption>
+    </figure><div class="summary  ">
+            <header class="">
+                <h1 class=" " >
+                    <span itemprop="headline">Economy created 156,000 jobs in September</span>
+                        </h1>
+
+                </header>
+            <footer class="meta">
+    <div itemprop="author" itemscope itemtype="https://schema.org/Person">
+                <meta itemprop="name" content="Marianne LeVine"/>
+                <meta itemprop="email" content="mlevine@politico.com"/>
+            </div>
+        <p class="byline">
+            By <a href="https://www.politico.com/staff/marianne-levine" rel="author" class="url fn" target="_top">MARIANNE LEVINE</a></p>
+    <p class="timestamp"><time itemprop="datePublished" datetime='2016-10-07 08:38:47'>10/07/2016 08:38 AM EDT</time></p>
+                    <p class="updated">
+                    Updated <time datetime='2016-10-07 11:12:00'>10/07/2016 11:12 AM EDT</time></p>
+                    <span class="is-hidden" itemprop="dateModified">2016-10-07T11:12-0400</span>
+                    </footer></div>
+
+        </div><div class="story-share conditional">
+        <div class="interrupt-item social-share-btns">
+            <a href="http://api.addthis.com/oexchange/0.8/forward/facebook/offer?pco=tbx32nj-1.0&amp;url=https://www.politico.com/story/2016/10/economy-created-156-000-jobs-in-september-229272&amp;pubid=politico.com" class="button facebook-button" target="_blank"><b aria-hidden="true" class="icon icon-facebook"></b> Share on Facebook</a>
+            <a href="http://api.addthis.com/oexchange/0.8/forward/twitter/offer?pco=tbx32nj-1.0&amp;url=https://www.politico.com/story/2016/10/economy-created-156-000-jobs-in-september-229272&amp;pubid=politico.com&amp;text=Economy+created+156%2C000+jobs+in+September" class="button twitter-button" target="_blank"><b aria-hidden="true" class="icon icon-twitter"></b> Share on Twitter</a>
+        </div>
+    </div>
+<style type="text/css">.cms-textAlign-left{text-align:left;}.cms-textAlign-center{text-align:center;}.cms-textAlign-right{text-align:right;}.cms-magazineStyles-smallCaps{font-variant:small-caps;}.cms-playbookStyle-rubric{color:#b70000;font-weight:bold;font-family:sans-serif;}</style><p>The penultimate jobs report before the November election showed that the economy <a href="http://www.bls.gov/news.release/empsit.nr0.htm" target="_blank">added </a>156,000 jobs<b> </b>in September, the Labor Department reported Friday, down from 167,000 in August.</p>
+<p>Unemployment was 5 percent, a slight uptick from<b> </b>August’s 4.9 percent. </p><p class="story-continued">Story Continued Below</p>
+<div class="story-interrupt format-s pos-alpha predetermined  fixed-story-third-paragraph">
+    <div class="interrupt-item ad">
+        <div class="ad-slot js-lazy-load flex vertical " id="pol-05" >
+        </div>
+
+    </div>
+</div>
+ <p>Average private-sector earnings were up 6 cents<b> </b>over August, when they rose 2 cents. Wages were up 2.6 percent over September 2015.</p>
+<p>Jason Furman, chairman of the White House Council of Economic Advisers, said September's jobs report continued &quot;the longest streak of total job growth on record.&quot; Since the start of 2016, he said, &quot;hourly earnings for private-sector workers have increased at an annual rate of 2.8 percent, much faster than the pace of inflation.&quot;</p>
+<p>Republicans were less impressed. David Malpass, senior economic adviser to Donald Trump, called the jobs report &quot;weak&quot; and said it &quot;shows a troubling long-term trend: After seven hard years of the Clinton-Obama administration their policies still can't produce better-paying jobs and upward mobility.&quot; House Ways and Means Chairman <a href="https://cd.politicopro.com/member/51295" target="_blank">Kevin Brady</a> (R-Texas) called the report &quot;underwhelming.&quot; </p>
+<p>But analysts said September's jobs report was a good sign for the economy. </p>
+<p>Mark Hamrick, senior economic analyst at Bankrate.com, <a href="http://www.cnbc.com/2016/10/07/nonfarm-payrolls-sept-2016.html" target="_blank">told CNBC</a> that the jobs report was &quot;within the broad range of expectations.&quot;</p>
+<p>&quot;The main point is, slow and steady does win the race for this recovery, which began in the summer of 2009,&quot; he said. </p>
+<p>Elise Gould, senior economist at the left-leaning Economic Policy Institute, said the slight increase to the unemployment rate was &quot;the result of more workers entering the labor force, which may reflect optimism about future job prospects and economic growth.&quot; Labor force participation was 62.9 percent, up from<b> </b>August's 62.8 percent, but still close to its lowest level since the 1970s.</p>
+<p>The jobs report could motivate the Federal Reserve to raise interest rates before the end of the year. Cleveland Fed President Loretta Mester<a href="http://www.cnbc.com/2016/10/07/feds-mester-says-september-jobs-report-was-solid.html" target="_blank"> told CNBC </a>that the jobs numbers were &quot;solid.&quot;</p>
+<p>&quot;This is very consistent with what we expected to see, certainly with my forecast,&quot; she said. </p>
+<p>Analysts <a href="http://b-us.econoday.com/byshoweventfull.asp?fid=472120&amp;cust=b-us&amp;year=2016&amp;lid=0&amp;containerId=eco-iframe-container&amp;prev=/byweek.asp#top" target="_blank">surveyed by Bloomberg</a> had predicted the creation about 168,000 jobs, an unemployment rate of 4.9 percent, and an increase in hourly earnings of 0.3 percent. The payroll company ADP <a href="https://www.adpemploymentreport.com/2016/September/NER/NER-September-2016.aspx" target="_blank">estimated </a>Wednesday based on its own records that September job growth in the private sector was 154,000.</p>
+<p>The jobs report followed <a href="http://bea.gov/newsreleases/national/gdp/gdpnewsrelease.htm" target="_blank">news</a> from the Commerce Department last week that GDP increased 1.4 percent during the second quarter of 2016. That was higher than two previous second-quarter estimates of 1.2 percent and 1.1 percent, and also higher than the 0.8 percent that GDP grew in the first quarter of 2016. The Commerce Department’s first cut at estimating third-quarter growth for 2016 will be released Oct. 28.</p><div class="story-share ">
+        <div class="interrupt-item social-share-btns">
+            <a href="http://api.addthis.com/oexchange/0.8/forward/facebook/offer?pco=tbx32nj-1.0&amp;url=https://www.politico.com/story/2016/10/economy-created-156-000-jobs-in-september-229272&amp;pubid=politico.com" class="button facebook-button" target="_blank"><b aria-hidden="true" class="icon icon-facebook"></b> Share on Facebook</a>
+            <a href="http://api.addthis.com/oexchange/0.8/forward/twitter/offer?pco=tbx32nj-1.0&amp;url=https://www.politico.com/story/2016/10/economy-created-156-000-jobs-in-september-229272&amp;pubid=politico.com&amp;text=Economy+created+156%2C000+jobs+in+September" class="button twitter-button" target="_blank"><b aria-hidden="true" class="icon icon-twitter"></b> Share on Twitter</a>
+        </div>
+    </div>
+<div class="story-supplement ">
+        <aside class="content-categories">
+            <h6>This article tagged under:</h6>
+                        <ul class="categories-list">
+                <li>
+                        <a href="https://www.politico.com/news/employment" target="_top">Employment</a></li>
+                <li>
+                        <a href="https://www.politico.com/news/unemployment" target="_top">Unemployment</a></li>
+                <li>
+                        <a href="https://www.politico.com/news/jobs" target="_top">Jobs</a></li>
+                <li>
+                        <a href="https://www.politico.com/news/jobs-report" target="_top">Jobs Report</a></li>
+                <li>
+                        <a href="https://www.politico.com/news/unemployment-rate" target="_top">Unemployment Rate</a></li>
+                <li>
+                        <a href="https://www.politico.com/news/unemployment-rates" target="_top">Unemployment Rates</a></li>
+                </ul>
+        </aside>
+    </div>
+<div class=""><aside class="content-group">
+    <div class="story-supplement">
+        <div class="spotlight"> 
+            <div class="summary fs-i">
+                <p>Missing out on the latest scoops? Sign up for <a href="http://www.politico.com/subscribe/playbook?cid=su_stft_pb" target="_blank">POLITICO Playbook</a> and get the latest news, every morning — in your inbox.</p>
+            </div>
+        </div>
+    </div>
+</aside></div>
+        <div class="story-supplement  ">
+                                    <aside class="content-actions">
+                                        <a class="button format-l bleed-full collapse-toggle jump-anchor" id="showCommentsButton"
+                                           href="#superComments">Show Comments</a>
+                                    </aside>
+                                </div>
+                            <div class="shifty-wrapper empty-at-large empty-at-extra" data-set="shifty-story-interrupt">
+                                <div class="story-interrupt format-s pos-beta predetermined shifty-content is-masoned">
+                                    <div class="content-group ad ">
+    <div class="ad-slot js-lazy-load flex vertical " id="pol-02" >
+        </div>
+
+    </div>
+    <aside class="content-group global-popular">
+    <div class="widget caste-exclusive most-read">
+
+        <div class="dari-frame dari-frame-loaded" name="most-read-0000014e-b3d9-df99-af7f-fffba4c20000" data-insertion-mode="replace" data-extra-form-data="_frame.path=68d90fb56897fe0aabe19672a143cc22&amp;_frame.name=most-read-0000014e-b3d9-df99-af7f-fffba4c20000"><div class="widget-nav">
+                <ul class="widget-nav-list">
+
+                    <li class="current">
+                            <a href="?tab=most-read">
+                                <b aria-hidden="true" class="icon icon-flame"></b>
+                                Most Read</a>
+                        </li>
+                    </ul>
+            </div>
+
+            <div class="widget-content most-popular-tabbed-core">
+
+                       <div class="widget-prefix">
+                               <a href="https://www.politico.com/story/2018/02/18/trump-twitter-mueller-fbi-russia-scandal-416858" target="_top" data-tracking="mpos=right-rail&mid=tab&lindex=Unknown&lcol=Unknown" class="js-tealium-tracking"><img data-lazy-img="https://static.politico.com/dims4/default/18dd807/2147483647/legacy_thumbnail/266x150%5E/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F6b%2Fc4%2F16a3977c434eb06fd57b0ff9837f%2F22-donald-trump-ap-123-1160.jpg" width="266" height="150" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-size="promo_small_rectangle"></a></div>
+                       <ol class="story-frag-list layout-linear ">
+
+                            <li>
+                                    <article class="story-frag format-xxs">
+                                                <div class="summary">
+                                                    <header>
+                                                        <h3><a href="https://www.politico.com/story/2018/02/18/trump-twitter-mueller-fbi-russia-scandal-416858" target="_top" data-tracking="mpos=right-rail&mid=tab&lindex=2&lcol=1" class="js-tealium-tracking">Trump attacks everyone but Russia</a></h3>
+                                                    </header>
+                                                </div>
+                                            </article>
+                                        </li>
+                            <li>
+                                    <article class="story-frag format-xxs">
+                                                <div class="summary">
+                                                    <header>
+                                                        <h3><a href="https://www.politico.com/magazine/story/2018/02/18/conor-lamb-pennsylvania-special-election-profile-217018" target="_top" data-tracking="mpos=right-rail&mid=tab&lindex=3&lcol=1" class="js-tealium-tracking">Is Conor Lamb the Next Big Democratic Upset?</a></h3>
+                                                    </header>
+                                                </div>
+                                            </article>
+                                        </li>
+                            <li>
+                                    <article class="story-frag format-xxs">
+                                                <div class="summary">
+                                                    <header>
+                                                        <h3><a href="https://www.politico.com/story/2018/02/18/trump-fbi-russia-florida-mcmaster-416854" target="_top" data-tracking="mpos=right-rail&mid=tab&lindex=4&lcol=1" class="js-tealium-tracking">Trump equates FBI&#39;s Russia probe with Florida shooting</a></h3>
+                                                    </header>
+                                                </div>
+                                            </article>
+                                        </li>
+                            <li>
+                                    <article class="story-frag format-xxs">
+                                                <div class="summary">
+                                                    <header>
+                                                        <h3><a href="https://www.politico.com/story/2018/02/18/amanda-renteria-california-governor-bid-hillary-clinton-aide-416847" target="_top" data-tracking="mpos=right-rail&mid=tab&lindex=5&lcol=1" class="js-tealium-tracking">Ex-Clinton aide makes mystery bid for California governor</a></h3>
+                                                    </header>
+                                                </div>
+                                            </article>
+                                        </li>
+                            <li>
+                                    <article class="story-frag format-xxs">
+                                                <div class="summary">
+                                                    <header>
+                                                        <h3><a href="https://www.politico.com/story/2018/02/17/bill-de-blasio-fundraiser-randy-bryce-paul-ryan-wisconsin-416850" target="_top" data-tracking="mpos=right-rail&mid=tab&lindex=6&lcol=1" class="js-tealium-tracking">De Blasio to hold fundraiser for Paul Ryan challenger</a></h3>
+                                                    </header>
+                                                </div>
+                                            </article>
+                                        </li>
+                            <li>
+                                    <article class="story-frag format-xxs">
+                                                <div class="summary">
+                                                    <header>
+                                                        <h3><a href="https://www.politico.com/story/2018/02/18/republicans-midterm-recruitment-failures-2018-415671" target="_top" data-tracking="mpos=right-rail&mid=tab&lindex=7&lcol=1" class="js-tealium-tracking">Republicans race to reverse midterm recruitment failures</a></h3>
+                                                    </header>
+                                                </div>
+                                            </article>
+                                        </li>
+                            <li>
+                                    <article class="story-frag format-xxs">
+                                                <div class="summary">
+                                                    <header>
+                                                        <h3><a href="https://www.politico.com/story/2018/02/18/clapper-mueller-russia-probe-white-house-416865" target="_top" data-tracking="mpos=right-rail&mid=tab&lindex=8&lcol=1" class="js-tealium-tracking">Clapper predicts &#39;other shoes to drop&#39; in Mueller probe</a></h3>
+                                                    </header>
+                                                </div>
+                                            </article>
+                                        </li>
+                            <li>
+                                    <article class="story-frag format-xxs">
+                                                <div class="summary">
+                                                    <header>
+                                                        <h3><a href="https://www.politico.com/story/2018/02/18/trump-russia-laughing-their-asses-off-416856" target="_top" data-tracking="mpos=right-rail&mid=tab&lindex=9&lcol=1" class="js-tealium-tracking">Trump: Russia is &#39;laughing their asses off&#39;  </a></h3>
+                                                    </header>
+                                                </div>
+                                            </article>
+                                        </li>
+                            <li>
+                                    <article class="story-frag format-xxs">
+                                                <div class="summary">
+                                                    <header>
+                                                        <h3><a href="https://www.politico.com/story/2018/02/18/minimum-wage-not-enforced-investigation-409644" target="_top" data-tracking="mpos=right-rail&mid=tab&lindex=10&lcol=1" class="js-tealium-tracking">Behind the minimum wage fight, a sweeping failure to enforce the law</a></h3>
+                                                    </header>
+                                                </div>
+                                            </article>
+                                        </li>
+                            <li>
+                                    <article class="story-frag format-xxs">
+                                                <div class="summary">
+                                                    <header>
+                                                        <h3><a href="https://www.politico.com/story/2018/02/18/schiff-trump-vindication-sneezes-416860" target="_top" data-tracking="mpos=right-rail&mid=tab&lindex=11&lcol=1" class="js-tealium-tracking">Schiff: Trump &lsquo;claims vindication anytime someone sneezes&rsquo;</a></h3>
+                                                    </header>
+                                                </div>
+                                            </article>
+                                        </li>
+                            </ol>
+                    </div>
+
+                    </div></div>
+</aside>
+<aside class="content-group global-magazine-recent">
+    <div class="widget caste-exclusive">
+        <header class="widget-header">
+            <h2>
+                <b aria-hidden="true" class="icon icon-politico"></b>
+                            <b aria-hidden="true" class="icon icon-magazine-small"></b>
+                            <span class="icon-text">Politico Magazine</span>
+                        </h2>
+        </header>
+        <div class="widget-content">
+            <ul class="story-frag-list layout-linear">
+                <li>
+                    <article class="story-frag format-m">
+                            <figure class="thumb">
+                                <div class="fig-graphic">
+                                    <a href="https://www.politico.com/magazine/story/2018/02/17/week-39-217019" target="_top" data-tracking="mpos=right-rail&mid=leadandthumbnailmodule&lindex=1&lcol=1" class="js-tealium-tracking"><img data-lazy-img="https://static.politico.com/dims4/default/07a108c/2147483647/legacy_thumbnail/403x218%3E/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fd3%2F83%2Fc7749eb24b498c54820c2ba6c91c%2F180216-robert-mueller-gty-1160.jpg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Robert Mueller is pictured. " data-size="promo_medium"></a></div>
+                            </figure>
+                            <div class="summary">
+                                <header>
+                                    <h3><a href="https://www.politico.com/magazine/story/2018/02/17/week-39-217019" target="_top" data-tracking="mpos=right-rail&mid=leadandthumbnailmodule&lindex=1&lcol=1" class="js-tealium-tracking">Week 39: Mueller Puts Up a Big Score</a></h3>
+                                </header>
+                                <footer class="meta">
+                                    <p class="byline">
+                                            By <span class="vcard"><a href="https://www.politico.com/staff/jack-shafer" rel="author" class="url fn" target="_top" data-tracking="mpos=right-rail&mid=leadandthumbnailmodule&lindex=1&lcol=1" class="js-tealium-tracking">Jack Shafer</a></span></p>
+                                    </footer>
+                            </div>
+                        </article>
+                    </li>
+                <li>
+                    <article class="story-frag format-xs">
+                            <figure class="thumb">
+                                <div class="fig-graphic">
+                                    <a href="https://www.politico.com/magazine/story/2018/02/17/parkland-shooting-children-gun-control-217021" target="_top" data-tracking="mpos=right-rail&mid=leadandthumbnailmodule&lindex=2&lcol=1" class="js-tealium-tracking"><img data-lazy-img="https://static.politico.com/dims4/default/1d6f145/2147483647/legacy_thumbnail/403x218%3E/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F48%2F7d%2F8f555386497ea6d914a218fe77f1%2F180217parklandmagap-18048028249285.jpg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="People hug each other during a memorial in Parkland, Fla." data-size="promo_medium"></a></div>
+                            </figure>
+                            <div class="summary">
+                                <header>
+                                    <h3><a href="https://www.politico.com/magazine/story/2018/02/17/parkland-shooting-children-gun-control-217021" target="_top" data-tracking="mpos=right-rail&mid=leadandthumbnailmodule&lindex=2&lcol=1" class="js-tealium-tracking">Our Children Deserve Better Than This</a></h3>
+                                </header>
+                                <footer class="meta">
+                                    <p class="byline">
+                                            By <span class="vcard">Andrew Cohen</span></p>
+                                    </footer>
+                            </div>
+                        </article>
+                    </li>
+                <li>
+                    <article class="story-frag format-xs">
+                            <figure class="thumb">
+                                <div class="fig-graphic">
+                                    <a href="https://www.politico.com/magazine/story/2018/02/18/how-the-watergate-scandal-almost-had-a-different-name-217016" target="_top" data-tracking="mpos=right-rail&mid=leadandthumbnailmodule&lindex=3&lcol=1" class="js-tealium-tracking"><img data-lazy-img="https://static.politico.com/dims4/default/95ca0f0/2147483647/legacy_thumbnail/403x218%3E/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F3f%2F8e%2Fae30dcc944ec999788043fd9f710%2Fwatergate-lede-ap.jpg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="watergate_lede_ap.jpg" data-size="promo_medium"></a></div>
+                            </figure>
+                            <div class="summary">
+                                <header>
+                                    <h3><a href="https://www.politico.com/magazine/story/2018/02/18/how-the-watergate-scandal-almost-had-a-different-name-217016" target="_top" data-tracking="mpos=right-rail&mid=leadandthumbnailmodule&lindex=3&lcol=1" class="js-tealium-tracking">How the Watergate Scandal Almost Had a Different Name</a></h3>
+                                </header>
+                                <footer class="meta">
+                                    <p class="byline">
+                                            By <span class="vcard">Joseph Rodota</span></p>
+                                    </footer>
+                            </div>
+                        </article>
+                    </li>
+                <li>
+                    <article class="story-frag format-xs">
+                            <figure class="thumb">
+                                <div class="fig-graphic">
+                                    <a href="https://www.politico.com/magazine/story/2018/02/17/political-thriller-russia-scandal-trump-david-pepper-217020" target="_top" data-tracking="mpos=right-rail&mid=leadandthumbnailmodule&lindex=4&lcol=1" class="js-tealium-tracking"><img data-lazy-img="https://static.politico.com/dims4/default/867a717/2147483647/legacy_thumbnail/403x218%3E/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F4a%2Fb7%2F20363fee494e9ab44a785d2bba9c%2F180216-debenedetti-pepper-peopleshouse.jpg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="180216_debenedetti_pepper_peopleshouse.jpg" data-size="promo_medium"></a></div>
+                            </figure>
+                            <div class="summary">
+                                <header>
+                                    <h3><a href="https://www.politico.com/magazine/story/2018/02/17/political-thriller-russia-scandal-trump-david-pepper-217020" target="_top" data-tracking="mpos=right-rail&mid=leadandthumbnailmodule&lindex=4&lcol=1" class="js-tealium-tracking">The Thriller That Predicted the Russia Scandal</a></h3>
+                                </header>
+                                <footer class="meta">
+                                    <p class="byline">
+                                            By <span class="vcard"><a href="https://www.politico.com/staff/gabriel-debenedetti" rel="author" class="url fn" target="_top" data-tracking="mpos=right-rail&mid=leadandthumbnailmodule&lindex=4&lcol=1" class="js-tealium-tracking">Gabriel Debenedetti</a></span></p>
+                                    </footer>
+                            </div>
+                        </article>
+                    </li>
+                </ul>
+        </div>
+        </div>
+</aside>
+<div class="content-group ad ">
+    <div class="ad-slot js-lazy-load flex vertical " id="pol-04" >
+        </div>
+
+    </div>
+    </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                </div>
+
+                <div class="super collapse-content quantity-high" id="superComments">
+                        <div class="super-inner">
+                            <div class="content layout-bi-unequal">
+                                <section class="content-groupset pos-alpha">
+                                    <div id="fb-root"></div>
+  <section class="content-group all-comments">
+    <div class="comments-embed">
+      <div class="fb-comments" data-href="https://www.politico.com/story/2016/10/economy-created-156-000-jobs-in-september-229272" data-numposts="5" data-colorscheme="light" data-width="100%"></div>
+    </div>
+  </section>
+</section>
+
+                                <section class="content-groupset pos-beta">
+                                    <div class="content-group ad ">
+                                        <script type="text/template" class="dynamic-ad-template">
+                                            <div class="content-group ad ">
+    <div class="ad-slot js-lazy-load flex vertical " id="pol-06" >
+        </div>
+
+    </div>
+    </script>
+                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    </div>
+                <div class="super">
+                    <div class="super-inner">
+                        <div class="content layout-full">
+                            <section class="content-groupset pos-omega">
+                                <div class="content-group ad ">
+    <div class="ad-slot js-lazy-load taboola AR_10 " id="OUTBRAIN" >
+        </div>
+
+    </div>
+    </section>
+                        </div>
+                    </div>
+                </div>
+            </article>
+        </div>
+    </div>
+</main>
+<div class="global-footer" role="contentinfo">
+        <div class="global-footer-inner">
+            <div class="footer-group footer-intro">
+    <div class="footer-branding">
+        <h2>
+            <a href="https://www.politico.com/" title="Home" target="_top"><b aria-hidden="true" class="icon icon-politico"></b>
+                <span class="icon-text">More on POLITICO</span>
+            </a></h2>
+    </div>
+
+    <div class="footer-actions">
+    <form class="simple-nav orient-horizontal color-inverted">
+        <fieldset>
+            <label for="jumpEdition">
+                <b aria-hidden="true" class="icon icon-globe"></b>
+                <span class="icon-text">Core Footer - dropdown links</span>
+            </label>
+            <select name="jumpEdition" id="jumpEdition">
+            <option selected="selected"  value="">U.S. Edition</option>
+                <option  value="http://www.politico.eu/">Europe Edition</option>
+                </select>
+        </fieldset>
+    </form>
+</div>
+</div>
+<div class="footer-group footer-nav">
+    <div class="menu with-hidden-toggle reveal-at-large reveal-at-extra">
+        <h5 class="menu-toggle">POLITICO Links</h5>
+
+        <div class="menu-content">
+    <div class="additional-links">
+        <nav class="additional-nav" role="navigation">
+                <h6>
+                    News</h6>
+                <ul>
+                            <li>
+                                    <a href="https://www.politico.com/" target="_top">POLITICO Home</a></li>
+                            <li>
+                                    <a href="https://www.politico.com/magazine/" target="_top">Magazine</a></li>
+                            <li>
+                                    <a href="https://www.politico.com/interactives/elections/2017/alabama/special-election/dec-12/" target="_blank">Election Results</a></li>
+                            <li>
+                                    <a href="https://www.politico.com/congress" target="_top">Congress </a></li>
+                            <li>
+                                    <a href="https://www.politico.com/latest-news-updates/trump-state-of-the-union-2018-address" target="_blank">State of the Union 2018</a></li>
+                            <li>
+                                    <a href="https://www.politico.com/video" target="_top">Video </a></li>
+                            <li>
+                                    <a href="https://www.politico.com/podcasts" target="_blank">Podcasts</a></li>
+                            <li>
+                                    <a href="https://www.politicopro.com/" target="_top">POLITICO Pro </a></li>
+                            <li>
+                                    <a href="https://www.politico.com/states/florida" target="_blank">POLITICO Florida</a></li>
+                            <li>
+                                    <a href="https://www.politico.com/states/new-jersey" target="_blank">POLITICO New Jersey</a></li>
+                            <li>
+                                    <a href="https://www.politico.com/states/new-york" target="_blank">POLITICO New York</a></li>
+                            <li>
+                                    <a href="https://www.politico.com/live-events" target="_top">POLITICO Live </a></li>
+                            </ul>
+                    </nav>
+        <nav class="additional-nav" role="navigation">
+                <h6>
+                    Blogs, Columns & Cartoons </h6>
+                <ul>
+                            <li>
+                                    <a href="http://www.politico.com/magazine/tag/fourth-estate" target="_blank">Jack Shafer </a></li>
+                            <li>
+                                    <a href="https://www.politico.com/blogs/under-the-radar" target="_top">Josh Gerstein </a></li>
+                            <li>
+                                    <a href="http://www.politico.com/news/matt-wuerker" target="_blank">Matt Wuerker</a></li>
+                            <li>
+                                    <a href="http://www.politico.com/magazine/tag/rich-lowry" target="_blank">Rich Lowry </a></li>
+                            <li>
+                                    <a href="http://www.politico.com/tag/cartoon-carousel" target="_blank">Cartoon Carousel </a></li>
+                            </ul>
+                    </nav>
+        <nav class="additional-nav" role="navigation">
+                <h6>
+                    Newsletters</h6>
+                <ul>
+                            <li>
+                                    <a href="https://www.politico.com/playbook" target="_top">Playbook</a></li>
+                            <li>
+                                    <a href="https://www.politico.com/newsletters/playbook-power-briefing" target="_top">Playbook Power Briefing </a></li>
+                            <li>
+                                    <a href="https://www.politico.com/huddle/" target="_top">Huddle</a></li>
+                            <li>
+                                    <a href="https://www.politico.com/magazine/newsletter" target="_top">The Friday Cover</a></li>
+                            <li>
+                                    <a href="http://www.politico.com/media/tipsheets/morning-media" target="_top">Morning Media</a></li>
+                            <li>
+                                    <a href="https://www.politico.com/politicoinfluence/" target="_top">Influence</a></li>
+                            <li>
+                                    <a href="https://www.politico.com/morningagriculture/" target="_top">Morning Agriculture</a></li>
+                            <li>
+                                    <a href="https://www.politico.com/newsletters/morning-cybersecurity" target="_top">Morning Cybersecurity</a></li>
+                            <li>
+                                    <a href="https://www.politico.com/morningdefense/" target="_top">Morning Defense</a></li>
+                            <li>
+                                    <a href="https://www.politico.com/morningeducation/" target="_top">Morning Education</a></li>
+                            <li>
+                                    <a href="https://www.politico.com/morningehealth/" target="_top">Morning eHealth</a></li>
+                            <li>
+                                    <a href="https://www.politico.com/morningenergy/" target="_top">Morning Energy</a></li>
+                            <li>
+                                    <a href="https://www.politico.com/newsletters/morning-money" target="_top">Morning Money</a></li>
+                            <li>
+                                    <a href="https://www.politico.com/morningscore/" target="_top">Morning Score</a></li>
+                            <li>
+                                    <a href="https://www.politico.com/morningshift/" target="_top">Morning Shift</a></li>
+                            <li>
+                                    <a href="https://www.politico.com/morningtax/" target="_top">Morning Tax</a></li>
+                            <li>
+                                    <a href="https://www.politico.com/morningtransportation/" target="_top">Morning Transportation</a></li>
+                            <li>
+                                    <a href="https://www.politico.com/morningtech/" target="_top">Morning Tech</a></li>
+                            <li>
+                                    <a href="https://www.politico.com/morningtrade/" target="_top">Morning Trade</a></li>
+                            <li>
+                                    <a href="https://www.politico.com/politicopulse/" target="_top">Pulse</a></li>
+                            <li>
+                                    <a href="https://www.politico.com/prescriptionpulse/" target="_top">Prescription Pulse</a></li>
+                            </ul>
+                    </nav>
+        <nav class="additional-nav" role="navigation">
+                <h6>
+                    Policy</h6>
+                <ul>
+                            <li>
+                                    <a href="https://www.politico.com/agriculture" target="_top">Agriculture</a></li>
+                            <li>
+                                    <a href="https://www.politicopro.com/campaigns" target="_top">Campaigns</a></li>
+                            <li>
+                                    <a href="https://www.politico.com/cybersecurity" target="_top">Cybersecurity</a></li>
+                            <li>
+                                    <a href="https://www.politico.com/defense" target="_top">Defense</a></li>
+                            <li>
+                                    <a href="https://www.politico.com/education" target="_top">Education</a></li>
+                            <li>
+                                    <a href="https://www.politico.com/ehealth" target="_top">eHealth</a></li>
+                            <li>
+                                    <a href="https://www.politico.com/tag/employment-immigration" target="_top">Employment & Immigration</a></li>
+                            <li>
+                                    <a href="https://www.politico.com/energy-and-environment" target="_top">Energy & Environment</a></li>
+                            <li>
+                                    <a href="https://www.politico.com/finance" target="_top">Finance & Tax</a></li>
+                            <li>
+                                    <a href="https://www.politico.com/health-care" target="_top">Health Care</a></li>
+                            <li>
+                                    <a href="https://www.politico.com/technology" target="_top">Technology</a></li>
+                            <li>
+                                    <a href="https://www.politico.com/trade" target="_top">Trade</a></li>
+                            <li>
+                                    <a href="https://www.politico.com/transportation" target="_top">Transportation & Infrastructure</a></li>
+                            </ul>
+                    </nav>
+        <nav class="additional-nav double" role="navigation">
+                <h6>
+                    More Info</h6>
+                <ul class="first">
+                            <li>
+                                    <a href="https://www.politico.com/about/" target="_top">About Us</a></li>
+                                <li>
+                                    <a href="https://www.politico.com/about/advertising" target="_top">Advertising</a></li>
+                                <li>
+                                    <a href="http://www.politico.com/subscribe/breaking-news-alerts" target="_blank">Breaking News Alerts</a></li>
+                                <li>
+                                    <a href="https://www.politico.com/careers" target="_top">Careers</a></li>
+                                <li>
+                                    <a href="https://secure.politico.com/payment" target="_blank">Credit Card Payments</a></li>
+                                <li>
+                                    <a href="http://edition.pagesuite-professional.co.uk/Launch.aspx?bypass=true&amp;PBID=74262970-aa07-44b3-80c8-21fa8a8ac376" target="_blank">Digital Edition</a></li>
+                                <li>
+                                    <a href="https://www.politico.com/faq" target="_top">FAQ</a></li>
+                                <li>
+                                    <a href="https://www.politico.com/feedback" target="_top">Feedback</a></li>
+                                </ul>
+                                    <ul class="last">
+                                <li>
+                                    <a href="https://www.politico.com/politics" target="_top">Headlines</a></li>
+                                <li>
+                                    <a href="https://www.politico.com/gallery" target="_top">Photos</a></li>
+                                <li>
+                                    <a href="http://www.powerjobs.com/" target="_blank">POWERJobs</a></li>
+                                <li>
+                                    <a href="http://www.politico.com/about/press/blog" target="_top">Press</a></li>
+                                <li>
+                                    <a href="http://www.politico.com/subscriptions" target="_blank">Print Subscriptions</a></li>
+                                <li>
+                                    <a href="https://www.politico.com/rss" target="_top">RSS</a></li>
+                                <li>
+                                    <a href="https://www.politico.com/sitemap" target="_top">Site Map</a></li>
+                                </ul>
+                    </nav>
+        </div>
+</div>
+</div>
+</div>
+<div class="footer-group footer-legal">
+    <p class="copyright"> &copy; 2018 POLITICO LLC</p>
+<ul class="legal-links">
+    <li>
+            <a href="https://www.politico.com/terms-of-service" target="_top">Terms of Service</a></li>
+    <li>
+            <a href="https://www.politico.com/privacy-policy" target="_top">Privacy Policy</a></li>
+    </ul>
+</div></div>
+    </div>
+<script>var gptadslots=[];
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function(){
+  var gads = document.createElement('script');
+  gads.async = true;
+  gads.type = 'text/javascript';
+  var useSSL = 'https:' == document.location.protocol;
+  gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+  var node = document.getElementsByTagName('script')[0];
+  node.parentNode.insertBefore(gads, node);
+})();
+</script><script type="text/javascript" src="https://static3.politico.com/resource/assets/js.min/scriptloader.7442b619cb6bcb0262a3c60a9737c14d.gz.js"></script><script>var scripts = [{'inline': function() { if (Modernizr.touch) { document.write('<script src="https://static3.politico.com/resource/js/website/shared/libraries/jquery-mobile-1.4.5.min.483cba40ca58d0ada0632d01953d42f4.gz.js"><\/script>'); } } },{'src': 'https://static3.politico.com/resource/js/website/shared/libraries/jquery.extra.fbf31263f39294c52d3a5cc6a2f6b309.gz.js'},{'src': 'https://static3.politico.com/resource/js/website/shared/libraries/popup.26b0ff7e738340d74b9af4387fb60a39.gz.js'},{'src': 'https://static3.politico.com/resource/js/website/shared/libraries/jquery-frame.50efb8f6cd88400053a419dfaa93e089.gz.js'},{'src': 'https://static3.politico.com/resource/assets/js.min/main.32fcdae8a34c59b87ef980d2517702db.gz.js'},{'src': 'https://static3.politico.com/resource/assets/js.min/bsp.2de22c254625fff619553fa79c05348f.gz.js'},{'src': '//s7.addthis.com/js/300/addthis_widget.js#pubid=politico.com'},{'inline': function() { buildSocial(); } },];POLITICO_Script_Loader.loadScriptsSync(scripts);</script><script type="text/javascript">$(document).ready(function(e) {
+    $('#pageProfileSettings').find('[target="_changePassword"]').attr('target', '_blank');
+});</script><script type='text/javascript'>
+var utag_data = 
+{"page_level_1":"story","page_level_2":"2016","page_level_3":"10","page_level_4":"economy-created-156-000-jobs-in-september-229272","organization_division":"anonymous","organization_uuid":"anonymous","organization_name":"anonymous","user_login_type":"anonymous","us_em":"anonymous","content_uuid":"0000014b-3270-d4f3-a3cb-f3ffa8610000/00000157-9f26-d41a-a3ff-ffa6165d0000","distribution_channel":"politico","content_id":"229272","lead_media":"two-third","content_tag":"Jobs|Jobs Report|Employment|Unemployment|Unemployment Rates|Unemployment Rate","free_paid_content":"free","publication_date":"20161007","site_section":"Policy: Employment & Immigration","ad_unit_section":"policy-employment-and-immigration","event_type":"story","page_format":"1 of 1","site_domain":"www.politico.com","internal_site_id":"politico","page_type":"story","content_byline":"By Marianne LeVine","content_author":"Marianne LeVine","content_source":"POLITICO","original_headline":"Economy created 156,000 jobs in September","current_headline":"Economy created 156,000 jobs in September","page_name":"story - 229272 - 20161007 - Economy created 156,000 jobs in September","enable_prebid":"false"};
+
+utag_data["spokenlayer"] = document.getElementById('spokenlayer-audio-player-container') != null ? "true" : "false";
+if (typeof(Storage) !== 'undefined') {
+ if (localStorage.uId !== undefined && localStorage.uId !== '') {
+utag_data["us_id"] = localStorage.uId;
+}
+ if (localStorage.uStatus !== undefined && localStorage.uStatus !== '') {
+ if (localStorage.uStatus === "logged in"){ 
+var statusCookieFound = false;
+var nameEQ = "uStatus=";
+var ca = document.cookie.split(';');
+for (var i = 0; i < ca.length; i++) {
+    var c = ca[i];
+    while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+    if (c.indexOf(nameEQ) == 0) {
+        statusCookieFound = true;
+    }
+}
+                    
+if (!statusCookieFound) {
+    localStorage.uStatus = 'logged out';
+}
+}
+utag_data["us_st"] = localStorage.uStatus;} else {
+utag_data["us_st"] = "anonymous";
+}
+ if (localStorage.uCid !== undefined && localStorage.uCid !== '') {
+utag_data["us_co"] = localStorage.uCid;
+}
+}
+;(function(a,b,c,d){
+a='//tags.tiqcdn.com/utag/politico/main/prod/utag.js';
+b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;
+a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
+})();
+</script>
+</div>
+        <div class="ad-slot js-lazy-load  " id="pol-oop" >
+        </div>
+
+    </body>
+    </html>

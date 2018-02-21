@@ -1,0 +1,488 @@
+https://www.internationalwomensday.com/Theme
+
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head><meta charset="utf-8" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="viewport" content="width=device-width, initial-scale=1" /><meta name="application-name" content="International Women&#39;s Day" /><meta name="theme-color" content="#47296e" /><meta property="fb:app_id" content="585587671594560" /><meta property="og:site_name" content="International Women&#39;s Day" /><meta property="og:type" content="website" /><meta property="og:locale" content="en_US" />
+    
+    <meta name="description" content="International Women's Day 2018 - Press for progress to help accelerate gender parity." />
+    <meta property="og:url" content="https://www.internationalwomensday.com/Theme" />
+    <meta property="og:title" content="International Women's Day - #PressforProgress" />
+    <meta property="og:description" content="Press for progress to help accelerate gender parity." />
+	<meta property="og:image" content="https://s3-us-west-2.amazonaws.com/internationalwomensday/PressforProgress-IWD2018.png" />
+    <meta property="og:image:type" content="image/png" />
+    <meta name="twitter:title" content="International Women's Day - #PressforProgress" />
+    <meta name="twitter:description" content="Press for progress to help accelerate gender parity." />
+    <meta name="twitter:image" content="https://s3-us-west-2.amazonaws.com/internationalwomensday/PressforProgress-IWD2018.png" />
+
+<meta name="twitter:card" content="website" /><meta name="twitter:site" content="@womensday" /><meta name="twitter:creator" content="@womensday" /><title>
+	
+    International Women's Day 2018 campaign theme: #PressforProgress
+
+
+</title><link rel="icon" href="/favicon.ico" /><link href="/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    
+    <!-- jQuery -->
+    <script src="//code.jquery.com/jquery.js" type="text/javascript"></script>
+    <!-- Bootstrap Core JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+    <!-- Bootstrap core CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous" /><link href="/css/bootstrap-theme.css" rel="stylesheet" />
+    
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <style type="text/css">
+
+        
+    </style>
+    <script src="https://use.fontawesome.com/670eba4cce.js"></script>
+    
+    
+
+</head>
+<body>
+    <form method="post" action="./Theme" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="tv+yb1RzCs0WJ3iVIVoeNV1S7RgD2VkeOlFG4Q/u+nb8IPT1RwyTzMuYUsjJbkbVDWdGFzn8Yk1jimGW++T2vIu/6g89k1Ulc1TJJWRNhlgbuSN/EEv+jC3700/vaVgLxOXkW5yz6HMjBUEi0pYpDS2kGYUBVjZXuDo/CcmDchEXk+O9x9VSfqrdF2wZitJI/48pQ4jjYHZP9b9cVhoJF7gnXP+crkruEpOQNlSTIwPX4JtBSbLLQJN3HdFdxtXKh0zCCrEpJ2m+zX+Ds39b/mESptVz3vYbVSuO7Oy8vlfRIuLxa1DlIietzk2k7zkU/pyzsk4YWnv3qLMYNm7CRFVSlv72Ec23wlWL2GrM2TOaQLb149adqh8FzKBIJswFNQS/70+kYBWr4RL3L4SBWFHRxe5doNwT31XLCFwdA6rj68PPQIyoZXLUKymBYf5ui5gEJ6zyAvyT2doGZDxIE6K+LFqoVIM2AdoUUyRt/XGOuHZi2BoG9GXgCnBbdCext9NNdFqO2JJoeGNke5bAG2dAvP76Ixnf+u8JKrOakn3snUS9QWodkbrJBh4Uohiw" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="B2D8DC84" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="R5bvgw/qGdrrzyZBED8BsGIlS3zYYdGlfQuvASf92L2mMssLqh5XhyTtn82RdJFvf021OwjvCnMkvS16rNdyREQ9o6EWJknx4Q7KqfIs7QlGrWWrNXiQHnt6oDytYQEaomSl0i9UPUjOikCs2//wpg==" />
+        <div class="navbar navbar-default navbar-fixed-top">
+            <div class="container-fluid">
+            
+              <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                  <span class="sr-only">Toggle navigation</span>
+                  MENU <span class="glyphicon glyphicon-menu-hamburger" aria-hidden="true"></span>
+                </button>
+                  <div class="">
+                <a class="navbar-brand" href="/"><img src="https://s3-us-west-2.amazonaws.com/internationalwomensday/home/InternationalWomensDaylogo.png" alt="International Women's Day" class="hidden-xs hidden-sm hidden-md" />
+                    <span class="visible-xs visible-sm visible-md">International Women's Day</span>
+                </a>
+              </div></div>
+              <div class="navbar-collapse collapse">
+            
+                <ul class="nav navbar-nav navbar-right text-uppercase">
+                    <li class="visible-xs-block"><a href="/">Home</a></li>
+                    <li class="visible-xs-block"><a href="/About">About</a></li>
+                    <li><a href="/Theme">Campaign Theme</a></li>
+                    <li><a href="/PressforProgress">Take action</a></li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Activity <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="/Events">IWD Events</a></li>
+                            <!--<li><a href="/PressforProgress">Take action</a></li>-->
+                            <li><a href="/Awards">IWD Awards</a></li>
+                            <li><a href="/Activity/11691/Thunderclap-your-support-to-PressforProgress">ThunderClap</a></li>
+                            <li><a href="/Activity/11547/PressforProgress-women-sport">WOMEN'S SPORT</a></li>
+                            <li><a href="/Collaborations">Collaborations</a></li>
+                            <li><a href="/News">IWD News</a></li>
+                            <li><a href="/Sponsorship">Sponsorship</a></li>
+                            <li><a href="/Influencers">Influencers</a></li>
+
+                            <!--<li><a href="/Activity/8413/BeBoldForChange-campaigns">Campaigns</a></li>
+                            <li><a href="/Explore">Explore</a></li>-->
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Resources <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="/About">About</a></li>
+                            <li><a href="/Activity/11712/How-to-plan-IWD">Plan your IWD</a></li>
+                            <li><a href="/EventPacks">IWD Event Packs</a></li>
+                            <li><a href="/PressforProgress-Cards">Selfie cards</a></li>
+                            <li><a href="/Widget">IWD Widget</a></li>
+                            <li><a href="/PressforProgress-Posters">IWD Posters</a></li>
+                            <li><a href="/Books">Book Launches</a></li>
+                            <li><a href="/Library-Displays">Library displays</a></li>
+                            <li><a href="/Grant-Funding">Grant funding</a></li>
+                            <li><a href="/Videos">IWD Videos</a></li>
+                            <!--<li><a href="/Resources">IWD resources</a></li>-->
+                            <li><a href="/Logo">IWD Logo</a></li>
+                            <li><a href="/Women-Event-Speakers">Event speakers</a></li>
+                            <li><a href="/Social-Media">Social</a></li>
+                            <li><a href="/Values">Values</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="/Partners">Partners</a></li>
+                    
+                    
+                        <!--<li class=""><a href="/Register">Register</a></li>-->
+                        <li class=""><a href="/Login">My account</a></li>
+                    
+                    
+                </ul>
+            
+            
+              </div><!--/.nav-collapse -->
+            </div>
+
+        </div>
+    
+        
+    <div class="container main-container" style="margin-top:20px;">
+        <div class="row">
+            <div class="col-sm-8">
+                <div style="margin-bottom:20px;">
+                    
+
+    <div>
+        <a href="/EventPacks">
+            <img src="https://s3-us-west-2.amazonaws.com/internationalwomensday/PressforProgress-IWD2018.png" alt="IWD Press for Progress Theme" class="img-responsive" />
+        </a>
+    </div>
+
+    <h2>International Women's Day 2018 campaign theme: <br />#PressforProgress</h2>
+    
+    <p>With the <a href="https://www.wherewomenwork.com/Career/640/Global-Gender-Gap-WorldEconomicForum" target="_blank" ><b>World Economic Forum's 2017 Global 
+        Gender Gap Report</b></a> findings telling us that gender parity is over 200 years away - there has never been a more important time to keep motivated 
+        and <a href="/PressforProgress"><b>#PressforProgress</b></a>. And with global activism for women's equality fuelled by movements like 
+        <a href="https://twitter.com/hashtag/metoo" target="_blank"><b>#MeToo</b></a>, <a href="https://www.timesupnow.com/" target="_blank"><b>#TimesUp</b></a> 
+        and more - there is a strong global momentum striving for gender parity.</p>
+
+    <p>And while we know that gender parity won't happen overnight, the good news is that across the world women are making positive gains 
+        day by day. Plus, there's indeed a very strong and growing global movement of advocacy, activism and support.</p>
+
+    <p>So we can't be complacent. Now, more than ever, there's a strong call-to-action to press forward and progress gender parity. A strong 
+        call to <a href="/PressforProgress"><b>#PressforProgress</b></a>. A strong call to motivate and unite friends, colleagues and whole communities to think, 
+        act and be gender inclusive.</p>
+
+    <p>International Women's Day is not country, group or organisation specific. The day belongs to all groups collectively everywhere. So 
+        together, let's all be tenacious in accelerating gender parity. Collectively, let's all <b>Press for Progress</b>.</p>
+
+    <div class="text-center" style="margin:20px auto;">
+        <a href="/PressforProgress" class="btn btn-lg btn-success" >#PressforProgress NOW</a>
+    </div>
+
+    <hr />
+
+    <h3>Collectively we can all play a part</h3>
+
+    <p>Collective action and shared responsibility for driving gender parity is what makes International Women's Day successful. 
+        Gloria Steinem, world-renowned feminist, journalist and activist 
+        <a href="https://www.seattletimes.com/opinion/herersquos-to-the-memory-of-gloria-steinem-and-the-other-women-who-struggled-for-equality/" target="_blank">once explained</a> 
+        "The story of women's struggle for equality belongs to no single feminist nor to any one organisation but to the collective 
+        efforts of all who care about human rights." </p>
+
+    <p>Started by the Suffragettes in the early 1900's, the first International Women's Day was celebrated in 1911. International 
+        Women's Day belongs to all communities everywhere - governments, companies, charities, educational institutions, networks, 
+        associations, the media and more. Whether through a global conference, community gathering, classroom lesson or dinner table 
+        conversation - everyone can play a purposeful part in pressing for gender parity.</p>
+
+    <p>So make International Women's Day YOUR day and do what you can to truly make a positive difference for 
+            women. <a href="/PressforProgress"><b>Press for Progress!</b></a></p>
+
+    <div>
+        <img src="https://s3-us-west-2.amazonaws.com/internationalwomensday/home/IWD2018-widget-pressforprogress.jpg" alt="International Women's Day #PressforProgress" class="img-responsive" />
+    </div>
+
+    <div class="text-center" style="margin:20px auto;">
+        <a href="/PressforProgress" class="btn btn-lg btn-success" >#PressforProgress NOW</a>
+    </div>
+
+    <hr />
+
+    <!--<h3>Order IWD 2018 Event Packs</h3>
+
+    <p class="text-danger"><b>Be quick while orders are still open and stocks last. Some country stocks closing soon!</b></p>
+
+    <p>Organising a 2018 International Women's Day event?  
+        <a href="/Register"><b>Register</b></a> or <a href="/Login"><b>login</b></a> to 
+        your IWD account for details and to order your International Women's Day 2018 Event Packs. IWD banner, bunting, wristbands, 
+        balloons and more - everything you need to help make your IWD events a huge success. Worldwide shipping available. Individual 
+        and bulk orders welcome. Orders fulfilled on a first-come basis.</p> 
+    
+    <div>
+        <img src="https://s3-us-west-2.amazonaws.com/internationalwomensday/home/IWD-Event-Pack.jpg" alt="International Women's Day Event Pack" class="img-responsive" />
+    </div>
+
+    <hr />-->
+
+    <h3>2018 IWD partnership opportunities open</h3>
+
+    <p>If your organisation is interested in learning more about IWD sponsorship, please <a href="/Contact"><b>make contact</b></a> 
+        as soon as possible.</p> 
+    
+    <hr />
+
+    <h3>Send us your #PressforProgress pictures</h3>
+
+    <p>Want us to promote and amplify your support for accelerating gender parity? 
+        <a href="mailto:info@internationalwomensday.com"><b>Send us</b></a> your best #PressforProgress pictures showing your 
+        commitment to gender parity and we'll be sharing some of the most engaging images on the IWD website and via social 
+        media channels.</p>
+
+    <hr />
+
+    <h3>2017 IWD campaign theme was #BeBoldforChange</h3>
+
+    <p>For International Women's Day 2017 and beyond, individuals and organisations were encouraged to 
+        <a href="/BeBold"><b>#BeBoldforChange</b></a> by taking ground breaking action that truly drives the 
+        greatest change for women. Many <a href="/Influencers"><b>influencers around the world</b></a> committed to bold 
+        action to accelerate gender parity, acknowledging their responsibility to do what they can to forge 
+        a more gender inclusive world. Have you submitted your <a href="/BeBold"><b>#BeBoldforChange</b></a> 
+        action yet?</p> 
+
+    <p>Back in 2016, organisations and individuals around the world were invited 
+        to support the <a href="/Pledge"><b>#PledgeforParity campaign</b></a> and commit to helping women and 
+        girls achieve their ambitions; challenge conscious and unconscious bias; call for gender-balanced 
+        leadership; value women and men's contributions equally; and create inclusive flexible cultures. From 
+        awareness raising to concrete action, organisations 
+        <a href="/Make-your-PledgeForParity-for-IWD2016-and-beyond"><b>rallied their people to pledge support</b></a> 
+        to help forge gender parity on International Women’s Day (IWD) and beyond.</p>
+
+    <p>Each one of us - with women, men and non-binary people joining forces - can be a leader within our own 
+        spheres of influence by taking bold pragmatic action to accelerate gender parity. Through purposeful 
+        collaboration, we can help women advance and unleash the limitless potential offered to economies the 
+        world over. We have urgent work to do - together!</p>
+
+    
+
+    <hr />
+
+    <h3>Looking for International Women's Day resources and support?</h3>
+
+    <p>International Women's Day 2018 resources will soon be made available. However, in the meantime you can:</p>
+    
+    <ul>
+        <li><a href="/Events"><b>Submit</b></a> your events or publish a page.</li>
+        <li><a href="/News"><b>Read</b></a> International Women's Day news from across the world ... and more.</li>
+        <li><a href="/Videos"><b>Watch</b></a> the International Women's Day videos or use them as an inspiring resource at events.</li>
+    </ul>
+    
+
+
+
+                </div>
+            </div>
+            <div class="col-sm-4">
+                
+                <div class="row">
+                    <div class="col-xs-12">
+                        <a href="/External.aspx?b=2016&u=http://www.ey.com/gl/en/issues/business-environment/women-fast-forward" target="_blank">
+                            <img src="https://s3-us-west-2.amazonaws.com/internationalwomensday/banners/EY-InternationalWomensDay.jpg" alt="EY" border="0" class="img-responsive center-block" /></a>
+              
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-xs-12 text-center">
+                        <p><a href="/Partners">
+                            <img src="https://s3-us-west-2.amazonaws.com/internationalwomensday/banners/iwd-partners2018.png" alt="IWD partners" class="img-responsive center-block" /></a></p>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-xs-12"><a href='/External.aspx?b=110&u=https%3A%2F%2Fjobs.metlife.com%2F%3Futm_source%3Dgeneralbannerad%26utm_campaign%3Dinternationalwomensday' target='_blank'><img src="https://s3-us-west-2.amazonaws.com/internationalwomensday/banners/metlife-careers.png" border="0" alt='' title='' class='img-responsive center-block' /></a></div>
+                </div>
+
+                <div class="row">
+                    <div class="col-xs-12 text-center">
+                        <p><a href="/EventPacks">
+                            <img src="https://s3-us-west-2.amazonaws.com/internationalwomensday/banners/IWDresources.gif" alt="IWD resources" class="img-responsive center-block" /></a></p>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-xs-12 text-center">
+                        <p><a href="/External.aspx?u=https://www.wagggs.org/en/support-us/donate/" target="_blank">
+                            <img src="https://s3-us-west-2.amazonaws.com/internationalwomensday/banners/wagggs-donate.png" alt="WAGGGS" class="img-responsive center-block" /></a></p>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-xs-12 text-center">
+                        <a class="twitter-timeline" data-dnt="true" href="https://twitter.com/womensday" data-widget-id="346822072791621632" data-chrome="nofooter transparent" height="800" width="300">Tweets by @womensday</a>
+                        <script> !function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0], p = /^http:/.test(d.location) ? 'http' : 'https'; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = p + "://platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs); } } (document, "script", "twitter-wjs");</script>
+                        
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-xs-12 text-center">
+                        <a href="/External.aspx?b=999&u=https://www.wherewomenwork.com" target="_blank">
+                            <img src="https://s3-us-west-2.amazonaws.com/internationalwomensday/banners/women-jobs.jpg" alt="Where Women Work" class="img-responsive center-block" />
+                        </a>
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+
+    
+        <div class="container-fluid text-center" style="background-color:#ffcc33; padding-top: 40px; padding-bottom:40px; ">
+            <div class="container">
+                <div class="row" style=" min-height:100px;">
+                    <div class="col-xs-12 col-sm-6 text-right">
+                        <h1 style="padding-top:0px; font-size:45px; color:white;">Join the community</h1>
+                    </div>
+                    <div class="col-xs-12 col-sm-5">
+                        <div class="">
+                            <div class="form-group" style="margin-top:30px; margin-bottom:10px;">
+                                
+                                <div class="input-group">
+                                    <input name="ctl00$ctl00$txtEmail" id="txtEmail" class="form-control" Type="email" placeholder="Enter your email for IWD updates" />
+                                    <div class="input-group-btn"><a id="btnAddEmail" class="btn btn-warning" href="javascript:__doPostBack(&#39;ctl00$ctl00$btnAddEmail&#39;,&#39;&#39;)"><i class='fa fa-arrow-right' aria-hidden='true'></i></a></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="footer">
+            <div class="container">
+                <div class="row" style="margin-top:20px;">
+                    <div class="col-sm-1 col-sm-offset-4 col-xs-2 col-xs-offset-1"><a href="http://twitter.com/womensday" target="_blank">
+                        <img src="https://s3-us-west-2.amazonaws.com/internationalwomensday/home/twitter-iwd.png" alt="IWD Twitter" /></a></div>
+                    <div class="col-sm-1 col-xs-2"><a href="http://www.facebook.com/InternationalWomensDay" target="_blank">
+                        <img src="https://s3-us-west-2.amazonaws.com/internationalwomensday/home/facebook-iwd.png" alt="IWD Facebook" /></a></div>
+                    <div class="col-sm-1 col-xs-2"><a href="http://www.linkedin.com/groups/International-Womens-Day-1406777" target="_blank">
+                        <img src="https://s3-us-west-2.amazonaws.com/internationalwomensday/home/linkedin-iwd.png" alt="IWD LinkedIn" /></a></div>
+                    <div class="col-sm-1 col-xs-2"><a href="https://www.youtube.com/channel/UCO0slFdmiod2KmJztaQQV4w/videos" target="_blank">
+                        <img src="https://s3-us-west-2.amazonaws.com/internationalwomensday/home/youtube-iwd.png" alt="IWD YouTube" /></a></div>
+                    <div class="col-sm-1 col-xs-2"><a href="http://pinterest.com/womensday/pins/" target="_blank">
+                        <img src="https://s3-us-west-2.amazonaws.com/internationalwomensday/home/pinterest-iwd.png" alt="IWD Pinterest" /></a></div>
+                    
+                    <!--<div class="col-xs-1"><a href="http://www.instagram.com/pledgeforparity" target="_blank">
+                        <img src="https://s3-us-west-2.amazonaws.com/internationalwomensday/home/instagram-iwd.png" alt="IWD Instagram" /></a></div>-->
+                    
+                </div>
+                
+                <div class="row">
+                    <div class="col-sm-5 col-xs-12">
+                        <p><b>International Women's Day</b> (March 8) is a global day celebrating the social, economic, cultural and political achievements of women. The 
+                            day also marks a call to action for accelerating gender parity. International Women's Day (IWD) has occurred for well over a century, with the 
+                            first​ ​March 8​ ​IWD gathering supported by over a million people in Austria, Denmark, Germany and Switzerland. Prior to this the​ Socialist Party 
+                            of America, United Kingdom's Suffragists and Suffragettes, and further groups campaigned for women equality. Today, IWD belongs to all groups 
+                            collectively everywhere. IWD is not country, group or organisation specific.​ Make IWD your day! - everyday!</p>
+                        <p><b><a href="/">www.internationalwomensday.com</a></b></p>
+                        <p><b>#IWD2018 <a href="/Theme">#PressforProgress</a></b></p>
+                    </div>
+                    
+                    <div class="clearfix visible-xs-block"></div>
+                    <div class="col-sm-2 col-sm-offset-1 col-xs-6">
+                        <p><a href="/">Home</a><br />
+                            <a href="/PressforProgress">Take action</a><br />
+                            
+                            <a href="/Theme">Campaign theme</a><br />
+                            <!--<a href="/Resources">Campaign resources</a><br />-->
+                            <a href="/Events">IWD events</a><br />
+                            <a href="/Activity/11712/How-to-plan-IWD">Plan your IWD</a><br />
+                            <a href="/PressforProgress-Cards">IWD selfie cards</a><br />
+                            <a href="/Widget">Embed widget</a><br />
+                            <a href="/Activity/11691/Thunderclap-your-support-to-PressforProgress">ThunderClap</a><br />
+                            <a href="/EventPacks">IWD event packs</a><br />
+                            <a href="/Collaborations">Collaborations</a><br />
+                            <a href="/Awards">IWD awards</a><br />
+                            <a href="/Influencers">Influencers</a><br />
+                            <a href="/Videos">IWD videos</a><br />
+                            <a href="/Logo">IWD logo</a><br />
+                            <a href="/Books">Book launches</a><br />
+                            <a href="/Library-Displays">Library displays</a><br />
+                            <a href="/Grant-Funding">IWD grant funding</a><br />
+                            <a href="/Women-Event-Speakers">Event speakers</a><br />
+                            <a href="/News">IWD global news</a>
+                            
+                        </p>
+                    </div>
+                    <div class="col-sm-2 col-xs-6">
+                        <p> <a href="/Contact">Contact</a><br />
+                            <a href="/About">About IWD</a><br />
+                            <a href="/Partners">Partners</a><br />
+                            <a href="/Sponsorship">Sponsorship</a><br />
+                            <a href="/Values">Values</a><br />
+                            <a href="/Terms">Terms</a><br />
+                            <a href="/Privacy">Privacy</a><br />
+                            <a href="/Cookies">Cookies</a><br />
+                            <br />
+                            <b>Charity partners:</b><br />
+                            <a href="/WAGGGS">WAGGGS</a><br />
+                            <a href="/Catalyst">Catalyst</a><br />
+                            <br />
+                            <a href="/Contact">IWD 2018 enquiries</a><br />
+                            <br />
+                            <a href="/Register">Register</a><br />
+                            <a href="/Login">Login</a>
+                        </p>
+                    </div>
+                    <div class="visible-xs clearfix"></div>
+                    <div class="col-sm-2 col-xs-6">
+                        <p> <b>​2018 relationships:</b>
+                            <a href="/EY">EY</a><br />
+                            <a href="/Caterpillar">Caterpillar</a><br />
+                            <a href="/Vodafone">Vodafone</a><br />
+                            <a href="/MetLife">MetLife</a><br />
+                            <a href="/Partners">AECOM</a><br />
+                            <a href="/Partners">Amazon</a><br />
+                            <a href="/Partners">BD</a><br />
+                            <a href="/Partners">Diageo</a><br />
+                            <a href="/Partners">EBRD</a><br />
+                            <a href="/Partners">F5</a><br />
+                            <a href="/Partners">Northrop Grumman</a><br />
+                            <a href="/Partners">Rio Tinto</a><br />
+                            <a href="/Partners">Schneider Electric</a><br />
+                            <a href="/Partners">Thales</a><br />
+                            <a href="/Partners">University of Sheffield</a><br />
+                            <a href="/Partners">ACCA</a>
+                        </p>
+                    </div>
+                </div> 
+                            
+            </div>
+        </div>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-7226163-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+        
+<script type = "text/javascript">
+    window.onload = function () {
+        var scrollY = parseInt('');
+        if (!isNaN(scrollY)) {
+            window.scrollTo(0, scrollY);
+        }
+    };
+    window.onscroll = function () {
+        var scrollY = document.body.scrollTop;
+        if (scrollY == 0) {
+            if (window.pageYOffset) {
+                scrollY = window.pageYOffset;
+            }
+            else {
+                scrollY = (document.body.parentElement) ? document.body.parentElement.scrollTop : 0;
+            }
+        }
+        if (scrollY > 0) {
+            var input = document.getElementById("scrollY");
+            if (input == null) {
+                input = document.createElement("input");
+                input.setAttribute("type", "hidden");
+                input.setAttribute("id", "scrollY");
+                input.setAttribute("name", "scrollY");
+                document.forms[0].appendChild(input);
+            }
+            input.value = scrollY;
+        }
+    };
+</script>
+    </form>
+</body>
+</html>

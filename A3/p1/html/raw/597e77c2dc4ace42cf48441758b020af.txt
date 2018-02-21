@@ -1,0 +1,304 @@
+https://www.globalcitizen.org/en/
+<!DOCTYPE html><!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7"><![endif]--><!--[if IE 7]><html class="no-js lt-ie9 lt-ie8"><![endif]--><!--[if IE 8]><html class="no-js lt-ie9"><![endif]--><!--[if gt IE 8]><!--><html class="no-js"><!--<![endif]--><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><title>Global Citizen</title><meta name="description" content=""><meta name="viewport" content="width=device-width, initial-scale=1, minimal-ui"><meta name="p:domain_verify" content="99348f341d1a40276c6b4960e7997c2f"/><meta name="apple-itunes-app" content="app-id=990655529"><meta name="google-play-app" content="app-id=lr.globalcitizen.com"><link rel="canonical" href=https://www.globalcitizen.org/en/ /><link rel="shortcut icon" href="https://static.globalcitizen.org/static/img/favicon.fb497794bcd4.ico"><link rel="apple-touch-icon" href="https://static.globalcitizen.org/static/img/phone-icon.32b1a56e58d9.png"><link rel="apple-touch-icon" sizes="120x120" href="https://static.globalcitizen.org/static/img/120-phone-icon.959744338ceb.png"><link rel="apple-touch-icon" sizes="152x152" href="https://static.globalcitizen.org/static/img/152-phone-icon.cddee36fd645.png"><link rel="apple-touch-icon" sizes="180x180" href="https://static.globalcitizen.org/static/img/180-phone-icon.1f80ef773293.png"><script>
+      document.documentElement.setAttribute('data-useragent',  navigator.userAgent);
+      document.documentElement.setAttribute('data-iframe', !!window.frameElement);
+      if (window.frameElement) {
+        var parentUrl = window.parent.location.pathname;
+        var urlContainsQueryParams = window.location.href.match(/\?/);
+        var queryString = (urlContainsQueryParams ? '&' : '?') + "parent=" + encodeURI(parentUrl);
+        var newUrl = window.location.href + queryString;
+        window.history.replaceState(null, null, newUrl);
+      }
+    </script><link href="https://static.globalcitizen.org/static/css/screen.17c6a6416b49.css" rel="stylesheet" type="text/css" media="screen,projection" /><link href="https://static.globalcitizen.org/static/css/vendor.02fecf65f02c.css" rel="stylesheet" type="text/css" /><style>
+  
+   
+      .headline__category--advocacy {
+        background-color: #D62027;
+      }
+    
+  
+   
+      .headline__category--opinion {
+        background-color: #3FB34F;
+      }
+    
+  
+   
+      .headline__category--partner {
+        background-color: #FF6600;
+      }
+    
+  
+   
+      .headline__category--impact {
+        background-color: #0072bc;
+      }
+    
+  
+   
+      .headline__category--rewards {
+        background-color: #706EBC;
+      }
+    
+  
+</style><script type="text/javascript" src="https://static.globalcitizen.org/static/js/jquery.54322fed5053.js" charset="utf-8"></script><script defer type="text/javascript" src="https://static.globalcitizen.org/static/js/vendor.ba683955cb4f.js" charset="utf-8"></script><script type="text/javascript" src="https://static.globalcitizen.org/static/js/app.b924b1c790ad.js" defer></script><link rel="stylesheet" href="https://static.globalcitizen.org/static/css/vendor/intlTelInput.e92b630d8ffb.css"><link rel="stylesheet" href="https://static.globalcitizen.org/static/css/vendor/smart-app-banner.8f738b30f3ff.css"><script type="text/javascript">
+    if(window.location.hostname.indexOf('admin') === -1 && window.location.pathname === "/es/") {
+      window.location = "http://www.globalcitizen.org/es/info/mexico";
+    }
+  </script><meta property="og:title" content="Global Citizen" /><meta property="og:type" content="website" /><meta property="og:url" content="http://www.globalcitizen.org" /><meta property="og:image" content="https://static.globalcitizen.org/static/img/share.50126c264dc5.jpg" /><meta property="og:site_name" content="Global Citizen" /><meta property="og:description" content="Together we are building a strong global community that’s ready to take action to help end extreme poverty" /><meta property="fb:app_id" content="167247350078234" /><!-- Start Visual Website Optimizer Asynchronous Code --><script type='text/javascript'>
+      var _vwo_code=(function(){
+      var account_id=170957,
+      settings_tolerance=2000,
+      library_tolerance=2500,
+      use_existing_jquery=false,
+      // DO NOT EDIT BELOW THIS LINE
+      f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+    </script><!-- End Visual Website Optimizer Asynchronous Code --><script type='text/javascript'>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  (function() {
+      var gads = document.createElement('script');
+    gads.async = true;
+    gads.type = 'text/javascript';
+    var useSSL = 'https:' == document.location.protocol;
+    gads.src = (useSSL ? 'https:' : 'http:') +
+      '//www.googletagservices.com/tag/js/gpt.js';
+    var node = document.getElementsByTagName('script')[0];
+    node.parentNode.insertBefore(gads, node);
+
+  })();
+</script><script type='text/javascript'>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/14736946/globalcitizen_homepage_top_banner', [[320, 50], [728, 90]], 'div-gpt-ad-1445419019870-4').addService(googletag.pubads());
+    googletag.defineSlot('/14736946/globalcitizen_homepage_top_square', [300, 250], 'div-gpt-ad-1445419019870-5').addService(googletag.pubads());
+    googletag.defineSlot('/14736946/globalcitizen_homepage_middle_banner', [[320, 50], [728, 90]], 'div-gpt-ad-1445419019870-2').addService(googletag.pubads());
+    googletag.defineSlot('/14736946/globalcitizen_homepage_middle_square', [300, 250], 'div-gpt-ad-1445419019870-3').addService(googletag.pubads());
+    googletag.defineSlot('/14736946/globalcitizen_homepage_bottom_square', [300, 250], 'div-gpt-ad-1445419019870-1').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script><link rel="alternate"
+        type="application/rss+xml"
+        title="RSS Feed for globalcitizen.org"
+        href="/content/feed/" /></head><body class=""><script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-33907097-1', {'alwaysSendReferrer': true, 'cookieDomain': 'none'});
+  
+  ga('set', 'page', window.location.pathname);
+  ga('send', 'pageview');
+
+</script><!--[if lt IE 9]><p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p><![endif]--><div id="registerDialogContainer"></div><dialog id="loginDialog" tabindex="-1" aria-hidden="true" class="fullscreen-fixed-dialog"><div class="shell"><div class="standard_dialog"><div class="dialog-header"><span class="close-dialog" aria-label="Close">&times;</span></div><div class="valign-wrapper"><div class="valign"><div class="register-flow"><div class="modal_actions"><h1 class="signup-prompt headline__section">
+                
+                  Welcome back!<br />
+                  Sign in to start taking action.
+                
+              </h1><p class="register-flow-link">Not a Global Citizen yet?
+                <a href="#" data-toggle="dialog" data-target="#registerDialog">Sign up</a></p><section class="social-auth signup-dialog"><button class="facebook-button btn social-button fb-button"><i class="signup-facebook-icon fa fa-facebook fa-fw"></i>Sign in  with Facebook</button><div class="horizontal-rule-with-text"><hr /><span>or</span><hr /></div></section><section class="sign_up signup-dialog"><form method="POST" action="/account/login/"><input type='hidden' name='csrfmiddlewaretoken' value='2iSxk8DZzObkZaYDtsT2oGpA4YgGaCR3UqkCAAcTZw8A9z297LiaMTdFfuEqBYOW' /><fieldset><input id="id_username" name="username" placeholder="Email Address" type="email" required /><input id="id_password" name="password" placeholder="Password" type="password" required /><!-- the errors class is for js targeting --><p class="errors error"></p><button class="btn btn--secondary" type="submit">Submit</button></fieldset><fieldset class="text-left"><label for="id_remember_me"><input checked="checked" id="id_remember_me" name="remember_me" type="checkbox" /><span>Remember me</span></label><a href="/account/password/reset/" id="forgotPassword">Forget your password?</a></fieldset></form></section></div><!-- end modal actions --></div><!-- end login-flow --></div><!-- end valign --></div><!-- end valign-wrapper --></div><!-- end standard-dialog--></div><!-- end shell --></dialog><dialog id="facebookRerequestDialog" class="one-pane" tabindex="-1" aria-hidden="true"><div class="shell"><div class="standard_dialog"><div class="dialog-header"><span class="close-dialog" aria-label="Close">&times;</span><img class="dialog-logo" src="https://static.globalcitizen.org/static/img/gc_logo.11b725af7068.png" alt="Global Citizen"/></div><div class="modal_actions"><p>
+          Thanks for signing up as a global citizen. In order to create your account we need you to provide your email address. You can check out our <a href='/about/privacy-policy'>Privacy Policy</a> to see how we safeguard and use the information you provide us with. If your Facebook account does not have an attached e-mail address, you'll need to add that before you can sign up.
+        </p><button class="facebook-button btn social-button fb-button"><i class="signup-facebook-icon fa fa-facebook fa-fw"></i>Rerequest  with Facebook</button></div></div></div></dialog><dialog id="deactivatedDialog" class="one-pane" tabindex="-1" aria-hidden="true"><div class="shell"><div class="standard_dialog"><div class="dialog-header"><span class="close-dialog" aria-label="Close">&times;</span><img class="dialog-logo" src="https://static.globalcitizen.org/static/img/gc_logo.11b725af7068.png" alt="Global Citizen"/></div><div class="modal_actions"><p><strong>This account has been deactivated.</strong></p><p>
+          Please contact us at <a href='mailto:contact@globalcitizen.org'>contact@globalcitizen.org</a> if you would like to re-activate your account.
+        </p></div></div></div></dialog><div class="wrapper-nav"><nav class="nav"><div class="banner"><div class='banner-left'><a href="#" class="nav-toggle"><span></span></a><div class="nav-menu js-menu-trigger"><ul><li class="has-dropdown js-target-issue"><a href="#">Issues</a><ul><li class="dd-item"><a href="/en/issue/women-girls/">Girls &amp; Women</a></li><li class="dd-item"><a href="/en/issue/health/">Health</a></li><li class="dd-item"><a href="/en/issue/education/">Education</a></li><li class="dd-item"><a href="/en/issue/finance-innovation/">Finance &amp; Innovation</a></li><li class="dd-item"><a href="/en/issue/food-hunger/">Food &amp; Hunger</a></li><li class="dd-item"><a href="/en/issue/water-sanitation/">Water &amp; Sanitation</a></li><li class="dd-item"><a href="/en/issue/environment/">Environment</a></li><li class="dd-item"><a href="/en/issue/citizenship/">Citizenship</a></li></ul></li><li class="child sibling"><a href="/about/who-we-are/">About</a><ul><li class="child"><a href="/en/about/who-we-are/">Who We Are</a></li><li class="child"><a href="/impact/">Impact</a></li><li class="child"><a href="/en/about/frequently-asked-questions/">FAQs</a></li><li class="child"><a href="/en/about/contact-us/">Contact Us</a></li><li class="child"><a href="/en/about/jobs/">Jobs</a></li><li class="child"><a href="/en/about/contests/">Contests</a></li></ul></li><li class="child sibling"><a href="/en/take-action/">Take Action</a></li><li class="child sibling"><a href="/campaign/crises-and-emergencies/">Campaigns</a><ul><li class="child"><a href="/en/campaign/the-global-goals/">The Global Goals</a></li><li class="child"><a href="/en/campaign/healthy-planet/">Healthy Planet</a></li><li class="child"><a href="/campaign/barriers/">Barriers</a></li><li class="child"><a href="/en/campaign/shedecides/">#SheDecides</a></li><li class="child"><a href="/campaign/children/">Children</a></li><li class="child"><a href="/en/campaign/think-local/">Think Local</a></li><li class="child"><a href="/campaign/refugees/">#Refugees</a></li><li class="child"><a href="/campaign/crises-and-emergencies/">Crises and Emergencies</a></li><li class="child"><a href="/campaign/citizenship/">Global Citizenship</a></li><li class="child"><a href="/campaign/levelthelaw/">#LeveltheLaw</a></li><li class="child"><a href="/campaign/peoples-report-card/">The People&#39;s Report Card</a></li><li class="child"><a href="/campaign/heretogether/">#HereTogether</a></li><li class="child"><a href="/campaign/global-citizen-year/">Global Citizen Year</a></li></ul></li><li class="child sibling"><a href="/rewards">Rewards</a></li><li class="child sibling"><a href="/en/festival/">Global Citizen Festival</a></li><li class="child sibling"><a href="https://community.globalcitizen.org/?utm_campaign=community_platform&amp;utm_source=globalcitizen&amp;utm_medium=nav_link">Community</a></li><li class="child sibling"><a href="/partners">Partners</a></li><li class="child sibling"><a href="/en/awards/">Awards</a><ul><li class="child"><a href="/en/awards/waislitz-award/finalists/">Waislitz Award</a></li><li class="child"><a href="/en/awards/curtis-scholarship/">Curtis Scholarship</a></li><li class="child"><a href="/en/awards/youth-advocates-symposium/">2016 Global Citizen Youth Advocates Symposium</a></li></ul></li><li class="child sibling"><a href="https://www.youtube.com/channel/UCg3_C7BwcV0kBlJbBFHTPJQ">Videos</a></li><li class="child sibling"><a href="http://store.globalcitizen.org/">Store</a></li></ul></div><!-- /.nav-menu --><div class="nav-actions"><a class="nav-button" data-target="" href="/about/who-we-are/">About Us</a></div></div><a href="/" class="logo" alt="Global Citizen"><img class='logo-unscrolled' src="https://static.globalcitizen.org/static/img/gc_logo.dd8b5cee3479.svg"/><img class='logo-scrolled' src="https://static.globalcitizen.org/static/img/gc-logo_horizontal.699546b1e2b5.svg"/></a><div class="banner-right"><span class="search-button search-button-icon"><i class="fa fa-search"></i></span><span class="search-button"><span>Search</span></span><span id="languageSelectContainer"></span><script type="text/javascript">
+  $(function() {
+    var languageSelect = React.createElement(LanguageSelect, {});
+    ReactDOM.render(languageSelect, document.getElementById('languageSelectContainer'))
+  });
+</script><div id="Nav"></div></div></div><div id="secondary" class="nav-secondary"><div class="nav-container"><a class="nav-button" data-target="" href="/take-action/">Take Action</a><a class="nav-button" data-target="" href="/rewards/">Rewards</a><a class="nav-button" data-target="" href="/festival/">Festival</a><a class="nav-button" data-target="" href="/impact/">Impact</a><a class="nav-button" data-target="" href="https://community.globalcitizen.org/?utm_campaign=community_platform&utm_source=globalcitizen&utm_medium=primary_nav_link">Community</a></div></div><div id="nav-issues" class="nav-issues"><div class="nav-container"><a href="/en/issue/women-girls/">Girls &amp; Women</a><a href="/en/issue/health/">Health</a><a href="/en/issue/education/">Education</a><a href="/en/issue/finance-innovation/">Finance &amp; Innovation</a><a href="/en/issue/food-hunger/">Food &amp; Hunger</a><a href="/en/issue/water-sanitation/">Water &amp; Sanitation</a><a href="/en/issue/environment/">Environment</a><a href="/en/issue/citizenship/">Citizenship</a></div></div><div id="search" class="search-bar"><form method='get' action='/en/search/'><div class="search-input"><input id="nav-search" name='q' value='' type="text" placeholder="Enter your search term" /><button type="submit"><i class="start-search fa fa-search"></i></button></div></form></div></nav><!-- /.nav --></div><script type="text/javascript">
+    $(function() {
+      var container = document.getElementById('Nav');
+      var component = React.createElement(Nav, {
+        staticAssetPath: '/static/',
+        languageCodeInput: '#languageCode',
+        setLanguageForm: '#setLanguage'
+      });
+      ReactDOM.render(component, container);
+    });
+
+    $(document).ready(function() {
+      if(window.location.pathname.startsWith('/de/')) {
+        $('.wrapper-nav').addClass('multiwrap');
+      }
+
+      if ($('#nav-issues').height() > 24) {
+        $('.wrapper-nav').addClass('multiwrap');
+      }
+    });
+  </script><div id="root" class="container homepage-root"><div class="learn-more"><div class="learn-more-banner-intro"><div class="text"><h4>Global Citizen is a community of people like you</h4><p>
+        People who want to learn about and take action on the
+        world’s biggest challenges.
+        Extreme poverty ends with you.
+        </p></div><div class="learn-more-banner-link learn-more-banner-show-button"><button class="btn btn--secondary-alt">Learn more</button></div><div class="learn-more-banner-link learn-more-banner-hide-button hidden"><a href='#'><img src='https://static.globalcitizen.org/static/img/x-white.458730349893.svg'/></a></div></div><div class="learn-more-dropdown collapsed collapsable"><div class="learn-more-learn-do-meet"><section><header>1. Get Informed</header><p>
+          
+          Check out original content and videos published every day to help you
+          learn about the issues that mean the most to you.
+          
+        </p></section><section><header>2. Take Action</header><p>
+          
+          Send petitions, emails, or tweets to world leaders. Call governments or
+          join rallies. We offer a variety of ways to make your voice heard.
+          
+        </p></section><section><header>3. Connect with Others</header><p>
+          
+          Meet other Global Citizens who care about the same issues you do. Keep
+          updated on what they're doing to change the world.
+          
+        </p></section><section><a href="#" class='btn btn--secondary-alt' data-toggle="dialog" data-target="#registerDialog">Sign Up</a></section></div><p class="learn-more-dropdown-find-out-more"><a href="/about/who-we-are/">Find out more about Global Citizen</a></p></div></div><script type="text/javascript">
+  $(function() {
+    new LearnMore().call();
+  });
+</script><div class="homepage_top_image"></div><section class="featured-content-section"><div class="featured-content-item" style="background-image: url(https://media.globalcitizen.org/thumbnails/ac/0d/ac0d1e92-6891-4e64-8c48-578e4d93ccbe/circus_elephants.jpg__1264x568_q85_crop_subsampling-2.jpg)"><a class="tile-link" href="/en/content/circus-animals-uk-wales-england-scotland-ireland/"><section class="item-information"><h4><span class="headline__topic--white">Citizenship</span></h4><h3 class="headline__primary">
+        
+        
+          Wales Is Set to Ban Circus Animals — and England Might Follow
+        
+      </h3></section></a></div><!-- end featured-content-item --><div class="secondary-content-section"><div class="featured-content-item" style="background-image: url(https://media.globalcitizen.org/thumbnails/a2/68/a268b144-c246-4f01-8378-04d468a5bc86/daca-ice.jpg__1264x568_q85_crop_subsampling-2.jpg)"><a class="tile-link" href="/en/content/ice-detainee-says-she-was-sexually-assaulted-throw/"><section class="item-information"><h4><span class="headline__topic">Girls &amp; Women</span></h4><h3 class="headline__secondary">
+        
+          ICE Detainee Says She Was Sexually Assaulted &amp; Thrown in Solitary for Reporting It
+        
+      </h3></section></a></div><div class="featured-content-item" style="background-image: url(https://media.globalcitizen.org/thumbnails/7c/da/7cda1f86-c9f4-4973-81fe-e4f40516972a/women_global_goals_un.jpg__1264x568_q85_crop_subsampling-2.jpg)"><a class="tile-link" href="/en/content/global-goals-women-girls-progress-slow/"><section class="item-information"><h4><span class="headline__topic">Girls &amp; Women</span></h4><h3 class="headline__secondary">
+        
+          For Women, Global Goal Progress Is ‘Unacceptably Slow’
+        
+      </h3></section></a></div></div><!-- end secondary-content-section --></section><!-- end section --><section class="get-involved-section"><header><h2 class="section-title">Take Action</h2></header><div class="featured-actions"><section class='action-tile' id='gc-ui-action-1482'><div class="completion-container hidden"><div class="completed-message"><i class="fa fa-check-circle fa-5x"></i><h4 class="completed-text">You've completed this action</h4></div></div><div class="action-tile__image-col"><span class="new-action">New</span><div class='featured-actions-icon'><i class="action-icon icon-citizenship"></i></div></div><div class="action-tile__text-col"><h4 class="headline__topic--gray">Tweet</h4></div><div class="action-tile__description"><p>Ask Secretaries Tillerson and Azar to Maintain the Foreign Aid Budget and Promote Freedom and Security around the World <a id='gc-ui-action-1482' class="no-break" href='/en/action/stop-the-cuts-protect-foreign-aid-secs-feb-2018/'>Read More</a></p><div class="button-point-wrapper"><a href='/en/action/stop-the-cuts-protect-foreign-aid-secs-feb-2018/' class="btn">Tweet Now</a></div></div></section><section class='action-tile' id='gc-ui-action-1108'><div class="completion-container hidden"><div class="completed-message"><i class="fa fa-check-circle fa-5x"></i><h4 class="completed-text">You've completed this action</h4></div></div><div class="action-tile__image-col"><div class='featured-actions-icon'><i class="action-icon icon-food-hunger"></i></div></div><div class="action-tile__text-col"><h4 class="headline__topic--gray">Petition</h4></div><div class="action-tile__description"><p>Millions are at risk of starvation. Ask world leaders to act now to stop and prevent famine now. <a id='gc-ui-action-1108' class="no-break" href='/en/action/petition-food-and-hunger-un-funding-famine/'>Read More</a></p><div class="button-point-wrapper"><a href='/en/action/petition-food-and-hunger-un-funding-famine/' class="btn">Sign Petition</a></div></div></section><div id="recommended-action-or-newsletter-container"></div></div></section><script type="text/javascript">
+  $(function() {
+    ReactDOM.render(
+      React.createElement(RecommendedActionOrNewsletterWidget, {}),
+      document.getElementById('recommended-action-or-newsletter-container')
+    );
+  });
+</script><div id="recommendedStoriesContainer"></div><section class="section-recent-activity"><div class="recent-activity-row"><div class="most-recent-articles"><h2 class="section-title">Most recent</h2><div class="articles-recent"><ol><li class="article-recent"><div class="article-recent-image"><a href='/en/content/vancouver-activists/' class='make-relative'><img src='https://media.globalcitizen.org/thumbnails/05/2c/052cde05-a780-421e-b2ff-ba10dacb023f/activists_resized.jpg__264x159_q85_crop_subsampling-2.jpg' alt="Article: 9 Vancouver Activists the World Should Know More About"></a></div><!-- /.article-recent-image --><div class="article-recent-content"><a class="headline__topic--gray" href="/en/issue/citizenship/">Citizenship</a><h3 class="headline__third-tier"><a href='/en/content/vancouver-activists/'>
+          9 Vancouver Activists the World Should Know More About
+        </a></h3><!-- /.article-title --><div class="article-recent-meta"><p>
+          
+            
+
+  By
+  
+    
+      <a class="author-link" href='/en/authors/jackie-marchildon/'>Jackie Marchildon</a><span class='pipe'>|</span><span class="article-recent__date">Feb. 16, 2018</span></p></div><!-- /.article-meta --><div class="article-recent-entry"><p>
+          Check out these Global Citizens making a difference on Canada’s West Coast.
+          <a class="no-break" href="/en/content/vancouver-activists/"> Read more</a></p></div><!-- /.article-entry --></div><!-- /.article-recent-content --></li><li class="article-recent"><div class="article-recent-image"><a href='/en/content/athena-salman-period-bill-arizona/' class='make-relative'><img src='https://media.globalcitizen.org/thumbnails/c4/64/c4649fd3-89a9-481e-9421-b855b71f89b8/prison-cell-bathroom.jpg__264x159_q85_crop_subsampling-2.jpg' alt="Article: Men Won&#39;t Stand in the Way of Menstrual Health for Arizona Prisoners, Says Lawmaker"></a></div><!-- /.article-recent-image --><div class="article-recent-content"><a class="headline__topic--gray" href="/en/issue/water-sanitation/">Water &amp; Sanitation</a><h3 class="headline__third-tier"><a href='/en/content/athena-salman-period-bill-arizona/'>
+          Men Won&#39;t Stand in the Way of Menstrual Health for Arizona Prisoners, Says Lawmaker
+        </a></h3><!-- /.article-title --><div class="article-recent-meta"><p>
+          
+            
+
+  By
+  
+    
+      <a class="author-link" href='/en/authors/david-brand/'>David Brand</a><span class='pipe'>|</span><span class="article-recent__date">Feb. 16, 2018</span></p></div><!-- /.article-meta --><div class="article-recent-entry"><p>
+          “This is so fundamental to female dignity.&quot;
+          <a class="no-break" href="/en/content/athena-salman-period-bill-arizona/"> Read more</a></p></div><!-- /.article-entry --></div><!-- /.article-recent-content --></li><li class="article-recent"><div class="article-recent-image"><a href='/en/content/women-extreme-poverty-un-report/' class='make-relative'><img src='https://media.globalcitizen.org/thumbnails/d2/80/d2804548-ace0-420c-b155-13c45072d966/screen_shot_2018-02-16_at_45235_pm.png__264x159_q85_crop_subsampling-2.png' alt="Article: Women Are Significantly More Likely Than Men to Live in Extreme Poverty: Report"></a></div><!-- /.article-recent-image --><div class="article-recent-content"><a class="headline__topic--gray" href="/en/issue/women-girls/">Girls &amp; Women</a><h3 class="headline__third-tier"><a href='/en/content/women-extreme-poverty-un-report/'>
+          Women Are Significantly More Likely Than Men to Live in Extreme Poverty: Report
+        </a></h3><!-- /.article-title --><div class="article-recent-meta"><p>
+          
+            
+
+  By
+  
+    
+      <a class="author-link" href='/en/authors/joe-mccarthy/'>Joe McCarthy</a><span class='pipe'>|</span><span class="article-recent__date">Feb. 16, 2018</span></p></div><!-- /.article-meta --><div class="article-recent-entry"><p>
+          The problem of sexism becomes even more stark when income levels are broken down.
+          <a class="no-break" href="/en/content/women-extreme-poverty-un-report/"> Read more</a></p></div><!-- /.article-entry --></div><!-- /.article-recent-content --></li><li class="article-recent"><div class="article-recent-image"><a href='/en/content/russians-tried-to-suppress-minority-votes-in-us-el/' class='make-relative'><img src='https://media.globalcitizen.org/thumbnails/85/9c/859cc99b-f995-4578-809e-440686a24b33/robert-mueller-russia-social-share.jpg__264x159_q85_crop_subsampling-2.jpg' alt="Article: Russians Tried to Suppress Minority Votes in US Election, Indictment Says"></a></div><!-- /.article-recent-image --><div class="article-recent-content"><a class="headline__topic--gray" href="/en/issue/citizenship/">Citizenship</a><h3 class="headline__third-tier"><a href='/en/content/russians-tried-to-suppress-minority-votes-in-us-el/'>
+          Russians Tried to Suppress Minority Votes in US Election, Indictment Says
+        </a></h3><!-- /.article-title --><div class="article-recent-meta"><p>
+          
+            
+
+  By
+  
+    
+      <a class="author-link" href='/en/authors/colleen-curry/'>Colleen Curry</a><span class='pipe'>|</span><span class="article-recent__date">Feb. 16, 2018</span></p></div><!-- /.article-meta --><div class="article-recent-entry"><p>
+          Fake online accounts like &quot;Woke Blacks&quot; encouraged minority voters to boycott the election.
+          <a class="no-break" href="/en/content/russians-tried-to-suppress-minority-votes-in-us-el/"> Read more</a></p></div><!-- /.article-entry --></div><!-- /.article-recent-content --></li></ol><div class="view-more-container"><a class="view-more-container__link" href="/en/content/recent/">View more <i class="signup-facebook-icon fa fa-chevron-right fa-fw"></i></a></div></div></div><aside class="making-an-impact"><header><h2 class="section-title">Making an impact</h2><section><div class='dynamic-action-container'><div class='homepage-activity-feed'><div id="gc-ui-activity-feed-wrapper"
+     
+     data-view-type="expanded"
+     data-poll-method="poll"
+     data-feed-bucket="action"
+     data-feed-id="all"
+     data-stream-token="cN1A9ruNVfksbLfPSK_JdnKE2yw"><div class="activity-feed"><ul class="activities" /></div></div></div></div></section><script type='text/javascript'>
+  $(function() {
+    var $activityFeedContainer = $('#gc-ui-activity-feed-wrapper');
+    I18nStore.get().then(
+      function(response) {
+        new ConfigureActivityFeed(
+          '3x7pjebvreba',
+          '2216',
+          response,
+          'https://static.globalcitizen.org/static/',
+          $activityFeedContainer
+        );
+      }
+    );
+  });
+</script><section class="section__container"><h2 class="section-title">Hot Rewards</h2><div class="section__body"><ul><li class="section__item"><a href="/en/collections/the-late-late-show-with-james-corden/"><div class="circle-image"><img src="https://media.globalcitizen.org/thumbnails/fa/c9/fac92984-f4b8-4e27-a81c-744d457ce660/global_citizen_giveaway_image.jpg__100x100_q85_crop_subsampling-2.jpg" alt=""></div><div class="section__content"><h4 class="section__intro headline__topic--gray">Global Citizen Presents:</h4><h4 class="section__topic headline__impact">The Late Late Show with James Corden</h4><p class="section__body"><span class="section__body--link no-break">Learn more</span></p></div></a></li><li class="section__item"><a href="/en/collections/jennifer-lopez/"><div class="circle-image"><img src="https://media.globalcitizen.org/thumbnails/fe/13/fe1374b7-34f5-4761-8ea3-b62819cdbbf5/j_lo_text.png__100x100_q85_crop_subsampling-2.png" alt=""></div><div class="section__content"><h4 class="section__intro headline__topic--gray">Global Citizen Presents:</h4><h4 class="section__topic headline__impact">Jennifer Lopez</h4><p class="section__body"><span class="section__body--link no-break">Learn more</span></p></div></a></li></ul></div></section></header></aside></div></section><div class="index-global-issues"><header><h2 class="section-title">Global Issues</h2></header><ul class="issues-list block-list"><li><img class="icon__large" src="https://static.globalcitizen.org/static/img/issue_icons/women-girls.1d51907c334c.svg" /><section><h3 class="headline__global-issues">Girls &amp; Women</h3><p>Girls and women are essential to building healthier, better-educated and sustainable communities. Women and girls are too often afflicted with ... <a href="/en/issue/women-girls/" class="no-break">Read more</a></p></section></li><li><img class="icon__large" src="https://static.globalcitizen.org/static/img/issue_icons/health.2de3a5358ef2.svg" /><section><h3 class="headline__global-issues">Health</h3><p>Healthy people are able to live fuller, happier lives. They are able to pull themselves out of extreme poverty. For ... <a href="/en/issue/health/" class="no-break">Read more</a></p></section></li><li><img class="icon__large" src="https://static.globalcitizen.org/static/img/issue_icons/education.1f4fb281cffa.svg" /><section><h3 class="headline__global-issues">Education</h3><p>The world has cut the number of children without an education in half. This progress must extend to the over ... <a href="/en/issue/education/" class="no-break">Read more</a></p></section></li><li><img class="icon__large" src="https://static.globalcitizen.org/static/img/issue_icons/finance-innovation.1ab9a9a5f954.svg" /><section><h3 class="headline__global-issues">Finance &amp; Innovation</h3><p>Ending extreme poverty needs innovative ideas, good governance and sustainable financing. Funding global development needs inspiration from every part of ... <a href="/en/issue/finance-innovation/" class="no-break">Read more</a></p></section></li><li><img class="icon__large" src="https://static.globalcitizen.org/static/img/issue_icons/food-hunger.e959e6272a51.svg" /><section><h3 class="headline__global-issues">Food &amp; Hunger</h3><p>Well-fed people create stable communities, perform better in school and take advantage of the opportunities to end extreme poverty. The ... <a href="/en/issue/food-hunger/" class="no-break">Read more</a></p></section></li><li><img class="icon__large" src="https://static.globalcitizen.org/static/img/issue_icons/water-sanitation.62390dd01a87.svg" /><section><h3 class="headline__global-issues">Water &amp; Sanitation</h3><p>Clean water, a place to “poo” and waste systems are not too much to ask. Over a billion people suffer ... <a href="/en/issue/water-sanitation/" class="no-break">Read more</a></p></section></li><li><img class="icon__large" src="https://static.globalcitizen.org/static/img/issue_icons/environment.4ad0f0ec90d3.svg" /><section><h3 class="headline__global-issues">Environment</h3><p>A healthy planet takes care of its people. Healthy people take care of the planet. Protecting the earth promotes the ... <a href="/en/issue/environment/" class="no-break">Read more</a></p></section></li><li><img class="icon__large" src="https://static.globalcitizen.org/static/img/issue_icons/citizenship.de57456f1267.svg" /><section><h3 class="headline__global-issues">Citizenship</h3><p>The world needs active global citizens who are engaged in the world, knowledgeable about its diversity and passionate about change. ... <a href="/en/issue/citizenship/" class="no-break">Read more</a></p></section></li></ul></div><div id="root-footer"></div></div><div id="dialog-container"></div><footer><div class="footer-container"><div class="wrap"><div class="row primary"><div class="about"><ul><h5>ABOUT</h5><li><a href='/about/who-we-are'>Who We Are</a></li><li><a href='/about/impact'>Impact</a></li><li><a href='/about/frequently-asked-questions'>FAQ</a></li><li><a href='/about/contact-us'>Contact Us</a></li><li><a href='/about/jobs'>Jobs</a></li></ul></div><a href='/' class="home-link"><img src="https://static.globalcitizen.org/static/img/gc_footer_logo.fb6bf5fa6b68.png" alt=""></a></div><div class="row social"><div><h5>JOIN THE CONVERSATION</h5><ul class="inline social-media-icons"><li><a class="social-media-icons" href="https://www.facebook.com/GLBLCTZN" target="_blank"><i class="fa fa-facebook"></i></a></li><li><a class="social-media-icons" href="https://twitter.com/glblctzn" target="_blank"><i class="fa fa-twitter"></i></a></li><li><a class="social-media-icons" href="https://www.youtube.com/user/GlobalPovertyProject" target="_blank"><i class="fa fa-youtube"></i></a></li><li><a class="social-media-icons" href="https://www.instagram.com/glblctzn/" target="_blank"><i class="fa fa-instagram"></i></a></li><li><a class="social-media-icons" href="https://glblctzn.tumblr.com" target="_blank"><i class="fa fa-tumblr"></i></a></li></ul></div></div></div><div class="legal"><ul class="inline"><li><a href='/about/privacy-policy/'>Privacy</a></li><li><a href='/about/terms/'>Terms &amp; Conditions</a></li></ul><p class="copyright">&copy; 2012-2018 Global Poverty Project, Inc All Rights Reserved</p></div></div></footer><div id='canada-language-popover'></div><script language='javascript'>
+        $(function() {
+          ReactDOM.render(
+            React.createElement(CanadaLanguagePopover, {}),
+            document.getElementById('canada-language-popover')
+          );
+        });
+      </script><script type="text/javascript">
+    $(function() {
+      var recommendedStories = React.createElement(HomepageRecommendedStories);
+      ReactDOM.render(recommendedStories, document.getElementById('recommendedStoriesContainer'));
+
+      new IdentifyUser().call();
+    });
+  </script><script type="text/javascript">
+    window.fbAsyncInit = function() {
+      FB.init({
+        appId      : '167247350078234',
+        xfbml      : true,
+        version    : 'v2.8'
+      });
+    };
+    (function(d, s, id){ var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) {return;} js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/sdk.js"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));
+  </script><form style="display:none;" id="setLanguage" action="/i18n/setlang/" method="post"><input type='hidden' name='csrfmiddlewaretoken' value='2iSxk8DZzObkZaYDtsT2oGpA4YgGaCR3UqkCAAcTZw8A9z297LiaMTdFfuEqBYOW' /><input name="next" type="hidden" value="/" /><select id="languageCode" name="language"><option value="en" selected="selected">
+          English (en)
+        </option><option value="de">
+          Deutsch (de)
+        </option><option value="fr">
+          français (fr)
+        </option><option value="es">
+          español (es)
+        </option></select></form><script type="text/javascript">
+    $(function() {
+      DialogUtils.polyfillDialogs();
+
+          var shadowUserClient = new ShadowUserClient();
+          shadowUserClient.getShadowUser(function(props) {
+            props.shadowUserClient = shadowUserClient;
+
+            if (window.ga !== undefined) {
+              props.analytics = ga;
+            } else {
+              props.analytics = function(action, actionType, actionLocation) {
+                console.log("action: " + action);
+                console.log("actionType: " + actionType);
+                console.log("actionLocation: " + actionLocation);
+              }
+            };
+
+            var reactRegisterDialog = React.createElement(RegisterDialog, props);
+            ReactDOM.render(reactRegisterDialog, document.getElementById("registerDialogContainer"));
+        });
+    });
+  </script><div id='cookie-warning'></div><script>
+   $(function() {
+     var cookieWarning = React.createElement(CookieWarning, {});
+     ReactDOM.render(cookieWarning, document.getElementById('cookie-warning'));
+   });
+  </script><script>
+  $(document).ready(function($) {
+	  $('a')
+		  .filter('[href^="http"]')
+		  .not('[href*="' + window.location.host + '"]')
+		  .attr('rel', 'noopener noreferrer')
+		  .attr('target', '_blank');
+  });
+  </script></body></html>

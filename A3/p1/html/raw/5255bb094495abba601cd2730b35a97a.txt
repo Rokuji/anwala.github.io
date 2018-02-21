@@ -1,0 +1,1535 @@
+https://www.fisherwallace.com/?gclid=CNr-xNqt38UCFUU8gQodQHIAsQ
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js ie6 oldie" lang="en"><![endif]-->
+<!--[if IE 7]><html class="no-js ie7 oldie" lang="en"><![endif]-->
+<!--[if IE 8]><html class="no-js ie8 oldie" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+	<!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1' /><![endif]-->
+
+	
+	
+	<meta charset="utf-8" />
+	<meta name="google-site-verification" content="3X-Sn7b6S4y3Z9X24XqvksKAjvRrnwxeb6BFP2ApBOs" />
+  	<meta name="google-site-verification" content="VYBv3ybxsLg_9UIGyfMP_fRUJ2SZwOMI59WRhyGRYw4" />
+  	<meta name="msvalidate.01" content="630184143FF53AA425DD34BB6BCDD275" />
+	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1">
+	<meta name="description" content="The Fisher Wallace Stimulator® is a wearable neurostimulation device cleared by the FDA to treat depression, anxiety and insomnia. During each 20-minute treatment session, the device gently stimulates the brain to produce serotonin and other neurochemicals that treat symptoms and support healthy mood and sleep."  />
+	
+	<!--target-densitydpi=device-dpi-->
+	
+	<title>
+		Fisher Wallace
+	</title>
+  	
+	
+	
+
+	<link rel="canonical" href="https://www.fisherwallace.com/" /> 
+	
+	<meta property="og:type" content="website" />
+<meta property="og:title" content="Fisher Wallace" />
+<meta property="og:description" content="The Fisher Wallace Stimulator® is a wearable neurostimulation device that is cleared by the FDA to treat depression, anxiety and insomnia. During each 20-minute treatment session, the device gently stimulates the brain to produce serotonin and other neurochemicals that reduce depression and anxiety and support healthy mood and sleep." />
+<meta property="og:image" content="http://cdn.shopify.com/s/files/1/0315/7737/t/2/assets/fw_device_rbow.jpg?11969965038923140713" />
+<meta property="og:image" content="https://cdn.shopify.com/s/files/1/0315/7737/t/2/assets/fw_device_rbow.jpg?11969965038923140713" />
+<meta property="og:image:width" content="1854" />
+<meta property="og:image:height" content="927" />
+<meta property="fb:app_id" content="506108079556549" />
+<meta property="og:url" content="http://www.fisherwallace.com/" />
+	
+	<link href="//cdn.shopify.com/s/files/1/0315/7737/t/2/assets/reset.css?12931618368894332506" rel="stylesheet" type="text/css" media="all" />
+	<link href="//cdn.shopify.com/s/files/1/0315/7737/t/2/assets/bootstrap.css?12931618368894332506" rel="stylesheet" type="text/css" media="all" /> 	
+	<link href="//cdn.shopify.com/s/files/1/0315/7737/t/2/assets/jquery.fancybox.css?12931618368894332506" rel="stylesheet" type="text/css" media="all" />
+	
+	<link href="//cdn.shopify.com/s/files/1/0315/7737/t/2/assets/font-awesome.css?12931618368894332506" rel="stylesheet" type="text/css" media="all" />
+	<link href="//cdn.shopify.com/s/files/1/0315/7737/t/2/assets/styles.min.css?12931618368894332506" rel="stylesheet" type="text/css" media="all" />
+	<link href="//cdn.shopify.com/s/files/1/0315/7737/t/2/assets/styles-responsive-tablets.css?12931618368894332506" rel="stylesheet" type="text/css" media="all" />
+	<link href="//cdn.shopify.com/s/files/1/0315/7737/t/2/assets/styles-responsive-mobile.css?12931618368894332506" rel="stylesheet" type="text/css" media="all" />
+	<link href="//cdn.shopify.com/s/files/1/0315/7737/t/2/assets/skin.css?12931618368894332506" rel="stylesheet" type="text/css" media="all" />
+  	<link href="//cdn.shopify.com/s/files/1/0315/7737/t/2/assets/slicknav.css?12931618368894332506" rel="stylesheet" type="text/css" media="all" />
+  	<link href="//cdn.shopify.com/s/files/1/0315/7737/t/2/assets/wide.min.css?12931618368894332506" rel="stylesheet" type="text/css" media="all" />
+  	<link href="//cdn.shopify.com/s/files/1/0315/7737/t/2/assets/twoCharts.css?12931618368894332506" rel="stylesheet" type="text/css" media="all" />
+  	<link href="//cdn.shopify.com/s/files/1/0315/7737/t/2/assets/slick.css?12931618368894332506" rel="stylesheet" type="text/css" media="all" />
+  	<link href="//cdn.shopify.com/s/files/1/0315/7737/t/2/assets/slick-theme.css?12931618368894332506" rel="stylesheet" type="text/css" media="all" />
+  	<link href="//cdn.shopify.com/s/files/1/0315/7737/t/2/assets/authform.min.css?12931618368894332506" rel="stylesheet" type="text/css" media="all" />
+  	
+  
+	
+	<!--<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Cabin:300,400,700">-->
+	
+	
+	
+	<!--[if lt IE 9]>
+	<script src="//html5shiv.googlecode.com/svn/trunk/html5.js" type="text/javascript"></script>
+	<![endif]-->
+	<!--[if lt IE 8]>
+	<script src="//cdn.shopify.com/s/shopify/json2.js" type="text/javascript"></script>
+	<![endif]-->
+	
+	<meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/3157737/digital_wallets/dialog">
+<meta name="shopify-checkout-api-token" content="759537b35a00d940baa7274f6e44e2f8">
+<meta id="in-context-paypal-metadata" data-shop-id="3157737" data-environment="production" data-locale="en_US" data-merchant-id="TTLP84BW5SVXS" data-redirect-url="">
+<style media="all">.additional-checkout-button{border:0 !important;border-radius:5px !important;display:inline-block;margin:0 0 10px;padding:0 24px !important;max-width:100%;min-width:150px !important;line-height:44px !important;text-align:center !important}.additional-checkout-button+.additional-checkout-button{margin-left:10px}.additional-checkout-button:last-child{margin-bottom:0}.additional-checkout-button span{font-size:14px !important}.additional-checkout-button img{display:inline-block !important;height:1.3em !important;margin:0 !important;vertical-align:middle !important;width:auto !important}@media (max-width: 500px){.additional-checkout-button{display:block;margin-left:0 !important;padding:0 10px !important;width:100%}}.additional-checkout-button--apple-pay{background-color:#000 !important;color:#fff !important;display:none;font-family:-apple-system, &#39;Helvetica Neue&#39;, sans-serif !important;min-width:150px !important;white-space:nowrap !important}.additional-checkout-button--apple-pay:hover,.additional-checkout-button--apple-pay:active,.additional-checkout-button--apple-pay:visited{color:#fff !important;text-decoration:none !important}.additional-checkout-button--apple-pay .additional-checkout-button__logo{background:-webkit-named-image(apple-pay-logo-white) center center no-repeat !important;background-size:auto 100% !important;display:inline-block !important;vertical-align:middle !important;width:3em !important;height:1.3em !important}@media (max-width: 500px){.additional-checkout-button--apple-pay{display:none}}.additional-checkout-button--google-pay{background-color:#fff;background-origin:content-box;background-position:center;background-repeat:no-repeat;background-size:contain;border:0;border-radius:4px;-webkit-box-shadow:0 1px 3px 0 #6d6d6d;box-shadow:0 1px 3px 0 #6d6d6d;outline:0;padding:10px 8px;width:240px;height:40px;min-height:40px}.additional-checkout-button--google-pay .short{width:160px}.additional-checkout-button--google-pay:focus{-webkit-box-shadow:0 1px 3px 0 #6d6d6d, inset 0 0 0 1px #a8abb3;box-shadow:0 1px 3px 0 #6d6d6d, inset 0 0 0 1px #a8abb3}.additional-checkout-button--google-pay:hover:enabled{background-color:#f7f7f7}.additional-checkout-button--google-pay:active:enabled{background-color:#e7e8e8}.additional-checkout-button--google-pay .no-shadow{-webkit-box-shadow:inset 0 0 0 1px #dadce0;box-shadow:inset 0 0 0 1px #dadce0}.additional-checkout-button--google-pay .no-shadow:focus{-webkit-box-shadow:inset 0 0 0 1px #a8abb3;box-shadow:inset 0 0 0 1px #a8abb3}.additional-checkout-button--google-pay:disabled::before{content:&#39;&#39;;width:100%;height:100%;display:block;background-color:rgba(255,255,255,0.5)}.additional-checkout-button--paypal-express{background-color:#ffc439 !important}.additional-checkout-button--paypal{vertical-align:top;line-height:0 !important;padding:0 !important}.additional-checkout-button--amazon{background-color:#fad676 !important;position:relative !important}.additional-checkout-button--amazon .additional-checkout-button__logo{-webkit-transform:translateY(4px) !important;transform:translateY(4px) !important}.additional-checkout-button--amazon .alt-payment-list-amazon-button-image{max-height:none !important;opacity:0 !important;position:absolute !important;top:0 !important;left:0 !important;width:100% !important;height:100% !important}.additional-checkout-button-visually-hidden{border:0 !important;clip:rect(0, 0, 0, 0) !important;clip:rect(0 0 0 0) !important;width:1px !important;height:1px !important;margin:-2px !important;overflow:hidden !important;padding:0 !important;position:absolute !important}
+</style>
+<script id="apple-pay-shop-capabilities" type="application/json">{"shopId":3157737,"countryCode":"US","currencyCode":"USD","merchantCapabilities":["supports3DS"],"merchantId":"gid:\/\/shopify\/Shop\/3157737","merchantName":"Fisher Wallace","requiredBillingContactFields":["postalAddress","email","phone"],"requiredShippingContactFields":["postalAddress","email","phone"],"shippingType":"shipping","supportedNetworks":["visa","masterCard","amex","discover"],"total":{"type":"pending","label":"Fisher Wallace","amount":"1.00"}}</script>
+<script>var Shopify = Shopify || {};
+Shopify.shop = "fisherwallace.myshopify.com";
+Shopify.theme = {"name":"fw-theme","id":7361549,"theme_store_id":null,"role":"main"};
+Shopify.theme.handle = "null";
+Shopify.theme.style = {"id":null,"handle":null};
+</script>
+<script>(function() {
+  function asyncLoad() {
+    var urls = ["\/\/secure.apps.shappify.com\/apps\/upsell\/upselljsscript.php?shop=fisherwallace.myshopify.com","https:\/\/cdn.refersion.com\/pixel.js?shop=fisherwallace.myshopify.com\u0026client_id=7215\u0026pk=pub_bbeccc12188a8ca5df8b\u0026shop=fisherwallace.myshopify.com","https:\/\/chimpstatic.com\/mcjs-connected\/js\/users\/e3a2b6548000d3c08dc866500\/096ba22336544b64890590a30.js?shop=fisherwallace.myshopify.com","\/\/www.powr.io\/powr.js?powr-token=fisherwallace.myshopify.com\u0026external-type=shopify\u0026shop=fisherwallace.myshopify.com","https:\/\/assets1.adroll.com\/shopify\/latest\/j\/shopify_rolling_bootstrap.js?adroll_adv_id=IDNF4CGJF5F4NKCPU4SX4G\u0026adroll_pix_id=IEJ6R3YIDVBH3FYJSNP5BB\u0026shop=fisherwallace.myshopify.com"];
+    for (var i = 0; i < urls.length; i++) {
+      var s = document.createElement('script');
+      s.type = 'text/javascript';
+      s.async = true;
+      s.src = urls[i];
+      var x = document.getElementsByTagName('script')[0];
+      x.parentNode.insertBefore(s, x);
+    }
+  };
+  if(window.attachEvent) {
+    window.attachEvent('onload', asyncLoad);
+  } else {
+    window.addEventListener('load', asyncLoad, false);
+  }
+})();
+</script>
+<script id="__st">var __st={"a":3157737,"offset":-18000,"reqid":"f0189947-b09b-4894-a861-07ea8d405d4b","pageurl":"www.fisherwallace.com\/?gclid=CNr-xNqt38UCFUU8gQodQHIAsQ","u":"a80530a744d6","p":"home"};</script>
+<script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
+<script>window.Shopify = window.Shopify || {};
+window.Shopify.Checkout = window.Shopify.Checkout || {};
+window.Shopify.Checkout.apiHost = "fisherwallace.myshopify.com";
+window.Shopify.Checkout.rememberMeHost = "pay.shopify.com";
+window.Shopify.Checkout.rememberMeAccessToken = "RWJyU2h4MzN5VTBZUHo4TldXd2FWd2FvcVVIUHdYLzRNY0JPRVBEbXVGcHlYdGJ1aEExWWlLOGQrMUlucWkrQy0tVEY3UTZxTDcyM1UrOTRIVklOdnJqQT09--55a5b83af78279dd9d5c8d53dcb020c8cfae0ab4";
+window.Shopify.Checkout.sheetStyleSheetUrl = "\/\/cdn.shopify.com\/s\/assets\/shared\/sheet\/main-543784ebed4f003461d7c0961888e68496b6ca94aa00127a82e94c399e8b9e4c.css";
+</script>
+<script src="https://cdn.shopify.com/s/files/1/0315/7737/t/1/assets/olark.js?110&amp;shop=fisherwallace.myshopify.com"></script>
+<script defer="defer" integrity="sha256-ZPFx1rMEPOy+uNjNhbpz638SbcVjX57V/jLleulTF6c=" crossorigin="anonymous" src="//cdn.shopify.com/s/assets/storefront/express_buttons-64f171d6b3043cecbeb8d8cd85ba73eb7f126dc5635f9ed5fe32e57ae95317a7.js"></script>
+
+<script src="//cdn.shopify.com/s/assets/themes_support/ga_urchin_forms-68ca1924c495cfc55dac65f4853e0c9a395387ffedc8fe58e0f2e677f95d7f23.js" defer="defer"></script>
+      <script type="text/javascript">
+        
+      window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+      window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
+      window.ShopifyAnalytics.meta.currency = 'USD';
+      var meta = {"page":{"pageType":"home"}};
+      for (var attr in meta) {
+        window.ShopifyAnalytics.meta[attr] = meta[attr];
+      }
+    
+      </script>
+
+      <script type="text/javascript">
+        window.ShopifyAnalytics.merchantGoogleAnalytics = function() {
+          
+        };
+      </script>
+
+      <script type="text/javascript" class="analytics">
+        (window.gaDevIds=window.gaDevIds||[]).push('BwiEti');
+        
+
+        (function () {
+          var customDocumentWrite = function(content) {
+            var jquery = null;
+
+            if (window.jQuery) {
+              jquery = window.jQuery;
+            } else if (window.Checkout && window.Checkout.$) {
+              jquery = window.Checkout.$;
+            }
+
+            if (jquery) {
+              jquery('body').append(content);
+            }
+          };
+
+          var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || [];
+          if (trekkie.integrations) {
+            return;
+          }
+          trekkie.methods = [
+            'identify',
+            'page',
+            'ready',
+            'track',
+            'trackForm',
+            'trackLink'
+          ];
+          trekkie.factory = function(method) {
+            return function() {
+              var args = Array.prototype.slice.call(arguments);
+              args.unshift(method);
+              trekkie.push(args);
+              return trekkie;
+            };
+          };
+          for (var i = 0; i < trekkie.methods.length; i++) {
+            var key = trekkie.methods[i];
+            trekkie[key] = trekkie.factory(key);
+          }
+          trekkie.load = function(config) {
+            trekkie.config = config;
+            var script = document.createElement('script');
+            script.type = 'text/javascript';
+            script.onerror = function(e) {
+              (new Image()).src = '//v.shopify.com/internal_errors/track?error=trekkie_load';
+            };
+            script.async = true;
+            script.src = 'https://cdn.shopify.com/s/javascripts/tricorder/trekkie.storefront.min.js?v=2017.09.05.1';
+            var first = document.getElementsByTagName('script')[0];
+            first.parentNode.insertBefore(script, first);
+          };
+          trekkie.load(
+            {"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":3157737,"isMerchantRequest":null,"themeId":7361549,"themeCityHash":3246277999609441523}},"Performance":{"navigationTimingApiMeasurementsEnabled":true,"navigationTimingApiMeasurementsSampleRate":0.1},"Google Analytics":{"trackingId":"UA-4005528-1","domain":"auto","siteSpeedSampleRate":"10","enhancedEcommerce":true,"doubleClick":true,"includeSearch":true},"Facebook Pixel":{"pixelIds":["1613495645534019"],"agent":"plshopify1.2"},"Session Attribution":{}}
+          );
+
+          var loaded = false;
+          trekkie.ready(function() {
+            if (loaded) return;
+            loaded = true;
+
+            window.ShopifyAnalytics.lib = window.trekkie;
+            
+      ga('require', 'linker');
+      function addListener(element, type, callback) {
+        if (element.addEventListener) {
+          element.addEventListener(type, callback);
+        }
+        else if (element.attachEvent) {
+          element.attachEvent('on' + type, callback);
+        }
+      }
+      function decorate(event) {
+        event = event || window.event;
+        var target = event.target || event.srcElement;
+        if (target && (target.getAttribute('action') || target.getAttribute('href'))) {
+          ga(function (tracker) {
+            var linkerParam = tracker.get('linkerParam');
+            document.cookie = '_shopify_ga=' + linkerParam + '; ' + 'path=/';
+          });
+        }
+      }
+      addListener(window, 'load', function(){
+        for (var i=0; i < document.forms.length; i++) {
+          var action = document.forms[i].getAttribute('action');
+          if(action && action.indexOf('/cart') >= 0) {
+            addListener(document.forms[i], 'submit', decorate);
+          }
+        }
+        for (var i=0; i < document.links.length; i++) {
+          var href = document.links[i].getAttribute('href');
+          if(href && href.indexOf('/checkout') >= 0) {
+            addListener(document.links[i], 'click', decorate);
+          }
+        }
+      });
+    
+
+            var originalDocumentWrite = document.write;
+            document.write = customDocumentWrite;
+            try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
+            document.write = originalDocumentWrite;
+
+            
+        window.ShopifyAnalytics.lib.page(
+          null,
+          {"pageType":"home"}
+        );
+      
+            
+          });
+
+          
+      var eventsListenerScript = document.createElement('script');
+      eventsListenerScript.async = true;
+      eventsListenerScript.src = "//cdn.shopify.com/s/assets/shop_events_listener-f2c5800305098f0ebebdfa7d980c9abf56514c46d5305e97a7c476f7c9116163.js";
+      document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
+    
+        })();
+      </script>
+    
+
+	
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript"></script>
+	<script src="//cdn.shopify.com/s/files/1/0315/7737/t/2/assets/jquery-migrate-1.2.0.min.js?12931618368894332506" type="text/javascript"></script>
+	
+	
+  	<script src="//cdn.shopify.com/s/files/1/0315/7737/t/2/assets/jquery.slicknav.min.js?12931618368894332506" type="text/javascript"></script>
+	
+	
+
+	<script src="//cdn.shopify.com/s/files/1/0315/7737/t/2/assets/bootstrap.js?12931618368894332506" type="text/javascript"></script>
+	<script src="//cdn.shopify.com/s/files/1/0315/7737/t/2/assets/masonry.pkgd.min.js?12931618368894332506" type="text/javascript"></script>
+  	<script src="//cdn.shopify.com/s/files/1/0315/7737/t/2/assets/fullstory.js?12931618368894332506" type="text/javascript"></script>
+
+	<script type="text/javascript" src="//use.typekit.net/vvk0ttr.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<link href='//fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900' rel='stylesheet' type='text/css'>
+<link href='//fonts.googleapis.com/css?family=Oxygen:300,400,700' rel='stylesheet' type='text/css'>
+    
+	<link rel="icon" type="image/png" sizes="16x16" href="//cdn.shopify.com/s/files/1/0315/7737/t/2/assets/favicon.ico?16990388677341526401">
+
+	
+  	
+  	<!-- Start BounceX tag. Deploy at the beginning of document head. -->
+<script>
+(function(d) {
+    var e = d.createElement('script');
+    e.src = d.location.protocol + '//tag.bounceexchange.com/2342/i.js';
+    e.async = true;
+    d.getElementsByTagName("head")[0].appendChild(e);
+}(document));
+</script>
+<!-- End BounceX Tag-->
+  
+  	<script src='https://www.google.com/recaptcha/api.js'></script>
+  
+   <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@id": "https://www.fisherwallace.com",
+      "@type": "Organization",
+      "name": "Fisher Wallace",
+      "legalName": "Fisher Wallace Laboratories, LLC",
+      "foundingDate": 2007,
+      "url": "https://www.fisherwallace.com/",
+      "logo": "https://cdn.shopify.com/s/files/1/0315/7737/files/fwl_logo_transparent.png",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Fisher_Wallace_Laboratories",
+        "https://www.youtube.com/user/FisherWallaceLabs",
+        "https://twitter.com/fisherwallace",
+        "https://www.facebook.com/fisherwallace/",
+        "https://plus.google.com/+FisherWallaceLaboratories"
+      ],
+      "owns": {
+        "@type": "Product",
+        "name": "Fisher Wallace Stimulator",
+        "url": "https://www.fisherwallace.com/"
+      }
+    }
+  </script>
+
+</head>
+
+<body class="device">
+
+<div class="vidContain" style="position:relative;">
+  <div id="buynowvid"><a href="/collections/all">BUY NOW</a></div>
+<div class="vid">
+<video playsinline autoplay muted loop poster="https://cdn.shopify.com/s/files/1/0315/7737/t/2/assets/hero_bag.jpg" id="bgvid" class="bgvid">
+<source data-src="https://purchase-authorization.com/hero.webm" type="video/webm" />
+<source data-src="https://purchase-authorization.com/hero.mp4" type="video/mp4" />
+</video>
+<div id="textoverlay">
+      <h1>The Device for Depression, <br />Anxiety &amp; Insomnia</h1>
+  <h2 class="desktop"><a href="/pages/frequently-asked-questions">FDA-Cleared and Prescribed by 7000 Doctors</a></h2>
+      <div id="icons"><img src="https://cdn.shopify.com/s/files/1/0315/7737/t/2/assets/icons_screen.png"></div>
+      <div class="hiw"><a href="/pages/frequently-asked-questions">FAQ</a></div></div>   
+<div id="swoosh"><img style="width:100%" src="https://cdn.shopify.com/s/files/1/0315/7737/t/2/assets/swish.png"></div>
+<div class="vidpagecontent">
+
+  <!-- Begin toolbar -->
+  <div class="toolbar-wrapper wrapper">
+    <div class="toolbar span12 clearfix">
+        <ul class="unstyled">
+          
+          <li id="cart-target" class="toolbar-cart ">
+            <a href="/cart" class="cart" title="Shopping Cart">
+              <span class="icon-cart"></span>
+              <span id="cart-count">0</span>
+              Cart
+            </a>
+          </li>         
+          
+        </ul>
+    </div>
+  </div>
+  <!-- End toolbar -->
+  
+  <!-- Begin wrapper -->
+  <div id="transparency" class="wrapper clearfix" style="background:none">
+    <div class="row p0">      
+
+      <!-- Begin navigation -->
+      
+
+      <div class="nav-logo">
+              <div class="logo" style="position: relative;z-index: 10;">
+                
+                <h1><a href="/"><img src="//cdn.shopify.com/s/files/1/0315/7737/t/2/assets/logo.png?12931618368894332506" alt="Fisher Wallace" /></a></h1>
+            	
+                <h1 style="display:none"><a href="/">Fisher Wallace</a></h1>
+                
+                
+              </div> 
+            </div>
+
+        <div class="row" id="header"><!--DEP_TEMP-->
+          <div class="span12 border-bottom nav-table" style="">
+  	<ul id="slicknavmenu">
+	<li><a href="/pages/published-research">The Science</a></li>
+	<li><a href="/pages/patient-doctor-testimonials">Patient Reviews</a></li>
+	<li><a href="/pages/how-it-works">How It Works</a></li>
+	<li><a href="/pages/frequently-asked-questions ">FAQ</a></li>
+	<li><a href="/pages/about-us">About Us</a></li>
+	</ul>
+            <!--<div class="nav-logo">
+              <div class="logo">
+                
+                <h1><a href="/"><img src="//cdn.shopify.com/s/files/1/0315/7737/t/2/assets/logo.png?12931618368894332506" alt="Fisher Wallace" /></a></h1>
+            	
+                <h1 style="display:none"><a href="/">Fisher Wallace</a></h1>
+                
+                
+              </div> 
+            </div>--> 
+            
+            <div class="phone">
+            	<i class="icon-phone"></i> 800.692.4380
+            </div>
+            
+            <div class="nav-links">
+              <section id="nav">
+                <nav class="main">
+                  <ul class="standard">
+  
+  
+  <li>
+    <a href="/pages/published-research" class="">
+      <span>The Science</span></a>
+  </li>
+  
+  
+  
+  <li>
+    <a href="/pages/patient-doctor-testimonials" class="">
+      <span>Reviews</span></a>
+  </li>
+  
+  
+  
+  <li>
+    <a href="/pages/how-it-works" class="">
+      <span>How It Works</span></a>
+  </li>
+  
+  
+  
+  <li>
+    <a href="/pages/frequently-asked-questions" class="">
+      <span>FAQ</span></a>
+  </li>
+  
+  
+  
+  <li>
+    <a href="/pages/about-us" class="">
+      <span>About Us</span></a>
+  </li>
+  
+  
+  
+  <li>
+    <a href="/collections/all" class="">
+      <span>Buy Now</span></a>
+  </li>
+  
+  
+</ul>
+
+<ul class="responsive">
+  
+  
+  <li>
+    <a href="/" class=" current">
+      <span>Home</span></a>
+  </li>
+  
+  
+  
+  <li>
+    <a href="/collections/all" class="">
+      <span>Buy Now</span></a>
+  </li>
+  
+  
+</ul>
+                </nav> 
+                <nav class="mobile clearfix">
+                  
+<select name="main_navigation" id="main_navigation" class="fl">
+  
+    
+    <option value="http://www.fisherwallace.com/">Home</option>
+    
+    
+  
+    
+    <option value="http://fisherwallace.myshopify.com/collections/fisher-wallace-products">All Products</option>
+    
+    
+  
+  
+  <option value="" selected="selected">Fisher Wallace</option>
+  
+  <option value="/cart">Your cart (0)</option>
+</select>
+                </nav>
+                </section> 
+            </div>    
+          </div> 
+        </div>
+
+      
+      <!-- End navigation -->
+      
+      
+      
+      <!-- Begin content-->
+    </div>
+  </div>
+  </div>
+  </div>
+  
+
+  </div>
+  <div id="twoCharts">
+  <div class="onleft"><div id="outcomes">
+<div id="outcomesarea">
+<div id="outcomestext">
+<h1 class="ppp">Outstanding Patient Outcomes</h1>
+<p>In clinical trials and practice, more than 70% of patients who use the Fisher Wallace Stimulator® report a reduction or remission of depression, anxiety and insomnia symptoms within one-to-four weeks of daily use. The device works by stimulating the production of neurotransmitters and modulating brain activity, as demonstrated in published studies.</p>
+</div>
+<a href="/pages/published-research" style="text-decoration: none;">
+<div id="counters">
+<div class="ppp">
+<h2 class="ppp counter" data-count="30000">30,000</h2>
+Patients</div>
+<div class="ppp">
+<h2 class="ppp counter" data-count="7000">7,000</h2>
+Prescribers</div>
+<div class="ppp">
+<h2 class="ppp counter" data-count="12">12</h2>
+Published Studies</div>
+</div>
+</a> <br>
+<div class="readmore"><a href="/pages/published-research" class="readmore"> Clinical Evidence</a></div>
+</div>
+</div></div>
+  <div class="onright"><div id="beck"><a href="/pages/published-research"><img style="width:100%;" src="https://cdn.shopify.com/s/files/1/0315/7737/t/2/assets/beck_chart.png?1917365852747361462"></a></div><div id="sleep"><a href="/pages/published-research"><img style="width:100%;" src="https://cdn.shopify.com/s/files/1/0315/7737/t/2/assets/sleep_onset_latency_chart.png?13460686808232831481"></a></div></div>
+  </div>
+  <div style="clear:both;"></div>
+  <div style="display: none;">
+  <div id="guarantee" style="text-align: left; width: 300px; overflow: hidden; line-height: 1.5em;">Customers who purchase the Fisher Wallace Stimulator® for $599 or $699 may return it for a refund within 30 days of receipt. Fisher Wallace applies a 10% restocking fee (an industry standard for durable medical equipment) and does not refund the cost of shipping. Refunds are mailed by check five weeks after receipt of a fully functioning device.</div>
+  </div>
+  <div class="benefits">
+       <div class="ib-nowrap">
+<div class="img-benefits onehalf"><img src="https://cdn.shopify.com/s/files/1/0315/7737/t/2/assets/benefits_woman.jpg?3312266035984327986"></div>
+<div class="text-benefits onehalf">
+<div class="text-benefits-content">
+<h1>Powerful Relief, Yet Comfortable</h1>
+<p>The Fisher Wallace Stimulator® is a portable medical device that comfortably stimulates brain regions responsible for healthy mood and sleep. The device is cleared by the FDA and approved for sale over-the-counter in Europe for the treatment of depression, anxiety and insomnia.</p>
+<div class="readmore"><a href="/pages/how-it-works" class="readmore">how it works</a></div>
+</div>
+</div>
+</div>
+<div id="benefits-row-mobile" class="ib-nowrap">
+<div class="img-benefits onehalf"><img src="https://cdn.shopify.com/s/files/1/0315/7737/t/2/assets/doctor_optm.jpg?10461873151751053241"></div>
+<div class="text-benefits onehalf">
+<div class="text-benefits-content">
+<h1>Safer Than Drug Therapy</h1>
+<p>Less than 1% of patients experience side effects from using the Fisher Wallace Stimulator®. By comparison, 38% of patients experience side effects from using antidepressant medication.<sup>1</sup><br><span id="fnote"><br>1. Real-World Data on SSRI Antidepressant Side Effects. Psychiatry (Edgmont). 2009 Feb; 6(2): 16–18.</span></p>
+<div class="readmore"><a href="pages/patient-doctor-testimonials" class="readmore">doctor reviews</a></div>
+</div>
+</div>
+</div>
+<div id="benefits-row-desktop" class="ib-nowrap">
+<div class="text-benefits onehalf">
+<div class="text-benefits-content second">
+<h1>Safer Than Drug Therapy</h1>
+<p>Less than 1% of patients experience side effects from using the Fisher Wallace Stimulator®. By comparison, 38% of patients experience side effects from using antidepressant medication.<sup>1</sup><br><span id="fnote"><br>1. Real-World Data on SSRI Antidepressant Side Effects. Psychiatry (Edgmont). 2009 Feb; 6(2): 16–18.</span></p>
+<div class="readmore"><a href="pages/patient-doctor-testimonials" class="readmore">doctor reviews</a></div>
+</div>
+</div>
+<div class="img-benefits onehalf"><img src="https://cdn.shopify.com/s/files/1/0315/7737/t/2/assets/doctor_optm.jpg?10461873151751053241"></div>
+</div>
+<div class="ib-nowrap">
+<div class="img-benefits onehalf"><img src="https://cdn.shopify.com/s/files/1/0315/7737/t/2/assets/nh_30_800_darkbg.jpg?11487847980122847873"></div>
+<div class="text-benefits onehalf">
+<div class="text-benefits-content">
+<h1>30-Day Trial Period</h1>
+<p>Use the device twice a day for 20 minutes (morning and evening) for the first 30 days. If you do not experience significant results, <a href="#guarantee" class="fancybox">return the device for a refund</a>.</p>
+<div class="readmore"><a href="/collections/all" class="readmore">buy now</a></div>
+</div>
+</div>
+</div>
+  </div>
+  <div style="clear:both;"></div>
+  <div class="sectionhead"><h1>Real Patient Stories</h1></div>
+  <div id="videos">
+  <div id="mainvideo"><div class="video-container vimeoHeight">
+  <video class="fox" onclick="this.play();" controls poster="https://cdn.shopify.com/s/files/1/0315/7737/t/2/assets/poster_fox.jpg">
+  <source src="" data-src="https://cdn.shopify.com/s/files/1/0315/7737/files/fw_fox.mp4" type="video/mp4">Your browser does not support the video tag.</video></div></div><div id="videotext"><h1>Treat Symptoms with <br />Medical-Grade Technology</h1><p style="line-height:30px;">Designed collaboratively by world-class engineers and doctors, the Fisher Wallace Stimulator® uses proprietary waveforms to gently stimulate the brain to produce serotonin and other neurochemicals responsible for healthy mood and sleep. Proven safe and effective in multiple published studies, the device is cleared by the FDA to treat depression, anxiety and insomnia. Watch the video to learn how easy it is to use.</p><div class="readmore"><a class="readmore" href="/pages/patient-doctor-testimonials">testimonials</a></div></div>
+  	<div id="videorow">
+    <!--<div class="videorow"><div class="video-container vimeoHeight"><iframe src="" data-src="https://player.vimeo.com/video/201707887?title=0&amp;byline=0&amp;portrait=0" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe><div class="vidsub">How It Works</div></div></div>
+    <div class="videorow"><div class="video-container vimeoHeight"><iframe src="" data-src="https://player.vimeo.com/video/65903946?title=0&amp;byline=0&amp;portrait=0" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe><div class="vidsub">How It Feels</div></div></div>
+    <div class="videorow"><div class="video-container vimeoHeight"><iframe src="" data-src="https://player.vimeo.com/video/60594442?title=0&amp;byline=0&amp;portrait=0" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe><div class="vidsub">Real Patient: Mike Davis</div></div></div>
+    <div class="videorow"><div class="video-container vimeoHeight"><iframe src="" data-src="https://player.vimeo.com/video/201230221?title=0&amp;byline=0&amp;portrait=0" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe><div class="vidsub">Real Patient: Logan Shield</div></div></div>-->
+    <div style="clear:both"></div>
+    </div>
+  </div>
+  <div style="clear:both"></div>
+   
+  <a name="dyq"></a>
+  <div id="authform">
+  <div class="sectionhead"><h1 class="blue">Do You Qualify to Use the Device?</h1></div>
+<form action="https://purchase-authorization.net/" method="post">
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td style="float:right;text-align: right;font-size: 10px;">
+<span class="req-symbol"> * </span> denotes required fields 
+</td>
+</tr>
+<tr>
+<td id="first_name" style="margin-right: 10px;">
+<label for="first_name" id="first_name_label" class=""> First Name <span class='req-symbol'> <strong> * </strong> </span> </label>
+<input id="first_name" name="first_name" type="text" placeholder="" required />
+</td>
+<td id="last_name">
+<label for="last_name" id="last_name_label" class=""> Last Name <span class='req-symbol'> <strong> * </strong> </span> </label>
+<input id="last_name" name="last_name" type="text" placeholder="" required />
+</td>
+</tr>
+<tr>
+<td id="email">
+<label for="email" id="email_label" class=""> Email <span class='req-symbol'> <strong> * </strong> </span> </label>
+<input id="email" pattern="[a-zA-Z0-9.-_]{1,}@[a-zA-Z0-9.-]{1,}[.]{1}[a-zA-Z0-9]{2,}" name="email" type="email" placeholder="" required />
+</td>
+</tr>
+<tr>
+<td class="full" id="implanted">
+<label for="implanted" id="implanted_label" class=""> Do you have a medical device implanted in your head or neck? <span class='req-symbol'> <strong> * </strong> </span> </label>
+</td>
+</tr>
+<tr>
+<td>
+<label class="binary">
+<input type="radio" name="implanted" value="Yes" />
+<div class="tick"></div>
+<span>Yes</span></label>
+</td>
+<td>
+<label class="binary">
+<input type="radio" name="implanted" value="No" checked />
+<div class="tick"></div>
+<span>No</span></label>
+</td>
+</tr>
+<tr>
+<td class="full" id="pacemaker">
+<label for="pacemaker" id="pacemaker_label" class=""> Do you have a pacemaker? <span class='req-symbol'> <strong> * </strong> </span> </label>
+</td>
+</tr>
+<tr>
+<td>
+<label class="binary">
+<input type="radio" name="pacemaker" value="Yes" />
+<div class="tick"></div>
+<span>Yes</span></label>
+</td>
+<td>
+<label class="binary">
+<input type="radio" name="pacemaker" value="No" checked />
+<div class="tick"></div>
+<span>No</span></label>
+</td>
+</tr>
+<tr>
+<td class="full" id="over_21">
+<label for="over_21" id="over_21_label" class=""> Are you 21 years of age or older? <span class='req-symbol'> <strong> * </strong> </span> </label>
+</td>
+</tr>
+<tr>
+<td>
+<label class="binary">
+<input type="radio" name="over_21" value="Yes" checked />
+<div class="tick"></div>
+<span>Yes</span></label>
+</td>
+<td>
+<label class="binary">
+<input type="radio" name="over_21" value="No" />
+<div class="tick"></div>
+<span>No</span></label>
+</td>
+</tr>
+<tr>
+<td class="full" id="updates">
+<label for="updates" id="updates_label" class=""> May the manufacturer email you important device related updates? <span class='req-symbol'> <strong> * </strong> </span> </label>
+</td>
+</tr>
+<tr>
+<td>
+<label class="binary">
+<input type="radio" name="updates" value="Yes" checked />
+<div class="tick"></div>
+<span>Yes</span></label>
+</td>
+<td>
+<label class="binary">
+<input type="radio" name="updates" value="No" />
+<div class="tick"></div>
+<span>No</span></label>
+</td>
+</tr>
+<tr>
+<td style="width: auto;">
+<label>Confirm that you are not a bot <span class='req-symbol'> <strong> * </strong> </span></label>
+<div style="margin-top:15px" class="g-recaptcha" data-sitekey="6LdVnjwUAAAAAJCysnp0vFaBQNgvlH2mD1mwNucb"></div>
+</td>
+</tr>
+<tr>
+<td class="full">
+<input type="hidden" name="addauth">
+<input type="submit" name="submit" id="submit" value="Submit"> 
+</td>
+</tr>
+</table>
+</form>
+<br /><br /><br />
+</div>
+
+  <div id="swoosh2"><img style="width:100%" src="https://cdn.shopify.com/s/files/1/0315/7737/t/2/assets/swish2.png"></div>
+  
+  
+  <div class="sectionhead minus"><h1>Doctor &amp; Patient Testimonials</h1></div>
+  
+<div class="testimonials">
+  <div><a href="/pages/patient-doctor-testimonials" class="testlink">
+<h1>"Does it work?"</h1>
+<p>"Does it work? Columbia University psychiatrist Richard P. Brown says he has used the device with 400 severely depressed patients and that more than 70% find relief -- about twice the rate of anti-depressants."</p>
+<div class="testauth"><span class="testauth">– The Wall Street Journal</span></div>
+</a></div>
+<div><a href="/pages/patient-doctor-testimonials" class="testlink">
+<h1>"I have had great success..."</h1>
+<p>"I have had great success using the device to treat severe, chronic insomnia in patients who are resistant to pharmacotherapy. Also, patients who seek a drug-free alternative to treat insomnia have used the Fisher Wallace Stimulator to reduce or eliminate their dependence on prescription drugs."</p>
+<div class="testauth">
+<img src="https://cdn.shopify.com/s/files/1/0315/7737/t/2/assets/sanmartin.jpg?3460284406805459916"> <span class="testauth">Andres San Martin, M.D.<br>Professor of Psychiatry<br>Columbia University Medical Center</span>
+</div>
+</a></div>
+<div><a href="/pages/patient-doctor-testimonials" class="testlink">
+<h1>"Initially I was deep in major depression"</h1>
+<p>"Initially I was deep in major depression, found it next to impossible to write or do other professional work, and in spite of my own training and experience, found myself contemplating suicide at times. I've been diagnosed with bipolar disorder type II."</p>
+<div class="testauth">
+<img src="https://cdn.shopify.com/s/files/1/0315/7737/t/2/assets/fauteck.jpg?3460284406805459916"> <span class="testauth">Paul Fauteck, Psy.D</span>
+</div>
+</a></div>
+<div><a href="/pages/patient-doctor-testimonials" class="testlink">
+<h1>"I have seen very positive results..."</h1>
+<p>"I have seen very positive results, often within the first two weeks of using the device. Approximately 75% of my patients who have been diagnosed with generalized anxiety disorder, major depressive disorder, stress related disorders or insomnia have reported positive changes."</p>
+<div class="testauth">
+<img src="https://cdn.shopify.com/s/files/1/0315/7737/t/2/assets/brown.jpg?3460284406805459916"> <span class="testauth">Dr. Richard Brown<br>Professor of Psychiatry<br>Columbia University Medical Center</span>
+</div>
+</a></div>
+<div><a href="/pages/patient-doctor-testimonials" class="testlink">
+<h1>"The Fisher Wallace Stimulator has helped me considerably..."</h1>
+<p>"The Fisher Wallace Stimulator has helped me considerably as I finish my battle with chronic Lyme disease. It has reduced my fibromyalgia neck/back pain more than 70% and greatly decreased the severity of my headaches. Additionally, I have noticed a relief of symptoms while enduring Herxheimer reactions, which often involve insomnia, depression, and severe anxiety."</p>
+<div class="testauth"><span class="testauth">Kaleigh A.</span></div>
+</a></div>
+<div><a href="/pages/patient-doctor-testimonials" class="testlink">
+<h1>"I'm reluctant to let go of my stimulator..."</h1>
+<p>But since I couldn't stop talking about my good mood and hypercharged focus, my friends stopped laughing and started asking if they could borrow it. I'm reluctant to let go of my stimulator, however.</p>
+<div class="testauth">
+<img src="https://cdn.shopify.com/s/files/1/0315/7737/t/2/assets/burleigh.jpg?3460284406805459916"> <span class="testauth">Nina Burleigh<br>ELLE Magazine</span>
+</div>
+</a></div>
+</div>
+  
+  <div id="swoosh1"><img style="width:100%" src="https://cdn.shopify.com/s/files/1/0315/7737/t/2/assets/swish1.png"></div>
+
+  <!-- Begin footer -->
+  <div class="footer-wrapper wrapper">
+    <footer>
+
+       <section>
+        	<div id="accordion2" class="panel-group">
+	        	<aside class="contactUs panel panel-default">
+	        		<div class="panel-heading">
+	        			<h4 class="panel-title">
+	        				<a href="#collapse110" data-parent="#accordion2" data-toggle="collapse" class="collapsed">Contact Us</a>
+	        			</h4>
+	        		</div>
+	        		<div class="panel-collapse" id="collapse110">
+		        		<div class="fAsideContent panel-body">
+		        			<table>
+<tbody>
+<tr><th>Tel.</th>
+<td><a href="tel:8006924380" class="normal">800.692.4380</a></td>
+</tr>
+<tr><th>Fax</th>
+<td>800.657.7362</td>
+</tr>
+<tr><th>Email</th>
+<td><a href="mailto:info@fisherwallace.com" class="normal">info@fisherwallace.com</a></td>
+</tr>
+</tbody>
+</table>
+		        		</div>
+		        	</div>
+	        	</aside>
+	        	
+	        	<aside class="address panel panel-default">
+	        		<div class="panel-heading">
+	        			<h4 class="panel-title">
+	        				<a href="#collapse111" data-parent="#accordion2" data-toggle="collapse" class="collapsed">Address</a>
+	        			</h4>
+	        		</div>
+	        		<div class="panel-collapse" id="collapse111">
+		        		<div class="fAsideContent panel-body">
+		        			
+		        		</div>
+		        	</div>
+	        	</aside>
+	        	
+	        	<aside class="serviceHours panel panel-default">
+	        		<div class="panel-heading">
+	        			<h4 class="panel-title">
+	        				<a href="#collapse112" data-parent="#accordion2" data-toggle="collapse" class="collapsed">Customer Service Hours</a>
+	        			</h4>
+	        		</div>
+	        		<div class="panel-collapse" id="collapse112">
+		        		<div class="fAsideContent panel-body">
+		        			<table>
+<tbody>
+<tr>
+<th>Mon - Fri</th>
+<td>10:00am - Midnight EST</td>
+</tr>
+<tr>
+<th>Sat - Sun</th>
+<td>Noon - Midnight EST</td>
+</tr>
+</tbody>
+</table>
+		        		</div>
+		        	</div>
+	        	</aside>
+	
+				
+				<!-- Begin social -->
+	        	<aside class="social panel panel-default">
+	    		    <div class="panel-heading">
+	    		    	<h5 class="~panel-title" style="padding-left:33px;font-size: 16px;padding: 10px 0 20px;">
+	    		    		<a style="font-weight:normal;font-size:14px !important;" href="#collapse113" data-parent="#accordion2" data-toggle="collapse" class="collapsed"><img style="padding:0 10px 0 3px;" src="https://cdn.shopify.com/s/files/1/0315/7737/t/2/assets/favicon.ico"> Social Media</a>
+	    		    	</h5>
+	    		    </div>
+	    		    <div class="panel-collapse" id="collapse113">
+		    		    <div class="fAsideContent panel-body">
+		    		    	
+		    		    	<iframe src="https://www.facebook.com/plugins/like.php?action=recommend&app_id=&channel=http%3A%2F%2Fstatic.ak.facebook.com%2Fconnect%2Fxd_arbiter%2FLEdxGgtB9cN.js%3Fversion%3D40%23cb%3Df3b0d89474eac1e%26domain%3Dwww.fisherwallace.com%26origin%3Dhttp%253A%252F%252Fwww.fisherwallace.com%252Ffc180d3d6a11ae%26relation%3Dparent.parent&font=arial&href=http%3A%2F%2Fwww.fisherwallace.com%2F&layout=button_count&locale=en_US&sdk=joey&show_faces=false&width=50" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:21px;" allowTransparency="true"></iframe>
+
+<div class="fb-like" style="margin-bottom:20px;" data-href="http://www.fisherwallace.com/" data-width="200" data-layout="button_count" data-action="recommend" data-show-faces="false" data-share="false"></div>
+
+<a href="https://twitter.com/fisherwallace" class="twitter-follow-button" data-show-count="false">Follow @fisherwallace</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+
+<a href="http://www.youtube.com/user/FisherWallaceLabs" target="_blank" title="Fisher Wallace Labs on YouTube.com" class="youtube">Fisher Wallace Labs on YouTube.com</a>
+		    		    	
+			    		    
+			    		    
+			    		    
+			    		    
+			    		    
+			    		    
+			    		    
+			    		    
+			    		    
+			    		</div>
+			    	</div>
+	        	</aside>          
+	    		<!-- End social -->
+	    			
+    		</div>
+        </section>
+        
+        
+		<section>
+			<div class="certificates">
+				<img src="//cdn.shopify.com/s/files/1/0315/7737/t/2/assets/footerCertificate01.png?13456720602123130560" alt="fda cleared" />
+				<img src="//cdn.shopify.com/s/files/1/0354/8769/t/1/assets/footerCertificate02.png" alt="made in usa" />
+				<a href="/pages/our-devices-protects-the-environment"><img src="//cdn.shopify.com/s/files/1/0354/8769/t/1/assets/footerCertificate03.png" alt="green business" /></a>
+              	<img src="//cdn.shopify.com/s/files/1/0315/7737/t/2/assets/ce_iso_sm_gray.png?12931618368894332506" style="padding-bottom:5px;">
+			</div>
+			<div class="copyright">
+				<a href="/pages/terms-and-conditions" title="Terms and Conditions">Terms and Conditions</a>
+				<a href="/pages/privacy-policy" title="Privacy Policy">Privacy Policy</a>
+				<span>Copyright &copy; 2018 Fisher Wallace</span>
+			</div>
+		</section>
+
+    </footer>
+  </div>
+    
+  <!-- End footer -->
+  
+  
+  <div style="display:none">
+
+<!-- Start products -->
+
+<!-- End products -->
+
+<!-- start content page -->
+
+  
+  
+    
+    
+    
+    
+    <div id="page">
+    	
+    	<div class="pageMainContent" style="padding-top: 18px;">
+	        <h1 style="margin-top: 0;">Medical-Grade Technology</h1>
+<p><span>The Fisher Wallace Stimulator® is cleared by the FDA to treat depression, anxiety and insomnia. Used for 20 minutes, once or twice a day, the device works by stimulating the brain to produce serotonin and melatonin while lowering cortisol. The device is comfortable to use and reduces symptoms for the majority of patients within two-to-four weeks of daily use.</span></p>
+<!--<div id="beckChart"><img style="width: 100%;" src="https://cdn.shopify.com/s/files/1/0315/7737/t/2/assets/beck_rev_5_31_17.png?1825621232959175543" /></div>
+<p>In a 392-subject pilot study conducted at Phoenix House, opioid addiction patients who used the Fisher Wallace Stimulator® remained in rehab after 90 days at a rate 50% higher than those who did not use the device.</p>
+<div id="abuseChart"><img style="width: 100%;" src="https://cdn.shopify.com/s/files/1/0315/7737/t/2/assets/chart.jpg?7592927466784197936" /></div>--> <a name="logan"></a>
+<div class="video-container vimeoHeight"><iframe src="https://player.vimeo.com/video/227081306?title=0&amp;byline=0&amp;portrait=0" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe></div>
+<br><br>
+<div id="accordion" class="panel-group">
+<div class="panel panel-default">
+<div class="panel-heading">
+<h4 class="panel-title"><a href="#collapse1" data-toggle="collapse" data-parent="#accordion">Treating Depression &amp; Anxiety</a></h4>
+</div>
+<div id="collapse1" class="panel-collapse collapse">
+<div class="panel-body">
+<p>The Fisher Wallace Stimulator® treats depression and anxiety by stimulating the brain to produce serotonin and melatonin while reducing cortisol (the stress hormone) and calming the brain's Default Mode Network. The device is effective in treating the following symptoms of depression and anxiety:</p>
+<ul>
+<li><b>Decreased energy and fatigue</b></li>
+<li><b>Oversleeping or insomnia</b></li>
+<li><b>Persistent sadness</b></li>
+<li><b>Feelings of hopelessness</b></li>
+<li><b>Feelings of worthlessness and/or helplessness</b></li>
+<li><b>Loss of interest in activities and hobbies, including sex</b></li>
+<li><b>Restlessness and irritability</b></li>
+<li><b>Chronic and unsubstantiated worry</b></li>
+<li><b>Repeated, random panic attacks</b></li>
+</ul>
+<p>These symptoms are commonly associated with Major Depressive Disorder, Bipolar Disorder, Persistent Depressive Disorder, and Generalized Anxiety Disorder.</p>
+<p><a href="/pages/safety-and-efficacy-of-cranial-electrotherapy-stimulation">OUR NEW BIPOLAR DEPRESSION RESEARCH</a></p>
+<p style="font-size: 20px;">Easy to Use</p>
+<p>The device is extremely easy to use and the stimulation feels pleasant during the 20-minute treatment session, often causing the patient to feel immediately relaxed. Patients may read a book, watch TV, use the computer or engage in other quiet activities during the treatment session.</p>
+<!--<p style="font-size: 20px;">FDA-Cleared</p>
+<p>Similar to how pharmaceutical drugs must be FDA-Approved to enter the market, medical devices must be FDA-Cleared. The Fisher Wallace Stimulator® is FDA-Cleared for the treatment of depression, anxiety and insomnia. It also has a separate FDA clearance to treat pain on the body. The only patients who are not qualified to use the device are those with implanted medical devices, such as a pacemaker or vagus nerve stimulator. Watch the video in the How It Works section (below) to see how easy it is to use.</p>-->
+</div>
+</div>
+</div>
+<div class="panel panel-default">
+<div class="panel-heading">
+<h4 class="panel-title"><a href="#collapse2" data-toggle="collapse" data-parent="#accordion">Treating Insomnia</a></h4>
+</div>
+<div id="collapse2" class="panel-collapse collapse">
+<div class="panel-body">
+<p>The Fisher Wallace Stimulator® treats insomnia by stimulating the brain to produce serotonin and melatonin while reducing cortisol (the stress hormone) and calming the brain's Default Mode Network. The device is effective in treating the following types of insomnia:</p>
+<ul style="margin: 20px 0; padding: 0;">
+<li style="list-style: none; margin: 5px 0;">
+<b>Chronic Insomnia</b>: Difficulty falling asleep or staying asleep three or more nights per week.</li>
+<li style="list-style: none; margin: 5px 0;">
+<b>Onset Insomnia</b>: Difficulty falling asleep at the beginning of the night.</li>
+<li style="list-style: none; margin: 5px 0;">
+<b>Comorbid Insomnia</b>: Insomnia that occurs in conjunction with depression or anxiety.</li>
+<li style="list-style: none; margin: 5px 0;">
+<b>Maintenance Insomnia</b>: Difficulty staying asleep through the night (waking up often or waking up too early).</li>
+<li style="list-style: none; margin: 5px 0;">
+<b>Acute Insomnia</b>: Temporary difficulty falling asleep or staying asleep as the result of traveling or a life event.</li>
+</ul>
+<p style="font-size: 20px;">Easy to Use</p>
+<p>The device is extremely easy to use and the stimulation feels pleasant during the 20-minute treatment session, often causing the patient to feel immediately relaxed. To treat insomnia, patients use the device for 20 minutes before bedtime. If you do not suffer from insomnia and only use the device to treat depression or anxiety, the device will not make you drowsy.</p>
+<!--<p style="font-size: 20px;">FDA-Cleared</p>
+<p>Similar to how pharmaceutical drugs must be FDA-Approved to enter the market, medical devices must be FDA-Cleared. The Fisher Wallace Stimulator® is FDA-Cleared for the treatment of insomnia, anxiety and depression. It also has separate FDA clearance to treat pain on the body. The only patients who are not qualified to use the device are those with implanted medical devices, such as a pacemaker or vagus nerve stimulator. Watch the video in the How It Works section (below) to see how easy it is to use.</p>-->
+</div>
+</div>
+</div>
+</div>
+<style><!--
+.panel-group .panel .panel-heading a:after, .panel-group .panel .panel-heading.link a[data-toggle="collapse"]:after {background: none;}
+--></style>
+<div id="link">
+<div id="accordion" class="panel-group">
+<div class="panel panel-default">
+<div class="panel-heading link">
+<h4 class="panel-title"><a style="background: #00a3dd !important; color: #fff !important;" href="https://www.fisherwallace.com/pages/published-research">Our Published Research</a></h4>
+</div>
+</div>
+</div>
+</div>
+      	</div>
+      
+      	<div class="pageMainContent patient">
+            <a name="testimonials"></a> <a href="/pages/patient-doctor-testimonials" style="text-decoration: none;">
+<h2>Doctor &amp; Patient Testimonials</h2>
+<!--<a name="logan"></a>
+<h3>A Real Patient and Doctor Discuss the Fisher Wallace Stimulator®</h3>
+<div class="video-container vimeoHeight"><iframe src="https://player.vimeo.com/video/201230221?title=0&amp;byline=0&amp;portrait=0" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe></div>
+<div style="clear: both;"></div>-->
+<div class="carousel first">
+<p><span style="color: #666666;">Does it work? Columbia University psychiatrist Richard P. Brown says he has used the device with 400 severely depressed patients and that more than 70% find relief -- about twice the rate of anti-depressants.</span></p>
+<div class="homepageQuote"></div>
+<h3>– The Wall Street Journal</h3>
+</div>
+</a>
+        <!-- extra quote on home page only-->  	
+		<div class="carousel" style="border-bottom:none;">
+		<p><span style="color: #666666;">I have had great success using the device to treat severe, chronic insomnia in patients who are resistant to pharmacotherapy. Also, patients who seek a drug-free alternative to treat insomnia have used the Fisher Wallace Stimulator to reduce or eliminate their dependence on prescription drugs.</span></p>
+		<div class="homepageQuote"></div>
+		<h3 class="noMargin">– Andres San Martin, M.D.</h3>
+		<p><span style="color: #666666;">Professor of Psychiatry, Columbia University Medical Center</span></p>
+		</div>
+ 		<!-- end extra quote on home page only-->  	
+		
+            <a class="readMore" href="/pages/patient-doctor-testimonials" title="Read More Patien & Doctor Testimonials">Read More</a>
+        </div>
+      
+      	<div class="pageMainContent">
+	        <h2><a name="how-it-works"></a>How It Works</h2><!--here-->
+	        <div style="display: none;">
+<div id="myDiv" style="text-align: left; width: 300px; overflow: hidden; line-height: 1.5em;">
+<b>The following licensed healthcare practitioners are qualified to authorize the purchase of a Fisher Wallace Stimulator®</b>:<br><br>
+<ul>
+<li>Primary Doctor</li>
+<li>Psychologist</li>
+<li>Psychiatrist</li>
+<li>OBGYN</li>
+<li>Chiropractor</li>
+<li>Acupuncturist</li>
+<li>Nurse</li>
+<li>Physician’s Assistant</li>
+<li>Or access online authorization at: <a href="https://www.purchase-authorization.com/" onclick="trackOutboundLink('https://www.purchase-authorization.com'); return false;">purchase-authorization.com</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="video-container vimeoHeight" style="margin: 25px 0;">
+<iframe src="https://player.vimeo.com/video/201707887?title=0&amp;byline=0&amp;portrait=0" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+<div style="clear: both; height: 15px;"></div>
+</div>
+<p style="font-size: 20px;">Treat Symptoms with Medical-Grade Technology</p>
+<p><span>Designed collaboratively by world-class engineers and doctors, the Fisher Wallace Stimulator® uses proprietary waveforms to gently stimulate the brain to produce serotonin and other neurochemicals responsible for healthy mood and sleep. Proven safe and effective in multiple published studies, the device is cleared by the FDA to treat depression, anxiety and insomnia.</span></p>
+<p>Watch the video to learn how easy it is to use.</p>
+<div id="accordion" class="panel-group">
+<div class="panel panel-default">
+<div class="panel-heading">
+<h4 class="panel-title"><a href="#collapse_hiw" data-toggle="collapse" data-parent="#accordion" style="color: #000;">How to Purchase a Device</a></h4>
+</div>
+<div id="collapse_hiw" class="panel-collapse collapse">
+<div class="panel-body">
+<h1 style="margin-bottom: 5px;">Start Your 30-Day Trial</h1>
+<div style="margin-bottom: 15px;"><a href="#guarantee" class="fancybox">30-Day Return &amp; Refund Policy</a></div>
+<div style="display: none;">
+<div id="guarantee" style="text-align: left; width: 300px; overflow: hidden; line-height: 1.5em;">Customers who purchase the Fisher Wallace Stimulator® for $599 or $699 may return it for a refund within 30 days of receipt. Fisher Wallace applies a 10% restocking fee (an industry standard for durable medical equipment) and does not refund the cost of shipping. Refunds are mailed by check five weeks after receipt of a fully functioning device.</div>
+</div>
+<div id="bnn" class="bnnSide">
+<div class="bnn-box num">
+<a href="https://www.purchase-authorization.com/" onclick="trackOutboundLink('https://www.purchase-authorization.com'); return false;">
+<div class="vstep" style="margin: -45px auto 0;"><span class="vdigit" id="a1">Step<br>1</span></div>
+</a> <strong><span class="bigger">Find Out if You Qualify <br class="bnn">to Use the Device</span></strong>
+<p>Answer a few simple questions on <a href="https://www.purchase-authorization.com/" onclick="trackOutboundLink('https://www.purchase-authorization.com'); return false;">purchase-authorization.com</a>.</p>
+<p>This process takes less than 60 seconds.</p>
+</div>
+<div class="bnn-box num">
+<a href="https://www.purchase-authorization.com/" onclick="trackOutboundLink('https://www.purchase-authorization.com'); return false;">
+<div class="vstep" style="margin: -45px auto 0;"><span class="vdigit" id="a1">Step<br>2</span></div>
+</a> <strong><span class="bigger">Obtain Purchase Authorization</span></strong>
+<p>Go to <a href="https://www.purchase-authorization.com/" onclick="trackOutboundLink('https://www.purchase-authorization.com'); return false;">purchase-authorization.com</a> to obtain same-day authorization, or have your provider fax or email a prescription or completed <a href="https://cdn.shopify.com/s/files/1/0315/7737/files/FM_2033B_Authorization_Form_with_Info_sheet.pdf?4053790149456756694" target="_blank" rel="noopener noreferrer">authorization form</a> to Fisher Wallace. <span class="s1">The FDA requires authorization for US patients.</span></p>
+</div>
+<div class="bnn-box num">
+<div class="vstep" style="margin: -45px auto 0;"><span class="vdigit" id="a1">Step<br>3</span></div>
+<strong><span class="bigger">Buy a Device and <br class="bnn">Try It for 30 Days</span></strong>
+<p class="p1"><span class="s1">You may return your device for a refund within 30 days of receipt (<a href="#guarantee" class="fancybox" style="text-decoration: none;">Details</a>).</span></p>
+<p>Finance Your Purchase with PayPal Credit</p>
+</div>
+</div>
+<!--<div style="text-align: center;">
+<h3 style="margin: 10px 0 10px 0; font-size: 20px;">Finance Your Purchase with <img src="https://cdn.shopify.com/s/files/1/0315/7737/t/2/assets/paypal_sm.png?372390887946551815" style="margin-bottom: -4px;" alt="paypal" /> or <img src="https://checkout-sandbox.getbread.com/assets/bread-logo.svg" style="width: 60px; margin-bottom: -3px;" alt="bread" />.</h3>
+<p style="margin-bottom: 0;">If you prefer PayPal, <a href="#myDiv2" class="fancybox" style="text-decoration: none;">checkout with PayPal</a> and <a href="#myDiv3" class="fancybox" style="text-decoration: none;">choose PayPal Credit</a> for no payments due for six months. Or <a href="#myDiv1" class="fancybox" style="text-decoration: none;">checkout with Bread</a> to finance your purchase for up to 24 months. Applying for Bread will not affect your credit score.</p>
+<br />
+<div id="myDiv1" style="display: none;">Look for Bread during checkout<br />
+<div style="width: 100%; max-width: 300px; margin: 10px auto;"><img src="https://cdn.shopify.com/s/files/1/0315/7737/t/2/assets/bread_checkout.png?15246874790788898560" style="width: 100%;" alt="bread" /></div>
+</div>
+</div>
+<div id="myDiv2" style="display: none;">Look for PayPal during checkout<br />
+<div style="width: 100%; max-width: 300px; margin: 10px auto;"><img src="https://cdn.shopify.com/s/files/1/0315/7737/t/2/assets/paypal_checkout.png?6650068364640560829" style="width: 100%;" alt="paypal" /></div>
+</div>
+<div id="myDiv3" style="display: none;">Look for this PayPal Credit link during checkout at PayPal...<br />
+<div style="width: 100%; max-width: 410px; margin: 10px auto;"><img src="https://cdn.shopify.com/s/files/1/0315/7737/t/2/assets/ppc_link.png?473439932338852846" style="width: 100%;" alt="paypal" /></div>
+</div>--> <!--<div class="bnn-media desktop">
+<div style="display: inline-block;"><img src="https://cdn.shopify.com/s/files/1/0315/7737/t/2/assets/media1.png?11962944523991614874" alt="media logos" /></div>
+<div style="display: inline-block;"><img src="https://cdn.shopify.com/s/files/1/0315/7737/t/2/assets/media2.png?18185452106640914258" alt="media logos" /></div>
+<div style="display: inline-block;"><img src="https://cdn.shopify.com/s/files/1/0315/7737/t/2/assets/media3.png?13636861873745472048%0D%0A" alt="media logos" /></div>
+</div>
+<div class="bnn-media mobile">
+<div style="width: 308px; margin: 10px auto;"><img src="https://cdn.shopify.com/s/files/1/0315/7737/t/2/assets/media_mobile.png?17958648156207222371" alt="media logos" /></div>
+</div>-->
+</div>
+</div>
+</div>
+</div>
+        </div>
+     
+      	<div class="pageMainContent">
+	        <a name="mab"></a> <a href="/pages/about-us" style="text-decoration: none;">
+<h2>Medical Advisory Board</h2>
+</a>
+<div class="arrowList">
+<div><a href="/pages/about-us"> <span> <img src="//cdn.shopify.com/s/files/1/0315/7737/t/2/assets/rosenthal.jpg?8483851834541221104" style="width: 67px; height: 81px;" alt="rosenthal"> <span class="name">Mitchell Rosenthal<br>M.D.</span> </span> </a></div>
+<div><a href="/pages/about-us"> <span> <img src="https://cdn.shopify.com/s/files/1/0354/8769/files/board-stephen-xenakis.jpg?2363" alt="xenakis"> <span class="name">Stephen N. Xenakis<br>M.D.</span> </span> </a></div>
+<div><a href="/pages/about-us"> <span> <img src="https://cdn.shopify.com/s/files/1/0315/7737/files/board-lauri-liskin.jpg?2682" alt="liskin"> <span class="name">Lauri Liskin<br>M.D.</span> </span> </a></div>
+<div><a href="/pages/about-us"> <span> <img style="width: 67px; height: 81px;" src="https://cdn.shopify.com/s/files/1/0315/7737/t/2/assets/trujillo.jpg?14418540657324546249" alt="trujello"> <span class="name">J Roberto Trujillo<br>M.D., Sc.D.</span> </span> </a></div>
+<div><a href="/pages/about-us"> <span> <img src="https://cdn.shopify.com/s/files/1/0354/8769/files/board-ronald-podell.jpg?2360" alt="podell"> <span class="name">Ronald Podell<br>M.D.</span> </span> </a></div>
+<div><a href="/pages/about-us"> <span> <img src="https://cdn.shopify.com/s/files/1/0354/8769/files/board-robert-cancro.jpg?2359" alt="cancro"> <span class="name">Robert Cancro<br>M.D.</span> </span> </a></div>
+<div><a href="/pages/about-us"> <span> <img src="https://cdn.shopify.com/s/files/1/0354/8769/files/board-sandlin-lowe.jpg?2366" alt="lowe"> <span class="name">Sandlin Lowe<br>M.D.</span> </span> </a></div>
+<div><a href="/pages/about-us"> <span> <img src="https://cdn.shopify.com/s/files/1/0315/7737/t/2/assets/board-bruce-johnson.jpg?3288768608452655763" alt="johnson"> <span class="name">Bruce Johnson<br>M.D.</span> </span> </a></div>
+</div>
+<a title="Show All Members" href="/pages/about-us" class="readMore">Show All Members</a>
+        </div>
+      
+      	<div class="pageMainContent">
+	        <h2>Treatment Comparison</h2>
+	        <p>Compare the Fisher Wallace Stimulator® to Drug Therapy, TMS, ECT and tDCS for the treatment of depression, anxiety, insomnia and chronic pain.</p>
+<p>﻿</p>
+<table class="analTable" width="100%">
+<tbody>
+<tr>
+<td></td>
+<td><span style="color: #000000;"><strong><em>TMS</em></strong></span></td>
+<td><span style="color: #000000;"><strong><em>Drug Therapy</em></strong></span></td>
+<td><span style="color: #000000;"><strong><em>ECT</em></strong></span></td>
+<td><span style="color: #000000;"><strong><em>tDCS</em></strong></span></td>
+<td><span style="color: #000000;"><strong><em>Fisher Wallace Stimulator®</em></strong></span></td>
+</tr>
+<tr>
+<td><span style="color: #000000;">Indicated for Depression</span></td>
+<td><img src="//cdn.shopify.com/s/files/1/0354/8769/files/headerCheckRed.png?3752"></td>
+<td><img src="//cdn.shopify.com/s/files/1/0354/8769/files/headerCheckRed.png?3752"></td>
+<td><img src="//cdn.shopify.com/s/files/1/0354/8769/files/headerCheckRed.png?3752"></td>
+<td><span style="color: #666666;"><em>No</em></span></td>
+<td><img src="//cdn.shopify.com/s/files/1/0354/8769/files/headerCheckRed.png?3752"></td>
+</tr>
+<tr>
+<td>
+<div><meta charset="utf-8"></div>
+<span style="color: #000000;"><span>Indicat</span><span>ed</span> for Insomnia</span>
+</td>
+<td><em>No</em></td>
+<td><img src="//cdn.shopify.com/s/files/1/0354/8769/files/headerCheckRed.png?3752"></td>
+<td><span style="color: #666666;"><em>No</em></span></td>
+<td><span style="color: #666666;"><em>No</em></span></td>
+<td><img src="//cdn.shopify.com/s/files/1/0354/8769/files/headerCheckRed.png?3752"></td>
+</tr>
+<tr>
+<td>
+<div><meta charset="utf-8"></div>
+<span style="color: #000000;"><span>Indicat</span><span>ed</span> for Anxiety</span>
+</td>
+<td><em>No</em></td>
+<td><img src="//cdn.shopify.com/s/files/1/0354/8769/files/headerCheckRed.png?3752"></td>
+<td><span style="color: #666666;"><em>No</em></span></td>
+<td><span style="color: #666666;"><em>No</em></span></td>
+<td><img src="//cdn.shopify.com/s/files/1/0354/8769/files/headerCheckRed.png?3752"></td>
+</tr>
+<tr>
+<td>
+<div><meta charset="utf-8"></div>
+<span style="color: #000000;"><span>Indicat</span><span>ed</span> for Pain</span>
+</td>
+<td><em>No</em></td>
+<td><img src="//cdn.shopify.com/s/files/1/0354/8769/files/headerCheckRed.png?3752"></td>
+<td><span style="color: #666666;"><em>No</em></span></td>
+<td><span style="color: #666666;"><em>No</em></span></td>
+<td><img src="//cdn.shopify.com/s/files/1/0354/8769/files/headerCheckRed.png?3752"></td>
+</tr>
+<tr>
+<td><span style="color: #000000;">Free of Serious Side Effects</span></td>
+<td><span style="color: #666666;"><em><img src="//cdn.shopify.com/s/files/1/0354/8769/files/headerCheckRed.png?3752"></em></span></td>
+<td><span style="color: #666666;"><em>No</em></span></td>
+<td><span style="color: #666666;"><em>No</em></span></td>
+<td><img src="//cdn.shopify.com/s/files/1/0354/8769/files/headerCheckRed.png?3752"></td>
+<td><img src="//cdn.shopify.com/s/files/1/0354/8769/files/headerCheckRed.png?3752"></td>
+</tr>
+<tr>
+<td><span style="color: #000000;">Use at Home</span></td>
+<td><span style="color: #666666;"><em>No</em></span></td>
+<td><em><img src="//cdn.shopify.com/s/files/1/0354/8769/files/headerCheckRed.png?3752"></em></td>
+<td><span style="color: #666666;"><em>No</em></span></td>
+<td><span style="color: #666666;"><em>No</em></span></td>
+<td><em><img src="//cdn.shopify.com/s/files/1/0354/8769/files/headerCheckRed.png?3752"></em></td>
+</tr>
+<tr>
+<td><span style="color: #000000;">30-Day Return / Refund Policy</span></td>
+<td><span style="color: #666666;"><em>No</em></span></td>
+<td><span style="color: #666666;"><em>No</em></span></td>
+<td><span style="color: #666666;"><em>No</em></span></td>
+<td><span style="color: #666666;"><em>No</em></span></td>
+<td><img src="//cdn.shopify.com/s/files/1/0354/8769/files/headerCheckRed.png?3752"></td>
+</tr>
+</tbody>
+</table>
+        </div>
+      
+      	<div class="pageMainContent"><a name="rpir"></a>
+	        <h2>Return Policy &amp; Insurance Reimbursement</h2>
+	        <p>Customers who purchase the Fisher Wallace Stimulator® for $699 may return it for a refund within 30 days of receipt. Fisher Wallace applies a 10% restocking fee (an industry standard for durable medical equipment) and does not refund the cost of shipping. Refunds are mailed by check five weeks after receipt of a fully functioning device.</p>
+<p><a href="/pages/customer-service#refunds">Click here</a> to return your device for a refund.</p>
+<h3>Insurance Reimbursement Process</h3>
+<p>The Fisher Wallace Stimulator® has been approved by Medicaid in Maine (MaineCare); if you reside in Maine and receive Medicaid benefits, <a href="https://mainecare.info/collections/all">click here</a> for more information. Many private insurance companies, such as Aetna, United Healthcare and Blue Cross, reimburse patients for the purchase of the Fisher Wallace Stimulator® when the device is used for the treatment of chronic or acute pain. Fisher Wallace does not process reimbursement claims on behalf of patients and recommends that patients contact their insurance provider to confirm coverage details. A letter of medical necessity may be required to obtain coverage. You may <a href="https://cdn.shopify.com/s/files/1/0315/7737/files/InsuranceReimbursementLetter.doc?6194122025717774044">download a template of this letter</a>. For more information on the reimbursement process, please <a href="https://www.fisherwallace.com/pages/customer-service#insurance">click here.</a></p>
+        </div>
+        
+        <div class="pageMainContent media">
+            <a href="/pages/recent-media-coverage" style="text-decoration: none;">
+<h2>Recent Media Coverage</h2>
+</a>
+<table width="100%">
+<tbody>
+<tr>
+<td style="text-align: left;"><a href="/pages/recent-media-coverage"><img src="//cdn.shopify.com/s/files/1/0354/8769/files/CBS_logo.png?9349" alt="cbs news"></a></td>
+<td><a href="/pages/recent-media-coverage"><img src="//cdn.shopify.com/s/files/1/0354/8769/files/media02.jpg?2285" alt="fox news"></a></td>
+<td style="text-align: left;"><a href="/pages/recent-media-coverage"><img src="https://cdn.shopify.com/s/files/1/0315/7737/t/2/assets/wsj.png?767" alt="wall street journal"></a></td>
+</tr>
+<tr>
+<td><a href="/pages/recent-media-coverage"><img src="//cdn.shopify.com/s/files/1/0354/8769/files/media04.jpg?2287" alt="boston globe"></a></td>
+<td><a href="/pages/recent-media-coverage"><img src="https://cdn.shopify.com/s/files/1/0315/7737/files/recent-madia-elle.png?10474761301436373351" alt="elle"></a></td>
+<td><a href="/pages/recent-media-coverage"><img src="https://cdn.shopify.com/s/files/1/0315/7737/t/2/assets/ForbesLogo_grid.png?10564165308055376713" alt="forbes"></a></td>
+</tr>
+<tr>
+<td><a href="/pages/recent-media-coverage"><img src="//cdn.shopify.com/s/files/1/0354/8769/files/media07.jpg?2290" alt="the atlantic"></a></td>
+<td><a href="/pages/recent-media-coverage"><img src="https://cdn.shopify.com/s/files/1/0315/7737/t/2/assets/vice.png?17559037276627503336" alt="vice"></a></td>
+<td style="text-align: center;"><a href="/pages/recent-media-coverage"><img src="https://cdn.shopify.com/s/files/1/0315/7737/t/2/assets/logo_mobi.png?1179929240322549967" alt="mobihealth"></a></td>
+</tr>
+</tbody>
+</table>
+        </div>
+		        
+    </div>
+    
+    <section id="aside" style="margin-bottom:40px;">
+	
+  	<!--<aside class="item purchase auth" style="margin-bottom: 20px;text-align: center;"> 
+      <a style="background:none;padding:0;" href="https://www.fisherwallace.com/pages/fda"><img style="max-width:220px;" src="https://cdn.shopify.com/s/files/1/0315/7737/t/2/assets/fda_cleared.png?1653803937511327335"></a>
+	</aside>-->
+  
+  	<aside class="item voted" style="display:none;position: absolute; left: 0px; top: 71px;width:190px;">
+       
+	<div class="cover">
+		<div class="coverIn">
+          <form method="get" action="/search">
+      <input placeholder="search our site" type="text" name="q" style="padding: 9px 13px;box-shadow: 0 0 15px 5px rgba(0, 1, 1, 0.1);">
+      <input type="submit" value="Search">
+	  </form></div>
+	</div>
+	</aside>
+  
+  <aside class="item purchase auth"> 
+	<div class="cover">
+		<div class="coverIn">
+			<h3>Do You Qualify to Use the Device?</h3>
+			<div class="asideButtons">
+				<a href="/pages/do-you-qualify-to-use-the-device" style="background:#00A3DD;">Learn in 60 Seconds</a> 
+			</div>
+		</div>
+	</div>
+	</aside>
+  
+  <aside class="item fsa"> 
+	<div class="cover">
+		<div class="coverIn" style="text-align:center">
+          <a href="#fsa" class="fancybox" style="text-decoration:none; margin: 0; background: none;"><img src="https://cdn.shopify.com/s/files/1/0315/7737/files/fsa.jpg?16519564014152722232" style="margin-top:10px" alt="fsa Flexible Spending Account eligible"></a>
+              <div style="display: none;">
+    <div id="fsa" style="text-align: left; width: 300px; overflow: hidden; line-height: 1.5em;">A Flexible Spending Account, or FSA, lets employees set aside pre-tax money from their paychecks to spend on out-of-pocket healthcare expenses. Money that goes into an FSA is pre-tax, so employees can save as much as 40% of each dollar they put into their FSA, as long as they spend the money on qualified health costs.</div>
+    </div>
+		</div>
+	</div>
+	</aside>
+  
+  	<aside class="item tipsheets"> 
+	<div class="cover">
+		<div class="coverIn">
+			<div class="asideButtons" >
+				<span style="font-size:20px">Free Tip Sheet for Improving Mood and Sleep</span>
+			</div>
+			<div style="width:109px;height:109px;float:right;margin-right:20px;">
+			<img src="https://cdn.shopify.com/s/files/1/0315/7737/t/2/assets/tips_fw.png?10304127093934103383" style="margin-top:0" alt="tips">
+			</div>
+			<div style="margin:0 20px">
+			<form id="form1" name="form1" class="wufoo topLabel page" accept-charset="UTF-8" autocomplete="off" enctype="multipart/form-data" method="post" novalidate="" action="https://brinster.wufoo.com/forms/zbtet7v0r2zhvu/#public">
+			<input id="Field1" name="Field1" type="email" spellcheck="false" class="field text medium" value="" tabindex="1" required="" style="width: 100%;padding:0;margin-bottom:5px;" placeholder=" Enter your email address" />
+			<input id="saveForm" name="saveForm" style="-webkit-appearance: button; opacity: 1;background:#00A3DD;color:#fff;margin-bottom:20px;" type="submit" value="Get the Guide" />
+			<input type="hidden" id="idstamp" name="idstamp" value="0FjlGAV6jy4zDo1o/ryfVzVteKjWpwdik5+8jWVZKLk=" />
+			</form>
+			</div>
+		</div>
+	</div>
+	</aside>
+	
+	<aside class="item pain"> 
+	<div class="cover">
+		<div class="coverIn">
+			<h3>
+				Treat Chronic Pain
+			</h3>
+			<div class="asideButtons">
+				<a href="/pages/advanced-pain-relief" title="Advanced Pain Relief">Learn More</a> 
+			</div>
+		</div>
+	</div>
+	</aside>
+  
+  	<aside class="item"> 
+	<div class="cover">
+		<div class="coverIn">
+			<h3>
+				Pro Store for Medical Professionals
+			</h3>
+			<div class="asideButtons">
+				<a href="/pages/doctors-resellers" title="Doctors & Resellers">Register Now</a> 
+			</div>
+		</div>
+	</div>
+	</aside>
+	
+	<aside class="item voted"> 
+	<div class="cover">
+		<div class="coverIn">
+			<h3>
+				Voted by You
+			</h3>
+			<div class="asideButtons">
+					<iframe src="https://www.facebook.com/plugins/like.php?action=recommend&app_id=&channel=https%3A%2F%2Fstatic.ak.facebook.com%2Fconnect%2Fxd_arbiter%2FLEdxGgtB9cN.js%3Fversion%3D40%23cb%3Df3b0d89474eac1e%26domain%3Dwww.fisherwallace.com%26origin%3Dhttp%253A%252F%252Fwww.fisherwallace.com%252Ffc180d3d6a11ae%26relation%3Dparent.parent&font=arial&href=http%3A%2F%2Fwww.fisherwallace.com%2F&layout=button_count&locale=en_US&sdk=joey&show_faces=false&width=50" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:21px;" allowTransparency="true"></iframe>
+              <div class="fb-like" data-href="https://www.fisherwallace.com/" data-width="200" data-layout="button_count" data-action="recommend" data-show-faces="false" data-share="false"></div>
+			</div>
+		</div>
+	</div>
+	</aside>
+
+	<!--<aside class="item dcp">
+		<div class="cover"><div class="coverIn">
+			<h3>Device Consideration Process</h3>
+			<p> </p>
+<div style="text-align:center;margin: 0 0 0 15px;padding: 0 0 20px 0">
+<div id="1" class="vstep"><a href="/pages/discover" class="vert"><span class="vdigit" id="a1">1</span><span class="vlegend" style="">Discover</span></a></div>
+<div class="vline"><span class="vline-arrow vsquare right"></span></div>
+<div id="2" class="vstep"><a href="/pages/trust" class="vert"><span class="vdigit" id="a2">2</span><span class="vlegend" style="">Trust</span></a></div>
+<div class="vline"><span class="vline-arrow vsquare right"></span></div>
+<div id="3" class="vstep"><a href="/pages/buy-or-rent" class="vert"><span class="vdigit" id="a3">3</span><span class="vlegend" style="">Buy</span></a></div>
+<div class="vline"><span class="vline-arrow vsquare right"></span></div>
+<div id="4" class="vstep"><a href="/pages/treat" class="vert"><span class="vdigit" id="a4">4</span><span class="vlegend" style="">Treat</span></a></div>
+  </div>
+		</div></div>
+	</aside>-->
+  
+	<!--<aside class="item"> 
+	<div class="cover">
+		<div class="coverIn">
+			<h3>
+				Our Blog
+			</h3>
+			<div class="asideButtons">
+				<a href="https://www.fisherwallace.com/blogs/mental-health-topics" title="About Fisher Wallace">Mental Health Topics</a>
+			</div>
+		</div>
+	</div>
+	</aside>-->
+	
+	<aside class="item"> 
+	<div class="cover">
+		<div class="coverIn">
+			<h3>
+				About Us
+			</h3>
+			<div class="asideButtons">
+				<a href="/pages/about-us" title="About Fisher Wallace">Who We Are</a>
+			</div>
+		</div>
+	</div>
+	</aside>
+	
+	<aside class="item voted">
+		<div class="cover"><div class="coverIn" style="text-align:center;">
+			<a style="background:#fff" target="_blank" title="Fisher Wallace Laboratories, LLC BBB Business Review" href="https://www.bbb.org/new-york-city/business-reviews/medical-equipment-and-supplies/fisher-wallace-laboratories-llc-in-new-york-ny-112781/#bbbonlineclick"><img alt="Fisher Wallace Laboratories, LLC BBB Business Review" style="border: 0;margin-top:5px;" src="https://seal-newyork.bbb.org/seals/blue-seal-200-42-fisher-wallace-laboratories-llc-112781.png" /></a>
+		</div></div>
+	</aside>
+
+</section>
+
+<script>
+$(document).ready(function() {
+	setTimeout(function(){
+		$( "#1, #a1" ).addClass( "vstepCycle" ).delay(1000).queue(function(){
+    		$(this).removeClass("vstepCycle").dequeue();
+    		});
+   }, 2000);
+   setTimeout(function(){
+		$( "#2, #a2" ).addClass( "vstepCycle" ).delay(1000).queue(function(){
+    		$(this).removeClass("vstepCycle").dequeue();
+    		});
+   }, 3000);
+   setTimeout(function(){
+		$( "#3, #a3" ).addClass( "vstepCycle" ).delay(1000).queue(function(){
+    		$(this).removeClass("vstepCycle").dequeue();
+    		});
+   }, 4000);
+   setTimeout(function(){
+		$( "#4, #a4" ).addClass( "vstepCycle" ).delay(1000).queue(function(){
+    		$(this).removeClass("vstepCycle").dequeue();
+    		});
+   }, 5000);
+});
+</script>
+    
+
+<!-- end content page -->
+</div>
+  
+  <script src="//cdn.shopify.com/s/files/1/0315/7737/t/2/assets/jquery.flexslider-min.js?12931618368894332506" type="text/javascript"></script>
+
+  
+  <script src="//cdn.shopify.com/s/files/1/0315/7737/t/2/assets/jquery.tweet.js?12931618368894332506" type="text/javascript"></script>
+  <script src="//cdn.shopify.com/s/files/1/0315/7737/t/2/assets/jquery.fancybox.js?12931618368894332506" type="text/javascript"></script>
+  <script src="//cdn.shopify.com/s/files/1/0315/7737/t/2/assets/jquery.fancybox-media.js?12931618368894332506" type="text/javascript"></script>
+  <script src="//cdn.shopify.com/s/files/1/0315/7737/t/2/assets/scripts.js?12931618368894332506" type="text/javascript"></script>
+  
+  
+<script>
+	$(function(){
+		$('#slicknavmenu').slicknav({
+		prependTo:'#header'
+	});
+      });
+</script>
+
+	<!-- bing uet code -->
+	
+	<script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"4077616"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script><noscript><img src="//bat.bing.com/action/0?ti=4077616&Ver=2" height="0" width="0" style="display:none; visibility: hidden;" /></noscript>
+  
+<script>
+jQuery('a[href^="http"]').not('a[href^="https://www.fisherwallace.com"]').attr('target', '_blank');
+</script>
+<!-- ReTargeter -->
+<script type="text/javascript">
+(function(c, d, e, g, a) {g = c.createElement(d); g.type = "text/java" + d; g.async = !0; g.src = e; a = c.getElementsByTagName(d)[0]; a.parentNode.insertBefore(g, a) }(document, "script", "//tag.retargeter.com/rt/3992/rt.min.js?t="+Math.floor(Date.now() / 86400000)));
+</script>
+<!-- End of ReTargeter Tag -->
+
+<script>
+$( document ).ready(function() {
+
+$(function() {
+  $("video.bgvid source").each(function() {
+    var sourceFile = $(this).attr("data-src");
+    $(this).attr("src", sourceFile);
+    var video = this.parentElement;
+    video.load();var playPromise = video.play();
+
+  if (playPromise !== undefined) {
+    playPromise.then(_ => {
+    })
+    .catch(error => {
+    });
+  }
+  });
+});
+
+  
+$(window).load(function() {
+  
+  $(function() {
+  $("video.fox source").each(function() {
+    var sourceFile = $(this).attr("data-src");
+    $(this).attr("src", sourceFile);
+    var video1 = this.parentElement;
+    video1.load();
+  });
+});
+
+  
+//facebook
+  
+ window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '303827543092845',
+      cookie     : true,
+      xfbml      : true,
+      version    : 'v2.4'
+    });
+      
+    FB.AppEvents.logPageView();   
+      
+  };
+  
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4&appId=303827543092845";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+
+// retargeter
+(function(c, d, e, g, a) {g = c.createElement(d); g.type = "text/java" + d; g.async = !0; g.src = e; a = c.getElementsByTagName(d)[0]; a.parentNode.insertBefore(g, a) }(document, "script", "//tag.retargeter.com/rt/3992/rt.min.js?t="+Math.floor(Date.now() / 86400000)));
+  
+
+  
+  $('#authform').show();
+
+}); //end windowload
+
+}); //end documentready
+</script>
+<script src="https://cdn.jsdelivr.net/jquery.slick/1.5.0/slick.min.js"></script>
+<script type="text/javascript">
+$( document ).ready(function() {
+  $('.testimonials').slick({
+  centerMode: true,
+  centerPadding: '60px',
+  slidesToShow: 3,
+  arrows:false,
+  dots: true,
+  
+  responsive: [
+    {
+      breakpoint: 768,
+      settings: {
+        arrows: false,
+        centerMode: true,
+        centerPadding: '40px',
+        slidesToShow: 1,
+      }
+    },
+    {
+      breakpoint: 480,
+      settings: {
+        arrows: false,
+        centerMode: true,
+        centerPadding: '40px',
+        slidesToShow: 1
+      }
+    }
+  ]
+});
+});
+</script>
+<script>
+$("#submit").click(function(event){
+var pacemaker=$("input[name='pacemaker']:checked").val();
+var head=$("input[name='implanted']:checked").val();
+var age=$("input[name='over_21']:checked").val();
+if(pacemaker=="Yes"||head=="Yes"){
+alert("Unfortunately you do not qualify to purchase a Fisher Wallace Stimulator as a result of having an implanted medical device.  If you have any questions, please contact Fisher Wallace Laboratories at (800) 692 - 4380.");event.preventDefault();}
+if(age=="No"){alert("You must be at least 21 years of age qualify to purchase a Fisher Wallace Stimulator. If you have any questions, please contact Fisher Wallace Laboratories at (800) 692 - 4380.");event.preventDefault();}});
+</script>
+</body>
+</html>

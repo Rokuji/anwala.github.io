@@ -1,0 +1,45 @@
+http://taylor.lk/IDWLFVevo
+
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8"/>
+	<meta http-equiv="refresh" content="2; url=http://vevo.ly/dDePBp"/>
+	<meta property="og:url" content="http://www.vevo.com/watch/USQ4E1702691?isrc=USQ4E1702691&amp;share_location=ingestion"/>
+	<meta name="twitter:card" content="summary"/>
+	<meta name="twitter:url" content="http://www.vevo.com/watch/USQ4E1702691?isrc=USQ4E1702691&amp;share_location=ingestion"/>
+	<meta name="robots" content="noindex, follow">
+	<title>taylor.lk/idwlfvevo</title>
+	<style type="text/css">
+		body,html{width:100%;height:100%;margin:0 auto;padding:0;min-height:100%;min-width:100%;}.frame{top:0;position:absolute;padding:0;margin:0 auto;border:0;width:100%;height:100%;min-height:100%;min-width:100%}
+	</style>
+	<script>
+	(function(w, d, c, t, p, a){w[c] = w[c] || function(){ (w[c].q = w[c].q || [])[p](arguments) };var n = d.createElement(t), s = d.getElementsByTagName(t)[0];n.async = true; n.src = '//lib.vmweb.net/identity.min.js';s.parentNode.insertBefore(n, s);})(window, document, 'IDENTITY', 'script', 'push');
+	IDENTITY('init', "1beff6c5-ca62-45f3-43f3-bff64f6b5447", "taylor swift taylor.lk");
+	var share = {
+		
+		
+		share_id: "11778",
+		segment_id: "101",
+		short_url: "taylor.lk\/idwlfvevo",
+		destination_url: "http:\/\/vevo.ly\/dDePBp",
+		referrer_url: document.referrer
+	}
+	
+	node = {
+      id: share.share_id,
+      type: 'shortlink',
+      label: share.short_url,
+      attributes: share
+    }
+	IDENTITY("track", "click", node, function() {
+		setTimeout(function(){window.top.location.replace("http://vevo.ly/dDePBp")},100)
+	});
+	</script>
+</head>
+<body>
+	
+		<iframe class="frame" sandbox="allow-same-origin allow-scripts allow-popups allow-forms" src="http://vevo.ly/dDePBp"></iframe>
+	
+</body>
+</html>
