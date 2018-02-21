@@ -1,0 +1,928 @@
+http://www.aljazeera.com/programmes/the-crusades-an-arab-perspective/
+﻿
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0 maximum-scale=1.0, minimal-ui" />
+
+
+
+
+
+    
+
+
+<!-- header tags -->
+<title>The Crusades: An Arab Perspective - Al Jazeera English</title><meta name="title" content="The Crusades: An Arab Perspective"><meta name="channel" content=""><meta name="author" content=""><meta name="description" content="The dramatic story of the Crusades seen through Arab eyes."><meta name="keywords" content=""><meta name="GUID" content="161205075804004"><meta name="Parent_GUID" content="161205075803973"><meta property="og:description" content="The dramatic story of the Crusades seen through Arab eyes."><meta property="og:url" content="http://www.aljazeera.com/programmes/the-crusades-an-arab-perspective/"><meta name="url" content="http://www.aljazeera.com/programmes/the-crusades-an-arab-perspective/"><meta property="og:internalurl" content="http://www.aljazeera.com/programmes/the-crusades-an-arab-perspective/"><meta property="og:image" content="http://www.aljazeera.com/mritems/Images/2016/12/5/eeda0da81a3148ee9a4a85af20e60798_18.jpg"><meta name="image" content="http://www.aljazeera.com/mritems/Images/2016/12/5/eeda0da81a3148ee9a4a85af20e60798_18.jpg"><meta property="twitter:title" content="The Crusades: An Arab Perspective"><meta property="twitter:description" content="The dramatic story of the Crusades seen through Arab eyes."><!-- The content included from Show header file -->
+ <script type='text/javascript'>var _sf_startpt=(new Date()).getTime()</script>
+<!-- The content included from Index header file --> 
+
+<!-- Always force latest IE rendering engine (even in intranet)-->
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+
+ <!-- or enable chrome Frame if available in IE -->
+ <meta http-equiv="X-UA-Compatible" content="chrome=1" /> 
+
+ <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+ <meta property="twitter:account_id" content="4970411" />
+ <meta name="twitter:site" content="@AJEnglish" />
+
+<meta name="google-play-app" content="app-id=net.aljazeera.english">
+ <link rel="alternate" type="application/rss+xml" title="Al Jazeera English" href="/xml/rss/all.xml" />
+
+<link rel="apple-touch-icon" href="/mritems/assets/images/touch-icon-iphone.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/mritems/assets/images/touch-icon-ipad.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/mritems/assets/images/touch-icon-iphone-retina.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/mritems/assets/images/touch-icon-ipad-retina.png">
+
+ 
+<!--Site Scripts: To have all js functions required for website --> 
+
+  <script src="/assets/scripts/jquery-1.11.1.min.js"></script>
+
+
+
+ <script src="/assets/scripts/common.js"></script>
+ <script src="/mritems/assets/scripts/plugins/jquery.mCustomScrollbar.concat.min.js?i=1" type="text/javascript"></script>
+ <link href="/mritems/assets/styles/plugins/jquery.mCustomScrollbar.css?i=1" rel="stylesheet" />
+   
+ <script src="/assets/scripts/SiteScripts.js" type="text/javascript"></script> 
+ <script src="/assets/scripts/Brightcove.js?x=158" type="text/javascript"></script>
+ <script src="/assets/scripts/JsonFeed.js"></script>
+<script type="text/javascript"  src='//connect.facebook.net/en_US/all.js'></script>
+
+<script type='text/javascript'>
+if ( /(iPad).*AppleWebKit.*Mobile.*Safari/.test(navigator.userAgent) ) {
+  var headNode = document.getElementsByTagName("head")[0];
+  var sbNode = document.createElement('meta');
+  sbNode.name = 'apple-itunes-app';
+  sbNode.content = 'app-id=504847776';
+  headNode.appendChild(sbNode);
+} 
+else if ( /(iPhone|iPod).*AppleWebKit.*Mobile.*Safari/.test(navigator.userAgent) ) {
+  var headNode = document.getElementsByTagName("head")[0];
+  var sbNode = document.createElement('meta');                    
+  sbNode.name = 'apple-itunes-app';                
+  sbNode.content = 'app-id=504847776';
+  headNode.appendChild(sbNode);
+}
+</script>
+ <script>
+        $(document).ready(function () {
+	ShowingNow();	});
+	
+	 if (/(iPhone|iPod|iPad)/.test(navigator.userAgent)) 
+	{
+		if(window.localStorage.getItem ("AJE_Safari")==null)
+		{ 				
+			window.localStorage.setItem("AJE_Safari","true");
+			window.location.reload(true)
+		} 
+		else
+		{ 
+			window.localStorage.removeItem ("AJE_Safari");
+		}
+        }
+
+ </script>
+
+<!-- Facebook AJE Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+fbq('init', '968100353246427');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=968100353246427&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook AJE Pixel Code -->
+<script src="/assets/scripts/prebid.js" type="text/javascript"></script>
+<script src="/assets/scripts/adsscript.js?x=25" type="text/javascript"></script>
+<script src="/assets/scripts/ticker-plugin-script.js?x=8" type="text/javascript"></script>
+<script src="/assets/scripts/ticker-helper-script.js?x=3" type="text/javascript"></script>
+
+ <link href="/assets/styles/GridSet_Style.css?x=153" rel="stylesheet" />
+ <link href="/assets/styles/Markbolton_Style.css?x=153" rel="stylesheet" />
+ <link href="/assets/styles/AJE_Custom_Styles.css?x=164" rel="stylesheet" />
+ <link href="/assets/styles/H1Class.css?x=153" rel="stylesheet" />
+ <link href="/assets/styles/CustomMasterHead.css?x=153" rel="stylesheet" />
+ <link href="/assets/styles/Template_Boxes.css?x=153" rel="stylesheet" />
+ <link href="/assets/styles/ticker-plugin-style.css?x=153" rel="stylesheet" />
+ <link href="/mritems/assets/styles/epg-schedule-style.css?x=153" rel="stylesheet" />
+ <link  href="/assets/styles/bc-styles.css?x=153" rel="stylesheet" >
+ 
+ <link href="/assets/styles/CustomHeaderAndFooter.css?x=210" rel="stylesheet" />
+ <script src="/assets/scripts/CustomHeaderFooter.js?x=210" type="text/javascript"></script>
+ <script src="/assets/scripts/CustomSiteScripts.js?x=154" type="text/javascript"></script>
+
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4&appId=1547040598874845";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<meta http-equiv="Last-Modified" name="LastModifiedDate" content="Wed, 07 December 2016 13:34:20 GMT"><link href="/mritems/custom/plugins/owl-carousel/owl.carousel.css" type="text/css" rel="stylesheet"><link href="/mritems/custom/plugins/owl-carousel/owl.theme.css" type="text/css" rel="stylesheet"><link href="/mritems/custom/plugins/owl-carousel/owl.custom.css" type="text/css" rel="stylesheet"><script src="/mritems/custom/plugins/owl-carousel/owl.carousel.min.js" type="text/javascript"></script>
+</head>
+<body>
+    <form id='Default' name='Default' method='post'>    
+    
+    
+     
+
+<!-- important tag dont remove(used to carry page context) -->
+<input type="hidden" id="oryxcontext" value="B8C906090FB19032EA03A7D3B8D5B5D75AC46EFB6BA3CF923323F21BD59E9D5E22D28DB9AA4C2CE6EF449BA735DCDAE66E29F89D63B9BD3C4E56A4544338D8921568DC56345A71802ECABF9DE208316B13800F1E68A984E44DB9FD509D9739763EC62F804CA29F13756C7FD84DD52D6461CD02B593F7ED3C011D2A5C5CE6A467BE11C1C6EDC9F5494FA917F342FA6160DC8B254D15F5CD9EEF31252FBCFF266C5AF3A5090CC0211BC0674552EE97139261C62C1E9DD384BB9A08DAB690CD138D0314C7EEE66DC6D415D1BDEF0B132FCEE4E180899CED3BB99E87F951800556DF3ECFCD4CD0FF0F533E99BB9E7FC612FF1EB095CAF084413DC19913311553E8020D53F0F45BCDBC2231C87F4E848F91F26E4DC868109071F157BDD2BEFB0EB07673FCC6407B59A3763EC79419D7EE9674" data-postingguid="161205075804004">
+<div class="da-showgrid d-showgrid t-showgrid ta-showgrid m-showgrid">
+<header id="site-header">
+<!-- googleoff: index -->
+    <div><div><div><div><div style="width:100%"><div></div></div><div></div></div></div></div><div><div><div><div style="width:100%"><div><div><div style=";border-style:none"><div class="top-grey-bar">
+	<div class="top-social-wrapper">
+		<div class="wrapper clearfix">
+			<div class="socialmediaicons" id="SocialMediaIconsID">
+				<ul>
+					<li id="watchlive">
+						<a href="/live/"><svg height="20px" version="1.1" viewbox="0 0 14 14" width="20px"> <desc>Created with Sketch.</desc> <defs></defs> <g fill="none" fill-rule="evenodd" id="Page-1" stroke="none" stroke-width="1"> <g fill="#A60015" id="Group" transform="translate(-186.000000, -27.000000)"> <g id="ajmn-icons_play" transform="translate(10.000000, 13.000000)"> <g transform="translate(176.000000, 14.000000)"> <path d="M6.84444444,13.0812889 C3.39982222,13.0812889 0.6076,10.2890667 0.6076,6.84444444 C0.6076,3.39982222 3.39982222,0.6076 6.84444444,0.6076 C10.2890667,0.6076 13.0812889,3.39982222 13.0812889,6.84444444 C13.0812889,10.2890667 10.2890667,13.0812889 6.84444444,13.0812889 L6.84444444,13.0812889 Z M6.84444444,0 C3.06444444,0 0,3.06444444 0,6.84444444 C0,10.6244444 3.06444444,13.6888889 6.84444444,13.6888889 C10.6244444,13.6888889 13.6888889,10.6244444 13.6888889,6.84444444 C13.6888889,3.06444444 10.6244444,0 6.84444444,0 L6.84444444,0 Z" id="Fill-1"></path> <path d="M5.45066667,4.43488889 L5.45066667,9.254 L9.48266667,6.84444444 L5.45066667,4.43488889" id="Fill-2"></path> </g> </g> </g> </g> </svg> <span>Watch Live</span> </a></li>
+					<li id="watchnow">
+						<a href="/live/"><img alt="Watch Now" src="/mritems/images/site/WatchNow.png" title="Watch Now"></a></li>
+					<li id="facebook">
+						<a href="http://www.facebook.com/aljazeera" target="_blank"><img alt="Follow us on Facebook" data-pin-nopin="true" src="/mrItems/Assets/Images/NewArticle/facebook.png" title="Follow us on Facebook"></a></li>
+					<li id="twitter">
+						<a href="http://twitter.com/ajenglish" target="_blank"><img alt="Follow us on Twitter" data-pin-nopin="true" src="/mrItems/Assets/Images/NewArticle/twitter.png" title="Follow us on Twitter"></a></li>
+					<li id="instagram">
+						<a href="http://instagram.com/aljazeeraenglish" target="_blank"><img alt="Follow us on Instagram" data-pin-nopin="true" src="/mrItems/Assets/Images/NewArticle/instagram.png" title="Follow us on Instagram"></a></li>
+				</ul>
+			</div>
+			<!-- weather -->
+			<div class="m-hide weather-widgets" id="weatherwidgets">
+				&nbsp;</div>
+			<!-- /weather --></div>
+	</div>
+	<div class="wrapper clearfix">
+		<div class="top-search-wrapper">
+			<div class="live-watch-section">
+				<div class="arr-up">
+					&nbsp;</div>
+				<ul class="live-watch-play">
+					<li class="live-now-playing">
+						<a>Now Playing</a></li>
+					<li class="live-watch">
+						<span><img alt="" data-pin-nopin="true" src="/mrItems/Assets/Images/NewArticle/WatchLive_SmallWatchIcon.png"> </span><a class="watch-anchor" href="/live/" id="watch-now-link">Watch</a></li>
+				</ul>
+				<ul class="live-listen-play">
+					<li class="live-now-listening">
+						<a id="showing-now"> <!-- Showing Now --></a></li>
+					<li class="live-listen">
+						<a class="listen-anchor-img watch-anchor" href="http://listen.aljazeera.com/english/livestream?utm_source=AJE_website&amp;utm_medium=navbar&amp;utm_campaign=AJE_nav" id="listen-now-link" onclick="window.open(this.href,'ajlisten','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=380,height=567'); return false;" target="_blank"><span><img alt="" data-pin-nopin="true" src="/mrItems/Assets/Images/NewArticle/WatchLive_SmallListenIcon.png"> </span><span class="live-listen-wd">Listen</span></a></li>
+				</ul>
+				<ul class="TVScheduleLink">
+					<li>
+						<a href="/watch_now/epgschedule.html">TV Schedule</a></li>
+				</ul>
+			</div>
+			<div class="wrapper clearfix">
+				<div class="search-btn-section">
+					<ul>
+						<li id="watchlive-active">
+							<a href="#"><img src="/mrItems/Assets/Images/NewArticle/WatchNowPlayIcon_V1.png"> <span>Live</span> </a></li>
+						<li>
+							<button class="button-search-top" type="button">submit</button></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+</div></div><!--PageLoadedSucessfully--></div></div><div></div></div></div></div></div>
+<!-- social media bars shown here -->
+<div class="wrapper clearfix">
+
+
+  <div class="ta1 da1" id="site-logo"><a class="current" href="/">al jazeera</a><img alt="al jazeera" src="/mritems/assets/images/newarticle/a-j-e-overlay-copy.png" class="site-logo-img" style="cursor: pointer;"></div>
+
+<div class="ta2-ta6 d4" id="nav-account-search"><a href="#" id="nav-mobile-menu">menu</a>
+
+<nav class="ta2-ta4 nav-wide" id="nav-account-live">&nbsp;</nav>
+</div>
+
+<div class="nav-group ta2-ta6 da2-da6">
+<div class="mobile-wrap">
+<div class="form-search" id="nav-form-search"><input class="field-search" name="search" id="search" type="text" value=""><button class="button-search" type="button">submit</button></div>
+<!-- <div friendlyname="topmenuheader" id="10" type="regular" zonepath="topmenuheader/pagetype/default" zonetemplate="pagetype"> -->
+
+<div><div><div><div><div style="width:100%"><div><div><div style=";border-style:none"><nav id="nav-site" class="nav-wide da2-da4 clearfix"><ul>
+    <li data-guid="171025111604759" class="nav-item-171025111604759"><a href="/" target="_self">Home</a></li>
+    <li data-guid="161023134902510" class="nav-item-161023134902510"><a class="drop" href="/news/">News</a><a class="mobile-drop" href="#">More</a><div class="drop-mega"><nav class="&#xA;          nav-divider&#xA;        "><div class="subnav list nav-menu-width" style="margin-left: 2em;">
+            <div class="drp-mega-left">
+              <ul>
+                <li data-guid="140311071122120"><a href="/topics/regions/middleeast.html">Middle East</a></li>
+                <li data-guid="131113081710422"><a href="/topics/regions/africa.html">Africa</a></li>
+                <li data-guid="131112142029837"><a href="/topics/regions/asia.html">Asia</a></li>
+                <li data-guid="140311071220644"><a href="/topics/regions/us-canada.html">US &amp; Canada</a></li>
+              </ul>
+            </div>
+            <div class="drp-mega-right">
+              <ul>
+                <li data-guid="131113111908681"><a href="/topics/regions/latin-america.html">Latin America</a></li>
+                <li data-guid="131113084937332"><a href="/topics/regions/europe.html">Europe</a></li>
+                <li data-guid="140311071939629"><a href="/topics/regions/asia-pacific.html">Asia Pacific</a></li>
+                <li data-guid="170926095124731"><a href="/news" target="_self">All</a></li>
+              </ul>
+            </div>
+          </div></nav></div>
+    </li>
+    <li data-guid="140311071122120" class="nav-item-140311071122120"><a href="/topics/regions/middleeast.html">Middle East</a></li>
+    <li data-guid="161016132227401" class="nav-item-161016132227401"><a class="drop" href="/documentaries/">Documentaries</a><a class="mobile-drop" href="#">More</a><div class="drop-mega"><nav class="&#xA;          nav-divider&#xA;        "><div class="subnav list nav-menu-width" style="margin-left: 2em;">
+            <div class="drp-mega-left">
+              <ul>
+                <li data-guid="140309125006070"><a href="/programmes/specialseries/">Featured Documentaries</a></li>
+                <li data-guid="140309124146566"><a href="/programmes/witness/">Witness</a></li>
+                <li data-guid="140309100922773"><a href="/programmes/aljazeeraworld/">Al Jazeera World</a></li>
+                <li data-guid="140309083414124"><a href="/programmes/101east/">101 East</a></li>
+              </ul>
+            </div>
+            <div class="drp-mega-right">
+              <ul>
+                <li data-guid="140309103232322"><a href="/programmes/peopleandpower/">People &amp; Power</a></li>
+                <li data-guid="140309101835880"><a href="/programmes/faultlines/">Fault Lines</a></li>
+                <li data-guid="171104105940754"><a href="/programmes/my-tunisia/tunisia.html">My Tunisia</a></li>
+                <li data-guid="170702220310988"><a href="/programmes/aljazeera-selects/">Al Jazeera Selects </a></li>
+                <li data-guid="140309100153551"><a href="/programmes/aljazeeracorrespondent/">Al Jazeera Correspondent</a></li>
+                <li data-guid="160905084557919"><a href="/programmes/rewind/">REWIND</a></li>
+                <li data-guid="161019084747265"><a href="/documentaries">All</a></li>
+              </ul>
+            </div>
+          </div></nav></div>
+    </li>
+    <li data-guid="140204094724441" class="nav-item-140204094724441"><a class="drop" href="/programmes/">Shows</a><a class="mobile-drop" href="#">More</a><div class="drop-mega"><nav class="&#xA;          nav-divider&#xA;        "><div class="subnav list nav-menu-width" style="margin-left: 2em;">
+            <div class="drp-mega-left">
+              <ul>
+                <li data-guid="140309102519696"><a href="/programmes/insidestory/">Inside Story</a></li>
+                <li data-guid="140327064406019"><a href="http://stream.aljazeera.com" target="_blank">The Stream</a></li>
+                <li data-guid="140309102803328"><a href="/programmes/listeningpost/">The Listening Post</a></li>
+                <li data-guid="140309123607662"><a href="/programmes/talktojazeera/">Talk to Al Jazeera</a></li>
+              </ul>
+            </div>
+            <div class="drp-mega-right">
+              <ul>
+                <li data-guid="170215082732680"><a href="/programmes/the-big-picture/">The Big Picture</a></li>
+                <li data-guid="140309101519781"><a href="/programmes/countingthecost/">Counting the Cost</a></li>
+                <li data-guid="150811112506260"><a href="/programmes/upfront/">UpFront</a></li>
+                <li data-guid="140309100432009"><a href="/programmes/earthrise/">earthrise</a></li>
+                <li data-guid="140309101636015"><a href="/programmes/empire/">Empire</a></li>
+                <li data-guid="161019085813616"><a href="/programmes" target="_self">All</a></li>
+              </ul>
+            </div>
+          </div></nav></div>
+    </li>
+    <li data-guid="141105143951929" class="nav-item-141105143951929"><a href="/investigations/">Investigations</a></li>
+    <li data-guid="140130065247497" class="nav-item-140130065247497"><a href="/indepth/opinion/">Opinion</a></li>
+    <li data-guid="161027083327112" class="nav-item-161027083327112"><a href="/indepth/inpictures/">In Pictures</a></li>
+    <li data-guid="161017091647457" class="nav-item-161017091647457"><a class="drop" href="#">More</a><a class="mobile-drop" href="#">More</a><div class="drop-mega"><nav class="&#xA;          nav-divider&#xA;        "><div class="subnav list nav-menu-width" style="margin-left: 2em;">
+            <div class="drp-mega-left">
+              <ul>
+                <li data-guid="161027081630642"><a href="/indepth/features/">Features</a></li>
+                <li data-guid="141105143951929"><a href="/investigations/">Investigations</a></li>
+                <li data-guid="161027083327112"><a href="/indepth/inpictures/">In Pictures</a></li>
+                <li data-guid="161027100258444"><a href="/indepth/interactive/">Interactive</a></li>
+              </ul>
+            </div>
+            <div class="drp-mega-right">
+              <ul>
+                <li data-guid="161019084958582"><a href="/indepth/interactive/documentaries/">Interactive Documentaries</a></li>
+                <li data-guid="161115094809507"><a href="/shorts/">AJ Shorts</a></li>
+                <li data-guid="170219130504928"><a href="/podcasts/">Podcasts</a></li>
+                <li data-guid="161028145404792"><a href="/blogs/">Reporter's Notebook</a></li>
+                <li data-guid="131112151343070"><a href="/topics/categories/human_rights.html">Human Rights</a></li>
+                <li data-guid="131112152428605"><a href="/topics/categories/sport.html">Sport</a></li>
+                <li data-guid="131112152215639"><a href="/topics/categories/science-and-technology.html">Science &amp; Technology</a></li>
+                <li data-guid="140319114634577"><a href="/topics/categories/weather.html">Weather</a></li>
+              </ul>
+            </div>
+          </div></nav></div>
+    </li>
+  </ul></nav></div></div><!--PageLoadedSucessfully--></div></div><div></div></div></div></div></div>
+<!--menu goes here -->
+
+<div><div><div><div><div style="width:100%"><div><div><div style=";border-style:none"><nav id="nav-topics" class="nav-wide t-all da-all"><ul>
+    <li id="NavTopTopics">Trending:</li>
+    <li><a href="/topics/country/ethiopia.html">Ethiopia</a></li>
+    <li><a href="/topics/people/donald-trump.html">Donald Trump</a></li>
+    <li><a href="/topics/issues/gun-control.html">Gun control</a></li>
+    <li><a href="/topics/country/zimbabwe.html">Zimbabwe</a></li>
+    <li><a href="/topics/country/syria.html">Syria's Civil War</a></li>
+  </ul></nav></div></div><!--PageLoadedSucessfully--></div></div><div></div></div></div></div></div>
+<!-- <div id="weatherwidget" class="m-hide weather-widget"> </div> -->
+</div>
+</div>
+</div>
+
+<div><div><div><div><div style="width:100%"><div><div><div><div><div style="width:100%"><div><div><div style=";border-style:none"><div class="form-wrapper-wrap">
+  <div class="wrapper clearfix">
+    <div class="form-wrapper"><span class="genericon genericon-close search-close"></span><input class="field-search" id="searchText" placeholder="Search..." type="text"><nav id="search-nav-topics" class="nav-wide t-all da-all"><ul>
+          <p class="most-searched">Most Searched</p>
+        </ul></nav></div>
+  </div>
+</div>
+<div id="site-header-links"></div></div></div><!--PageLoadedSucessfully--></div></div><div></div></div></div></div></div></div><div></div></div></div></div></div>
+<!-- googleon: index -->
+ 
+</header>
+   
+</div>
+  <!-- news ticker -->
+<div id="header_container" style="display: none;">
+   <ul id="js-news" class="js-hidden">
+   </ul>
+</div>
+<div><div><div style=";border-style:none"><!-- googleoff: index --><div id="div-gpt-ad-1430377943388-2">  
+      
+       <script type="text/javascript">
+googletag.cmd.push(function() { 
+googletag.display('div-gpt-ad-1430377943388-2'); 
+});
+</script>
+      
+      </div><!-- googleon: index --></div></div></div>
+<div id="site-content">
+
+
+<div></div>
+
+<div id="placeholder1" type="content"><!-- comments goes here -->
+	<div><div><div><div><div style="width:100%"><div><div class="branded oryx-bg"><div><div><div><div style="width:100%"><div><header id="show-header" class="clearfix wrapper" type="renderzoneblock"><div><div style=";border-style:none"><style>
+          .oryx-bg {
+          background-image: url(/mritems/Images/2016/12/5/eeda0da81a3148ee9a4a85af20e60798_6.jpg);
+          }
+        </style>
+<div id="show-logo" class="da1-da2 ta1-ta2"><a href="/programmes/the-crusades-an-arab-perspective/"><img style="width: 100%; vertical-align: bottom;" src="/mritems/Images/2016/12/5/eeda0da81a3148ee9a4a85af20e60798_7.png"></a></div></div></div></header></div></div><div></div></div></div></div><div><div><div><div style="width:100%"><div><div id="show-latest" class="wrapper clearfix page-section "><div><div><div><div style="width:100%"><div><div class=""><div><div style=";border-style:none"><blurb><!-- googleoff: index --><article class="item show-latest box da1-da4 ta1-ta4 ta-pad da-pad blurb-wide"><h3 class="heading-section">LATEST</h3>
+    <div id="vdoContainer" class="video-container"></div><script type="text/javascript">RenderPagesVideo('5261090816001', 0, '100%', 473, 'vdoContainer');</script><div class="ta-all ta-all.ViewFinderTopPost">
+      <h1 class="heading-page"><a href="/programmes/the-crusades-an-arab-perspective/2016/12/liberation-fall-acre-crusades-161225103519869.html">Liberation: Acre and the End of the Crusades</a></h1>
+      <p>From the Third Crusade to the siege of Acre: How the crusader presence in the Holy Land was brought to an end.</p>
+      <p class="meta"><time datetime="28 Dec 2016 12:28 GMT">28 Dec 2016 12:28 GMT</time>
+              |  
+              <a href="/topics/subjects/religion.html">Religion</a>, <a href="/topics/subjects/islam.html">Islam</a>, <a href="/topics/subjects/christianity.html">Christianity</a>, <a href="/topics/subjects/history.html">History</a></p>
+    </div></article><!-- googleon: index --></blurb></div></div></div></div></div><div></div></div><div><div style="width:100%"><div><aside id="about-programme" class="show-times da5-da6 ta5-ta6 ta-pad dark da-pad" type="renderzoneblock"><div><div><div><div style="width:100%"><div><div><div style=";border-style:none"><blurb><style>
+        .follow-item-style li {
+        display: block;
+        float: right;
+        margin-right: .5em;
+        font-size: 16px;
+        }
+
+        .follow-item-style li a {
+        width: 24px;
+        height: 24px;
+        display: block;
+        overflow: hidden;
+        background-image: url('/assets/images/social-follow-sprite.png');
+        background-repeat: no-repeat;
+        text-indent: -5000px;
+        }
+
+        .social-twitter {
+        background-position: 0 0;
+        }
+
+        .social-facebook {
+        background-position: -24px 0;
+        }
+
+
+        .social-google {
+        background-position: -48px 0;
+        }
+
+        .social-youtube {
+        background-position: -72px 0;
+        }
+        .social-rss {
+        background-position: -96px 0;
+        }
+          .social-contactus {
+        background-position: -120px 0;
+        }
+      </style><section id="show-next"><h1 class="heading-section">About The Crusades: An Arab Perspective</h1>
+    <table>
+      <tbody>
+        <tr>
+          <td>The dramatic story of the Crusades seen through Arab eyes - from the seizing of Jerusalem under Pope Urban II in 1099 to its recapture by Salah ad-Din, Richard the Lionheart’s efforts to regain the city, and the end of the movement two centuries later.</td>
+        </tr>
+      </tbody>
+    </table></section><h1 class="heading-section">Airing Times</h1>
+  <table>
+    <tr>
+      <td>Saturday</td>
+      <td>20:00 GMT</td>
+    </tr>
+    <tr>
+      <td>Sunday</td>
+      <td>12:00 GMT</td>
+    </tr>
+    <tr>
+      <td>Monday</td>
+      <td>01:00 GMT</td>
+    </tr>
+    <tr>
+      <td>Tuesday</td>
+      <td>06:00 GMT</td>
+    </tr>
+    <tr class="FirstEpisode">
+      <td>Tuesday</td>
+      <td>20:00 GMT</td>
+    </tr>
+    <tr>
+      <td>Wednesday</td>
+      <td>12:00 GMT</td>
+    </tr>
+    <tr>
+      <td>Thursday</td>
+      <td>01:00 GMT</td>
+    </tr>
+    <tr>
+      <td>Friday</td>
+      <td>06:00 GMT</td>
+    </tr>
+  </table>
+  <p><span class="AiringTimesLegend">New Episode</span></p><br><a href="/watch_now/epgschedule.html" class="show-tv-schedule">Show full TV schedule</a><br><br><script type="text/javascript">                       
+									var jQueryScriptOutputted = false;                 
+
+									function initJQuery() {
+
+											if (typeof (jQuery) === 'undefined') {
+
+													if (!jQueryScriptOutputted) {
+															//only output the script once..
+															jQueryScriptOutputted = true;
+
+															var script   = document.createElement("script");
+															script.type  = "text/javascript";
+											script.src   = "/assets/scripts/jquery-1.11.1.min.js";    
+															document.body.appendChild(script);
+													}   
+
+													setTimeout("initJQuery()", 50); 
+											}  else {
+        
+        										(function($){
+													$(window).load(function(){
+														$("#about-programme").mCustomScrollbar({
+															scrollButtons:{
+																enable:true
+															},
+															theme:"light-thick"
+														});
+													});
+												})(jQuery);
+														
+											}
+																
+									}
+									initJQuery();                   
+				</script></blurb></div></div></div></div><div></div></div></div></div><div><div><div><div style="width:100%"><div></div></div><div></div></div></div></div></aside></div></div><div></div></div></div></div></div></div></div><div></div></div></div></div><div><div><div><div style="width:100%"><div><div class="wrapper clearfix "><div><div><div><div style="width:100%"><div><section id="show-episodes" class="page-section da-all da-pad ta-all ta-pad box box-section"><div><div style=";border-style:none"><section class="da-all da-pad ta-all ta-pad" xmlns:media="http://search.yahoo.com/mrss/" xmlns:systemclass="Oryx"><!-- googleoff: index --><h1 class="heading-section">More</h1><article class="item blurb db1 tb1"><a href="/programmes/the-crusades-an-arab-perspective/2016/12/unification-saladin-fall-jerusalem-161219060659446.html" class="play"><img src="/mritems/imagecache/mbdresplarge/mritems/Images/2016/12/20/7f54104813214b06979c799a2c30600d_18.jpg" title="Unification: Saladin and the Fall of Jerusalem" alt="Unification: Saladin and the Fall of Jerusalem"></a><div>
+      <div class="h1class"><a href="/programmes/the-crusades-an-arab-perspective/2016/12/unification-saladin-fall-jerusalem-161219060659446.html">Unification: Saladin and the Fall of Jerusalem</a></div>
+      <p>We explore how Salah Ed-Din unified the Muslim states and recaptured the holy city of Jerusalem from the crusaders.</p>
+    </div></article><article class="item blurb db2 tb2"><a href="/programmes/the-crusades-an-arab-perspective/2016/12/revival-muslim-response-crusades-161210142659166.html" class="play"><img src="/mritems/imagecache/mbdresplarge/mritems/Images/2016/12/14/f990610bf0594b67949c1ea8d8b6b8de_18.jpg" title="Revival: The Muslim Response to the Crusades" alt="Revival: The Muslim Response to the Crusades"></a><div>
+      <div class="h1class"><a href="/programmes/the-crusades-an-arab-perspective/2016/12/revival-muslim-response-crusades-161210142659166.html">Revival: The Muslim Response to the Crusades</a></div>
+      <p>This part of 'The Crusades: An Arab Perspective' explores the birth of the Muslim revival in the face of the Crusades.</p>
+    </div></article><article class="item blurb db3 tb3"><a href="/programmes/the-crusades-an-arab-perspective/2016/12/shock-crusade-conquest-jerusalem-161205081421743.html" class="play"><img src="/mritems/imagecache/mbdresplarge/mritems/Images/2016/12/7/56fe317f60804ef9afbc8a4cbb248433_18.jpg" title="Shock: The First Crusade and the Conquest of Jerusalem" alt="Shock: The First Crusade and the Conquest of Jerusalem"></a><div>
+      <div class="h1class"><a href="/programmes/the-crusades-an-arab-perspective/2016/12/shock-crusade-conquest-jerusalem-161205081421743.html">Shock: The First Crusade and the Conquest of Jerusalem</a></div>
+      <p>Background to the holy wars and the First Crusade's conquest of Jerusalem, a holy city for Jews, Christians and Muslims.</p>
+    </div></article><!-- googleon: index --></section></div></div></section></div></div><div></div></div></div></div><div><div><div><div style="width:100%"><div><div class="box page-section clearfix da-all da-pad ta-all ta-pad"><div><div><div><div style="width:100%"><div><section class="box-section-news da1-da4 ta1-ta4 ta-pad da-pad "><div><div><div><div style="width:100%"><div><div><div style=";border-style:none"><!-- googleoff: index --><section id="web-extras" class="page-section da-all da-pad ta-all ta-pad" xmlns:media="http://search.yahoo.com/mrss/"><h1 class="heading-section">FROM THE ARCHIVES</h1>
+  <div class="owl-carousel" id="ID0EAA">
+    <div class="item blurb" style="margin: 5px 5px 15px 0px;"><a href="http://america.aljazeera.com/opinions/2014/7/crusades-foreignpolicyiraqafghanistanmuslimchristian.html" class=""><img src="/mritems/imagecache/mbdshows/mritems/Images/2016/12/7/940f050ac26145caacd6ab29070870d2_18.jpg" title="The enduring influence of the Crusades" alt="The enduring influence of the Crusades"></a><div>
+        <h4><a href="http://america.aljazeera.com/opinions/2014/7/crusades-foreignpolicyiraqafghanistanmuslimchristian.html">The enduring influence of the Crusades</a></h4>
+        <p>How Muslim extremists and American conservatives came to find comfort in Crusade metaphors.</p>
+        <p class="meta"><a href="/topics/subjects/religion.html">Religion</a>,<a href="/topics/subjects/christianity.html">Christianity</a>,<a href="/topics/subjects/islam.html">Islam</a></p>
+      </div>
+    </div>
+    <div class="item blurb" style="margin: 5px 5px 15px 0px;"><a href="/focus/arabunity/2008/01/200852518345065887.html" class=""><img src="/mritems/imagecache/mbdshows/mritems/Images/2016/6/23/02cfeaad314e4ac0aa475164641b6aeb_18.jpg" title="Time to forget the Crusades" alt="Time to forget the Crusades"></a><div>
+        <h4><a href="/focus/arabunity/2008/01/200852518345065887.html">Time to forget the Crusades</a></h4>
+        <p>Their legacy has been used to argue the inevitability of a clash of civilisations.</p>
+        <p class="meta"><a href="/topics/country/france.html">France</a></p>
+      </div>
+    </div>
+    <div class="item blurb" style="margin: 5px 5px 15px 0px;"><a href="/indepth/opinion/2014/12/revisiting-british-conquest-je-2014121381243881138.html" class=""><img src="/mritems/imagecache/mbdshows/mritems/Images/2014/10/14/2014101485031708734_20.jpg" title="Revisiting the British conquest of Jerusalem" alt="Revisiting the British conquest of Jerusalem"></a><div>
+        <h4><a href="/indepth/opinion/2014/12/revisiting-british-conquest-je-2014121381243881138.html">Revisiting the British conquest of Jerusalem</a></h4>
+        <p>The day the British entered Jerusalem in 1917, Palestine's fate was sealed.</p>
+      </div>
+    </div>
+  </div><script type="text/javascript"> $("#ID0EAA").owlCarousel({
+                          items: 3,
+                          itemsDesktop: [1199, 3],
+                          itemsDesktopSmall: [979, 3],
+                          itemsTablet: [768, 2],
+                          itemsMobile: [479, 1],
+                          responsiveRefreshRate : 100
+                      });
+    </script></section><!-- googleon: index --></div></div></div></div><div></div></div></div></div><div><div><div><div style="width:100%"><div><div><div style=";border-style:none"></div></div></div></div><div></div></div></div></div><div><div><div><div style="width:100%"><div><div><div style=";border-style:none"><!-- googleoff: index --><section class="contrast da-all da-pad ta-all ta-pad"><h1 class="heading-section">Staff Picks</h1><article class="item blurb db1 tb1"><h3 class="heading-topic"><a href="/programmes/street-food/">Street Food</a></h3><a class="play" href="/programmes/street-food/2016/01/taste-conflict-politics-food-jerusalem-160122081835388.html"><img src="/mritems/imagecache/mbdresplarge/mritems/Images/2016/2/2/8a8b3ed61af849e9a7750f2dea9add2b_18.jpg" title="A taste of conflict: The politics of food in Jerusalem" alt="A taste of conflict: The politics of food in Jerusalem"></a><div>
+      <div class="h1class"><a href="/programmes/street-food/2016/01/taste-conflict-politics-food-jerusalem-160122081835388.html">A taste of conflict: The politics of food in Jerusalem</a></div>
+      <p>In an ancient city torn apart by modern conflict, can food help to bridge political and religious divisions?</p>
+    </div></article><article class="item blurb db2 tb2"><h3 class="heading-topic"><a href="/programmes/talktojazeera/">Talk to Al Jazeera</a></h3><a class="play" href="/programmes/talktojazeera/2017/12/nadezhda-kutepova-life-russia-secret-nuclear-city-171214121737252.html"><img src="/mritems/imagecache/mbdresplarge/mritems/Images/2017/12/14/a938e8b0e8a94f97a2cfa9b63e47908b_18.jpg" title="Nadezhda Kutepova: Life in Russia's secret nuclear city" alt="Nadezhda Kutepova: Life in Russia's secret nuclear city"></a><div>
+      <div class="h1class"><a href="/programmes/talktojazeera/2017/12/nadezhda-kutepova-life-russia-secret-nuclear-city-171214121737252.html">Nadezhda Kutepova: Life in Russia's secret nuclear city</a></div>
+      <p>Activist Kutepova on growing up in a city that saw the world's third-worst nuclear accident and being exiled as traitor.</p>
+    </div></article><article class="item blurb db3 tb3"><h3 class="heading-topic"><a href="/programmes/101east/">101 East</a></h3><a class="play" href="/programmes/101east/2016/08/india-miracle-babies-160831083148944.html"><img src="/mritems/imagecache/mbdresplarge/mritems/Images/2016/8/31/bce684bbc4ce4936b064cf7cb0c0da06_18.jpg" title="India's Miracle Babies" alt="India's Miracle Babies"></a><div>
+      <div class="h1class"><a href="/programmes/101east/2016/08/india-miracle-babies-160831083148944.html">India's Miracle Babies</a></div>
+      <p>India's elderly new mothers: Are doctors playing God, or does every woman have the right to bear a child?</p>
+    </div></article></section><!-- googleon: index --></div></div></div></div><div></div></div></div></div><div><div><div><div style="width:100%"><div></div></div><div></div></div></div></div><div><div style=";border-style:none"><blurb><!-- googleoff: index --><!-- googleon: index --></blurb></div></div></section></div></div><div></div></div><div><div style="width:100%"><div><aside id="show-comments" class="da5-da6 ta5-ta6 ta-pad da-pad  " type="renderzoneblock"><div><div><div><div style="width:100%"><div><div><div><div><div style="width:100%"><div guid="" path="AlJazeeraAdsBox" inherited="a1" applyzonekeepinhritance="true"><div><div><div><div style="width:100%"><div><div><div><div><div style="width:100%"><div><section class="divgptad" style="text-align: center;"><div><div style=";border-style:none"><!-- googleoff: index --><div class="RightSideAds" id="toprightlongad"></div><!-- googleon: index --></div></div></section><!--PageLoadedSucessfully--></div></div><div></div></div></div></div></div></div><div></div></div></div></div></div></div><div></div></div></div></div></div></div><div></div></div></div></div><div><div><div><div style="width:100%"><div><div id="twitter-shows"><div><div style=";border-style:none"></div></div></div></div></div><div></div></div></div></div><div><div><div><div style="width:100%"><div><div><div style=";border-style:none"></div></div></div></div><div></div></div></div></div><div><div><div><div style="width:100%"><div><div><div style=";border-style:none"></div></div></div></div><div></div></div></div></div></aside></div></div><div></div></div></div></div></div></div></div><div></div></div></div></div></div></div></div><div></div></div></div></div></div></div></div><div></div></div></div></div></div>
+</div>
+
+<div></div>
+
+
+<div>
+<div><div><div><div><div style="width:100%"><div><section class="dark m-hide oryx-custom-clear"><div><div style=";border-style:none"><?xml version="1.0" encoding="utf-16"?><!-- googleoff: index --><div class="wrapper"><div class="heading-section h1class">MUST-SEE PROGRAMMES</div><article class=" item blurb  t1 d1"><h4 class="heading-section" style="padding-bottom:0px"><a class="showStrandName" href="/programmes/peopleandpower/">People & Power</a></h4><a href="/programmes/peopleandpower/2014/05/ukraine-dangerous-game-201451485934578156.html" onclick="sendGAEvent('Bottom Content','click','Program Highlights');" class="play"><img class="lazy" data-src="/mritems/imagecache/mbdresplarge/mritems/Images/2014/5/14//2014514131019630734_20.jpg" alt="Ukraine: A dangerous game" title="Ukraine: A dangerous game" src="/img/nov-2016/novresptopfeature.jpg"></a><h4><a href="/programmes/peopleandpower/2014/05/ukraine-dangerous-game-201451485934578156.html" style="text-transform: none;" onclick="sendGAEvent('Bottom Content','click','Program Highlights');">Ukraine: A dangerous game</a></h4><p>As crucial elections approach, is Ukraine really as divided as people have been told?</p><p class="meta"><a href="/topics/subjects/crimea.html">Crimea</a>, <a href="/topics/country/ukraine.html">Ukraine</a>, <a href="/topics/country/russia.html">Russia</a></p></article><article class=" item blurb  t2 d2"><h4 class="heading-section" style="padding-bottom:0px"><a class="showStrandName" href="/programmes/gaddafitheendgame/gaddafitheendgame.html">Gaddafi: The Endgame</a></h4><a href="/programmes/gaddafitheendgame/2011/12/2011128924117170.html" onclick="sendGAEvent('Bottom Content','click','Program Highlights');" class="play"><img class="lazy" data-src="/mritems/imagecache/mbdresplarge/mritems/Images/2011/12/8/201112885625275580_20.jpg" alt="Libya: State of Denial" title="Libya: State of Denial" src="/img/nov-2016/novresptopfeature.jpg"></a><h4><a href="/programmes/gaddafitheendgame/2011/12/2011128924117170.html" style="text-transform: none;" onclick="sendGAEvent('Bottom Content','click','Program Highlights');">Libya: State of Denial</a></h4><p>The story of the fall of Gaddafi as told by the insiders, defectors and military advisers who helped bring it about.</p><p class="meta"><a href="/topics/people/muammar-gaddafi.html">Muammar Gaddafi</a>, <a href="/topics/country/libya.html">Libya</a>, <a href="/topics/categories/politics.html">Politics</a></p></article><article class=" item blurb  t3 d3"><h4 class="heading-section" style="padding-bottom:0px"><a class="showStrandName" href="/programmes/talktojazeera/">Talk to Al Jazeera</a></h4><a href="/programmes/talktojazeera/2015/05/hailemariam-desalegn-democracy-election-150522074045193.html" onclick="sendGAEvent('Bottom Content','click','Program Highlights');" class="play"><img class="lazy" data-src="/mritems/imagecache/mbdresplarge/mritems/Images/2015/5/22/c551a037ac1d46b38ecf12ece7d1e3db_18.jpg" alt="Hailemariam Desalegn: Democracy 'not only an election'" title="Hailemariam Desalegn: Democracy 'not only an election'" src="/img/nov-2016/novresptopfeature.jpg"></a><h4><a href="/programmes/talktojazeera/2015/05/hailemariam-desalegn-democracy-election-150522074045193.html" style="text-transform: none;" onclick="sendGAEvent('Bottom Content','click','Program Highlights');">Hailemariam Desalegn: Democracy 'not only an election'</a></h4><p>The Ethiopian prime minister discusses democracy, human rights, press freedom and the future of his country.</p><p class="meta"><a href="/topics/categories/politics.html">Politics</a>, <a href="/topics/categories/human_rights.html">Human Rights</a>, <a href="/topics/country/ethiopia.html">Ethiopia</a></p></article><article class=" item blurb  t4 d4"><h4 class="heading-section" style="padding-bottom:0px"><a class="showStrandName" href="/programmes/">Programmes</a></h4><a href="/programmes/2011/08/201184144547798162.html" onclick="sendGAEvent('Bottom Content','click','Program Highlights');" class="play"><img class="lazy" data-src="/mritems/imagecache/mbdresplarge/mritems/Images/2011/7/29/2011729191150887734_20.jpg" alt="Bahrain: Shouting in the Dark" title="Bahrain: Shouting in the Dark" src="/img/nov-2016/novresptopfeature.jpg"></a><h4><a href="/programmes/2011/08/201184144547798162.html" style="text-transform: none;" onclick="sendGAEvent('Bottom Content','click','Program Highlights');">Bahrain: Shouting in the Dark</a></h4><p>The story of the Arab revolution that was abandoned by the Arabs, forsaken by the West and forgotten by the world.</p><p class="meta"><a href="/topics/country/bahrain.html">Bahrain</a>, <a href="/topics/regions/middleeast.html">Middle East</a>, <a href="/topics/subjects/arab-spring.html">Arab Spring</a></p></article></div><!-- googleon: index --></div></div></section><!--PageLoadedSucessfully--></div></div><div></div></div></div></div></div>
+</div>
+
+<div>
+<!-- googleoff: index -->
+<div><div><div><div><div style="width:100%"><div><div><div style=";border-style:none"><footer id="site-footer">
+	<div class="FooterTopBar">
+		<nav class="nav-social wrapper clearfix" id="footer-nav">
+			<p>
+				<a href="#"><!--[if (!IE) | (gt IE 8)]><!--></a><img alt="Al Jazeera" class="t1 da1" id="footer-logo" onerror="this.onerror=null; this.src='/mritems/images/site/logo-footer.png'" src="/mritems/images/site/aje-logo-white.svg"> <!--<![endif]--><!--[if lte IE 8]><img class="t1 da1" id="footer-logo" src="img/logo-footer.png" alt="Al Jazeera" /><![endif]--></p>
+			<ul class="ta1-t4 da2-da4" id="footer-nav-main">
+				<li>
+					<a href="/news/">News</a></li>
+				<li>
+					<a href="/programmes/">Programmes</a></li>
+				<li>
+					<a href="/indepth/opinion/">Opinion</a></li>
+				<li>
+					<a href="/aboutus/">About</a></li>
+				<li>
+					<a href="/investigations/">Investigations</a></li>
+				<li class="for-mobile" style="display: none;">
+					<a href="/contactus/">Contact Us</a></li>
+				<li class="last m-hide">
+					<a href="http://video.aljazeera.com/channels/eng" target="_blank">Video</a></li>
+			</ul>
+			<ul id="footer-nav-social">
+				<li>
+					<a class="icon-facebook" href="http://www.facebook.com/aljazeera" target="_blank">Facebook</a></li>
+				<li>
+					<a class="icon-twitter" href="http://twitter.com/ajenglish" target="_blank">Twitter</a></li>
+				<li>
+					<a class="icon-google" href="http://plus.google.com/+aljazeera" target="_blank">Google+</a></li>
+				<li>
+					<a class="icon-rss" href="/xml/rss/all.xml" target="_blank">RSS</a></li>
+				<li>
+					<a class="icon-pod" href="/programmes/Podcasts.html" target="_blank">Podcast</a></li>
+				<li>
+					<a class="icon-youtube" href="https://www.youtube.com/user/AlJazeeraEnglish?sub_confirmation=1" target="_blank">YouTube</a></li>
+				<li>
+					<a class="Snapchat" href="https://www.snapchat.com/add/AJENews">SnapChat</a></li>
+			</ul>
+		</nav>
+		<p class="copyright for-mobile" style="display: none;margin-left: 20px;">
+			© 2017 Al Jazeera Media Network</p>
+	</div>
+	<div class="wrapper m-hide clearfix">
+		<div class="ta1-ta2">
+			<nav class="m1 da1 da-clear">
+				<div class="heading-list h1class">
+					About</div>
+				<ul class="list">
+					<li>
+						<a href="/aboutus/">About Us</a></li>
+					<li>
+						<a href="http://pr.aljazeera.com/" target="_blank">Press Office</a></li>
+					<li>
+						<a href="/pressoffice/2012/04/2012416161854868952.html">Awards</a></li>
+					<li>
+						<a href="/aboutus/2006/11/2008525185733692771.html">Code of Ethics</a></li>
+					<li>
+						<a href="/aboutus/2011/01/20111168582648190.html">Terms and Conditions</a></li>
+					<li>
+						<a href="/aboutus/2011/01/201111681520872288.html">Community Guidelines</a></li>
+					<li>
+						<a href="http://careers.aljazeera.net/en/" target="_blank">Work for us</a></li>
+					<li>
+						<a href="/hraquality" target="_blank">HR Quality</a></li>
+				</ul>
+			</nav>
+			<nav class="m2 da2">
+				<div class="heading-list h1class">
+					Connect</div>
+				<ul class="list">
+					<li>
+						<a href="/contactus/">Contact Us</a></li>
+					<li>
+						<a href="/connect/">Apps</a></li>
+					<li>
+						<a href="/aboutus/follow-us.html">Social</a></li>
+					<li>
+						<a href="http://sat.aljazeera.net/en">Channel Finder</a></li>
+					<li>
+						<a href="/watch_now/epgschedule.html">TV Schedule</a></li>
+					<li>
+						<a href="/programmes/Podcasts.html">Podcasts</a></li>
+					<li>
+						<a href="/newsletter">Newsletter</a></li>
+				</ul>
+			</nav>
+		</div>
+		<div class="ta3-ta4">
+			<nav class="m1 da3">
+				<div class="heading-list h1class">
+					Our Channels</div>
+				<ul class="list">
+					<li>
+						<a href="http://aljazeera.net" target="_blank">Al Jazeera Arabic</a></li>
+					<li>
+						<a href="http://aljazeera.com" target="_blank">Al Jazeera English</a></li>
+					<li>
+						<a href="http://mubasher.aljazeera.net" target="_blank">Al Jazeera Mubasher</a></li>
+					<li>
+						<a href="http://doc.aljazeera.net" target="_blank">Al Jazeera Documentary</a></li>
+					<li>
+						<a href="http://balkans.aljazeera.net" target="_blank">Al Jazeera Balkans</a></li>
+					<li>
+						<a href="http://ajplus.net" target="_blank">AJ+</a></li>
+				</ul>
+			</nav>
+			<nav class="m2 da4">
+				<div class="heading-list h1class">
+					Our Network</div>
+				<ul class="list">
+					<li>
+						<a href="https://www.jetty.fm" target="_blank">Jetty</a></li>
+					<li>
+						<a href="http://studies.aljazeera.net/en/" target="_blank">Al Jazeera Centre for Studies</a></li>
+					<li>
+						<a href="http://training.aljazeera.net" target="_blank">Al Jazeera Media Institute</a></li>
+					<li>
+						<a href="http://liberties.aljazeera.com/en" target="_blank">Al Jazeera Centre for Public Liberties &amp; Human Rights</a></li>
+					<li>
+						<a href="http://forum.aljazeera.net" target="_blank">Al Jazeera Forum</a></li>
+					<li>
+						<a href="http://festival.aljazeera.net" target="_blank">Al Jazeera Film Festival</a></li>
+					<li>
+						<a href="http://learning.aljazeera.net" target="_blank">Al Jazeera Learning</a></li>
+					<li>
+						<a href="http://partners.aljazeera.net" target="_blank">Al Jazeera Hotel Partners</a></li>
+				</ul>
+			</nav>
+		</div>
+		<div class="ta5-ta6">
+			<nav class="m1 da5">
+				<div class="heading-list h1class">
+					&nbsp;</div>
+				<ul class="list">
+				</ul>
+			</nav>
+			<nav class="m2 da6">
+				<p class="copyright">
+					© 2018 Al Jazeera Media Network</p>
+			</nav>
+		</div>
+	</div>
+</footer>
+<p>
+	&nbsp;</p>
+</div></div><!--PageLoadedSucessfully--></div></div><div></div></div></div></div></div>
+<!-- googleon: index -->
+</div>
+</div>
+
+<!-- footer tags -->
+<!-- Google Code for Remarketing Tag -->
+<script type="text/javascript" src="/assets/scripts/jquery.lazy.min.js"></script>
+<script type="text/javascript" src="/assets/scripts/jquery.lazy.plugins.min.js" async></script>
+
+<script>
+        $(function() {   
+	   
+            $('img.lazy').lazy({
+                effect: "fadeIn",
+                effectTime: 1000,
+		defaultImage: "http://www.aljazeera.com/img/nov-2016/novresptopfeature.jpg",
+		visibleOnly: true
+                
+            });
+
+	$('.thumbnails-container .lazy').lazy({
+                effect: "fadeIn",
+                effectTime: 1000,
+		defaultImage: "http://www.aljazeera.com/img/nov-2016/novresptopfeature.jpg",
+		appendScroll: $('.thumbnails-container'), 
+		visibleOnly: true
+                
+            });  
+        });
+
+    </script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 944250150;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/944250150/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+<!-- End Of Google Code for Remarketing Tag -->
+
+<!-- Google Code for PVE Conversion Page -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 944250150;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "ffffff";
+var google_conversion_label = "qHeuCOSxnF8QprqgwgM";
+var google_remarketing_only = false;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//www.googleadservices.com/pagead/conversion/944250150/?label=qHeuCOSxnF8QprqgwgM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+<!-- End Of Google Code for PVE Conversion Page -->
+
+<!-- Chartbeat Analytics -->
+<script type='text/javascript'>
+    var _sf_async_config={};
+    var _url = "";
+
+    try {
+        _url = getMetaContentByName("url");
+	_url = _url.replace("http://www.aljazeera.com","");
+        if (!_url)
+            _url = window.location.pathname;
+    }
+    catch (Error) {
+        console.log(Error);
+    }
+
+    _sf_async_config.uid = 3291;
+    _sf_async_config.domain = 'aljazeera.com';
+    _sf_async_config.path = _url;
+    _sf_async_config.playerdomain = 'players.brightcove.net';
+    
+    (function(){
+      function loadChartbeat() {
+        window._sf_endpt=(new Date()).getTime();
+        var e = document.createElement('script');
+        e.setAttribute('language', 'javascript');
+        e.setAttribute('type', 'text/javascript');
+        e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+        document.body.appendChild(e);
+      }
+      var oldonload = window.onload;
+      window.onload = (typeof window.onload != 'function') ?
+         loadChartbeat : function() { oldonload(); loadChartbeat(); };
+    })();
+</script>
+<!-- End Chartbeat Analytics -->
+<!-- Start MouseFlow analytics -->
+<script type="text/javascript">
+if(/Mobile|iPhone|iPod|BlackBerry|nokia|IEMobile|Opera Mini/i.test(navigator.userAgent)){
+var _mfq = _mfq || [];
+(function()
+{ var mf = document.createElement("script"); mf.type = "text/javascript"; mf.async = true; mf.src = "//cdn.mouseflow.com/projects/f9672d00-7a4d-4e54-8581-ee611286a05d.js"; document.getElementsByTagName("head")[0].appendChild(mf); }
+)();}
+var mouseflowPath = document.location.pathname;
+if ($(window).width() <= 767) mouseflowPath += "/smartphone";
+</script>
+<!-- End MouseFlow analytics -->
+ <!-- Google Analytics -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-1615344-7', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- End Google Analytics -->
+<!-- Start QCRI -->
+<script type="text/javascript">
+var owa_sampleRate = 1.0;
+var owa_baseUrl = '//track.qcri.org/';
+var owa_cmds = owa_cmds || [];
+owa_cmds.push(['setSiteId', 'www.aljazeera.com']);
+owa_cmds.push(['setCustomVar', 1, 'sampleRate', owa_sampleRate, 'page']);
+owa_cmds.push(['trackPageView']);
+ 
+(function() {
+	function load_owa() {	
+		var s = document.createElement('script');
+		s.type = 'text/javascript'; s.async = true;
+		s.src = owa_baseUrl + 'v2-track-min.js';
+		var x = document.getElementsByTagName('script')[0];
+		x.parentNode.insertBefore(s, x);
+		
+	}
+	var pageURL = 'http://www.aljazeera.com' + window.location.pathname;	if (pageURL.indexOf("opinion") > 0 || pageURL.indexOf("middleeast") > 0){
+
+		if( owa_sampleRate == 1.0 || Math.random() > (1.0 - owa_sampleRate) ) {
+			if (window.attachEvent) {
+		    	window.attachEvent('onload', load_owa);
+			} else {
+		    	window.addEventListener('load', load_owa, false);
+			}
+		}
+	}
+}());
+</script><!-- End QCRI -->
+
+<!-- Start --><script> 
+(function(a,b,c,d,e){function f(){var a=b.createElement("script");a.async=!0;
+a.src="//radar.cedexis.com/1/15249/radar.js";b.body.appendChild(a)}/\bMSIE 6/i
+.test(a.navigator.userAgent)||(a[c]?a[c](e,f,!1):a[d]&&a[d]("on"+e,f))})
+(window,document,"addEventListener","attachEvent","load");
+</script>  
+<!-- End -->
+<script type="text/javascript">
+$('#showing-on-now').on('click', function() {
+  ga('send', 'event', 'EPG', 'click', 'Show Now Link - Masthead');
+});
+$('#watch-now-link').on('click', function() {
+  ga('send', 'event', 'Watch Live', 'click', 'Watch Now Link - Masthead');
+});
+$('#watchlive').on('click', function() {
+  ga('send', 'event', 'Watch Live', 'click', 'Watch Now Icon - Top - Mobile');
+});
+$('#showing-on-next').on('click', function() {
+  ga('send', 'event', 'EPG', 'click', 'Show Next Link - Masthead');
+});
+$('#nav-topics').on('click', function() {
+  ga('send', 'event', 'Topics', 'click', 'Top Topics Bar - Masthead');
+});
+$('#weatherwidget').on('click', function() {
+  ga('send', 'event', 'Weather', 'click', 'Weather Widget - Masthead');
+});
+$('#SocialMediaIconsID').on('click', function() {
+  ga('Site Social Links','click','Top Social Icons - Masthead');
+});
+$('.live-watch').on('click', function() {
+  ga('send','event','Watch Live','click','Watch Now Link - Top Live Menu');
+});
+$('.live-listen').on('click', function() {
+  ga('send','event','Listen Live','click','Listen Now Link - Top Live Menu');
+});
+$('.TVScheduleLink').on('click', function() {
+  ga('send','event','TVSchedule','click','TVSchedule - Top Live Menu');
+});
+</script> 
+<!-- The content included from Show Footer file --> 
+
+ <div class="TopAdContainer" id="topdivad" style="display:none;">
+<div id="topad">
+<div id="div-gpt-ad-1430377943388-0">  
+ <script type="text/javascript">
+googletag.cmd.push(function() { 
+googletag.display('div-gpt-ad-1430377943388-0'); 
+});
+</script>
+</div>
+</div>
+</div>
+
+<div id="rightlongad" style="display:none;">
+<div id="div-gpt-ad-1430377943388-1">  
+ <script type="text/javascript">	
+googletag.cmd.push(function() { 
+googletag.display('div-gpt-ad-1430377943388-1'); 
+});
+</script>
+</div>
+</div>
+
+<script type="text/javascript">
+	try {
+	$('#div-gpt-ad-1430377943388-2').remove();
+	$('.topadcontainer').remove();
+        $('#topdivad').insertAfter('#oryxcontext');
+	document.getElementById("topdivad").style.display = "block";
+ if (document.getElementById("toprightlongad")!= null){
+	var RightDiv = document.getElementById("toprightlongad");
+	RightDiv.innerHTML = document.getElementById("rightlongad").innerHTML;  
+	document.getElementById("rightlongad").innerHTML = "";
+}
+	
+	}
+	catch(err) {
+    		
+	} 
+</script>
+
+
+
+     <!--PageLoadedSucessfully-->
+    </form>
+</body>
+</html>
