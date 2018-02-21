@@ -1,0 +1,842 @@
+https://www.rollingstone.com/tv/news/watch-ryan-adams-cover-taylor-swift-on-daily-show-20151002
+
+
+
+
+      window.multiTest = {"2017":{"name":"root","value":"","ga":"root: "}};
+
+      // Initializing Google Tag Manager's dataLayer
+      var dataLayer = [];
+      var dataLayerOnLoad;
+      dataLayerOnLoad = {"siteName":"Rolling Stone","property":"rollingstone","environment":"production","sections":["TV","Music"],"canonical":{"absolute":"https://www.rollingstone.com/tv/news/watch-ryan-adams-cover-taylor-swift-on-daily-show-20151002","relative":"/tv/news/watch-ryan-adams-cover-taylor-swift-on-daily-show-20151002"},"content":{"type":"article","title":"Watch Ryan Adams Cover Taylor Swift on 'Daily Show'","authors":["Brittany Spanos"],"datePublished":"2015-10-02","parentCanonical":"/tv/news/watch-ryan-adams-cover-taylor-swift-on-daily-show-20151002","coverwall":"false","sports":"false","country":"false","optimizelyCD":"false","tags":{"ad":[],"edit":["Late-Night TV","The Daily Show"],"celebrity":[]},"disqus":{"id":"http://www.rollingstone.com/tv/news/watch-ryan-adams-cover-taylor-swift-on-daily-show-20151002?multiTest2017root=","disabled":false},"continuousScrollPosition":1},"abTest":{}};dataLayerOnLoad.multiTest = window.multiTest;
+      
+      dataLayer.push(dataLayerOnLoad);
+    
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-KPZ5NG');
+
+
+
+
+
+
+
+
+
+    var LUXData = [];LUXAddData('multiTest', '');
+    
+
+    function addData() {
+      for(var i = 0; i < LUXData.length; i++) {
+       LUX[LUXData[i].key].apply(this, LUXData[i].value.split('|'));
+      }
+    }
+
+    function LUXAddData(key, value){
+      if (typeof LUX !== 'undefined' &&  typeof LUX.addData !== 'undefined') {
+        LUX.addData(key, value);
+      } else {
+        LUXData.push({
+          key:'addData',
+          value: key + '|' + value
+        });
+      }
+    }
+
+    function LUXMark(value) {
+      if (typeof LUX !== 'undefined' && typeof LUX.mark !== 'undefined') {
+        LUX.mark(value);
+      } else {
+        LUXData.push({
+          key:'mark',
+          value: value
+        });
+      }
+    }
+
+    function LUXMeasure(key, start, end) {
+      if (typeof LUX !== 'undefined' && typeof LUX.measure !== 'undefined') {
+        LUX.measure(key, start, end);
+      } else {
+        LUXData.push({
+          key: 'measure',
+          value: key + '|' + start + '|' + end
+        });
+      }
+    }
+  
+
+
+    LUX=(function(){var a=("undefined"!==typeof(LUX)&&"undefined"!==typeof(LUX.gaMarks)?LUX.gaMarks:[]);var d=("undefined"!==typeof(LUX)&&"undefined"!==typeof(LUX.gaMeasures)?LUX.gaMeasures:[]);var h="LUX_start";var j=window.performance;var k=("undefined"!==typeof(LUX)&&LUX.ns?LUX.ns:(Date.now?Date.now():+(new Date())));if(j&&j.timing&&j.timing.navigationStart){k=j.timing.navigationStart}function e(){if(j){if(j.now){return j.now()}else{if(j.webkitNow){return j.now()}else{if(j.msNow){return j.now()}else{if(j.mozNow){return j.now()}}}}}var m=Date.now?Date.now():+(new Date());return m-k}function b(m){if(j){if(j.mark){return j.mark(m)}else{if(j.webkitMark){return j.webkitMark(m)}}}a.push({name:m,entryType:"mark",startTime:e(),duration:0});return}function l(o,s,m){if("undefined"===typeof(s)&&g(h)){s=h}if(j){if(j.measure){if(s){if(m){return j.measure(o,s,m)}else{return j.measure(o,s)}}else{return j.measure(o)}}else{if(j.webkitMeasure){return j.webkitMeasure(o,s,m)}}}var q=0,n=e();if(s){var r=g(s);if(r){q=r.startTime}else{if(j&&j.timing&&j.timing[s]){q=j.timing[s]-j.timing.navigationStart}else{return}}}if(m){var p=g(m);if(p){n=p.startTime}else{if(j&&j.timing&&j.timing[m]){n=j.timing[m]-j.timing.navigationStart}else{return}}}d.push({name:o,entryType:"measure",startTime:q,duration:(n-q)});return}function g(m){return c(m,f())}function c(p,o){for(i=o.length-1;i>=0;i--){var n=o[i];if(p===n.name){return n}}return undefined}function f(){if(j){if(j.getEntriesByType){return j.getEntriesByType("mark")}else{if(j.webkitGetEntriesByType){return j.webkitGetEntriesByType("mark")}}}return a}return{mark:b,measure:l,gaMarks:a,gaMeasures:d}})();LUX.ns=(Date.now?Date.now():+(new Date()));LUX.ac=[];LUX.cmd=function(a){LUX.ac.push(a)};
+    LUX.samplerate = 10;
+    LUX.label = 'article';
+  
+
+      if (typeof LUX !== 'undefined') {
+        window.LUXMark('cssDownloadedMark');
+        window.LUXMeasure('cssDownloaded', 'navigationStart', 'cssDownloadedMark');
+      }
+    
+var adParams = [];
+
+
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+
+  (function (){
+    window.advBidxc = window.advBidxc || {};
+    window.advBidxc.misc = window.advBidxc.misc || {};
+    window.advBidxc.renderAd = function (){};
+    window.advBidxc.startTime = new Date().getTime();
+    window.advBidxc.version = 4.1;
+    window.advBidxc.customerId = "8CU6IC45N";
+    window.advBidxc.misc.disableBidders = 'facebook';
+    window.advBidxc.timeout = 300;
+    window.advBidxc.domain = window.location.hostname;
+    function loadScript(tagSrc) {
+      if (tagSrc.substr(0, 4) !== 'http') {
+        var isSSL = 'https:' == document.location.protocol;
+        tagSrc = (isSSL ? 'https:' : '') + tagSrc;
+      }
+      var scriptTag = document.createElement('script'),
+          placeTag = document.getElementsByTagName("script")[0];
+      scriptTag.type = 'text/javascript';
+      scriptTag.async = true;
+      scriptTag.src = tagSrc;
+      placeTag.parentNode.insertBefore(scriptTag, placeTag);
+    }
+    function loadGPT(){
+      if(!window.advBidxc.isAdServerLoaded){
+        loadScript('//www.googletagservices.com/tag/js/gpt.js');
+        window.advBidxc.isAdServerLoaded = true;
+      }
+    }
+
+    window.advBidxc.loadGPT = setTimeout(loadGPT, window.advBidxc.timeout);
+
+    var isSSL = 'https:' == document.location.protocol;
+    var mnSrc = (isSSL ? 'https:' : 'http:') + '//contextual.media.net/bidexchange.js?cid='  + window.advBidxc.customerId + '&dn=' + window.advBidxc.domain + '&version=' +    window.advBidxc.version + (isSSL ? '&https=1' : '');
+    loadScript(mnSrc);
+  })();
+
+
+      googletag.cmd.push(function() {
+        googletag.pubads().disableInitialLoad();
+      });
+
+      !function(a9,a,p,s,t,A,g){
+        if(a[a9])return;
+        function q(c,r){
+          a[a9]._Q.push([c,r])
+        }
+        a[a9]={
+          init:function(){
+            q("i",arguments)
+          },
+          fetchBids:function(){
+            q("f",arguments)
+          },
+          setDisplayBids:function(){
+
+          },
+          _Q:[]
+        };
+        A=p.createElement(s);
+        A.async=!0;
+        A.src=t;
+        g=p.getElementsByTagName(s)[0];
+        g.parentNode.insertBefore(A,g)
+      }("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
+
+      apstag.init({
+        pubID: '3050',
+        adServer: 'googletag',
+        bidTimeout: 2e3
+      });
+    
+  window.Krux || ((Krux = function() {
+    Krux.q.push(arguments);
+  }).q = []);
+  (function() {
+    function retrieve(n) {
+      var m, k = 'kx' + n;
+      if (window.localStorage) {
+        return window.localStorage[k] || '';
+      } else if (navigator.cookieEnabled) {
+        m = document.cookie.match(k + '=([^;]*)');
+        return (m && unescape(m[1])) || "";
+      } else {
+        return '';
+      }
+    }
+    Krux.user = retrieve('user');
+    Krux.segments = retrieve('segs') && retrieve('segs').split(',') || [];
+  })();
+
+        googletag.cmd.push(function() {
+            googletag.pubads().enableSingleRequest();
+            googletag.pubads().enableVideoAds();
+            googletag.pubads().collapseEmptyDivs();
+            googletag.pubads().setCentering(true);
+            googletag.pubads().disableInitialLoad();
+
+            googletag.pubads().setTargeting("env", "production");
+
+            // TODO: Krux is being loaded in the View/global/layout/base which is
+            // where most of the generic ad code should also live
+            if (Krux) {
+                googletag.pubads().setTargeting("ksg", Krux.segments);
+                googletag.pubads().setTargeting("kuid", Krux.user);
+                googletag.pubads().setTargeting("khost", encodeURIComponent(location.hostname));
+            }
+          
+            try {
+              apstag.setDisplayTargeting('amznslots');
+            } catch (e) { /*ignore*/ }
+          
+            googletag.enableServices();
+        });
+    
+Watch Ryan Adams Cover Taylor Swift on 'Daily Show' - Rolling Stone
+
+
+
+
+{
+    "@context": "http://schema.org",
+    "@type": "NewsArticle",
+    "headline": "Watch Ryan Adams Cover Taylor Swift on 'Daily Show'",
+    "publisher": {
+        "@type": "Organization",
+        "name": "Rolling Stone",
+        "sameAs": [
+            "https://www.facebook.com/RollingStone",
+            "https://www.pinterest.com/rollingstone/",
+            "https://twitter.com/RollingStone",
+            "https://plus.google.com/+RollingStone/posts",
+            "https://www.youtube.com/user/RollingStone",
+            "https://instagram.com/rollingstone/",
+            "http://rollingstone.tumblr.com/",
+            "https://www.stumbleupon.com/channel/RollingStone",
+            "https://en.wikipedia.org/wiki/Rolling_Stone"
+        ],
+        "url": "https://www.rollingstone.com",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "http://assets.wennermedia.com/rollingstone/img/RS-600x60.png",
+            "height": 60,
+            "width": 600
+        }
+    },
+    "description": "Singer-songwriter dedicates \"Blank Space\" to \"Sandra Bullock's character in the movie 'The Net'\"",
+    "datePublished": "2015-10-02T17:13:00.000Z",
+    "dateModified": "2015-10-02T17:13:00.000Z",
+    "author": [
+        {
+            "@type": "Person",
+            "name": "Brittany Spanos"
+        }
+    ],
+    "articleBody": "Ryan Adams helped cap off Trevor Noah&apos;s first week behind the desk at The Daily Show&#xA0;Thursday night as&#xA0;the host&apos;s&#xA0;first musical guest.\r\n\r\nAdams performed songs from his album of Taylor Swift covers, 1989. Thursday&apos;s performance saw the musician play&#xA0;his wistful take on Swift&apos;s drum-heavy &quot;Bad Blood,&quot; while several more tracks and a small interview appeared as online exclusives. Adams told Noah about the recording process and how the band put the album together in three weeks.\r\n\r\n\r\nThe Daily Show with Trevor NoahGet More: The Daily Show Full Episodes,The Daily Show on Facebook,The Daily Show Video Archive\r\n\r\n\r\n&quot;We have a studio in L.A., and it&apos;s an all-analog studio so we do things differently,&quot; he said. &quot;You have to basically play in real time, and we don&apos;t do anything in computers. If you can&apos;t really do it in real life, you can&apos;t really do it at all.&quot;\r\n&quot;I beg to differ,&quot; Noah added. &quot;I can do things on computers that I cannot do in real life.&quot; Adams and his band then launched into their rough, Springsteen-esque take on &quot;Style&quot; as well as their sweet, acoustic &quot;Blank Space&quot; cover. He dedicated the latter to &quot;Sandra Bullock&apos;s character in the movie The Net,&quot; a 1995 thriller about a computer programmer whose colleagues keep dying.\r\n\r\n\r\nThe Daily Show with Trevor NoahGet More: The Daily Show Full Episodes,The Daily Show on Facebook,The Daily Show Video Archive\r\n\r\n\r\nAdams&apos; 1989 came out last month, just days after he previewed his stripped-down takes on Swift&apos;s poppiest album yet on Zane Lowe&apos;s Beats 1 radio show with the official release of &quot;Bad Blood.&quot; On the day of 1989&apos;s release, Father John Misty released his own &quot;reinterpretation of the classic Ryan Adams album 1989.&quot; On his SoundCloud, he released a cover of &quot;Blank Space&quot; and &quot;Welcome to New York&quot; sung in the style of Lou Reed before taking it down the next day, citing a dream about an enraged Lou Reed as his motivation to delete the tracks.",
+    "image": {
+        "@type": "ImageObject",
+        "url": "http://img.wennermedia.com/social/rs-211539-Screen-Shot-2015-10-02-at-11.28.11-AM.jpg",
+        "height": 630,
+        "width": 1200
+    },
+    "mainEntityOfPage": "https://www.rollingstone.com/tv/news/watch-ryan-adams-cover-taylor-swift-on-daily-show-20151002"
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        window.adProduct = {};
+        
+          window.adProduct = {"blockbuster-ad":"0f32b988750c273f","custom-carousel":"679de7b8f39ca2b1","exit-intent-overlay":"eaa1e65bcef95f7e","full-width-in-stream":"760cccea451b2346","landslide":"99f534ff259ff87d","nav-iso-portrait":"ba0ed0aa97369f18","nav-iso-single-image":"ef1cfa597ff49234","push-down-skin":"196572b5e7c6ba1c","scroller":"51acc8df4089bdee","skin":"9ce1f5581282b75d","super-marquee":"227197275a203a35","video-ad-300x600":"f4d59b9906ffb81d","video-wall-ad":"1e9e388c1159a005","main":"cb3c278a7a64f0cd"};
+        
+        window.adProduct.assetsRoot = '//assets.wennermedia.com/rollingstone/css/';
+      
+
+try{Typekit.load({ async: true });}catch(e){}
+
+    if( window.location.pathname == '/country' ) {
+      var countryNavTypography = document.createElement('link');
+      countryNavTypography.type = 'text/css';
+      countryNavTypography.rel = 'stylesheet';
+      countryNavTypography.href = 'https://use.typekit.net/noy6tqh.css';
+      document.head.appendChild(countryNavTypography);
+    }
+  
+
+window.jQuery || document.write('<script src="//assets.wennermedia.com/global/js/jquery.min.js"><\/script>')
+
+
+
+
+
+        if( !dataLayer[0] ) { dataLayer[0] = {}; }
+        dataLayer[0].euURL = 'https://www.rollingstone.com/services/privacypolicy#info-collected';
+        window.euURL = 'https://www.rollingstone.com/services/privacypolicy#info-collected';
+    
+
+
+
+  var adParams = [];
+  
+    adParams.push({
+      'path': '/4236/rstone.site/music/article',
+      'ads': {
+        'top-ad-slot': {
+          'sizes': [[970, 250], [970, 125], [970, 90], [728, 90],[320, 150], [320, 100], [320, 50]]
+        },
+        'bottom-ad-slot': {
+          'sizes': [[728, 90], [320, 100], [300, 250]]
+        },
+        'right-rail-ad-slot-tall':{
+          'sizes': [[300, 600], [300, 250]]
+        },
+        'one-by-one':{
+          'sizes': [[1,1]]
+        },
+        'four-by-four':{
+          'sizes': [[4,4]]
+        },
+        'sponsor-ad-slot':{
+          'sizes':[[140,40], [80,40], [40,40]]
+        },
+        'content-card':{
+          'sizes':[[140,40], [80,40], [40,40]]
+        },
+        'oop':{
+          'sizes': []
+        },
+        'article-inbody-ad-slot': {
+          'sizes': ['fluid', [300,250]]
+        },
+        'exit-intent-overlay-ad-slot': {
+          'sizes': [[300,250]]
+        },
+        yieldmo: {
+          'sizes': [[5,5]]
+        }
+      },
+      
+      'kw': [] ,
+      'topic': ["TV","Music","The Daily Show","Late-Night TV","Brittany Spanos"]
+    });
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Follow @RollingStone
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Watch Ryan Adams Cover Taylor Swift on 'Daily Show'
+
+
+
+News
+Video
+Music
+Politics
+TV
+Movies
+Video Games
+RS Country
+RS Hip-Hop
+
+
+More
+
+News
+Video
+Music
+Politics
+TV
+Movies
+Video Games
+RS Country
+RS Hip-Hop
+Lists
+Culture
+Galleries
+Sports
+Interviews
+Long Reads
+Artists
+Ram Report
+Album Reviews
+50 Years of Music & Style
+Movie Reviews
+American Beauty
+Live Reviews
+Coverwall
+Podcasts
+50th Anniversary
+Subscribe
+The Photo Issue
+Rolling Stone Newsletter
+Glixel Newsletter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Trending
+
+
+
+
+
+Charts: Kendrick Lamar-Curated 'Black Panther' Opens at...
+
+
+
+
+
+
+
+Taibbi: If We Want Kids to Stop Killing, the Adults Have...
+
+
+
+
+
+
+
+Frances Bean Cobain Talks Addiction, Sobriety: It's 'an...
+
+
+
+
+
+
+
+The Trump-Russia-NRA Connection: Here’s What You Need to...
+
+
+
+
+
+
+
+
+Watch Ryan Adams Cover Taylor Swift on 'Daily Show'
+Singer-songwriter dedicates "Blank Space" to "Sandra Bullock's character in the movie 'The Net'"
+
+
+
+
+
+
+
+
+The Daily Show with Trevor NoahGet More: The Daily Show Full Episodes,The Daily Show on Facebook,The Daily Show Video Archive
+
+
+
+
+
+
+        By
+        
+         Brittany Spanos
+
+October 2, 2015
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+More News
+How Has Trevor Noah Changed 'The Daily Show'?
+Ryan Adams on His Full-Album Cover of Taylor Swift's '1989'
+Hear Ryan Adams' Moody Cover of Taylor Swift's 'Bad Blood'
+All Stories 
+
+
+
+
+Ryan Adams helped cap off Trevor Noah&apos;s first week behind the desk at The Daily Show Thursday night as the host&apos;s first musical guest.Related
+
+
+
+
+
+
+
+
+
+
+Trevor Noah Announces First Week of 'Daily Show' Guests
+
+        Kevin Hart, Ryan Adams to join host during his debut week
+      
+
+
+
+Adams performed songs from his album of Taylor Swift covers, 1989. Thursday&apos;s performance saw the musician play his wistful take on Swift&apos;s drum-heavy "Bad Blood," while several more tracks and a small interview appeared as online exclusives. Adams told Noah about the recording process and how the band put the album together in three weeks.
+
+
+
+
+
+
+
+The Daily Show with Trevor NoahGet More: The Daily Show Full Episodes,The Daily Show on Facebook,The Daily Show Video Archive
+
+"We have a studio in L.A., and it&apos;s an all-analog studio so we do things differently," he said. "You have to basically play in real time, and we don&apos;t do anything in computers. If you can&apos;t really do it in real life, you can&apos;t really do it at all.""I beg to differ," Noah added. "I can do things on computers that I cannot do in real life." Adams and his band then launched into their rough, Springsteen-esque take on "Style" as well as their sweet, acoustic "Blank Space" cover. He dedicated the latter to "Sandra Bullock&apos;s character in the movie The Net," a 1995 thriller about a computer programmer whose colleagues keep dying.
+
+
+
+
+
+
+
+The Daily Show with Trevor NoahGet More: The Daily Show Full Episodes,The Daily Show on Facebook,The Daily Show Video Archive
+
+Adams&apos; 1989 came out last month, just days after he previewed his stripped-down takes on Swift&apos;s poppiest album yet on Zane Lowe&apos;s Beats 1 radio show with the official release of "Bad Blood." On the day of 1989&apos;s release, Father John Misty released his own "reinterpretation of the classic Ryan Adams album 1989." On his SoundCloud, he released a cover of "Blank Space" and "Welcome to New York" sung in the style of Lou Reed before taking it down the next day, citing a dream about an enraged Lou Reed as his motivation to delete the tracks.
+
+More News
+How Has Trevor Noah Changed 'The Daily Show'?
+Ryan Adams on His Full-Album Cover of Taylor Swift's '1989'
+Hear Ryan Adams' Moody Cover of Taylor Swift's 'Bad Blood'
+All Stories 
+
+
+
+
+
+
+
+
+
+
+Topics: 
+Late-Night TV
+The Daily Show
+
+
+
+
+Don’t Miss a Story
+Sign up for our newsletter to receive breaking news directly in your inbox.
+Please enable javascript to sign up for the newsletter.
+
+
+
+
+
+
+
+        We may use your e-mail address to send you the newsletter and offers that may interest you, on behalf of Rolling Stone and its partners. For more information please read our Privacy Policy
+
+How we use your email address
+
+
+
+
+
+
+
+
+
+
+
+
+
+Trending
+
+Ranked on a scale from 1 to 10, the trending score reflects the number of users reading a story in real time.
+What is this?
+
+
+
+Charts: Kendrick Lamar-Curated 'Black...
+
+
+
+
+8.9
+
+
+
+
+
+
+
+Taibbi: If We Want Kids to Stop Killing, the...
+
+
+
+
+7.9
+
+
+
+
+
+
+
+Frances Bean Cobain Talks Addiction,...
+
+
+
+
+7.3
+
+
+
+
+
+
+
+The Trump-Russia-NRA Connection: Here’s What...
+
+
+
+
+7.1
+
+
+
+
+
+
+
+How Women and Tech Took Over Porn: Inside the...
+
+
+
+
+6.8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+© Rolling Stone 2018Digital Edition
+Subscribe
+Give a Gift
+Coverwall
+Contact
+Privacy Policy
+Your Privacy Rights
+Your Ad Choices
+Terms of Use
+Customer Service
+Advertise
+
+
+
+
+  // Static Queue Snippet
+  !function(t,n){t[n]=t[n]||{nlsQ:function(e,o,c,r,s,i){return s=t.document,r=s.createElement("script"),r.async=1,r.src=("http:"===t.location.protocol?"http:":"https:")+"//cdn-gl.imrworldwide.com/conf/"+e+".js#name="+o+"&ns="+n,i=s.getElementsByTagName("script")[0],i.parentNode.insertBefore(r,i),t[n][o]=t[n][o]||{g:c||{},ggPM:function(e,c,r,s,i){(t[n][o].q=t[n][o].q||[]).push([e,c,r,s,i])}},t[n][o]}}}(window,"NOLBUNDLE");
+
+  // SDK Initialization
+  var nSdkInstance = NOLBUNDLE.nlsQ("PC34B4FEE-36A1-4CD3-B298-FDF5E06E44B7","nlsnInstance");
+
+  // Content Metadata
+  var nielsenMetadata = {
+    type: 'static',
+    assetid: 'content-361163', // *DYNAMIC METADATA*: unique ID for each article **REQUIRED**
+    section: 'TV', // *DYNAMIC METADATA*: section of site **REQUIRED**
+    segA: '', // *DYNAMIC METADATA*: custom segment
+    segB: '', // *DYNAMIC METADATA*: custom segment
+    segC: ''  // *DYNAMIC METADATA*: custom segment
+  };
+
+  // Event 'staticstart' Call
+  nSdkInstance.ggPM("staticstart", nielsenMetadata);
+
+
+    (function() {
+      [
+        "//assets.wennermedia.com/rollingstone/js/cookie.a43341884adb606b.js", 
+        "//assets.wennermedia.com/rollingstone/js/nunjucks-slim.e38d67d8fa66792c.js",
+        "//assets.wennermedia.com/rollingstone/js/main-minus-ads.631a87fad22d46bd.js"
+      ].forEach(function(path){
+        var script = document.createElement('script');
+        script.src = path;
+        script.defer = true;
+        script.async = true;
+        document.getElementsByTagName('body')[0].appendChild(script);
+      })
+    })();
+  
+
+    if (document.cookie.indexOf('eucheck=true') > -1) {
+      
+      var cookieScript = document.createElement('script');
+      cookieScript.src = "//assets.wennermedia.com/rollingstone/js/cookie.a43341884adb606b.js";
+      cookieScript.onload = function(){
+        var euJS = document.createElement('script');
+        euJS.src = "//assets.wennermedia.com/rollingstone/js/eu-notice.bd645c8ce05551e0.js";
+        document.getElementsByTagName('body')[0].appendChild(euJS);
+        var euCSS = document.createElement('link');
+        euCSS.href = "//assets.wennermedia.com/rollingstone/css/eu-notice.9b1f54ed8728d8b4.css";
+        euCSS.rel = "stylesheet";
+        document.getElementsByTagName('body')[0].appendChild(euCSS);
+      }
+
+      document.getElementsByTagName('body')[0].appendChild(cookieScript);
+    }
+  
+
+
+
+
+
+
+
+

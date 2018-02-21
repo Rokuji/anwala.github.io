@@ -1,0 +1,283 @@
+https://www.globalcitizen.org/en/festival/2016/outcomes/
+
+  Global Citizen Festival 2016 - Outcomes
+
+      document.documentElement.setAttribute('data-useragent',  navigator.userAgent);
+      document.documentElement.setAttribute('data-iframe', !!window.frameElement);
+      if (window.frameElement) {
+        var parentUrl = window.parent.location.pathname;
+        var urlContainsQueryParams = window.location.href.match(/\?/);
+        var queryString = (urlContainsQueryParams ? '&' : '?') + "parent=" + encodeURI(parentUrl);
+        var newUrl = window.location.href + queryString;
+        window.history.replaceState(null, null, newUrl);
+      }
+    
+  
+   
+      .headline__category--advocacy {
+        background-color: #D62027;
+      }
+    
+  
+   
+      .headline__category--opinion {
+        background-color: #3FB34F;
+      }
+    
+  
+   
+      .headline__category--partner {
+        background-color: #FF6600;
+      }
+    
+  
+   
+      .headline__category--impact {
+        background-color: #0072bc;
+      }
+    
+  
+   
+      .headline__category--rewards {
+        background-color: #706EBC;
+      }
+    
+  
+
+      var _vwo_code=(function(){
+      var account_id=170957,
+      settings_tolerance=2000,
+      library_tolerance=2500,
+      use_existing_jquery=false,
+      // DO NOT EDIT BELOW THIS LINE
+      f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+    
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-33907097-1', {'alwaysSendReferrer': true, 'cookieDomain': 'none'});
+  
+  ga('set', 'page', window.location.pathname);
+  ga('send', 'pageview');
+
+×
+                
+                  Welcome back!
+                  Sign in to start taking action.
+                
+              Not a Global Citizen yet?
+                Sign upSign in  with FacebookorSubmitRemember meForget your password?×
+          Thanks for signing up as a global citizen. In order to create your account we need you to provide your email address. You can check out our Privacy Policy to see how we safeguard and use the information you provide us with. If your Facebook account does not have an attached e-mail address, you'll need to add that before you can sign up.
+        Rerequest  with Facebook×This account has been deactivated.
+          Please contact us at contact@globalcitizen.org if you would like to re-activate your account.
+        GLOBAL CITIZENFeatured storiesVideosAbout usLearn more#root.vote-landing .festival-banner .banner-text {
+    top: calc(50% - 81px);
+}
+#root.vote-landing .festival-banner .banner-text .banner-headline {
+    line-height: 50px;
+}
+@media (max-width: 599px){
+    #root.vote-landing .festival-banner .banner-text .banner-headline {
+        line-height: 35px;
+    }
+}
+Global Citizen Festival 20161.3 million actions leading to 47 commitments and announcements worth $1.9 billion that are set to reach 199 million people.Ahead of the Global Citizen Festival 2016, Global Citizens around the world took more than 1.3 million actions over three months to:Secure 20 new commitments 9 announcements and 14 calls to action to achieve the Global Goals for Sustainable Development.Ensure accountability and delivery of 4 commitments made in the past on Global Citizen platforms.Push forward 5 campaigns on which further action is needed to ensure that world leaders keep their promises to citizens.Together, these commitments and announcements are worth $1.9 billion, and are set to reach 199 million people.Featured Stories from the FestivalImpactCitizenship
+        
+        
+          How Global Citizen Festival 2016 Is Making the World a Better Place
+        
+      Citizenship
+        
+          5 Most Powerful Moments of the 2016 Global Citizen Festival
+        
+      ImpactCitizenship
+        
+          The Very Best Moments of Global Citizen Festival 2016: Impact, Music, Celebs, and More
+        
+      #root.vote-landing .event-list {
+    margin-top: 0px;
+    padding-top: 0px;
+All the best videos from the festivalAbout Global CitizenWho we areWe are a social action platform for a global generation that wants to solve the world’s biggest challengesOur impactAll your questions about Global Citizen's impact answered.FAQsFor all your questions about Global Citizen, the Global Citizen Festival and our programsOur partnersLearn more about how our partner organizations are supporting the movement.Festival press coverage#root.vote-landing .col-half {
+    padding-top: 0px;
+}
+Global Citizen Festival: a mash-up of music fans, bands and prime ministersThe Economist | Oct 1st 2016“Making Change” at the Global Citizen Music FestivalThe New Yorker | Sept 26 2016With Rihanna's aid, Global Citizen calls out world leaders for weak efforts to end povertyMic.com | Sept 25 2016Rihanna, Kendrick, Metallica Play at Global Citizen FestAssociated Press | Sept 25 2016Action vowed for refugees in concert led by Metallica, RihannaAgence France-Presse | Sept 25 20165 highlights from this year's Global Citizen FestivalEntertainment Weekly | Sept 25 2016Watch Eddie Vedder, Chris Martin's Joint Global Citizen SetRolling Stone | Sept 25 2016Rihanna gets emotional in speech at Global Citizen Festival 2016Entertainment News | Sept 26 2016Learn moreGirls & Women
+          Gucci and CHIME FOR CHANGE Promote Gender Equality at the 2016 Global Citizen Festival
+        Sept. 28, 2016|CHIME FOR CHANGE
+          Gucci and CHIME FOR CHANGE #showup for gender equality. 
+           Read moreCitizenship
+          Hosts Dazzle at Global Citizen Festival 2016
+        
+          
+            
+
+  By
+  
+    
+      Meghan Werft|Sept. 26, 2016
+          Our stellar lineup of hosts made big announcements at this year’s Global Citizen Festival. 
+           Read moreCitizenship
+          ICYMI: These Headliners Rocked at Global Citizen Festival 2016
+        
+          
+            
+
+  By
+  
+    
+      Sydney Denmark|Sept. 26, 2016
+          Highlights: Rihanna, Kendrick Lamar, Demi Lovato, Metallica, and Major Lazer in Central Park.
+           Read moreCitizenship
+          World Leaders Took to Twitter to Celebrate Global Citizen Festival 2016
+        
+          
+            
+
+  By
+  
+    
+      Phineas Rueckert|Sept. 26, 2016
+          Some leaders #ShowUp at GC Festival, while others #BeamIn from abroad.
+           Read moreCitizenship
+          Here's What Global Citizens Everywhere Had to Say About the #GCFestival
+        
+          
+            
+
+  By
+  
+    
+      Phineas Rueckert|Sept. 26, 2016
+          Some of our favorite fan posts from the Global Citizen Festival.
+           Read moreCitizenship
+          Some of the Best Musical Moments of Global Citizen Festival on Instagram
+        
+          
+            
+
+  By
+  
+    
+      Cassie Carothers|Sept. 25, 2016
+          Rihanna finished out the night with a stunning show.
+           Read more.part-ners.content-wrapper {
+    border-top: 1px solid #000;
+    margin-top: 20px;
+}
+  .partner-section-icon li img{
+    max-width: 115px;
+  }
+@media screen and (max-width: 560px) {
+  .partner-section-icon li{
+    padding-bottom: 20px;
+  }
+}
+
+.static-page .partner-icons {
+    text-align: left;
+}
+
+.partners-secondary {
+    display: inline-block;
+    font-family: "MarkWebPro-Heavy-W03-Regular";
+    color: #000;
+    font-size: 16.62px;
+    font-weight: 300;
+    line-height: 24px;
+}
+
+.partner-section-icon li {
+    margin-right: 30%;
+    display: inline-block;
+    margin-left: 4%;
+}
+PartnersPresented byPremier Media PartnerMajor PartnersAssociate PartnersABOUTWho We AreImpactFAQContact UsJobsJOIN THE CONVERSATIONPrivacyTerms & Conditions© 2012-2018 Global Poverty Project, Inc All Rights Reserved
+        $(function() {
+          ReactDOM.render(
+            React.createElement(CanadaLanguagePopover, {}),
+            document.getElementById('canada-language-popover')
+          );
+        });
+      
+    $(function() {
+      var container = document.getElementById('Nav');
+      var component = React.createElement(Nav, {
+        staticAssetPath: '/static/',
+        languageCodeInput: '#languageCode',
+        setLanguageForm: '#setLanguage'
+      });
+      ReactDOM.render(component, container);
+
+      $('.has-dd').on('click', function (event) {
+        $(this).toggleClass('active').next().toggleClass('visible');
+        event.preventDefault();
+      });
+    });
+  
+    $(function() {
+      var languageSelect = React.createElement(LanguageSelect, {});
+      ReactDOM.render(languageSelect, document.getElementById('languageSelectContainer'))
+
+      $('.language').on('click', function (event) {
+        $('.language ul').slideToggle().parent().toggleClass('active');
+        event.preventDefault();
+      });
+    });
+  
+    window.onload = function() {
+      window.utils.smoothScroll(".smooth-scroll-to-anchor");
+    };
+  
+    window.fbAsyncInit = function() {
+      FB.init({
+        appId      : '167247350078234',
+        xfbml      : true,
+        version    : 'v2.8'
+      });
+    };
+    (function(d, s, id){ var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) {return;} js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/sdk.js"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));
+  
+          English (en)
+        
+          Deutsch (de)
+        
+          français (fr)
+        
+          español (es)
+        
+    $(function() {
+      DialogUtils.polyfillDialogs();
+
+          var shadowUserClient = new ShadowUserClient();
+          shadowUserClient.getShadowUser(function(props) {
+            props.shadowUserClient = shadowUserClient;
+
+            if (window.ga !== undefined) {
+              props.analytics = ga;
+            } else {
+              props.analytics = function(action, actionType, actionLocation) {
+                console.log("action: " + action);
+                console.log("actionType: " + actionType);
+                console.log("actionLocation: " + actionLocation);
+              }
+            };
+
+            var reactRegisterDialog = React.createElement(RegisterDialog, props);
+            ReactDOM.render(reactRegisterDialog, document.getElementById("registerDialogContainer"));
+        });
+    });
+  
+   $(function() {
+     var cookieWarning = React.createElement(CookieWarning, {});
+     ReactDOM.render(cookieWarning, document.getElementById('cookie-warning'));
+   });
+  
+  $(document).ready(function($) {
+	  $('a')
+		  .filter('[href^="http"]')
+		  .not('[href*="' + window.location.host + '"]')
+		  .attr('rel', 'noopener noreferrer')
+		  .attr('target', '_blank');
+  });
+  

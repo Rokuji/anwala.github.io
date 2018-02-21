@@ -1,0 +1,158 @@
+https://www.instagram.com/p/BDQVWGTMYyX/
+
+
+
+
+  
+
+
+
+Kaká on Instagram: “🙏🏼🇧🇪”
+
+
+
+
+
+
+
+
+
+        (function() {
+            var docElement = document.documentElement;
+            var classRE = new RegExp('(^|\\s)no-js(\\s|$)');
+            var className = docElement.className;
+            docElement.className = className.replace(classRE, '$1js$2');
+        })();
+        
+
+        (function() {
+          if ('PerformanceObserver' in window && 'PerformancePaintTiming' in window) {
+            window.__bufferedPerformance = [];
+            var ob = new PerformanceObserver(function(e) {
+              window.__bufferedPerformance.push.apply(window.__bufferedPerformance,e.getEntries());
+            });
+            ob.observe({entryTypes:['paint']});
+          }
+        })();
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+window._sharedData = {"activity_counts":null,"config":{"csrf_token":"VTVqSOwmDJQdJxd64sUA7ZW9DAr3ffrx","viewer":null},"country_code":"US","language_code":"en","locale":"en_US","entry_data":{"PostPage":[{"graphql":{"shortcode_media":{"__typename":"GraphImage","id":"1211562177332350103","shortcode":"BDQVWGTMYyX","dimensions":{"height":750,"width":750},"gating_info":null,"media_preview":"ACoq54sexNaGnbjvGSTx3+tUGAB45x/n/wDVV20HySHofl/rWc/hfy/NFx3NaHAALNkHIXGcEg4P5dqW8G2Lj+8KqxH9xB/vOf1NOvXJTnuRXJyvmWvV/gzph9mXmUtx9TUWfc/nTu1NrdHZKzKowOv4Vct3wkn0H9apYySB2pRIVVlH8WP0raSuren5nkp2NsJiGAexP5n/AOvTLobkBHbAP+fek3iZIgcjA2YA9MYP44xTpz+646Eg/TsR/n2rlV7+d3+bOyCvFLsyjSYpVppBrU6OhC6bR71GI8uI+vOP1qxP0FRQf61frWz2ueX1Ni6cQeWOMg5P06DNPfBDL/ewVx09CP5H8jWffnMw/wBwfzNSxk4H1H/oNcqWifV/53Oqm9WQ4xx3FMIFMcnJ+tR5Na2N3LbQ/9k=","display_url":"https://instagram.forf1-1.fna.fbcdn.net/vp/a986c726a3360b6670f5d26dd58d62a2/5B0AC0BD/t51.2885-15/e35/12093465_214466998909392_362951577_n.jpg","display_resources":[{"src":"https://instagram.forf1-1.fna.fbcdn.net/vp/44b3a7936f7943cf17d26c5f3dff22c8/5B1A680B/t51.2885-15/s640x640/sh0.08/e35/12093465_214466998909392_362951577_n.jpg","config_width":640,"config_height":640},{"src":"https://instagram.forf1-1.fna.fbcdn.net/vp/a986c726a3360b6670f5d26dd58d62a2/5B0AC0BD/t51.2885-15/e35/12093465_214466998909392_362951577_n.jpg","config_width":750,"config_height":750},{"src":"https://instagram.forf1-1.fna.fbcdn.net/vp/a986c726a3360b6670f5d26dd58d62a2/5B0AC0BD/t51.2885-15/e35/12093465_214466998909392_362951577_n.jpg","config_width":1080,"config_height":1080}],"is_video":false,"should_log_client_event":false,"tracking_token":"eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiNmQyOTI5NWIyNDU4NDhkNzkyOWY2ZDU1ZDdjNmM0MDcxMjExNTYyMTc3MzMyMzUwMTAzIn0sInNpZ25hdHVyZSI6IiJ9","edge_media_to_tagged_user":{"edges":[]},"edge_media_to_caption":{"edges":[{"node":{"text":"\ud83d\ude4f\ud83c\udffc\ud83c\udde7\ud83c\uddea"}}]},"caption_is_edited":false,"edge_media_to_comment":{"count":937,"page_info":{"has_next_page":true,"end_cursor":"AQB98V7drER25dggq_Pg9dzLbEi16n59w5Z_7BmVTMKeywUf2NhQ6ug_YuDoTQxO5-NlwTPYyZ5QdK-nCxaQCxL3VvQ4b0bYLBB-f2Q2QNvGsA"},"edges":[{"node":{"id":"17855619361009304","text":"Not at all!","created_at":1460487005,"owner":{"id":"3001047924","profile_pic_url":"https://instagram.forf1-1.fna.fbcdn.net/vp/43cb16a2fd58315a125a9bef9382ac03/5B0421DC/t51.2885-19/s150x150/22071063_276362942874875_2761149872332603392_n.jpg","username":"musamahmoodi14"}}},{"node":{"id":"17855844028009304","text":"And ecuador. We ate people too","created_at":1461193125,"owner":{"id":"174991993","profile_pic_url":"https://instagram.forf1-1.fna.fbcdn.net/vp/16cf3381edbb43aea603f5d082783735/5B1AA7F4/t51.2885-19/s150x150/18645697_740474086133603_604966136714362880_a.jpg","username":"max_abad"}}},{"node":{"id":"17855844031009304","text":"Are*","created_at":1461193132,"owner":{"id":"174991993","profile_pic_url":"https://instagram.forf1-1.fna.fbcdn.net/vp/16cf3381edbb43aea603f5d082783735/5B1AA7F4/t51.2885-19/s150x150/18645697_740474086133603_604966136714362880_a.jpg","username":"max_abad"}}},{"node":{"id":"17855913244009304","text":"PRAY FOR TURKEY","created_at":1461343179,"owner":{"id":"1487413708","profile_pic_url":"https://instagram.forf1-1.fna.fbcdn.net/vp/afd66964b64b94a646b584693722150a/5B1B5C57/t51.2885-19/s150x150/26873093_389527854831406_3026232745580822528_n.jpg","username":"umutakkus10"}}},{"node":{"id":"17855914828009304","text":"PRAY FOR TURKEY","created_at":1461347872,"owner":{"id":"589158137","profile_pic_url":"https://instagram.forf1-1.fna.fbcdn.net/vp/bd684e4ea62819ff745f6bd6355e167d/5B219DB9/t51.2885-19/s150x150/20347632_121196305171630_149152106677272576_a.jpg","username":"eefecesur"}}},{"node":{"id":"17855917075009304","text":"@christian_17mos  senin avratini sikerim yavsak sen kimsin lan mk cocugu","created_at":1461354241,"owner":{"id":"961633920","profile_pic_url":"https://instagram.forf1-1.fna.fbcdn.net/vp/f918a29da352417698f5383346e021aa/5B090FEB/t51.2885-19/s150x150/26864529_863339567179403_4283616930092285952_n.jpg","username":"furkan_zfr"}}},{"node":{"id":"17855919433009304","text":"@christian_17mos anas\u0131n\u0131n am\u0131na koydu\u011fum ermenisini","created_at":1461361199,"owner":{"id":"997803943","profile_pic_url":"https://instagram.forf1-1.fna.fbcdn.net/vp/380ccbe03aeadfb72e98f728d3326fff/5B0141AC/t51.2885-19/s150x150/22427019_1904314716486673_6001416158421450752_n.jpg","username":"tamermuslu"}}},{"node":{"id":"17855957425009304","text":"Lan ermeni tohumu ebeni sikerim senin @christian_17mos","created_at":1461491005,"owner":{"id":"1603489929","profile_pic_url":"https://instagram.forf1-1.fna.fbcdn.net/vp/87a9fe288d824881b91f35e178815451/5B255B98/t51.2885-19/s150x150/27578423_1943626239298735_7621303781807882240_n.jpg","username":"seyitk58"}}},{"node":{"id":"17856138838009304","text":"more than 2000 people dead yesterday in Syrie and  no body said something","created_at":1461971044,"owner":{"id":"982748733","profile_pic_url":"https://instagram.fhen1-1.fna.fbcdn.net/vp/3230896e49952035c4a21d078561d30f/5B1DB27A/t51.2885-19/11906329_960233084022564_1448528159_a.jpg","username":"mahmoud__khaled"}}},{"node":{"id":"17856267520009304","text":"Kaka you are the best player for me since I watch football. You are the best","created_at":1462378240,"owner":{"id":"2935015290","profile_pic_url":"https://instagram.forf1-1.fna.fbcdn.net/vp/a3af1621ea6fae2bbbc6fb1931d99a8d/5B1C235A/t51.2885-19/s150x150/13391251_589474757896331_372846914_a.jpg","username":"ca3v"}}},{"node":{"id":"17856504277009304","text":"How about Turkey? How about Lebanon? How about Syria? You should not blindly follow the Western media...","created_at":1462988020,"owner":{"id":"2275243054","profile_pic_url":"https://instagram.fhen1-1.fna.fbcdn.net/vp/3230896e49952035c4a21d078561d30f/5B1DB27A/t51.2885-19/11906329_960233084022564_1448528159_a.jpg","username":"dictatorin"}}},{"node":{"id":"17856567880009304","text":"@dictatorinspe and Pakistan","created_at":1463183293,"owner":{"id":"2960611169","profile_pic_url":"https://instagram.fhen1-1.fna.fbcdn.net/vp/3230896e49952035c4a21d078561d30f/5B1DB27A/t51.2885-19/11906329_960233084022564_1448528159_a.jpg","username":"alihassan_555"}}},{"node":{"id":"17856655654009304","text":"Nigeria @kaka","created_at":1463423823,"owner":{"id":"502767005","profile_pic_url":"https://instagram.forf1-1.fna.fbcdn.net/vp/0fa1f8ac69071fea90e21dfd92a9f7a8/5B20FD98/t51.2885-19/11085053_667407020052646_1853353715_a.jpg","username":"chidozie_ahaneku"}}},{"node":{"id":"17857656445009304","text":"@dictatorin he's western. Brazilians are western..","created_at":1466286579,"owner":{"id":"1358014347","profile_pic_url":"https://instagram.forf1-1.fna.fbcdn.net/vp/331ea3b65106c87fdeeb9c6689883368/5B06DDFF/t51.2885-19/11208519_841493055926788_607476556_a.jpg","username":"bybyrowski"}}},{"node":{"id":"17857656478009304","text":"Brazil is not considered as a western country @bybyrowski","created_at":1466286656,"owner":{"id":"2275243054","profile_pic_url":"https://instagram.fhen1-1.fna.fbcdn.net/vp/3230896e49952035c4a21d078561d30f/5B1DB27A/t51.2885-19/11906329_960233084022564_1448528159_a.jpg","username":"dictatorin"}}},{"node":{"id":"17857671142009304","text":"@dictatorin LOL","created_at":1466327520,"owner":{"id":"1358014347","profile_pic_url":"https://instagram.forf1-1.fna.fbcdn.net/vp/331ea3b65106c87fdeeb9c6689883368/5B06DDFF/t51.2885-19/11208519_841493055926788_607476556_a.jpg","username":"bybyrowski"}}},{"node":{"id":"17857733992009304","text":"I'M YOUR FANS. I'M CHINESE","created_at":1466481056,"owner":{"id":"3027972070","profile_pic_url":"https://instagram.forf1-1.fna.fbcdn.net/vp/0dea00115e50a2abf31a10cc75b8b2d7/5B07BD28/t51.2885-19/s150x150/12599397_200414270338546_860312749_a.jpg","username":"zhaoshengtao"}}},{"node":{"id":"17857734016009304","text":"I'M REAL MADRID'S FAN","created_at":1466481103,"owner":{"id":"3027972070","profile_pic_url":"https://instagram.forf1-1.fna.fbcdn.net/vp/0dea00115e50a2abf31a10cc75b8b2d7/5B07BD28/t51.2885-19/s150x150/12599397_200414270338546_860312749_a.jpg","username":"zhaoshengtao"}}},{"node":{"id":"17858944279009304","text":"@b7ln","created_at":1469205632,"owner":{"id":"2229194142","profile_pic_url":"https://instagram.forf1-1.fna.fbcdn.net/vp/4a79dd0928f561fa841bec0b731255af/5B11C23B/t51.2885-19/s150x150/21879069_130933334217553_849211460729962496_n.jpg","username":"6ovie"}}},{"node":{"id":"17858944333009304","text":"@abdulaziz.28","created_at":1469205751,"owner":{"id":"2229194142","profile_pic_url":"https://instagram.forf1-1.fna.fbcdn.net/vp/4a79dd0928f561fa841bec0b731255af/5B11C23B/t51.2885-19/s150x150/21879069_130933334217553_849211460729962496_n.jpg","username":"6ovie"}}},{"node":{"id":"17858944339009304","text":"@gooal_rmd","created_at":1469205780,"owner":{"id":"2229194142","profile_pic_url":"https://instagram.forf1-1.fna.fbcdn.net/vp/4a79dd0928f561fa841bec0b731255af/5B11C23B/t51.2885-19/s150x150/21879069_130933334217553_849211460729962496_n.jpg","username":"6ovie"}}},{"node":{"id":"17858944393009304","text":"@br.juventus1","created_at":1469205882,"owner":{"id":"2229194142","profile_pic_url":"https://instagram.forf1-1.fna.fbcdn.net/vp/4a79dd0928f561fa841bec0b731255af/5B11C23B/t51.2885-19/s150x150/21879069_130933334217553_849211460729962496_n.jpg","username":"6ovie"}}},{"node":{"id":"17858944582009304","text":"@madridi.ksa @dr.wsw","created_at":1469206342,"owner":{"id":"2229194142","profile_pic_url":"https://instagram.forf1-1.fna.fbcdn.net/vp/4a79dd0928f561fa841bec0b731255af/5B11C23B/t51.2885-19/s150x150/21879069_130933334217553_849211460729962496_n.jpg","username":"6ovie"}}},{"node":{"id":"17858949679009304","text":"@sheva47 \ud83d\ude0e\u2764\ufe0f","created_at":1469215223,"owner":{"id":"1800758708","profile_pic_url":"https://instagram.forf1-1.fna.fbcdn.net/vp/cd0fa5f433cb702c152b7cd3d74d3894/5B0D3978/t51.2885-19/s150x150/20760024_1266252760170940_3194212803472785408_a.jpg","username":"_rma8"}}},{"node":{"id":"17859090418009304","text":"My hero .... The legend  of soccer \u2764\ufe0f\ud83d\ude0d @kaka","created_at":1469520799,"owner":{"id":"1579814242","profile_pic_url":"https://instagram.fhen1-1.fna.fbcdn.net/vp/3230896e49952035c4a21d078561d30f/5B1DB27A/t51.2885-19/11906329_960233084022564_1448528159_a.jpg","username":"etioo0"}}},{"node":{"id":"17859791896009304","text":"You are my legend\u2764\ufe0f","created_at":1470321572,"owner":{"id":"1749209610","profile_pic_url":"https://instagram.forf1-1.fna.fbcdn.net/vp/a6f45737410ddbe4b38d91d86054dced/5B0CE1A6/t51.2885-19/s150x150/27580443_743592852493235_3751168082060509184_n.jpg","username":"63.v_"}}},{"node":{"id":"17859791911009304","text":"come back to milan please\u2763","created_at":1470321603,"owner":{"id":"1749209610","profile_pic_url":"https://instagram.forf1-1.fna.fbcdn.net/vp/a6f45737410ddbe4b38d91d86054dced/5B0CE1A6/t51.2885-19/s150x150/27580443_743592852493235_3751168082060509184_n.jpg","username":"63.v_"}}},{"node":{"id":"17861326984009304","text":"Bravi mm","created_at":1472503175,"owner":{"id":"2178322132","profile_pic_url":"https://instagram.forf1-1.fna.fbcdn.net/vp/0373eda3656c40f89a3abdec3c6c1dc4/5B1A42ED/t51.2885-19/s150x150/17334156_192122341280000_7787554033031446528_a.jpg","username":"davide_barbieri_22_"}}},{"node":{"id":"17861326993009304","text":"Bravo","created_at":1472503179,"owner":{"id":"2178322132","profile_pic_url":"https://instagram.forf1-1.fna.fbcdn.net/vp/0373eda3656c40f89a3abdec3c6c1dc4/5B1A42ED/t51.2885-19/s150x150/17334156_192122341280000_7787554033031446528_a.jpg","username":"davide_barbieri_22_"}}},{"node":{"id":"17861326999009304","text":"***","created_at":1472503184,"owner":{"id":"2178322132","profile_pic_url":"https://instagram.forf1-1.fna.fbcdn.net/vp/0373eda3656c40f89a3abdec3c6c1dc4/5B1A42ED/t51.2885-19/s150x150/17334156_192122341280000_7787554033031446528_a.jpg","username":"davide_barbieri_22_"}}},{"node":{"id":"17861830195009304","text":"@dictatorin  where are you from.bro","created_at":1473276908,"owner":{"id":"2212576864","profile_pic_url":"https://instagram.forf1-1.fna.fbcdn.net/vp/f7e65041f241263346da8aa689441142/5B0EABA6/t51.2885-19/s150x150/18252876_122520151642886_7577128501275262976_a.jpg","username":"1_olcay_l70"}}},{"node":{"id":"17861830210009304","text":"@christian_17mos fck you","created_at":1473276926,"owner":{"id":"2212576864","profile_pic_url":"https://instagram.forf1-1.fna.fbcdn.net/vp/f7e65041f241263346da8aa689441142/5B0EABA6/t51.2885-19/s150x150/18252876_122520151642886_7577128501275262976_a.jpg","username":"1_olcay_l70"}}},{"node":{"id":"17861866258009304","text":"@fenerliekremabi  Germany","created_at":1473349230,"owner":{"id":"2275243054","profile_pic_url":"https://instagram.fhen1-1.fna.fbcdn.net/vp/3230896e49952035c4a21d078561d30f/5B1DB27A/t51.2885-19/11906329_960233084022564_1448528159_a.jpg","username":"dictatorin"}}},{"node":{"id":"17861868823009304","text":"@dictatorin  du kanne deutsch","created_at":1473354429,"owner":{"id":"2212576864","profile_pic_url":"https://instagram.forf1-1.fna.fbcdn.net/vp/f7e65041f241263346da8aa689441142/5B0EABA6/t51.2885-19/s150x150/18252876_122520151642886_7577128501275262976_a.jpg","username":"1_olcay_l70"}}},{"node":{"id":"17861872765009304","text":"@fenerliekremabi  ja?...","created_at":1473362500,"owner":{"id":"2275243054","profile_pic_url":"https://instagram.fhen1-1.fna.fbcdn.net/vp/3230896e49952035c4a21d078561d30f/5B1DB27A/t51.2885-19/11906329_960233084022564_1448528159_a.jpg","username":"dictatorin"}}},{"node":{"id":"17862355636009304","text":"Good","created_at":1474191945,"owner":{"id":"3487908889","profile_pic_url":"https://instagram.forf1-1.fna.fbcdn.net/vp/b2a9a7f27301a74c9ae9b659cc0006e7/5B0D5638/t51.2885-19/s150x150/13551638_1620960498195508_1705508426_a.jpg","username":"intan4388"}}},{"node":{"id":"17864401732014587","text":"Whay Garmany","created_at":1478374569,"owner":{"id":"1817234922","profile_pic_url":"https://instagram.forf1-1.fna.fbcdn.net/vp/0a59339410b12788c62163995d721864/5B12353F/t51.2885-19/s150x150/22071091_140388703246984_8714623655880949760_n.jpg","username":"r.kh93"}}},{"node":{"id":"17844655810178211","text":"Syria ??","created_at":1479942180,"owner":{"id":"877345115","profile_pic_url":"https://instagram.forf1-1.fna.fbcdn.net/vp/8c1c457e5445908b0886d4320b51482d/5B1CA210/t51.2885-19/s150x150/27581885_174042873324269_9060603049898147840_n.jpg","username":"livvx8"}}},{"node":{"id":"17859970687126768","text":"Kaka \ud83c\uddf9\ud83c\uddf7 t\u00fcrkiyede seni seviyoruz biz ama sen bek\u00e7ikada ter\u00f6r olunca ac\u0131n\u0131 payla\u015f\u0131yosun ya biz t\u00fcrkiye ?? Suriye?? Iraq?? Bu \u00fclkelere neden tepkisiz kal\u0131yorsunuz art\u0131k seni sevmiyorum @kaka","created_at":1486445392,"owner":{"id":"1467409626","profile_pic_url":"https://instagram.forf1-1.fna.fbcdn.net/vp/2fe069d5e8575a0e373838e1fe2a51e8/5B1F704B/t51.2885-19/s150x150/26228458_1007523869389019_8483958490174324736_n.jpg","username":"gkn_incedere"}}},{"node":{"id":"17860317025184259","text":"Belgium \ud83c\udde7\ud83c\uddea","created_at":1498440045,"owner":{"id":"982593740","profile_pic_url":"https://instagram.forf1-1.fna.fbcdn.net/vp/2a91c27d6216ef3e9e463918992ed476/5B02D76D/t51.2885-19/s150x150/27581694_161511817982276_5969651877380358144_n.jpg","username":"raniegustavo_"}}}]},"comments_disabled":false,"taken_at_timestamp":1458649488,"edge_media_preview_like":{"count":106377,"edges":[{"node":{"id":"1983751351","profile_pic_url":"https://instagram.forf1-1.fna.fbcdn.net/vp/0a49b1c9172c7b0b179c0a4f52536166/5B1AFC89/t51.2885-19/s150x150/22499757_290548991461184_888896795336245248_n.jpg","username":"moaz_osamaa"}},{"node":{"id":"2867376135","profile_pic_url":"https://instagram.forf1-1.fna.fbcdn.net/vp/ad05b1da7975d4b3e4a8a7dc9e53a6a0/5B16CD96/t51.2885-19/s150x150/26864464_737742019755532_2938442767942025216_n.jpg","username":"putraarman18"}},{"node":{"id":"2956027852","profile_pic_url":"https://instagram.forf1-1.fna.fbcdn.net/vp/f1d9b5638f11397f46e152fce13593b3/5B2565E6/t51.2885-19/s150x150/26279258_165345127558166_6651896952629755904_n.jpg","username":"mahmoud99alaa88"}},{"node":{"id":"5394704570","profile_pic_url":"https://instagram.forf1-1.fna.fbcdn.net/vp/d1a793697fb2bea61cbcda744eb0ce2f/5B0C7AF8/t51.2885-19/s150x150/21910161_720741601445381_5487982775581540352_n.jpg","username":"ricki_bega_13"}},{"node":{"id":"5706978887","profile_pic_url":"https://instagram.forf1-1.fna.fbcdn.net/vp/3429ed31cda91b671da7c37e34eb4ae1/5B1A1BFF/t51.2885-19/s150x150/21689486_117546085620114_9217059916693372928_n.jpg","username":"msierra_905"}},{"node":{"id":"3140004286","profile_pic_url":"https://instagram.forf1-1.fna.fbcdn.net/vp/34878f1f88c8f704eef4d50f803a5f6c/5B1A4422/t51.2885-19/s150x150/21480195_130976217528788_6804727728860823552_n.jpg","username":"dhypradipta"}},{"node":{"id":"5652471452","profile_pic_url":"https://instagram.forf1-1.fna.fbcdn.net/vp/a41ecfc4985c1df74cb4d3370d87a923/5B11F996/t51.2885-19/s150x150/20582515_261172167717826_7401482120033468416_a.jpg","username":"lec_dardhaj_"}},{"node":{"id":"1392535324","profile_pic_url":"https://instagram.forf1-1.fna.fbcdn.net/vp/39e8bc178ae7890035603afd7965fc1d/5B18136F/t51.2885-19/s150x150/26073736_327272271014169_7576264001667989504_n.jpg","username":"natha_nk"}},{"node":{"id":"1251549231","profile_pic_url":"https://instagram.forf1-1.fna.fbcdn.net/vp/7686814513ef14a1be61def6fc7a1884/5B13FEB8/t51.2885-19/s150x150/25009168_1633693956695590_4620705265065394176_n.jpg","username":"adesh__9"}}]},"edge_media_to_sponsor_user":{"edges":[]},"location":null,"viewer_has_liked":false,"viewer_has_saved":false,"viewer_has_saved_to_collection":false,"owner":{"id":"6643170","profile_pic_url":"https://instagram.forf1-1.fna.fbcdn.net/vp/1bc67532725e8acdb81280229014a14c/5B0EE034/t51.2885-19/s150x150/23507074_707949486081796_8857788694111715328_n.jpg","username":"kaka","blocked_by_viewer":false,"followed_by_viewer":false,"full_name":"Kak\u00e1","has_blocked_viewer":false,"is_private":false,"is_unpublished":false,"is_verified":true,"requested_by_viewer":false},"is_ad":false,"edge_web_media_to_related_media":{"edges":[]}}}}]},"gatekeepers":{"ld":true,"seo":true},"qe":{"client_gql":{"g":"","p":{}},"dash_for_vod":{"g":"","p":{}},"bc3l":{"g":"","p":{}},"aysf":{"g":"","p":{}},"notif":{"g":"","p":{}},"follow_button":{"g":"","p":{}},"loggedout":{"g":"launch","p":{"new_cta":"true","remove_upsell_banner":"true","update_nav":"true"}},"loggedout_upsell":{"g":"","p":{}},"stories":{"g":"","p":{}},"exit_story_creation":{"g":"","p":{}},"su_universe":{"g":"test_msisdn_prefill_12_18","p":{"has_msisdn_prefill":"true"}},"us_li":{"g":"","p":{}},"sidecar":{"g":"","p":{}},"video":{"g":"","p":{}},"appsell":{"g":"","p":{}},"collections":{"g":"","p":{}},"msisdn":{"g":"control_prefill_2_15","p":{"has_msisdn_prefill":"false"}},"save":{"g":"","p":{}},"stale":{"g":"","p":{}},"reg":{"g":"","p":{}},"reg_vp":{"g":"","p":{}},"prof_pic_upsell":{"g":"","p":{}},"prof_pic_creation":{"g":"","p":{}},"onetaplogin":{"g":"","p":{}},"onetaplogin_userbased":{"g":"","p":{}},"feed_vp":{"g":"","p":{}},"push_notifications":{"g":"","p":{}},"login_poe":{"g":"","p":{}},"report_haf":{"g":"","p":{}},"report_profile":{"g":"","p":{}},"reporting":{"g":"","p":{}},"media_reporting":{"g":"","p":{}},"bg_sync":{"g":"","p":{}},"disc_ppl":{"g":"","p":{}},"ebdsim_li":{"g":"","p":{}},"ebdsim_lo":{"g":"","p":{}},"embeds":{"g":"","p":{}},"prvcy_tggl":{"g":"","p":{}},"tp_pblshr":{"g":"","p":{}},"fs":{"g":"","p":{}},"404_as_react":{"g":"","p":{}},"share":{"g":"","p":{}},"acc_recovery":{"g":"","p":{}},"connections":{"g":"","p":{}}},"hostname":"www.instagram.com","display_properties_server_guess":{"pixel_ratio":1.5,"viewport_width":360,"viewport_height":480,"orientation":""},"environment_switcher_visible_server_guess":true,"platform":"web","nonce":"USw4hZU3nz+BzhgIOyOGtw==","zero_data":{},"rollout_hash":"b8a66d8f66ed","probably_has_app":false,"show_app_install":true};
+
+
+!function(e){function a(n){if(o[n])return o[n].exports;var t=o[n]={i:n,l:!1,exports:{}};return e[n].call(t.exports,t,t.exports,a),t.l=!0,t.exports}var n=window.webpackJsonp;window.webpackJsonp=function(o,r,i){for(var c,d,s,g=0,f=[];g<o.length;g++)d=o[g],t[d]&&f.push(t[d][0]),t[d]=0;for(c in r)Object.prototype.hasOwnProperty.call(r,c)&&(e[c]=r[c]);for(n&&n(o,r,i);f.length;)f.shift()();if(i)for(g=0;g<i.length;g++)s=a(a.s=i[g]);return s};var o={},t={48:0};a.e=function(e){function n(){c.onerror=c.onload=null,clearTimeout(d);var a=t[e];0!==a&&(a&&a[1](new Error("Loading chunk "+e+" failed.")),t[e]=void 0)}var o=t[e];if(0===o)return new Promise(function(e){e()});if(o)return o[2];var r=new Promise(function(a,n){o=t[e]=[a,n]});o[2]=r;var i=document.getElementsByTagName("head")[0],c=document.createElement("script");c.type="text/javascript",c.charset="utf-8",c.async=!0,c.timeout=12e4,c.crossOrigin="anonymous",a.nc&&c.setAttribute("nonce",a.nc),c.src=a.p+""+({0:"SettingsModules",1:"ProfilePageContainer",2:"LikedByListContainer",3:"FollowListContainer",4:"CreationModules",5:"LocationPageContainer",6:"DiscoverMediaPageContainer",7:"DiscoverEmbedsPageContainer",8:"UserCollectionMediaPageContainer",9:"TagPageContainer",10:"DebugInfoNub",11:"FeedPageContainer",12:"LandingPage",13:"PostPageContainer",14:"LoginAndSignupPage",15:"ResetPasswordPageContainer",16:"UserCollectionsPageContainer",17:"MobileStoriesPage",18:"DesktopStoriesPage",19:"DiscoverPeoplePageContainer",20:"MultiStepSignupPage",21:"ContactHistoryPage",22:"LocationsDirectoryLandingPage",23:"LocationsDirectoryCountryPage",24:"LocationsDirectoryCityPage",25:"SuggestedDirectoryLandingPage",26:"ProfilesDirectoryLandingPage",27:"DirectoryPage",28:"HttpErrorPage",29:"ActivityFeedPage",30:"CameraPage",31:"StoryCreationPage",32:"NewUserInterstitial",33:"FBSignupPage",34:"ContactInvitesOptOutPage",35:"Report",36:"Copyright",37:"SupportInfo",38:"Community",39:"GenericSurvey",40:"Challenge",41:"Consumer",42:"EmailSnoozePage",43:"EmailUnsubscribePage",44:"ConfirmFollowDialog",45:"NotificationLandingPage"}[e]||e)+".js/"+{0:"aba6db9b7bc6",1:"031ac4860b53",2:"56da0a5dea7f",3:"3e3968d66622",4:"6000719aca05",5:"a703b8571d91",6:"202c1e33dc03",7:"6b413f6f8274",8:"bbc05523a0f1",9:"8815510f5b1f",10:"3cf2d66cafeb",11:"edbfd7f7a98b",12:"53ba52afa300",13:"2c473dc750ee",14:"9d18ad07d2ed",15:"2d87a8dc8542",16:"0795a2712c68",17:"b81eaf9a1074",18:"0079231c3280",19:"0dd871895169",20:"5b9e93dab4b7",21:"5316803a25b9",22:"aa16b648d04f",23:"307cc9f8dd02",24:"d63ac6140c16",25:"0acec94d0ac9",26:"77c61a2e3d2a",27:"b442cef20258",28:"77c44c1a497b",29:"285fe2b6176e",30:"35b27259106d",31:"4efb8beff2ec",32:"8102c4e34a7a",33:"84d951963327",34:"3a9e8e5f7d64",35:"1112d8602bdc",36:"8b3a7cf3242d",37:"c18414033ebf",38:"91c3e2e1aabc",39:"12aca412cf41",40:"c7d366351036",41:"305a97d87d60",42:"d8dd37d371b3",43:"1629c2a64d0e",44:"40eb9fd0333b",45:"86a22d791ad8"}[e]+".js";var d=setTimeout(n,12e4);return c.onerror=c.onload=n,i.appendChild(c),r},a.m=e,a.c=o,a.d=function(e,n,o){a.o(e,n)||Object.defineProperty(e,n,{configurable:!1,enumerable:!0,get:o})},a.n=function(e){var n=e&&e.__esModule?function(){return e.default}:function(){return e};return a.d(n,"a",n),n},a.o=function(e,a){return Object.prototype.hasOwnProperty.call(e,a)},a.p="/static/bundles/",a.oe=function(e){throw console.error(e),e}}([]);
+
+
+
+
+
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '1425767024389221');
+
+fbq('track', 'PageView');
+
+
+
+
+
+

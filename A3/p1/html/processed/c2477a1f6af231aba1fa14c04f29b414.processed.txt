@@ -1,0 +1,811 @@
+http://stream.aljazeera.com/story/201611171801-0025322
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var _sf_startpt=(new Date()).getTime();
+
+
+
+
+
+
+
+
+
+
+
+Duterte, Trump and Philippine-US relations
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-1615344-7"]);_gaq.push(["_setDomainName", "none"]);_gaq.push(["_setAllowLinker", true]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"thestream2","theme_token":"sCvhGTeqGspW4K94It8ZwTc-NED9fnkLjOYTCMq8hNY","jquery_version":"1.8","js":{"sites\/all\/modules\/contrib\/flexslider\/assets\/js\/flexslider.load.js":1,"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"profiles\/varbase\/modules\/contrib\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/varbase\/modules\/contrib\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"profiles\/varbase\/modules\/contrib\/jquery_update\/replace\/misc\/jquery.form.min.js":1,"misc\/ajax.js":1,"profiles\/varbase\/modules\/contrib\/jquery_update\/js\/jquery_update.js":1,"sites\/all\/modules\/contrib\/extlink\/extlink.js":1,"sites\/all\/themes\/bootstrap\/js\/misc\/_progress.js":1,"sites\/all\/modules\/custom\/ajstream_block\/js\/ajstream_block.js":1,"http:\/\/admin.brightcove.com\/js\/BrightcoveExperiences.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/varbase\/modules\/contrib\/panels\/js\/panels.js":1,"sites\/all\/modules\/contrib\/linkit\/editors\/ckeditor\/linkitDialog.js":1,"profiles\/varbase\/modules\/contrib\/views\/js\/base.js":1,"sites\/all\/libraries\/flexslider\/jquery.flexslider-min.js":1,"profiles\/varbase\/modules\/contrib\/views\/js\/ajax_view.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/modules\/custom\/modal_window\/js\/modal-window.js":1,"sites\/all\/modules\/custom\/ajservices\/js\/script.js":1,"sites\/all\/modules\/custom\/ajservices\/js\/ajservices.js":1,"sites\/all\/modules\/custom\/fbcm_slideout\/js\/fbcm-slideout.js":1,"sites\/all\/modules\/contrib\/quicktabs\/js\/quicktabs.js":1,"sites\/all\/themes\/thestream2\/js\/jquery.js":1,"sites\/all\/themes\/thestream2\/assets\/bootstrap\/js\/bootstrap.min.js":1,"sites\/all\/themes\/thestream2\/assets\/bootstrap-select\/bootstrap-select.min.js":1,"sites\/all\/themes\/thestream2\/assets\/jquery-sticky\/jquery.sticky.js":1,"sites\/all\/themes\/thestream2\/assets\/jquery-scrollto\/jquery.scrollTo.min.js":1,"sites\/all\/themes\/thestream2\/assets\/jquery-resize\/jquery.ba-resize.min.js":1,"sites\/all\/themes\/thestream2\/assets\/bootstrap-dialog\/js\/bootstrap-dialog.min.js":1,"sites\/all\/themes\/thestream2\/changes\/Assets\/scripts\/SiteScripts.js":1,"sites\/all\/themes\/thestream2\/js\/autodetected.js":1,"sites\/all\/themes\/thestream2\/js\/related-content.js":1,"sites\/all\/themes\/thestream2\/js\/stories-fb-comment-count-refresh.js":1,"sites\/all\/themes\/thestream2\/js\/fix-ifream-players.js":1,"sites\/all\/themes\/thestream2\/js\/jquery-sms.js":1,"sites\/all\/themes\/thestream2\/js\/CustomHeaderFooter.js":1,"sites\/all\/themes\/thestream2\/js\/custom-article-script.js":1,"sites\/all\/themes\/bootstrap\/js\/modules\/views\/js\/ajax_view.js":1,"sites\/all\/themes\/bootstrap\/js\/misc\/ajax.js":1},"css":{"modules\/system\/system.base.css":1,"profiles\/varbase\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/varbase\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/extlink\/extlink.css":1,"profiles\/varbase\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/chartbeat\/chartbeat.css":1,"profiles\/varbase\/modules\/contrib\/ckeditor\/ckeditor.css":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/varbase\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/genpass\/genpass.css":1,"profiles\/varbase\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/varbase\/modules\/contrib\/panels\/plugins\/layouts\/onecol\/onecol.css":1,"sites\/all\/modules\/contrib\/flexslider\/assets\/css\/flexslider_img.css":1,"sites\/all\/libraries\/flexslider\/flexslider.css":1,"sites\/all\/modules\/custom\/modal_window\/css\/modal-window.css":1,"sites\/all\/modules\/custom\/fbcm_slideout\/css\/fbcm-slideout.css":1,"sites\/all\/modules\/contrib\/quicktabs\/css\/quicktabs.css":1,"sites\/all\/modules\/contrib\/quicktabs\/quicktabs_tabstyles\/tabstyles\/basic\/basic.css":1,"modules\/user\/user.css":1,"sites\/all\/themes\/thestream2\/assets\/bootstrap\/css\/bootstrap.min.css":1,"\/css\/overrides.css":1,"sites\/all\/themes\/thestream2\/assets\/font-awesome\/css\/font-awesome.min.css":1,"sites\/all\/themes\/thestream2\/assets\/bootstrap-select\/bootstrap-select.min.css":1,"sites\/all\/themes\/thestream2\/assets\/bootstrap-dialog\/css\/bootstrap-dialog.min.css":1,"sites\/all\/themes\/thestream2\/assets\/bootstrap-no-spacing\/bootstrap-no-spacing.css":1,"sites\/all\/themes\/thestream2\/assets\/bootstrap-pull\/bootstrap-pull.css":1,"sites\/all\/themes\/thestream2\/assets\/bootstrap-space\/bootstrap-space.css":1,"sites\/all\/themes\/thestream2\/smartbanner\/jquery.smartbanner.css":1,"sites\/all\/themes\/thestream2\/css\/style.css":1,"sites\/all\/themes\/thestream2\/css\/style-xs.css":1,"sites\/all\/themes\/thestream2\/css\/style-sm.css":1,"sites\/all\/themes\/thestream2\/css\/style-md.css":1,"sites\/all\/themes\/thestream2\/css\/style-lg.css":1,"sites\/all\/themes\/thestream2\/css\/style-xxs.css":1,"sites\/all\/themes\/thestream2\/css\/webfonts.css":1,"sites\/all\/themes\/thestream2\/css\/header\/grid-set-style.css":1,"sites\/all\/themes\/thestream2\/css\/header\/markbolton-style.css":1,"sites\/all\/themes\/thestream2\/css\/header\/custom-article-page.css":1,"sites\/all\/themes\/thestream2\/css\/header\/aje-custom-styles.css":1,"sites\/all\/themes\/thestream2\/css\/header\/custom-master-head.css":1,"sites\/all\/themes\/thestream2\/css\/header\/CustomHeaderAndFooter.css":1}},"Ajlivehr":"19","Ajlivemt":"30","Ajgoogle_api_key":"AIzaSyDQiGbUZN8XKZ4Rb-HEH4nokhywVYnurLs","chartbeat":{"uid":3291,"domain":"stream.aljazeera.com","useCanonical":true,"noCookies":false},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true},"flexslider":{"optionsets":{"default":{"namespace":"flex-","selector":".slides \u003E li","easing":"swing","direction":"horizontal","reverse":false,"smoothHeight":false,"startAt":0,"animationSpeed":1000,"initDelay":0,"useCSS":true,"touch":true,"video":false,"keyboard":true,"multipleKeyboard":false,"mousewheel":0,"controlsContainer":".flex-control-nav-container","sync":"","asNavFor":"","itemWidth":0,"itemMargin":0,"minItems":0,"maxItems":0,"move":0,"animation":"slide","slideshow":true,"slideshowSpeed":"7000","directionNav":true,"controlNav":false,"prevText":"","nextText":"","pausePlay":false,"pauseText":"Pause","playText":"Play","randomize":false,"thumbCaptions":false,"thumbCaptionsBoth":false,"animationLoop":true,"pauseOnAction":true,"pauseOnHover":false,"manualControls":""}},"instances":{"flexslider-1":"default"}},"extlink":{"extTarget":"_blank","extClass":"0","extLabel":"","extImgClass":0,"extSubdomains":1,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":0,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":"mailto","mailtoLabel":"(link sends e-mail)"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip","trackDomainMode":"2","trackCrossDomains":["stream.aljazeera.com"]},"join_the_show":{"join_the_show_modal_block_top":"Record a comment","join_the_show_modal_window_content":"\u003Cdiv class=\u0022top\u0022\u003EWhat conditions must be met in order for safe and equitable repatriation of Rohingya refugees back to Myanmar? \u003C\/div\u003E\u003Cdiv class=\u0022content\u0022\u003E\u003C\/div\u003E\u003Cdiv class=\u0022bottom\u0022\u003E\u003Cp\u003EWe feature video comments from our community on our live show. Record a 30 second response to today\u0027s question above, and see what others have said.\u003C\/p\u003E\u003C\/div\u003E"},"ajservices":{"host_uri":"http:\/\/www.aljazeera.com"},"quicktabs":{"qt_more_from_the_stream":{"name":"more_from_the_stream","tabs":[{"vid":"stories","display":"most_shared_block","args":"","view_path":"node%2F25322","view_dom_id":1,"ajax_args":"","actual_args":[]},{"vid":"stories","display":"most_viewed_block","args":"","view_path":"node%2F25322","view_dom_id":2,"ajax_args":"","actual_args":[]}],"ajaxPageState":{"jquery_version":"1.8"}}},"bootstrap":{"anchorsFix":1,"anchorsSmoothScrolling":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});
+
+
+
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+      })();
+    
+
+
+      //<![CDATA[
+      if (navigator.userAgent.match(/iPad/i) != null) {
+        var window_width = window.innerWidth || $(window).width();
+        var ipad_css_path = window.location.protocol + "//" + window.location.hostname + Drupal.settings.basePath + 'sites/all/themes/thestream2/css/style-ipad.css';
+        if(document.createStyleSheet) {
+          document.createStyleSheet(ipad_css_path);
+        }
+        else {
+          var ipadstyles = "@import url('" + ipad_css_path +"');";
+          var ipadSS = document.createElement('link');
+          ipadSS.rel='stylesheet';
+          ipadSS.href='data:text/css,' + escape(ipadstyles);
+          document.getElementsByTagName("head")[0].appendChild(ipadSS);
+        }
+      }
+      //]]>
+    
+
+
+
+Skip to navigation
+Skip to main content
+
+
+
+
+✖
+
+
+Join Al Jazeera's social media community
+The Stream is a social media community with its own daily TV show.
+
+
+
+
+
+
+
+
+
+Follow @AJStream
+
+
+
+Don't show again
+Close
+
+
+
+
+
+
+  window.fbAsyncInit = function() {
+    FB.init({ appId  : '222023801144502', status : true, cookie : true, xfbml : true, logging: '0'});
+    jQuery(document).trigger('fb:init');
+  };
+
+  (function() {
+    var e = document.createElement('script');
+    e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+    e.async = true;
+    document.getElementById('fb-root').appendChild(e);
+  }());
+
+
+
+
+
+
+
+
+
+
+
+
+ Created with Sketch.             Watch Live 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                             
+
+
+Now Playing
+
+ Watch
+
+
+
+inside story
+
+ Listen
+
+
+
+TV Schedule
+
+
+
+
+
+
+ Live 
+
+submit
+
+
+
+
+
+
+
+
+
+al jazeera
+
+
+
+ 
+
+
+
+
+
+Search form
+Search
+
+
+
+
+
+
+
+
+Home
+NewsMore
+
+
+Middle East
+Africa
+Asia
+US & Canada
+
+
+
+
+Latin America
+Europe
+Asia Pacific
+All
+
+
+
+
+Middle East
+DocumentariesMore
+
+
+Featured Documentaries
+Witness
+Al Jazeera World
+101 East
+
+
+
+
+People & Power
+Fault Lines
+My Tunisia
+Al Jazeera Selects 
+Al Jazeera Correspondent
+REWIND
+All
+
+
+
+
+ShowsMore
+
+
+Inside Story
+The Stream
+The Listening Post
+Talk to Al Jazeera
+
+
+
+
+The Big Picture
+Counting the Cost
+UpFront
+earthrise
+Empire
+All
+
+
+
+
+Investigations
+Opinion
+In Pictures
+MoreMore
+
+
+Features
+Investigations
+In Pictures
+Interactive
+
+
+
+
+Interactive Documentaries
+AJ Shorts
+Podcasts
+Reporter's Notebook
+Human Rights
+Sport
+Science & Technology
+Weather
+
+
+
+
+ 
+
+
+
+Trending:
+Yemen
+Kenya
+India
+Afghanistan
+North Korea
+ 
+
+
+
+
+
+
+
+
+
+Search form
+Search
+
+
+
+
+Most Searched
+
+
+
+
+
+
+
+
+
+
+
+
+
+        .oryx-bg {
+    background-image: url(/mritems/Images/programmes/INSIDE-STORY-BG01.jpg);
+  }
+  
+
+
+
+
+
+
+
+The Stream Main menuHome
+Stories
+About
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EpisodeNovember 17, 2016Duterte, Trump and Philippine-US relationsA look at the populist leaders and their potential impact on ties between Manila and Washington.
+
+ 10 Comments
+
+
+ 4 Shares
+
+
+
+
+
+Pocket
+SMS
+
+
+
+
+
+
+On Thursday, November 17 at 19:30 GMT:
+Ties between the United States and the Philippines have been at a low point for months, since controversial Philippine President Rodrigo Duterte insulted US President Barack Obama and vowed to reduce military cooperation with US forces. But Donald Trump's surprise US election victory may change that. Duterte has extended his congratulations to President-elect Trump and noted a shared trait: "We both like to swear. One little thing, we curse right away, we’re the same." Many political observers have pointed out other similarities beyond their crude remarks. Both rose to power on the wave of a populist, anti-establishment backlash. On this episode of The Stream, we'll get an up close look at Duterte with exclusive behind-the-scenes access from Al Jazeera's 101 East. We'll also discuss the parallels between Duterte and Trump's personalities and political ascendancy, and how they might impact US-Philippines relations.On this episode of The Stream, we speak to:
+Steve Chao @SteveChaoSC
+Senior Presenter, Al Jazeera English's 101 East
+Lisandro Claudio @leloyclaudio
+Assistant Professor of Political Science, Ateneo De Manila University
+Charlie Campbell, @CharlieCamp6ell Aries Arugay @ariesarugay
+Beijing Correspondent, TIME Political Scientist, University of the Philippines-Diliman
+Rhonda Ramiro @BAYAN_USA
+Vice Chair, BAYAN-USAbayanusa.org/about
+ 
+With video commentary from:
+ 
+Charlie Campbell, @CharlieCamp6ell 
+TIME Beijing Correspondenttime.com
+ 
+What do you think? Leave your thoughts in the comments below.
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, "script", "facebook-jssdk"));
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+0
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ Follow us
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+Search form
+Search
+
+
+
+
+ 
+
+
+                ajstream_block_js();
+             
+
+ Watch Live
+
+  19:30 GMT
+ Every Monday through Thursday onAl Jazeera English or this site.
+
+
+ 
+
+Most Shared
+Most Viewed
+
+
+  
+Are the Rohingya on the brink of another crisis?
+
+ 
+
+
+  
+Are the Rohingya on the brink of another crisis?
+
+ 
+
+ 
+
+
+
+ Recent Episodes 
+
+
+
+
+
+
+
+
+ 
+
+
+
+#NYFW: Is fashion inclusive enough?We speak to the models and designers who use social media to subvert the mainstreamFebruary 14, 2018
+
+ 0
+
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Is Uganda really a paradise for refugees?The Stream goes beyond recent glowing headlines to ask whether Uganda really is a paradise for refugees.February 13, 2018
+
+ 0
+
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+#ZumaExit: Will South Africa’s Jacob Zuma resign?The ANC is pushing for the president to leave office, but Zuma aims to leave on his own terms.February 12, 2018
+
+ 0
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+MUST-SEE PROGRAMMESFace to FaceChe Guevara and Fidel Castro: Revolutionary FriendsA legendary friendship borne of youth and revolutionary zeal eventually succumbs to the strains of Cold War realpolitik.Fidel Castro, Cuba, Latin AmericaUpFrontUpFront special: Noam Chomsky on the new Trump era"The most predictable aspect of Trump is unpredictability. I think it's dangerous, very dangerous," says Noam Chomsky.United States, Donald Trump101 EastThe Rohingya Exodus  What does the future hold for the Rohingya in Bangladesh, one of the world's poorest countries?Rohingya, War & Conflict, BangladeshStruggle Over the NileStruggle over the Nile: Masters no moreFor centuries, Egypt has sought to tame the Nile and control its use, but others are now challenging this dominance.Water, Egypt, Environment
+
+
+
+ 
+
+
+News
+
+Programmes
+
+Opinion
+
+About
+
+Investigations
+
+Contact Us
+
+Video
+
+
+
+Facebook
+
+Twitter
+
+Google+
+
+RSS
+
+Podcast
+
+YouTube
+
+SnapChat
+
+
+
+			© 2017 Al Jazeera Media Network
+
+
+
+
+
+					About
+
+
+About Us
+
+Press Office
+
+Awards
+
+Code of Ethics
+
+Terms and Conditions
+
+Community Guidelines
+
+Work for us
+
+HR Quality
+
+
+
+
+					Connect
+
+
+Contact Us
+
+Apps
+
+Social
+
+Channel Finder
+
+TV Schedule
+
+Podcasts
+
+Newsletter
+
+
+
+
+
+
+					Our Channels
+
+
+Al Jazeera Arabic
+
+Al Jazeera English
+
+Al Jazeera Mubasher
+
+Al Jazeera Documentary
+
+Al Jazeera Balkans
+
+AJ+
+
+
+
+
+					Our Network
+
+
+Jetty
+
+Al Jazeera Centre for Studies
+
+Al Jazeera Media Institute
+
+Al Jazeera Centre for Public Liberties & Human Rights
+
+Al Jazeera Forum
+
+Al Jazeera Film Festival
+
+Al Jazeera Learning
+
+Al Jazeera Hotel Partners
+
+
+
+
+
+
+					 
+
+
+
+
+
+					© 2018 Al Jazeera Media Network
+
+
+
+
+
+	 
+
+
+
+
+
+
+(function(s, p, d) {
+  var h=d.location.protocol, i=p+"-"+s,
+e=d.getElementById(i), r=d.getElementById(p+"-root"),
+u=h==="https:"?"d1z2jf7jlzjs58.cloudfront.net"
+:"static."+p+".com";
+if (e) return;
+e = d.createElement(s); e.id = i; e.async = true;
+e.src = h+"//"+u+"/p.js"; r.appendChild(e);
+})("script", "parsely", document);
+
+
+
+
+_atrk_opts = { atrk_acct: "fmR6h1acOh00it", domain:"aljazeera.com"}; atrk ();
+
+ 
+  var _sf_async_config=Drupal.settings.chartbeat;
+  (function(){
+    function loadChartbeat() {
+      window._sf_endpt=(new Date()).getTime();
+      var e = document.createElement('script');
+      e.setAttribute('language', 'javascript');
+      e.setAttribute('type', 'text/javascript');
+      e.setAttribute('src',
+         (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
+         "static.chartbeat.com/js/chartbeat.js");
+      document.body.appendChild(e);
+    }
+    var oldonload = window.onload;
+    window.onload = (typeof window.onload != 'function') ?
+       loadChartbeat : function() { oldonload(); loadChartbeat(); };
+  })();
+
+
+
+
