@@ -1,0 +1,75 @@
+http://pr.aljazeera.com/post/156396004240/al-jazeera-english-to-air-europes-forbidden
+var __pbpa = true;var translated_warning_string = 'Warning: Never enter your Tumblr password unless \u201chttps://www.tumblr.com/login\u201d\x0ais the address in your web browser.\x0a\x0aYou should also see a green \u201cTumblr, Inc.\u201d identification in the address bar.\x0a\x0aSpammers and other bad guys use fake forms to steal passwords.\x0a\x0aTumblr will never ask you to log in from a user\u2019s blog.\x0a\x0aAre you absolutely sure you want to continue?';Al Jazeera English to air “Europe’s Forbidden...figure{margin:0}.tmblr-iframe{position:absolute}.tmblr-iframe.hide{display:none}.tmblr-iframe--amp-cta-button{visibility:hidden;position:fixed;bottom:10px;left:50%;transform:translateX(-50%);z-index:100}.tmblr-iframe--amp-cta-button.tmblr-iframe--loaded{visibility:visible;animation:iframe-app-cta-transition .2s ease-out}
+      // test for svg as image @see http://css-tricks.com/test-support-svg-img/
+      if(document.implementation.hasFeature("http://www.w3.org/TR/SVG11/feature#Image", "1.1")) {
+        document.documentElement.className += " svgasimg";
+      }
+
+    
+	{"@type":"SocialMediaPosting","url":"http:\/\/pr.aljazeera.com\/post\/156396004240\/al-jazeera-english-to-air-europes-forbidden","mainEntityOfPage":true,"datePublished":"2017-01-26T11:49:54-05:00","author":"aljazeerapr","image":{"@list":["http:\/\/78.media.tumblr.com\/8bc1857160ace8996e90a1c3c5344f7a\/tumblr_inline_okdy43gegf1rwl04r_540.png","http:\/\/78.media.tumblr.com\/28c445f9568b7b50f93b617ddb56b955\/tumblr_inline_okdy5ejxqj1rwl04r_540.png"]},"headline":"Al Jazeera English to air \u201cEurope\u2019s Forbidden Colony\u201d","articleBody":"\u2022 Croatian philosopher Sre\u0107ko Horvat will look behind the refugee flows, terror attacks, and Brexit to reveal what is really threatening Europe\u2019s establishment.\n\u2022 Episode one titled \u201cThe Business of Colonisation\u201d to air on February 19th will explore the colonial methods of extraction European...","@context":"http:\/\/schema.org"}Al Jazeera PRHomeAboutAwardsContact UsArchiveAl Jazeera PRهنا الجزيرةSearchAl Jazeera English to air “Europe’s Forbidden Colony”
+                                        January 26, 2017
+                                    Croatian
+philosopher Srećko Horvat will look behind the refugee flows, terror attacks,
+and Brexit to reveal what is really threatening Europe’s establishment.Episode one titled “The Business of Colonisation” to air on February
+19th will explore the
+colonial methods of extraction European nations once elsewhere are now being
+practised on Europe itself.Episode two titled “The Colonised Society” which will air on
+February 26th will examine how this colonisation is affecting the
+politics of Europe with frightening reactions which include terrorism and the
+rise of the far right Doha – 26th January, 2017From France’s Front
+Nationale, to neo-fascists Jobbik in Hungary and the looming Brexit, Europe’s disgruntled voters are turning to an anti-elitist
+populism that is challenging mainstream politics. With French and German
+elections due in 2017,there are fears centrist parties will lose more ground,
+but few can explain why. In
+this new two part documentary series, Croatian philosopher Srećko Horvat looks
+behind the refugee flows, terror attacks, and Brexit to reveal what is really
+threatening Europe’s establishment.“Often
+these phenomena are discussed as if they are forces of nature beyond our control”
+says Srećko. “But as a philosopher I look for the root causes. What if the
+economic collapse, refugees and terrorism are actually all caused by something
+more fundamental?”Starting
+in Idomeni, where the refugees crossed from Greece to Macedonia, Srećko goes on
+a pan-European odyssey that takes in the Port of Piraeus, Romanian Forests,
+Welsh valleys, the offices of far right parties, the channel tunnel and the
+European Parliament. In the first episode, The Business of Colonisation, Srećko finds evidence that the colonial methods of extraction and
+democratic suppression that European nations once applied to much of the Middle
+East and Africa in the 19th and 20th centuries are now
+being practised on Europe itself. In an exclusive
+revelation, former Greek Finance Minister Yanis
+Varoufakis tells Al Jazeera how this undemocratic colonial control was used
+recently to prevent Greece recovering from its debt crisis. As part of its bail
+out by the Troika of the European Central bank, European Commission and
+International Monetary Fund, Greece was forced to sell the strategic Port of
+Pireaus. Varoufakis tells Srećko how he
+negotiated a deal with the Chinese that would guarantee jobs, investment and
+union recognition, while the Chinese government would buy enough Greek
+government bonds for them to return to international money markets. “And guess what happened,”
+says Varoufakis, “there was a telephone call from Berlin to Beijing saying keep
+off Greece while we are negotiating with them and all deals were off because,
+of course, China is not going to jeopardise its relationship with the heart of
+Europe in order to seal a deal with us.”The
+second episode, The Colonised Society, Srećko
+looks at how the people of Europe are responding. “The
+major decisions that determine how life is lived are made without popular
+participation and that causes anger, frustration and contempt for the
+parliamentary system”, says Professor Noam
+Chomsky “And it leads to erratic and often frightening reactions.” Srećko examines how
+those frightening reactions include terrorism and the rise of the far right, on
+trips to Molenbeek in Brussels and to meet Hungarian nationalist party Jobbick
+in Budapest. But the anger and frustration at colonisation has also taken a
+different route, as Srećko finds out in visits to French protest camps, Greek
+markets, German energy grids, and the City of Barcelona. Across
+two 48 minute episodes, Srećko talks to Welsh steel workers, French protesters,
+Hungarian philosopher Agnes Heller, MEP Nigel Farage,
+professor Noam Chomsky, philosopher
+Slavoj Zizek, Socioloigist Saskia Sassen, Wikileaks founder Julian Assange,  and the mayor of Barcelona Ada Colau. Srećko’s journey across Europe is deadly serious,
+and his analysis urgent, but the films are also lifted by the irrepressible
+charm and humour of one of Europe’s leading young thinkers. Ends:Europe’s
+Forbidden Colony - InformationPresenter - Srećko HorvatDirector & Series Producer - Dan DaviesEditor - Robyn Wright Production
+Manager – Dan BoadenResearch – Priya Biring, Dan Boaden Commissioning Executive – Farid Barsoum/Ingrid FalkExecutive
+Producers – Hugh Hartford, Anson HartfordProduction
+Company  -
+Banyak Films For
+interviews, screenings and information please email pressoffice@aljazeera.netAl Jazeera Englishsrećko horvatyanis varoufakisRead moreamrani-khaldi liked this                                    anonymousspirits liked this                                    embrasse-mon-clone reblogged this from aljazeerapr embrasse-mon-clone liked this                                    aljazeerapr posted this                                                                        FacebookTwitterAboutThe Public Relations team at Al Jazeera sharing what's new and exclusive.
+                    function recent_tweets(data) { window.tweets_data = data; }
+                People I followAl Jazeera PRHomeAboutAwardsContact UsArchive© Copyright Al Jazeera 2012–2018

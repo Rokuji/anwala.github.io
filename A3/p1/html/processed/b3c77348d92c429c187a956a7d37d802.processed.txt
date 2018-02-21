@@ -1,0 +1,1517 @@
+https://www.wired.com/2016/10/president-obama-guest-edits-wired-essay/?source=socnet_tw_ofa_20161013_bo_potus_wired_5&utm_content=20161013_bo_potus_wired_5
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Barack Obama: Now Is the Greatest Time to Be Alive | WIRED
+
+
+		/*! loadCSS and preload polyfill
+		https://github.com/filamentgroup/loadCSS/
+		[c]2016 @scottjehl, Filament Group, Inc. Licensed MIT */
+		!function(a){"use strict";var b=function(b,c,d){function j(a){return e.body?a():void setTimeout(function(){j(a)})}function l(){f.addEventListener&&f.removeEventListener("load",l),f.media=d||"all"}var g,e=a.document,f=e.createElement("link");if(c)g=c;else{var h=(e.body||e.getElementsByTagName("head")[0]).childNodes;g=h[h.length-1]}var i=e.styleSheets;f.rel="stylesheet",f.href=b,f.media="only x",j(function(){g.parentNode.insertBefore(f,c?g:g.nextSibling)});var k=function(a){for(var b=f.href,c=i.length;c--;)if(i[c].href===b)return a();setTimeout(function(){k(a)})};return f.addEventListener&&f.addEventListener("load",l),f.onloadcssdefined=k,k(l),f};"undefined"!=typeof exports?exports.loadCSS=b:a.loadCSS=b}("undefined"!=typeof global?global:this),function(a){if(a.loadCSS){var b=loadCSS.relpreload={};if(b.support=function(){try{return a.document.createElement("link").relList.supports("preload")}catch(a){return!1}},b.poly=function(){for(var b=a.document.getElementsByTagName("link"),c=0;c<b.length;c++){var d=b[c];"preload"===d.rel&&"style"===d.getAttribute("as")&&(a.loadCSS(d.href,d),d.rel=null)}},!b.support()){b.poly();var c=a.setInterval(b.poly,300);a.addEventListener&&a.addEventListener("load",function(){a.clearInterval(c)}),a.attachEvent&&a.attachEvent("onload",function(){a.clearInterval(c)})}}}(this);
+	
+
+
+
+
+
+		!function(){var e={kitId:'joo1eie'},t=!1,a=document.createElement("script");a.src="//use.typekit.net/"+e.kitId+".js",a.type="text/javascript",a.async="true",a.onload=a.onreadystatechange=function(){var a=this.readyState;if(!(t||a&&"complete"!=a&&"loaded"!=a)){t=!0;try{Typekit.load(e)}catch(c){}}};var c=document.getElementsByTagName("script")[0];c.parentNode.insertBefore(a,c)}();
+	
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+!function(n,e,t){var s,c;s=function(){var e=n.location.hostname,s=location.search.match(/CNS_SB=([^&\s]+)[&\s]?/)||[],c=e+"/cns"+(s.length?"-sandbox/"+s[1]:"")+"/services.min.js";return t||"//"+c}(),n.cns=n.cns||{async:function(n,e){this.queue[n]||(this.queue[n]=[]),"function"==typeof e&&this.queue[n].push(e)},queue:{}},c=e.createElement("script"),c.async=!0,c.src=s,e.head.appendChild(c)}(window,document);
+{
+    "publisher": {
+        "@type": "Organization",
+        "name": "WIRED",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https:\/\/www.wired.com\/wp-content\/themes\/Phoenix\/assets\/images\/article-icon.jpg",
+            "width": "1024 px",
+            "height": "1024 px"
+        }
+    },
+    "@context": "http:\/\/schema.org",
+    "@type": "NewsArticle",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https:\/\/www.wired.com\/2016\/10\/president-obama-guest-edits-wired-essay\/"
+    },
+    "headline": "Barack Obama: Now Is the Greatest Time to Be Alive",
+    "datePublished": "2016-10-12T06:55:02+00:00",
+    "dateModified": "2016-10-12T18:05:51+00:00",
+    "keywords": [
+        "barack-obama",
+        "magazine-24-11",
+        "national-affairs"
+    ],
+    "url": "https:\/\/www.wired.com\/2016\/10\/president-obama-guest-edits-wired-essay\/",
+    "articleSection": "business",
+    "author": {
+        "@type": "Person",
+        "name": "President Barack Obama"
+    },
+    "description": "We are far better equipped to take on the challenges we face than at any time in human history.",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https:\/\/www.wired.com\/wp-content\/uploads\/2016\/10\/potus_essay1.jpg",
+        "height": 1800,
+        "width": 2400
+    }
+}
+
+
+
+
+
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to: Start of article
+
+
+Visually Open Nav.
+
+
+
+
+
+Go to Wired Home Page.
+
+
+
+
+
+
+						President Obama, Guest Editor of WIRED, Says Now Is the Best Time to Be Alive					
+
+
+
+
+
+
+
+subscribe
+
+
+
+Open Search Field.
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Business
+
+
+
+
+
+
+
+culture
+
+
+
+
+
+
+
+Design
+
+
+
+
+
+
+
+Gear
+
+
+
+
+
+
+
+Science
+
+
+
+
+
+
+
+Security
+
+
+
+
+
+
+
+transportation
+
+
+
+
+
+
+
+photo
+
+
+
+
+
+
+
+video
+
+
+
+
+
+
+
+
+Photo
+
+
+Video
+
+
+Magazine
+
+
+WIRED INSIDER
+
+
+Future of Mobility
+
+
+
+
+
+
+Fallback Image
+
+
+Get TheMagazine
+
+
+
+
+
+				Subscribe now to get 6 months for $5 - plus a FREE Portable Phone Charger.
+			
+
+
+
+
+
+Subscribe
+ 
+
+
+
+Get OurNewsletter
+
+
+WIRED's biggest stories, delivered to your inbox.
+
+
+
+
+
+
+
+
+
+
+Submit
+
+
+
+Thank You
+
+
+
+Invalid Email
+
+
+
+
+
+
+
+
+Follow UsOn Twitter
+
+
+
+
+
+9 hours
+Facebook's uptick in spammy notifications appear to be part of the company's new mission to "bring people closer to… twitter.com/i/web/status/9…
+
+
+
+
+
+Follow
+
+
+
+
+Follow UsOn Facebook
+
+
+
+Don't miss our latest news, features and videos.
+
+
+
+
+Follow
+
+
+
+
+We’re OnPinterest
+
+
+
+See what's inspiring us.
+
+
+
+
+Follow
+
+
+
+
+Follow UsOn Youtube
+
+
+
+Don't miss out on WIRED's latest videos.
+
+
+
+
+Follow
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Advertisement.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Slide:  1 / of  3.
+Caption: 
+Caption: President Barack Obama, photographed in the Old Family Dining Room of the White House on August 24, 2016.Christopher Anderson 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Slide:  2 / of  3.
+Caption: 
+Ben Wiseman 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip Article Header. Skip to: Start of Article.
+
+
+
+Author: President Barack Obama.
+
+			President Barack Obama		
+
+Business 
+
+
+Date of Publication: 10.12.16.
+10.12.16
+
+
+Time of Publication: 6:55 am.
+6:55 am
+
+
+
+
+Barack Obama: Now Is the Greatest Time to Be Alive 
+
+ 
+
+
+
+
+When WIRED asked me to guest-edit the November issue, I didn’t hesitate. I know it’s the height of election season, and I happen to have a day job that keeps me pretty busy. But given the chance to immerse myself in the possibility of interplanetary travel or join a deep-dive conversation on artificial intelligence, I’m going to say yes. I love this stuff. Always have. It’s why my favorite movie of last year was The Martian. Of course, I’m predisposed to love any movie where Americans defy the odds and inspire the world. But what really grabbed me about the film is that it shows how humans—through our ingenuity, our commitment to fact and reason, and ultimately our faith in each other—can science the heck out of just about any problem. 
+I’m a guy who grew up watching Star Trek—and I’d be lying if I said that show didn’t have at least some small influence on my worldview. What I loved about it was its optimism, the fundamental belief at its core that the people on this planet, for all our varied backgrounds and outward differ­ences, could come together to build a better tomorrow.
+I still believe that. I believe we can work together to do big things that raise the fortunes of people here at home and all over the world. And even if we’ve got some work left to do on faster-than-light travel, I still believe science and technology is the warp drive that accelerates that kind of change for everybody.
+Here’s another thing I believe: We are far better equipped to take on the challenges we face than ever before. I know that might sound at odds with what we see and hear these days in the cacophony of cable news and social media. But the next time you’re bombarded with over-the-top claims about how our country is doomed or the world is coming apart at the seams, brush off the cynics and fearmongers. Because the truth is, if you had to choose any time in the course of human history to be alive, you’d choose this one. Right here in America, right now.
+
+
+President Barack Obama, photographed in the Old Family Dining Room of the White House on August 24, 2016.Christopher Anderson/Magnum Photos
+Let’s start with the big picture. By almost every measure, this country is better, and the world is better, than it was 50 years ago, 30 years ago, or even eight years ago. Leave aside the sepia tones of the 1950s, a time when women, minorities, and ­people with disabilities were shut out of huge parts of American life. Just since 1983, when I finished college, things like crime rates, teen pregnancy rates, and poverty rates are all down. Life expectancy is up. The share of Americans with a college education is up too. Tens of mil­lions of Americans recently gained the security of health insurance. Blacks and Latinos have risen up the ranks to lead our businesses and communities. Women are a larger part of our workforce and are earning more money. Once-quiet factories are alive again, with assembly lines churning out the components of a clean-energy age.
+And just as America has gotten better, so has the world. More countries know democracy. More kids are going to school. A smaller share of humans know chronic hunger or live in extreme poverty. In nearly two dozen countries—including our own—­people now have the freedom to marry whomever they love. And last year the nations of the world joined together to forge the most comprehen­sive agreement to battle climate change in human history.
+This kind of progress hasn’t happened on its own. It happened because people organized and voted for better prospects; because leaders enacted smart, forward-­looking policies; because people’s perspectives opened up, and with them, societies did too. But this progress also happened because we scienced the heck out of our challenges. Science is how we were able to combat acid rain and the AIDS epidemic. Technology is what allowed us to communicate across oceans and empathize with one another when a wall came down in Berlin or a TV personality came out. Without Norman Borlaug’s wheat, we could not feed the world’s hungry. Without Grace Hopper’s code, we might still be analyzing data with pencil and paper.
+That’s one reason why I’m so optimistic about the future: the constant churn of scientific progress. Think about the changes we’ve seen just during my presidency. When I came into office, I broke new ground by pecking away at a Black­Berry. Today I read my briefings on an iPad and explore national parks through a virtual-­reality headset. Who knows what kind of changes are in store for our next president and the ones who follow?
+
+
+Ben Wiseman
+That’s why I centered this issue on the idea of frontiers—stories and ideas about what’s over the next horizon, about what lies on the other side of the barriers we haven’t broken through yet. I wanted to explore how we get past where we are today to build a world that’s even better for us all—as individuals, as communities, as a country, and as a planet.
+Because the truth is, while we’ve made great progress, there’s no shortage of challenges ahead: Climate change. Economic inequality. Cybersecurity. Terrorism and gun violence. Cancer, Alzheimer’s, and ­antibiotic-resistant superbugs. Just as in the past, to clear these hurdles we’re going to need everyone—policy makers and commu­nity leaders, teachers and workers and grassroots activists, presidents and soon-to-be-former presidents. And to accelerate that change, we need science. We need researchers and academics and engineers; programmers, surgeons, and botanists. And most important, we need not only the folks at MIT or Stanford or the NIH but also the mom in West Virginia tinkering with a 3-D printer, the girl on the South Side of Chicago learning to code, the dreamer in San Antonio seeking investors for his new app, the dad in North Dakota learning new skills so he can help lead the green revolution.
+That’s how we will overcome the challenges we face: by unleashing the power of all of us for all of us. Not just for those of us who are fortunate, but for everybody. That means creating not just a quicker way to deliver takeout downtown but also a system that distributes excess produce to communities where too many kids go to bed hungry. Not just inventing a service that fills your car with gas but also creating cars that don’t need fossil fuels at all. Not just making our social networks more fun for sharing memes but also harnessing their power to counter terrorist ideologies and online hate speech.
+
+Related Stories
+
+
+
+ 
+Issie Lapowsky
+Obama: “We Don’t Fear the Future—We Shape It”
+
+
+
+
+
+
+ 
+James West
+The Pope, Obama, and China’s President Want to Save Earth
+
+
+
+
+
+
+ 
+Issie Lapowsky
+The Success of Obama’s Gun Plan Boils Down to Better Tech and More Data
+
+
+
+
+
+
+The point is, we need today’s big thinkers thinking big. Think like you did when you were watching Star Trek or Star Wars or Inspector Gadget. Think like the kids I meet every year at the White House Science Fair. We started this event in 2010 with a ­simple premise: We need to teach our kids that it’s not just the winner of the Super Bowl who deserves to be celebrated but the winner of the science fair. Since then, I’ve met young people who are tackling everything from destroying cancer cells to using algae to produce clean energy to distributing vaccines to remote areas of the world—all before most of them can even vote.
+And as I meet with these young ­people, I can’t help but wonder what might be next—what might happen at a White House Science Fair in five years or 20 years or 50 years? I imagine a student who grows an artificial pancreas right in front of the president—an idea that eventually eliminates waiting lists for lifesaving organs. I imagine the girls who discover a new fuel based on only sunlight, water, and carbon dioxide; the teenager who makes voting and civic activism as addictive as scrolling through your Twitter feed; the boy from Idaho who grows potatoes from a plot of soil brought back from our colony on Mars. And I imagine some future president strolling out on the South Lawn with a student who invented a new kind of telescope. As the president looks through the lens, the girl turns the telescope to a planet she just discovered, orbiting a faraway star at the very edge of our galaxy. Then she says she’s hard at work on another invention—one that will take us there someday.
+These kinds of moments are closer than you think. My hope is that these kids—maybe some of your kids or grandkids—will be even more curious and creative and confident than we are today. But that depends on us. We must continue to nurture our children’s curiosity. We must keep funding scientific, technological, and medical research. And above all, we must embrace that quintes­sentially American compulsion to race for new frontiers and push the bound­aries of what’s possible. If we do, I’m hopeful that tomorrow’s Americans will be able to look back at what we did—the diseases we conquered, the social problems we solved, the planet we protected for them—and when they see all that, they’ll plainly see that theirs is the best time to be alive. And then they’ll take a page from our book and write the next great chapter in our American story, emboldened to keep going where no one has gone before.
+
+This article appears in the November 2016 issue. Subscribe now.
+Grooming by Jackie Walker
+Go Back to Top. Skip To: Start of Article.
+Barack Obamamagazine-24.11National Affairs 
+
+
+Skip Social. Skip to: Latest News.
+
+
+Share
+
+
+
+
+
+Share
+
+
+
+
+
+
+
+
+
+
+
+Tweet
+
+
+
+
+
+
+
+
+
+
+
+Comment
+
+
+
+
+
+
+
+Email
+
+
+
+
+
+
+
+
+Skip Social. Skip to: Latest News.
+
+
+Share
+
+
+
+
+
+Share
+
+
+
+
+
+
+
+
+
+
+
+Tweet
+
+
+
+
+
+
+
+
+
+
+
+Comment
+
+
+
+
+
+
+
+Email
+
+
+
+
+
+
+
+Skip Latest News. Skip to: Comments.
+
+
+
+
+
+
+
+
+
+
+
+Skip Comments. Skip to: Footer.
+
+
+View comments
+
+
+
+
+
+
+
+
+var disqus_url = 'https://www.wired.com/2016/10/president-obama-guest-edits-wired-essay/';
+var disqus_identifier = '2103363 https://www.wired.com/?p=2103363';
+var disqus_container_id = 'disqus_thread';
+var disqus_shortname = 'wired';
+var disqus_title = "Barack Obama: Now Is the Greatest Time to Be Alive";
+var disqus_config_custom = window.disqus_config;
+var disqus_config = function () {
+    /*
+    All currently supported events:
+    onReady: fires when everything is ready,
+    onNewComment: fires when a new comment is posted,
+    onIdentify: fires when user is authenticated
+    */
+
+    
+    this.language = '';
+    
+    if (disqus_config_custom) {
+        disqus_config_custom.call(this);
+    }
+};
+
+(function() {
+    var dsq = document.createElement('script'); dsq.type = 'text/javascript';
+    dsq.defer = true;
+    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();
+
+
+
+
+
+
+
+
+Sponsored Stories
+Powered By Outbrain
+
+
+Powered By Outbrain
+
+
+
+
+
+
+
+More Business
+
+
+
+
+
+ 
+
+WIRED Video
+{
+    "publisher": {
+        "@type": "Organization",
+        "name": "WIRED",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https:\/\/www.wired.com\/wp-content\/themes\/Phoenix\/assets\/images\/article-icon.jpg",
+            "width": "1024 px",
+            "height": "1024 px"
+        }
+    },
+    "@context": "http:\/\/schema.org",
+    "@type": "NewsArticle",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https:\/\/www.wired.com\/2017\/08\/instagram\/"
+    },
+    "headline": "Instagram CEO Kevin Systrom on Free Speech, Artificial Intelligence, and Internet Addiction.",
+    "datePublished": "2017-08-17T07:00:00+00:00",
+    "dateModified": "2017-10-02T19:26:29+00:00",
+    "keywords": [
+        "instagram",
+        "social-media",
+        "trolls"
+    ],
+    "url": "https:\/\/www.wired.com\/2017\/08\/instagram\/",
+    "articleSection": "business",
+    "author": {
+        "@type": "Person",
+        "name": "Nicholas Thompson"
+    },
+    "description": "Instagram's Kevin Systrom wants to clean up the &#%!@$ internet.",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https:\/\/www.wired.com\/wp-content\/uploads\/2017\/08\/kevin-systrom-instagram.jpg",
+        "height": 3000,
+        "width": 2250
+    }
+} 
+									Instagram CEO Kevin Systrom on Free Speech, Artificial Intelligence, and Internet Addiction.								
+Nicholas Thompson
+
+
+
+
+
+
+
+
+
+ 
+
+Business
+{
+    "publisher": {
+        "@type": "Organization",
+        "name": "WIRED",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https:\/\/www.wired.com\/wp-content\/themes\/Phoenix\/assets\/images\/article-icon.jpg",
+            "width": "1024 px",
+            "height": "1024 px"
+        }
+    },
+    "@context": "http:\/\/schema.org",
+    "@type": "NewsArticle",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https:\/\/www.wired.com\/2017\/08\/robots-will-not-take-your-job\/"
+    },
+    "headline": "Chill: Robots Won&#8217;t Take All Our Jobs",
+    "datePublished": "2017-08-16T06:00:44+00:00",
+    "dateModified": "2017-08-22T14:19:02+00:00",
+    "keywords": [
+        "ai",
+        "artificial-intelligence",
+        "automation",
+        "magazine-25-09",
+        "robots"
+    ],
+    "url": "https:\/\/www.wired.com\/2017\/08\/robots-will-not-take-your-job\/",
+    "articleSection": "business",
+    "author": {
+        "@type": "Person",
+        "name": "James Surowiecki"
+    },
+    "description": "When WIRED asked me to guest-edit the November issue, I didn\u2019t hesitate. I know it\u2019s the height of election season, and I happen to have a day job that keeps me pretty busy. But given the chance to immerse myself in the possibility of interplanetary travel or join a deep-dive conversation on artificial intelligence, I\u2019m [&hellip;]",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https:\/\/www.wired.com\/wp-content\/uploads\/2017\/08\/robotapocalypse.jpg",
+        "height": 2400,
+        "width": 1694
+    }
+} 
+									Chill: Robots Won’t Take All Our Jobs								
+James Surowiecki
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Kayla LaCour
+{
+    "publisher": {
+        "@type": "Organization",
+        "name": "WIRED",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https:\/\/www.wired.com\/wp-content\/themes\/Phoenix\/assets\/images\/article-icon.jpg",
+            "width": "1024 px",
+            "height": "1024 px"
+        }
+    },
+    "@context": "http:\/\/schema.org",
+    "@type": "NewsArticle",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https:\/\/www.wired.com\/2017\/06\/women-engineers-rampant-sexism-silicon-valley\/"
+    },
+    "headline": "Women Engineers On the Rampant Sexism of Silicon Valley",
+    "datePublished": "2017-06-07T06:30:51+00:00",
+    "dateModified": "2017-06-07T00:42:54+00:00",
+    "keywords": [],
+    "url": "https:\/\/www.wired.com\/2017\/06\/women-engineers-rampant-sexism-silicon-valley\/",
+    "articleSection": "business",
+    "author": {
+        "@type": "Person",
+        "name": "Kayla LaCour"
+    },
+    "description": "Every industry face challenges when it comes to gender disparity. What do those challenges look like when 88 percent of your field looks nothing like you?",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https:\/\/www.wired.com\/wp-content\/uploads\/2017\/06\/EngineeringHP.jpg",
+        "height": 1481,
+        "width": 1080
+    }
+} 
+									Women Engineers On the Rampant Sexism of Silicon Valley								
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+Magazine
+{
+    "publisher": {
+        "@type": "Organization",
+        "name": "WIRED",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https:\/\/www.wired.com\/wp-content\/themes\/Phoenix\/assets\/images\/article-icon.jpg",
+            "width": "1024 px",
+            "height": "1024 px"
+        }
+    },
+    "@context": "http:\/\/schema.org",
+    "@type": "NewsArticle",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https:\/\/www.wired.com\/2017\/07\/inside-cubas-diy-internet-revolution\/"
+    },
+    "headline": "Inside Cuba&#8217;s D.I.Y. Internet Revolution",
+    "datePublished": "2017-07-26T06:00:24+00:00",
+    "dateModified": "2017-07-26T16:25:04+00:00",
+    "keywords": [
+        "magazine-25-08"
+    ],
+    "url": "https:\/\/www.wired.com\/2017\/07\/inside-cubas-diy-internet-revolution\/",
+    "articleSection": "business",
+    "author": {
+        "@type": "Person",
+        "name": "Antonio Garc\u00eda Mart\u00ednez"
+    },
+    "description": "In Havana, where data trickles in via overloaded, government-controlled networks\u2014if at all\u2014the people have taken matters into their own hands.",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https:\/\/www.wired.com\/wp-content\/uploads\/2017\/07\/0817-WI-FFCUBA-01.jpg",
+        "height": 2630,
+        "width": 1753
+    }
+} 
+											Inside Cuba’s D.I.Y. Internet Revolution										
+Antonio García Martínez
+
+
+
+
+
+
+
+ 
+
+Genetics
+{
+    "publisher": {
+        "@type": "Organization",
+        "name": "WIRED",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https:\/\/www.wired.com\/wp-content\/themes\/Phoenix\/assets\/images\/article-icon.jpg",
+            "width": "1024 px",
+            "height": "1024 px"
+        }
+    },
+    "@context": "http:\/\/schema.org",
+    "@type": "NewsArticle",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https:\/\/www.wired.com\/2017\/06\/crispr-may-cure-genetic-disease-one-day\/"
+    },
+    "headline": "Crispr May Cure All Genetic Disease\u2014One Day",
+    "datePublished": "2017-06-07T17:03:10+00:00",
+    "dateModified": "2017-06-08T15:29:08+00:00",
+    "keywords": [
+        "biotechnology",
+        "crisprcas9",
+        "gene-editing",
+        "science",
+        "wired-business-conference-2017"
+    ],
+    "url": "https:\/\/www.wired.com\/2017\/06\/crispr-may-cure-genetic-disease-one-day\/",
+    "articleSection": "business",
+    "author": {
+        "@type": "Person",
+        "name": "Megan Molteni"
+    },
+    "description": "But first, it's going to deliver climate-resistant crops, better biofuels, and tomatoes that won't fall off the vine.",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https:\/\/www.wired.com\/wp-content\/uploads\/2017\/06\/06.07_BIZCON_WIRED_0263.jpg",
+        "height": 2000,
+        "width": 1500
+    }
+} 
+											Crispr May Cure All Genetic Disease—One Day										
+Megan Molteni
+
+
+
+
+
+
+
+
+
+ 
+{
+    "publisher": {
+        "@type": "Organization",
+        "name": "WIRED",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https:\/\/www.wired.com\/wp-content\/themes\/Phoenix\/assets\/images\/article-icon.jpg",
+            "width": "1024 px",
+            "height": "1024 px"
+        }
+    },
+    "@context": "http:\/\/schema.org",
+    "@type": "NewsArticle",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https:\/\/www.wired.com\/2018\/02\/geeks-guide-altered-carbon\/"
+    },
+    "headline": "Netflix&#8217;s &#8216;Altered Carbon&#8217; Is Over-the-Top in Every Way",
+    "datePublished": "2018-02-17T08:55:38+00:00",
+    "dateModified": "2018-02-16T11:25:13+00:00",
+    "keywords": [
+        "geeks-guide-to-the-galaxy",
+        "netflix"
+    ],
+    "url": "https:\/\/www.wired.com\/2018\/02\/geeks-guide-altered-carbon\/",
+    "articleSection": "culture",
+    "author": {
+        "@type": "Person",
+        "name": "Geek&#039;s Guide to the Galaxy"
+    },
+    "description": "Its worldbuilding is expansive and its detective is hard-boiled\u2014it's sci-fi noir turned up to 11.",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https:\/\/www.wired.com\/wp-content\/uploads\/2018\/02\/GeeksGuideFeb17.jpg",
+        "height": 2400,
+        "width": 1800
+    }
+} 
+								Podcasts							
+
+								Netflix’s ‘Altered Carbon’ Is Over-the-Top in Every Way							
+Geek's Guide to the Galaxy
+
+
+
+
+
+
+
+
+We Recommend
+Powered By Outbrain
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Get TheMagazine
+
+
+
+
+
+				Subscribe now to get 6 months for $5 - plus a FREE Portable Phone Charger.
+			
+
+
+
+
+
+Subscribe
+ 
+
+
+
+Get OurNewsletter
+
+
+WIRED's biggest stories, delivered to your inbox.
+
+
+
+
+
+
+
+
+
+
+Submit
+
+
+
+Thank You
+
+
+
+Invalid Email
+
+
+
+
+
+
+
+
+Follow UsOn Twitter
+
+
+
+
+
+9 hours
+Facebook's uptick in spammy notifications appear to be part of the company's new mission to "bring people closer to… twitter.com/i/web/status/9…
+
+
+
+
+
+Follow
+
+
+
+
+Follow UsOn Facebook
+
+
+
+Don't miss our latest news, features and videos.
+
+
+
+
+Follow
+
+
+
+
+We’re OnPinterest
+
+
+
+See what's inspiring us.
+
+
+
+
+Follow
+
+
+
+
+Follow UsOn Youtube
+
+
+
+Don't miss out on WIRED's latest videos.
+
+
+
+
+Follow
+
+
+
+
+
+
+
+
+Get OurNewsletter
+
+
+WIRED's biggest stories, delivered to your inbox.
+
+
+
+
+
+
+
+
+
+
+Submit
+
+
+
+Thank You
+
+
+
+Invalid Email
+
+
+
+
+
+
+
+
+
+
+Follow UsOn Twitter
+
+
+
+
+
+9 hours
+Facebook's uptick in spammy notifications appear to be part of the company's new mission to "bring people closer to… twitter.com/i/web/status/9…
+
+
+
+
+
+Follow
+
+
+
+
+Follow UsOn Facebook
+
+
+
+Don't miss our latest news, features and videos.
+
+
+
+
+Follow
+
+
+
+
+We’re OnPinterest
+
+
+
+See what's inspiring us.
+
+
+
+
+Follow
+
+
+
+
+Follow UsOn Youtube
+
+
+
+Don't miss out on WIRED's latest videos.
+
+
+
+
+Follow
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wired Facebook
+
+
+
+
+
+
+Wired Twitter
+
+
+
+
+
+
+Wired Pinterest
+
+
+
+
+
+
+Wired Youtube
+
+
+
+
+
+
+Wired Tumblr
+
+
+
+
+
+
+Wired Instagram
+
+
+
+
+
+
+
+Login
+
+
+Subscribe
+
+
+Advertise
+
+
+Site Map
+
+
+Press Center
+
+
+FAQ
+
+
+Customer Care
+
+
+Contact Us
+
+
+SecureDrop
+
+
+T-Shirt Collection
+
+
+Newsletter
+
+
+Wired Staff
+
+
+Jobs
+
+
+RSS
+
+
+CNMN Collection
+Use of this site constitutes acceptance of our user agreement (effective 3/21/12) and privacy policy (effective 3/21/12). Affiliate link policy. Your California privacy rights. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.
+
+
+
+var blockAdBlock = false;
+
+        // <![CDATA[
+        var disqus_shortname = 'wired';
+        (function () {
+            var nodes = document.getElementsByTagName('span');
+            for (var i = 0, url; i < nodes.length; i++) {
+                if (nodes[i].className.indexOf('dsq-postid') != -1 && nodes[i].parentNode.tagName == 'A') {
+                    nodes[i].parentNode.setAttribute('data-disqus-identifier', nodes[i].getAttribute('data-dsqidentifier'));
+                    url = nodes[i].parentNode.href.split('#', 1);
+                    if (url.length == 1) { url = url[0]; }
+                    else { url = url[1]; }
+                    nodes[i].parentNode.href = url + '#disqus_thread';
+                }
+            }
+            var s = document.createElement('script');
+            s.async = true;
+            s.type = 'text/javascript';
+            s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+        }());
+        // ]]>
+        
+window.digitalData={
+    "contributor": "President Barack Obama",
+    "contentID": 2103363,
+    "contentLength": "",
+    "display": "Barack Obama: Now Is the Greatest Time to Be Alive | WIRED",
+    "pageType": "Article|video-inline-post",
+    "searchTerms": "",
+    "canonical": "https:\/\/www.wired.com\/2016\/10\/president-obama-guest-edits-wired-essay\/",
+    "pageValue": "all",
+    "publishDate": "2016-10-12T06:55:02+00:00",
+    "section": "business",
+    "subsection": "business\/null\/null\/null",
+    "numOfSearchResults": "",
+    "modifiedDate": "2016-10-12T18:05:51+00:00",
+    "keywords": {
+        "display": "barack-obama|magazine-24-11|national-affairs"
+    },
+    "logged_in": "not logged in"
+}; 
+
+
+
+			(function(s, p, d) {
+				var h=d.location.protocol, i=p+"-"+s,
+					e=d.getElementById(i), r=d.getElementById(p+"-root"),
+					u=h==="https:"?"d1z2jf7jlzjs58.cloudfront.net"
+					:"static."+p+".com";
+				if (e) return;
+				e = d.createElement(s); e.id = i; e.async = true;
+				e.src = h+"//"+u+"/p.js"; r.appendChild(e);
+			})("script", "parsely", document);
+		
+
+/* <![CDATA[ */
+var WIRED = {"accountsApi":"https:\/\/api-accounts.wired.com\/api"};
+var Wired_Video = {"taxonomy":"","term_id":""};
+var wiredVideoFeed = [];var wiredAds = {"wired_env":"production","channel":"business","slug":"president-obama-guest-edits-wired-essay","templateType":"article_video_inline_post","tags":["barack-obama","magazine-24-11","national-affairs"]};/* ]]> */
+
+
+
+
+		//<!--
+			var _comscore = _comscore || [];
+			_comscore.push({c1: "2",c2: "6035094",c4: "http://www.wired.com/2016/10/president-obama-guest-edits-wired-essay/?source=socnet_tw_ofa_20161013_bo_potus_wired_5&#038;utm_content=20161013_bo_potus_wired_5"});
+			(function() {var s  = document.createElement("script"),el = document.getElementsByTagName("script")[0];s.async = true; s.src = (document.location.protocol == "https:" ?"https://sb" : "http://b") +".scorecardresearch.com/beacon.js"; el.parentNode.insertBefore(s, el);})();
+		//-->
+		
+
+
+
+ 
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"https:\/\/www.wired.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.6.1"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.async=true,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		
+
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments)};
+			gtag('js', new Date());
+			gtag('config', 'UA-8293713-27');
+		
+
+	// Picture element HTML5 shiv
+	document.createElement( "picture" );
+
+
+
+
+
+

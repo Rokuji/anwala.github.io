@@ -1,0 +1,267 @@
+https://doeeducacao.org.br/
+
+
+
+ 
+Doação - Instituto Ayrton Senna
+
+
+
+
+
+
+	$(function() {
+		$.language = 'por';
+		$.url = 'https://doeeducacao.org.br/'
+	});
+	
+
+
+
+
+  if (document.location.pathname == "/"){
+  	(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MGWWB8');
+	console.log("Disparo inicio G.A.");
+  } else {
+  	console.log("Não Disparo inicio G.A.");
+  }
+
+
+
+
+
+
+
+
+Instituto Ayrton Senna · Doação
+Já sou Doador
+Fale Conosco
+Idioma / Language
+
+
+PT
+EN
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Já sou Doador Fale Conosco
+
+
+PT
+EN
+
+
+
+
+MENU
+
+
+
+
+
+
+
+Bem-vindo
+
+
+ Pessoa Física PessoaJurídica  
+
+
+	﻿
+
+
+
+
+
+Site 100% Seguro
+
+
+
+
+
+
+
+
+
+Política Privacidade
+
+Suas informações cadastrais e seus dados não serão comercializados, alugados ou transferidos a terceiros. Respeitamos as boas práticas para envio de comunicados, boletins e newsletters  via e-mail.
+
+
+
+
+Contato
+E-mail: doacao@ias.org.br
+Telefone: 11 2974-3062
+
+
+
+
+
+
+Copyright © Instituto Ayrton Senna 2017 | TODOS OS DIREITOS RESERVADOS.
+Todo o conteúdo do site, fotos, imagens, logotipos, marcas, dizeres, som, software, layout, aqui veiculados são de propriedade exclusiva do Instituto Ayrton Senna. É vedada qualquer reprodução, total ou parcial, de qualquer elemento de identidade, sem expressa autorização. A violação de qualquer direito mencionado implicará na responsabilização cível e criminal nos termos da Lei.
+Desenvolvido por 
+
+
+
+
+
+
+
+
+
+
+Sua mensagem foi enviada com sucesso, em breve nossa equipe entrará em contato com você.
+Você também pode entrar em contato por telefone: 11 2974-3062.
+
+
+Ocorreu um erro no envio da sua mensagem, tente novamente mais tarde..
+Você também pode entrar em contato por telefone: 11 2974-3062.
+
+
+×
+
+
+
+
+
+
+
+
+Para dúvidas, sugestões, críticas ou informações, entre em contato conosco. Será um prazer ouví-lo.
+
+
+
+Campo Obrigatório
+
+
+
+
+
+Campo Obrigatório
+
+
+
+Campo Obrigatório
+
+
+
+
+
+
+Assunto
+Dúvidas
+Reclamação
+Comentários
+
+Campo Obrigatório
+
+ 
+
+Campo Obrigatório
+
+
+
+
+
+
+
+Cancelar
+
+
+
+
+
+
+
+
+	$(document).ready(function(){
+		$('#contatoAssunto').change(function(event) {
+			var recipient = $(this).find('option:selected').data('recipient');
+			$('#recipientEmail').val(recipient);
+		});
+
+		function respostaModal($status){
+			if ($status == 'success') {
+				$('#modal-contato-resposta #error-msg').addClass('hide');
+				$('#modal-contato-resposta #success-msg').removeClass('hide');
+				$('#modal-contato-resposta').removeClass('alert').addClass('success');
+			} else if($status == 'error'){
+				$('#modal-contato-resposta #success-msg').addClass('hide');
+				$('#modal-contato-resposta #error-msg').removeClass('hide');
+				$('#modal-contato-resposta').removeClass('success').addClass('alert');
+			};
+
+			$('#modal-contato').foundation('reveal', 'close');
+			closeMyModal = 1;
+			$(document).bind('closed.fndtn.reveal', '[data-reveal]', function() {
+				if (closeMyModal <= 1) {
+					$('#modal-contato-resposta').foundation('reveal', 'open');
+				  closeMyModal ++;
+				};
+			});
+		};
+
+		$("#formFaleConosco").on('valid', function(event) {
+			event.preventDefault();
+			var dados = $(this).serializeArray();
+
+			// console.log(JSON.stringify(dados));
+			// return;
+
+			$.ajax({
+				type: 'POST',
+				url: '/paginas/fale_conosco',
+				data: dados,
+				dataType: 'JSON',
+				success: function(data){
+
+					if (data.retorno == true) {
+						respostaModal('success');
+					}
+				},
+				error: function(data){
+					respostaModal('error');
+				}
+			});
+		});
+
+	});
+
+
+
+
+
+
+
+
+
+  if (document.location.pathname != "/" && document.location.pathname != "/complemento" && document.location.pathname != "/agradecimento" && document.location.pathname != "/valores" 
+      && document.location.pathname != "/doacao"){
+  	(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MGWWB8');
+	console.log("Disparo Footer G.A.");
+  } else {
+  	console.log("Não Disparo Footer G.A.");
+  }
+
+
+

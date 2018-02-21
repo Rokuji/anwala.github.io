@@ -1,0 +1,48 @@
+http://pr.aljazeera.com/post/155665606810/exclusive-al-jazeera-101-east-investigates
+var __pbpa = true;var translated_warning_string = 'Warning: Never enter your Tumblr password unless \u201chttps://www.tumblr.com/login\u201d\x0ais the address in your web browser.\x0a\x0aYou should also see a green \u201cTumblr, Inc.\u201d identification in the address bar.\x0a\x0aSpammers and other bad guys use fake forms to steal passwords.\x0a\x0aTumblr will never ask you to log in from a user\u2019s blog.\x0a\x0aAre you absolutely sure you want to continue?';Exclusive: Al Jazeera 101 East investigates...figure{margin:0}.tmblr-iframe{position:absolute}.tmblr-iframe.hide{display:none}.tmblr-iframe--amp-cta-button{visibility:hidden;position:fixed;bottom:10px;left:50%;transform:translateX(-50%);z-index:100}.tmblr-iframe--amp-cta-button.tmblr-iframe--loaded{visibility:visible;animation:iframe-app-cta-transition .2s ease-out}
+      // test for svg as image @see http://css-tricks.com/test-support-svg-img/
+      if(document.implementation.hasFeature("http://www.w3.org/TR/SVG11/feature#Image", "1.1")) {
+        document.documentElement.className += " svgasimg";
+      }
+
+    
+	{"@type":"SocialMediaPosting","url":"http:\/\/pr.aljazeera.com\/post\/155665606810\/exclusive-al-jazeera-101-east-investigates","mainEntityOfPage":true,"datePublished":"2017-01-10T09:10:09-05:00","author":"aljazeerapr","headline":"Exclusive: Al Jazeera 101 East investigates Cambodia\u2019s Deadly Politics","articleBody":"\u2022 101 East looks into the brutal murder of activist Kem Ley\n\u2022 Reporter Mary Ann Jolley looks at the possible motives and players behind Kem Ley\u2019s violent death\nDoha - 10th January, 2017.\nIn July 2016, Kem Ley, a popular social activist, radio commentator and frequent critic of the Cambodian...","@context":"http:\/\/schema.org"}Al Jazeera PRHomeAboutAwardsContact UsArchiveAl Jazeera PRهنا الجزيرةSearchExclusive: Al Jazeera 101 East investigates Cambodia’s Deadly Politics
+                                        January 10, 2017
+                                    101 East looks into the brutal
+murder of activist Kem LeyReporter Mary Ann Jolley looks
+at the possible motives and players behind Kem Ley’s violent death Doha - 10th
+January, 2017.In July 2016, Kem
+Ley, a popular social activist, radio commentator and frequent critic of the
+Cambodian government was shot dead in broad daylight in a Phnom Penh petrol
+station.Bystanders chased the suspected killer down
+the road.  And when they caught up to him,
+they hit and kicked him. He was only saved from a savage beating, or worse, by
+police who took him away on their motorbike.On the day of Kem Ley’s funeral, tens of
+thousands of people poured onto the streets to pay homage to one of Cambodia’s
+favourite sons. Governments and human rights organisations
+around the world called for a thorough and impartial investigation into his
+murder. Kem Ley’s killing came after a string of
+unsolved murders and attacks on activists and union officials. And in the lead
+up to the national elections in 2018 things have been getting worse for those
+daring to speak out against the status quo. Just a couple of days before he was gunned
+down, Kem Ley had been on a radio show calling for an investigation into the
+business interests of the family of Prime Minister Hun Sen. He talked about a
+new report by Global Witness, which revealed the vast extent of the
+family’s  financial reach.Prime Minister Hun Sen, who has ruled Cambodia for 31 years, has
+famously claimed his only source of income is his Prime Ministerial salary of
+less than US$14,000 a year. Yet experts estimate his family’s combined wealth to
+be between US$500 million and US$1 billion. The Global Witness report provides
+details on family domestic companies worth US$200 million.Was Kem Ley killed because of his activism
+and criticism of the government?  Or was
+it, as his accused killer claimed, because of an unpaid debt?And who is this killer – a man who calls
+himself Chuob Samlab , which in Khmer literally means “meet to kill”? 101 East embarks on an investigation into
+Kem Ley’s murder.Reporter Mary Ann Jolley travels from London
+to Paris, Phnom Penh to Bangkok, to piece together the details of the killing
+and the arrested killer. She looks at the possible motives and players behind Kem
+Ley’s violent death.Kem Ley is dead. But he has left behind a
+legacy of Cambodians who will not be silenced.“I’m determined that I must
+be strong. My husband once told me that in his absence, I should not cry, but
+go on no matter what and I must stand up and challenge them.”Bou Rachana, Kem Ley’s
+widow Ends: For more information please email pressoffice@aljazeera.net101 Eastal jazeera englishCambodiaRead moreanonymousspirits liked this                                    aljazeerapr posted this                                                                        FacebookTwitterAboutThe Public Relations team at Al Jazeera sharing what's new and exclusive.
+                    function recent_tweets(data) { window.tweets_data = data; }
+                People I followAl Jazeera PRHomeAboutAwardsContact UsArchive© Copyright Al Jazeera 2012–2018

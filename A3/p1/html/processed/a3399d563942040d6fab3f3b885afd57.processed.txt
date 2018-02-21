@@ -1,0 +1,51 @@
+http://pr.aljazeera.com/post/155755485915/upfront-discusses-obama-legacy-with-derek-chollet
+var __pbpa = true;var translated_warning_string = 'Warning: Never enter your Tumblr password unless \u201chttps://www.tumblr.com/login\u201d\x0ais the address in your web browser.\x0a\x0aYou should also see a green \u201cTumblr, Inc.\u201d identification in the address bar.\x0a\x0aSpammers and other bad guys use fake forms to steal passwords.\x0a\x0aTumblr will never ask you to log in from a user\u2019s blog.\x0a\x0aAre you absolutely sure you want to continue?';Upfront discusses Obama legacy with Derek Cholletfigure{margin:0}.tmblr-iframe{position:absolute}.tmblr-iframe.hide{display:none}.tmblr-iframe--amp-cta-button{visibility:hidden;position:fixed;bottom:10px;left:50%;transform:translateX(-50%);z-index:100}.tmblr-iframe--amp-cta-button.tmblr-iframe--loaded{visibility:visible;animation:iframe-app-cta-transition .2s ease-out}
+      // test for svg as image @see http://css-tricks.com/test-support-svg-img/
+      if(document.implementation.hasFeature("http://www.w3.org/TR/SVG11/feature#Image", "1.1")) {
+        document.documentElement.className += " svgasimg";
+      }
+
+    
+	{"@type":"SocialMediaPosting","url":"http:\/\/pr.aljazeera.com\/post\/155755485915\/upfront-discusses-obama-legacy-with-derek-chollet","mainEntityOfPage":true,"datePublished":"2017-01-12T07:57:26-05:00","author":"aljazeerapr","image":"http:\/\/78.media.tumblr.com\/24c0784ed2b5a4e2834e94c2835ec8f6\/tumblr_inline_ojnq3fVBLL1rwl04r_540.jpg","headline":"Upfront discusses Obama legacy with Derek Chollet","articleBody":"\u2022 Says those involved with Obama\u2019s Syria policy \u201cdon\u2019t look back with any pride upon what Syria is today\u201d\n\u2022  Says authorizing use of drones was one the most \u201cdifficult issues\u201d Obama had to face\n\u2022 Expresses concern over President-elect Donald Trump inheriting Obama\u2019s military powers, including the...","@context":"http:\/\/schema.org"}Al Jazeera PRHomeAboutAwardsContact UsArchiveAl Jazeera PRهنا الجزيرةSearchUpfront discusses Obama legacy with Derek Chollet
+                                        January 12, 2017
+                                    Says those involved with Obama’s Syria policy “don’t look back
+with any pride upon what Syria is today” Says authorizing
+use of drones was one the most “difficult issues” Obama
+had to faceExpresses concern over President-elect Donald Trump inheriting
+Obama’s military
+powers, including the expanded drone program: “It
+worries me a lot”Washington, D.C. – 12th, January 2017 - In an interview with Al
+Jazeera English’s current affairs show UpFront, Derek Chollet, former
+assistant secretary of defense under
+U.S. President Barack Obama,
+speaks about the president’s legacy. “Those of us who were involved in the making
+of Syria policy in the last five years don’t look with any pride upon what
+Syria is today,” Chollet told UpFront host Mehdi Hasan. “There are many things, as I’ve looked back,
+that the U.S. could have done differently,” he said.However, Chollet, who wrote
+the book The Long Game: How Obama Defied Washington and Redefined America’s
+Role in the World, did say that the administration’s biggest success on
+Syria was reducing the
+Assad government’s stockpile of chemical
+weapons.“I think 1,300 tonnes of chemical weapons out of Syria is good for the world,
+good for us,” he said.On the subject of the Iran deal, Chollet
+dismissed claims that the president crafted his Syria policies to accommodate the Iranian government and ensure the Iran deal
+remains intact.“I don’t see that, in any way, connected
+to any of the policy decisions on Syria,” he said.During the interview, Chollet was also asked
+about President Obama’s use of drones.“No question that the use of drones has been
+one of the more controversial and difficult issues that President Obama’s had
+to face,” he said.“He’s used them quite effectively,” he added.When asked further if he was worried about
+President-elect Donald Trump inheriting Obama’s military powers, including the
+expanded drone program, he replied: “It worries me a lot.”Note to Editors·
+        This ‘UpFront’ interview
+with Derek Chollet is airing Friday January 13th at 19:30GMT.·
+        The full show will be available
+through this link: www.aljazeera.com/upfront from 19:30GMT
+onwards.·
+        If using quotes please credit
+Al Jazeera English and ‘UpFront’ and please add this link to online copy
+www.aljazeera.com/upfront·
+        UpFront broadcasts on Fridays
+at 19:30 GMT. Follow ‘UpFront’ on Twitter@AJUpFront·         For more
+information, or media enquiries, please contact: pressoffice@aljazeera.netderek cholletbarack obamaal jazeera englishal jazeeraAlJazeera AJUpFrontMehdi HasanRead moreFacebookTwitterAboutThe Public Relations team at Al Jazeera sharing what's new and exclusive.
+                    function recent_tweets(data) { window.tweets_data = data; }
+                People I followAl Jazeera PRHomeAboutAwardsContact UsArchive© Copyright Al Jazeera 2012–2018
