@@ -1,0 +1,703 @@
+http://www.bbc.co.uk/bbcthree/article/48acd4f9-11bd-4797-b984-5f72d919f8e0
+<!doctype html>
+<html prefix="og: http://ogp.me/ns#" lang="en-GB" class="no-js b-pw-1280 b-header--black--white b-footer--black--white">
+  <head>
+    <meta charset="utf-8">
+    <title>The Gossip: The Jump&#39;s already claimed its first victim - BBC Three</title>
+    <meta name="description" content="Check out this content on BBC Three.">
+    
+      <script async src="https://bbcthree-web-cdn.files.bbci.co.uk/bbcthree-web-server/2.0.0-799.x86_64/js/vendor/modernizr.min.js"></script>
+    
+    <script class="js-require-lib" src="http://static.bbci.co.uk/frameworks/requirejs/lib.js"></script>
+    
+      <script>
+        requirejs.config({
+          shim: {
+            facebook : {
+              exports: 'FB'
+            },
+            instagram: {
+              exports: 'instgrm'
+            },
+            twitter: {
+              exports: 'twttr'
+            },
+            imgur: {
+              exports: 'imgurEmbed'
+            },
+            fetch: {
+              exports: 'fetch'
+            },
+            riddle: {
+              exports: 'riddleAPI'
+            }
+          },
+          paths: {
+            'gallery': 'https://bbcthree-web-cdn.files.bbci.co.uk/bbcthree-web-server/2.0.0-799.x86_64/js/app/gallery.entry.bundle',
+            'common': 'https://bbcthree-web-cdn.files.bbci.co.uk/bbcthree-web-server/2.0.0-799.x86_64/js/app/common.bundle',
+            'fetch': 'https://bbcthree-web-cdn.files.bbci.co.uk/bbcthree-web-server/2.0.0-799.x86_64/js/app/fetch.bundle',
+            'twitter': 'https://platform.twitter.com/widgets',
+            'instagram': 'https://platform.instagram.com/en_GB/embeds',
+            'imgur': 'https://s.imgur.com/min/embed-controller',
+            'facebook': 'https://connect.facebook.net/en_GB/sdk',
+            'riddle': 'https://bbcthree-web-cdn.files.bbci.co.uk/bbcthree-web-server/2.0.0-799.x86_64/js/app/riddle.entry.bundle'
+          }
+        });
+        requirejs(['common']);
+
+        // Catch and send errors to iStats
+        window.onerror = function(msg, url, line) {
+          requirejs(['istats-1'], function (istats) {
+            istats.log('error', msg, {
+              'url': url,
+              'line': line,
+              'userAgent': navigator.userAgent
+            });
+          });
+        };
+      </script>
+    
+    
+<script>
+    window.orb_fig_blocking = false
+    window.bbcredirection = {
+        geo: false,
+        device: false
+    };
+</script>
+ <!-- Nav Env: live -->
+<!-- Analytics Web Module: 89 -->
+<!-- NavID Web Module: 0.2.0-152 -->
+<!-- Searchbox Web Module: 136 -->
+<!-- Promo Web Module: 0.0.0-239.4080e99 -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0"><meta property="fb:admins" content="100004154058350"><link rel="stylesheet" href="https://nav.files.bbci.co.uk/orbit/2.0.0-111.55a7e4d/css/orb-ltr.min.css"><!--[if (lt IE 9) & (!IEMobile)]>
+    <link rel="stylesheet" href="https://nav.files.bbci.co.uk/orbit/2.0.0-111.55a7e4d/css/orb-ie-ltr.min.css">
+    <![endif]--><script type="text/javascript">/*<![CDATA[*/
+        window.orb = {
+            lang: 'en',
+            bbcBaseUrl: 'http://www.bbc.co.uk',
+            staticHost: 'https://nav.files.bbci.co.uk/orbit/2.0.0-111.55a7e4d',
+            figUrl: 'https://fig.bbc.co.uk/frameworks/fig/2/fig.js',
+            partialCookieOvenUrl: 'https://cookie-oven.api.bbc'
+        };
+
+        document.documentElement.className += (document.documentElement.className? ' ' : '') + 'orb-js';
+        window.orb.worldwideNavlinks = '<li class="orb-nav-home"><a href="http://www.bbc.com/">Home</a></li><li class="orb-nav-newsdotcom"><a href="http://www.bbc.com/news">News</a></li><li class="orb-nav-sport"><a href="http://www.bbc.com/sport/">Sport</a></li><li class="orb-nav-weather"><a href="http://www.bbc.com/weather/">Weather</a></li><li class="orb-nav-shop"><a href="http://shop.bbc.com/">Shop</a></li><li class="orb-nav-earthdotcom"><a href="http://www.bbc.com/earth/">Earth</a></li><li class="orb-nav-travel-dotcom"><a href="http://www.bbc.com/travel/">Travel</a></li><li class="orb-nav-capital"><a href="http://www.bbc.com/capital/">Capital</a></li><li class="orb-nav-culture"><a href="http://www.bbc.com/culture/">Culture</a></li><li class="orb-nav-future"><a href="http://www.bbc.com/future/">Future</a></li><li class="orb-nav-tv"><a href="http://www.bbc.co.uk/tv/">TV</a></li><li class="orb-nav-radio"><a href="http://www.bbc.co.uk/radio/">Radio</a></li><li class="orb-nav-cbbc"><a href="https://www.bbc.co.uk/cbbc">CBBC</a></li><li class="orb-nav-cbeebies"><a href="https://www.bbc.co.uk/cbeebies">CBeebies</a></li><li class="orb-nav-food"><a href="http://www.bbc.co.uk/food/">Food</a></li><li class="orb-nav-bitesize"><a href="https://www.bbc.co.uk/education">Bitesize</a></li><li class="orb-nav-music"><a href="http://www.bbc.co.uk/music/">Music</a></li><li class="orb-nav-arts"><a href="http://www.bbc.co.uk/arts/">Arts</a></li><li class="orb-nav-makeitdigital"><a href="http://www.bbc.co.uk/makeitdigital">Make It Digital</a></li><li class="orb-nav-taster"><a href="http://www.bbc.co.uk/taster">Taster</a></li><li class="orb-nav-nature"><a href="http://www.bbc.com/nature/">Nature</a></li><li class="orb-nav-local"><a href="https://www.bbc.co.uk/news/localnews">Local</a></li>';
+
+
+     /*]]>*/</script><script>// Promise polyfill from https://github.com/bramstein/promis
+        (function(){'use strict';var f,g=[];function l(a){g.push(a);1==g.length&&f()}function m(){for(;g.length;)g[0](),g.shift()}f=function(){setTimeout(m)};function n(a){this.a=p;this.b=void 0;this.f=[];var b=this;try{a(function(a){q(b,a)},function(a){r(b,a)})}catch(c){r(b,c)}}var p=2;function t(a){return new n(function(b,c){c(a)})}function u(a){return new n(function(b){b(a)})}function q(a,b){if(a.a==p){if(b==a)throw new TypeError;var c=!1;try{var d=b&&b.then;if(null!=b&&"object"==typeof b&&"function"==typeof d){d.call(b,function(b){c||q(a,b);c=!0},function(b){c||r(a,b);c=!0});return}}catch(e){c||r(a,e);return}a.a=0;a.b=b;v(a)}} function r(a,b){if(a.a==p){if(b==a)throw new TypeError;a.a=1;a.b=b;v(a)}}function v(a){l(function(){if(a.a!=p)for(;a.f.length;){var b=a.f.shift(),c=b[0],d=b[1],e=b[2],b=b[3];try{0==a.a?"function"==typeof c?e(c.call(void 0,a.b)):e(a.b):1==a.a&&("function"==typeof d?e(d.call(void 0,a.b)):b(a.b))}catch(h){b(h)}}})}n.prototype.g=function(a){return this.c(void 0,a)};n.prototype.c=function(a,b){var c=this;return new n(function(d,e){c.f.push([a,b,d,e]);v(c)})}; function w(a){return new n(function(b,c){function d(c){return function(d){h[c]=d;e+=1;e==a.length&&b(h)}}var e=0,h=[];0==a.length&&b(h);for(var k=0;k<a.length;k+=1)u(a[k]).c(d(k),c)})}function x(a){return new n(function(b,c){for(var d=0;d<a.length;d+=1)u(a[d]).c(b,c)})};window.Promise||(window.Promise=n,window.Promise.resolve=u,window.Promise.reject=t,window.Promise.race=x,window.Promise.all=w,window.Promise.prototype.then=n.prototype.c,window.Promise.prototype["catch"]=n.prototype.g);}());
+    
+        window.bbcpage = {
+            loadModule: function(deps) {
+                return new Promise(function (resolve, reject) {
+                    window.require(deps, function () {
+                                resolve.apply(this, arguments);
+                            },
+                            function (error) {
+                                reject(error);
+                            });
+                })
+            }
+        };
+    
+        window.bbcuser = {
+            allowsPerformanceCookies: function() {
+                return window.bbcpage.loadModule(['orb/cookies'])
+                        .then(function(bbccookies) {
+                            return !!bbccookies.readPolicy('performance');
+                        });
+            },
+            allowsFunctionalCookies: function() {
+                return window.bbcpage.loadModule(['orb/cookies'])
+                        .then(function(bbccookies) {
+                            return !!bbccookies.readPolicy('personalisation');
+                        });
+            },
+            getCookieValue: function(cookieName) {
+                return window.bbcpage.loadModule(['orb/cookies'])
+                        .then(function(bbccookies) {
+                            return bbccookies.get(cookieName);
+                        });
+            },
+            resetCookiesPreferences: function() {
+                return window.bbcpage.loadModule(['orb/cookies'])
+                        .then(function(bbccookies) {
+                            bbccookies.setDefaultCookiesSingleDomain();
+                        });
+            },
+            hasCookiesEnabled: function() {
+                return window.bbcpage.loadModule(['orb/cookies'])
+                        .then(function(bbccookies) {
+                            return !!bbccookies.cookiesEnabled();
+                        });
+            },
+            hasSeenCookieBanner: function() {
+                return window.bbcpage.loadModule(['orb/cookies'])
+                        .then(function (bbccookies) {
+                            return !!bbccookies.isCookiePolicySet();
+                        });
+            }
+        };</script> <script src="https://nav.files.bbci.co.uk/orbit/2.0.0-111.55a7e4d/js/api.min.js"></script><script type="text/javascript">define('orb/cookies', function() {
+            return window.bbccookies;
+    	});</script><script type="text/javascript">window.bbcFlagpoles_istats="ON",require.config({paths:{"istats-1":"//nav.files.bbci.co.uk/nav-analytics/0.1.0-89/js/istats-1","megavolt-client":"//nav.files.bbci.co.uk/nav-analytics/0.1.0-89/js/megavolt-client"},config:{"megavolt-client":{baseUrl:"https://mvt.api.bbc.com"}}}),require(["istats-1","orb/cookies"],function(e,t){if(t.isAllowed("s1")){e.addCollector({name:"default",url:"https://sa.bbc.co.uk/bbc/bbc/s",separator:"&"});var a="unknown";e.setCountername(a),window.istats_countername&&e.setCountername(window.istats_countername),e.addLabels("ml_name=webmodule&ml_version=89&blq_e=orbit&blq_r=orbit&blq_s=orbit&blq_v=default&language=en")}});</script><link rel="stylesheet" href="//static.bbc.co.uk/id/0.37.24/style/id-cta.css"><link rel="stylesheet" href="//static.bbc.co.uk/id/0.37.24/style/id-cta-v5.css"><!--[if IE 8]><link href="//static.bbc.co.uk/id/0.37.24/style/ie8.css" rel="stylesheet"/> <![endif]--><script type="text/javascript">/* <![CDATA[ */ var map = {};  if (typeof(map['jssignals-1']) == 'undefined') { map['jssignals-1'] = 'https://static.bbc.co.uk/frameworks/jssignals/0.3.6/modules/jssignals-1'; }  require({paths: map}); /* ]]> */</script><script src="//static.bbc.co.uk/id/0.37.24/modules/idcta/dist/idcta-1.min.js"></script><script type="text/javascript">(function () { if (!window.require) { throw new Error('idcta: could not find require module'); } if(typeof(map) == 'undefined') { var map = {}; } if(!!document.createElementNS && !!document.createElementNS('http://www.w3.org/2000/svg', "svg").createSVGRect) { document.documentElement.className += ' id-svg'; } var ptrt = RegExp("[\\?&]ptrt=([^&#]*)").exec(document.location.href); var ENDPOINT_URL = '//' + ((window.location.protocol == "https:") ? ('ssl.bbc.co.uk').replace("www.", "ssl.") : ('ssl.bbc.co.uk').replace("ssl.", "www.")); var ENDPOINT_CONFIG = ('/idcta/config?callback&amp;locale=en-GB&ptrt=' + encodeURI((ptrt ? ptrt[1] : document.location.href))).replace(/\&amp;/g, '&'); var ENDPOINT_TRANSLATIONS = '/idcta/translations?callback&locale=en-GB'; map['idapp-1'] = '//static.bbc.co.uk/idapp/0.72.58/modules/idapp/idapp-1'; map['idcta'] = '//static.bbc.co.uk/id/0.37.24/modules/idcta'; map['idcta/config'] = [ENDPOINT_URL + ENDPOINT_CONFIG, '//static.bbc.co.uk/id/0.37.24/modules/idcta/fallbackConfig']; map['idcta/translations'] = [ENDPOINT_URL + ENDPOINT_TRANSLATIONS, '//static.bbc.co.uk/id/0.37.24/modules/idcta/fallbackTranslations']; require({paths: map}); /* * Temporary code * To be removed when old id-statusbar-config is no longer supported */ define('id-statusbar-config', ['idcta/id-config'], function(conf) { return conf; }); define('idcta/id-statusbar-config', ['idcta/id-config'], function(conf) { return conf; }); })();</script><link rel="stylesheet" href="//mybbc.files.bbci.co.uk/notification-ui/3.8.4/css/main.min.css"><script type="text/javascript">// Globally available search context
+  window.SEARCHBOX={"variant":"default","locale":"en","navSearchboxStaticPrefix":"//nav.files.bbci.co.uk/searchbox/1.0.0-136","searchboxAppStaticPrefix":"//search.files.bbci.co.uk/searchbox-app/1.0.19","searchFormHtml":"<div tabindex=\"-1\" data-reactid=\".jval9y49og\" data-react-checksum=\"1886463233\"><div data-reactid=\".jval9y49og.0\"><section class=\"se-searchbox-panel\" data-reactid=\".jval9y49og.0.0\"><div class=\"se-g-wrap\" data-reactid=\".jval9y49og.0.0.0\"><div class=\"se-g-layout\" data-reactid=\".jval9y49og.0.0.0.0\"><div class=\"se-g-layout__item se-searchbox-title\" aria-hidden=\"true\" data-reactid=\".jval9y49og.0.0.0.0.0\">search</div><div class=\"se-g-layout__item se-searchbox\" data-reactid=\".jval9y49og.0.0.0.0.1\"><form accept-charset=\"utf-8\" id=\"searchboxDrawerForm\" method=\"get\" action=\"https://search.bbc.co.uk/search\" data-reactid=\".jval9y49og.0.0.0.0.1.0\"><label class=\"se-searchbox__input\" for=\"se-searchbox-input-field\" data-reactid=\".jval9y49og.0.0.0.0.1.0.0\"><span class=\"se-sr-only\" data-reactid=\".jval9y49og.0.0.0.0.1.0.0.0\">Search Term</span><input name=\"q\" type=\"text\" value=\"\" id=\"se-searchbox-input-field\" class=\"se-searchbox__input__field\" maxlength=\"512\" autocomplete=\"off\" autocorrect=\"off\" autocapitalize=\"off\" spellcheck=\"false\" tabindex=\"0\" data-reactid=\".jval9y49og.0.0.0.0.1.0.0.1\"/></label><input type=\"hidden\" name=\"scope\" value=\"\" data-reactid=\".jval9y49og.0.0.0.0.1.0.2\"/><button type=\"submit\" class=\"se-searchbox__submit\" tabindex=\"0\" data-reactid=\".jval9y49og.0.0.0.0.1.0.3\">Search</button><button type=\"button\" class=\"se-searchbox__clear se-searchbox__clear--visible\" tabindex=\"0\" data-reactid=\".jval9y49og.0.0.0.0.1.0.4\">Close</button></form></div></div></div></section><div aria-live=\"polite\" aria-atomic=\"true\" class=\"se-suggestions-container\" data-reactid=\".jval9y49og.0.1\"><section class=\"se-g-wrap\" data-reactid=\".jval9y49og.0.1.0\"></section></div></div></div>","searchScopePlaceholder":"","searchScopeParam":"","searchScopeTemplate":"","searchPlaceholderWrapperStart":"","searchPlaceholderWrapperEnd":""};
+  window.SEARCHBOX.suppress = false;
+  window.SEARCHBOX.searchScope = SEARCHBOX.searchScopeTemplate.split('-')[0];</script><link rel="stylesheet" href="//nav.files.bbci.co.uk/searchbox/1.0.0-136/css/main.css"><!--[if IE 8]>
+  <script type="text/javascript" src="//nav.files.bbci.co.uk/searchbox/1.0.0-136/script/html5shiv.min.js"></script>
+  <script type="text/javascript">window['searchboxIEVersion'] = 8;</script>
+  <link rel="stylesheet" href="//nav.files.bbci.co.uk/searchbox/1.0.0-136/css/ie8.css">
+<![endif]--><!--[if IE 9]>
+  <script type="text/javascript">window['searchboxIEVersion'] = 9;</script>
+<![endif]--><script type="text/javascript">require.config({
+        "paths": {
+            "orb/async/_footerpromo": 'https://nav.files.bbci.co.uk/nav-promo/0.0.0-239.4080e99/js/async/_footerpromo'
+        }
+    });</script><!-- BBCDOTCOM head --><script type="text/javascript">/*<![CDATA[*/ var _sf_startpt = (new Date()).getTime(); /*]]>*/</script><style type="text/css">.bbccom_display_none{display:none;}</style><script type="text/javascript">/*<![CDATA[*/ var bbcdotcomConfig, googletag = googletag || {}; googletag.cmd = googletag.cmd || []; var bbcdotcom = false; (function(){ if(typeof require !== 'undefined') { require({ paths:{ "bbcdotcom":"https://static.bbc.co.uk/bbcdotcom/1.75.0/script" } }); } })(); /*]]>*/</script><script type="text/javascript">/*<![CDATA[*/ var bbcdotcom = { adverts: { keyValues: { set: function() {} } }, advert: { write: function () {}, show: function () {}, isActive: function () { return false; }, layout: function() { return { reset: function() {} } } }, config: { init: function() {}, isActive: function() {}, setSections: function() {}, isAdsEnabled: function() {}, setAdsEnabled: function() {}, isAnalyticsEnabled: function() {}, setAnalyticsEnabled: function() {}, setAssetPrefix: function() {}, setVersion: function () {}, setJsPrefix: function() {}, setSwfPrefix: function() {}, setCssPrefix: function() {}, setConfig: function() {}, getAssetPrefix: function() {}, getJsPrefix: function () {}, getSwfPrefix: function () {}, getCssPrefix: function () {}, isOptimizelyEnabled: function() {} }, survey: { init: function(){ return false; } }, data: {}, init: function() {}, objects: function(str) { return false; }, locale: { set: function() {}, get: function() {} }, setAdKeyValue: function() {}, utils: { addEvent: function() {}, addHtmlTagClass: function() {}, log: function () {} }, addLoadEvent: function() {} }; /*]]>*/</script><script type="text/javascript">/*<![CDATA[*/ (function(){ if (typeof orb !== 'undefined' && typeof orb.fig === 'function') { if (orb.fig('ad') && orb.fig('uk') == 0) { bbcdotcom.data = { ads: (orb.fig('ad') ? 1 : 0), stats: (orb.fig('uk') == 0 ? 1 : 0), statsProvider: orb.fig('ap') }; } } else { document.write('<script type="text/javascript" src="'+('https:' == document.location.protocol ? 'https://www.bbc.com' : 'http://tps.bbc.com')+'/wwscripts/data">\x3C/script>'); } })(); /*]]>*/</script><script type="text/javascript">/*<![CDATA[*/ (function(){ if (typeof orb === 'undefined' || typeof orb.fig !== 'function') { bbcdotcom.data = { ads: bbcdotcom.data.a, stats: bbcdotcom.data.b, statsProvider: bbcdotcom.data.c }; } if (bbcdotcom.data.ads == 1) { document.write('<script type="text/javascript" src="'+('https:' == document.location.protocol ? 'https://www.bbc.com' : 'http://www.bbc.com')+'/wwscripts/flag">\x3C/script>'); } })(); /*]]>*/</script><script type="text/javascript">/*<![CDATA[*/ (function(){ if (window.bbcdotcom && (typeof bbcdotcom.flag == 'undefined' || (typeof bbcdotcom.data.ads !== 'undefined' && bbcdotcom.flag.a != 1))) { bbcdotcom.data.ads = 0; } if (/[?|&]ads/.test(window.location.href) || /(^|; )ads=on; /.test(document.cookie) || /; ads=on(; |$)/.test(document.cookie)) { bbcdotcom.data.ads = 1; bbcdotcom.data.stats = 1; } if (window.bbcdotcom && (bbcdotcom.data.ads == 1 || bbcdotcom.data.stats == 1)) { bbcdotcom.assetPrefix = "https://static.bbc.co.uk/bbcdotcom/1.75.0/"; if (/(sandbox|int)(.dev)*.bbc.co*/.test(window.location.href) || /[?|&]ads-debug/.test(window.location.href) || document.cookie.indexOf('ads-debug=') !== -1) { document.write('<link rel="stylesheet" type="text/css" href="https://static.bbc.co.uk/bbcdotcom/1.75.0/style/dist/bbcdotcom.dev.css" />'); } else { document.write('<link rel="stylesheet" type="text/css" href="https://static.bbc.co.uk/bbcdotcom/1.75.0/style/dist/bbcdotcom.css" />'); } (function() { var useSSL = 'https:' == document.location.protocol; var src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js'; document.write('<scr' + 'ipt src="' + src + '">\x3C/script>'); })(); if (/(sandbox|int)(.dev)*.bbc.co*/.test(window.location.href) || /[?|&]ads-debug/.test(window.location.href) || document.cookie.indexOf('ads-debug=') !== -1) { document.write('<script type="text/javascript" src="https://static.bbc.co.uk/bbcdotcom/1.75.0/script/dist/bbcdotcom.dev.js">\x3C/script>'); } else { document.write('<script type="text/javascript" src="https://static.bbc.co.uk/bbcdotcom/1.75.0/script/dist/bbcdotcom.js">\x3C/script>'); } } })(); /*]]>*/</script><script type="text/javascript">if (window.bbcdotcom && bbcdotcom.data.stats == 1) { document.write('<link rel="dns-prefetch" href="//secure-us.imrworldwide.com/">'); document.write('<link rel="dns-prefetch" href="//me-cdn.effectivemeasure.net/">'); document.write('<link rel="dns-prefetch" href="//ssc.api.bbc.com/">'); } if (window.bbcdotcom && bbcdotcom.data.ads == 1) { document.write('<link rel="dns-prefetch" href="//www.googletagservices.com/">'); }</script><script type="text/javascript">if (window.bbcdotcom && bbcdotcom.data.ads == 1) { document.write('<meta name="google-site-verification" content="auTeTTwSt_KBY_4iDoR00Lwb7-qzx1IgzJy6ztaWgEI" />'); }</script><script type="text/javascript">/*<![CDATA[*/ (function(){ if (window.bbcdotcom && (bbcdotcom.data.ads == 1 || bbcdotcom.data.stats == 1)) { bbcdotcomConfig = {"adFormat":"standard","adKeyword":"","adMode":"smart","adsEnabled":true,"appAnalyticsSections":"","asyncEnabled":false,"disableInitialLoad":false,"advertInfoPageUrl":"http:\/\/www.bbc.com\/privacy\/cookies\/international\/","advertisementText":"Advertisement","analyticsEnabled":true,"appName":"","assetPrefix":"https:\/\/static.bbc.co.uk\/bbcdotcom\/1.75.0\/","customAdParams":[],"customStatsParams":[],"headline":"","id":"","inAssociationWithText":"in association with","keywords":"","language":"","orbTransitional":false,"outbrainEnabled":true,"outbrainSportEnabled":true,"adsenseEnabled":true,"adsportappEnabled":true,"lotameEnabled":true,"platinumEnabled":true,"tlNewsIndexEnabled":false,"tlNewsStoryEnabled":false,"tlNewsFpEnabled":false,"winterOlympicsEnabled":false,"optimizelyEnabled":false,"grapeshotEnabled":false,"palEnv":"live","productName":"","sections":[],"comScoreEnabled":true,"comscoreSite":"bbc","comscoreID":"19293874","comscorePageName":"","slots":"","sponsoredByText":"is sponsored by","adsByGoogleText":"Ads by Google","summary":"","type":"","features":{"testfeature":{"name":"testfeature","envs":["sandbox","int","test"],"on":true,"options":{},"override":null},"lxadverts":{"name":"lxadverts","envs":[],"on":true,"options":{},"override":null}},"staticBase":"\/bbcdotcom","staticHost":"https:\/\/static.bbc.co.uk","staticVersion":"1.75.0","staticPrefix":"https:\/\/static.bbc.co.uk\/bbcdotcom\/1.75.0","dataHttp":"tps.bbc.com","dataHttps":"www.bbc.com","flagHttp":"www.bbc.co.uk","flagHttps":"www.bbc.co.uk","analyticsHttp":"sa.bbc.com","analyticsHttps":"ssa.bbc.com"}; bbcdotcom.config.init(bbcdotcomConfig, bbcdotcom.data, window.location, window.document); bbcdotcom.config.setAssetPrefix("https://static.bbc.co.uk/bbcdotcom/1.75.0/"); bbcdotcom.config.setVersion("1.75.0"); document.write('<!--[if IE 7]><script type="text/javascript">bbcdotcom.config.setIE7(true);\x3C/script><![endif]-->'); document.write('<!--[if IE 8]><script type="text/javascript">bbcdotcom.config.setIE8(true);\x3C/script><![endif]-->'); document.write('<!--[if IE 9]><script type="text/javascript">bbcdotcom.config.setIE9(true);\x3C/script><![endif]-->'); if (/[?|&]ex-dp/.test(window.location.href) || document.cookie.indexOf('ex-dp=') !== -1) { bbcdotcom.utils.addHtmlTagClass('bbcdotcom-ex-dp'); } } })(); /*]]>*/</script><script type="text/javascript">var initOptimizely = (function(isEnabled){ if(!isEnabled) return; var logger = window.bbcdotcom.Logger('bbcdotcom:head:optimizely'); /* Allow Optimizely in these paths */ var allowPaths = ['/', '/wwhp']; /* Only run on optimizely on homepage */ if (bbcdotcom.utils && allowPaths.indexOf(window.location.pathname) !== -1 && window.bbccookies && bbccookies.readPolicy('performance') ){ /* set correct OptimizelyURL for prod or sandbox */ var optimizelyURL = "https://cdn.optimizely.com/public/4621041136/s/bbccom_sandbox.js"; if(window.location.hostname === 'www.bbc.com') { optimizelyURL = "https://cdn.optimizely.com/public/4621041136/s/bbccom_prod.js"; } /* Set cookie to 1 year */ window['optimizely'] = window['optimizely'] || []; window['optimizely'].push({ "type": "cookieExpiration", "cookieExpirationDays": 365 }); /* Require Optimizely script and initialize tests */ require(['jquery-1', optimizelyURL], function($) { var optimizely = window['optimizely']; /* Start optimizely experiments */ /* End optimizely experiments */ }); } })( bbcdotcom.config.isOptimizelyEnabled() );</script><script type="text/javascript">/*<![CDATA[*/ (function() { window.bbcdotcom.head = true; }()); /*]]>*/</script><script type="text/javascript">/*<![CDATA[*/
+        bbcpage.loadModule(['orb/cookies'])
+            .then(function(bbccookies) {
+                require(['istats-1', 'orb/fig'], function (istats, orbFig) {
+                    istats.addLabels({ 'bbc_mc': bbccookies.analyticsPolicyString() });
+
+                    var domesticBlqV = istats._getLabels().blq_v;
+                    var worldwideBlqV = istats._getLabels().blq_v + '-ww';
+
+                    function setBlqVLabel(fig) {
+                        if (fig.geo.isUK()) {
+                            istats.addLabels({'blq_v': domesticBlqV});
+                        } else {
+                            istats.addLabels({'blq_v': worldwideBlqV});
+                        }
+                    }
+
+                    // Guess with synchronous API first (might be cached and the async version might be too slow)
+                    setBlqVLabel(orbFig);
+                    orbFig.load(function (fig) {
+                        setBlqVLabel(fig);
+                    });
+                });
+            });
+    /*]]>*/</script>
+    <script>
+  // BBC Three specific iStats settings
+  !function() {
+    window.bbcFlagpoles_istats = 'ON';
+    window.orb = window.orb || {};
+    if (bbccookies.isAllowed('s1')) {
+      var currentPath = window.location.pathname;
+      var currentSection = 'unknown';
+      var currentType = 'unknown';
+      if (currentPath === '/bbcthree' || currentPath === '/bbcthree/home') {
+        var currentSection = 'bestof';
+        var currentType = 'best-of';
+      }
+      if (currentPath.match(/tag|category/)) {
+        var currentSection = 'bestoftag';
+        var currentType = 'best-of-tag';
+      }
+      if (currentPath.indexOf('daily-drop') > -1) {
+        var currentSection = 'dailydrop';
+        var currentType = 'daily-drop';
+      }
+      if (currentPath.match(/item|clip|article/)) {
+        var curie = window.location.pathname.split('/').pop()
+        var currentSection = 'singleitem.' + curie;
+        var currentType = 'single-item';
+      }
+      var buildNumber = '2.0.0-799.x86_64';
+      var istatsTrackingUrl = '//sa.bbc.co.uk/bbc/bbc/s?name=bbc_three.' + currentSection + '.page&app_version=' + buildNumber + '&pal_route=webservices&ml_name=barlesque&app_type=responsive&language=en-GB&ml_version=0.28.7&pal_webapp=barlesque&prod_name=frameworks&app_name=bbc-three&page_type=' + currentType;
+      require(['istats-1'], function(istats) {
+        var counterName = (window.istats_countername) ? window.istats_countername : istatsTrackingUrl.match(/[\?&]name=([^&]*)/i)[1];
+        istats.setCountername(counterName);
+        if (/\bIDENTITY=/.test(document.cookie)) {
+          istats.addLabels({
+            'bbc_identity': '1'
+          });
+        }
+        if (/\bckns_policy=\d\d0/.test(document.cookie)) {
+          istats.addLabels({
+            'ns_nc': '1'
+          });
+        }
+        var c = (document.cookie.match(/\bckns_policy=(\d\d\d)/) || []).pop() || '';
+        var screenWidthAndHeight = 'unavailable';
+        if (window.screen && screen.width && screen.height) {
+          screenWidthAndHeight = screen.width + 'x' + screen.height;
+        }
+        istats.addLabels({
+          'pal_route': 'webservice',
+          'ml_name': 'barlesque',
+          'app_type': 'responsive',
+          'language': 'en-GB',
+          'ml_version': '0.28.7',
+          'pal_webapp': 'barlesque',
+          'prod_name': 'frameworks',
+          'blq_s': '4d',
+          'blq_r': '2.7',
+          'blq_v': 'default',
+          'blq_e': 'webservice-HTML',
+          'bbc_mc': (c ? 'ad' + c.charAt(0) + 'ps' + c.charAt(1) + 'pf' + c.charAt(2) : 'not_set'),
+          'screen_resolution': screenWidthAndHeight,
+          'ns_referrer': encodeURI(((window.orb.referrer) ? window.orb.referrer : document.referrer)),
+          'app_version': buildNumber,
+          'app_name': 'bbc-three',
+          'bbc_site': 'bbcthree',
+          'page_type': currentType
+        });
+      });
+    }
+  }();
+</script>
+
+    
+      <link rel="stylesheet" href="https://bbcthree-web-cdn.files.bbci.co.uk/bbcthree-web-server/2.0.0-799.x86_64/css/gel.css">
+      <link rel="stylesheet" href="https://bbcthree-web-cdn.files.bbci.co.uk/bbcthree-web-server/2.0.0-799.x86_64/css/bbcthree.css">
+    
+    <link rel="shortcut icon" href="https://bbcthree-web-cdn.files.bbci.co.uk/bbcthree-web-server/2.0.0-799.x86_64/favicon.ico">
+    <meta property="og:site_name" content="BBC Three">
+<meta property="og:locale" content="en_GB">
+<meta property="article:publisher" content="https://www.facebook.com/bbcthree/">
+<meta property="fb:profile_id" content="7519460786">
+<meta property="fb:app_id" content="58567469885">
+<meta property="fb:admins" content="501067221">
+
+  <link href="http://www.bbc.co.uk/bbcthree/article/48acd4f9-11bd-4797-b984-5f72d919f8e0" rel="canonical">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="The Gossip: The Jump&#39;s already claimed its first victim - BBC Three">
+  <meta property="og:description" content="Check out this content on BBC Three.">
+  <meta property="og:image" content="http://ichef.bbci.co.uk/images/ic/704xn/p05rn2fw.jpg">
+  <meta property="og:url" content="http://www.bbc.co.uk/bbcthree/article/48acd4f9-11bd-4797-b984-5f72d919f8e0">
+  
+    <meta property="article:published_time" content="2017-02-03T08:06:25+00:00">
+  
+  
+    <meta property="article:modified_time" content="2017-02-03T08:10:38+00:00">
+  
+  
+  
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@bbcthree">
+<meta name="twitter:domain" content="BBC Three">
+<meta name="twitter:creator" content="@bbcthree">
+
+    <meta name="msapplication-square70x70logo" content="https://bbcthree-web-cdn.files.bbci.co.uk/bbcthree-web-server/2.0.0-799.x86_64/images/three-logo.png" />
+    <meta name="msapplication-square150x150logo" content="https://bbcthree-web-cdn.files.bbci.co.uk/bbcthree-web-server/2.0.0-799.x86_64/images/three-logo-2x.png" />
+    <link rel="icon" sizes="76x76" href="https://bbcthree-web-cdn.files.bbci.co.uk/bbcthree-web-server/2.0.0-799.x86_64/images/three-logo.png">
+    <link rel="icon" sizes="152x152" href="https://bbcthree-web-cdn.files.bbci.co.uk/bbcthree-web-server/2.0.0-799.x86_64/images/three-logo-2x.png">
+    <link rel="apple-touch-icon" href="https://bbcthree-web-cdn.files.bbci.co.uk/bbcthree-web-server/2.0.0-799.x86_64/images/three-logo.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="https://bbcthree-web-cdn.files.bbci.co.uk/bbcthree-web-server/2.0.0-799.x86_64/images/three-logo-2x.png">
+    
+    
+      <script>
+       try {
+         var featureToggle = {};
+         if (featureToggle.mvt) {
+           console.log('Attempting to enable MVT');
+           if (window.bbccookies && window.bbccookies.cookiesEnabled() && window.bbccookies.readPolicy('performance')) {
+             document.write('<script type="text/javascript" src="//service.maxymiser.net/cdn/mbbccoUK/js/mmcore.js"></' + 'script>');
+             console.log('MVT should now be enabled');
+           } else {
+             console.log('MVT not enabled. Cookies not accepted');
+           }
+         }
+       } catch(e) {
+         console.error('There was a problem trying to load MVT');
+       }
+      </script>
+  </head>
+  <body class="Page Page--longArticle">
+    
+      <div class="u-hiddenVisually" aria-hidden="true">
+        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><g id="a"><path d="M12 16.5v6h3.87l.204-.007c.13-.005.315-.012.538-.03a6.75 6.75 0 0 0 1.51-.3c.486-.165.96-.413 1.32-.776.14-.14.254-.287.347-.433.3-.48.38-.97.39-1.248.01-.12 0-.19 0-.19v-.147c-.01-.12-.02-.35-.08-.59a2.377 2.377 0 0 0-.6-1.09c-.11-.11-.22-.21-.35-.31-.22-.16-.46-.29-.72-.41-.35-.15-.74-.27-1.17-.35-.22-.04-.45-.08-.69-.1-.15-.02-.29-.03-.45-.04-.13-.01-.27-.02-.41-.02H12m0-9v5.65h1.874l.29-.01c.13 0 .284-.01.422-.02.385-.03.92-.08 1.452-.23.105-.03.21-.06.312-.1.418-.15.818-.37 1.13-.67.25-.24.413-.52.52-.78.133-.32.18-.63.2-.85.016-.2.015-.32.015-.32s.005-.09-.003-.24a2.625 2.625 0 0 0-.26-1.03 2.126 2.126 0 0 0-.395-.54c-.21-.21-.467-.37-.742-.49-.527-.23-1.13-.32-1.64-.36-.22-.02-.422-.02-.593-.02H12"/><path d="M0 0h32v30H0V0zm8.235 4.088v21.606H16.4s3.98.11 6.178-2.082c1.79-1.782 1.662-3.844 1.662-3.844s.13-2.153-1.53-3.804c-1.41-1.406-3.212-1.78-3.212-1.78s.815-.38 1.44-1.004c.292-.293 1.335-1.23 1.335-3.506 0-2.292-1.532-3.612-1.532-3.612s-1.67-1.974-5.46-1.974H8.24z"/></g></defs><symbol id="three-icon-alert" viewBox="0 0 32 32"><path d="M16 2L0 30h32L16 2zm2 25h-4v-4h4v4zm-4-6V11h4v10h-4z"/></symbol><symbol id="three-icon-arrow-up" viewBox="0 0 32 32"><path d="M16 3L0 29h7.2L16 13.7 24.8 29H32"/></symbol><symbol id="three-icon-bbc-iplayer" viewBox="0 0 147 92"><path d="M109.787 64.43c.196-2.966 1.732-5.387 4.943-5.387 3.563 0 4.943 2.42 4.943 5.386h-9.886zm-44.59 9.985c-2.075 0-3.656-1.035-3.656-2.816 0-2.48 2.38-3.42 5.39-3.42 1.34 0 2.62.1 3.76.14 0 3.01-2.12 6.08-5.49 6.08zM30.637 62.12h-2.393V51.615h2.39c3.18 0 5.715 1.673 5.715 5.204 0 3.62-2.54 5.3-5.72 5.3zm74.4-8.12H96.14l-5.29 16.808-5.63-16.81h-9.59l1.255 3.17c-2.34-2.665-6.07-3.76-10.154-3.76-3.8 0-5.81.47-9.14 1.402 0 0-1.99 5.992-2.08 6.25-.1.285.19.586.48.445 2.29-1.094 5.16-2.165 8.82-2.165 3.22 0 5.84.94 5.89 4.448a26.095 26.095 0 0 0-4.15-.347c-3.77 0-9.95.6-12.32 4.81L54.12 45h-8.9v8.193C43.655 47.846 38.783 45 30.063 45h-11.04L19 54.226l5.25 8.223L19 70.56v9.19h9.245V68.68h3.58c7.143 0 11.86-3.212 13.298-8.27l.095 19.343h8.894v-3.586c1.702 2.806 5.09 4.084 8.764 4.18 4.5.123 6.926-2.09 7.86-2.687.295-.185.422-.216.442.038.056.718.132 1.498.153 2.055h8.16c-.4-2.023-.49-4.053-.49-6.08v-9.59c0-.543-.03-1.052-.09-1.543l7.17 17.807s-1.18 3.975-4.87 3.975c-1.51 0-2.49-.225-3.88-.88-.21-.097-.43.014-.51.24l-2.15 6.526c1.28.64 4.47 1.664 7.9 1.664 7.5 0 10.81-8.224 13.05-13.897L101 64.312c-.02.836-.08 1.668-.08 2.538 0 8.505 6.472 13.497 14.975 13.497 2.57 0 5.443-.46 7.598-1.294 0 0 1.807-5.35 2.185-6.48.13-.386-.25-.587-.5-.45-2.2 1.228-4.76 2.292-7.7 2.292-4.35 0-7.07-1.386-7.56-4.942h17.22v10.28H136V68.88c0-5.635 3.017-8.058 6.505-8.058.856 0 1.507.265 1.507.265l2.32-6.986c.062-.2-.034-.42-.278-.46-.8-.12-1.72-.23-2.603-.23-3.85 0-6.6 2.08-8.14 5.34l-.1-4.75h-8.1v8.46c-1.5-5.18-5.22-9.04-12.42-9.04-4.88 0-8.94 1.85-11.36 5.21l1.71-4.63z"/><path d="M0 45v8.69h8.614v-3.56l13.984 12.25L8.614 74.625v-16.59H0v21.72h8.614L28 62.377 8.614 45H0z"/><g transform="translate(21)"><path d="M74 0h32v30H74V0zm20.446 4.216a22.1 22.1 0 0 0-.435-.07l-.17-.025c-.24-.03-.49-.06-.75-.08l-.51-.03c-.3-.02-.6-.02-.89-.02-.13 0-.21 0-.33.01l-.71.03-.39.03-.56.06-.15.03-.17.03-.21.04c-.09.01-.18.03-.27.05-.13.02-.25.05-.38.08a13.88 13.88 0 0 0-3.09 1.03c-.25.13-.5.25-.74.39-.23.13-.45.26-.66.4l-.36.24c-.1.07-.2.15-.3.22-.2.16-.4.32-.58.48-.17.15-.34.3-.49.45-.13.13-.27.27-.39.41-.13.14-.26.28-.38.43-.13.16-.27.33-.39.5-.09.127-.18.257-.27.39-.06.09-.12.178-.17.27a10.698 10.698 0 0 0-1.51 4.211c-.04.28-.067.56-.084.85-.01.22-.02.45-.02.67 0 .17.005.34.015.51.01.17.027.34.05.51l.01.12a11.141 11.141 0 0 0 .15.824c.03.16.07.32.11.48.06.2.12.4.188.6.08.24.17.48.27.71.157.362.327.71.51 1.04.11.19.22.38.33.56.09.14.19.28.28.42.13.18.26.35.39.51.14.172.28.335.416.49.17.194.34.37.51.534l.09.084c.14.13.29.276.46.42.12.1.24.2.373.305.13.09.25.19.39.29.17.11.34.23.52.34.197.12.4.24.61.36.43.238.9.46 1.41.667.2.076.4.15.6.22.21.07.42.13.638.19.37.11.76.2 1.17.28.33.06.67.113 1.03.16.35.04.72.07 1.097.09.185.01.37.01.56.02h.26c.68 0 1.307-.03 1.887-.07l.114-.01c.23-.02.45-.05.67-.07.33-.04.65-.09.95-.15.19-.032.37-.07.55-.106.28-.06.54-.12.793-.19.184-.044.365-.094.54-.15.204-.06.405-.12.593-.19l.18-.06c.09-.03.216-.075.36-.13.19-.077.425-.167.69-.28.16-.07.33-.14.51-.22.157-.07.323-.15.49-.23l.21-.1V20c-.046.03-.097.06-.146.09l-.28.164c-.28.17-.557.33-.83.47-.3.16-.59.306-.886.44-.51.236-1 .436-1.478.604-.9.31-1.73.52-2.46.64l-.26.04c-.2.03-.39.05-.58.07-.29.03-.55.05-.79.06-.16.003-.31.01-.44.01-.296 0-.6-.01-.905-.03-.36-.027-.73-.07-1.1-.13-.6-.1-1.2-.244-1.78-.454-.09-.03-.176-.07-.26-.1l-.17-.07c-.1-.04-.19-.08-.29-.13-.2-.1-.4-.2-.6-.31-.094-.05-.19-.11-.29-.17-.1-.06-.2-.12-.293-.19-.12-.08-.24-.166-.36-.25-.11-.09-.227-.18-.324-.26l-.14-.13-.07-.06-.04-.04-.05-.05a6.825 6.825 0 0 1-.51-.55c-.087-.1-.17-.21-.247-.31-.08-.1-.15-.2-.22-.3a3.663 3.663 0 0 1-.18-.29 4.787 4.787 0 0 1-.24-.43c-.06-.12-.115-.24-.17-.36-.09-.202-.16-.41-.225-.61-.05-.15-.09-.3-.13-.45-.11-.42-.16-.81-.19-1.14l-.03-.35c0-.16-.01-.3-.01-.41 0-.073 0-.16.01-.257.01-.24.03-.53.08-.865.03-.2.078-.42.13-.65.04-.15.08-.3.13-.46.048-.148.1-.29.158-.44.04-.1.086-.2.13-.3.06-.14.13-.28.2-.42l.18-.32c.14-.23.29-.46.47-.69.06-.08.123-.17.192-.25.086-.103.18-.21.277-.313l.15-.16c.76-.746 1.61-1.3 2.49-1.698.14-.06.28-.12.42-.17.146-.058.28-.107.426-.15.15-.055.31-.1.46-.14.144-.04.29-.078.44-.11.14-.035.29-.06.43-.09.16-.028.32-.05.473-.07.16-.02.32-.04.478-.05.31-.03.6-.04.89-.04h.29c.21.005.43.012.63.025.148.01.28.02.42.04.26.02.517.05.75.09.22.03.42.063.61.1.3.054.57.12.82.18.16.04.305.083.44.12.2.06.37.113.5.16l.36.123c.2.07.4.15.6.224.26.1.51.21.75.32.2.09.39.18.57.262.144.07.28.14.41.21.226.11.42.22.575.3l.42.22V5.79s-.255-.1-.69-.262c-.2-.073-.42-.158-.68-.248-.15-.05-.3-.105-.46-.158-.13-.042-.26-.088-.4-.132-.156-.048-.316-.1-.48-.15-.12-.035-.244-.072-.37-.106l-.11-.038-.37-.1c-.15-.04-.3-.077-.45-.113l-.292-.07c-.16-.037-.32-.07-.486-.106-.166-.034-.34-.064-.51-.094z"/><use xlink:href="#a"/><use xlink:href="#a" transform="translate(37)"/></g></symbol><symbol id="three-icon-collection" viewBox="0 0 32 32"><path d="M4 26h22V4h2v24H4"/><path d="M8 32v-2h22V8h2v24"/><path d="M0 24h24V0H0v24z"/></symbol><symbol id="three-icon-duration" viewBox="0 0 32 32"><path d="M17 15.4V6h-2v10.6l8.8 5.1 1-1.8"/><path d="M16 4c6.6 0 12 5.4 12 12s-5.4 12-12 12S4 22.6 4 16 9.4 4 16 4m0-4C7.2 0 0 7.2 0 16s7.2 16 16 16 16-7.2 16-16S24.8 0 16 0z"/></symbol><symbol id="three-icon-external-link" viewBox="0 0 32 32"><path d="M12 0v5h11.5l-5 5H0v22h22V17.5l-2 2V30H2V12h14.5l-7.8 7.7 3.6 3.6L27 8.5V20h5V0z"/></symbol><symbol id="three-icon-facebook" viewBox="0 0 32 32"><path d="M30.4 32H1.6C.79 32 0 31.21 0 30.4V1.6C0 .79.79 0 1.6 0h28.8c.81 0 1.6.79 1.6 1.6v28.8c0 .81-.79 1.6-1.6 1.6zm-8 0V19.2h3.2l1.6-4.8h-4.8v-3.2c-.253-.93.143-1.884 1.6-1.6h3.2V4.8c-.452.132-2.001 0-3.2 0-4.367 0-6.944 2.253-6.4 6.4v3.2h-4.8v4.8h4.8V32h4.8z"/></symbol><symbol id="three-icon-forward" viewBox="0 0 13 16"><style>.st0{fill:#fff}</style><path class="st0" d="M13 8L0 0v3.6L7.3 8 0 12.4V16z"/></symbol><symbol id="three-icon-image" viewBox="0 0 32 32"><path d="M9 5V3H4v2H0v24h32V5H9zm-2.5 8C5.1 13 4 11.9 4 10.5S5.1 8 6.5 8 9 9.1 9 10.5 7.9 13 6.5 13zM20 26c-5 0-9-4-9-9s4-9 9-9 9 4 9 9-4 9-9 9z"/><path d="M20 11.5c-3 0-5.5 2.5-5.5 5.5s2.5 5.5 5.5 5.5 5.5-2.5 5.5-5.5-2.5-5.5-5.5-5.5z"/></symbol><symbol id="three-icon-imgur" viewBox="0 0 96 97"><path d="M95.949 19.135C95.949 8.575 87.375 0 76.814 0h-57.68C8.575 0 0 8.574 0 19.135v57.891c0 10.561 8.574 19.135 19.135 19.135h57.679c10.56 0 19.135-8.574 19.135-19.135v-57.89z" fill="#222"/><circle cx="48.25" cy="48.051" r="31.645" fill="#6eb820" transform="translate(3.923 3.862) scale(.91667)"/></symbol><symbol id="three-icon-instagram" viewBox="0 0 32 32"><path d="M28.3 13.5h-2.8c.2.8.3 1.6.3 2.5 0 5.4-4.4 9.8-9.8 9.8S6.2 21.4 6.2 16c0-.9.1-1.7.3-2.5H3.7V27c0 .7.6 1.2 1.2 1.2h22.2c.7 0 1.2-.6 1.2-1.2V13.5zm0-8.6c0-.7-.6-1.2-1.2-1.2h-3.7c-.7 0-1.2.6-1.2 1.2v3.7c0 .7.6 1.2 1.2 1.2h3.7c.7 0 1.2-.6 1.2-1.2V4.9zM16 9.8c-3.4 0-6.2 2.8-6.2 6.2s2.8 6.2 6.2 6.2c3.4 0 6.2-2.8 6.2-6.2S19.4 9.8 16 9.8M28.3 32H3.7c-2 0-3.7-1.7-3.7-3.7V3.7C0 1.7 1.7 0 3.7 0h24.6c2 0 3.7 1.7 3.7 3.7v24.6c0 2-1.7 3.7-3.7 3.7"/></symbol><symbol id="three-icon-iplayer" viewBox="0 0 32 32"><path d="M11 0H3v8h8V4.7L24 16 11 27.3V12H3v20h8l18-16"/></symbol><symbol id="three-icon-listen" viewBox="0 0 32 32"><path d="M21.4 4.8L20 6.2c2.5 2.5 4 6 4 9.8s-1.5 7.3-4 9.8l1.4 1.4C24.2 24.3 26 20.4 26 16c0-4.4-1.8-8.3-4.6-11.2z"/><path d="M25.6.5L24.2 2c3.6 3.6 5.8 8.6 5.8 14s-2.2 10.4-5.8 14l1.4 1.4C29.6 27.5 32 22 32 16S29.6 4.5 25.6.5zM16 4l-6 6H0v12h10l6 6z"/></symbol><symbol id="three-icon-live" viewBox="0 0 56 32"><path fill="#D41C6E" d="M0 0h56v32H0z"/><path fill="#FFF" d="M4 7.9h4.2v12.4h7.5v3.6H4v-16zm13 0h4.2v16H17v-16zm15.8 16H28l-5-16h4.3l3.1 11.9 3.1-11.9H38l-5.2 16zm6.2-16h12.7v3.3h-8.6V14H51v3.2h-7.8v3H52v3.6H39V7.9z"/></symbol><symbol id="three-icon-no" viewBox="0 0 32 32"><path d="M32 3.5L28.5 0 16 12.5 3.5 0 0 3.5 12.5 16 0 28.5 3.5 32 16 19.5 28.5 32l3.5-3.5L19.5 16z"/></symbol><symbol id="three-icon-parental" viewBox="0 0 32 32"><circle cx="16" cy="16" r="16"/><path fill="#FFF" d="M23.4 24h-2.7l-.2-1.7c-1.1 1.5-3 2.1-4.5 2.1-4.8 0-8-3.7-8-8.3s3.1-8.3 8-8.3c3.3 0 6.8 1.8 7.2 5.8H19c-.1-1.4-1.5-2.2-3.2-2.2-2.7 0-3.7 2.4-3.7 4.7 0 2.4 1 4.7 3.7 4.7 2.1 0 3.4-1 3.7-2.4h-2.9v-3.1h6.7V24z"/></symbol><symbol id="three-icon-pinterest" viewBox="0 0 32 32"><path d="M16.932 0C8.484 0 4 5.62 4 11.745c0 2.844 1.527 6.388 3.972 7.515.372.172.57.097.654-.258.065-.27.396-1.586.544-2.2.049-.197.025-.365-.137-.56-.805-.968-1.453-2.759-1.453-4.425 0-4.28 3.268-8.42 8.836-8.42 4.811 0 8.175 3.247 8.175 7.893 0 5.25-2.67 8.886-6.15 8.886-1.923 0-3.361-1.573-2.9-3.508.553-2.305 1.622-4.797 1.622-6.458 0-1.493-.808-2.736-2.478-2.736-1.963 0-3.542 2.015-3.542 4.715 0 1.718.587 2.879.587 2.879s-1.94 8.133-2.293 9.647c-.605 2.569.079 6.731.139 7.095.03.195.25.261.373.097.19-.252 2.529-3.729 3.19-6.243.235-.907 1.216-4.613 1.216-4.613.642 1.207 2.503 2.228 4.487 2.228 5.902 0 10.158-5.384 10.158-12.07C29 4.797 23.723 0 16.932 0"/></symbol><symbol id="three-icon-play-instagram" viewBox="0 0 80 80"><g fill-rule="evenodd" fill="#fff"><path d="M30 58V23l28 17.5L30 58z"/><path d="M40 80c22.091 0 40-17.909 40-40S62.091 0 40 0 0 17.909 0 40s17.909 40 40 40zm0-4c19.882 0 36-16.118 36-36S59.882 4 40 4 4 20.118 4 40s16.118 36 36 36z"/></g></symbol><symbol id="three-icon-play-twitter" viewBox="0 0 60 60"><g fill-rule="evenodd"><path d="M30 60c16.569 0 30-13.431 30-30C60 13.431 46.569 0 30 0 13.431 0 0 13.431 0 30c0 16.569 13.431 30 30 30zm0-7c12.703 0 23-10.297 23-23S42.703 7 30 7 7 17.297 7 30s10.297 23 23 23z" fill="#fff"/><circle fill="#3b94d9" opacity=".8" cx="30" cy="30" r="23"/><path d="M25.479 42.304c-1.37.937-2.479.357-2.479-1.297V19.993c0-1.653 1.103-2.238 2.479-1.297l14.773 10.108c1.369.937 1.376 2.45 0 3.392L25.479 42.304z" fill="#fff"/></g></symbol><symbol id="three-icon-play-youtube" viewBox="0 0 68 48"><path class="ytp-large-play-button-bg" d="M.66 37.62s.66 4.7 2.7 6.77c2.58 2.71 5.98 2.63 7.49 2.91 5.43.52 23.1.68 23.12.68 0 0 14.29-.02 23.81-.71 1.32-.15 4.22-.17 6.81-2.89 2.03-2.07 2.7-6.77 2.7-6.77s.67-5.52.67-11.04V21.4c0-5.52-.67-11.04-.67-11.04s-.66-4.7-2.7-6.77C62.03.86 59.13.84 57.8.69 48.28 0 34 0 34 0c-.03 0-14.31 0-23.82.69-1.33.15-4.23.17-6.82 2.89-2.04 2.07-2.7 6.77-2.7 6.77S.11 14.85 0 19.8v8.36c.1 4.94.66 9.45.66 9.45z" fill="currentColor"/><path d="M26.96 13.67l18.37 9.62-18.37 9.55V13.67z" fill="#fff"/><path d="M45.02 23.46l.3-.18-18.36-9.61 16.36 10.67 1.7-.88z" fill="#ccc"/></symbol><symbol id="three-icon-play" viewBox="0 0 32 32"><path d="M3 32l26-16L3 0z"/></symbol><symbol id="three-icon-quote" viewBox="0 0 32 32"><path d="M0 17v15h15V17H7c.2-5.9 2.4-8.8 8-9.9V0C6.7 1.2.2 8.3 0 17zm32-9.9V0c-8.3 1.2-14.8 8.3-15 17v15h15V17h-8c.2-5.9 2.4-8.8 8-9.9z"/></symbol><symbol id="three-icon-reddit" viewBox="0 0 32 32"><path d="M15.94 29.978c-7.909 0-14.34-4.298-14.34-9.583a6.485 6.485 0 0 1 .09-1.122 3.637 3.637 0 0 1 .58-6.444 3.625 3.625 0 0 1 3.733.62 18.419 18.419 0 0 1 9.523-2.67l2.42-7.407.527.124 5.601 1.335a2.99 2.99 0 0 1 3.65-1.694 2.997 2.997 0 0 1-1.225 5.837 2.994 2.994 0 0 1-2.66-3.02L18.685 4.74l-1.904 6.16a18.23 18.23 0 0 1 9.153 2.66 3.626 3.626 0 0 1 3.792-.679 3.637 3.637 0 1 1 .454 6.525c.052.334.079.672.079 1.01 0 5.285-6.431 9.583-14.34 9.583l.022-.022zM2.912 19.284a5.44 5.44 0 0 0-.123 1.122c0 4.623 5.893 8.382 13.141 8.382 7.249 0 13.142-3.759 13.142-8.382a5.417 5.417 0 0 0-.112-1.122.607.607 0 0 1-.056-.258 7.652 7.652 0 0 0-3.07-4.163.594.594 0 0 1-.257-.18 17.233 17.233 0 0 0-9.635-2.693 17.289 17.289 0 0 0-9.568 2.637.616.616 0 0 1-.235.168 7.719 7.719 0 0 0-3.149 4.186.596.596 0 0 1 0 .236l-.078.067zm24.043-5.016a8.975 8.975 0 0 1 2.935 3.894 2.442 2.442 0 0 0 .476-3.417 2.433 2.433 0 0 0-3.411-.477zm-23.36-.482a2.431 2.431 0 0 0-2.286 1.599c-.35.96-.064 2.04.718 2.698a9.065 9.065 0 0 1 2.958-3.815 2.44 2.44 0 0 0-1.39-.471v-.011zm23.292-9.527c-.99 0-1.792.804-1.792 1.795 0 .992.802 1.796 1.792 1.796a1.794 1.794 0 0 0 1.268-3.065 1.791 1.791 0 0 0-1.268-.526zM15.996 26.61c-2.397 0-4.089-.527-5.175-1.604a.606.606 0 1 1 .851-.853c.84.841 2.24 1.257 4.325 1.257 2.083 0 3.484-.416 4.324-1.257a.601.601 0 1 1 .852.853c-1.12 1.122-2.768 1.604-5.176 1.604zm4.863-10.188a2.242 2.242 0 0 1 2.24 2.244 2.242 2.242 0 0 1-2.24 2.244 2.242 2.242 0 0 1-2.24-2.244 2.242 2.242 0 0 1 2.24-2.244zm-9.68 0a2.242 2.242 0 0 1 2.24 2.244 2.242 2.242 0 0 1-2.24 2.244 2.242 2.242 0 0 1-2.24-2.244 2.242 2.242 0 0 1 2.24-2.244z"/></symbol><symbol id="three-icon-share" viewBox="0 0 32 32"><path d="M7.423 22.154a5.392 5.392 0 0 0 3.976-1.762l8.919 4.843a5.41 5.41 0 0 0-.16 1.297c0 3.022 2.43 5.468 5.422 5.468 2.99 0 5.42-2.446 5.42-5.468 0-3.023-2.43-5.469-5.42-5.469a5.38 5.38 0 0 0-3.978 1.757l-9.37-5.174-.074-2.792 9.651-5.456a5.387 5.387 0 0 0 3.77 1.543C28.57 10.941 31 8.49 31 5.468 31 2.445 28.57 0 25.58 0c-2.992 0-5.423 2.445-5.423 5.468 0 .553.08 1.089.241 1.596l-9.212 5.686a5.399 5.399 0 0 0-3.763-1.537C4.426 11.213 2 13.657 2 16.679c0 3.03 2.426 5.475 5.423 5.475"/></symbol><symbol id="three-icon-tag" viewBox="0 0 32 32"><style>.st0{fill:#fff}</style><path d="M12.888.102L0 .08v12.75l19.252 19.09L31.98 19.194 12.888.103zm-5.734 9.56a2.521 2.521 0 0 1 0-5.042 2.52 2.52 0 1 1 0 5.04z" id="Layer_2"/></symbol><symbol id="three-icon-tumblr" viewBox="0 0 32 32"><path d="M24.941 24.457a.474.474 0 0 0-.504.023c-1.395.96-2.806 1.446-4.195 1.446-.756 0-1.408-.178-1.994-.547-.397-.244-.66-.557-.802-.956-.11-.307-.24-1.125-.24-3.276v-7.426h6.522a.505.505 0 0 0 .493-.517V8.342a.505.505 0 0 0-.493-.516h-6.522V.516A.505.505 0 0 0 16.713 0h-4.207a.501.501 0 0 0-.489.453c-.18 1.53-.512 2.802-.986 3.778a7.943 7.943 0 0 1-1.875 2.5c-.772.69-1.72 1.228-2.815 1.599A.514.514 0 0 0 6 8.82v4.384c0 .285.22.517.493.517h2.776v10.347c0 1.495.15 2.617.459 3.428.311.822.87 1.6 1.662 2.315.78.702 1.731 1.249 2.826 1.626 1.081.374 2.339.563 3.737.563 1.224 0 2.38-.131 3.435-.39 1.058-.259 2.245-.713 3.53-1.348a.518.518 0 0 0 .282-.467v-4.884a.52.52 0 0 0-.259-.454z"/></symbol><symbol id="three-icon-twitter" viewBox="0 0 32 32"><path d="M10.052 29.839c12.075 0 18.683-10.329 18.683-19.27 0-.291 0-.582-.013-.873A13.62 13.62 0 0 0 32 6.183a12.993 12.993 0 0 1-3.778 1.07c1.358-.832 2.395-2.166 2.894-3.751a12.821 12.821 0 0 1-4.174 1.638C25.738 3.819 24.035 3 22.152 3c-3.623 0-6.568 3.038-6.568 6.776 0 .528.064 1.043.166 1.545-5.455-.277-10.295-2.985-13.535-7.08a6.938 6.938 0 0 0-.883 3.408c0 2.351 1.165 4.425 2.92 5.64a6.488 6.488 0 0 1-2.971-.845v.092c0 3.276 2.266 6.023 5.262 6.644a6.219 6.219 0 0 1-1.728.238c-.423 0-.833-.04-1.23-.12.833 2.695 3.266 4.65 6.134 4.703-2.254 1.822-5.084 2.906-8.157 2.906-.525 0-1.05-.027-1.562-.093a18.265 18.265 0 0 0 10.052 3.025"/></symbol><symbol id="three-icon-vine" viewBox="0 0 96.888 96.888"><path d="M91.679 47.904a32.633 32.633 0 0 1-5.338.939c-8.832.826-16.284-1.746-21.196-9.579-2.939-4.687-3.746-9.954-3.416-15.414.133-2.185.533-4.314 1.694-6.222 1.082-1.776 2.565-2.939 4.735-3.016 3.101-.109 5.252 1.798 6.107 5.533 1.1 4.792.352 9.489-.97 14.11-.136.472-.386 1.467-.386 1.467s.636.721 1.095 1.182c3.194 3.214 7.14 3.947 11.435 3.603.67-.054 1.608-.142 1.608-.142s.433-1.073.603-1.537c2.31-6.318 3.264-12.792 2.573-19.509C89.24 9.735 84.16 1.389 71.931.15 60.992-.958 51.918 4.083 48.11 14.527c-2.185 5.996-2.296 12.144-1.185 18.336 1.859 10.351 6.729 18.762 16.048 24.167.932.539.943.965.49 1.826-3.788 7.209-8.312 13.905-13.788 19.945-2.36 2.604-2.341 2.577-4.558-.228-11.16-14.128-17.306-30.432-20.786-47.893a197.1 197.1 0 0 1-2.33-14.404l-.14-1.673-16.652-.01.135.949c2.105 15.033 5.289 29.796 10.917 43.952 4.137 10.402 9.353 20.169 16.909 28.544 2.459 2.725 5.149 5.184 8.251 7.181 3.63 2.339 7.182 2.186 10.672-.254a29.628 29.628 0 0 0 2.86-2.272c9.607-8.698 17.367-18.82 23.242-30.371.457-.902.931-1.315 2.014-1.32 2.438-.01 4.863-.291 7.271-.697a52.862 52.862 0 0 0 4.198-.876V47.904z"/></symbol><symbol id="three-icon-whatsapp" viewBox="0 0 32 32"><path d="M31.987 15.62a15.695 15.695 0 0 1-7.777 13.402 15.762 15.762 0 0 1-15.517.224L0 32l2.84-8.343a15.37 15.37 0 0 1-2.253-7.983C.587 7.017 7.619 0 16.293 0 24.968 0 32 7.017 32 15.674l-.013-.053zM16.28 2.542C9.015 2.52 3.103 8.371 3.067 15.621a12.928 12.928 0 0 0 2.52 7.65l-1.64 4.87 5.08-1.61a13.169 13.169 0 0 0 15.388-.398 13.103 13.103 0 0 0 4.46-14.702 13.145 13.145 0 0 0-12.582-8.85l-.013-.04zM24.213 19.2c-.093-.16-.36-.253-.733-.44-.373-.185-2.28-1.117-2.667-1.237-.386-.12-.613-.186-.866.187-.254.372-1 1.237-1.214 1.49-.213.253-.453.293-.84.093a10.537 10.537 0 0 1-3.093-1.89 11.5 11.5 0 0 1-2.147-2.66c-.226-.386 0-.586.174-.772.173-.186.386-.44.573-.665.172-.204.312-.433.413-.679a.69.69 0 0 0 0-.665c-.093-.187-.866-2.063-1.186-2.834-.32-.772-.64-.639-.867-.639h-.733A1.428 1.428 0 0 0 10 8.968a4.253 4.253 0 0 0-1.333 3.18 7.363 7.363 0 0 0 1.573 3.992 15.736 15.736 0 0 0 6.533 5.801c3.92 1.53 3.92 1.011 4.627.958a3.893 3.893 0 0 0 2.6-1.81 3.174 3.174 0 0 0 .213-1.889z"/></symbol><symbol id="three-icon-youtube-alt" viewBox="0 0 96.875 96.875"><path d="M95.201 25.538c-1.186-5.152-5.4-8.953-10.473-9.52-12.013-1.341-24.172-1.348-36.275-1.341-12.105-.007-24.266 0-36.279 1.341-5.07.567-9.281 4.368-10.467 9.52C.019 32.875 0 40.884 0 48.438 0 55.992 0 64 1.688 71.336c1.184 5.151 5.396 8.952 10.469 9.52 12.012 1.342 24.172 1.349 36.277 1.342 12.107.007 24.264 0 36.275-1.342 5.07-.567 9.285-4.368 10.471-9.52 1.689-7.337 1.695-15.345 1.695-22.898 0-7.554.014-15.563-1.674-22.9zM35.936 63.474V31.437a497491.15 497491.15 0 0 0 30.798 16.068c-10.3 5.342-20.504 10.631-30.798 15.969z"/></symbol><symbol id="three-icon-youtube" viewBox="0 0 478.165 478.165"><path d="M376.893 349.758h-26.16l.12-15.3c0-6.655 5.48-12.373 12.253-12.373h1.634c7.013 0 12.612 5.718 12.612 12.372l-.46 15.3zm-98.402-32.695c-6.653 0-12.033 4.562-12.033 10.04v74.017c0 5.38 5.38 10.04 12.034 10.04s12.134-4.66 12.134-10.04v-74.016c0-5.48-5.478-10.04-12.133-10.04zm159.808-41.44V416.52c0 33.85-29.188 61.644-65.15 61.644h-268.03c-35.963 0-65.25-27.793-65.25-61.643V275.623c0-33.85 29.307-61.404 65.25-61.404h268.03c35.962 0 65.15 27.554 65.15 61.404zm-315.31 156.32v-148.49h33.272v-22.056l-88.6-.12v21.717h27.674v148.968h27.654v-.02zm99.578-126.316h-27.674v79.156c0 11.675.697 17.274 0 19.386-2.33 6.076-12.373 12.61-16.337.696-.697-2.33-.12-8.408-.12-19.386v-79.853H150.76l.12 78.678c0 11.914-.238 21.02.12 24.984.58 7.23.36 15.64 7.014 20.54 12.492 8.866 36.42-1.395 42.377-14.245v16.337h22.176V305.627zm88.6 90.81v-66.185c0-24.984-18.788-40.166-44.37-19.844l.12-49.032h-27.793v169.63l22.653-.46 2.21-10.5c28.97 26.6 47.18 8.39 47.18-23.608zm86.747-8.865l-20.78.24v14.483c0 6.077-5.14 11.217-11.436 11.217h-3.965c-6.296 0-11.317-5.14-11.317-11.217v-30.822h47.518v-17.85c0-12.852-.458-26.16-1.395-33.512-3.507-23.688-36.66-27.314-53.475-15.3-5.38 3.746-9.344 8.746-11.675 15.64-2.33 6.774-3.507 16.118-3.507 28.012v39.35c.1 65.37 79.357 56.024 70.033-.24zm-106.59-213.64c1.513 3.507 3.745 6.296 6.653 8.408 3.028 2.092 6.894 3.267 11.436 3.267 3.965 0 7.47-1.175 10.62-3.507 3.027-2.212 5.598-5.48 7.83-9.922l-.698 10.978h30.94V51.72H333.82v102.27c0 5.6-4.562 10.04-10.28 10.04-5.48 0-10.162-4.56-10.162-10.04V51.72h-25.223v88.6c0 11.218.24 18.79.458 22.654.38 3.726 1.437 7.472 2.712 10.958zM197.82 99.697c0-12.612 1.057-22.414 3.15-29.527 1.99-7.013 5.837-12.73 11.316-17.035 5.48-4.303 12.373-6.415 20.9-6.415 7.113 0 13.31 1.514 18.45 4.084 5.02 2.91 8.985 6.415 11.674 10.858 3.028 4.443 4.9 8.986 5.838 13.668 1.056 4.662 1.514 11.914 1.514 21.358v33.392c0 12.133-.36 21.14-1.514 26.857-.817 5.718-2.81 10.978-5.957 15.88-3.027 4.9-7.012 8.526-11.913 10.857-4.782 2.57-10.38 3.626-16.815 3.626-7.013 0-12.85-1.056-17.752-3.028-5.02-2.092-8.746-5.02-11.436-9.105-2.69-3.965-4.662-8.986-5.718-14.584-1.175-5.838-1.753-14.484-1.753-26.04V99.697h.018zm24.168 52.18c0 7.47 5.6 13.428 12.253 13.428 6.775 0 12.254-5.957 12.254-13.428V81.945c0-7.352-5.6-13.428-12.253-13.428-6.773 0-12.252 6.077-12.252 13.428v69.932zm-85.572 35.364h29.188l.12-100.752L200.052.218h-31.758l-18.33 63.975L131.396 0h-31.52l36.54 86.508V187.24z"/></symbol></svg>
+      </div>
+    
+
+    <noscript><p style="position: absolute; top: -999em"><img src="https://sa.bbc.co.uk/bbc/bbc/s?name=unknown&amp;ml_name&#x3D;webmodule&amp;ml_version&#x3D;89&amp;blq_e&#x3D;orbit&amp;blq_r&#x3D;orbit&amp;blq_s&#x3D;orbit&amp;blq_v&#x3D;default&amp;language&#x3D;en&amp;blq_js_enabled=0" height="1" width="1" alt=""></p></noscript><!-- BBCDOTCOM bodyFirst --><div id="bbccom_interstitial_ad" class="bbccom_display_none"></div><div id="bbccom_interstitial" class="bbccom_display_none"><script type="text/javascript">/*<![CDATA[*/ (function() { if (window.bbcdotcom && bbcdotcom.config.isActive('ads')) { googletag.cmd.push(function() { googletag.display('bbccom_interstitial'); }); } }()); /*]]>*/</script></div><div id="bbccom_wallpaper_ad" class="bbccom_display_none"></div><div id="bbccom_wallpaper" class="bbccom_display_none"><script type="text/javascript">/*<![CDATA[*/ (function() { var wallpaper; if (window.bbcdotcom && bbcdotcom.config.isActive('ads')) { if (bbcdotcom.config.isAsync()) { googletag.cmd.push(function() { googletag.display('bbccom_wallpaper'); }); } else if (typeof googletag !== "undefined" && typeof googletag.display === "function") { googletag.display("wallpaper"); } wallpaper = bbcdotcom.adverts.adRegister.getAd('wallpaper'); } }()); /*]]>*/</script></div><script type="text/javascript">/*<![CDATA[*/ (function() { if (window.bbcdotcom && bbcdotcom.config.isActive('ads')) { document.write(unescape('%3Cscript id="gnlAdsEnabled" class="bbccom_display_none"%3E%3C/script%3E')); } if (window.bbcdotcom && bbcdotcom.config.isActive('analytics')) { document.write(unescape('%3Cscript id="gnlAnalyticsEnabled" class="bbccom_display_none"%3E%3C/script%3E')); } }()); /*]]>*/</script><script type="text/javascript">/*<![CDATA[*/ (function() { window.bbcdotcom.bodyFirst = true; }()); /*]]>*/</script><div id="blq-global"><div id="blq-pre-mast"></div></div><div id="cookiePrompt"></div><!--[if (gt IE 8) | (IEMobile)]><!--><header id="orb-banner" role="banner" aria-label="BBC"><!--<![endif]--><!--[if (lt IE 9) & (!IEMobile)]>
+        <![if (IE 8)]>
+            <header id="orb-banner" role="banner" class="orb-old-ie orb-ie8" aria-label="BBC">
+        <![endif]>
+
+        <![if (IE 7)]>
+            <header id="orb-banner" role="banner" class="orb-old-ie orb-ie7" aria-label="BBC">
+        <![endif]>
+
+        <![if (IE 6)]>
+            <header id="orb-banner" role="banner" class="orb-old-ie orb-ie6" aria-label="BBC">
+        <![endif]>
+    <![endif]--><div id="orb-header" class="orb-nav-pri orb-nav-pri-white orb-nav-empty" dir="ltr"><div class="orb-nav-pri-container b-r b-g-p"><div class="orb-nav-section orb-nav-blocks"><a href="https://www.bbc.co.uk">Homepage</a></div><section><div class="orb-skip-links"><h2>Accessibility links</h2><ul><li><a href="#orb-modules">Skip to content</a></li><li><a id="orb-accessibility-help" href="/accessibility/">Accessibility Help</a></li></ul></div></section><div id="mybbc-wrapper" class="orb-nav-section orb-nav-id orb-nav-focus orb-nav-id-default"><div id="idcta-statusbar" class="orb-nav-section orb-nav-focus"><a id="idcta-link" href="https://account.bbc.com/account"><span id="idcta-username">BBC iD</span></a></div><script type="text/javascript">require(['idcta/statusbar'], function(statusbar) { new statusbar.Statusbar({"id":"idcta-statusbar","publiclyCacheable":true}); });</script><a id="notification-link" class="js-notification-link animated three" href="#"><span class="hidden-span">Notifications</span><div class="notification-link--triangle"></div><div class="notification-link--triangle"></div><span id="not-num"></span></a></div><nav role="navigation" aria-label="BBC" class="orb-nav"><div class="orb-nav-section orb-nav-links orb-nav-focus" id="orb-nav-links"><ul><li class="orb-nav-home"><a href="https://www.bbc.co.uk">Home</a></li><li class="orb-nav-news"><a href="http://www.bbc.co.uk/news">News</a></li><li class="orb-nav-sport"><a href="http://www.bbc.co.uk/sport">Sport</a></li><li class="orb-nav-weather"><a href="http://www.bbc.co.uk/weather">Weather</a></li><li class="orb-nav-iplayer"><a href="https://www.bbc.co.uk/iplayer">iPlayer</a></li><li class="orb-nav-tv"><a href="https://www.bbc.co.uk/tv">TV</a></li><li class="orb-nav-radio"><a href="http://www.bbc.co.uk/radio">Radio</a></li><li class="orb-nav-cbbc"><a href="https://www.bbc.co.uk/cbbc">CBBC</a></li><li class="orb-nav-cbeebies"><a href="https://www.bbc.co.uk/cbeebies">CBeebies</a></li><li class="orb-nav-food"><a href="http://www.bbc.co.uk/food">Food</a></li><li class="orb-nav-bitesize"><a href="https://www.bbc.co.uk/education">Bitesize</a></li><li class="orb-nav-music"><a href="http://www.bbc.co.uk/music">Music</a></li><li class="orb-nav-earth"><a href="http://www.bbc.com/earth">Earth</a></li><li class="orb-nav-arts"><a href="http://www.bbc.co.uk/arts">Arts</a></li><li class="orb-nav-digital"><a href="http://www.bbc.co.uk/makeitdigital">Make It Digital</a></li><li class="orb-nav-taster"><a href="http://www.bbc.co.uk/taster">Taster</a></li><li class="orb-nav-local"><a href="https://www.bbc.co.uk/news/localnews">Local</a></li><li class="orb-nav-tomorrowsworld"><a href="http://www.bbc.co.uk/tomorrowsworld">Tomorrow&#x27;s World</a></li><li id="orb-nav-more" style="width: 88px" aria-controls="orb-panel-more"><a href="#orb-footer" data-alt="More" class="istats-notrack">Menu<span class="orb-icon orb-icon-arrow"></span></a></li></ul></div></nav><div class="orb-nav-section orb-nav-search"><a class="orb-search__button" href="https://search.bbc.co.uk/search" title="Search the BBC">Search</a><form class="b-f" id="orb-search-form" role="search" method="get" action="https://search.bbc.co.uk/search" accept-charset="utf-8"><div><label for="orb-search-q">Search the BBC</label><input id="orb-search-q" type="text" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" name="q" placeholder="Search"><button id="orb-search-button" class="orb-search__button">Search the BBC</button><input type="hidden" name="suggid" id="orb-search-suggid"></div></form></div></div><div id="orb-panels"></div></div></header><!-- Styling hook for shared modules only -->
+<div id="orb-modules">
+
+    <!--[if lt IE 9]>
+      <div class="Alert">
+        <div class="Alert-container Container">
+          <p style="text-align: center;">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        </div>
+      </div>
+    <![endif]-->
+
+    <div class="u-nbfc">
+      
+        <header class="SiteHeader">
+          <div class="SiteHeader-container Container">
+            <a class="SiteHeader-logo Logo u-textHide" href="/bbcthree">BBC Three</a>
+            <nav class="SiteHeader-primaryNav PrimaryNav" aria-labelledby="header-primary-nav">
+              <p id="header-primary-nav" class="u-hiddenVisually">BBC Three site navigation</p>
+              <ul class="PrimaryNav-list u-listUnstyled">
+                <li class="PrimaryNav-item">
+                  <a class="PrimaryNav-link" href="/bbcthree">Home</a>
+                </li>
+                <li class="PrimaryNav-item">
+                  <a class="PrimaryNav-link" href="http://www.bbc.co.uk/tv/bbcthree">Three on iPlayer</a>
+                </li>
+              </ul>
+            </nav>
+          </div>
+        </header>
+      
+
+      <main id="content" role="main">
+        
+
+        <div class="PageContent PageContent--longArticle">
+          
+<div id="article-container"><div class="LongArticle" data-reactroot="" data-reactid="1" data-react-checksum="1883082237"><span class="LongArticle-previewid u-hidden" data-reactid="2">N/A</span><div class="gel-wrap" data-reactid="3"><div class="gel-layout" data-reactid="4"><div class="gel-layout__item" data-reactid="5"><div class="Media LongArticle-coverImage" data-reactid="6"><div class="Media-content" data-reactid="7"><span class="Image" data-reactid="8"><noscript data-reactid="9"><img srcset="http://ichef.bbci.co.uk/images/ic/480xn/p05rn2fw.jpg 480w, http://ichef.bbci.co.uk/images/ic/624xn/p05rn2fw.jpg 624w, http://ichef.bbci.co.uk/images/ic/800xn/p05rn2fw.jpg 800w, http://ichef.bbci.co.uk/images/ic/1056xn/p05rn2fw.jpg 1056w" src="http://ichef.bbci.co.uk/images/ic/704xn/p05rn2fw.jpg" width="1920" height="1080" alt="The Jump contestants" class="Image-elem"/></noscript><img data-srcset="http://ichef.bbci.co.uk/images/ic/480xn/p05rn2fw.jpg 480w, http://ichef.bbci.co.uk/images/ic/624xn/p05rn2fw.jpg 624w, http://ichef.bbci.co.uk/images/ic/800xn/p05rn2fw.jpg 800w, http://ichef.bbci.co.uk/images/ic/1056xn/p05rn2fw.jpg 1056w" data-src="http://ichef.bbci.co.uk/images/ic/704xn/p05rn2fw.jpg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="1920" height="1080" alt="The Jump contestants" class="Image-elem lazyload with-transition" data-reactid="10"/><span class="Image-copyright" data-reactid="11">Channel 4</span></span></div></div><h1 class="LongArticle-headline Headline" data-reactid="12"><span class="gel-canon-bold" data-reactid="13">The Gossip: The Jump&#x27;s already claimed its first victim</span></h1><p class="LongArticle-synopsis gel-double-pica-bold" data-reactid="14"></p><div class="LongArticle-bookend LongArticle-header" data-reactid="15"><div class="LongArticle-info" data-reactid="16"><ul class="LongArticle-tagList TagList u-cf" data-reactid="17"><li class="TagList-item" data-reactid="18"><a href="http://www.bbc.co.uk/bbcthree/category/gossip" class="Tag gel-long-primer" data-reactid="19">Gossip </a></li><li class="TagList-item" data-reactid="20"><a href="http://www.bbc.co.uk/bbcthree/category/entertainment" class="Tag gel-long-primer" data-reactid="21">Entertainment</a></li></ul></div><div class="Toolbar--equal Toolbar--longArticle LongArticle-topToolbar Toolbar Toolbar--slim u-cf gel-brevier" data-reactid="22"><p class="u-hiddenVisually" data-reactid="23">Options to share this content</p><ul class="Toolbar-actionGroup" data-reactid="24"><li class="Toolbar-action u-lg-hidden u-md-hidden" data-reactid="25"><a class="Toolbar-link SocialButton SocialButton--whatsapp istats-notrack" href="whatsapp://send?text=The Gossip: The Jump&#x27;s already claimed its first victim - http%3A%2F%2Fwww.bbc.co.uk%2Fbbcthree%2Farticle%2F48acd4f9-11bd-4797-b984-5f72d919f8e0" title="WhatsApp" data-reactid="26"><svg width="16" height="16" class="Icon SocialButton-icon SocialButton-icon--whatsapp" data-reactid="27"><use xlink:href="#three-icon-whatsapp" data-reactid="28"></use></svg><span class="Toolbar-text" data-reactid="29">WhatsApp</span></a></li><li class="Toolbar-action" data-reactid="30"><a class="Toolbar-link SocialButton SocialButton--facebook istats-notrack" href="http://www.facebook.com/dialog/feed?app_id=58567469885&amp;redirect_uri=http://www.bbc.co.uk/modules/share/close&amp;link=http%3A%2F%2Fwww.bbc.co.uk%2Fbbcthree%2Farticle%2F48acd4f9-11bd-4797-b984-5f72d919f8e0" title="Facebook" data-reactid="31"><svg width="16" height="16" class="Icon SocialButton-icon SocialButton-icon--facebook" data-reactid="32"><use xlink:href="#three-icon-facebook" data-reactid="33"></use></svg><span class="Toolbar-text" data-reactid="34">Facebook</span></a></li><li class="Toolbar-action" data-reactid="35"><a class="Toolbar-link SocialButton SocialButton--twitter istats-notrack" href="https://twitter.com/intent/tweet?text=The Gossip: The Jump&#x27;s already claimed its first victim&amp;url=http%3A%2F%2Fwww.bbc.co.uk%2Fbbcthree%2Farticle%2F48acd4f9-11bd-4797-b984-5f72d919f8e0" title="Twitter" data-reactid="36"><svg width="16" height="16" class="Icon SocialButton-icon SocialButton-icon--twitter" data-reactid="37"><use xlink:href="#three-icon-twitter" data-reactid="38"></use></svg><span class="Toolbar-text" data-reactid="39">Twitter</span></a></li><li class="Toolbar-action" data-reactid="40"><div class="Share LongArticle-share Share--openDown" data-reactid="41"><button class="SocialButton SocialButton--share" type="button" aria-haspopup="true" aria-controls="share-panel-undefined" id="share-btn-undefined" data-reactid="42"><svg width="16" height="16" class="Icon SocialButton-icon SocialButton-icon--share" data-reactid="43"><use xlink:href="#three-icon-share" data-reactid="44"></use></svg><span class="SocialButton-text gel-pica u-xs-hidden" data-reactid="45">Share</span></button><div class="Share-panel gel-long-primer" id="share-panel-undefined" aria-expanded="false" aria-hidden="true" aria-labelledby="share-btn-undefined" role="menu" data-reactid="46"><button class="Share-closeBtn" data-reactid="47"><svg width="16" height="16" class="Icon Share-closeIcon" data-reactid="48"><use xlink:href="#three-icon-no" data-reactid="49"></use></svg><span class="u-hiddenVisually" data-reactid="50">Close the expanded menu</span></button><ul class="Share-itemList" data-reactid="51"><li class="Share-item" role="menuitem" data-reactid="52"><a class="SocialButton SocialButton--pinterest istats-notrack" href="https://www.pinterest.com/pin/create/button/?description=The Gossip: The Jump&#x27;s already claimed its first victim&amp;url=http%3A%2F%2Fwww.bbc.co.uk%2Fbbcthree%2Farticle%2F48acd4f9-11bd-4797-b984-5f72d919f8e0" data-reactid="53"><svg width="16" height="16" class="Icon SocialButton-icon SocialButton-icon--pinterest" data-reactid="54"><use xlink:href="#three-icon-pinterest" data-reactid="55"></use></svg></a></li><li class="Share-item" role="menuitem" data-reactid="56"><a class="SocialButton SocialButton--tumblr istats-notrack" href="http://www.tumblr.com/share/link?name=The Gossip: The Jump&#x27;s already claimed its first victim&amp;url=http%3A%2F%2Fwww.bbc.co.uk%2Fbbcthree%2Farticle%2F48acd4f9-11bd-4797-b984-5f72d919f8e0" data-reactid="57"><svg width="16" height="16" class="Icon SocialButton-icon SocialButton-icon--tumblr" data-reactid="58"><use xlink:href="#three-icon-tumblr" data-reactid="59"></use></svg></a></li><li class="Share-item" role="menuitem" data-reactid="60"><a class="SocialButton SocialButton--reddit istats-notrack" href="http://www.reddit.com/submit?title=The Gossip: The Jump&#x27;s already claimed its first victim&amp;url=http%3A%2F%2Fwww.bbc.co.uk%2Fbbcthree%2Farticle%2F48acd4f9-11bd-4797-b984-5f72d919f8e0" data-reactid="61"><svg width="16" height="16" class="Icon SocialButton-icon SocialButton-icon--reddit" data-reactid="62"><use xlink:href="#three-icon-reddit" data-reactid="63"></use></svg></a></li></ul><div class="Share-copy" data-reactid="64"><label class="Share-copyLabel gel-long-primer" for="share-copy-undefined" data-reactid="65">Copy this link</label><input type="text" class="Share-copyInput gel-pica" id="share-copy-undefined" readonly="" value="http://www.bbc.co.uk/bbcthree/article/48acd4f9-11bd-4797-b984-5f72d919f8e0" data-reactid="66"/></div><div class="gel-long-primer" data-reactid="67"><a class="Share-link" href="http://www.bbc.co.uk/faqs/questions/bbc_online/sharing" data-reactid="68">About sharing</a></div></div></div></li></ul></div></div></div></div><div class="gel-layout gel-layout--center" data-reactid="69"><div class="LongArticle-body" data-reactid="70"><div class="gel-layout__item gel-1 gel-10/12@m gel-2/3@l" data-reactid="71"><div class="LongArticle-author Info" data-reactid="72"><div class="Info-details" data-reactid="73"><time class="Info-timestamp gel-brevier" datetime="2017-02-03T08:10:38+00:00" data-reactid="74">3 February 2017</time></div></div><div class="LongArticle-bodyItem is-first" data-reactid="75"><div class="Text gel-body-copy" data-reactid="76"><p>The show hasn&apos;t even started yet but one celebrity has already suffered an injury.</p></div></div><div class="LongArticle-bodyItem" data-reactid="77"><div class="Text gel-body-copy" data-reactid="78"><p><span class="Media-content&gt;&lt;span class=" image'="" style="display:block;position:relative;"><img src="https://ichef.bbci.co.uk/live-experience/cps/1248/cpsprodpb/vivo/live/images/2017/2/3/64a109e1-9b30-4f33-b7bc-4dcecc228bcd.jpg" alt="Vogue Williams" class="Image-elem"><span class="Image-copyright" style="position:absolute;bottom:0;right:0;padding:2px 5px;background: rgba(0,0,0,.6);color:#fff;font-size:11px;">Channel 4</span></span></p></div></div><div class="LongArticle-bodyItem" data-reactid="79"><div class="Text gel-body-copy" data-reactid="80"><p>Model Vogue Williams has had to drop out of competing in Channel 4&apos;s The Jump after suffering the injury during training.</p></div></div><div class="LongArticle-bodyItem" data-reactid="81"><div class="Text gel-body-copy" data-reactid="82"><p>She apparently damaged her knee practising for the ski cross, an event which sees celebrities race around a track at high speed.</p></div></div><div class="LongArticle-bodyItem is-embed" data-reactid="83"><div class="Embed Embed--twitter" data-reactid="84"><div class="Embed-object" data-reactid="85"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Really disappointed to be out of The Jump. I&#39;ve had the time of my life and if the show is back next year I&#39;ll be in it to win it! <a href="https://twitter.com/Channel4?ref_src=twsrc%5Etfw">@Channel4</a></p>&mdash; Vogue Williams (@VogueWilliams) <a href="https://twitter.com/VogueWilliams/status/827222711109836803?ref_src=twsrc%5Etfw">February 2, 2017</a></blockquote>
+</div><div class="Embed-source" data-reactid="86"><a href="https://twitter.com/VogueWilliams/status/827222711109836803" target="_blank" title="Original source (opens in new window)" data-reactid="87"><svg width="16" height="16" class="Icon" data-reactid="88"><use xlink:href="#three-icon-twitter" data-reactid="89"></use></svg><span class="Icon-label gel-brevier" data-reactid="90">twitter</span></a></div></div></div><div class="LongArticle-bodyItem" data-reactid="91"><div class="Text gel-body-copy" data-reactid="92"><p>She&apos;ll now be replaced by one of the stand-in celebrities. According to <a href="https://www.thesun.co.uk/tvandshowbiz/2766750/the-jumps-vogue-williams-is-forced-to-quit-the-show-days-before-launch-due-to-serious-knee-injury/">The Sun</a>, I&#x2019;m A Celebrity star Amy Willerton will step up.</p></div></div><div class="LongArticle-bodyItem" data-reactid="93"><div class="Text gel-body-copy" data-reactid="94"><p>A spokeswoman for Channel 4 told the newspaper: &quot;Vogue fell during training for ski cross yesterday injuring her knee which sadly means she can no longer continue in the competition.&quot;</p></div></div><div class="LongArticle-bodyItem" data-reactid="95"><div class="Text gel-body-copy" data-reactid="96"><p>But this isn&apos;t even close to the first injury to take place on the sporting reality show.</p></div></div><div class="LongArticle-bodyItem is-embed" data-reactid="97"><div class="Embed Embed--twitter" data-reactid="98"><div class="Embed-object" data-reactid="99"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">As <a href="https://twitter.com/Channel4?ref_src=twsrc%5Etfw">@Channel4</a>’s hazardous hit <a href="https://twitter.com/hashtag/TheJump?src=hash&amp;ref_src=twsrc%5Etfw">#TheJump</a> returns, <a href="https://twitter.com/TinaHobley?ref_src=twsrc%5Etfw">@TinaHobley</a> continues to battle with injury, finds <a href="https://twitter.com/JuLlewellyn?ref_src=twsrc%5Etfw">@JuLlewellyn</a> <a href="https://t.co/NWqBmHIG15">https://t.co/NWqBmHIG15</a> <a href="https://t.co/icumGMAzH4">pic.twitter.com/icumGMAzH4</a></p>&mdash; The Sunday Times (@thesundaytimes) <a href="https://twitter.com/thesundaytimes/status/787726054995726337?ref_src=twsrc%5Etfw">October 16, 2016</a></blockquote>
+</div><div class="Embed-source" data-reactid="100"><a href="https://twitter.com/thesundaytimes/status/787726054995726337" target="_blank" title="Original source (opens in new window)" data-reactid="101"><svg width="16" height="16" class="Icon" data-reactid="102"><use xlink:href="#three-icon-twitter" data-reactid="103"></use></svg><span class="Icon-label gel-brevier" data-reactid="104">twitter</span></a></div></div></div><div class="LongArticle-bodyItem" data-reactid="105"><div class="Text gel-body-copy" data-reactid="106"><p>Previous contestants who&apos;ve had to pull out of the competition due to injury include Holby City star Tina Hobley who broke her arm in two places as well as hurting her knee and leg. And, gymnast Beth Tweddle who fractured two vertebrae, resulting in a spinal surgery.</p></div></div><div class="LongArticle-bodyItem" data-reactid="107"><div class="Text gel-body-copy" data-reactid="108"><p>There have been other injuries including fractures, sprains and tears.</p></div></div><div class="LongArticle-bodyItem" data-reactid="109"><div class="Text gel-body-copy" data-reactid="110"><p>How many of this year&apos;s contestants will make it through unscathed?</p></div></div><div class="LongArticle-bodyItem" data-reactid="111"><div class="Text gel-body-copy" data-reactid="112"><p><strong>Who raided Nicki Minaj&apos;s home?</strong></p></div></div><div class="LongArticle-bodyItem" data-reactid="113"><div class="Text gel-body-copy" data-reactid="114"><p><span class="Media-content&gt;&lt;span class=" image'="" style="display:block;position:relative;"><img src="https://ichef.bbci.co.uk/live-experience/cps/1248/cpsprodpb/vivo/live/images/2017/2/3/7bda2cb2-438c-4181-8442-190f86785193.jpg" alt="Nicki Minaj" class="Image-elem"><span class="Image-copyright" style="position:absolute;bottom:0;right:0;padding:2px 5px;background: rgba(0,0,0,.6);color:#fff;font-size:11px;">AP</span></span></p></div></div><div class="LongArticle-bodyItem" data-reactid="115"><div class="Text gel-body-copy" data-reactid="116"><p>Apparently the singer has had her home burgled, with <a href="http://www.bbc.co.uk/newsbeat/article/38851606/nicki-minajs-la-mansions-burgled-with-140000-of-jewellery-and-property-taken">$175,000 worth of stuff</a> stolen.</p></div></div><div class="LongArticle-bodyItem" data-reactid="117"><div class="Text gel-body-copy" data-reactid="118"><p>Nicki hasn&apos;t made a comment herself, but reports suggest her house was vandalised as well.</p></div></div><div class="LongArticle-bodyItem" data-reactid="119"><div class="Text gel-body-copy" data-reactid="120"><p><span class="Media-content&gt;&lt;span class=" image'="" style="display:block;position:relative;"><img src="https://ichef.bbci.co.uk/live-experience/cps/1248/cpsprodpb/vivo/live/images/2017/2/3/f88464f0-5e19-4522-9d5d-68347111aad0.jpg" alt="Nicki Minaj" class="Image-elem"><span class="Image-copyright" style="position:absolute;bottom:0;right:0;padding:2px 5px;background: rgba(0,0,0,.6);color:#fff;font-size:11px;">AP</span></span></p></div></div><div class="LongArticle-bodyItem" data-reactid="121"><div class="Text gel-body-copy" data-reactid="122"><p><a href="http://www.tmz.com/2017/02/02/nicki-minaj-house-burglary/">TMZ</a> says the intruders &quot;knocked over and flipped furniture and items all over the house&quot;.</p></div></div><div class="LongArticle-bodyItem" data-reactid="123"><div class="Text gel-body-copy" data-reactid="124"><p>&quot;Picture frames, perfume bottles and furniture&quot; were among the items damaged.</p></div></div><div class="LongArticle-bodyItem" data-reactid="125"><div class="Text gel-body-copy" data-reactid="126"><p><strong>Is Theon Greyjoy next in line for a gruesome&#xA0;death?</strong></p></div></div><div class="LongArticle-bodyItem" data-reactid="127"><div class="Text gel-body-copy" data-reactid="128"><p><span class="Media-content&gt;&lt;span class=" image'="" style="display:block;position:relative;"><img src="https://ichef.bbci.co.uk/live-experience/cps/1248/cpsprodpb/vivo/live/images/2017/2/3/77decd37-bf90-4564-9388-c09aab765e34.jpg" alt="Theon Greyjoy" class="Image-elem"><span class="Image-copyright" style="position:absolute;bottom:0;right:0;padding:2px 5px;background: rgba(0,0,0,.6);color:#fff;font-size:11px;">HBO</span></span></p></div></div><div class="LongArticle-bodyItem" data-reactid="129"><div class="Text gel-body-copy" data-reactid="130"><p>Poor old Theon - he&apos;s already had a turbulent time in Game of Thrones. (Don&apos;t worry, we&apos;re not going to drop any spoilers, apart from the fact he&apos;s managed to survive this long.)</p></div></div><div class="LongArticle-bodyItem" data-reactid="131"><div class="Text gel-body-copy" data-reactid="132"><p>But he divides fan opinion.</p></div></div><div class="LongArticle-bodyItem is-embed" data-reactid="133"><div class="Embed Embed--twitter" data-reactid="134"><div class="Embed-object" data-reactid="135"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">My heart breaks whenever I see Theon Greyjoy 💔💔💔 <a href="https://twitter.com/hashtag/GOT?src=hash&amp;ref_src=twsrc%5Etfw">#GOT</a></p>&mdash; Luv Luv (@LeratoMoen) <a href="https://twitter.com/LeratoMoen/status/823455770071236609?ref_src=twsrc%5Etfw">January 23, 2017</a></blockquote>
+</div><div class="Embed-source" data-reactid="136"><a href="https://twitter.com/LeratoMoen/status/823455770071236609" target="_blank" title="Original source (opens in new window)" data-reactid="137"><svg width="16" height="16" class="Icon" data-reactid="138"><use xlink:href="#three-icon-twitter" data-reactid="139"></use></svg><span class="Icon-label gel-brevier" data-reactid="140">twitter</span></a></div></div></div><div class="LongArticle-bodyItem is-embed" data-reactid="141"><div class="Embed Embed--twitter" data-reactid="142"><div class="Embed-object" data-reactid="143"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Theon Greyjoy is ruining my life</p>&mdash; Annie Russell (@_annieruss) <a href="https://twitter.com/_annieruss/status/819949722463072257?ref_src=twsrc%5Etfw">January 13, 2017</a></blockquote>
+</div><div class="Embed-source" data-reactid="144"><a href="https://twitter.com/_annieruss/status/819949722463072257" target="_blank" title="Original source (opens in new window)" data-reactid="145"><svg width="16" height="16" class="Icon" data-reactid="146"><use xlink:href="#three-icon-twitter" data-reactid="147"></use></svg><span class="Icon-label gel-brevier" data-reactid="148">twitter</span></a></div></div></div><div class="LongArticle-bodyItem" data-reactid="149"><div class="Text gel-body-copy" data-reactid="150"><p>Now a betting company has asked 10,000 fans on Facebook who they think is most likely to be killed off in the next series of Game of Thrones - and Theon has topped the list.</p></div></div><div class="LongArticle-bodyItem" data-reactid="151"><div class="Text gel-body-copy" data-reactid="152"><p>Sure - he&apos;s had his ups and downs - but does he really deserve to die?</p></div></div><div class="LongArticle-bodyItem" data-reactid="153"><div class="Text gel-body-copy" data-reactid="154"><p>Via <a href="http://www.bbc.co.uk/newsbeat">Newsbeat</a>.</p></div></div></div><div class="gel-layout__item gel-1/12@l u-xs-hidden u-sm-hidden u-md-hidden" data-reactid="155"></div><div class="gel-layout__item no-padding gel-3/12@l u-xs-hidden u-sm-hidden u-md-hidden" data-reactid="156"><div class="RelatedBucket RelatedBucket--vertical" data-reactid="157"><div class="gel-layout__item gel-1" data-reactid="158"><a class="RelatedBucket-title gel-double-pica" href="http://www.bbc.co.uk/bbcthree/category/gossip" data-reactid="159"><!-- react-text: 160 -->More from <!-- /react-text --><!-- react-text: 161 -->Gossip <!-- /react-text --></a></div><div class="RelatedItem gel-layout__item gel-1/3@m RelatedBucket--verticalItem gel-1/1@xl" data-reactid="162"><a class="RelatedItem-link" href="http://www.bbc.co.uk/bbcthree/article/09fd9b52-89aa-4816-8093-9fc7478d72ae" data-reactid="163"><div class="gel-layout__item gel-1/2 gel-1/1@m" data-reactid="164"><div class="RelatedItem-header" data-reactid="165"><div class="PromoHeader" data-reactid="166"><span class="Image" data-reactid="167"><img srcset="http://ichef.bbci.co.uk/images/ic/480xn/p05rn1b3.jpg 480w, http://ichef.bbci.co.uk/images/ic/624xn/p05rn1b3.jpg 624w, http://ichef.bbci.co.uk/images/ic/800xn/p05rn1b3.jpg 800w, http://ichef.bbci.co.uk/images/ic/1056xn/p05rn1b3.jpg 1056w" src="http://ichef.bbci.co.uk/images/ic/704xn/p05rn1b3.jpg" class="Promo-img PromoHeader-image Image-elem" data-reactid="168"/></span></div></div></div><div class="gel-layout__item gel-1/2 gel-1/1@m" data-reactid="169"><p class="RelatedItem-text gel-pica" data-reactid="170">The Gossip: Will Queen Bey star in the new Lion King?</p></div></a></div><div class="RelatedItem gel-layout__item gel-1/3@m RelatedBucket--verticalItem gel-1/1@xl" data-reactid="171"><a class="RelatedItem-link" href="http://www.bbc.co.uk/bbcthree/article/d07e941b-dafe-49b7-aa8f-02cd2a3cb794" data-reactid="172"><div class="gel-layout__item gel-1/2 gel-1/1@m" data-reactid="173"><div class="RelatedItem-header" data-reactid="174"><div class="PromoHeader" data-reactid="175"><span class="Image" data-reactid="176"><img srcset="http://ichef.bbci.co.uk/images/ic/480xn/p05rmn5y.jpg 480w, http://ichef.bbci.co.uk/images/ic/624xn/p05rmn5y.jpg 624w, http://ichef.bbci.co.uk/images/ic/800xn/p05rmn5y.jpg 800w, http://ichef.bbci.co.uk/images/ic/1056xn/p05rmn5y.jpg 1056w" src="http://ichef.bbci.co.uk/images/ic/704xn/p05rmn5y.jpg" class="Promo-img PromoHeader-image Image-elem" data-reactid="177"/></span></div></div></div><div class="gel-layout__item gel-1/2 gel-1/1@m" data-reactid="178"><p class="RelatedItem-text gel-pica" data-reactid="179">The Gossip: The Harry Styles comeback is nearly here</p></div></a></div><div class="RelatedItem gel-layout__item gel-1/3@m RelatedBucket--verticalItem gel-1/1@xl" data-reactid="180"><a class="RelatedItem-link" href="http://www.bbc.co.uk/bbcthree/article/e1bc85c3-552c-42a9-beb6-f8a69b73a52c" data-reactid="181"><div class="gel-layout__item gel-1/2 gel-1/1@m" data-reactid="182"><div class="RelatedItem-header" data-reactid="183"><div class="PromoHeader" data-reactid="184"><span class="Image" data-reactid="185"><img srcset="http://ichef.bbci.co.uk/images/ic/480xn/p05rn8cy.jpg 480w, http://ichef.bbci.co.uk/images/ic/624xn/p05rn8cy.jpg 624w, http://ichef.bbci.co.uk/images/ic/800xn/p05rn8cy.jpg 800w, http://ichef.bbci.co.uk/images/ic/1056xn/p05rn8cy.jpg 1056w" src="http://ichef.bbci.co.uk/images/ic/704xn/p05rn8cy.jpg" class="Promo-img PromoHeader-image Image-elem" data-reactid="186"/></span></div></div></div><div class="gel-layout__item gel-1/2 gel-1/1@m" data-reactid="187"><p class="RelatedItem-text gel-pica" data-reactid="188">Is Posh making her musical comeback?</p></div></a></div></div></div></div></div><div class="LongArticle-bookend LongArticle-footer" data-reactid="189"><div class="LongArticle-info" data-reactid="190"></div><div class="Toolbar--equal Toolbar--longArticle LongArticle-bottomToolbar Toolbar Toolbar--slim u-cf gel-brevier" data-reactid="191"><p class="u-hiddenVisually" data-reactid="192">Options to share this content</p><ul class="Toolbar-actionGroup" data-reactid="193"><li class="Toolbar-action u-lg-hidden u-md-hidden" data-reactid="194"><a class="Toolbar-link SocialButton SocialButton--whatsapp istats-notrack" href="whatsapp://send?text=The Gossip: The Jump&#x27;s already claimed its first victim - http%3A%2F%2Fwww.bbc.co.uk%2Fbbcthree%2Farticle%2F48acd4f9-11bd-4797-b984-5f72d919f8e0" title="WhatsApp" data-reactid="195"><svg width="16" height="16" class="Icon SocialButton-icon SocialButton-icon--whatsapp" data-reactid="196"><use xlink:href="#three-icon-whatsapp" data-reactid="197"></use></svg><span class="Toolbar-text" data-reactid="198">WhatsApp</span></a></li><li class="Toolbar-action" data-reactid="199"><a class="Toolbar-link SocialButton SocialButton--facebook istats-notrack" href="http://www.facebook.com/dialog/feed?app_id=58567469885&amp;redirect_uri=http://www.bbc.co.uk/modules/share/close&amp;link=http%3A%2F%2Fwww.bbc.co.uk%2Fbbcthree%2Farticle%2F48acd4f9-11bd-4797-b984-5f72d919f8e0" title="Facebook" data-reactid="200"><svg width="16" height="16" class="Icon SocialButton-icon SocialButton-icon--facebook" data-reactid="201"><use xlink:href="#three-icon-facebook" data-reactid="202"></use></svg><span class="Toolbar-text" data-reactid="203">Facebook</span></a></li><li class="Toolbar-action" data-reactid="204"><a class="Toolbar-link SocialButton SocialButton--twitter istats-notrack" href="https://twitter.com/intent/tweet?text=The Gossip: The Jump&#x27;s already claimed its first victim&amp;url=http%3A%2F%2Fwww.bbc.co.uk%2Fbbcthree%2Farticle%2F48acd4f9-11bd-4797-b984-5f72d919f8e0" title="Twitter" data-reactid="205"><svg width="16" height="16" class="Icon SocialButton-icon SocialButton-icon--twitter" data-reactid="206"><use xlink:href="#three-icon-twitter" data-reactid="207"></use></svg><span class="Toolbar-text" data-reactid="208">Twitter</span></a></li><li class="Toolbar-action" data-reactid="209"><div class="Share LongArticle-share Share--openDown" data-reactid="210"><button class="SocialButton SocialButton--share" type="button" aria-haspopup="true" aria-controls="share-panel-undefined" id="share-btn-undefined" data-reactid="211"><svg width="16" height="16" class="Icon SocialButton-icon SocialButton-icon--share" data-reactid="212"><use xlink:href="#three-icon-share" data-reactid="213"></use></svg><span class="SocialButton-text gel-pica u-xs-hidden" data-reactid="214">Share</span></button><div class="Share-panel gel-long-primer" id="share-panel-undefined" aria-expanded="false" aria-hidden="true" aria-labelledby="share-btn-undefined" role="menu" data-reactid="215"><button class="Share-closeBtn" data-reactid="216"><svg width="16" height="16" class="Icon Share-closeIcon" data-reactid="217"><use xlink:href="#three-icon-no" data-reactid="218"></use></svg><span class="u-hiddenVisually" data-reactid="219">Close the expanded menu</span></button><ul class="Share-itemList" data-reactid="220"><li class="Share-item" role="menuitem" data-reactid="221"><a class="SocialButton SocialButton--pinterest istats-notrack" href="https://www.pinterest.com/pin/create/button/?description=The Gossip: The Jump&#x27;s already claimed its first victim&amp;url=http%3A%2F%2Fwww.bbc.co.uk%2Fbbcthree%2Farticle%2F48acd4f9-11bd-4797-b984-5f72d919f8e0" data-reactid="222"><svg width="16" height="16" class="Icon SocialButton-icon SocialButton-icon--pinterest" data-reactid="223"><use xlink:href="#three-icon-pinterest" data-reactid="224"></use></svg></a></li><li class="Share-item" role="menuitem" data-reactid="225"><a class="SocialButton SocialButton--tumblr istats-notrack" href="http://www.tumblr.com/share/link?name=The Gossip: The Jump&#x27;s already claimed its first victim&amp;url=http%3A%2F%2Fwww.bbc.co.uk%2Fbbcthree%2Farticle%2F48acd4f9-11bd-4797-b984-5f72d919f8e0" data-reactid="226"><svg width="16" height="16" class="Icon SocialButton-icon SocialButton-icon--tumblr" data-reactid="227"><use xlink:href="#three-icon-tumblr" data-reactid="228"></use></svg></a></li><li class="Share-item" role="menuitem" data-reactid="229"><a class="SocialButton SocialButton--reddit istats-notrack" href="http://www.reddit.com/submit?title=The Gossip: The Jump&#x27;s already claimed its first victim&amp;url=http%3A%2F%2Fwww.bbc.co.uk%2Fbbcthree%2Farticle%2F48acd4f9-11bd-4797-b984-5f72d919f8e0" data-reactid="230"><svg width="16" height="16" class="Icon SocialButton-icon SocialButton-icon--reddit" data-reactid="231"><use xlink:href="#three-icon-reddit" data-reactid="232"></use></svg></a></li></ul><div class="Share-copy" data-reactid="233"><label class="Share-copyLabel gel-long-primer" for="share-copy-undefined" data-reactid="234">Copy this link</label><input type="text" class="Share-copyInput gel-pica" id="share-copy-undefined" readonly="" value="http://www.bbc.co.uk/bbcthree/article/48acd4f9-11bd-4797-b984-5f72d919f8e0" data-reactid="235"/></div><div class="gel-long-primer" data-reactid="236"><a class="Share-link" href="http://www.bbc.co.uk/faqs/questions/bbc_online/sharing" data-reactid="237">About sharing</a></div></div></div></li></ul></div></div><div class="gel-layout u-lg-hidden" data-reactid="238"><div class="RelatedBucket" data-reactid="239"><div class="gel-layout__item gel-1" data-reactid="240"><a class="RelatedBucket-title gel-double-pica" href="http://www.bbc.co.uk/bbcthree/category/gossip" data-reactid="241"><!-- react-text: 242 -->More from <!-- /react-text --><!-- react-text: 243 -->Gossip <!-- /react-text --></a></div><div class="RelatedItem gel-layout__item gel-1/3@m gel-3/12@xl" data-reactid="244"><a class="RelatedItem-link" href="http://www.bbc.co.uk/bbcthree/article/09fd9b52-89aa-4816-8093-9fc7478d72ae" data-reactid="245"><div class="gel-layout__item gel-1/2 gel-1/1@m" data-reactid="246"><div class="RelatedItem-header" data-reactid="247"><div class="PromoHeader" data-reactid="248"><span class="Image" data-reactid="249"><img srcset="http://ichef.bbci.co.uk/images/ic/480xn/p05rn1b3.jpg 480w, http://ichef.bbci.co.uk/images/ic/624xn/p05rn1b3.jpg 624w, http://ichef.bbci.co.uk/images/ic/800xn/p05rn1b3.jpg 800w, http://ichef.bbci.co.uk/images/ic/1056xn/p05rn1b3.jpg 1056w" src="http://ichef.bbci.co.uk/images/ic/704xn/p05rn1b3.jpg" class="Promo-img PromoHeader-image Image-elem" data-reactid="250"/></span></div></div></div><div class="gel-layout__item gel-1/2 gel-1/1@m" data-reactid="251"><p class="RelatedItem-text gel-pica" data-reactid="252">The Gossip: Will Queen Bey star in the new Lion King?</p></div></a></div><div class="RelatedItem gel-layout__item gel-1/3@m gel-3/12@xl" data-reactid="253"><a class="RelatedItem-link" href="http://www.bbc.co.uk/bbcthree/article/d07e941b-dafe-49b7-aa8f-02cd2a3cb794" data-reactid="254"><div class="gel-layout__item gel-1/2 gel-1/1@m" data-reactid="255"><div class="RelatedItem-header" data-reactid="256"><div class="PromoHeader" data-reactid="257"><span class="Image" data-reactid="258"><img srcset="http://ichef.bbci.co.uk/images/ic/480xn/p05rmn5y.jpg 480w, http://ichef.bbci.co.uk/images/ic/624xn/p05rmn5y.jpg 624w, http://ichef.bbci.co.uk/images/ic/800xn/p05rmn5y.jpg 800w, http://ichef.bbci.co.uk/images/ic/1056xn/p05rmn5y.jpg 1056w" src="http://ichef.bbci.co.uk/images/ic/704xn/p05rmn5y.jpg" class="Promo-img PromoHeader-image Image-elem" data-reactid="259"/></span></div></div></div><div class="gel-layout__item gel-1/2 gel-1/1@m" data-reactid="260"><p class="RelatedItem-text gel-pica" data-reactid="261">The Gossip: The Harry Styles comeback is nearly here</p></div></a></div><div class="RelatedItem gel-layout__item gel-1/3@m gel-3/12@xl" data-reactid="262"><a class="RelatedItem-link" href="http://www.bbc.co.uk/bbcthree/article/e1bc85c3-552c-42a9-beb6-f8a69b73a52c" data-reactid="263"><div class="gel-layout__item gel-1/2 gel-1/1@m" data-reactid="264"><div class="RelatedItem-header" data-reactid="265"><div class="PromoHeader" data-reactid="266"><span class="Image" data-reactid="267"><img srcset="http://ichef.bbci.co.uk/images/ic/480xn/p05rn8cy.jpg 480w, http://ichef.bbci.co.uk/images/ic/624xn/p05rn8cy.jpg 624w, http://ichef.bbci.co.uk/images/ic/800xn/p05rn8cy.jpg 800w, http://ichef.bbci.co.uk/images/ic/1056xn/p05rn8cy.jpg 1056w" src="http://ichef.bbci.co.uk/images/ic/704xn/p05rn8cy.jpg" class="Promo-img PromoHeader-image Image-elem" data-reactid="268"/></span></div></div></div><div class="gel-layout__item gel-1/2 gel-1/1@m" data-reactid="269"><p class="RelatedItem-text gel-pica" data-reactid="270">Is Posh making her musical comeback?</p></div></a></div></div></div><div class="gel-layout" data-reactid="271"><div class="RelatedBucket" data-reactid="272"><div class="gel-layout__item gel-1" data-reactid="273"><a class="RelatedBucket-title gel-double-pica" href="http://www.bbc.co.uk/bbcthree/category/entertainment" data-reactid="274"><!-- react-text: 275 -->More from <!-- /react-text --><!-- react-text: 276 -->Entertainment<!-- /react-text --></a></div><div class="RelatedItem gel-layout__item gel-1/3@m gel-3/12@xl" data-reactid="277"><a class="RelatedItem-link" href="http://www.bbc.co.uk/bbcthree/article/d1a3fc94-9e1e-4767-87e0-18115567d7b2" data-reactid="278"><div class="gel-layout__item gel-1/2 gel-1/1@m" data-reactid="279"><div class="RelatedItem-header" data-reactid="280"><div class="PromoHeader" data-reactid="281"><span class="Image" data-reactid="282"><img srcset="http://ichef.bbci.co.uk/images/ic/480xn/p05nd557.jpg 480w, http://ichef.bbci.co.uk/images/ic/624xn/p05nd557.jpg 624w, http://ichef.bbci.co.uk/images/ic/800xn/p05nd557.jpg 800w, http://ichef.bbci.co.uk/images/ic/1056xn/p05nd557.jpg 1056w" src="http://ichef.bbci.co.uk/images/ic/704xn/p05nd557.jpg" class="Promo-img PromoHeader-image Image-elem" data-reactid="283"/></span></div></div></div><div class="gel-layout__item gel-1/2 gel-1/1@m" data-reactid="284"><p class="RelatedItem-text gel-pica" data-reactid="285">QUIZ: Match the savage reviews to the bad movies</p></div></a></div><div class="RelatedItem gel-layout__item gel-1/3@m gel-3/12@xl" data-reactid="286"><a class="RelatedItem-link" href="http://www.bbc.co.uk/bbcthree/article/21c919be-31f4-4145-b834-2938a1484235" data-reactid="287"><div class="gel-layout__item gel-1/2 gel-1/1@m" data-reactid="288"><div class="RelatedItem-header" data-reactid="289"><div class="PromoHeader" data-reactid="290"><span class="Image" data-reactid="291"><img srcset="http://ichef.bbci.co.uk/images/ic/480xn/p056fr3k.jpg 480w, http://ichef.bbci.co.uk/images/ic/624xn/p056fr3k.jpg 624w, http://ichef.bbci.co.uk/images/ic/800xn/p056fr3k.jpg 800w, http://ichef.bbci.co.uk/images/ic/1056xn/p056fr3k.jpg 1056w" src="http://ichef.bbci.co.uk/images/ic/704xn/p056fr3k.jpg" class="Promo-img PromoHeader-image Image-elem" data-reactid="292"/></span></div></div></div><div class="gel-layout__item gel-1/2 gel-1/1@m" data-reactid="293"><p class="RelatedItem-text gel-pica" data-reactid="294">When celebrities are starstruck by other celebrities</p></div></a></div><div class="RelatedItem gel-layout__item gel-1/3@m gel-3/12@xl" data-reactid="295"><a class="RelatedItem-link" href="http://www.bbc.co.uk/bbcthree/article/37048c30-1f15-4802-b884-362d967d92d4" data-reactid="296"><div class="gel-layout__item gel-1/2 gel-1/1@m" data-reactid="297"><div class="RelatedItem-header" data-reactid="298"><div class="PromoHeader" data-reactid="299"><span class="Image" data-reactid="300"><img srcset="http://ichef.bbci.co.uk/images/ic/480xn/p056jdqr.jpg 480w, http://ichef.bbci.co.uk/images/ic/624xn/p056jdqr.jpg 624w, http://ichef.bbci.co.uk/images/ic/800xn/p056jdqr.jpg 800w, http://ichef.bbci.co.uk/images/ic/1056xn/p056jdqr.jpg 1056w" src="http://ichef.bbci.co.uk/images/ic/704xn/p056jdqr.jpg" class="Promo-img PromoHeader-image Image-elem" data-reactid="301"/></span></div></div></div><div class="gel-layout__item gel-1/2 gel-1/1@m" data-reactid="302"><p class="RelatedItem-text gel-pica" data-reactid="303">Nine of the most WTF moments in festival fashion</p></div></a></div></div></div></div></div></div>
+<div class="Container">
+  
+</div>
+
+        </div>
+      </main>
+
+      <footer class="SiteFooter">
+        <div class="Container">
+          <div class="FollowThree">
+  <h2 class="FollowThree-header gel-trafalgar">Find us here</h2>
+  <ul class="FollowThree-list">
+    <li class="FollowThree-item">
+      <a class="SocialLink" href="https://www.facebook.com/bbcthree">
+        <svg class="SocialLink-icon">
+          <use xlink:href="#three-icon-facebook"></use>
+        </svg>
+        <span class="SocialLink-text gel-brevier">Facebook</span>
+      </a>
+    </li>
+    <li class="FollowThree-item">
+      <a class="SocialLink" href="https://www.instagram.com/bbcthree/">
+        <svg class="SocialLink-icon">
+          <use xlink:href="#three-icon-instagram"></use>
+        </svg>
+        <span class="SocialLink-text gel-brevier">Instagram</span>
+      </a>
+    </li>
+    <li class="FollowThree-item">
+      <a class="SocialLink" href="http://www.bbc.co.uk/tv/bbcthree">
+        <svg class="SocialLink-icon SocialLink-icon--iplayer">
+          <use xlink:href="#three-icon-bbc-iplayer"></use>
+        </svg>
+        <span class="SocialLink-text gel-brevier">BBC iPlayer</span>
+      </a>
+    </li>
+    <li class="FollowThree-item">
+      <a class="SocialLink" href="http://bbcthree.tumblr.com/">
+        <svg class="SocialLink-icon">
+          <use xlink:href="#three-icon-tumblr"></use>
+        </svg>
+        <span class="SocialLink-text gel-brevier">Tumblr</span>
+      </a>
+    </li>
+    <li class="FollowThree-item">
+      <a class="SocialLink" href="https://twitter.com/bbcthree">
+        <svg class="SocialLink-icon">
+          <use xlink:href="#three-icon-twitter"></use>
+        </svg>
+        <span class="SocialLink-text gel-brevier">Twitter</span>
+      </a>
+    </li>
+    <li class="FollowThree-item">
+      <a class="SocialLink" href="https://www.youtube.com/bbcthree">
+        <svg class="SocialLink-icon">
+          <use xlink:href="#three-icon-youtube"></use>
+        </svg>
+        <span class="SocialLink-text gel-brevier">YouTube</span>
+      </a>
+    </li>
+  </ul>
+</div>
+
+        </div>
+      </footer>
+
+      
+        <div class="Alert Alert--bordered" role="alert">
+          <div class="Alert-container Container">
+            <p>You're looking at our new site.</p>
+            <div class="Alert-buttons">
+              <a href="mailto:bbcthreewebfeedback@bbc.co.uk?subject=New%20BBC%20Three%20Website%20Feedback&amp;body=Thank%20you%20for%20contacting%20BBC%20THREE.%0D%0APlease%20provide%20as%20much%20detail%20as%20possible%20in%20the%20space%20below:%0D%0A%0D%0A%0D%0A%0D%0A—%0D%0AWe%20appreciate%20all%20feedback%20but%20regret%20we%20are%20not%20able%20to%20answer%20all%20the%20comments%20and%20enquiries%20we%20receive.%20If%20you%20are%20looking%20for%20general%20information%20about%20BBC%20THREE%20you%20can%20find%20details%20on%20our%20website%20www.bbc.co.uk/bbcthree/help%0D%0A%0D%0AIf%20you%20have%20a%20complaint,%20you%20should%20submit%20it%20using%20our%20central%20complaints%20website%20to%20be%20guaranteed%20a%20reply.%20Please%20visit%20www.bbc.co.uk/complaints%20where%20you%20can%20find%20full%20details%20of%20our%20complaints%20procedure." class="Button Button--primary Button--sm js-feedback-button">Tell us what you think</a>
+            </div>
+          </div>
+        </div>
+        <script type="text/javascript">
+        requirejs(['istats-1'], function (istats) {
+          document
+            .querySelector('.js-feedback-button')
+            .addEventListener('click', function () { istats.log('feedback', 'feedback-button') })
+        })
+        </script>
+      
+
+      
+        <script>
+          bbcthreeConfig = {
+            staticAssets: "https://bbcthree-web-cdn.files.bbci.co.uk/bbcthree-web-server/2.0.0-799.x86_64",
+            payload: {"content":{"id":"48acd4f9-11bd-4797-b984-5f72d919f8e0","type":"long-article","headline":{"text":"The Gossip: The Jump's already claimed its first victim"},"synopsis":"","mainImage":{"src":"http://ichef.bbci.co.uk/images/ic/{width}xn/p05rn2fw.jpg","alt":"The Jump contestants","height":1080,"width":1920,"copyrightHolder":"Channel 4"},"contributor":{},"body":[{"type":"text","html":"<p>The show hasn&apos;t even started yet but one celebrity has already suffered an injury.</p>"},{"type":"text","html":"<p><span class=\"Media-content&gt;&lt;span class=\" image'=\"\" style=\"display:block;position:relative;\"><img src=\"https://ichef.bbci.co.uk/live-experience/cps/1248/cpsprodpb/vivo/live/images/2017/2/3/64a109e1-9b30-4f33-b7bc-4dcecc228bcd.jpg\" alt=\"Vogue Williams\" class=\"Image-elem\"><span class=\"Image-copyright\" style=\"position:absolute;bottom:0;right:0;padding:2px 5px;background: rgba(0,0,0,.6);color:#fff;font-size:11px;\">Channel 4</span></span></p>"},{"type":"text","html":"<p>Model Vogue Williams has had to drop out of competing in Channel 4&apos;s The Jump after suffering the injury during training.</p>"},{"type":"text","html":"<p>She apparently damaged her knee practising for the ski cross, an event which sees celebrities race around a track at high speed.</p>"},{"type":"oEmbed","network":"twitter","html":"<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Really disappointed to be out of The Jump. I&#39;ve had the time of my life and if the show is back next year I&#39;ll be in it to win it! <a href=\"https://twitter.com/Channel4?ref_src=twsrc%5Etfw\">@Channel4</a></p>&mdash; Vogue Williams (@VogueWilliams) <a href=\"https://twitter.com/VogueWilliams/status/827222711109836803?ref_src=twsrc%5Etfw\">February 2, 2017</a></blockquote>\n","sourceUrl":"https://twitter.com/VogueWilliams/status/827222711109836803"},{"type":"text","html":"<p>She&apos;ll now be replaced by one of the stand-in celebrities. According to <a href=\"https://www.thesun.co.uk/tvandshowbiz/2766750/the-jumps-vogue-williams-is-forced-to-quit-the-show-days-before-launch-due-to-serious-knee-injury/\">The Sun</a>, I&#x2019;m A Celebrity star Amy Willerton will step up.</p>"},{"type":"text","html":"<p>A spokeswoman for Channel 4 told the newspaper: &quot;Vogue fell during training for ski cross yesterday injuring her knee which sadly means she can no longer continue in the competition.&quot;</p>"},{"type":"text","html":"<p>But this isn&apos;t even close to the first injury to take place on the sporting reality show.</p>"},{"type":"oEmbed","network":"twitter","html":"<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">As <a href=\"https://twitter.com/Channel4?ref_src=twsrc%5Etfw\">@Channel4</a>’s hazardous hit <a href=\"https://twitter.com/hashtag/TheJump?src=hash&amp;ref_src=twsrc%5Etfw\">#TheJump</a> returns, <a href=\"https://twitter.com/TinaHobley?ref_src=twsrc%5Etfw\">@TinaHobley</a> continues to battle with injury, finds <a href=\"https://twitter.com/JuLlewellyn?ref_src=twsrc%5Etfw\">@JuLlewellyn</a> <a href=\"https://t.co/NWqBmHIG15\">https://t.co/NWqBmHIG15</a> <a href=\"https://t.co/icumGMAzH4\">pic.twitter.com/icumGMAzH4</a></p>&mdash; The Sunday Times (@thesundaytimes) <a href=\"https://twitter.com/thesundaytimes/status/787726054995726337?ref_src=twsrc%5Etfw\">October 16, 2016</a></blockquote>\n","sourceUrl":"https://twitter.com/thesundaytimes/status/787726054995726337"},{"type":"text","html":"<p>Previous contestants who&apos;ve had to pull out of the competition due to injury include Holby City star Tina Hobley who broke her arm in two places as well as hurting her knee and leg. And, gymnast Beth Tweddle who fractured two vertebrae, resulting in a spinal surgery.</p>"},{"type":"text","html":"<p>There have been other injuries including fractures, sprains and tears.</p>"},{"type":"text","html":"<p>How many of this year&apos;s contestants will make it through unscathed?</p>"},{"type":"text","html":"<p><strong>Who raided Nicki Minaj&apos;s home?</strong></p>"},{"type":"text","html":"<p><span class=\"Media-content&gt;&lt;span class=\" image'=\"\" style=\"display:block;position:relative;\"><img src=\"https://ichef.bbci.co.uk/live-experience/cps/1248/cpsprodpb/vivo/live/images/2017/2/3/7bda2cb2-438c-4181-8442-190f86785193.jpg\" alt=\"Nicki Minaj\" class=\"Image-elem\"><span class=\"Image-copyright\" style=\"position:absolute;bottom:0;right:0;padding:2px 5px;background: rgba(0,0,0,.6);color:#fff;font-size:11px;\">AP</span></span></p>"},{"type":"text","html":"<p>Apparently the singer has had her home burgled, with <a href=\"http://www.bbc.co.uk/newsbeat/article/38851606/nicki-minajs-la-mansions-burgled-with-140000-of-jewellery-and-property-taken\">$175,000 worth of stuff</a> stolen.</p>"},{"type":"text","html":"<p>Nicki hasn&apos;t made a comment herself, but reports suggest her house was vandalised as well.</p>"},{"type":"text","html":"<p><span class=\"Media-content&gt;&lt;span class=\" image'=\"\" style=\"display:block;position:relative;\"><img src=\"https://ichef.bbci.co.uk/live-experience/cps/1248/cpsprodpb/vivo/live/images/2017/2/3/f88464f0-5e19-4522-9d5d-68347111aad0.jpg\" alt=\"Nicki Minaj\" class=\"Image-elem\"><span class=\"Image-copyright\" style=\"position:absolute;bottom:0;right:0;padding:2px 5px;background: rgba(0,0,0,.6);color:#fff;font-size:11px;\">AP</span></span></p>"},{"type":"text","html":"<p><a href=\"http://www.tmz.com/2017/02/02/nicki-minaj-house-burglary/\">TMZ</a> says the intruders &quot;knocked over and flipped furniture and items all over the house&quot;.</p>"},{"type":"text","html":"<p>&quot;Picture frames, perfume bottles and furniture&quot; were among the items damaged.</p>"},{"type":"text","html":"<p><strong>Is Theon Greyjoy next in line for a gruesome&#xA0;death?</strong></p>"},{"type":"text","html":"<p><span class=\"Media-content&gt;&lt;span class=\" image'=\"\" style=\"display:block;position:relative;\"><img src=\"https://ichef.bbci.co.uk/live-experience/cps/1248/cpsprodpb/vivo/live/images/2017/2/3/77decd37-bf90-4564-9388-c09aab765e34.jpg\" alt=\"Theon Greyjoy\" class=\"Image-elem\"><span class=\"Image-copyright\" style=\"position:absolute;bottom:0;right:0;padding:2px 5px;background: rgba(0,0,0,.6);color:#fff;font-size:11px;\">HBO</span></span></p>"},{"type":"text","html":"<p>Poor old Theon - he&apos;s already had a turbulent time in Game of Thrones. (Don&apos;t worry, we&apos;re not going to drop any spoilers, apart from the fact he&apos;s managed to survive this long.)</p>"},{"type":"text","html":"<p>But he divides fan opinion.</p>"},{"type":"oEmbed","network":"twitter","html":"<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">My heart breaks whenever I see Theon Greyjoy 💔💔💔 <a href=\"https://twitter.com/hashtag/GOT?src=hash&amp;ref_src=twsrc%5Etfw\">#GOT</a></p>&mdash; Luv Luv (@LeratoMoen) <a href=\"https://twitter.com/LeratoMoen/status/823455770071236609?ref_src=twsrc%5Etfw\">January 23, 2017</a></blockquote>\n","sourceUrl":"https://twitter.com/LeratoMoen/status/823455770071236609"},{"type":"oEmbed","network":"twitter","html":"<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Theon Greyjoy is ruining my life</p>&mdash; Annie Russell (@_annieruss) <a href=\"https://twitter.com/_annieruss/status/819949722463072257?ref_src=twsrc%5Etfw\">January 13, 2017</a></blockquote>\n","sourceUrl":"https://twitter.com/_annieruss/status/819949722463072257"},{"type":"text","html":"<p>Now a betting company has asked 10,000 fans on Facebook who they think is most likely to be killed off in the next series of Game of Thrones - and Theon has topped the list.</p>"},{"type":"text","html":"<p>Sure - he&apos;s had his ups and downs - but does he really deserve to die?</p>"},{"type":"text","html":"<p>Via <a href=\"http://www.bbc.co.uk/newsbeat\">Newsbeat</a>.</p>"}],"tags":[{"href":"http://www.bbc.co.uk/bbcthree/category/gossip","tagName":"Gossip "},{"href":"http://www.bbc.co.uk/bbcthree/category/entertainment","tagName":"Entertainment"}],"timestamp":{"firstPublished":"2017-02-03T08:06:25+00:00","lastPublished":"2017-02-03T08:10:38+00:00"},"analytics":{"card_id":"48acd4f9-11bd-4797-b984-5f72d919f8e0","card_tags":[],"card_title":"The Gossip: The Jump's already claimed its first victim","card_type":"long-article","card_format":["text"],"onward_journey_type_in_page":"more-from-tag","related_content_tag1":"Gossip ","related_content_tag2":"Entertainment"},"openGraph":{"title":"The Gossip: The Jump's already claimed its first victim","description":"","type":"article","publishedTime":"2017-02-03T08:06:25+00:00","modifiedTime":"2017-02-03T08:10:38+00:00","image":"http://ichef.bbci.co.uk/images/ic/704xn/p05rn2fw.jpg","url":"http://www.bbc.co.uk/bbcthree/article/48acd4f9-11bd-4797-b984-5f72d919f8e0","tags":["Gossip ","Entertainment"]},"share":{"bbc":"http://www.bbc.co.uk/bbcthree/article/48acd4f9-11bd-4797-b984-5f72d919f8e0","facebook":"http://www.facebook.com/dialog/feed?app_id=58567469885&redirect_uri=http://www.bbc.co.uk/modules/share/close&link=http%3A%2F%2Fwww.bbc.co.uk%2Fbbcthree%2Farticle%2F48acd4f9-11bd-4797-b984-5f72d919f8e0","pinterest":"https://www.pinterest.com/pin/create/button/?description=The Gossip: The Jump's already claimed its first victim&url=http%3A%2F%2Fwww.bbc.co.uk%2Fbbcthree%2Farticle%2F48acd4f9-11bd-4797-b984-5f72d919f8e0","reddit":"http://www.reddit.com/submit?title=The Gossip: The Jump's already claimed its first victim&url=http%3A%2F%2Fwww.bbc.co.uk%2Fbbcthree%2Farticle%2F48acd4f9-11bd-4797-b984-5f72d919f8e0","tumblr":"http://www.tumblr.com/share/link?name=The Gossip: The Jump's already claimed its first victim&url=http%3A%2F%2Fwww.bbc.co.uk%2Fbbcthree%2Farticle%2F48acd4f9-11bd-4797-b984-5f72d919f8e0","twitter":"https://twitter.com/intent/tweet?text=The Gossip: The Jump's already claimed its first victim&url=http%3A%2F%2Fwww.bbc.co.uk%2Fbbcthree%2Farticle%2F48acd4f9-11bd-4797-b984-5f72d919f8e0","whatsapp":"whatsapp://send?text=The Gossip: The Jump's already claimed its first victim - http%3A%2F%2Fwww.bbc.co.uk%2Fbbcthree%2Farticle%2F48acd4f9-11bd-4797-b984-5f72d919f8e0"},"metadata":{"title":"The Gossip: The Jump's already claimed its first victim - BBC Three","metaDescription":"Check out this content on BBC Three.","description":"Check out this content on BBC Three.","type":"article","publishedTime":"2017-02-03T08:06:25+00:00","modifiedTime":"2017-02-03T08:10:38+00:00","image":"http://ichef.bbci.co.uk/images/ic/704xn/p05rn2fw.jpg","jsonLD":"{\"@context\":\"http://schema.org\",\"@type\":\"Article\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"http://www.bbc.co.uk/bbcthree/article/48acd4f9-11bd-4797-b984-5f72d919f8e0\"},\"author\":{\"@type\":\"Person\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"BBC Three\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"http://bbcthree-web-cdn.files.bbci.co.uk/bbcthree-web-server/2.0.0-799.x86_64/images/three-logo-2x.png\",\"width\":152,\"height\":152}},\"description\":\"Check out this content on BBC Three.\",\"image\":\"http://ichef.bbci.co.uk/images/ic/704xn/p05rn2fw.jpg\",\"headline\":\"The Gossip: The Jump's already claimed its first victim\",\"datePublished\":\"2017-02-03T08:06:25+00:00\",\"dateModified\":\"2017-02-03T08:10:38+00:00\"}","canonicalUrl":"http://www.bbc.co.uk/bbcthree/article/48acd4f9-11bd-4797-b984-5f72d919f8e0","buildNumber":"2.0.0-799.x86_64"},"relatedContent":[{"meta":{"editorialOrder":0,"label":"Gossip ","href":"http://www.bbc.co.uk/bbcthree/category/gossip"},"items":[{"href":"http://www.bbc.co.uk/bbcthree/article/09fd9b52-89aa-4816-8093-9fc7478d72ae","type":"long-article","headline":"The Gossip: Will Queen Bey star in the new Lion King?","image":"http://ichef.bbci.co.uk/images/ic/{width}xn/p05rn1b3.jpg"},{"href":"http://www.bbc.co.uk/bbcthree/article/d07e941b-dafe-49b7-aa8f-02cd2a3cb794","type":"long-article","headline":"The Gossip: The Harry Styles comeback is nearly here","image":"http://ichef.bbci.co.uk/images/ic/{width}xn/p05rmn5y.jpg"},{"href":"http://www.bbc.co.uk/bbcthree/article/e1bc85c3-552c-42a9-beb6-f8a69b73a52c","type":"long-article","headline":"Is Posh making her musical comeback?","image":"http://ichef.bbci.co.uk/images/ic/{width}xn/p05rn8cy.jpg"}]},{"meta":{"editorialOrder":1,"label":"Entertainment","href":"http://www.bbc.co.uk/bbcthree/category/entertainment"},"items":[{"href":"http://www.bbc.co.uk/bbcthree/article/d1a3fc94-9e1e-4767-87e0-18115567d7b2","type":"long-article","headline":"QUIZ: Match the savage reviews to the bad movies","image":"http://ichef.bbci.co.uk/images/ic/{width}xn/p05nd557.jpg"},{"href":"http://www.bbc.co.uk/bbcthree/article/21c919be-31f4-4145-b834-2938a1484235","type":"long-article","headline":"When celebrities are starstruck by other celebrities","image":"http://ichef.bbci.co.uk/images/ic/{width}xn/p056fr3k.jpg"},{"href":"http://www.bbc.co.uk/bbcthree/article/37048c30-1f15-4802-b884-362d967d92d4","type":"long-article","headline":"Nine of the most WTF moments in festival fashion","image":"http://ichef.bbci.co.uk/images/ic/{width}xn/p056jdqr.jpg"}]}]}},
+            additionalPayloads: {}
+          };
+        </script>
+      
+    </div>
+
+    
+<script>
+  requirejs(['common'], function() {
+    requirejs(['https://bbcthree-web-cdn.files.bbci.co.uk/bbcthree-web-server/2.0.0-799.x86_64/js/app/article.entry.bundle.js']);
+  });
+
+  requirejs(['istats-1'], function(istats) {
+    var payload = window.bbcthreeConfig.payload;
+    istats.addLabels(payload.content.analytics);
+  });
+</script>
+
+
+<script type="application/ld+json">
+  {"@context":"http://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"http://www.bbc.co.uk/bbcthree/article/48acd4f9-11bd-4797-b984-5f72d919f8e0"},"author":{"@type":"Person"},"publisher":{"@type":"Organization","name":"BBC Three","logo":{"@type":"ImageObject","url":"http://bbcthree-web-cdn.files.bbci.co.uk/bbcthree-web-server/2.0.0-799.x86_64/images/three-logo-2x.png","width":152,"height":152}},"description":"Check out this content on BBC Three.","image":"http://ichef.bbci.co.uk/images/ic/704xn/p05rn2fw.jpg","headline":"The Gossip: The Jump's already claimed its first victim","datePublished":"2017-02-03T08:06:25+00:00","dateModified":"2017-02-03T08:10:38+00:00"}
+</script>
+
+
+    
+      <div class="PSGallery"
+  tabindex="-1"
+  role="dialog"
+  aria-hidden="true"
+  aria-describedby="pswp-caption">
+  <div class="pswp__bg"></div>
+  <div class="pswp__scroll-wrap">
+    <div class="pswp__container">
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+    </div>
+    <div class="pswp__ui pswp__ui--hidden">
+      <div class="pswp__top-bar">
+        <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+        <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+        <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+        <div class="pswp__counter"></div>
+        <div class="pswp__preloader">
+          <div class="pswp__preloader__icn">
+            <div class="pswp__preloader__cut">
+              <div class="pswp__preloader__donut"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+      </button>
+      <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+      </button>
+      <div class="pswp__caption">
+        <p class="pswp__caption__center" id="pswp-caption"></p>
+      </div>
+    </div>
+  </div>
+</div>
+
+    
+
+    </div>
+<div id="orb-footer" class="orb-footer" dir="ltr"><div id="navp-orb-footer-promo"></div><aside role="complementary"><div id="orb-aside" class="orb-nav-sec b-r b-g-p"><div class="orb-footer-inner" role="navigation" aria-label="BBC"><h2 class="orb-footer-lead">Explore the BBC</h2><div class="orb-footer-primary-links"><ul><li class="orb-nav-home"><a href="https://www.bbc.co.uk">Home</a></li><li class="orb-nav-news"><a href="http://www.bbc.co.uk/news">News</a></li><li class="orb-nav-sport"><a href="http://www.bbc.co.uk/sport">Sport</a></li><li class="orb-nav-weather"><a href="http://www.bbc.co.uk/weather">Weather</a></li><li class="orb-nav-iplayer"><a href="https://www.bbc.co.uk/iplayer">iPlayer</a></li><li class="orb-nav-tv"><a href="https://www.bbc.co.uk/tv">TV</a></li><li class="orb-nav-radio"><a href="http://www.bbc.co.uk/radio">Radio</a></li><li class="orb-nav-cbbc"><a href="https://www.bbc.co.uk/cbbc">CBBC</a></li><li class="orb-nav-cbeebies"><a href="https://www.bbc.co.uk/cbeebies">CBeebies</a></li><li class="orb-nav-food"><a href="http://www.bbc.co.uk/food">Food</a></li><li class="orb-nav-bitesize"><a href="https://www.bbc.co.uk/education">Bitesize</a></li><li class="orb-nav-music"><a href="http://www.bbc.co.uk/music">Music</a></li><li class="orb-nav-earth"><a href="http://www.bbc.com/earth">Earth</a></li><li class="orb-nav-arts"><a href="http://www.bbc.co.uk/arts">Arts</a></li><li class="orb-nav-digital"><a href="http://www.bbc.co.uk/makeitdigital">Make It Digital</a></li><li class="orb-nav-taster"><a href="http://www.bbc.co.uk/taster">Taster</a></li><li class="orb-nav-local"><a href="https://www.bbc.co.uk/news/localnews">Local</a></li><li class="orb-nav-tomorrowsworld"><a href="http://www.bbc.co.uk/tomorrowsworld">Tomorrow&#x27;s World</a></li></ul></div></div></div></aside><footer role="contentinfo"><div id="orb-contentinfo" class="orb-nav-sec b-r b-g-p"><script>window.orb.worldwideFooterlinks = '<li class="orb-footer-ads"><a href="https://advertising.bbcworldwide.com/">Advertise with us<'+'/a><'+'/li><li class="orb-footer-adchoices"><a href="http://www.bbc.com/usingthebbc/cookies/what-is-online-behavioural-advertising/">Ad choices<'+'/a><'+'/li>';</script><div class="orb-footer-inner"><ul><li class="orb-footer-terms"><a href="http://www.bbc.co.uk/usingthebbc/terms/">Terms of Use</a></li><li class="orb-footer-about"><a href="http://www.bbc.co.uk/aboutthebbc">About the BBC</a></li><li class="orb-footer-privacy"><a href="http://www.bbc.co.uk/usingthebbc/privacy/">Privacy Policy</a></li><li class="orb-footer-cookies"><a href="http://www.bbc.co.uk/usingthebbc/cookies/">Cookies</a></li><li class="orb-footer-accessibility"><a href="http://www.bbc.co.uk/accessibility/">Accessibility Help</a></li><li class="orb-footer-parental"><a href="http://www.bbc.co.uk/guidance">Parental Guidance</a></li><li class="orb-footer-contact"><a href="http://www.bbc.co.uk/contact">Contact the BBC</a></li><li class="orb-footer-newsletter"><a href="http://www.bbc.co.uk/bbcnewsletter">Get Personalised Newsletters</a></li></ul><small><em class="orb-hilight">Copyright &copy; 2018 BBC.</em> The BBC is not responsible for the content of external sites. <span class="orb-footer-links"><a href="http://www.bbc.co.uk/help/web/links/" class="orb-hilight">Read about our approach to external linking.</a></span></small></div></div></footer></div><script id="orb-js-script" data-assetpath="https://nav.files.bbci.co.uk/orbit/2.0.0-111.55a7e4d/" src="https://nav.files.bbci.co.uk/orbit/2.0.0-111.55a7e4d/js/orb.min.js"></script><script type="text/javascript">require(['orb/lib/_$'], function($) {
+        $.ready(function() {
+            initialiseFooter();
+        });
+
+        var scrollCheckTimer;
+        var didScroll;
+        var previousPosition = 0;
+        var delta = 5;
+        var PROMO_SHOW_BREAKPOINT = 1500;
+        var pageLength = 0;
+
+        function initialiseFooter() {
+            // Suppress this feature on browsers we no longer test
+            var myNav = navigator.userAgent.toLowerCase();
+            var oldIE = (myNav.indexOf('msie') !== -1) && parseInt(myNav.split('msie')[1], 10) <= 10;
+            if (!oldIE) {
+                require(['orb/cookies'], function (bbccookies) {
+                    var disabledByCookie = (parseInt(bbccookies.get('ckns_nav_promofail')) || 0) >= 3;
+                    if (!disabledByCookie) {
+                        require(['orb/fig'], function (orbFig) {
+                            orbFig.load(function (fig) {
+                                if (fig.geo.isUK()) {
+                                    setUpLazyLoading();
+                                }
+                            });
+                        });
+                    }
+                });
+            }
+        }
+
+        function setUpLazyLoading() {
+            // offsetHeight is expensive to calculate, only do it once.
+            pageLength = Math.abs(document.body.offsetHeight);
+
+            if (pageLength < getViewportHeight() + 300 || pageLength - getCurrentPosition() < PROMO_SHOW_BREAKPOINT) {
+                loadPromo();
+
+            } else {
+                window.onscroll = function () {
+                    didScroll = true;
+                };
+
+                scrollCheckTimer = setInterval(function () {
+                    if (didScroll) {
+                        hasScrolled();
+                        didScroll = false;
+                    }
+                }, 250);
+            }
+        }
+
+        function loadPromo() {
+            clearInterval(scrollCheckTimer);
+
+            require(['orb/async/_footerpromo'], function(promo) {
+                promo.init('https://navpromo.api.bbci.co.uk', '');
+            });
+        }
+
+        function getViewportHeight() {
+            return window.innerHeight;
+        }
+
+        function getCurrentPosition() {
+            return Math.abs(window.scrollY || document.body.scrollTop || document.documentElement.scrollTop);
+        }
+
+        function hasScrolled() {
+            var currentPosition = getCurrentPosition();
+            if (Math.abs(previousPosition - currentPosition) <= delta) {
+                return;
+            }
+            if (currentPosition > previousPosition) {
+                if ((pageLength - currentPosition) <= PROMO_SHOW_BREAKPOINT) {
+                    loadPromo();
+                }
+            }
+            previousPosition = currentPosition;
+        }
+
+    })</script><script type="text/javascript">/*<![CDATA[*/
+        require(['orb/fig', 'orb/nav'], function(fig, nav) {
+            fig.load(function(fig) {
+                if (fig.geo.isUK()) {
+                    nav.loadJs('https://nav.files.bbci.co.uk/orbit/2.0.0-111.55a7e4d/js/edr.min.js');
+                }
+            });
+        });
+    /*]]>*/</script><script type="text/javascript">require(["megavolt-client","istats-1","orb/cookies"],function(t,e,i){function o(){return"true"===l&&a&&t&&"function"==typeof t.getMVTIStatsLabels}function n(){!c&&o()?setTimeout(function(){e.invoke()},"500"):e.invoke()}var s=navigator.userAgent.toLowerCase(),a=!(s.indexOf("msie")>-1)||parseInt(s.split("msie")[1],10)>10,c=!1,l="true";if(i.isAllowed("s1"))try{if(o()&&t.getMVTIStatsLabels(function(t){e.addLabels(t),c=!0}),!require.s.contexts._.config.paths.idcta)return void n();require(["idcta/idcta-1"],function(t){t&&"function"==typeof t.getIStatsLabels&&e.addLabels(t.getIStatsLabels()),n()},function(t){throw t})}catch(t){console&&"function"==typeof console.log&&console.log("an exception occurred while adding idcta labels to istats, invoking istats without them",t),n()}});</script><script type="text/javascript">require.config({
+            paths: {
+                "mybbc/templates": '//mybbc.files.bbci.co.uk/notification-ui/3.8.4/templates',
+                "mybbc/notifications": '//mybbc.files.bbci.co.uk/notification-ui/3.8.4/js'
+            }
+        });
+
+        require(['mybbc/notifications/NotificationsMain', 'idcta/idcta-1'], function (NotificationsMain, idcta) {
+            var loadNotifications = function (fig) {
+                if (fig.geo.isUK()) {
+                    NotificationsMain.run(idcta, '//mybbc.files.bbci.co.uk/notification-ui/3.8.4/');
+                }
+            };
+            var orbFig = window.orb.fig;
+            if (typeof orbFig.load === 'function') {
+                // Use new async API from Orbit
+                orbFig.load(loadNotifications, loadNotifications);
+            } else {
+                // Use old sync-only API from PAL orbfig project
+                loadNotifications(orbFig);
+            }
+        });</script><script type="text/javascript">if (window.SEARCHBOX.suppress === false && window.SEARCHBOX.locale && /^en-?.*?/.test(window.SEARCHBOX.locale)) {
+    require.config({
+      paths: {
+        "search/searchbox": window.SEARCHBOX.searchboxAppStaticPrefix,
+        "disco-layer": "//nav.files.bbci.co.uk/discovery-layer/0.0.1-225.3e98a7a/app"
+      }
+    });
+
+    require(['search/searchbox/searchboxDrawer'], function (SearchboxDrawer) {
+      SearchboxDrawer.run(window.SEARCHBOX);
+    });
+
+        var loadDiscoveryLayer = function (fig) {
+            if (fig.geo.isUK()) {
+                require(['disco-layer'], function (discoLayer) {
+                  discoLayer.run("//nav.files.bbci.co.uk/discovery-layer/content/", "//nav.files.bbci.co.uk/discovery-layer/0.0.1-225.3e98a7a/main.css");
+                });
+            }
+        };
+        var orbFig = window.orb.fig;
+        if (typeof orbFig.load === 'function') {
+            // Use new async API from Orbit
+            orbFig.load(loadDiscoveryLayer);
+        } else {
+            // Use old sync-only API from PAL orbfig project
+            loadDiscoveryLayer(orbFig);
+        }
+  }</script><!-- BBCDOTCOM bodyLast --><div class="bbccom_display_none"><script type="text/javascript">/*<![CDATA[*/ if (window.bbcdotcom && window.bbcdotcom.analytics && bbcdotcom.config && !bbcdotcom.config.isSportApp()) { bbcdotcom.analytics.page(); } /*]]>*/</script><noscript><img src="//ssc.api.bbc.com/?c1=2&c2=19293874&ns_site=bbc&name=" height="1" width="1" alt=""></noscript><script type="text/javascript">/*<![CDATA[*/ if (window.bbcdotcom && bbcdotcom.currencyProviders) { bbcdotcom.currencyProviders.write(); } /*]]>*/</script><script type="text/javascript">/*<![CDATA[*/ if (window.bbcdotcom && bbcdotcom.currencyProviders) { bbcdotcom.currencyProviders.postWrite(); } /*]]>*/</script><script type="text/javascript">/*<![CDATA[*/ if (window.bbcdotcom && bbcdotcom.data && bbcdotcom.data.stats && bbcdotcom.data.stats == 1 && bbcdotcom.config && bbcdotcom.config.isLotameEnabled && bbcdotcom.config.isLotameEnabled() && bbcdotcom.lotame){ bbcdotcom.lotame.write(); } /*]]>*/</script><script type="text/javascript">/*<![CDATA[*/ if (window.bbcdotcom && bbcdotcom.data && bbcdotcom.data.stats && bbcdotcom.data.stats === 1 && bbcdotcom.utils && window.location.pathname === '/' && window.bbccookies && bbccookies.readPolicy('performance') ) { var wwhpEdition = bbcdotcom.utils.getMetaPropertyContent('wwhp-edition'); var _sf_async_config={}; /** CONFIGURATION START **/ _sf_async_config.uid = 50924; _sf_async_config.domain = "bbc.co.uk"; _sf_async_config.title = "Homepage"+(wwhpEdition !== '' ? ' - '+wwhpEdition : ''); _sf_async_config.sections = "Homepage"+(wwhpEdition !== '' ? ', Homepage - '+wwhpEdition : ''); _sf_async_config.region = wwhpEdition; _sf_async_config.path = "/"+(wwhpEdition !== '' ? '?'+wwhpEdition : ''); /** CONFIGURATION END **/ (function(){ function loadChartbeat() { window._sf_endpt=(new Date()).getTime(); var e = document.createElement("script"); e.setAttribute("language", "javascript"); e.setAttribute("type", "text/javascript"); e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js'); document.body.appendChild(e); } var oldonload = window.onload; window.onload = (typeof window.onload != "function") ? loadChartbeat : function() { oldonload(); loadChartbeat(); }; })(); } /*]]>*/</script><script type="text/javascript">/*<![CDATA[*/ (function() { window.bbcdotcom.bodyLast = true; }()); /*]]>*/</script></div><!-- BBCDOTCOM all code in page --> <script>require.config({"paths":{"bump-3":"//emp.bbci.co.uk/emp/bump-3/bump-3","echo-8.1.0":"//static.bbci.co.uk/echoclient/modules/echo-8.1.0.js","jssignals-1":"//static.bbci.co.uk/frameworks/jssignals/0.3.6/modules/jssignals-1","jquery-1.9":"//static.bbci.co.uk/frameworks/jquery/0.4.1/sharedmodules/jquery-1.9.1","swfobject-2":"//static.bbci.co.uk/frameworks/swfobject/0.1.10/sharedmodules/swfobject-2"}})</script>
+    <!-- comscore mmx - start -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({
+    c1: "2",
+    c2: "17986528"
+  });
+
+  (function() {
+    var s = document.createElement("script"),
+      el = document.getElementsByTagName("script")[0];
+    s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=17986528&amp;cv=2.0&amp;cj=1" alt="" class="image-hide">
+</noscript>
+<!-- comscore mmx - end -->
+
+    <script>
+  !function() {
+    var chartbeatPath = window.location.hostname.replace('www.', '') + window.location.pathname;
+    window._sf_async_config={};
+    /** CONFIGURATION START **/
+    _sf_async_config.uid = 50924;
+    _sf_async_config.domain = "bbc.co.uk";
+    _sf_async_config.sections = "three";
+    _sf_async_config.region = "domestic";
+    _sf_async_config.path = chartbeatPath;
+    /** CONFIGURATION END **/
+    window._sf_endpt=(new Date()).getTime();
+  }();
+</script>
+<script src="//static.chartbeat.com/js/chartbeat.js"></script>
+
+    <!--[if lte IE 9]>
+      <script src="https://bbcthree-web-cdn.files.bbci.co.uk/bbcthree-web-server/2.0.0-799.x86_64/js/vendor/history.iegte8.min.js"></script>
+    <![endif]-->
+  </body>
+</html>
