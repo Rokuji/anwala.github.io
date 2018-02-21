@@ -1,0 +1,865 @@
+http://www.aljazeera.com/programmes/the-crusades-an-arab-perspective/
+
+
+
+
+
+The Crusades: An Arab Perspective - Al Jazeera English
+var _sf_startpt=(new Date()).getTime()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+if ( /(iPad).*AppleWebKit.*Mobile.*Safari/.test(navigator.userAgent) ) {
+  var headNode = document.getElementsByTagName("head")[0];
+  var sbNode = document.createElement('meta');
+  sbNode.name = 'apple-itunes-app';
+  sbNode.content = 'app-id=504847776';
+  headNode.appendChild(sbNode);
+} 
+else if ( /(iPhone|iPod).*AppleWebKit.*Mobile.*Safari/.test(navigator.userAgent) ) {
+  var headNode = document.getElementsByTagName("head")[0];
+  var sbNode = document.createElement('meta');                    
+  sbNode.name = 'apple-itunes-app';                
+  sbNode.content = 'app-id=504847776';
+  headNode.appendChild(sbNode);
+}
+
+
+        $(document).ready(function () {
+	ShowingNow();	});
+	
+	 if (/(iPhone|iPod|iPad)/.test(navigator.userAgent)) 
+	{
+		if(window.localStorage.getItem ("AJE_Safari")==null)
+		{ 				
+			window.localStorage.setItem("AJE_Safari","true");
+			window.location.reload(true)
+		} 
+		else
+		{ 
+			window.localStorage.removeItem ("AJE_Safari");
+		}
+        }
+
+ 
+
+
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+fbq('init', '968100353246427');
+fbq('track', 'PageView');
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4&appId=1547040598874845";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Created with Sketch.             Watch Live 
+
+
+
+
+
+
+
+
+
+
+
+
+				 
+
+
+
+
+
+
+					 
+
+
+Now Playing
+
+ Watch
+
+
+
+ 
+
+ Listen
+
+
+
+TV Schedule
+
+
+
+
+
+
+ Live 
+
+submit
+
+
+
+
+
+
+
+
+
+al jazeera
+menu
+ 
+
+
+
+submit
+
+
+Home
+NewsMore
+
+
+Middle East
+Africa
+Asia
+US & Canada
+
+
+
+
+Latin America
+Europe
+Asia Pacific
+All
+
+
+
+
+Middle East
+DocumentariesMore
+
+
+Featured Documentaries
+Witness
+Al Jazeera World
+101 East
+
+
+
+
+People & Power
+Fault Lines
+My Tunisia
+Al Jazeera Selects 
+Al Jazeera Correspondent
+REWIND
+All
+
+
+
+
+ShowsMore
+
+
+Inside Story
+The Stream
+The Listening Post
+Talk to Al Jazeera
+
+
+
+
+The Big Picture
+Counting the Cost
+UpFront
+earthrise
+Empire
+All
+
+
+
+
+Investigations
+Opinion
+In Pictures
+MoreMore
+
+
+Features
+Investigations
+In Pictures
+Interactive
+
+
+
+
+Interactive Documentaries
+AJ Shorts
+Podcasts
+Reporter's Notebook
+Human Rights
+Sport
+Science & Technology
+Weather
+
+
+
+
+
+
+
+Trending:
+Ethiopia
+Donald Trump
+Gun control
+Zimbabwe
+Syria's Civil War
+
+
+
+
+
+
+
+
+Most Searched
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+googletag.cmd.push(function() { 
+googletag.display('div-gpt-ad-1430377943388-2'); 
+});
+
+
+
+
+
+
+          .oryx-bg {
+          background-image: url(/mritems/Images/2016/12/5/eeda0da81a3148ee9a4a85af20e60798_6.jpg);
+          }
+        
+LATEST
+RenderPagesVideo('5261090816001', 0, '100%', 473, 'vdoContainer');
+Liberation: Acre and the End of the Crusades
+From the Third Crusade to the siege of Acre: How the crusader presence in the Holy Land was brought to an end.
+28 Dec 2016 12:28 GMT
+              |  
+              Religion, Islam, Christianity, History
+
+        .follow-item-style li {
+        display: block;
+        float: right;
+        margin-right: .5em;
+        font-size: 16px;
+        }
+
+        .follow-item-style li a {
+        width: 24px;
+        height: 24px;
+        display: block;
+        overflow: hidden;
+        background-image: url('/assets/images/social-follow-sprite.png');
+        background-repeat: no-repeat;
+        text-indent: -5000px;
+        }
+
+        .social-twitter {
+        background-position: 0 0;
+        }
+
+        .social-facebook {
+        background-position: -24px 0;
+        }
+
+
+        .social-google {
+        background-position: -48px 0;
+        }
+
+        .social-youtube {
+        background-position: -72px 0;
+        }
+        .social-rss {
+        background-position: -96px 0;
+        }
+          .social-contactus {
+        background-position: -120px 0;
+        }
+      About The Crusades: An Arab Perspective
+
+
+
+The dramatic story of the Crusades seen through Arab eyes - from the seizing of Jerusalem under Pope Urban II in 1099 to its recapture by Salah ad-Din, Richard the Lionheart’s efforts to regain the city, and the end of the movement two centuries later.
+
+
+Airing Times
+
+
+Saturday
+20:00 GMT
+
+
+Sunday
+12:00 GMT
+
+
+Monday
+01:00 GMT
+
+
+Tuesday
+06:00 GMT
+
+
+Tuesday
+20:00 GMT
+
+
+Wednesday
+12:00 GMT
+
+
+Thursday
+01:00 GMT
+
+
+Friday
+06:00 GMT
+
+
+New EpisodeShow full TV schedule                       
+									var jQueryScriptOutputted = false;                 
+
+									function initJQuery() {
+
+											if (typeof (jQuery) === 'undefined') {
+
+													if (!jQueryScriptOutputted) {
+															//only output the script once..
+															jQueryScriptOutputted = true;
+
+															var script   = document.createElement("script");
+															script.type  = "text/javascript";
+											script.src   = "/assets/scripts/jquery-1.11.1.min.js";    
+															document.body.appendChild(script);
+													}   
+
+													setTimeout("initJQuery()", 50); 
+											}  else {
+        
+        										(function($){
+													$(window).load(function(){
+														$("#about-programme").mCustomScrollbar({
+															scrollButtons:{
+																enable:true
+															},
+															theme:"light-thick"
+														});
+													});
+												})(jQuery);
+														
+											}
+																
+									}
+									initJQuery();                   
+				More
+Unification: Saladin and the Fall of Jerusalem
+We explore how Salah Ed-Din unified the Muslim states and recaptured the holy city of Jerusalem from the crusaders.
+
+Revival: The Muslim Response to the Crusades
+This part of 'The Crusades: An Arab Perspective' explores the birth of the Muslim revival in the face of the Crusades.
+
+Shock: The First Crusade and the Conquest of Jerusalem
+Background to the holy wars and the First Crusade's conquest of Jerusalem, a holy city for Jews, Christians and Muslims.
+FROM THE ARCHIVES
+
+
+The enduring influence of the Crusades
+How Muslim extremists and American conservatives came to find comfort in Crusade metaphors.
+Religion,Christianity,Islam
+
+
+
+Time to forget the Crusades
+Their legacy has been used to argue the inevitability of a clash of civilisations.
+France
+
+
+
+Revisiting the British conquest of Jerusalem
+The day the British entered Jerusalem in 1917, Palestine's fate was sealed.
+
+
+ $("#ID0EAA").owlCarousel({
+                          items: 3,
+                          itemsDesktop: [1199, 3],
+                          itemsDesktopSmall: [979, 3],
+                          itemsTablet: [768, 2],
+                          itemsMobile: [479, 1],
+                          responsiveRefreshRate : 100
+                      });
+    Staff PicksStreet Food
+A taste of conflict: The politics of food in Jerusalem
+In an ancient city torn apart by modern conflict, can food help to bridge political and religious divisions?
+Talk to Al Jazeera
+Nadezhda Kutepova: Life in Russia's secret nuclear city
+Activist Kutepova on growing up in a city that saw the world's third-worst nuclear accident and being exiled as traitor.
+101 East
+India's Miracle Babies
+India's elderly new mothers: Are doctors playing God, or does every woman have the right to bear a child?
+
+
+
+
+MUST-SEE PROGRAMMESPeople & PowerUkraine: A dangerous gameAs crucial elections approach, is Ukraine really as divided as people have been told?Crimea, Ukraine, RussiaGaddafi: The EndgameLibya: State of DenialThe story of the fall of Gaddafi as told by the insiders, defectors and military advisers who helped bring it about.Muammar Gaddafi, Libya, PoliticsTalk to Al JazeeraHailemariam Desalegn: Democracy 'not only an election'The Ethiopian prime minister discusses democracy, human rights, press freedom and the future of his country.Politics, Human Rights, EthiopiaProgrammesBahrain: Shouting in the DarkThe story of the Arab revolution that was abandoned by the Arabs, forsaken by the West and forgotten by the world.Bahrain, Middle East, Arab Spring
+
+
+
+
+
+
+
+ 
+
+
+News
+
+Programmes
+
+Opinion
+
+About
+
+Investigations
+
+Contact Us
+
+Video
+
+
+
+Facebook
+
+Twitter
+
+Google+
+
+RSS
+
+Podcast
+
+YouTube
+
+SnapChat
+
+
+
+			© 2017 Al Jazeera Media Network
+
+
+
+
+
+					About
+
+
+About Us
+
+Press Office
+
+Awards
+
+Code of Ethics
+
+Terms and Conditions
+
+Community Guidelines
+
+Work for us
+
+HR Quality
+
+
+
+
+					Connect
+
+
+Contact Us
+
+Apps
+
+Social
+
+Channel Finder
+
+TV Schedule
+
+Podcasts
+
+Newsletter
+
+
+
+
+
+
+					Our Channels
+
+
+Al Jazeera Arabic
+
+Al Jazeera English
+
+Al Jazeera Mubasher
+
+Al Jazeera Documentary
+
+Al Jazeera Balkans
+
+AJ+
+
+
+
+
+					Our Network
+
+
+Jetty
+
+Al Jazeera Centre for Studies
+
+Al Jazeera Media Institute
+
+Al Jazeera Centre for Public Liberties & Human Rights
+
+Al Jazeera Forum
+
+Al Jazeera Film Festival
+
+Al Jazeera Learning
+
+Al Jazeera Hotel Partners
+
+
+
+
+
+
+					 
+
+
+
+
+
+					© 2018 Al Jazeera Media Network
+
+
+
+
+
+	 
+
+
+
+
+
+
+
+
+
+        $(function() {   
+	   
+            $('img.lazy').lazy({
+                effect: "fadeIn",
+                effectTime: 1000,
+		defaultImage: "http://www.aljazeera.com/img/nov-2016/novresptopfeature.jpg",
+		visibleOnly: true
+                
+            });
+
+	$('.thumbnails-container .lazy').lazy({
+                effect: "fadeIn",
+                effectTime: 1000,
+		defaultImage: "http://www.aljazeera.com/img/nov-2016/novresptopfeature.jpg",
+		appendScroll: $('.thumbnails-container'), 
+		visibleOnly: true
+                
+            });  
+        });
+
+    
+
+/* <![CDATA[ */
+var google_conversion_id = 944250150;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+
+
+
+
+
+
+
+
+
+
+
+/* <![CDATA[ */
+var google_conversion_id = 944250150;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "ffffff";
+var google_conversion_label = "qHeuCOSxnF8QprqgwgM";
+var google_remarketing_only = false;
+/* ]]> */
+
+
+
+
+
+
+
+
+
+
+
+    var _sf_async_config={};
+    var _url = "";
+
+    try {
+        _url = getMetaContentByName("url");
+	_url = _url.replace("http://www.aljazeera.com","");
+        if (!_url)
+            _url = window.location.pathname;
+    }
+    catch (Error) {
+        console.log(Error);
+    }
+
+    _sf_async_config.uid = 3291;
+    _sf_async_config.domain = 'aljazeera.com';
+    _sf_async_config.path = _url;
+    _sf_async_config.playerdomain = 'players.brightcove.net';
+    
+    (function(){
+      function loadChartbeat() {
+        window._sf_endpt=(new Date()).getTime();
+        var e = document.createElement('script');
+        e.setAttribute('language', 'javascript');
+        e.setAttribute('type', 'text/javascript');
+        e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+        document.body.appendChild(e);
+      }
+      var oldonload = window.onload;
+      window.onload = (typeof window.onload != 'function') ?
+         loadChartbeat : function() { oldonload(); loadChartbeat(); };
+    })();
+
+
+
+
+if(/Mobile|iPhone|iPod|BlackBerry|nokia|IEMobile|Opera Mini/i.test(navigator.userAgent)){
+var _mfq = _mfq || [];
+(function()
+{ var mf = document.createElement("script"); mf.type = "text/javascript"; mf.async = true; mf.src = "//cdn.mouseflow.com/projects/f9672d00-7a4d-4e54-8581-ee611286a05d.js"; document.getElementsByTagName("head")[0].appendChild(mf); }
+)();}
+var mouseflowPath = document.location.pathname;
+if ($(window).width() <= 767) mouseflowPath += "/smartphone";
+
+
+
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-1615344-7', 'auto');
+ga('send', 'pageview');
+
+
+
+
+var owa_sampleRate = 1.0;
+var owa_baseUrl = '//track.qcri.org/';
+var owa_cmds = owa_cmds || [];
+owa_cmds.push(['setSiteId', 'www.aljazeera.com']);
+owa_cmds.push(['setCustomVar', 1, 'sampleRate', owa_sampleRate, 'page']);
+owa_cmds.push(['trackPageView']);
+ 
+(function() {
+	function load_owa() {	
+		var s = document.createElement('script');
+		s.type = 'text/javascript'; s.async = true;
+		s.src = owa_baseUrl + 'v2-track-min.js';
+		var x = document.getElementsByTagName('script')[0];
+		x.parentNode.insertBefore(s, x);
+		
+	}
+	var pageURL = 'http://www.aljazeera.com' + window.location.pathname;	if (pageURL.indexOf("opinion") > 0 || pageURL.indexOf("middleeast") > 0){
+
+		if( owa_sampleRate == 1.0 || Math.random() > (1.0 - owa_sampleRate) ) {
+			if (window.attachEvent) {
+		    	window.attachEvent('onload', load_owa);
+			} else {
+		    	window.addEventListener('load', load_owa, false);
+			}
+		}
+	}
+}());
+
+  
+(function(a,b,c,d,e){function f(){var a=b.createElement("script");a.async=!0;
+a.src="//radar.cedexis.com/1/15249/radar.js";b.body.appendChild(a)}/\bMSIE 6/i
+.test(a.navigator.userAgent)||(a[c]?a[c](e,f,!1):a[d]&&a[d]("on"+e,f))})
+(window,document,"addEventListener","attachEvent","load");
+
+
+
+$('#showing-on-now').on('click', function() {
+  ga('send', 'event', 'EPG', 'click', 'Show Now Link - Masthead');
+});
+$('#watch-now-link').on('click', function() {
+  ga('send', 'event', 'Watch Live', 'click', 'Watch Now Link - Masthead');
+});
+$('#watchlive').on('click', function() {
+  ga('send', 'event', 'Watch Live', 'click', 'Watch Now Icon - Top - Mobile');
+});
+$('#showing-on-next').on('click', function() {
+  ga('send', 'event', 'EPG', 'click', 'Show Next Link - Masthead');
+});
+$('#nav-topics').on('click', function() {
+  ga('send', 'event', 'Topics', 'click', 'Top Topics Bar - Masthead');
+});
+$('#weatherwidget').on('click', function() {
+  ga('send', 'event', 'Weather', 'click', 'Weather Widget - Masthead');
+});
+$('#SocialMediaIconsID').on('click', function() {
+  ga('Site Social Links','click','Top Social Icons - Masthead');
+});
+$('.live-watch').on('click', function() {
+  ga('send','event','Watch Live','click','Watch Now Link - Top Live Menu');
+});
+$('.live-listen').on('click', function() {
+  ga('send','event','Listen Live','click','Listen Now Link - Top Live Menu');
+});
+$('.TVScheduleLink').on('click', function() {
+  ga('send','event','TVSchedule','click','TVSchedule - Top Live Menu');
+});
+
+
+
+
+
+
+googletag.cmd.push(function() { 
+googletag.display('div-gpt-ad-1430377943388-0'); 
+});
+
+
+
+
+
+
+	
+googletag.cmd.push(function() { 
+googletag.display('div-gpt-ad-1430377943388-1'); 
+});
+
+
+
+
+	try {
+	$('#div-gpt-ad-1430377943388-2').remove();
+	$('.topadcontainer').remove();
+        $('#topdivad').insertAfter('#oryxcontext');
+	document.getElementById("topdivad").style.display = "block";
+ if (document.getElementById("toprightlongad")!= null){
+	var RightDiv = document.getElementById("toprightlongad");
+	RightDiv.innerHTML = document.getElementById("rightlongad").innerHTML;  
+	document.getElementById("rightlongad").innerHTML = "";
+}
+	
+	}
+	catch(err) {
+    		
+	} 
+
+
+
+
+

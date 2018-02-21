@@ -1,0 +1,636 @@
+http://www.guns.com/2016/11/11/chicagos-biggest-chinese-firearms-advocate-video/
+
+
+
+
+
+
+
+
+
+		var ajaxurl = 'http://www.guns.com/wp-admin/admin-ajax.php';
+		
+
+Chicago's biggest Chinese firearms advocate (VIDEO)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		var disableStr = 'ga-disable-UA-18308426-1';
+
+	/* Function to detect opted out users */
+	function __gaTrackerIsOptedOut() {
+		return document.cookie.indexOf(disableStr + '=true') > -1;
+	}
+
+	/* Disable tracking if the opt-out cookie exists. */
+	if ( __gaTrackerIsOptedOut() ) {
+		window[disableStr] = true;
+	}
+
+	/* Opt-out function */
+	function __gaTrackerOptout() {
+	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+	  window[disableStr] = true;
+	}
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+	__gaTracker('create', 'UA-18308426-1', 'auto');
+	__gaTracker('set', 'forceSSL', true);
+	__gaTracker('require', 'displayfeatures');
+	__gaTracker('send','pageview');
+
+
+
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/14544-presscdn-0-64.pagely.netdna-cdn.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.6.4"}};
+			!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createElement("canvas"),i=h.getContext&&h.getContext("2d"),j=String.fromCharCode;if(!i||!i.fillText)return!1;switch(i.textBaseline="top",i.font="600 32px Arial",a){case"flag":return i.fillText(j(55356,56806,55356,56826),0,0),!(h.toDataURL().length<3e3)&&(i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,65039,8205,55356,57096),0,0),c=h.toDataURL(),i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,55356,57096),0,0),d=h.toDataURL(),c!==d);case"diversity":return i.fillText(j(55356,57221),0,0),e=i.getImageData(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.fillText(j(55356,57221,55356,57343),0,0),e=i.getImageData(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.fillText(j(55357,56835),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode8":return i.fillText(j(55356,57135),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode9":return i.fillText(j(55358,56631),0,0),0!==i.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		
+
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"@context":"http:\/\/schema.org\/","@type":"NewsArticle","mainEntityOfPage":{"@type":"WebPage","@id":"http:\/\/www.guns.com\/2016\/11\/11\/chicagos-biggest-chinese-firearms-advocate-video\/"},"url":"http:\/\/www.guns.com\/2016\/11\/11\/chicagos-biggest-chinese-firearms-advocate-video\/","headline":"Chicago's biggest Chinese firearms advocate (VIDEO)","datePublished":"2016-11-11T17:31:23+00:00","dateModified":"2016-11-12T07:24:26+00:00","publisher":{"@type":"Organization","@id":"http:\/\/www.guns.com\/#organization","name":"Guns.com","logo":{"@type":"ImageObject","url":"","width":600,"height":60}},"image":{"@type":"ImageObject","url":"http:\/\/www.guns.com\/wp-content\/uploads\/2016\/11\/Chicago.s.biggest.Chinese.firearms.advocate.VIDEO_.jpg","width":696,"height":360},"articleSection":"Politics &amp; 2nd Amendment","description":"Jun Wang keeps a loaded shotgun in his closet and another rifle at the ready to give his 13-year old son should things get really real-- and he holds firearms classes for members of his community.","author":{"@type":"Person","name":"Chris Eger","url":"http:\/\/www.guns.com\/author\/chris-eger\/","description":"Chris Eger is an NRA-certified firearms instructor in multiple disciplines with a background in law enforcement and as a security contractor to the federal government. He has been writing badly since 2006 and has a number of poorly-received books in print. You can reach him via [email_antispambot]egerwriter@gmail.com[\/email_antispambot]"},"video":null}
+
+img#wpstats{display:none}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	/* Popup Google Fonts */
+@import url('//fonts.googleapis.com/css?family=Acme|Montserrat');
+
+/* Popup Theme 3064599: Framed Border */
+.pum-theme-3064599, .pum-theme-framed-border { background-color: rgba( 255, 255, 255, 0.50 ) } 
+.pum-theme-3064599 .pum-container, .pum-theme-framed-border .pum-container { padding: 18px; border-radius: 0px; border: 20px outset #dd3333; box-shadow: 1px 1px 3px 0px rgba( 2, 2, 2, 0.97 ) inset; background-color: rgba( 255, 251, 239, 1.00 ) } 
+.pum-theme-3064599 .pum-title, .pum-theme-framed-border .pum-title { color: #000000; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-size: 32px; line-height: 36px } 
+.pum-theme-3064599 .pum-content, .pum-theme-framed-border .pum-content { color: #2d2d2d; font-family: inherit } 
+.pum-theme-3064599 .pum-content + .pum-close, .pum-theme-framed-border .pum-content + .pum-close { height: 20px; width: 20px; left: auto; right: -20px; bottom: auto; top: -20px; padding: 0px; color: #ffffff; font-family: Acme; font-size: 20px; line-height: 20px; border: 1px none #ffffff; border-radius: 0px; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.23 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 0, 0, 0, 0.55 ) } 
+
+/* Popup Theme 3064598: Cutting Edge */
+.pum-theme-3064598, .pum-theme-cutting-edge { background-color: rgba( 0, 0, 0, 0.50 ) } 
+.pum-theme-3064598 .pum-container, .pum-theme-cutting-edge .pum-container { padding: 18px; border-radius: 0px; border: 1px none #000000; box-shadow: 0px 10px 25px 0px rgba( 2, 2, 2, 0.50 ); background-color: rgba( 30, 115, 190, 1.00 ) } 
+.pum-theme-3064598 .pum-title, .pum-theme-cutting-edge .pum-title { color: #ffffff; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: Sans-Serif; font-size: 26px; line-height: 28px } 
+.pum-theme-3064598 .pum-content, .pum-theme-cutting-edge .pum-content { color: #ffffff; font-family: inherit } 
+.pum-theme-3064598 .pum-content + .pum-close, .pum-theme-cutting-edge .pum-content + .pum-close { height: 24px; width: 24px; left: auto; right: 0px; bottom: auto; top: 0px; padding: 0px; color: #1e73be; font-family: inherit; font-size: 32px; line-height: 24px; border: 1px none #ffffff; border-radius: 0px; box-shadow: -1px 1px 1px 0px rgba( 2, 2, 2, 0.10 ); text-shadow: -1px 1px 1px rgba( 0, 0, 0, 0.10 ); background-color: rgba( 238, 238, 34, 1.00 ) } 
+
+/* Popup Theme 3064597: Hello Box */
+.pum-theme-3064597, .pum-theme-hello-box { background-color: rgba( 0, 0, 0, 0.75 ) } 
+.pum-theme-3064597 .pum-container, .pum-theme-hello-box .pum-container { padding: 30px; border-radius: 80px; border: 14px solid #81d742; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.00 ); background-color: rgba( 255, 255, 255, 1.00 ) } 
+.pum-theme-3064597 .pum-title, .pum-theme-hello-box .pum-title { color: #2d2d2d; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: Montserrat; font-size: 32px; line-height: 36px } 
+.pum-theme-3064597 .pum-content, .pum-theme-hello-box .pum-content { color: #2d2d2d; font-family: inherit } 
+.pum-theme-3064597 .pum-content + .pum-close, .pum-theme-hello-box .pum-content + .pum-close { height: auto; width: auto; left: auto; right: -30px; bottom: auto; top: -30px; padding: 0px; color: #2d2d2d; font-family: inherit; font-size: 32px; line-height: 28px; border: 1px none #ffffff; border-radius: 28px; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.23 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 255, 255, 255, 1.00 ) } 
+
+/* Popup Theme 3064596: Enterprise Blue */
+.pum-theme-3064596, .pum-theme-enterprise-blue { background-color: rgba( 0, 0, 0, 0.70 ) } 
+.pum-theme-3064596 .pum-container, .pum-theme-enterprise-blue .pum-container { padding: 28px; border-radius: 5px; border: 1px none #000000; box-shadow: 0px 10px 25px 4px rgba( 2, 2, 2, 0.50 ); background-color: rgba( 255, 255, 255, 1.00 ) } 
+.pum-theme-3064596 .pum-title, .pum-theme-enterprise-blue .pum-title { color: #315b7c; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-size: 34px; line-height: 36px } 
+.pum-theme-3064596 .pum-content, .pum-theme-enterprise-blue .pum-content { color: #2d2d2d; font-family: inherit } 
+.pum-theme-3064596 .pum-content + .pum-close, .pum-theme-enterprise-blue .pum-content + .pum-close { height: 28px; width: 28px; left: auto; right: 8px; bottom: auto; top: 8px; padding: 4px; color: #ffffff; font-family: inherit; font-size: 20px; line-height: 20px; border: 1px none #ffffff; border-radius: 42px; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.23 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 49, 91, 124, 1.00 ) } 
+
+/* Popup Theme 3064595: Light Box */
+.pum-theme-3064595, .pum-theme-lightbox { background-color: rgba( 0, 0, 0, 0.60 ) } 
+.pum-theme-3064595 .pum-container, .pum-theme-lightbox .pum-container { padding: 18px; border-radius: 3px; border: 8px solid #000000; box-shadow: 0px 0px 30px 0px rgba( 2, 2, 2, 1.00 ); background-color: rgba( 255, 255, 255, 1.00 ) } 
+.pum-theme-3064595 .pum-title, .pum-theme-lightbox .pum-title { color: #000000; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-size: 32px; line-height: 36px } 
+.pum-theme-3064595 .pum-content, .pum-theme-lightbox .pum-content { color: #000000; font-family: inherit } 
+.pum-theme-3064595 .pum-content + .pum-close, .pum-theme-lightbox .pum-content + .pum-close { height: 30px; width: 30px; left: auto; right: -24px; bottom: auto; top: -24px; padding: 0px; color: #ffffff; font-family: inherit; font-size: 24px; line-height: 26px; border: 2px solid #ffffff; border-radius: 30px; box-shadow: 0px 0px 15px 1px rgba( 2, 2, 2, 0.75 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 0, 0, 0, 1.00 ) } 
+
+/* Popup Theme 3064594: Default Theme */
+.pum-theme-3064594, .pum-theme-default-theme { background-color: rgba( 0, 0, 0, 0.60 ) } 
+.pum-theme-3064594 .pum-container, .pum-theme-default-theme .pum-container { padding: 0px; border-radius: 0px; border: 1px none #000000; box-shadow: 1px 1px 3px 0px rgba( 2, 2, 2, 0.23 ); background-color: rgba( 249, 249, 249, 1.00 ) } 
+.pum-theme-3064594 .pum-title, .pum-theme-default-theme .pum-title { color: #000000; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-size: 32px; line-height: 36px } 
+.pum-theme-3064594 .pum-content, .pum-theme-default-theme .pum-content { color: #8c8c8c; font-family: inherit } 
+.pum-theme-3064594 .pum-content + .pum-close, .pum-theme-default-theme .pum-content + .pum-close { height: auto; width: auto; left: auto; right: 0px; bottom: auto; top: 0px; padding: 8px; color: #0a0a0a; font-family: Sans-Serif; font-size: 18px; line-height: 14px; border: 1px none #ffffff; border-radius: 0px; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.23 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 255, 255, 255, 1.00 ) } 
+
+
+	
+		
+
+window.twttr = (function (d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0],
+            t = window.twttr || {};
+        if (d.getElementById(id)) return t;
+        js = d.createElement(s);
+        js.id = id;
+        js.src = "https://platform.twitter.com/widgets.js";
+        fjs.parentNode.insertBefore(js, fjs);
+
+        t._e = [];
+        t.ready = function (f) {
+            t._e.push(f);
+        };
+
+        return t;
+    }(document, "script", "twitter-wjs"));
+
+(function (d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s);
+        js.id = id;
+        js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+
+
+
+
+
+    (function (w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({
+            'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+        });
+        var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-TV6JCT');
+
+
+
+
+
+
+
+
+Need cash and looking to sell your gun?
+
+Sell Your Gun
+
+
+
+
+
+Guns.com is now on Instagram
+Join Us On Instagram
+
+
+
+    .promo-widget .btn-link {
+        display: block;
+        clear: both;
+        margin-top: 20px;
+    }
+    .widget_constant-contact input.button {
+        padding: 8px 14px !important;
+    }
+
+    .promo-container {
+        overflow: hidden;
+    }
+
+    .gtc-link {
+        font-size: 17px !important;
+        line-height: 20px;
+        font-smooth: always;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+    }
+
+    .gform_wrapper .gform_footer {
+        padding: 0;
+    }
+
+    @media (max-width: 479px) {
+        /* fix logo sizing on small mobile */
+        .logo>a {
+            background-size: 150px 49px;
+            display: block;
+            height: 49px;
+            text-indent: -999em;
+            width: 150px;
+        }
+        .navigation-toggle, .navigation-close {
+            margin: 14px 0 0 0;
+        }
+    }
+    @media (max-width: 768px) {
+        /* removes new widgets from mobile. */
+        .widget_constant-contact, .promo-widget {
+            display: none !important;
+        }
+
+        /* remove line under pagination in mobile */
+        .widget-area.homepage-upper {
+            border-top: none;
+        }
+
+        /* ad pushes up against article image in mobile */
+        .openx-ad {
+            text-align: center;
+            overflow: hidden;
+            margin-bottom: 40px;
+        }
+    }
+
+    @media (min-width: 769px) {
+        /* lines up navigation buttons on home page with content */
+        .home:not(.paged) .content-navigation {
+            margin-right: 0;
+            padding-right: 340px;
+        }
+    }
+
+
+
+
+
+
+Guns.com
+
+
+
+Menu
+Skip to content
+
+Reviews
+Industry News
+Concealed Carry
+More
+
+2nd Amendment
+Ammunition
+Black Powder
+Collectibles & Novelties
+Comics
+Competitive Shooting
+Gun Bazaar
+Gun Laws
+Handloading
+Hunting
+International News
+Military
+Non-Lethal
+Opinion
+Safety
+Self Defense
+Tactical
+
+
+We Buy Guns
+
+
+
+
+Search
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Chicago’s biggest Chinese firearms advocate (VIDEO)
+
+11/11/16 | by Chris Eger Share
+Tweet
+
+
+
+
+Jun Wang keeps a loaded shotgun in his closet and another rifle at the ready to give his 13-year old son should things get really real– and he holds firearms classes for members of his community.
+Al Jazeera (we know, right?) delves into the life of one of the biggest Second Amendment advocates in Chicago and what he is doing on the ground when it comes to grassroots tribal gun knowledge as possibly the only Chinese firearms instructor in the city.
+“Unless you can take away all the guns from criminals, I will not give up my guns,” says Wang.
+
+
+
+			Filed Under: Politics & 2nd Amendment, Self Defense 
+
+Share
+Tweet
+
+
+ 
+
+
+
+
+
+
+		We Buy Guns
+	
+Get Started
+
+
+
+
+ 
+
+
+
+
+				(function() {
+					var rcel = document.createElement("script");
+					rcel.id = 'rc_' + Math.floor(Math.random() * 1000);
+					rcel.type = 'text/javascript';
+					rcel.src = "http://trends.revcontent.com/serve.js.php?w=1247&t="+rcel.id+"&c="+(new Date()).getTime()+"&width="+(window.outerWidth || document.documentElement.clientWidth);
+					rcel.async = true;
+					var rcds = document.getElementById("rcjsload_6ae4ea"); rcds.appendChild(rcel);
+				})();
+			
+
+
+
+
+ 
+
+
+					googletag.cmd.push(function() {
+						googletag.display('div-gpt-ad-1394161823588-1');
+					});
+				
+
+
+Email Newsletter SignupGet guns.com news directly in your inbox! Stay up-to-date.
+
+
+*
+
+ 
+
+
+
+
+
+
+
+
+
+ if(typeof gf_global == 'undefined') var gf_global = {"gf_currency_config":{"name":"U.S. Dollar","symbol_left":"$","symbol_right":"","symbol_padding":"","thousand_separator":",","decimal_separator":".","decimals":2},"base_url":"http:\/\/www.guns.com\/wp-content\/plugins\/gravityforms","number_formats":[],"spinnerUrl":"http:\/\/www.guns.com\/wp-content\/plugins\/gravityforms\/images\/spinner.gif"};jQuery(document).bind('gform_post_render', function(event, formId, currentPage){if(formId == 3) {if(typeof Placeholders != 'undefined'){
+                        Placeholders.enable();
+                    }} } );jQuery(document).bind('gform_post_conditional_logic', function(event, formId, fields, isInit){} ); jQuery(document).ready(function(){jQuery(document).trigger('gform_post_render', [3, 1]) } ); Follow Us
+Facebook
+Twitter
+Instagram
+YouTube
+RSS
+Top Articles
+
+A-10 drops a four-pack of brrrt on speeding Taliban hatchback (VIDEO)Vista Outdoor: Cabela's-Bass Pro merger spurring uncertaintyRemington enters agreement for bankruptcy plansDressing up the Ruger PC9 for a day at the range (VIDEO)Shooting lines of Tide Pods for redneck science (VIDEO)
+
+
+
+
+
+
+					googletag.cmd.push( function() {
+						googletag.display( 'div-gpt-ad-1394569189241-1' );
+					} );
+				
+
+ 
+
+
+					googletag.cmd.push(function() {
+						googletag.display('div-gpt-ad-1444084279515-0');
+					});
+				
+
+
+ 
+
+
+					googletag.cmd.push(function() {
+						googletag.display('div-gpt-ad-1457114129660-0');
+					});
+				
+
+
+
+
+
+
+
+
+
+
+
+Guns.com
+
+
+Facebook
+Twitter
+Instagram
+YouTube
+RSS
+
+
+Join Our NewsletterSign up for our newsletter and get the best of Guns.com each week right in your inbox.
+
+
+*
+
+ 
+
+
+
+
+
+
+
+
+
+ if(typeof gf_global == 'undefined') var gf_global = {"gf_currency_config":{"name":"U.S. Dollar","symbol_left":"$","symbol_right":"","symbol_padding":"","thousand_separator":",","decimal_separator":".","decimals":2},"base_url":"http:\/\/www.guns.com\/wp-content\/plugins\/gravityforms","number_formats":[],"spinnerUrl":"http:\/\/www.guns.com\/wp-content\/plugins\/gravityforms\/images\/spinner.gif"};jQuery(document).bind('gform_post_render', function(event, formId, currentPage){if(formId == 3) {if(typeof Placeholders != 'undefined'){
+                        Placeholders.enable();
+                    }} } );jQuery(document).bind('gform_post_conditional_logic', function(event, formId, fields, isInit){} ); jQuery(document).ready(function(){jQuery(document).trigger('gform_post_render', [3, 1]) } );  
+
+
+
+Resources and Links
+Column 1
+
+About us
+Advertise with Us
+Contact us
+Privacy Policy
+
+
+Column 2
+
+Write for us
+Submit a review
+Reference Section
+
+
+Column 3
+
+Reviews
+Gun Bazaar
+
+
+ 
+
+
+
+Copyright © 2018 Guns.com. All rights reserved.
+
+
+
+
+
+
+
+
+
+
+You need the best information. We’ll keep you up to date.
+We’ll send you a weekly update on all the key developments taking place in the firearms industry and anything else pertaining to the 2nd Amendment. We just need your email.
+
+
+Email*
+
+  
+
+
+
+
+
+
+
+
+
+
+This iframe contains the logic required to handle Ajax powered Gravity Forms.
+jQuery(document).ready(function($){gformInitSpinner( 1, 'http://14544-presscdn-0-64.pagely.netdna-cdn.com/wp-content/plugins/gravityforms/images/spinner.gif' );jQuery('#gform_ajax_frame_1').load( function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_1');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_1').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;if(is_form){jQuery('#gform_wrapper_1').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_1').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_1').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */  }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_1').val();gformInitSpinner( 1, 'http://14544-presscdn-0-64.pagely.netdna-cdn.com/wp-content/plugins/gravityforms/images/spinner.gif' );jQuery(document).trigger('gform_page_loaded', [1, current_page]);window['gf_submitting_1'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').html();if(!confirmation_content){confirmation_content = contents;}setTimeout(function(){jQuery('#gform_wrapper_1').replaceWith(confirmation_content);jQuery(document).trigger('gform_confirmation_loaded', [1]);window['gf_submitting_1'] = false;}, 50);}else{jQuery('#gform_1').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger('gform_post_render', [1, current_page]);} );} ); if(typeof gf_global == 'undefined') var gf_global = {"gf_currency_config":{"name":"U.S. Dollar","symbol_left":"$","symbol_right":"","symbol_padding":"","thousand_separator":",","decimal_separator":".","decimals":2},"base_url":"http:\/\/www.guns.com\/wp-content\/plugins\/gravityforms","number_formats":[],"spinnerUrl":"http:\/\/www.guns.com\/wp-content\/plugins\/gravityforms\/images\/spinner.gif"};jQuery(document).bind('gform_post_render', function(event, formId, currentPage){if(formId == 1) {if(typeof Placeholders != 'undefined'){
+                        Placeholders.enable();
+                    }} } );jQuery(document).bind('gform_post_conditional_logic', function(event, formId, fields, isInit){} ); jQuery(document).ready(function(){jQuery(document).trigger('gform_post_render', [1, 1]) } ); 
+Will be used in accordance with our Privacy Policy.
+
+
+
+			X            
+
+
+
+/* <![CDATA[ */
+var countVars = {"disqusShortname":"gunscom"};
+/* ]]> */
+
+
+
+/* <![CDATA[ */
+var embedVars = {"disqusConfig":{"integration":"wordpress 3.0.12"},"disqusIdentifier":"3042700 http:\/\/www.guns.com\/?p=3042700","disqusShortname":"gunscom","disqusTitle":"Chicago\u2019s biggest Chinese firearms advocate (VIDEO)","disqusUrl":"http:\/\/www.guns.com\/2016\/11\/11\/chicagos-biggest-chinese-firearms-advocate-video\/","postId":"3042700"};
+/* ]]> */
+
+
+
+
+
+/* <![CDATA[ */
+var FB_WP=FB_WP||{};FB_WP.queue={_methods:[],flushed:false,add:function(fn){FB_WP.queue.flushed?fn():FB_WP.queue._methods.push(fn)},flush:function(){for(var fn;fn=FB_WP.queue._methods.shift();){fn()}FB_WP.queue.flushed=true}};window.fbAsyncInit=function(){FB.init({"xfbml":true,"appId":"531059170241246"});if(FB_WP && FB_WP.queue && FB_WP.queue.flush){FB_WP.queue.flush()}}
+/* ]]> */
+
+(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id)){return}js=d.createElement(s);js.id=id;js.src="http:\/\/connect.facebook.net\/en_US\/all.js";fjs.parentNode.insertBefore(js,fjs)}(document,"script","facebook-jssdk"));
+
+
+
+/* <![CDATA[ */
+var pum_vars = {"ajaxurl":"http:\/\/www.guns.com\/wp-admin\/admin-ajax.php","restapi":"http:\/\/www.guns.com\/wp-json\/pum\/v1","rest_nonce":null,"default_theme":"3064594","debug_mode":"","disable_open_tracking":""};
+var pum_debug_vars = {"debug_mode_enabled":"Popup Maker Debug Mode Enabled","debug_started_at":"Debug started at:","debug_more_info":"For more information on how to use this information visit http:\/\/docs.wppopupmaker.com\/?utm_medium=js-debug-info&utm_campaign=ContextualHelp&utm_source=browser-console&utm_content=more-info","global_info":"Global Information","localized_vars":"Localized variables","popups_initializing":"Popups Initializing","popups_initialized":"Popups Initialized","single_popup_label":"Popup: #","theme_id":"Theme ID: ","label_method_call":"Method Call:","label_method_args":"Method Arguments:","label_popup_settings":"Settings","label_triggers":"Triggers","label_cookies":"Cookies","label_delay":"Delay:","label_conditions":"Conditions","label_cookie":"Cookie:","label_settings":"Settings:","label_selector":"Selector:","label_mobile_disabled":"Mobile Disabled:","label_tablet_disabled":"Tablet Disabled:","label_display_settings":"Display Settings:","label_close_settings":"Close Settings:","label_event_before_open":"Event: Before Open","label_event_after_open":"Event: After Open","label_event_open_prevented":"Event: Open Prevented","label_event_setup_close":"Event: Setup Close","label_event_close_prevented":"Event: Close Prevented","label_event_before_close":"Event: Before Close","label_event_after_close":"Event: After Close","label_event_before_reposition":"Event: Before Reposition","label_event_after_reposition":"Event: After Reposition","label_event_checking_condition":"Event: Checking Condition","triggers":{"click_open":{"name":"Click Open","modal_title":"Click Trigger Settings","settings_column":"<strong>Extra Selectors<\/strong>: {{data.extra_selectors}}"},"auto_open":{"name":"Auto Open","modal_title":"Auto Open Settings","settings_column":"<strong>Delay<\/strong>: {{data.delay}}"}},"cookies":{"on_popup_open":{"name":"On Popup Open","modal_title":"On Popup Open Settings"},"on_popup_close":{"name":"On Popup Close","modal_title":"On Popup Close Settings"},"manual":{"name":"Manual JavaScript","modal_title":"Click Trigger Settings"}}};
+var ajaxurl = "http:\/\/www.guns.com\/wp-admin\/admin-ajax.php";
+var popmake_default_theme = "3064594";
+/* ]]> */
+
+
+
+
+/* <![CDATA[ */
+var jpfbembed = {"appid":"249643311490","locale":"en_US"};
+/* ]]> */
+
+
+
+
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:4.9',blog:'108531110',post:'3042700',tz:'-6',srv:'www.guns.com'} ]);
+	_stq.push([ 'clickTrackerInit', '108531110', '3042700' ]);
+
+
+
+

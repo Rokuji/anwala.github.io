@@ -1,0 +1,876 @@
+http://www.aljazeera.com/blogs/europe/2016/12/ten-predictions-2017-161221195109292.html
+
+
+
+
+
+Ten predictions for 2017 |  | Al Jazeera
+
+
+
+
+
+
+
+
+
+
+
+
+var _sf_startpt=(new Date()).getTime()
+
+
+
+
+
+
+
+
+
+
+
+
+
+    body {
+        background: #FCFCFC;
+    } 
+	
+    
+
+
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '968100353246427');
+fbq('track', 'PageView');
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Home 
+News 
+
+
+Middle East
+Africa
+Asia
+US & Canada
+Latin America
+Europe
+Asia Pacific
+All
+
+
+
+
+Middle East 
+Documentaries 
+
+
+Featured Documentaries
+Witness
+Al Jazeera World
+101 East
+People & Power
+Fault Lines
+My Tunisia
+Al Jazeera Selects 
+Al Jazeera Correspondent
+REWIND
+All
+
+
+
+
+Shows 
+
+
+Inside Story
+The Stream
+The Listening Post
+Talk to Al Jazeera
+The Big Picture
+Counting the Cost
+UpFront
+earthrise
+Empire
+All
+
+
+
+
+Investigations 
+Opinion 
+In Pictures 
+More 
+
+
+Features
+Investigations
+In Pictures
+Interactive
+Interactive Documentaries
+AJ Shorts
+Podcasts
+Reporter's Notebook
+Human Rights
+Sport
+Science & Technology
+Weather
+
+
+
+
+
+
+
+
+
+
+
+
+NOW PLAYING
+
+
+WATCH
+                
+LISTEN
+                
+
+
+
+
+Live
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Toggle navigation
+
+
+
+Home 
+News 
+Middle East
+Africa
+Asia
+US & Canada
+Latin America
+Europe
+Asia Pacific
+All
+
+
+Middle East 
+Documentaries 
+Featured Documentaries
+Witness
+Al Jazeera World
+101 East
+People & Power
+Fault Lines
+My Tunisia
+Al Jazeera Selects 
+Al Jazeera Correspondent
+REWIND
+All
+
+
+Shows 
+Inside Story
+The Stream
+The Listening Post
+Talk to Al Jazeera
+The Big Picture
+Counting the Cost
+UpFront
+earthrise
+Empire
+All
+
+
+Investigations 
+Opinion 
+In Pictures 
+More 
+Features
+Investigations
+In Pictures
+Interactive
+Interactive Documentaries
+AJ Shorts
+Podcasts
+Reporter's Notebook
+Human Rights
+Sport
+Science & Technology
+Weather
+
+
+Live
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Toggle navigation
+
+
+
+
+
+Home 
+News 
+Middle East
+Africa
+Asia
+US & Canada
+Latin America
+Europe
+Asia Pacific
+All
+
+
+Middle East 
+Documentaries 
+Featured Documentaries
+Witness
+Al Jazeera World
+101 East
+People & Power
+Fault Lines
+My Tunisia
+Al Jazeera Selects 
+Al Jazeera Correspondent
+REWIND
+All
+
+
+Shows 
+Inside Story
+The Stream
+The Listening Post
+Talk to Al Jazeera
+The Big Picture
+Counting the Cost
+UpFront
+earthrise
+Empire
+All
+
+
+Investigations 
+Opinion 
+In Pictures 
+More 
+Features
+Investigations
+In Pictures
+Interactive
+Interactive Documentaries
+AJ Shorts
+Podcasts
+Reporter's Notebook
+Human Rights
+Sport
+Science & Technology
+Weather
+
+
+
+
+
+
+
+
+
+NOW PLAYING
+
+
+WATCH
+            
+LISTEN
+            
+
+
+
+
+Live
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reporter's Notebook
+/
+Africa
+
+
+
+Ten predictions for 2017
+After a tumultuous 2016, here are 10 predictions for what the next 12 months hold for the world.
+
+
+by Barnaby Phillips21 Dec 2016 21:03 GMT
+
+
+
+
+
+
+
+When it comes to Trump there is a long list of unknowns to be made clear in 2017 [Shannon Stapleton/Reuters]
+Well, that didn't go too well, did it? A year ago, I published my 2016 predictions, and with the wonderful benefit of hindsight, the results make for embarrassing reading.
+I told readers of this blog that the British would reject Brexit, that Donald Trump would not even win the Republican nomination let alone the presidency, and that in fact it would be Hillary Clinton who would win the US election. Oh yes, and that a ceasefire would take hold in western Syria.
+You can see the full list of my predictions here. So what does this go to show? Well, that predictions are a mug's game, first and foremost. And to offer specific forecasts in a complex world comprising infinite moving parts is the height of folly.
+ READ MORE: Ten predictions for 2016 
+Secondly, and you'll have read this elsewhere many times by now, that electorates in the West are in a volatile and unpredictable mood, and that many of the assumptions that have underpinned international relations over the past 70 years may now be out of date.
+Thirdly, that you may have better things to do with your time than read my next batch of predictions, below, for 2017.
+But in the full knowledge that I'm heading for another fall, and resisting cruel calls from colleagues that I should now retire, I ask you to bear with me a little longer. The real purpose of this blog is to draw your attention to just some of the stories, issues and regions that are likely to dominate the news in the next 12 months. On that, I hope can offer some insight, even though you clearly need to take with a huge dose of salt any actual outcome that I'm foolish enough to suggest.
+And, finally, the usual caveat ... none of the predictions below necessarily reflect my preferred personal outcomes. I'm only trying to make sense of a distinctly unpredictable world.
+1) After Brexit and Trump in 2016, the French election is the next big one for all those fearing, or hoping, for another populist blow to an embattled western elite. If Marine Le Pen wins, the EU will face an existential threat, Russia will celebrate, and it's anyone's guess how Donald Trump will react. But I expect Francois Fillon to sneak home in the second round. (And, yes, I know, that was probably a kiss of death).
+
+
+
+
+
+
+
+
+Francois Fillon, member of Les Republicains political party and 2017 presidential candidate of the French centre-right [Christian Hartmann/Reuters]
+
+
+
+
+
+2) The German election is the other crucial European one in 2017. Of course, it can't be seen in isolation. If, by the time Germans go to the polls, probably in September, Marine Le Pen is sitting pretty in the Elysee Palace (and, for that matter, Geert Wilders is the Dutch prime minister), the pressure on Angela Merkel will be all the greater. And if we needed another reminder of the grim and unpredictable times we live in, I'm writing this blog shortly after the news broke of an attack on a Christmas market in Berlin. Nonetheless, all of that (and Russian dirty tricks?) notwithstanding, the smart money must still be on Angela Merkel and her CDU prevailing. Germany, yes Germany, is now the standard-bearer, of the battered remnants of the post-1945 world order.
+3) Brexit, Brexit, Brexit ... will continue to consume Britain, and sap the concentration and strength of its government and civil service. I don't think Theresa May will call a general election in 2017 (she doesn't have to hold one until 2020, but an early poll is tempting for her because it would almost certainly strengthen the position of the governing Conservatives in parliament). I do think that she'll trigger Article 50 in the coming months, although we'll soon find out if her preferred timetable is likely to be delayed by a ruling from Britain's Supreme Court. Whatever happens, the Brexit story will drag on way beyond the next year, and into the future. At some point in the coming year the British prime minister is going to have to stop playing her cards so close to her chest, and tell the British people who will be the winners and losers of Brexit. And what about the opposition? Jeremy Corbyn will survive at least another year as leader of Labour, even though his own MPs will grow ever more pessimistic about their party's prospects of ever returning to power.
+Donald Trump
+4) And then, of course, there's Donald Trump. What did I say about predictions being for mugs? When it comes to the president-elect there's a long list of unknowns. America's allies abroad hope that much of his campaign rhetoric was just that, rhetoric, but that may be wishful thinking. Here are just some of the most important questions: Will President Trump really pull the United States out of the Iran nuclear deal? And from the Paris Climate Change Agreement? Will he build a wall along the Mexican border and demand the Mexicans pay for it? Will tensions with China escalate over trade and Taiwan, and will there be a rapprochement with Vladimir Putin? Will the US embassy in Israel move to Jerusalem? Will he take drastic steps to limit Muslim immigration, disband Obamacare and pursue legal action against Hillary Clinton? I'm not even going to try to answer these questions. But the very fact they have to be asked suggests what extraordinary changes we're in for. Perhaps a safer prediction is that American society, and particularly its larger cities, could be in for its most turbulent years since the upheavals of the late 1960s.5) Outsiders will continue to wonder whether Africa is rising, has risen and is falling again, or never actually rose. Africans, thoroughly weary of this tired and superficial debate, will point out yet again that their continent, comprising more than 50 countries, is far too diverse and complex to be possibly heading in one direction at once. Most will, understandably, be worrying about events in their own countries and immediate regions rather more than their continent's destiny. As 2016 ended, Africa's largest and smallest countries, the Congo and Gambia, were in crises as autocratic presidents refused to hand over power. I believe that President Yahya Jammeh of Gambia will have to stand down in the face of regional and domestic pressure, perhaps in return for immunity from prosecution.
+6) Also in Africa, watch out for important elections in Kenya. And in Nigeria, I think Boko Haram will diminish but not disappear as a military and "terror" threat, even as President Buhari will continue to struggle with the economy and corruption. A gradual rise in global oil prices, on the back of the OPEC agreement, may give him some breathing space. 
+
+
+
+
+
+
+
+
+The fight against Boko Haram continues [Afolabi Sotunde/Reuters]
+
+
+
+
+
+7) In my 2016 predictions, I said that Cyprus might provide a glimmer of hope, as Greek and Turkish leaders on the island try to end a division that dates back to 1974. In the event, things moved rather slowly over the past 12 months, but with further talks scheduled for Geneva in January 2017, I'm going to stick with this as one to watch for a good news breakthrough. Can this beautiful Mediterranean island overcome decades of enmity and suspicion?
+8) I'm no tech expert, but if 2016 is anything to go by, expect governments across the world to spend more on, and worry more about, cyber security. Meanwhile, global media power will continue to drain away from traditional broadcasters and news providers towards Amazon, Google, Facebook and other online giants. These companies, in turn, will come under greater political pressure, at least in the West, to control the flow of "fake" news and misinformation. A rather obvious prediction is that print sales of newspapers will continue to fall in Europe and America, and we can expect more prestigious publications to go the way of the UK's Independent newspaper, and become digital only. Although, paradoxically, book sales and publishing will continue to thrive, as they did in 2016.
+9) On a similar theme, how long before Amazon or Facebook acquire the rights to the English Premiership? It won't happen in the next 12 months, but it's not impossible in the near future.
+10) And on that note, this is where I traditionally tip my football team, Arsenal, for glory. To little avail. So, in a cunningly disguised blessing, I hereby predict that Arsenal will finish a disappointing and thoroughly predictable fourth. Oh, and Bayern Munich will knock them out of the Champions League, like they always do.
+
+
+            SOURCE: Al Jazeera News
+
+
+
+ABOUT THE AUTHOR
+
+
+Barnaby PhillipsEurope Correspondent
+
+
+
+
+
+
+
+Europe
+Africa
+Middle East
+US & Canada
+Science & Technology
+
+
+
+
+
+{
+    "@context": "http://schema.org",
+        "@type": "BlogPosting",
+    
+        "mainEntityOfPage": "http://www.aljazeera.com/blogs/europe/2016/12/ten-predictions-2017-161221195109292.html",
+        "headline": "Ten predictions for 2017",
+    "datePublished": "21 Dec 2016 19:56 GMT",
+    "dateModified": "21 Dec 2016 21:03 GMT",
+    "description": "After a tumultuous 2016, here are 10 predictions for what the next 12 months hold for the world.",
+    "author": {
+    "@type": "Person",
+    "name": "Barnaby Phillips"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Al Jazeera",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "http://www.aljazeera.com/mritems/assets/images/AJLOGOGOOGLE.png",
+        "width": 250,
+        "height": 40
+      }
+    }, 
+    "image": {
+        "@type": "ImageObject",
+        "url": "http://www.aljazeera.com/mritems/imagecache/mbdxxlarge/mritems/Images/2016/12/12/7e9a3367e74643f2bc687d7633216a61_18.jpg",
+            "height": 450,
+            "width": 800
+    }
+}
+
+
+
+          Have your say.Give us feedback.
+
+
+Sign up for our weekly newsletter
+ Sign up for our newsletter to receive a weekly email of our best content
+
+
+        SIGN UP
+        
+
+
+
+ 
+
+
+
+
+
+
+TRENDING
+
+
+Canada deports North Korean asylum seekers
+
+
+
+12 ISIL widows sentenced to death, life by Iraqi court
+
+
+
+Iran denies 'hegemon' plans, denounces Saudi and Israel
+
+
+
+Iran plane crash kills all 66 people on board
+
+
+
+
+
+
+
+
+
+
+
+
+
+YOU MIGHT ALSO LIKE
+
+
+
+
+
+
+
+Revival: The Muslim Response to the Crusades
+This part of 'The Crusades: An Arab Perspective' explores the birth of the Muslim revival in the face of the Crusades.14 Dec 2016 12:09 GMT
+
+
+
+
+
+
+
+
+
+
+Is Mexico the most dangerous country on earth?
+Or does it just suffer from the misfortune of being a neighbour of the US?04 Feb 2018 17:01 GMT
+
+
+
+
+
+
+
+
+
+
+Africa is not poor, we are stealing its wealth
+It's time to change the way we talk and think about Africa. 24 May 2017 13:02 GMT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+News
+
+Programmes
+
+Opinion
+
+About
+
+Investigations
+
+Contact Us
+
+Video
+
+
+
+Facebook
+
+Twitter
+
+Google+
+
+RSS
+
+Podcast
+
+YouTube
+
+SnapChat
+
+
+
+
+
+
+
+
+
+
+
+
+						About
+
+
+About Us
+
+Press Office
+
+Awards
+
+Code of Ethics
+
+Terms and Conditions
+
+Community Guidelines
+
+Work for us
+
+HR Quality
+
+
+
+
+						Connect
+
+
+Contact Us
+
+Apps
+
+Social
+
+Channel Finder
+
+TV Schedule
+
+Podcasts
+
+Newsletter
+
+
+
+
+						Our Channels
+
+
+Al Jazeera Arabic
+
+Al Jazeera English
+
+Al Jazeera Mubasher
+
+Al Jazeera Documentary
+
+Al Jazeera Balkans
+
+AJ+
+
+
+
+
+						Our Network
+
+
+Jetty
+
+Al Jazeera Centre for Studies
+
+Al Jazeera Media Institute
+
+Al Jazeera Centre for Public Liberties & Human Rights
+
+Al Jazeera Forum
+
+Al Jazeera Film Festival
+
+Al Jazeera Learning
+
+Al Jazeera Hotel Partners
+
+
+
+
+
+					© 2018 Al Jazeera Media Network
+
+
+
+
+
+	 
+
+
+
+
+
+
+
+
+googletag.cmd.push(function() { 
+googletag.display('div-gpt-ad-1430377943388-3'); 
+});
+
+
+
+
+
+	
+googletag.cmd.push(function() { 
+googletag.display('div-gpt-ad-1430377943388-1'); 
+});
+
+
+Advertisement
+
+
+
+	
+googletag.cmd.push(function() { 
+googletag.display('div-gpt-ad-1430377943388-0'); 
+});
+
+
+Advertisement
+
+
+
+	
+googletag.cmd.push(function () {
+    googletag.display('div-gpt-ad-1430377943388-2');
+});  
+
+
+Advertisement
+
+
+
+
+
+    try {
+        $('.article-adv-right-sideBar').hcSticky({
+            stickTo: '.sideAdv-wrapper',
+            offResolutions: -800,
+            top: 75
+        });
+
+        $('.article-sidebar-trendings').hcSticky({
+            stickTo: '.article-sidebar-trending-wrapper',
+            offResolutions: -800,
+            top: 75
+        });
+    } catch (e) {}
+$('.article-vid-content').click(function() {
+            showVideo(); 
+        });
+    
+
+ if (/Android|webOS|iPhone|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
+var bodyptags = $('.article-p-wrapper > p');
+
+if (bodyptags.length > 2){
+
+$("<div id='bodyads'> ").insertAfter(bodyptags[3]);
+
+}else{
+
+$(" ").insertAfter(bodyptags[0]); 
+
+}
+}  
+
+
+	try {
+
+	  var TopRightDiv = document.getElementById("rightsideadstop");
+	  if (TopRightDiv != null){
+	    TopRightDiv.innerHTML = document.getElementById("rightsideadshidden").innerHTML;
+	    document.getElementById("rightsideadshidden").innerHTML = "";
+	  } 
+
+	  var BottomDiv = document.getElementById("bottomadsempty");
+	  BottomDiv.innerHTML = document.getElementById("bottomadshidden").innerHTML;
+	  document.getElementById("bottomadshidden").innerHTML = "";
+
+      if (/Android|webOS|iPhone|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
+         var BodyAds = document.getElementById("bodyads");
+	  if (BodyAds != null){ 
+	    BodyAds.innerHTML = document.getElementById("bodyadshidden").innerHTML;
+	    document.getElementById("bodyadshidden").innerHTML = "";
+	  }
+	} 
+ 
+	}
+	catch(err) {
+
+	
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

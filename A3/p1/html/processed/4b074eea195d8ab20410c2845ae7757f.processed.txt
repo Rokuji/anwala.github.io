@@ -1,0 +1,1678 @@
+https://www.gofundme.com/9s8zh6xfj8z
+
+
+
+
+
+Fundraiser for Brandon Bennett by Sallie Carson Parham : The Bennett's - IVF Journey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    GFM_DOMAIN = "gofundme.com";
+    FACEBOOK_APP_ID = "407682420960";
+    GOOGLE_CLIENT_ID = "915486944487-ivo3ng6it92lj44ka8ca7nro7o5kk3om.apps.googleusercontent.com";
+    FACEBOOK_PAGE_ID = "1134437769956220"
+
+
+
+    window.jQuery || document.write('<script src="//funds.' + GFM_DOMAIN + '/node_modules/jquery/dist/jquery.min.js">\x3C/script>')
+
+
+
+
+    var GFM = GFM || {};
+    GFM.components = GFM.components || {};
+    GFM.components.visitorCookieStrings = {
+        privacyLine: 'By continuing to use the website, you will be agreeing to our <a href="//www.gofundme.com/privacy#cookies">Use of Cookies.',
+        responsivePrivacyLine: 'By continuing to use the website, you agree to our Use of Cookies' + '.'
+    };
+
+
+
+
+try {
+
+    try {
+        mixpanel.default.identify($.cookie('gdid'));
+        mixpanel.impression.identify($.cookie('gdid'));
+    } catch(e) {
+    }
+
+var allowDebug = false;
+GFM.analytics.data.clickstream=false;GFM.analytics.setData("u", "");
+GFM.analytics.setData("p", "");
+GFM.analytics.setData("fud", "d7977dbd06c64e959d043168034e9cad");
+GFM.analytics.setData("flw", {"DONATION":"d_ab_c1h"});
+GFM.analytics.setData("a", "15610d925d9f4ebcaa6082a7ddc72bcd");
+GFM.analytics.setData("pcd", "");
+GFM.analytics.setData("vri", "7590d78ca87043368ce861454a793f58");
+GFM.analytics.setData("lang", "");
+GFM.analytics.setData('fn', 'The Bennett\'s - IVF Journey');
+GFM.analytics.setData('fu', '9s8zh6xfj8z');
+GFM.analytics.setData('fi', '5461227');
+GFM.analytics.setData('fc', 'US');
+GFM.analytics.setData('orc', {"cp_fb":{"captured_at":"2018-02-18T22:42:46.75305","rcid":"r01-151899376671-62c703a2d08e40e5","sender_type":"visitor","fund_id":5461227,"share_location":"campaign_landing_page","status":"intent","channel":"facebook","subchannel":"wall_post"}});
+GFM.analytics.setData('vi', 'pg_donate_index');
+GFM.analytics.setData('ra', $.now());
+GFM.analytics.setData("gfm", {"os":"Other","browser":"PythonRequests2","platform":"desktop","country":"US","lat":36.888801574707,"long":-76.305702209473});
+
+package = GFM.analytics.getPackage();
+mixpanel.default.register(package);
+mixpanel.impression.register(package);
+
+    GFM.analytics.track_event('mp_page_view', package, false);
+
+} catch(e) {
+    if (window.console) {
+        window.console.log("Broken load: " + e);
+    }
+} // begun immediately after <script>
+
+
+
+
+
+
+
+
+window.dataLayer = window.dataLayer || [ ];
+try {
+    dataLayer.push(GFM.analytics.getGaDataLayer());
+} catch(e) {}
+
+
+
+
+(function(p,a,l,i,n,d,r,o,m,e){r={id:'GTM-KJFLHK',l:'dataLayer',m:'sync'};
+if(!r.gac){o=/;((__utma=)|([^;=]+=GAX?\d+\.))[^;]*/g;m=l.cookie.replace(
+/^|(; +)/g,';').match(o);if(m)r.gac=m.sort().join('').substring(1)};e=
+'https://www.google-analytics.com/gtm/js?';r.m=='sync'||(p['event']='gtm.js');
+for(d in r)if(r.hasOwnProperty(d))e+=n(d)+'='+n(r[d])+'&';a[r.l]=a[r.l]||[];
+a[r.l].push(p);if(r.m=='sync'){l.write('<'+i+' src="'+e+'"><\/'+i+'>');}else{
+j=l.createElement(i);j.async=!0;j.src=e;f=l.getElementsByTagName(i)[0];
+f.parentNode.insertBefore(j,f);}})({'gtm.start':1*new Date()},window,document,
+'script',encodeURIComponent);
+
+
+
+try{(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TDTFTZ');} catch (ignore) {}
+
+
+
+
+
+
+
+
+GoFundMe
+
+
+
+
+
+
+
+Raise money for any cause
+Start a GoFundMe
+
+
+
+
+Home
+
+
+Sign up
+
+
+How it works
+
+
+Help
+
+
+Sign in
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Start a GoFundMe
+
+
+
+
+
+
+
+  Share
+    
+
+  Tweet                            
+
+  Donate                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Try searching for locations, campaign titles and names                        
+
+
+
+
+
+
+
+
+
+Donate
+
+
+
+ Share
+    
+
+
+
+
+
+
+
+
+
+
+
+
+ 3636
+
+The Bennett's - IVF Journey
+
+
+
+
+$5,565
+ of $35,000 goal
+
+
+
+
+
+
+    Raised by 42 people in 31 months
+
+
+
+Donate Now
+
+ Share on Facebook
+    
+
+
+
+
+
+
+
+
+
+
+
+ Share
+
+
+
+
+  Tweet
+
+
+
+
+
+
+                     438                
+
+                shares
+            
+
+
+
+
+
+
+
+
+
+
+
+                                            Sallie Carson Parham                                        
+
+on behalf of Brandon Bennett
+
+ CARROLLTON, GA                                        
+
+
+
+
+
+                        If you know Brandon & Katie Bennett, then you know what amazing parents they would be. This sweet couple is hoping to begin the journey of parenthood through IVF and needs our support. As most people know, IVF is incredibly expensive and not currently covered by insurance.Please help us make this possible for The Bennett's! Thank you!
+                    
++ Read More
+
+
+Help spread the word!
+
+
+
+
+ Share
+
+
+
+
+
+  Tweet
+
+
+
+
+
+
+
+
+
+
+
+                                         438                                    
+
+                                    total shares                                
+
+
+
+
+
+                    Subscribe to Updates                
+
+
+
+
+
+
+            Comments
+        
+
+
+
+
+
+
+There was an error with your comment. Please try again.
+
+×
+
+
+
+
+
+
+Log out
+
+
+
+
+
+
+
+
+
+              Leave a Comment        
+
+
+              Post Comment
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Katie Holmes Bennett
+                
+
+
+                    31 months ago
+                
+
+
+  
+
+
+
+
+We're so overwhelmed by the love and support of everyone that's given. Thank you so much for carrying us through this journey! We are forever indebted.
+
++ Read More
+
+
+
+
+
+
+                Viewing 1 of 1 Comment            
+
+ 
+
+
+
+            Ask GoFundMe a Question        
+
+
+
+            Report Campaign        
+
+
+
+
+
+
+
+
+
+
+$5,565
+ of $35,000 goal
+
+
+
+
+
+
+    Raised by 42 people in 31 months
+
+
+
+
+
+Donate Now
+
+ Share on Facebook
+    
+
+
+
+Created July 28, 2015
+
+
+
+
+
+
+
+                Sallie Carson Parham            
+
+on behalf of Brandon Bennett
+
+
+  Family
+
+
+  CARROLLTON, GA        
+
+
+
+
+
+
+
+
+
+
+
+
+            Recent Donations  
+            
+
+
+
+Recent
+
+
+Most Liked
+
+
+Highest
+
+
+
+
+
+
+
+
+
+
+
+                Your share could be bringing in donations. Sign in to track your impact.            
+
+
+   Connect                
+
+                    We will never post without your permission.                
+
+
+
+
+
+
+
+                In the future, we'll let you know if your sharing brings in any donations.            
+
+
+
+
+
+
+                We weren't able to connect your Facebook account. Please try again later.            
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+$30
+Anonymous
+22 months ago (Monthly Donation) 
+
+  
+
+
+
+
+
+
+
+
+More
+                
+
+ Share
+    
+
+
+
+
+
+
+
+
+
+
+
+
+$30
+Anonymous
+23 months ago (Monthly Donation) 
+
+  
+
+
+
+
+
+
+
+
+More
+                
+
+ Share
+    
+
+
+
+
+
+
+
+
+
+
+
+
+$30
+Anonymous
+24 months ago (Monthly Donation) 
+
+  
+
+
+
+
+
+
+
+
+More
+                
+
+ Share
+    
+
+
+
+
+
+
+
+
+
+
+
+
+$30
+Anonymous
+25 months ago (Monthly Donation) 
+
+  
+
+
+
+
+
+
+
+
+More
+                
+
+ Share
+    
+
+
+
+
+
+
+
+
+
+
+
+
+$30
+Anonymous
+26 months ago (Monthly Donation) 
+
+  
+
+
+
+
+
+
+
+
+More
+                
+
+ Share
+    
+
+
+
+
+
+
+            KP        
+
+
+
+
+$30
+Karen Prewit
+27 months ago 
+
+11
+
+
+
+
+Best wishes!  ♥
+
+
+
+
+More
+                
+
+ Share
+    
+
+
+
+
+
+
+
+
+
+
+
+
+$500
+Anonymous
+27 months ago 
+
+  
+
+
+
+
+
+
+
+
+More
+                
+
+ Share
+    
+
+
+
+
+
+
+
+
+
+
+
+
+$30
+Anonymous
+27 months ago (Monthly Donation) 
+
+  
+
+
+
+
+
+
+
+
+More
+                
+
+ Share
+    
+
+
+
+
+
+
+
+
+
+
+
+
+$30
+Anonymous
+28 months ago (Monthly Donation) 
+
+  
+
+
+
+
+
+
+
+
+More
+                
+
+ Share
+    
+
+
+
+
+
+
+
+
+
+
+
+
+$30
+Anonymous
+29 months ago (Monthly Donation) 
+
+  
+
+
+
+
+
+
+
+
+More
+                
+
+ Share
+    
+
+
+
+
+
+
+
+                      See More                
+
+
+
+
+
+                Viewing 10 of 42 Donations
+            
+
+
+
+
+
+
+
+
+
+            Comments
+        
+
+
+
+
+
+
+There was an error with your comment. Please try again.
+
+×
+
+
+
+
+
+
+Log out
+
+
+
+
+
+
+
+
+
+              Leave a Comment        
+
+
+              Post Comment
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Katie Holmes Bennett
+                
+
+
+                    31 months ago
+                
+
+
+  
+
+
+
+
+We're so overwhelmed by the love and support of everyone that's given. Thank you so much for carrying us through this journey! We are forever indebted.
+
++ Read More
+
+
+
+
+
+
+                Viewing 1 of 1 Comment            
+
+ 
+
+
+
+            Ask GoFundMe a Question        
+
+
+
+            Report Campaign        
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+#1 Fundraising platform
+
+            People have raised more money on GoFundMe than anywhere else.        
+
+How it works
+
+
+
+
+
+
+GoFundMe Guarantee
+
+            Your donation is protected. If anything is not right, we’ll give you a full refund.        
+
+Learn more
+
+
+
+
+
+
+Expert advice, 24/7
+
+            Contact us with your questions and we'll answer, day or night.        
+
+Get help
+
+
+
+
+
+
+
+
+
+Get Started
+
+How It Works
+Why GoFundMe
+Common Questions
+Success Stories
+Sign Up Now
+
+
+
+Top Categories
+
+Medical Fundraising
+Memorial Fundraising
+Charity Fundraising
+
+
+
+Learn More
+
+About Us
+Blog
+Press
+Campaign Tips
+We're Hiring!
+
+
+
+Get Support
+
+Help Center
+Supported Countries & Currencies
+
+
+
+
+
+
+
+
+
+English (US)
+English (UK)
+Español
+Deutsch
+Français
+Italiano
+Nederlands
+
+
+
+
+
+Get Started
+
+How It Works
+Why GoFundMe
+Common Questions
+Success Stories
+Sign Up Now
+
+
+
+Top Categories
+
+Medical Fundraising
+Memorial Fundraising
+Charity Fundraising
+
+
+
+Learn More
+
+About Us
+Blog
+Press
+Campaign Tips
+We're Hiring!
+
+
+
+Get Support
+
+Help Center
+Supported Countries & Currencies
+
+
+
+
+
+
+
+
+
+
+
+
+
+Terms
+Privacy
+Legal
+
+© 2010-2018 GoFundMe
+
+
+
+
+
+
+
+
+
+
+
+© 2010-2018 GoFundMe
+Terms
+Privacy
+Legal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    // first visit to a donation page. Being recorded in the signuplb stats event as of March 2016
+    (function() {
+        try {
+            if (!Date.now) Date.now = function() {return (new Date()).getTime();}
+            var v = '{"t":'+Math.floor(Date.now()/1000)+',"fid":5461227}';
+            if (!document.cookie || document.cookie.indexOf('fv=')<0) {
+                var cs = "fv="+v+"; expires=Wed, 01-Jan-2025 00:00:00 GMT; domain=.gofundme.com; path=/";
+                document.cookie = cs;
+            }
+        } catch (ignore) {}
+    })();
+
+
+
+
+            if(typeof fbq === 'undefined') {
+                !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+                n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+                n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+                t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+                document,'script','https://connect.facebook.net/en_US/fbevents.js');
+                fbq('init', '819737484732040', {});
+                fbq('track', 'PageView');
+            }
+            fbq('track', 'ViewContent', {"fund_id":"5461227","content_ids":["5461227"],"content_type":"product"});
+            
+
+
+
+
+    GFM = GFM || {};
+
+    
+    GFM.donateVariables = {"flow":"d_ab_c1h","fundId":"5461227","fundUrl":"9s8zh6xfj8z","fundDonationsDisabled":false,"shareUrl":"https:\/\/www.gofundme.com\/9s8zh6xfj8z","limitUpdateDisplayed":0,"countUpdates":0,"fetchSocialCounts":1,"campaignShares":438,"showShareUpsellModal":true,"showSharesInFeed":false,"fundOwnerUserId":"4781643","currentLoginUserId":"","referringTeamMemberId":0,"teamInvitationHash":null,"addBirthdayPermission":null,"selectedUpdateId":null,"lastShareRcid":"","fbAuthed":false,"selectedDonation":null,"exptG536ImpactEmailEnabled":null,"wasAskedForPostShareConnect":false,"shouldShowClaimYourShare":false,"recurringId":null};
+
+    GFM.isMobile = false;
+
+
+ 
+
+
+
+
+
+
+        Like This Campaign?
+        
+
+
+            Please use your Facebook account or email address
+        
+
+
+
+        Your email didn't look right. Please try again.
+    
+
+
+
+            Please use your Facebookaccount or email address  
+
+
+
+
+or
+
+
+Or, use your email…
+
+Use My Email Address
+
+
+
+
+
+            By continuing, you agree with the GoFundMe            terms
+            and privacy policy
+
+
+
+
+
+
+
+
+
+
+
+        Sharing increases donations.
+        
+
+
+            Share your unique link to see how much your shares help.
+        
+
+
+
+
+Campaign Link
+
+
+
+
+
+
+                    Add an embeddable widget                
+
+
+
+                    Print a campaign sign                
+
+
+
+
+Embed
+
+
+
+
+
+
+ Campaign Image
+
+
+Show Campaign Image
+
+
+
+
+
+Show Organizer Info
+
+
+Show Organizer Info
+
+
+
+
+
+
+
+
+or
+
+
+
+
+             Send a Text Message
+        
+
+
+
+
+
+
+
+
+        Subscribe to Updates        
+
+Connect to Facebook to follow this campaign
+We will notify you of campaign updates
+
+
+
+
+
+Connect to Facebook tofollow this campaign
+
+
+                      Follow Campaign
+                
+
+
+We will never post without your permission
+
+
+We will notify you ofcampaign updates
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Contact the Organizer        
+            Your message has been sent!        
+
+
+
+
+        Your email didn't look right. Please try again.
+    
+
+
+
+
+
+
+
+
+
+Sallie Carson Parham
+Campaign Organizer
+1593 Facebook Friends
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Send Message
+                
+
+
+
+Your message has been sent!
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Team Members        
+
+
+
+
+
+
+
+
+
+
+
+
+        Campaign Not Ready
+        
+
+
+
+        There's an issue with this Campaign Organizer's account. Our team has contacted them with the solution! Please ask them to sign in to GoFundMe and check their account. Return to Campaign
+
+
+
+
+
+
+
+
+
+        Manage your Donation
+        
+
+    Your donation is currently public
+
+    Your donation is currently public
+
+
+
+
+
+        We could not change how your donation is displayed. Please try again.
+    
+
+
+
+Manage your Donation
+
+
+                    Your donation is currently public
+
+
+
+                    Make Anonymous
+                
+Cancel
+
+
+Your donation is now anonymous
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cancel Monthly Donation
+Edit Monthly Donation
+
+
+
+                Your monthly donation of $0.00 is active.
+            
+
+
+                Your monthly donationof $0.00 is now canceled.  
+
+
+
+
+
+        We could not cancel your recurring donation. Please try again.
+    
+
+
+
+Edit monthly donation
+
+
+
+                    Your monthly donation of $0.00 is active.
+                
+
+
+                    Cancel Monthly Donations
+                
+
+
+                    Continue Monthly Donations
+                
+
+
+Your monthly donationof $0.00 is now canceled.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Edit Comment
+        
+
+Your comment has been edited.
+
+
+
+
+
+
+        We could not edit your comment. Please try again.
+    
+
+
+
+
+Edit Comment
+
+
+Your comment has been edited.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        What does verified mean? GoFundMe has verified that the funds raised will go directly to the intended recipient.
+
+
+
+GoFundMe has verified that the funds raised will go directly to the intended recipient.
+
+
+
+Close
+
+
+
+
+
+
+
+
+
+            Thank you for sharing.
+            
+
+
+                Are you ready for the next step?                
+                Even a $5 donation can help!
+            
+
+
+
+            Donate Now?
+            
+
+
+                Give today to help this campaign reach this goal.
+            
+
+
+
+
+                Thank you for sharing.
+            
+
+
+                Are you ready for the next step?                
+                Even a $5 donation can help!
+            
+
+
+
+
+
+                Donate Now
+            
+
+
+                Not now
+            
+
+
+
+
+
+
+
+
+
+            Want to track your impact?
+            
+
+
+                Connect on Facebook to keep track of how many donations your share brings.
+            
+
+
+            Connect on Facebook to keep track of how many donations your share brings.        
+
+
+
+
+
+
+
+
+
+                We will never post on Facebook without your permission.                
+
+
+
+
+
+
+
+
+
+
+
+        Want to track your impact?
+        
+
+
+            Connect on Facebook to keep track of how many donations your share brings.
+        
+
+
+        Connect on Facebook to keep track of how many donations your share brings.    
+
+
+
+
+
+
+
+
+
+            We will never post on Facebook without your permission.
+
+            
+
+
+
+
+
+
+    if (typeof(_gat) == 'object')
+    {
+        var pageTracker = _gat._getTracker("");
+
+                    pageTracker._trackPageview();
+        
+    }
+
+
+
+    
+
+
+    var _sf_async_config={uid:10613,domain:"gofundme.com",useCanonical:true
+        ,sections:"Campaign,Family"        ,title:"The Bennett&#039;s - IVF Journey by Sallie Carson Parham  | 5565 / 35000 | CARROLLTON, GA"
+    };
+    (function(){
+        function loadChartbeat() {
+            window._sf_endpt=(new Date()).getTime();
+            var e = document.createElement('script');
+            e.setAttribute('language', 'javascript');
+            e.setAttribute('type', 'text/javascript');
+            e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+            document.body.appendChild(e);
+        }
+        var oldonload = window.onload;
+        window.onload = (typeof window.onload != 'function') ?
+            loadChartbeat : function() { oldonload(); loadChartbeat(); };
+    })();
+
+
+
+
+
