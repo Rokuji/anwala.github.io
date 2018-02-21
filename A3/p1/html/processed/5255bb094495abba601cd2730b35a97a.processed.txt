@@ -1,0 +1,1284 @@
+https://www.fisherwallace.com/?gclid=CNr-xNqt38UCFUU8gQodQHIAsQ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		Fisher Wallace
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.additional-checkout-button{border:0 !important;border-radius:5px !important;display:inline-block;margin:0 0 10px;padding:0 24px !important;max-width:100%;min-width:150px !important;line-height:44px !important;text-align:center !important}.additional-checkout-button+.additional-checkout-button{margin-left:10px}.additional-checkout-button:last-child{margin-bottom:0}.additional-checkout-button span{font-size:14px !important}.additional-checkout-button img{display:inline-block !important;height:1.3em !important;margin:0 !important;vertical-align:middle !important;width:auto !important}@media (max-width: 500px){.additional-checkout-button{display:block;margin-left:0 !important;padding:0 10px !important;width:100%}}.additional-checkout-button--apple-pay{background-color:#000 !important;color:#fff !important;display:none;font-family:-apple-system, &#39;Helvetica Neue&#39;, sans-serif !important;min-width:150px !important;white-space:nowrap !important}.additional-checkout-button--apple-pay:hover,.additional-checkout-button--apple-pay:active,.additional-checkout-button--apple-pay:visited{color:#fff !important;text-decoration:none !important}.additional-checkout-button--apple-pay .additional-checkout-button__logo{background:-webkit-named-image(apple-pay-logo-white) center center no-repeat !important;background-size:auto 100% !important;display:inline-block !important;vertical-align:middle !important;width:3em !important;height:1.3em !important}@media (max-width: 500px){.additional-checkout-button--apple-pay{display:none}}.additional-checkout-button--google-pay{background-color:#fff;background-origin:content-box;background-position:center;background-repeat:no-repeat;background-size:contain;border:0;border-radius:4px;-webkit-box-shadow:0 1px 3px 0 #6d6d6d;box-shadow:0 1px 3px 0 #6d6d6d;outline:0;padding:10px 8px;width:240px;height:40px;min-height:40px}.additional-checkout-button--google-pay .short{width:160px}.additional-checkout-button--google-pay:focus{-webkit-box-shadow:0 1px 3px 0 #6d6d6d, inset 0 0 0 1px #a8abb3;box-shadow:0 1px 3px 0 #6d6d6d, inset 0 0 0 1px #a8abb3}.additional-checkout-button--google-pay:hover:enabled{background-color:#f7f7f7}.additional-checkout-button--google-pay:active:enabled{background-color:#e7e8e8}.additional-checkout-button--google-pay .no-shadow{-webkit-box-shadow:inset 0 0 0 1px #dadce0;box-shadow:inset 0 0 0 1px #dadce0}.additional-checkout-button--google-pay .no-shadow:focus{-webkit-box-shadow:inset 0 0 0 1px #a8abb3;box-shadow:inset 0 0 0 1px #a8abb3}.additional-checkout-button--google-pay:disabled::before{content:&#39;&#39;;width:100%;height:100%;display:block;background-color:rgba(255,255,255,0.5)}.additional-checkout-button--paypal-express{background-color:#ffc439 !important}.additional-checkout-button--paypal{vertical-align:top;line-height:0 !important;padding:0 !important}.additional-checkout-button--amazon{background-color:#fad676 !important;position:relative !important}.additional-checkout-button--amazon .additional-checkout-button__logo{-webkit-transform:translateY(4px) !important;transform:translateY(4px) !important}.additional-checkout-button--amazon .alt-payment-list-amazon-button-image{max-height:none !important;opacity:0 !important;position:absolute !important;top:0 !important;left:0 !important;width:100% !important;height:100% !important}.additional-checkout-button-visually-hidden{border:0 !important;clip:rect(0, 0, 0, 0) !important;clip:rect(0 0 0 0) !important;width:1px !important;height:1px !important;margin:-2px !important;overflow:hidden !important;padding:0 !important;position:absolute !important}
+
+{"shopId":3157737,"countryCode":"US","currencyCode":"USD","merchantCapabilities":["supports3DS"],"merchantId":"gid:\/\/shopify\/Shop\/3157737","merchantName":"Fisher Wallace","requiredBillingContactFields":["postalAddress","email","phone"],"requiredShippingContactFields":["postalAddress","email","phone"],"shippingType":"shipping","supportedNetworks":["visa","masterCard","amex","discover"],"total":{"type":"pending","label":"Fisher Wallace","amount":"1.00"}}
+var Shopify = Shopify || {};
+Shopify.shop = "fisherwallace.myshopify.com";
+Shopify.theme = {"name":"fw-theme","id":7361549,"theme_store_id":null,"role":"main"};
+Shopify.theme.handle = "null";
+Shopify.theme.style = {"id":null,"handle":null};
+
+(function() {
+  function asyncLoad() {
+    var urls = ["\/\/secure.apps.shappify.com\/apps\/upsell\/upselljsscript.php?shop=fisherwallace.myshopify.com","https:\/\/cdn.refersion.com\/pixel.js?shop=fisherwallace.myshopify.com\u0026client_id=7215\u0026pk=pub_bbeccc12188a8ca5df8b\u0026shop=fisherwallace.myshopify.com","https:\/\/chimpstatic.com\/mcjs-connected\/js\/users\/e3a2b6548000d3c08dc866500\/096ba22336544b64890590a30.js?shop=fisherwallace.myshopify.com","\/\/www.powr.io\/powr.js?powr-token=fisherwallace.myshopify.com\u0026external-type=shopify\u0026shop=fisherwallace.myshopify.com","https:\/\/assets1.adroll.com\/shopify\/latest\/j\/shopify_rolling_bootstrap.js?adroll_adv_id=IDNF4CGJF5F4NKCPU4SX4G\u0026adroll_pix_id=IEJ6R3YIDVBH3FYJSNP5BB\u0026shop=fisherwallace.myshopify.com"];
+    for (var i = 0; i < urls.length; i++) {
+      var s = document.createElement('script');
+      s.type = 'text/javascript';
+      s.async = true;
+      s.src = urls[i];
+      var x = document.getElementsByTagName('script')[0];
+      x.parentNode.insertBefore(s, x);
+    }
+  };
+  if(window.attachEvent) {
+    window.attachEvent('onload', asyncLoad);
+  } else {
+    window.addEventListener('load', asyncLoad, false);
+  }
+})();
+
+var __st={"a":3157737,"offset":-18000,"reqid":"f0189947-b09b-4894-a861-07ea8d405d4b","pageurl":"www.fisherwallace.com\/?gclid=CNr-xNqt38UCFUU8gQodQHIAsQ","u":"a80530a744d6","p":"home"};
+window.ShopifyPaypalV4VisibilityTracking = true;
+window.Shopify = window.Shopify || {};
+window.Shopify.Checkout = window.Shopify.Checkout || {};
+window.Shopify.Checkout.apiHost = "fisherwallace.myshopify.com";
+window.Shopify.Checkout.rememberMeHost = "pay.shopify.com";
+window.Shopify.Checkout.rememberMeAccessToken = "RWJyU2h4MzN5VTBZUHo4TldXd2FWd2FvcVVIUHdYLzRNY0JPRVBEbXVGcHlYdGJ1aEExWWlLOGQrMUlucWkrQy0tVEY3UTZxTDcyM1UrOTRIVklOdnJqQT09--55a5b83af78279dd9d5c8d53dcb020c8cfae0ab4";
+window.Shopify.Checkout.sheetStyleSheetUrl = "\/\/cdn.shopify.com\/s\/assets\/shared\/sheet\/main-543784ebed4f003461d7c0961888e68496b6ca94aa00127a82e94c399e8b9e4c.css";
+
+
+
+
+
+        
+      window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+      window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
+      window.ShopifyAnalytics.meta.currency = 'USD';
+      var meta = {"page":{"pageType":"home"}};
+      for (var attr in meta) {
+        window.ShopifyAnalytics.meta[attr] = meta[attr];
+      }
+    
+      
+
+        window.ShopifyAnalytics.merchantGoogleAnalytics = function() {
+          
+        };
+      
+
+        (window.gaDevIds=window.gaDevIds||[]).push('BwiEti');
+        
+
+        (function () {
+          var customDocumentWrite = function(content) {
+            var jquery = null;
+
+            if (window.jQuery) {
+              jquery = window.jQuery;
+            } else if (window.Checkout && window.Checkout.$) {
+              jquery = window.Checkout.$;
+            }
+
+            if (jquery) {
+              jquery('body').append(content);
+            }
+          };
+
+          var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || [];
+          if (trekkie.integrations) {
+            return;
+          }
+          trekkie.methods = [
+            'identify',
+            'page',
+            'ready',
+            'track',
+            'trackForm',
+            'trackLink'
+          ];
+          trekkie.factory = function(method) {
+            return function() {
+              var args = Array.prototype.slice.call(arguments);
+              args.unshift(method);
+              trekkie.push(args);
+              return trekkie;
+            };
+          };
+          for (var i = 0; i < trekkie.methods.length; i++) {
+            var key = trekkie.methods[i];
+            trekkie[key] = trekkie.factory(key);
+          }
+          trekkie.load = function(config) {
+            trekkie.config = config;
+            var script = document.createElement('script');
+            script.type = 'text/javascript';
+            script.onerror = function(e) {
+              (new Image()).src = '//v.shopify.com/internal_errors/track?error=trekkie_load';
+            };
+            script.async = true;
+            script.src = 'https://cdn.shopify.com/s/javascripts/tricorder/trekkie.storefront.min.js?v=2017.09.05.1';
+            var first = document.getElementsByTagName('script')[0];
+            first.parentNode.insertBefore(script, first);
+          };
+          trekkie.load(
+            {"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":3157737,"isMerchantRequest":null,"themeId":7361549,"themeCityHash":3246277999609441523}},"Performance":{"navigationTimingApiMeasurementsEnabled":true,"navigationTimingApiMeasurementsSampleRate":0.1},"Google Analytics":{"trackingId":"UA-4005528-1","domain":"auto","siteSpeedSampleRate":"10","enhancedEcommerce":true,"doubleClick":true,"includeSearch":true},"Facebook Pixel":{"pixelIds":["1613495645534019"],"agent":"plshopify1.2"},"Session Attribution":{}}
+          );
+
+          var loaded = false;
+          trekkie.ready(function() {
+            if (loaded) return;
+            loaded = true;
+
+            window.ShopifyAnalytics.lib = window.trekkie;
+            
+      ga('require', 'linker');
+      function addListener(element, type, callback) {
+        if (element.addEventListener) {
+          element.addEventListener(type, callback);
+        }
+        else if (element.attachEvent) {
+          element.attachEvent('on' + type, callback);
+        }
+      }
+      function decorate(event) {
+        event = event || window.event;
+        var target = event.target || event.srcElement;
+        if (target && (target.getAttribute('action') || target.getAttribute('href'))) {
+          ga(function (tracker) {
+            var linkerParam = tracker.get('linkerParam');
+            document.cookie = '_shopify_ga=' + linkerParam + '; ' + 'path=/';
+          });
+        }
+      }
+      addListener(window, 'load', function(){
+        for (var i=0; i < document.forms.length; i++) {
+          var action = document.forms[i].getAttribute('action');
+          if(action && action.indexOf('/cart') >= 0) {
+            addListener(document.forms[i], 'submit', decorate);
+          }
+        }
+        for (var i=0; i < document.links.length; i++) {
+          var href = document.links[i].getAttribute('href');
+          if(href && href.indexOf('/checkout') >= 0) {
+            addListener(document.links[i], 'click', decorate);
+          }
+        }
+      });
+    
+
+            var originalDocumentWrite = document.write;
+            document.write = customDocumentWrite;
+            try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
+            document.write = originalDocumentWrite;
+
+            
+        window.ShopifyAnalytics.lib.page(
+          null,
+          {"pageType":"home"}
+        );
+      
+            
+          });
+
+          
+      var eventsListenerScript = document.createElement('script');
+      eventsListenerScript.async = true;
+      eventsListenerScript.src = "//cdn.shopify.com/s/assets/shop_events_listener-f2c5800305098f0ebebdfa7d980c9abf56514c46d5305e97a7c476f7c9116163.js";
+      document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
+    
+        })();
+      
+
+
+
+
+
+
+
+try{Typekit.load();}catch(e){}
+
+
+
+
+
+(function(d) {
+    var e = d.createElement('script');
+    e.src = d.location.protocol + '//tag.bounceexchange.com/2342/i.js';
+    e.async = true;
+    d.getElementsByTagName("head")[0].appendChild(e);
+}(document));
+
+
+
+
+    {
+      "@context": "http://schema.org",
+      "@id": "https://www.fisherwallace.com",
+      "@type": "Organization",
+      "name": "Fisher Wallace",
+      "legalName": "Fisher Wallace Laboratories, LLC",
+      "foundingDate": 2007,
+      "url": "https://www.fisherwallace.com/",
+      "logo": "https://cdn.shopify.com/s/files/1/0315/7737/files/fwl_logo_transparent.png",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Fisher_Wallace_Laboratories",
+        "https://www.youtube.com/user/FisherWallaceLabs",
+        "https://twitter.com/fisherwallace",
+        "https://www.facebook.com/fisherwallace/",
+        "https://plus.google.com/+FisherWallaceLaboratories"
+      ],
+      "owns": {
+        "@type": "Product",
+        "name": "Fisher Wallace Stimulator",
+        "url": "https://www.fisherwallace.com/"
+      }
+    }
+  
+
+
+
+BUY NOW
+
+
+
+
+
+
+The Device for Depression, Anxiety & Insomnia
+FDA-Cleared and Prescribed by 7000 Doctors
+
+FAQ
+
+
+
+
+
+
+
+
+
+0
+              Cart
+            
+
+
+
+
+
+
+
+
+
+
+
+
+Fisher Wallace
+
+
+
+
+
+The Science
+Patient Reviews
+How It Works
+FAQ
+About Us
+
+
+
+ 800.692.4380
+            
+
+
+
+
+
+
+The Science
+
+
+
+Reviews
+
+
+
+How It Works
+
+
+
+FAQ
+
+
+
+About Us
+
+
+
+Buy Now
+
+
+
+
+
+Home
+
+
+
+Buy Now
+
+
+
+
+
+Home
+All Products
+Fisher Wallace
+Your cart (0)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Outstanding Patient Outcomes
+In clinical trials and practice, more than 70% of patients who use the Fisher Wallace Stimulator® report a reduction or remission of depression, anxiety and insomnia symptoms within one-to-four weeks of daily use. The device works by stimulating the production of neurotransmitters and modulating brain activity, as demonstrated in published studies.
+
+
+
+
+30,000
+Patients
+
+7,000
+Prescribers
+
+12
+Published Studies
+
+ 
+ Clinical Evidence
+
+
+
+
+
+
+Customers who purchase the Fisher Wallace Stimulator® for $599 or $699 may return it for a refund within 30 days of receipt. Fisher Wallace applies a 10% restocking fee (an industry standard for durable medical equipment) and does not refund the cost of shipping. Refunds are mailed by check five weeks after receipt of a fully functioning device.
+
+
+
+
+
+
+Powerful Relief, Yet Comfortable
+The Fisher Wallace Stimulator® is a portable medical device that comfortably stimulates brain regions responsible for healthy mood and sleep. The device is cleared by the FDA and approved for sale over-the-counter in Europe for the treatment of depression, anxiety and insomnia.
+how it works
+
+
+
+
+
+
+
+Safer Than Drug Therapy
+Less than 1% of patients experience side effects from using the Fisher Wallace Stimulator®. By comparison, 38% of patients experience side effects from using antidepressant medication.11. Real-World Data on SSRI Antidepressant Side Effects. Psychiatry (Edgmont). 2009 Feb; 6(2): 16–18.
+doctor reviews
+
+
+
+
+
+
+Safer Than Drug Therapy
+Less than 1% of patients experience side effects from using the Fisher Wallace Stimulator®. By comparison, 38% of patients experience side effects from using antidepressant medication.11. Real-World Data on SSRI Antidepressant Side Effects. Psychiatry (Edgmont). 2009 Feb; 6(2): 16–18.
+doctor reviews
+
+
+
+
+
+
+
+
+30-Day Trial Period
+Use the device twice a day for 20 minutes (morning and evening) for the first 30 days. If you do not experience significant results, return the device for a refund.
+buy now
+
+
+
+
+
+Real Patient Stories
+
+
+
+Your browser does not support the video tag.Treat Symptoms with Medical-Grade TechnologyDesigned collaboratively by world-class engineers and doctors, the Fisher Wallace Stimulator® uses proprietary waveforms to gently stimulate the brain to produce serotonin and other neurochemicals responsible for healthy mood and sleep. Proven safe and effective in multiple published studies, the device is cleared by the FDA to treat depression, anxiety and insomnia. Watch the video to learn how easy it is to use.testimonials
+
+
+
+
+
+
+
+
+Do You Qualify to Use the Device?
+
+
+
+
+ *  denotes required fields 
+
+
+
+
+ First Name   *   
+
+
+
+ Last Name   *   
+
+
+
+
+
+ Email   *   
+
+
+
+
+
+ Do you have a medical device implanted in your head or neck?   *   
+
+
+
+
+
+
+
+Yes
+
+
+
+
+
+No
+
+
+
+
+ Do you have a pacemaker?   *   
+
+
+
+
+
+
+
+Yes
+
+
+
+
+
+No
+
+
+
+
+ Are you 21 years of age or older?   *   
+
+
+
+
+
+
+
+Yes
+
+
+
+
+
+No
+
+
+
+
+ May the manufacturer email you important device related updates?   *   
+
+
+
+
+
+
+
+Yes
+
+
+
+
+
+No
+
+
+
+
+Confirm that you are not a bot   *  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Doctor & Patient Testimonials
+
+
+"Does it work?"
+"Does it work? Columbia University psychiatrist Richard P. Brown says he has used the device with 400 severely depressed patients and that more than 70% find relief -- about twice the rate of anti-depressants."
+– The Wall Street Journal
+
+
+"I have had great success..."
+"I have had great success using the device to treat severe, chronic insomnia in patients who are resistant to pharmacotherapy. Also, patients who seek a drug-free alternative to treat insomnia have used the Fisher Wallace Stimulator to reduce or eliminate their dependence on prescription drugs."
+
+ Andres San Martin, M.D.Professor of PsychiatryColumbia University Medical Center
+
+
+
+"Initially I was deep in major depression"
+"Initially I was deep in major depression, found it next to impossible to write or do other professional work, and in spite of my own training and experience, found myself contemplating suicide at times. I've been diagnosed with bipolar disorder type II."
+
+ Paul Fauteck, Psy.D
+
+
+
+"I have seen very positive results..."
+"I have seen very positive results, often within the first two weeks of using the device. Approximately 75% of my patients who have been diagnosed with generalized anxiety disorder, major depressive disorder, stress related disorders or insomnia have reported positive changes."
+
+ Dr. Richard BrownProfessor of PsychiatryColumbia University Medical Center
+
+
+
+"The Fisher Wallace Stimulator has helped me considerably..."
+"The Fisher Wallace Stimulator has helped me considerably as I finish my battle with chronic Lyme disease. It has reduced my fibromyalgia neck/back pain more than 70% and greatly decreased the severity of my headaches. Additionally, I have noticed a relief of symptoms while enduring Herxheimer reactions, which often involve insomnia, depression, and severe anxiety."
+Kaleigh A.
+
+
+"I'm reluctant to let go of my stimulator..."
+But since I couldn't stop talking about my good mood and hypercharged focus, my friends stopped laughing and started asking if they could borrow it. I'm reluctant to let go of my stimulator, however.
+
+ Nina BurleighELLE Magazine
+
+
+
+
+
+
+
+
+
+
+
+
+Contact Us
+
+
+
+
+
+
+Tel.
+800.692.4380
+
+Fax
+800.657.7362
+
+Email
+info@fisherwallace.com
+
+
+
+
+
+
+
+
+
+Address
+
+
+
+
+
+
+
+
+
+
+Customer Service Hours
+
+
+
+
+
+
+
+Mon - Fri
+10:00am - Midnight EST
+
+
+Sat - Sun
+Noon - Midnight EST
+
+
+
+
+
+
+
+
+
+
+ Social Media
+
+
+
+
+
+
+Follow @fisherwallace
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
+Fisher Wallace Labs on YouTube.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Terms and Conditions
+Privacy Policy
+Copyright © 2018 Fisher Wallace
+
+
+
+
+
+
+
+
+
+
+
+Medical-Grade Technology
+The Fisher Wallace Stimulator® is cleared by the FDA to treat depression, anxiety and insomnia. Used for 20 minutes, once or twice a day, the device works by stimulating the brain to produce serotonin and melatonin while lowering cortisol. The device is comfortable to use and reduces symptoms for the majority of patients within two-to-four weeks of daily use.
+ 
+
+
+
+
+
+Treating Depression & Anxiety
+
+
+
+The Fisher Wallace Stimulator® treats depression and anxiety by stimulating the brain to produce serotonin and melatonin while reducing cortisol (the stress hormone) and calming the brain's Default Mode Network. The device is effective in treating the following symptoms of depression and anxiety:
+
+Decreased energy and fatigue
+Oversleeping or insomnia
+Persistent sadness
+Feelings of hopelessness
+Feelings of worthlessness and/or helplessness
+Loss of interest in activities and hobbies, including sex
+Restlessness and irritability
+Chronic and unsubstantiated worry
+Repeated, random panic attacks
+
+These symptoms are commonly associated with Major Depressive Disorder, Bipolar Disorder, Persistent Depressive Disorder, and Generalized Anxiety Disorder.
+OUR NEW BIPOLAR DEPRESSION RESEARCH
+Easy to Use
+The device is extremely easy to use and the stimulation feels pleasant during the 20-minute treatment session, often causing the patient to feel immediately relaxed. Patients may read a book, watch TV, use the computer or engage in other quiet activities during the treatment session.
+
+
+
+
+
+
+Treating Insomnia
+
+
+
+The Fisher Wallace Stimulator® treats insomnia by stimulating the brain to produce serotonin and melatonin while reducing cortisol (the stress hormone) and calming the brain's Default Mode Network. The device is effective in treating the following types of insomnia:
+
+
+Chronic Insomnia: Difficulty falling asleep or staying asleep three or more nights per week.
+
+Onset Insomnia: Difficulty falling asleep at the beginning of the night.
+
+Comorbid Insomnia: Insomnia that occurs in conjunction with depression or anxiety.
+
+Maintenance Insomnia: Difficulty staying asleep through the night (waking up often or waking up too early).
+
+Acute Insomnia: Temporary difficulty falling asleep or staying asleep as the result of traveling or a life event.
+
+Easy to Use
+The device is extremely easy to use and the stimulation feels pleasant during the 20-minute treatment session, often causing the patient to feel immediately relaxed. To treat insomnia, patients use the device for 20 minutes before bedtime. If you do not suffer from insomnia and only use the device to treat depression or anxiety, the device will not make you drowsy.
+
+
+
+
+
+<!--
+.panel-group .panel .panel-heading a:after, .panel-group .panel .panel-heading.link a[data-toggle="collapse"]:after {background: none;}
+-->
+
+
+
+
+Our Published Research
+
+
+
+
+
+
+ 
+Doctor & Patient Testimonials
+
+
+Does it work? Columbia University psychiatrist Richard P. Brown says he has used the device with 400 severely depressed patients and that more than 70% find relief -- about twice the rate of anti-depressants.
+
+– The Wall Street Journal
+
+
+
+
+I have had great success using the device to treat severe, chronic insomnia in patients who are resistant to pharmacotherapy. Also, patients who seek a drug-free alternative to treat insomnia have used the Fisher Wallace Stimulator to reduce or eliminate their dependence on prescription drugs.
+
+– Andres San Martin, M.D.
+Professor of Psychiatry, Columbia University Medical Center
+
+
+Read More
+
+
+How It Works
+
+
+The following licensed healthcare practitioners are qualified to authorize the purchase of a Fisher Wallace Stimulator®:
+
+Primary Doctor
+Psychologist
+Psychiatrist
+OBGYN
+Chiropractor
+Acupuncturist
+Nurse
+Physician’s Assistant
+Or access online authorization at: purchase-authorization.com
+
+
+
+
+
+
+
+
+Treat Symptoms with Medical-Grade Technology
+Designed collaboratively by world-class engineers and doctors, the Fisher Wallace Stimulator® uses proprietary waveforms to gently stimulate the brain to produce serotonin and other neurochemicals responsible for healthy mood and sleep. Proven safe and effective in multiple published studies, the device is cleared by the FDA to treat depression, anxiety and insomnia.
+Watch the video to learn how easy it is to use.
+
+
+
+How to Purchase a Device
+
+
+
+Start Your 30-Day Trial
+30-Day Return & Refund Policy
+
+Customers who purchase the Fisher Wallace Stimulator® for $599 or $699 may return it for a refund within 30 days of receipt. Fisher Wallace applies a 10% restocking fee (an industry standard for durable medical equipment) and does not refund the cost of shipping. Refunds are mailed by check five weeks after receipt of a fully functioning device.
+
+
+
+
+Step1
+ Find Out if You Qualify to Use the Device
+Answer a few simple questions on purchase-authorization.com.
+This process takes less than 60 seconds.
+
+
+
+Step2
+ Obtain Purchase Authorization
+Go to purchase-authorization.com to obtain same-day authorization, or have your provider fax or email a prescription or completed authorization form to Fisher Wallace. The FDA requires authorization for US patients.
+
+
+Step3
+Buy a Device and Try It for 30 Days
+You may return your device for a refund within 30 days of receipt (Details).
+Finance Your Purchase with PayPal Credit
+
+
+ 
+
+
+
+
+
+
+ 
+Medical Advisory Board
+
+
+   Mitchell RosenthalM.D.  
+   Stephen N. XenakisM.D.  
+   Lauri LiskinM.D.  
+   J Roberto TrujilloM.D., Sc.D.  
+   Ronald PodellM.D.  
+   Robert CancroM.D.  
+   Sandlin LoweM.D.  
+   Bruce JohnsonM.D.  
+
+Show All Members
+
+
+Treatment Comparison
+Compare the Fisher Wallace Stimulator® to Drug Therapy, TMS, ECT and tDCS for the treatment of depression, anxiety, insomnia and chronic pain.
+﻿
+
+
+
+
+TMS
+Drug Therapy
+ECT
+tDCS
+Fisher Wallace Stimulator®
+
+
+Indicated for Depression
+
+
+
+No
+
+
+
+
+
+Indicated for Insomnia
+
+No
+
+No
+No
+
+
+
+
+
+Indicated for Anxiety
+
+No
+
+No
+No
+
+
+
+
+
+Indicated for Pain
+
+No
+
+No
+No
+
+
+
+Free of Serious Side Effects
+
+No
+No
+
+
+
+
+Use at Home
+No
+
+No
+No
+
+
+
+30-Day Return / Refund Policy
+No
+No
+No
+No
+
+
+
+
+
+
+Return Policy & Insurance Reimbursement
+Customers who purchase the Fisher Wallace Stimulator® for $699 may return it for a refund within 30 days of receipt. Fisher Wallace applies a 10% restocking fee (an industry standard for durable medical equipment) and does not refund the cost of shipping. Refunds are mailed by check five weeks after receipt of a fully functioning device.
+Click here to return your device for a refund.
+Insurance Reimbursement Process
+The Fisher Wallace Stimulator® has been approved by Medicaid in Maine (MaineCare); if you reside in Maine and receive Medicaid benefits, click here for more information. Many private insurance companies, such as Aetna, United Healthcare and Blue Cross, reimburse patients for the purchase of the Fisher Wallace Stimulator® when the device is used for the treatment of chronic or acute pain. Fisher Wallace does not process reimbursement claims on behalf of patients and recommends that patients contact their insurance provider to confirm coverage details. A letter of medical necessity may be required to obtain coverage. You may download a template of this letter. For more information on the reimbursement process, please click here.
+
+
+
+Recent Media Coverage
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Do You Qualify to Use the Device?
+
+Learn in 60 Seconds
+
+
+
+
+
+
+
+
+
+A Flexible Spending Account, or FSA, lets employees set aside pre-tax money from their paychecks to spend on out-of-pocket healthcare expenses. Money that goes into an FSA is pre-tax, so employees can save as much as 40% of each dollar they put into their FSA, as long as they spend the money on qualified health costs.
+
+
+
+
+
+
+
+
+Free Tip Sheet for Improving Mood and Sleep
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				Treat Chronic Pain
+			
+
+Learn More
+
+
+
+
+
+
+
+
+				Pro Store for Medical Professionals
+			
+
+Register Now
+
+
+
+
+
+
+
+
+				Voted by You
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+				About Us
+			
+
+Who We Are
+
+
+
+
+
+
+
+
+
+
+
+$(document).ready(function() {
+	setTimeout(function(){
+		$( "#1, #a1" ).addClass( "vstepCycle" ).delay(1000).queue(function(){
+    		$(this).removeClass("vstepCycle").dequeue();
+    		});
+   }, 2000);
+   setTimeout(function(){
+		$( "#2, #a2" ).addClass( "vstepCycle" ).delay(1000).queue(function(){
+    		$(this).removeClass("vstepCycle").dequeue();
+    		});
+   }, 3000);
+   setTimeout(function(){
+		$( "#3, #a3" ).addClass( "vstepCycle" ).delay(1000).queue(function(){
+    		$(this).removeClass("vstepCycle").dequeue();
+    		});
+   }, 4000);
+   setTimeout(function(){
+		$( "#4, #a4" ).addClass( "vstepCycle" ).delay(1000).queue(function(){
+    		$(this).removeClass("vstepCycle").dequeue();
+    		});
+   }, 5000);
+});
+
+
+
+
+
+
+
+
+
+	$(function(){
+		$('#slicknavmenu').slicknav({
+		prependTo:'#header'
+	});
+      });
+
+
+(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"4077616"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");
+
+jQuery('a[href^="http"]').not('a[href^="https://www.fisherwallace.com"]').attr('target', '_blank');
+
+
+
+(function(c, d, e, g, a) {g = c.createElement(d); g.type = "text/java" + d; g.async = !0; g.src = e; a = c.getElementsByTagName(d)[0]; a.parentNode.insertBefore(g, a) }(document, "script", "//tag.retargeter.com/rt/3992/rt.min.js?t="+Math.floor(Date.now() / 86400000)));
+
+
+
+$( document ).ready(function() {
+
+$(function() {
+  $("video.bgvid source").each(function() {
+    var sourceFile = $(this).attr("data-src");
+    $(this).attr("src", sourceFile);
+    var video = this.parentElement;
+    video.load();var playPromise = video.play();
+
+  if (playPromise !== undefined) {
+    playPromise.then(_ => {
+    })
+    .catch(error => {
+    });
+  }
+  });
+});
+
+  
+$(window).load(function() {
+  
+  $(function() {
+  $("video.fox source").each(function() {
+    var sourceFile = $(this).attr("data-src");
+    $(this).attr("src", sourceFile);
+    var video1 = this.parentElement;
+    video1.load();
+  });
+});
+
+  
+//facebook
+  
+ window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '303827543092845',
+      cookie     : true,
+      xfbml      : true,
+      version    : 'v2.4'
+    });
+      
+    FB.AppEvents.logPageView();   
+      
+  };
+  
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4&appId=303827543092845";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+
+// retargeter
+(function(c, d, e, g, a) {g = c.createElement(d); g.type = "text/java" + d; g.async = !0; g.src = e; a = c.getElementsByTagName(d)[0]; a.parentNode.insertBefore(g, a) }(document, "script", "//tag.retargeter.com/rt/3992/rt.min.js?t="+Math.floor(Date.now() / 86400000)));
+  
+
+  
+  $('#authform').show();
+
+}); //end windowload
+
+}); //end documentready
+
+
+
+$( document ).ready(function() {
+  $('.testimonials').slick({
+  centerMode: true,
+  centerPadding: '60px',
+  slidesToShow: 3,
+  arrows:false,
+  dots: true,
+  
+  responsive: [
+    {
+      breakpoint: 768,
+      settings: {
+        arrows: false,
+        centerMode: true,
+        centerPadding: '40px',
+        slidesToShow: 1,
+      }
+    },
+    {
+      breakpoint: 480,
+      settings: {
+        arrows: false,
+        centerMode: true,
+        centerPadding: '40px',
+        slidesToShow: 1
+      }
+    }
+  ]
+});
+});
+
+
+$("#submit").click(function(event){
+var pacemaker=$("input[name='pacemaker']:checked").val();
+var head=$("input[name='implanted']:checked").val();
+var age=$("input[name='over_21']:checked").val();
+if(pacemaker=="Yes"||head=="Yes"){
+alert("Unfortunately you do not qualify to purchase a Fisher Wallace Stimulator as a result of having an implanted medical device.  If you have any questions, please contact Fisher Wallace Laboratories at (800) 692 - 4380.");event.preventDefault();}
+if(age=="No"){alert("You must be at least 21 years of age qualify to purchase a Fisher Wallace Stimulator. If you have any questions, please contact Fisher Wallace Laboratories at (800) 692 - 4380.");event.preventDefault();}});
+
+
