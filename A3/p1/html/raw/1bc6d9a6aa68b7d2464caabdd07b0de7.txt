@@ -1,0 +1,775 @@
+http://www.aljazeera.com/programmes/faultlines/2016/11/afghan-translators-hiding-161114104958282.html
+﻿
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0 maximum-scale=1.0, minimal-ui" />
+
+
+
+
+
+    
+
+
+<!-- header tags -->
+<meta name="guid" content="161114104958282"><title>Afghan Translators: Out of Hiding | USA | Al Jazeera</title><meta name="title" content="Afghan Translators: Out of Hiding"><meta name="description" content="An insight into the lives of Afghan translators who risked everything to work with the US military and were left behind."><meta property="og:title" content="Afghan Translators: Out of Hiding"><meta name="url" content="http://www.aljazeera.com/programmes/faultlines/2016/11/afghan-translators-hiding-161114104958282.html"><meta property="og:description" content="An insight into the lives of Afghan translators who risked everything to work with the US military and were left behind."><meta property="og:internalurl" content="http://www.aljazeera.com/programmes/faultlines/2016/11/afghan-translators-hiding-161114104958282.html"><meta property="og:url" content="http://www.aljazeera.com/programmes/faultlines/2016/11/afghan-translators-hiding-161114104958282.html"><meta property="og:image" content="http://www.aljazeera.com/mritems/Images/2016/11/14/5eaae73511c74b60ab3e38c6ab617bfe_18.jpg"><meta name="image" content="http://www.aljazeera.com/mritems/Images/2016/11/14/5eaae73511c74b60ab3e38c6ab617bfe_18.jpg"><meta name="ShortURL" content="http://aje.io/8nr8"><meta property="twitter:title" content="Afghan Translators: Out of Hiding"><meta property="twitter:description" content="An insight into the lives of Afghan translators who risked everything to work with the US military and were left behind."><meta http-equiv="Last-Modified" name="LastModifiedDate" content="Tue, 15 November 2016 15:08:32 GMT"><meta name="ContentType" content="Programs"><meta name="ContentIndexURL" content="/programmes/"><meta name="twitter:image" content="http://www.aljazeera.com/mritems/Images/2016/11/14/5eaae73511c74b60ab3e38c6ab617bfe_18.jpg"><link rel="canonical" href="http://www.aljazeera.com/programmes/faultlines/2016/11/afghan-translators-hiding-161114104958282.html"><!--MBD Items -->
+
+<meta http-equiv="x-ua-compatible" content="ie=Edge">  
+<meta http-equiv="X-UA-Compatible" content="chrome=1" /> 
+ 
+<script type='text/javascript'>var _sf_startpt=(new Date()).getTime()</script>
+ <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+ <meta property="twitter:account_id" content="4970411" />
+<meta name="twitter:card" content="summary_large_image">
+<meta name="google-play-app" content="app-id=net.aljazeera.english">
+ <link rel="alternate" type="application/rss+xml" title="Al Jazeera English" href="/xml/rss/all.xml" />
+<link rel="apple-touch-icon" href="/mritems/assets/images/touch-icon-iphone.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/mritems/assets/images/touch-icon-ipad.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/mritems/assets/images/touch-icon-iphone-retina.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/mritems/assets/images/touch-icon-ipad-retina.png">
+
+ <script src="/assets/scripts/jquery-1.11.1.min.js?i=1"></script>
+
+ <script src="/assets/scripts/common.js?x=153" async></script>
+ <script src="//f1-eu.readspeaker.com/script/5707/ReadSpeaker.js?pids=embhl,custom&amp;skin=ReadSpeakerFloatingSkin" type="text/javascript" ></script>
+ 
+ <link href="/assets/styles/plugins/colorbox.css" rel="stylesheet" />
+ <script src="/assets/scripts/jquery-plugin-colorbox.js" async></script>
+
+ <script src="/assets/scripts/SiteScripts.js?x=153" type="text/javascript"></script>
+ <script src="/assets/scripts/brightcove.js?x=158" type="text/javascript"></script>
+
+ <script src="/assets/scripts/JsonFeed.js?x=153" async></script>
+
+ <script src="/assets/scripts/ticker-plugin-script.js?x=153" type="text/javascript" async></script>
+ <script src="/assets/scripts/ticker-helper-script.js?x=163" type="text/javascript" async></script>
+
+ <link href="/assets/styles/GridSet_Style.css?x=153" rel="stylesheet" />
+ <link href="/assets/styles/Markbolton_Style.css?x=153" rel="stylesheet" />
+ <link href="/assets/styles/AJE_Custom_Styles.css?x=164" rel="stylesheet" /> 
+ <link href="/assets/styles/H1Class.css?x=153" rel="stylesheet" />
+ <link href="/assets/styles/CustomMasterHead.css?x=153" rel="stylesheet" />
+ <link href="/assets/styles/Template_Boxes.css?x=153" rel="stylesheet" />
+ <link href="/assets/styles/ticker-plugin-style.css?x=153" rel="stylesheet" /> 
+ <link  href="/assets/styles/bc-styles.css?x=153" rel="stylesheet" >
+
+ <script src="/assets/scripts/socialplugins.js?x=160" type="text/javascript"></script>
+ <link href="/Assets/styles/ArticleSocialMediaTopBar.css?x=153" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript">
+window.rsConf = {settings: {hlicon: 'iconoff'}};
+</script>
+<script src="/assets/scripts/article-header-general-run.js?i=2" type="text/javascript"></script>
+
+<!-- Facebook AJE Pixel Code -->
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=968100353246427&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook AJE Pixel Code -->
+ <script src="/assets/scripts/prebid.js?x=1" type="text/javascript" async></script>
+ <script src="//mtrx.go.sonobi.com/morpheus.aljazeera.1667.js" type="text/javascript" async></script>
+
+ <script src="/assets/scripts/adsarticlescript.js?x=100" type="text/javascript"></script>
+ <link href="/assets/styles/CustomHeaderAndFooter.css?x=210" rel="stylesheet" />
+ <script src="/assets/scripts/CustomHeaderFooter.js?x=210" type="text/javascript"></script>
+ <script src="/assets/scripts/CustomSiteScripts.js?x=154" type="text/javascript"></script>
+ <script src="/assets/scripts/hcsticky.js" type="text/javascript"></script>
+<!-- Programmes Articles header -->
+ <meta name="twitter:site" content="@AJEnglish" />
+</head>
+<body>
+    <form id='Afghan-Translators-Hiding-161114104958282' name='Afghan-Translators-Hiding-161114104958282' method='post'>    
+    
+    
+     
+
+<!-- important tag dont remove(used to carry page context) -->
+<input type="hidden" id="oryxcontext" value="B8C906090FB19032EA03A7D3B8D5B5D7FC2157E2D2B13869D3AF7A8723820BF527470D11E8743AE11BD8491F5C570D28A46F2AE1E145FE0E811125AFFEF36D7E94C1CBCFA42722E2A666F1E7BB546621A68DC0846AE45BDD7174B2E63E2E2E9E5BB131F8252808585F98FADC72AE7A6BF4BE1914BD3B9D7021BCEAF8DE003E0DBB482027993DCD8B42B32386CF01C41386DDD7199502A529122C7E4F9D04934426B5D828F0033471FF09D507DC1ADE516C1B3E3540D1734AA91731FEB1101C5B5E59697CD8F67A9FC0606F56F9989F2BDE9DD6A43FDCC6C24D057246BA1FF5E278BB5DFCEC069600B79F71BD92F4B85C06706D526A616FD4BA78AED8244E21642B38F0E9C6F8EC99017697CD6485A0AC78DC190B98BB9564B2661A299C933133398C2F308BCFF2AB5849F4314AFAA12D" data-postingguid="161114104958282">
+<div class="da-showgrid d-showgrid t-showgrid ta-showgrid m-showgrid">
+<header id="site-header">
+<!-- googleoff: index -->
+    <div><div><div><div><div style="width:100%"><div></div></div><div></div></div></div></div><div><div><div><div style="width:100%"><div><div><div style=";border-style:none"><div class="top-grey-bar">
+	<div class="top-social-wrapper">
+		<div class="wrapper clearfix">
+			<div class="socialmediaicons" id="SocialMediaIconsID">
+				<ul>
+					<li id="watchlive">
+						<a href="/live/"><svg height="20px" version="1.1" viewbox="0 0 14 14" width="20px"> <desc>Created with Sketch.</desc> <defs></defs> <g fill="none" fill-rule="evenodd" id="Page-1" stroke="none" stroke-width="1"> <g fill="#A60015" id="Group" transform="translate(-186.000000, -27.000000)"> <g id="ajmn-icons_play" transform="translate(10.000000, 13.000000)"> <g transform="translate(176.000000, 14.000000)"> <path d="M6.84444444,13.0812889 C3.39982222,13.0812889 0.6076,10.2890667 0.6076,6.84444444 C0.6076,3.39982222 3.39982222,0.6076 6.84444444,0.6076 C10.2890667,0.6076 13.0812889,3.39982222 13.0812889,6.84444444 C13.0812889,10.2890667 10.2890667,13.0812889 6.84444444,13.0812889 L6.84444444,13.0812889 Z M6.84444444,0 C3.06444444,0 0,3.06444444 0,6.84444444 C0,10.6244444 3.06444444,13.6888889 6.84444444,13.6888889 C10.6244444,13.6888889 13.6888889,10.6244444 13.6888889,6.84444444 C13.6888889,3.06444444 10.6244444,0 6.84444444,0 L6.84444444,0 Z" id="Fill-1"></path> <path d="M5.45066667,4.43488889 L5.45066667,9.254 L9.48266667,6.84444444 L5.45066667,4.43488889" id="Fill-2"></path> </g> </g> </g> </g> </svg> <span>Watch Live</span> </a></li>
+					<li id="watchnow">
+						<a href="/live/"><img alt="Watch Now" src="/mritems/images/site/WatchNow.png" title="Watch Now"></a></li>
+					<li id="facebook">
+						<a href="http://www.facebook.com/aljazeera" target="_blank"><img alt="Follow us on Facebook" data-pin-nopin="true" src="/mrItems/Assets/Images/NewArticle/facebook.png" title="Follow us on Facebook"></a></li>
+					<li id="twitter">
+						<a href="http://twitter.com/ajenglish" target="_blank"><img alt="Follow us on Twitter" data-pin-nopin="true" src="/mrItems/Assets/Images/NewArticle/twitter.png" title="Follow us on Twitter"></a></li>
+					<li id="instagram">
+						<a href="http://instagram.com/aljazeeraenglish" target="_blank"><img alt="Follow us on Instagram" data-pin-nopin="true" src="/mrItems/Assets/Images/NewArticle/instagram.png" title="Follow us on Instagram"></a></li>
+				</ul>
+			</div>
+			<!-- weather -->
+			<div class="m-hide weather-widgets" id="weatherwidgets">
+				&nbsp;</div>
+			<!-- /weather --></div>
+	</div>
+	<div class="wrapper clearfix">
+		<div class="top-search-wrapper">
+			<div class="live-watch-section">
+				<div class="arr-up">
+					&nbsp;</div>
+				<ul class="live-watch-play">
+					<li class="live-now-playing">
+						<a>Now Playing</a></li>
+					<li class="live-watch">
+						<span><img alt="" data-pin-nopin="true" src="/mrItems/Assets/Images/NewArticle/WatchLive_SmallWatchIcon.png"> </span><a class="watch-anchor" href="/live/" id="watch-now-link">Watch</a></li>
+				</ul>
+				<ul class="live-listen-play">
+					<li class="live-now-listening">
+						<a id="showing-now"> <!-- Showing Now --></a></li>
+					<li class="live-listen">
+						<a class="listen-anchor-img watch-anchor" href="http://listen.aljazeera.com/english/livestream?utm_source=AJE_website&amp;utm_medium=navbar&amp;utm_campaign=AJE_nav" id="listen-now-link" onclick="window.open(this.href,'ajlisten','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=380,height=567'); return false;" target="_blank"><span><img alt="" data-pin-nopin="true" src="/mrItems/Assets/Images/NewArticle/WatchLive_SmallListenIcon.png"> </span><span class="live-listen-wd">Listen</span></a></li>
+				</ul>
+				<ul class="TVScheduleLink">
+					<li>
+						<a href="/watch_now/epgschedule.html">TV Schedule</a></li>
+				</ul>
+			</div>
+			<div class="wrapper clearfix">
+				<div class="search-btn-section">
+					<ul>
+						<li id="watchlive-active">
+							<a href="#"><img src="/mrItems/Assets/Images/NewArticle/WatchNowPlayIcon_V1.png"> <span>Live</span> </a></li>
+						<li>
+							<button class="button-search-top" type="button">submit</button></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+</div></div><!--PageLoadedSucessfully--></div></div><div></div></div></div></div></div>
+<!-- social media bars shown here -->
+<div class="wrapper clearfix">
+
+
+  <div class="ta1 da1" id="site-logo"><a class="current" href="/">al jazeera</a><img alt="al jazeera" src="/mritems/assets/images/newarticle/a-j-e-overlay-copy.png" class="site-logo-img" style="cursor: pointer;"></div>
+
+<div class="ta2-ta6 d4" id="nav-account-search"><a href="#" id="nav-mobile-menu">menu</a>
+
+<nav class="ta2-ta4 nav-wide" id="nav-account-live">&nbsp;</nav>
+</div>
+
+<div class="nav-group ta2-ta6 da2-da6">
+<div class="mobile-wrap">
+<div class="form-search" id="nav-form-search"><input class="field-search" name="search" id="search" type="text" value=""><button class="button-search" type="button">submit</button></div>
+<!-- <div friendlyname="topmenuheader" id="10" type="regular" zonepath="topmenuheader/pagetype/default" zonetemplate="pagetype"> -->
+
+<div><div><div><div><div style="width:100%"><div><div><div style=";border-style:none"><nav id="nav-site" class="nav-wide da2-da4 clearfix"><ul>
+    <li data-guid="171025111604759" class="nav-item-171025111604759"><a href="/" target="_self">Home</a></li>
+    <li data-guid="161023134902510" class="nav-item-161023134902510"><a class="drop" href="/news/">News</a><a class="mobile-drop" href="#">More</a><div class="drop-mega"><nav class="&#xA;          nav-divider&#xA;        "><div class="subnav list nav-menu-width" style="margin-left: 2em;">
+            <div class="drp-mega-left">
+              <ul>
+                <li data-guid="140311071122120"><a href="/topics/regions/middleeast.html">Middle East</a></li>
+                <li data-guid="131113081710422"><a href="/topics/regions/africa.html">Africa</a></li>
+                <li data-guid="131112142029837"><a href="/topics/regions/asia.html">Asia</a></li>
+                <li data-guid="140311071220644"><a href="/topics/regions/us-canada.html">US &amp; Canada</a></li>
+              </ul>
+            </div>
+            <div class="drp-mega-right">
+              <ul>
+                <li data-guid="131113111908681"><a href="/topics/regions/latin-america.html">Latin America</a></li>
+                <li data-guid="131113084937332"><a href="/topics/regions/europe.html">Europe</a></li>
+                <li data-guid="140311071939629"><a href="/topics/regions/asia-pacific.html">Asia Pacific</a></li>
+                <li data-guid="170926095124731"><a href="/news" target="_self">All</a></li>
+              </ul>
+            </div>
+          </div></nav></div>
+    </li>
+    <li data-guid="140311071122120" class="nav-item-140311071122120"><a href="/topics/regions/middleeast.html">Middle East</a></li>
+    <li data-guid="161016132227401" class="nav-item-161016132227401"><a class="drop" href="/documentaries/">Documentaries</a><a class="mobile-drop" href="#">More</a><div class="drop-mega"><nav class="&#xA;          nav-divider&#xA;        "><div class="subnav list nav-menu-width" style="margin-left: 2em;">
+            <div class="drp-mega-left">
+              <ul>
+                <li data-guid="140309125006070"><a href="/programmes/specialseries/">Featured Documentaries</a></li>
+                <li data-guid="140309124146566"><a href="/programmes/witness/">Witness</a></li>
+                <li data-guid="140309100922773"><a href="/programmes/aljazeeraworld/">Al Jazeera World</a></li>
+                <li data-guid="140309083414124"><a href="/programmes/101east/">101 East</a></li>
+              </ul>
+            </div>
+            <div class="drp-mega-right">
+              <ul>
+                <li data-guid="140309103232322"><a href="/programmes/peopleandpower/">People &amp; Power</a></li>
+                <li data-guid="140309101835880"><a href="/programmes/faultlines/">Fault Lines</a></li>
+                <li data-guid="171104105940754"><a href="/programmes/my-tunisia/tunisia.html">My Tunisia</a></li>
+                <li data-guid="170702220310988"><a href="/programmes/aljazeera-selects/">Al Jazeera Selects </a></li>
+                <li data-guid="140309100153551"><a href="/programmes/aljazeeracorrespondent/">Al Jazeera Correspondent</a></li>
+                <li data-guid="160905084557919"><a href="/programmes/rewind/">REWIND</a></li>
+                <li data-guid="161019084747265"><a href="/documentaries">All</a></li>
+              </ul>
+            </div>
+          </div></nav></div>
+    </li>
+    <li data-guid="140204094724441" class="nav-item-140204094724441"><a class="drop" href="/programmes/">Shows</a><a class="mobile-drop" href="#">More</a><div class="drop-mega"><nav class="&#xA;          nav-divider&#xA;        "><div class="subnav list nav-menu-width" style="margin-left: 2em;">
+            <div class="drp-mega-left">
+              <ul>
+                <li data-guid="140309102519696"><a href="/programmes/insidestory/">Inside Story</a></li>
+                <li data-guid="140327064406019"><a href="http://stream.aljazeera.com" target="_blank">The Stream</a></li>
+                <li data-guid="140309102803328"><a href="/programmes/listeningpost/">The Listening Post</a></li>
+                <li data-guid="140309123607662"><a href="/programmes/talktojazeera/">Talk to Al Jazeera</a></li>
+              </ul>
+            </div>
+            <div class="drp-mega-right">
+              <ul>
+                <li data-guid="170215082732680"><a href="/programmes/the-big-picture/">The Big Picture</a></li>
+                <li data-guid="140309101519781"><a href="/programmes/countingthecost/">Counting the Cost</a></li>
+                <li data-guid="150811112506260"><a href="/programmes/upfront/">UpFront</a></li>
+                <li data-guid="140309100432009"><a href="/programmes/earthrise/">earthrise</a></li>
+                <li data-guid="140309101636015"><a href="/programmes/empire/">Empire</a></li>
+                <li data-guid="161019085813616"><a href="/programmes" target="_self">All</a></li>
+              </ul>
+            </div>
+          </div></nav></div>
+    </li>
+    <li data-guid="141105143951929" class="nav-item-141105143951929"><a href="/investigations/">Investigations</a></li>
+    <li data-guid="140130065247497" class="nav-item-140130065247497"><a href="/indepth/opinion/">Opinion</a></li>
+    <li data-guid="161027083327112" class="nav-item-161027083327112"><a href="/indepth/inpictures/">In Pictures</a></li>
+    <li data-guid="161017091647457" class="nav-item-161017091647457"><a class="drop" href="#">More</a><a class="mobile-drop" href="#">More</a><div class="drop-mega"><nav class="&#xA;          nav-divider&#xA;        "><div class="subnav list nav-menu-width" style="margin-left: 2em;">
+            <div class="drp-mega-left">
+              <ul>
+                <li data-guid="161027081630642"><a href="/indepth/features/">Features</a></li>
+                <li data-guid="141105143951929"><a href="/investigations/">Investigations</a></li>
+                <li data-guid="161027083327112"><a href="/indepth/inpictures/">In Pictures</a></li>
+                <li data-guid="161027100258444"><a href="/indepth/interactive/">Interactive</a></li>
+              </ul>
+            </div>
+            <div class="drp-mega-right">
+              <ul>
+                <li data-guid="161019084958582"><a href="/indepth/interactive/documentaries/">Interactive Documentaries</a></li>
+                <li data-guid="161115094809507"><a href="/shorts/">AJ Shorts</a></li>
+                <li data-guid="170219130504928"><a href="/podcasts/">Podcasts</a></li>
+                <li data-guid="161028145404792"><a href="/blogs/">Reporter's Notebook</a></li>
+                <li data-guid="131112151343070"><a href="/topics/categories/human_rights.html">Human Rights</a></li>
+                <li data-guid="131112152428605"><a href="/topics/categories/sport.html">Sport</a></li>
+                <li data-guid="131112152215639"><a href="/topics/categories/science-and-technology.html">Science &amp; Technology</a></li>
+                <li data-guid="140319114634577"><a href="/topics/categories/weather.html">Weather</a></li>
+              </ul>
+            </div>
+          </div></nav></div>
+    </li>
+  </ul></nav></div></div><!--PageLoadedSucessfully--></div></div><div></div></div></div></div></div>
+<!--menu goes here -->
+
+<div><div><div><div><div style="width:100%"><div><div><div style=";border-style:none"><nav id="nav-topics" class="nav-wide t-all da-all"><ul>
+    <li id="NavTopTopics">Trending:</li>
+    <li><a href="/topics/country/ethiopia.html">Ethiopia</a></li>
+    <li><a href="/topics/people/donald-trump.html">Donald Trump</a></li>
+    <li><a href="/topics/issues/gun-control.html">Gun control</a></li>
+    <li><a href="/topics/country/zimbabwe.html">Zimbabwe</a></li>
+    <li><a href="/topics/country/syria.html">Syria's Civil War</a></li>
+  </ul></nav></div></div><!--PageLoadedSucessfully--></div></div><div></div></div></div></div></div>
+<!-- <div id="weatherwidget" class="m-hide weather-widget"> </div> -->
+</div>
+</div>
+</div>
+
+<div><div><div><div><div style="width:100%"><div><div><div><div><div style="width:100%"><div><div><div style=";border-style:none"><div class="form-wrapper-wrap">
+  <div class="wrapper clearfix">
+    <div class="form-wrapper"><span class="genericon genericon-close search-close"></span><input class="field-search" id="searchText" placeholder="Search..." type="text"><nav id="search-nav-topics" class="nav-wide t-all da-all"><ul>
+          <p class="most-searched">Most Searched</p>
+        </ul></nav></div>
+  </div>
+</div>
+<div id="site-header-links"></div></div></div><!--PageLoadedSucessfully--></div></div><div></div></div></div></div></div></div><div></div></div></div></div></div>
+<!-- googleon: index -->
+ 
+</header>
+   
+</div>
+  <!-- news ticker -->
+<div id="header_container" style="display: none;">
+   <ul id="js-news" class="js-hidden">
+   </ul>
+</div>
+<div><div><div style=";border-style:none"><!-- googleoff: index --><div id="div-gpt-ad-1430377943388-2">  
+      
+       <script type="text/javascript">
+googletag.cmd.push(function() { 
+googletag.display('div-gpt-ad-1430377943388-2'); 
+});
+</script>
+      
+      </div><!-- googleon: index --></div></div></div>
+<div id="site-content">
+
+
+<div id="Container_Zone_1" handle="header" type="regular"></div>
+
+<div id="placeholder1" type="content"><!-- comments goes here -->
+	<div><div><div><div><div style="width:100%"><div><div class="branded oryx-bg"><div><div><div><div style="width:100%"><div><header id="show-header" class="clearfix wrapper" type="renderzoneblock"><div><div style=";border-style:none"><style>
+        .oryx-bg {
+        background-image: url(/mritems/Images/programmes/FAULTLINES%20BG01.jpg);
+        }
+      </style>
+<div id="show-logo" class="da1-da2 ta1-ta2"><a href="/programmes/faultlines/"><img style="width: 100%; vertical-align: bottom;" src="/mritems/Images/programmes/FAULTLINES-LOGO.png"></a></div><nav class="nav-wide da-all ta-all"><ul>
+    <li><a href="/programmes/faultlines/">Home</a></li>
+    <li><a href="/programmes/faultlines/episodes.html">Episodes</a></li>
+  </ul></nav></div></div></header></div></div><div></div></div></div></div><div><div><div><div style="width:100%"><div><div class="wrapper clearfix "><div><div><div><div style="width:100%"><div><div class="page-section clearfix da-all da-pad ta-all ta-pad box "><div><div><div><div style="width:100%"><div><div id="main-content" class="clearfix box d-pad box-section-news da1-da4 ta1-ta4 ta-pad db-showgrid "><div><div><div><div style="width:100%"><div><div><div style=";border-style:none"><div><article id="main-story" class="item"><header id="header-story" class="clearfix da-all da-pad ta-all ta-pad"><hgroup><h1 class="heading-story">Afghan Translators: Out of Hiding</h1>
+        <div>
+          <h2 class="standfirst">An insight into the lives of Afghan translators who risked everything to work with the US military and were left behind.</h2>
+          <p class="meta"><time datetime="15 Nov 2016 15:08 GMT">15 Nov 2016 15:08 GMT</time> <span id="article-topics"><a href="/topics/country/afghanistan.html" data-topic-name="Afghanistan">Afghanistan</a>, <a href="/topics/country/united-states.html" data-topic-name="United States">United States</a>, <a href="/topics/organisations/taliban.html" data-topic-name="Taliban">Taliban</a></span></p>
+        </div></hgroup></header><div id="Article-Top-Toolbar" class="ArticleTopToolbar"></div>
+    <div id="vdoContainer" class="video-container"></div><script type="text/javascript">RenderPagesVideo('5209028198001', 0, '100%', 473, 'vdoContainer');</script><div id="article-body" class="article-body"><p>Wahdat worked as an interpreter for the US military in Afghanistan for three years. Now unemployed, he lives in hiding in Kabul, fearful of the Taliban, who have threatened his life numerous times because he worked with the American forces.</p>
+<p><span>"Taliban thought that the interpreters are ears and eyes for the military ... you'll have to be killed. They don't kill you the easy way if you worked as an interpreter. They will try every maniac punishment first to hurt you," he said.</span></p>
+<div class="QuoteContainer">
+<table class="Skyscrapper_Body in-article-item quote" border="0">
+<tbody>
+<tr>
+<td>
+<p>Interpreters coming new to the US have all big dreams, and think that this is the end of my trouble, I'll have a better life, but I think it's the start of another big trouble. There will be challenges.</p>
+<p class="quoted-author">Wahdat, former translator for the US military in Afghanistan,</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>During more than a decade of US operations in Afghanistan, thousands of Afghan civilians like Wahdat signed up to work for the American military as translators.</p>
+<p>In exchange for taking these jobs, the US government promised them a degree of protection through a special visa programme giving them safe passage to the United States. But applying for a visa is a lengthy process. Many interpreters have waited years for approval, in the meantime facing death threats at home.</p>
+<p>In early 2016, <em>Fault Lines</em> went to Afghanistan to investigate the lives of Afghan translators who qualify for these so-called "special immigrant visas" and to find out why so many of them have been left behind. Later this year, we followed up on their stories.</p>
+<p>Sakhidad Afghan was one of the many interpreters who tried to escape death threats by applying for a special visa to live in the US. <span>He met all the requirements for a visa, but the process took far longer than the promised nine months. </span>When the Americans pulled out of the base where he worked, Sakhidad had to find a new job, and living off-base put him at a greater risk.</p>
+<p>In March 2015, Sakhidad Afghan was kidnapped, tortured and killed by the Taliban - while still waiting for his visa. </p>
+<p>US State Department officials declined to comment on Sakhidad's case and said they don't keep track of how many interpreters have been killed while waiting for their visa approval.</p>
+<p>"The only difference between me and Sakhidad, or people like me and Sakhidad is our chances. That we still survived ... by chance. I mean we can take precautions, we can take security measures, but for how long?" says Wahdat.</p>
+<p>Weeks after we met Wahdat in Afghanistan in the spring of 2016, officials from the US government contacted us to ask for more information about his case. A month later, his visa was approved.</p>
+<p>"I still remember, it was May 12, 2016, at 02:32 o'clock. I was at the top of the roof and I checked it, I just yelled and I started running to my mom, jumping up and down and said, here is my visa it's approved and it’s issued. Everyone was so happy and cheering, and my mom was almost crying ... it was the happiest day of my life," Wahdat recalls.</p>
+<p>But once they've managed to escape their life in fear and hiding, what next? What is life in the US like for the former translators? And what are the new challenges facing them?</p>
+<p><em>Fault Lines</em> follows Wahdat during his first few days in the US, documenting his journey from Kabul to Texas, as he adjusts to a new life in a new home.</p><p style="margin-top: 3em;"><span style="color: #8e8e8e !important;">Source:</span> <span style="color: #212121 !important;">Al Jazeera News</span></p>
+    </div>
+    <div class="BottomByLine">
+      <div class="TellUsWhatYouThink"><img src="/mrItems/Assets/Images/NewArticle/SendFeedbackIcon.png"><a href="javascript:showFeedbackForm();">Tell us what you think</a></div>
+    </div>
+    <div id="Article-Bottom-Toolbar" class="ArticleBottomToolbar"></div></article>
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+        "@type": "Article",
+    
+        "mainEntityOfPage": "http://www.aljazeera.com/programmes/faultlines/2016/11/afghan-translators-hiding-161114104958282.html",
+        "headline": "Afghan Translators: Out of Hiding",
+    "datePublished": "14 Nov 2016 11:15 GMT",
+    "dateModified": "15 Nov 2016 15:08 GMT",
+    "description": "An insight into the lives of Afghan translators who risked everything to work with the US military and were left behind.",
+    "author": {
+    "@type": "Organization",
+    "name": "Al Jazeera"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Al Jazeera",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "http://www.aljazeera.com/mritems/assets/images/AJLOGOGOOGLE.png",
+        "width": 250,
+        "height": 40
+      }
+    }, 
+    "image": {
+        "@type": "ImageObject",
+        "url": "http://www.aljazeera.com/mritems/imagecache/mbdxxlarge/mritems/Images/2016/11/14/5eaae73511c74b60ab3e38c6ab617bfe_18.jpg",
+            "height": 450,
+            "width": 800
+    }
+}
+</script>
+
+      			
+      		<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "VideoObject",
+          "name": "Afghan Translators: Out of Hiding",
+  "description": "An insight into the lives of Afghan translators who risked everything to work with the US military and were left behind.",
+  "thumbnailUrl": "http://www.aljazeera.com/mritems/imagecache/mbdxxlarge/mritems/Images/2016/11/14/5eaae73511c74b60ab3e38c6ab617bfe_18.jpg",
+  "uploadDate": "15 Nov 2016 15:08 GMT",
+      "publisher": {
+      "@type": "Organization",
+      "name": "Al Jazeera",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "http://www.aljazeera.com/mritems/assets/images/AJLOGOGOOGLE.png",
+        "width": 250,
+        "height": 40
+      }
+    }
+}
+</script>
+      </div></div></div></div></div><div></div></div></div></div><div><div><div><div style="width:100%"><div><div><div style=";border-style:none"><!-- googleoff: index --><section id="more" class="page-section-full da-all"><div class="heading-section h1class">Related</div><article class="item blurb da1-da2 ta1-ta2"><a onclick="sendGAEvent('Related articles','click','Related article - Bottom');" href="/programmes/faultlines/2016/03/left-america-afghan-translators-160329132304215.html"><img src="/mritems/imagecache/mbdresplarge/mritems/Images/2016/3/30/fbb976b4033149e5b4783378d3ee89b1_19.jpg" alt="Left Behind: America's Afghan Translators" title="Left Behind: America's Afghan Translators"></a><div class="h1class"><a onclick="sendGAEvent('Related articles','click','Related article - Bottom');" href="/programmes/faultlines/2016/03/left-america-afghan-translators-160329132304215.html">Left Behind: America's Afghan Translators</a></div>
+    <p>We ask why many former Afghan translators for the US military risk their lives to return to Afghanistan from the US.</p>
+    <p class="meta"><a href="/topics/organisations/taliban.html">Taliban</a>, <a href="/topics/country/afghanistan.html">Afghanistan</a>, <a href="/topics/categories/war-conflict.html">War &amp; Conflict</a>, <a href="/topics/organisations/military.html">Military</a></p></article><article class="item blurb da3-da4 ta3-ta4"><a onclick="sendGAEvent('Related articles','click','Related article - Bottom');" href="/indepth/features/2016/04/afghan-interpreter-taliban-don-wait-kill-160403131005408.html"><img src="/mritems/imagecache/mbdresplarge/mritems/Images/2016/4/3/ca467c69f34747998cc3d40ad9d3fabb_19.jpg" alt="Afghan interpreter: 'Taliban don't wait to kill you'" title="Afghan interpreter: 'Taliban don't wait to kill you'"></a><div class="h1class"><a onclick="sendGAEvent('Related articles','click','Related article - Bottom');" href="/indepth/features/2016/04/afghan-interpreter-taliban-don-wait-kill-160403131005408.html">Afghan interpreter: 'Taliban don't wait to kill you'</a></div>
+    <p>Hiding in Afghanistan, a former translator for the US military describes what life is like for those left behind.</p>
+    <p class="meta"><a href="/topics/organisations/taliban.html">Taliban</a>, <a href="/topics/country/afghanistan.html">Afghanistan</a>, <a href="/topics/country/united-states.html">United States</a>, <a href="/topics/categories/politics.html">Politics</a>, <a href="/topics/categories/war-conflict.html">War &amp; Conflict</a></p></article></section><!-- googleon: index --></div></div></div></div><div></div></div></div></div><div><div><div><div style="width:100%"><div><div><div style=";border-style:none"><section class="page-section-full da-all"><div id="CommentsBlock"><!-- googleoff: index -->
+<div id="CommentsPolicy" style="display: block;">
+     <p style="opacity: .6; font-size: 13px; padding-bottom: 15px;">
+      Commenting has been disabled. To find out more, click      
+      <a href="https://medium.com/@AJEnglish/why-were-disabling-comments-on-aljazeera-com-a9ffbac61f10"
+                    class="InternalLink">here</a>.
+     </p>
+</div>
+<!-- googleon: index --> 
+</div></section></div></div></div></div><div></div></div></div></div><div><div><div><div style="width:100%"><div><div><div><div><div style="width:100%"><div guid="" path="GlobalFeaturedContentBlock" inherited="a1" applyzonekeepinhritance="true"><div><div><div><div style="width:100%"><div><div><div style="border-style:none;"><!-- googleoff: all --><section id="shows-catchup" class="page-section-full"><div class="heading-section h1class" cn="PageTitle">MORE FROM AL JAZEERA</div><article class="item blurb d1 t1-t2"><a onclick="sendGAEvent('Bottom Content','click','Featured Article');" href="/programmes/the-crusades-an-arab-perspective/2016/12/revival-muslim-response-crusades-161210142659166.html"><img src="/mritems/imagecache/mbdshows/mritems/Images/2016/12/14/f990610bf0594b67949c1ea8d8b6b8de_18.jpg" alt="Revival: The Muslim Response to the Crusades" title="Revival: The Muslim Response to the Crusades"></a><div>
+      <h4><a class="normalize-text" onclick="sendGAEvent('Bottom Content','click','Featured Article');" href="/programmes/the-crusades-an-arab-perspective/2016/12/revival-muslim-response-crusades-161210142659166.html">Revival: The Muslim Response to the Crusades</a></h4>
+      <p>This part of 'The Crusades: An Arab Perspective' explores the birth of the Muslim revival in the face of the Crusades.</p>
+      <p class="meta"><a href="/topics/subjects/religion.html">Religion</a>, <a href="/topics/subjects/islam.html">Islam</a>, <a href="/topics/subjects/christianity.html">Christianity</a></p>
+    </div></article><article class="item blurb d2 t3-t4"><a onclick="sendGAEvent('Bottom Content','click','Featured Article');" href="/indepth/opinion/mexico-dangerous-country-earth-180201103039551.html"><img src="/mritems/imagecache/mbdshows/mritems/Images/2018/2/1/73c24c08c2d5401e9e3fb8aab49600a5_18.jpg" alt="Is Mexico the most dangerous country on earth?" title="Is Mexico the most dangerous country on earth?"></a><div>
+      <h4><a class="normalize-text" onclick="sendGAEvent('Bottom Content','click','Featured Article');" href="/indepth/opinion/mexico-dangerous-country-earth-180201103039551.html">Is Mexico the most dangerous country on earth?</a></h4>
+      <p>Or does it just suffer from the misfortune of being a neighbour of the US?</p>
+      <p class="meta"><a href="/topics/country/mexico.html">Mexico</a>, <a href="/topics/country/united-states.html">United States</a>, <a href="/topics/subjects/drug-cartels.html">Drug cartels</a></p>
+    </div></article><article class="item blurb d3 t1-t2"><a onclick="sendGAEvent('Bottom Content','click','Featured Article');" href="/indepth/opinion/2017/05/africa-poor-stealing-wealth-170524063731884.html"><img src="/mritems/imagecache/mbdshows/mritems/Images/2016/10/28/428207d6b9c847cf98c317ebd30c51be_18.jpg" alt="Africa is not poor, we are stealing its wealth" title="Africa is not poor, we are stealing its wealth"></a><div>
+      <h4><a class="normalize-text" onclick="sendGAEvent('Bottom Content','click','Featured Article');" href="/indepth/opinion/2017/05/africa-poor-stealing-wealth-170524063731884.html">Africa is not poor, we are stealing its wealth</a></h4>
+      <p>It's time to change the way we talk and think about Africa. </p>
+      <p class="meta"><a href="/topics/regions/africa.html">Africa</a>, <a href="/topics/issues/corruption.html">Corruption</a>, <a href="/topics/subjects/foreign-aid.html">Aid</a></p>
+    </div></article><article class="item blurb d4 t3-t4"><a onclick="sendGAEvent('Bottom Content','click','Featured Article');" href="/indepth/features/2017/08/rohingya-muslims-170831065142812.html"><img src="/mritems/imagecache/mbdshows/mritems/Images/2017/9/27/ab89a71ca6494dc3af17e7b1803dd275_18.jpg" alt="Myanmar: Who are the Rohingya?" title="Myanmar: Who are the Rohingya?"></a><div>
+      <h4><a class="normalize-text" onclick="sendGAEvent('Bottom Content','click','Featured Article');" href="/indepth/features/2017/08/rohingya-muslims-170831065142812.html">Myanmar: Who are the Rohingya?</a></h4>
+      <p>Why are the more than one million Rohingya in Myanmar considered the 'world's most persecuted minority'?</p>
+      <p class="meta"><a href="/topics/subjects/rohingya.html">Rohingya</a>, <a href="/topics/categories/humanitarian-crises.html">Humanitarian crises</a>, <a href="/topics/country/myanmar.html">Myanmar</a></p>
+    </div></article></section><!-- googleon: all --></div></div><!--PageLoadedSucessfully--></div></div><div></div></div></div></div></div></div><div></div></div></div></div></div></div><div></div></div></div></div></div></div></div><div></div></div><div><div style="width:100%"><div><aside id="main-content-sidebar" class="da5-da6 ta5-ta6 da-pad ta-pad box db-showgrid " type="renderzoneblock"><div><div><div><div style="width:100%"><div><div><div><div><div style="width:100%"><div guid="" path="AlJazeeraAdsBox" inherited="a1" applyzonekeepinhritance="true"><div><div><div><div style="width:100%"><div><div><div><div><div style="width:100%"><div><section class="divgptad" style="text-align: center;"><div><div style=";border-style:none"><!-- googleoff: index --><div class="RightSideAds" id="toprightlongad"></div><!-- googleon: index --></div></div></section><!--PageLoadedSucessfully--></div></div><div></div></div></div></div></div></div><div></div></div></div></div></div></div><div></div></div></div></div></div></div><div></div></div></div></div><div><div><div><div style="width:100%"><div><div><div style=";border-style:none"><!-- googleoff: index --><section class="page-section box-section-news da-all da-pad ta-all ta-pad m-hide"><div class="heading-section h1class">Related</div><article class="blurb-wide clearfix"><a onclick="sendGAEvent('Related articles','click','Related article - Top');" href="/programmes/faultlines/2016/03/left-america-afghan-translators-160329132304215.html"><img width="100%" class="db1" src="/mritems/imagecache/mbdresplarge/mritems/Images/2016/3/30/fbb976b4033149e5b4783378d3ee89b1_19.jpg" alt="Left Behind: America's Afghan Translators" title="Left Behind: America's Afghan Translators"></a><div class="db2-db3">
+      <div class="h1class cntype-140210103041740"><a onclick="sendGAEvent('Related articles','click','Related article - Top');" href="/programmes/faultlines/2016/03/left-america-afghan-translators-160329132304215.html">Left Behind: America's Afghan Translators</a></div>
+      <p>We ask why many former Afghan translators for the US military risk their lives to return to Afghanistan from the US.</p>
+      <p class="meta da-clear"><a href="/topics/organisations/taliban.html">Taliban</a>, <a href="/topics/country/afghanistan.html">Afghanistan</a>, <a href="/topics/categories/war-conflict.html">War &amp; Conflict</a>, <a href="/topics/organisations/military.html">Military</a></p>
+    </div></article><article class="blurb-wide clearfix"><a onclick="sendGAEvent('Related articles','click','Related article - Top');" href="/indepth/features/2016/04/afghan-interpreter-taliban-don-wait-kill-160403131005408.html"><img width="100%" class="db1" src="/mritems/imagecache/mbdresplarge/mritems/Images/2016/4/3/ca467c69f34747998cc3d40ad9d3fabb_19.jpg" alt="Afghan interpreter: 'Taliban don't wait to kill you'" title="Afghan interpreter: 'Taliban don't wait to kill you'"></a><div class="db2-db3">
+      <div class="h1class cntype-140415133408172"><a onclick="sendGAEvent('Related articles','click','Related article - Top');" href="/indepth/features/2016/04/afghan-interpreter-taliban-don-wait-kill-160403131005408.html">Afghan interpreter: 'Taliban don't wait to kill you'</a></div>
+      <p>Hiding in Afghanistan, a former translator for the US military describes what life is like for those left behind.</p>
+      <p class="meta da-clear"><a href="/topics/organisations/taliban.html">Taliban</a>, <a href="/topics/country/afghanistan.html">Afghanistan</a>, <a href="/topics/country/united-states.html">United States</a>, <a href="/topics/categories/politics.html">Politics</a>, <a href="/topics/categories/war-conflict.html">War &amp; Conflict</a></p>
+    </div></article></section><!-- googleon: index --></div></div></div></div><div></div></div></div></div><div><div><div><div style="width:100%"><div><div><div><div><div style="width:100%"><div guid="" path="LatestNewsContent" inherited="a1" applyzonekeepinhritance="true"><div><div><div><div style="width:100%"><div><div><div><div><div style="width:100%"><div></div></div><div></div></div><div><div style="width:100%"><div><div><div style=";border-style:none"><!-- googleoff: index --><section class="page-section box-section-news da-all da-pad ta-all ta-pad ArticlesSideBarNews"><div class="heading-section h1class TS_MainTitle" cn="MainTitle">Latest News</div><article class="blurb-wide clearfix"><a href="/news/2018/02/iran-denies-hegemon-plans-denounces-saudi-israel-180218164231680.html"><img width="100%" class="db1" src="/mritems/imagecache/mbdresplarge/mritems/Images/2018/2/18/8868d44ecc354d9db6a28bb30c2f0875_18.jpg" alt="{Caption}" title="Iran denies 'hegemon' plans, denounces Saudi and Israel"></a><div class="db2-db3">
+      <div class="h1class cntype-200771816342556199"><a href="/news/2018/02/iran-denies-hegemon-plans-denounces-saudi-israel-180218164231680.html">Iran denies 'hegemon' plans, denounces Saudi and Israel</a></div>
+      <p>Saudi Arabia urges 'fundamental change in Iranian regime' as Tehran's foreign minister calls foes 'US client states'. </p>
+      <p class="meta da-clear"><a href="/topics/regions/middleeast.html">Middle East</a>, <a href="/topics/country/israel.html">Israel</a>, <a href="/topics/country/saudi-arabia.html">Saudi Arabia</a>, <a href="/topics/country/iran.html">Iran</a></p>
+    </div></article><article class="blurb-wide clearfix"><a href="/news/2018/02/12-isil-widows-sentenced-death-life-iraqi-court-180218172230088.html"><img width="100%" class="db1" src="/mritems/imagecache/mbdresplarge/mritems/Images/2018/2/18/12e80a4b84e24c359e7312880895c864_18.jpg" alt="{Caption}" title="12 ISIL widows sentenced to death, life by Iraqi court"></a><div class="db2-db3">
+      <div class="h1class cntype-200771816342556199"><a href="/news/2018/02/12-isil-widows-sentenced-death-life-iraqi-court-180218172230088.html">12 ISIL widows sentenced to death, life by Iraqi court</a></div>
+      <p>A dozen foreign women who joined ISIL husbands while fighting in Iraq sentenced by a court in Baghdad. </p>
+      <p class="meta da-clear"><a href="/topics/country/iraq.html">Iraq</a>, <a href="/topics/organisations/isis-isil.html">ISIS</a>, <a href="/topics/regions/middleeast.html">Middle East</a></p>
+    </div></article></section><!-- googleon: index --></div></div><!--PageLoadedSucessfully--></div></div><div></div></div></div></div></div></div><div></div></div></div></div></div></div><div></div></div></div></div></div></div><div></div></div></div></div><div><div><div><div style="width:100%"><div><div><div><div><div style="width:100%"><div guid="" path="MostViewedToday" inherited="a1" applyzonekeepinhritance="true"><div><div><div><div style="width:100%"><div><div><div style=";border-style:none"><div class="MostViewedArticlesNew"><!-- googleoff: index --><section class="page-section box-section ta-all ta-pad da-pad da-all "><div class="heading-section h1class">Trending</div>
+    <ol class="list">
+      <li><a onclick="sendGAEvent('Right Lane','click','Most Viewed Articles');" href="/news/2018/02/canada-deports-north-korean-asylum-seekers-180218144353430.html" target="">Canada deports North Korean asylum seekers</a></li>
+      <li><a onclick="sendGAEvent('Right Lane','click','Most Viewed Articles');" href="/news/2018/02/12-isil-widows-sentenced-death-life-iraqi-court-180218172230088.html" target="">12 ISIL widows sentenced to death, life by Iraqi court</a></li>
+      <li><a onclick="sendGAEvent('Right Lane','click','Most Viewed Articles');" href="/news/2018/02/iran-denies-hegemon-plans-denounces-saudi-israel-180218164231680.html" target="">Iran denies 'hegemon' plans, denounces Saudi and Israel</a></li>
+      <li><a onclick="sendGAEvent('Right Lane','click','Most Viewed Articles');" href="/news/2018/02/iranian-passenger-plane-crashes-isfahan-180218074546342.html" target="">Iran plane crash kills all 66 people on board</a></li>
+      <li><a onclick="sendGAEvent('Right Lane','click','Most Viewed Articles');" href="/indepth/opinion/winner-russian-presidential-race-180218104653257.html" target="">How Navalny changed the rules of the game in Russia</a></li>
+      <li><a onclick="sendGAEvent('Right Lane','click','Most Viewed Articles');" href="/programmes/the-crusades-an-arab-perspective/2016/12/revival-muslim-response-crusades-161210142659166.html" target="">Revival: The Muslim Response to the Crusades</a></li>
+      <li><a onclick="sendGAEvent('Right Lane','click','Most Viewed Articles');" href="/indepth/features/iran-india-sign-deal-deepen-relations-180218131756257.html" target="">Iran and India sign deal to deepen relations</a></li>
+      <li><a onclick="sendGAEvent('Right Lane','click','Most Viewed Articles');" href="/indepth/opinion/2017/05/africa-poor-stealing-wealth-170524063731884.html" target="">Africa is not poor, we are stealing its wealth</a></li>
+      <li><a onclick="sendGAEvent('Right Lane','click','Most Viewed Articles');" href="/programmes/insidestory/2018/02/triggered-unrest-ethiopia-180217185056520.html" target="">What triggered unrest in Ethiopia?</a></li>
+      <li><a onclick="sendGAEvent('Right Lane','click','Most Viewed Articles');" href="/programmes/insidestory/2018/02/robert-mueller-investigation-180218134745501.html" target="">How far will Robert Mueller's investigation go?</a></li>
+    </ol></section><!-- googleon: index --></div></div></div><!--PageLoadedSucessfully--></div></div><div></div></div></div></div></div></div><div></div></div></div></div><div><div><div><div style="width:100%"><div><div><div style=";border-style:none">
+ <div class="m-hide" style="margin-top:15px;">
+<a href="http://www.palestineremix.com" onclick="sendGAEvent('Right Lane','click','Home Banner - palestineremix');" target="_blank">
+  <img border="0" src="/mritems/Images/2015/9/10/4e0241289a4c43bc8da1ce42d636101b_6.jpg" style="width: 100%;">
+</a>
+</div>   
+    </div></div></div></div><div></div></div></div></div><div><div><div><div style="width:100%"><div><div><div style=";border-style:none">
+   <div style="margin-top:15px;" class="m-hide">
+<a href="http://lifeonhold.aljazeera.com" onclick="sendGAEvent('Right Lane','click','Home Banner - lifeonhold');" target="_blank">
+  <img border="0" src="/mritems/Images/2015/9/16/7a89dbe5b46a48dcbf8b9c471b2a5949_6.jpg" style="width: 100%;">
+</a>
+</div>   
+    </div></div></div></div><div></div></div></div></div><div><div><div><div style="width:100%"><div><div><div style=";border-style:none">
+     <div style="margin-top:15px;" class="m-hide">
+<a href="http://www.aljazeera.com/piratefishing " onclick="sendGAEvent('Right Lane','click','Home Banner - piratefishing');" target="_blank">
+  <img border="0" src="/mritems/Images/2015/9/10/acd1d73dc2624067b412f75410a46230_6.jpg" style="width: 100%;">
+</a>
+</div>  
+    </div></div></div></div><div></div></div></div></div></div></div><div></div></div></div></div></aside></div></div><div></div></div></div></div></div></div></div><div></div></div></div></div></div></div></div><div></div></div></div></div></div></div></div><div></div></div></div></div></div>
+</div>
+
+<div id="Container_Zone_3" handle="footer" type="regular"></div>
+
+
+<div>
+<div><div><div><div><div style="width:100%"><div><section class="dark m-hide oryx-custom-clear"><div><div style=";border-style:none"><?xml version="1.0" encoding="utf-16"?><!-- googleoff: index --><div class="wrapper"><div class="heading-section h1class">MUST-SEE PROGRAMMES</div><article class=" item blurb  t1 d1"><h4 class="heading-section" style="padding-bottom:0px"><a class="showStrandName" href="/programmes/peopleandpower/">People & Power</a></h4><a href="/programmes/peopleandpower/2014/05/ukraine-dangerous-game-201451485934578156.html" onclick="sendGAEvent('Bottom Content','click','Program Highlights');" class="play"><img class="lazy" data-src="/mritems/imagecache/mbdresplarge/mritems/Images/2014/5/14//2014514131019630734_20.jpg" alt="Ukraine: A dangerous game" title="Ukraine: A dangerous game" src="/img/nov-2016/novresptopfeature.jpg"></a><h4><a href="/programmes/peopleandpower/2014/05/ukraine-dangerous-game-201451485934578156.html" style="text-transform: none;" onclick="sendGAEvent('Bottom Content','click','Program Highlights');">Ukraine: A dangerous game</a></h4><p>As crucial elections approach, is Ukraine really as divided as people have been told?</p><p class="meta"><a href="/topics/subjects/crimea.html">Crimea</a>, <a href="/topics/country/ukraine.html">Ukraine</a>, <a href="/topics/country/russia.html">Russia</a></p></article><article class=" item blurb  t2 d2"><h4 class="heading-section" style="padding-bottom:0px"><a class="showStrandName" href="/programmes/gaddafitheendgame/gaddafitheendgame.html">Gaddafi: The Endgame</a></h4><a href="/programmes/gaddafitheendgame/2011/12/2011128924117170.html" onclick="sendGAEvent('Bottom Content','click','Program Highlights');" class="play"><img class="lazy" data-src="/mritems/imagecache/mbdresplarge/mritems/Images/2011/12/8/201112885625275580_20.jpg" alt="Libya: State of Denial" title="Libya: State of Denial" src="/img/nov-2016/novresptopfeature.jpg"></a><h4><a href="/programmes/gaddafitheendgame/2011/12/2011128924117170.html" style="text-transform: none;" onclick="sendGAEvent('Bottom Content','click','Program Highlights');">Libya: State of Denial</a></h4><p>The story of the fall of Gaddafi as told by the insiders, defectors and military advisers who helped bring it about.</p><p class="meta"><a href="/topics/people/muammar-gaddafi.html">Muammar Gaddafi</a>, <a href="/topics/country/libya.html">Libya</a>, <a href="/topics/categories/politics.html">Politics</a></p></article><article class=" item blurb  t3 d3"><h4 class="heading-section" style="padding-bottom:0px"><a class="showStrandName" href="/programmes/talktojazeera/">Talk to Al Jazeera</a></h4><a href="/programmes/talktojazeera/2015/05/hailemariam-desalegn-democracy-election-150522074045193.html" onclick="sendGAEvent('Bottom Content','click','Program Highlights');" class="play"><img class="lazy" data-src="/mritems/imagecache/mbdresplarge/mritems/Images/2015/5/22/c551a037ac1d46b38ecf12ece7d1e3db_18.jpg" alt="Hailemariam Desalegn: Democracy 'not only an election'" title="Hailemariam Desalegn: Democracy 'not only an election'" src="/img/nov-2016/novresptopfeature.jpg"></a><h4><a href="/programmes/talktojazeera/2015/05/hailemariam-desalegn-democracy-election-150522074045193.html" style="text-transform: none;" onclick="sendGAEvent('Bottom Content','click','Program Highlights');">Hailemariam Desalegn: Democracy 'not only an election'</a></h4><p>The Ethiopian prime minister discusses democracy, human rights, press freedom and the future of his country.</p><p class="meta"><a href="/topics/categories/politics.html">Politics</a>, <a href="/topics/categories/human_rights.html">Human Rights</a>, <a href="/topics/country/ethiopia.html">Ethiopia</a></p></article><article class=" item blurb  t4 d4"><h4 class="heading-section" style="padding-bottom:0px"><a class="showStrandName" href="/programmes/">Programmes</a></h4><a href="/programmes/2011/08/201184144547798162.html" onclick="sendGAEvent('Bottom Content','click','Program Highlights');" class="play"><img class="lazy" data-src="/mritems/imagecache/mbdresplarge/mritems/Images/2011/7/29/2011729191150887734_20.jpg" alt="Bahrain: Shouting in the Dark" title="Bahrain: Shouting in the Dark" src="/img/nov-2016/novresptopfeature.jpg"></a><h4><a href="/programmes/2011/08/201184144547798162.html" style="text-transform: none;" onclick="sendGAEvent('Bottom Content','click','Program Highlights');">Bahrain: Shouting in the Dark</a></h4><p>The story of the Arab revolution that was abandoned by the Arabs, forsaken by the West and forgotten by the world.</p><p class="meta"><a href="/topics/country/bahrain.html">Bahrain</a>, <a href="/topics/regions/middleeast.html">Middle East</a>, <a href="/topics/subjects/arab-spring.html">Arab Spring</a></p></article></div><!-- googleon: index --></div></div></section><!--PageLoadedSucessfully--></div></div><div></div></div></div></div></div>
+</div>
+
+<div>
+<!-- googleoff: index -->
+<div><div><div><div><div style="width:100%"><div><div><div style=";border-style:none"><footer id="site-footer">
+	<div class="FooterTopBar">
+		<nav class="nav-social wrapper clearfix" id="footer-nav">
+			<p>
+				<a href="#"><!--[if (!IE) | (gt IE 8)]><!--></a><img alt="Al Jazeera" class="t1 da1" id="footer-logo" onerror="this.onerror=null; this.src='/mritems/images/site/logo-footer.png'" src="/mritems/images/site/aje-logo-white.svg"> <!--<![endif]--><!--[if lte IE 8]><img class="t1 da1" id="footer-logo" src="img/logo-footer.png" alt="Al Jazeera" /><![endif]--></p>
+			<ul class="ta1-t4 da2-da4" id="footer-nav-main">
+				<li>
+					<a href="/news/">News</a></li>
+				<li>
+					<a href="/programmes/">Programmes</a></li>
+				<li>
+					<a href="/indepth/opinion/">Opinion</a></li>
+				<li>
+					<a href="/aboutus/">About</a></li>
+				<li>
+					<a href="/investigations/">Investigations</a></li>
+				<li class="for-mobile" style="display: none;">
+					<a href="/contactus/">Contact Us</a></li>
+				<li class="last m-hide">
+					<a href="http://video.aljazeera.com/channels/eng" target="_blank">Video</a></li>
+			</ul>
+			<ul id="footer-nav-social">
+				<li>
+					<a class="icon-facebook" href="http://www.facebook.com/aljazeera" target="_blank">Facebook</a></li>
+				<li>
+					<a class="icon-twitter" href="http://twitter.com/ajenglish" target="_blank">Twitter</a></li>
+				<li>
+					<a class="icon-google" href="http://plus.google.com/+aljazeera" target="_blank">Google+</a></li>
+				<li>
+					<a class="icon-rss" href="/xml/rss/all.xml" target="_blank">RSS</a></li>
+				<li>
+					<a class="icon-pod" href="/programmes/Podcasts.html" target="_blank">Podcast</a></li>
+				<li>
+					<a class="icon-youtube" href="https://www.youtube.com/user/AlJazeeraEnglish?sub_confirmation=1" target="_blank">YouTube</a></li>
+				<li>
+					<a class="Snapchat" href="https://www.snapchat.com/add/AJENews">SnapChat</a></li>
+			</ul>
+		</nav>
+		<p class="copyright for-mobile" style="display: none;margin-left: 20px;">
+			© 2017 Al Jazeera Media Network</p>
+	</div>
+	<div class="wrapper m-hide clearfix">
+		<div class="ta1-ta2">
+			<nav class="m1 da1 da-clear">
+				<div class="heading-list h1class">
+					About</div>
+				<ul class="list">
+					<li>
+						<a href="/aboutus/">About Us</a></li>
+					<li>
+						<a href="http://pr.aljazeera.com/" target="_blank">Press Office</a></li>
+					<li>
+						<a href="/pressoffice/2012/04/2012416161854868952.html">Awards</a></li>
+					<li>
+						<a href="/aboutus/2006/11/2008525185733692771.html">Code of Ethics</a></li>
+					<li>
+						<a href="/aboutus/2011/01/20111168582648190.html">Terms and Conditions</a></li>
+					<li>
+						<a href="/aboutus/2011/01/201111681520872288.html">Community Guidelines</a></li>
+					<li>
+						<a href="http://careers.aljazeera.net/en/" target="_blank">Work for us</a></li>
+					<li>
+						<a href="/hraquality" target="_blank">HR Quality</a></li>
+				</ul>
+			</nav>
+			<nav class="m2 da2">
+				<div class="heading-list h1class">
+					Connect</div>
+				<ul class="list">
+					<li>
+						<a href="/contactus/">Contact Us</a></li>
+					<li>
+						<a href="/connect/">Apps</a></li>
+					<li>
+						<a href="/aboutus/follow-us.html">Social</a></li>
+					<li>
+						<a href="http://sat.aljazeera.net/en">Channel Finder</a></li>
+					<li>
+						<a href="/watch_now/epgschedule.html">TV Schedule</a></li>
+					<li>
+						<a href="/programmes/Podcasts.html">Podcasts</a></li>
+					<li>
+						<a href="/newsletter">Newsletter</a></li>
+				</ul>
+			</nav>
+		</div>
+		<div class="ta3-ta4">
+			<nav class="m1 da3">
+				<div class="heading-list h1class">
+					Our Channels</div>
+				<ul class="list">
+					<li>
+						<a href="http://aljazeera.net" target="_blank">Al Jazeera Arabic</a></li>
+					<li>
+						<a href="http://aljazeera.com" target="_blank">Al Jazeera English</a></li>
+					<li>
+						<a href="http://mubasher.aljazeera.net" target="_blank">Al Jazeera Mubasher</a></li>
+					<li>
+						<a href="http://doc.aljazeera.net" target="_blank">Al Jazeera Documentary</a></li>
+					<li>
+						<a href="http://balkans.aljazeera.net" target="_blank">Al Jazeera Balkans</a></li>
+					<li>
+						<a href="http://ajplus.net" target="_blank">AJ+</a></li>
+				</ul>
+			</nav>
+			<nav class="m2 da4">
+				<div class="heading-list h1class">
+					Our Network</div>
+				<ul class="list">
+					<li>
+						<a href="https://www.jetty.fm" target="_blank">Jetty</a></li>
+					<li>
+						<a href="http://studies.aljazeera.net/en/" target="_blank">Al Jazeera Centre for Studies</a></li>
+					<li>
+						<a href="http://training.aljazeera.net" target="_blank">Al Jazeera Media Institute</a></li>
+					<li>
+						<a href="http://liberties.aljazeera.com/en" target="_blank">Al Jazeera Centre for Public Liberties &amp; Human Rights</a></li>
+					<li>
+						<a href="http://forum.aljazeera.net" target="_blank">Al Jazeera Forum</a></li>
+					<li>
+						<a href="http://festival.aljazeera.net" target="_blank">Al Jazeera Film Festival</a></li>
+					<li>
+						<a href="http://learning.aljazeera.net" target="_blank">Al Jazeera Learning</a></li>
+					<li>
+						<a href="http://partners.aljazeera.net" target="_blank">Al Jazeera Hotel Partners</a></li>
+				</ul>
+			</nav>
+		</div>
+		<div class="ta5-ta6">
+			<nav class="m1 da5">
+				<div class="heading-list h1class">
+					&nbsp;</div>
+				<ul class="list">
+				</ul>
+			</nav>
+			<nav class="m2 da6">
+				<p class="copyright">
+					© 2018 Al Jazeera Media Network</p>
+			</nav>
+		</div>
+	</div>
+</footer>
+<p>
+	&nbsp;</p>
+</div></div><!--PageLoadedSucessfully--></div></div><div></div></div></div></div></div>
+<!-- googleon: index -->
+</div>
+</div>
+
+<!-- footer tags -->
+<!-- Article Footer INC -->
+<script type="text/javascript" src="/assets/scripts/jquery.lazy.min.js"></script>
+<script type="text/javascript" src="/assets/scripts/jquery.lazy.plugins.min.js" async></script>
+
+<script> 
+        $(function() {   
+            $('img.lazy').lazy({
+                effect: "fadeIn",
+                effectTime: 1000,
+		defaultImage: "http://www.aljazeera.com/img/nov-2016/novresptopfeature.jpg",
+		visibleOnly: true
+                
+            });
+        });
+
+    </script>
+
+ <div class="TopAdContainer" id="topdivad" style="display:none;">
+<div id="topad">
+<div id="div-gpt-ad-1430377943388-0">  
+ <script type="text/javascript">
+googletag.cmd.push(function() { 
+googletag.display('div-gpt-ad-1430377943388-0'); 
+});
+</script>
+</div>
+</div>
+</div>
+
+<div id="rightlongad" style="display:none;">
+<div id="div-gpt-ad-1430377943388-1">  
+ <script type="text/javascript">	
+googletag.cmd.push(function() { 
+googletag.display('div-gpt-ad-1430377943388-1'); 
+});
+</script>
+</div>
+</div>
+
+<div id="rightbottomad" style="display:none;">
+<div id="div-gpt-ad-1430377943388-4">  
+ <script type="text/javascript">	
+googletag.cmd.push(function() { 
+googletag.display('div-gpt-ad-1430377943388-4'); 
+});
+</script>
+</div>
+</div>
+
+<script type="text/javascript">
+	try {
+	$('.topadcontainer').remove();
+        $('#topdivad').insertAfter('#oryxcontext');
+	document.getElementById("topdivad").style.display = "block";
+if (document.getElementById("toprightlongad")!= null){
+	var RightDiv = document.getElementById("toprightlongad");
+	RightDiv.innerHTML = document.getElementById("rightlongad").innerHTML;  
+	document.getElementById("rightlongad").innerHTML = "";
+}
+$( document ).ready(function() {
+    if (document.getElementById("ArticleSecAd")!= null){
+	var RightboDiv = document.getElementById("ArticleSecAd");
+	RightboDiv.innerHTML = document.getElementById("rightbottomad").innerHTML;  
+	document.getElementById("rightbottomad").innerHTML = "";
+}
+});
+
+
+
+	$('#div-gpt-ad-1430377943388-2').remove();
+	}
+	catch(err) {
+    		
+	}
+</script>
+<!-- In article ads video -->
+<div id="div-gpt-ad-1430377943388-3" style="display: none !important;">  
+ <script type="text/javascript">
+googletag.cmd.push(function() { 
+googletag.display('div-gpt-ad-1430377943388-3'); 
+});
+</script>
+</div>
+<!-- End In article ads video -->
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<!-- Google Code for Remarketing Tag -->
+<!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 944250150;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+var google_conversion_format = 3;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/944250150/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+<!-- End Of Google Code for Remarketing Tag -->
+
+<!-- Google Code for PVE Conversion Page -->
+<div style="display:none !important;">
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 944250150;
+var google_conversion_language = "en";
+var google_conversion_format = 3;
+var google_conversion_color = "ffffff";
+var google_conversion_label = "qHeuCOSxnF8QprqgwgM";
+var google_remarketing_only = false;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//www.googleadservices.com/pagead/conversion/944250150/?label=qHeuCOSxnF8QprqgwgM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+</div>
+<!-- End Of Google Code for PVE Conversion Page -->
+<script type="text/javascript" src="/assets/scripts/footer-general-run.js?x=41" async></script>
+<img src="https://px.c1exchange.com/pubpixel/1235873" height="1" width="1" style="display:none;"></img><!-- Programmes Articles Footer -->
+
+
+     <!--PageLoadedSucessfully-->
+    </form>
+</body>
+</html>

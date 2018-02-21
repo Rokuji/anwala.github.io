@@ -1,0 +1,2855 @@
+http://www.delish.com/holiday-recipes/thanksgiving/?src=soc_fcbks
+<!DOCTYPE html>
+<!--[if lt IE 7]><html
+class="no-js lt-ie9 lt-ie8 lt-ie7"><![endif]-->
+<!--[if IE 7]><html
+class="no-js lt-ie9 lt-ie8"><![endif]-->
+<!--[if IE 8]><html
+class="no-js lt-ie9"><![endif]-->
+<!--[if IE 9 ]><html
+lang="en" class="no-js ie9"><![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--><html
+lang="en" class="no-js"><!--<![endif]--><head><title>2017 Thanksgiving Dinner Recipes - Thanksgiving Menu Ideas</title><meta
+charset="utf-8" /><meta
+http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /><meta
+name="title" content="2017 Thanksgiving Dinner Recipes - Thanksgiving Menu Ideas" /><meta
+name="description" content="From traditional menus to our most creative ways to cook a turkey, Delish has ideas for tasty ways to make your Thanksgiving dinner a success." /><meta
+name="keywords" content="thanksgiving dinner, thanksgiving reicpes, thanksgiving menu, homemade recipes, decorating ideas" /><meta
+name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"><meta
+name="thumbnail" content="http://del.h-cdn.co/assets/15/46/1600x800/landscape-1447112761-delish-thanksgiving-best-ranch-turkey-recipe.jpg" /><link
+rel="icon" type="image/x-icon" href="//del.h-cdn.co/assets/delish/20180202221550/images/favicon.ico" /><link
+rel="apple-touch-icon-precomposed" sizes="114x114" href="//del.h-cdn.co/assets/delish/20180202221550/images/apple-touch-icon.png"><link
+rel="apple-touch-icon-precomposed" sizes="72x72" href="//del.h-cdn.co/assets/delish/20180202221550/images/apple-touch-icon.png"><link
+rel="apple-touch-icon-precomposed" href="//del.h-cdn.co/assets/delish/20180202221550/images/apple-touch-icon.png"><link
+rel="canonical" href="http://www.delish.com/holiday-recipes/thanksgiving/" /><meta
+property="fb:app_id" content="184150621627178" /><meta
+property="fb:pages" content="41937927436" /><meta
+property="og:type" content="website" /><meta
+property="og:site_name" content="Delish" /><meta
+property="og:url" content="http://www.delish.com/holiday-recipes/thanksgiving/" /><meta
+property="og:image" content="http://del.h-cdn.co/assets/15/46/1600x800/landscape-1447112761-delish-thanksgiving-best-ranch-turkey-recipe.jpg" /><meta
+property="og:image:url" content="http://del.h-cdn.co/assets/15/46/1600x800/landscape-1447112761-delish-thanksgiving-best-ranch-turkey-recipe.jpg" /><meta
+property="og:image:width" content = "1600" /><meta
+property="og:image:height" content = "800" /><meta
+property="article:publisher" content="https://www.facebook.com/delish" /><meta
+name="google-site-verification" content="iqfRmlNW421CECefNxAflrQCKNcJOPaFPLogVgRdd3w" /><meta
+name="auto-publish" content="" /><link
+rel="publisher" href="https://plus.google.com/+delish/posts" />
+ <script type="application/ld+json">{
+			"@context": "http://schema.org",
+			"@type": "ItemList",
+			"url": "http://www.delish.com/holiday-recipes/thanksgiving/",
+			"itemListElement": [
+									{
+						"@type": "ListItem",
+						"position": 1,
+						"url": "http://www.delish.com/holiday-recipes/thanksgiving/g1196/thanksgiving-turkey-recipes/"
+					},									{
+						"@type": "ListItem",
+						"position": 2,
+						"url": "http://www.delish.com/holiday-recipes/thanksgiving/g8/thanksgiving-appetizers/"
+					},									{
+						"@type": "ListItem",
+						"position": 3,
+						"url": "http://www.delish.com/holiday-recipes/thanksgiving/g2574/holiday-pies-desserts-recipes/"
+					},									{
+						"@type": "ListItem",
+						"position": 4,
+						"url": "http://www.delish.com/holiday-recipes/g248/easy-thanksgiving-side-dishes/"
+					},									{
+						"@type": "ListItem",
+						"position": 5,
+						"url": "http://www.delish.com/holiday-recipes/thanksgiving/g3558/roasted-sweet-potatoes/"
+					},									{
+						"@type": "ListItem",
+						"position": 6,
+						"url": "http://www.delish.com/holiday-recipes/thanksgiving/g3559/cheesy-potatoes/"
+					},									{
+						"@type": "ListItem",
+						"position": 7,
+						"url": "http://www.delish.com/holiday-recipes/thanksgiving/g3561/potato-gratin/"
+					},									{
+						"@type": "ListItem",
+						"position": 8,
+						"url": "http://www.delish.com/holiday-recipes/thanksgiving/g622/sweet-potato-recipes/"
+					},									{
+						"@type": "ListItem",
+						"position": 9,
+						"url": "http://www.delish.com/holiday-recipes/thanksgiving/g3763/thanksgiving-pies/"
+					},									{
+						"@type": "ListItem",
+						"position": 10,
+						"url": "http://www.delish.com/holiday-recipes/thanksgiving/g3571/thanksgiving-cookies/"
+					},									{
+						"@type": "ListItem",
+						"position": 11,
+						"url": "http://www.delish.com/holiday-recipes/thanksgiving/g309/fresh-cranberries/"
+					},									{
+						"@type": "ListItem",
+						"position": 12,
+						"url": "http://www.delish.com/holiday-recipes/thanksgiving/g3577/cranberry-cakes/"
+					},									{
+						"@type": "ListItem",
+						"position": 13,
+						"url": "http://www.delish.com/holiday-recipes/thanksgiving/g3563/oven-roasted-potatoes/"
+					},									{
+						"@type": "ListItem",
+						"position": 14,
+						"url": "http://www.delish.com/holiday-recipes/thanksgiving/g3565/fried-potatoes/"
+					},									{
+						"@type": "ListItem",
+						"position": 15,
+						"url": "http://www.esquire.com/food-drink/food/a13857175/thanksgiving-food-ranked/"
+					},									{
+						"@type": "ListItem",
+						"position": 16,
+						"url": "http://www.delish.com/holiday-recipes/thanksgiving/videos/a56862/macys-thanksgiving-day-parade-new-floats/"
+					},									{
+						"@type": "ListItem",
+						"position": 17,
+						"url": "http://www.delish.com/holiday-recipes/thanksgiving/g3568/cranberry-relish/"
+					},									{
+						"@type": "ListItem",
+						"position": 18,
+						"url": "http://www.delish.com/holiday-recipes/thanksgiving/g3137/last-minute-thanksgiving-appetizers/"
+					},									{
+						"@type": "ListItem",
+						"position": 19,
+						"url": "http://www.delish.com/holiday-recipes/thanksgiving/g2488/leftover-turkey-recipes/"
+					},									{
+						"@type": "ListItem",
+						"position": 20,
+						"url": "http://www.delish.com/holiday-recipes/thanksgiving/g3579/oreo-turkeys/"
+					},									{
+						"@type": "ListItem",
+						"position": 21,
+						"url": "http://www.delish.com/holiday-recipes/thanksgiving/g3564/potato-casserole/"
+					},									{
+						"@type": "ListItem",
+						"position": 22,
+						"url": "http://www.delish.com/holiday-recipes/thanksgiving/g3588/thanksgiving-punches/"
+					},									{
+						"@type": "ListItem",
+						"position": 23,
+						"url": "http://www.delish.com/holiday-recipes/thanksgiving/g3011/thanksgiving-cocktails/"
+					},									{
+						"@type": "ListItem",
+						"position": 24,
+						"url": "http://www.delish.com/holiday-recipes/thanksgiving/a44899/how-long-cook-turkey/"
+					}							]
+		}</script>  <script>/* Modernizr 2.8.3 (Custom Build) | MIT & BSD
+	* Build: http://modernizr.com/download/#-flexbox-csstransforms-csstransforms3d-csstransitions-inlinesvg-svg-touch-shiv-mq-cssclasses-addtest-prefixed-teststyles-testprop-testallprops-prefixes-domprefixes
+	*/
+	;window.Modernizr=function(a,b,c){function B(a){j.cssText=a}function C(a,b){return B(m.join(a+";")+(b||""))}function D(a,b){return typeof a===b}function E(a,b){return!!~(""+a).indexOf(b)}function F(a,b){for(var d in a){var e=a[d];if(!E(e,"-")&&j[e]!==c)return b=="pfx"?e:!0}return!1}function G(a,b,d){for(var e in a){var f=b[a[e]];if(f!==c)return d===!1?a[e]:D(f,"function")?f.bind(d||b):f}return!1}function H(a,b,c){var d=a.charAt(0).toUpperCase()+a.slice(1),e=(a+" "+o.join(d+" ")+d).split(" ");return D(b,"string")||D(b,"undefined")?F(e,b):(e=(a+" "+p.join(d+" ")+d).split(" "),G(e,b,c))}var d="2.8.3",e={},f=!0,g=b.documentElement,h="modernizr",i=b.createElement(h),j=i.style,k,l={}.toString,m=" -webkit- -moz- -o- -ms- ".split(" "),n="Webkit Moz O ms",o=n.split(" "),p=n.toLowerCase().split(" "),q={svg:"http://www.w3.org/2000/svg"},r={},s={},t={},u=[],v=u.slice,w,x=function(a,c,d,e){var f,i,j,k,l=b.createElement("div"),m=b.body,n=m||b.createElement("body");if(parseInt(d,10))while(d--)j=b.createElement("div"),j.id=e?e[d]:h+(d+1),l.appendChild(j);return f=["&#173;",'<style id="s',h,'">',a,"</style>"].join(""),l.id=h,(m?l:n).innerHTML+=f,n.appendChild(l),m||(n.style.background="",n.style.overflow="hidden",k=g.style.overflow,g.style.overflow="hidden",g.appendChild(n)),i=c(l,a),m?l.parentNode.removeChild(l):(n.parentNode.removeChild(n),g.style.overflow=k),!!i},y=function(b){var c=a.matchMedia||a.msMatchMedia;if(c)return c(b)&&c(b).matches||!1;var d;return x("@media "+b+" { #"+h+" { position: absolute; } }",function(b){d=(a.getComputedStyle?getComputedStyle(b,null):b.currentStyle)["position"]=="absolute"}),d},z={}.hasOwnProperty,A;!D(z,"undefined")&&!D(z.call,"undefined")?A=function(a,b){return z.call(a,b)}:A=function(a,b){return b in a&&D(a.constructor.prototype[b],"undefined")},Function.prototype.bind||(Function.prototype.bind=function(b){var c=this;if(typeof c!="function")throw new TypeError;var d=v.call(arguments,1),e=function(){if(this instanceof e){var a=function(){};a.prototype=c.prototype;var f=new a,g=c.apply(f,d.concat(v.call(arguments)));return Object(g)===g?g:f}return c.apply(b,d.concat(v.call(arguments)))};return e}),r.flexbox=function(){return H("flexWrap")},r.touch=function(){var c;return"ontouchstart"in a||a.DocumentTouch&&b instanceof DocumentTouch?c=!0:x(["@media (",m.join("touch-enabled),("),h,")","{#modernizr{top:9px;position:absolute}}"].join(""),function(a){c=a.offsetTop===9}),c},r.csstransforms=function(){return!!H("transform")},r.csstransforms3d=function(){var a=!!H("perspective");return a&&"webkitPerspective"in g.style&&x("@media (transform-3d),(-webkit-transform-3d){#modernizr{left:9px;position:absolute;height:3px;}}",function(b,c){a=b.offsetLeft===9&&b.offsetHeight===3}),a},r.csstransitions=function(){return H("transition")},r.svg=function(){return!!b.createElementNS&&!!b.createElementNS(q.svg,"svg").createSVGRect},r.inlinesvg=function(){var a=b.createElement("div");return a.innerHTML="<svg/>",(a.firstChild&&a.firstChild.namespaceURI)==q.svg};for(var I in r)A(r,I)&&(w=I.toLowerCase(),e[w]=r[I](),u.push((e[w]?"":"no-")+w));return e.addTest=function(a,b){if(typeof a=="object")for(var d in a)A(a,d)&&e.addTest(d,a[d]);else{a=a.toLowerCase();if(e[a]!==c)return e;b=typeof b=="function"?b():b,typeof f!="undefined"&&f&&(g.className+=" "+(b?"":"no-")+a),e[a]=b}return e},B(""),i=k=null,function(a,b){function l(a,b){var c=a.createElement("p"),d=a.getElementsByTagName("head")[0]||a.documentElement;return c.innerHTML="x<style>"+b+"</style>",d.insertBefore(c.lastChild,d.firstChild)}function m(){var a=s.elements;return typeof a=="string"?a.split(" "):a}function n(a){var b=j[a[h]];return b||(b={},i++,a[h]=i,j[i]=b),b}function o(a,c,d){c||(c=b);if(k)return c.createElement(a);d||(d=n(c));var g;return d.cache[a]?g=d.cache[a].cloneNode():f.test(a)?g=(d.cache[a]=d.createElem(a)).cloneNode():g=d.createElem(a),g.canHaveChildren&&!e.test(a)&&!g.tagUrn?d.frag.appendChild(g):g}function p(a,c){a||(a=b);if(k)return a.createDocumentFragment();c=c||n(a);var d=c.frag.cloneNode(),e=0,f=m(),g=f.length;for(;e<g;e++)d.createElement(f[e]);return d}function q(a,b){b.cache||(b.cache={},b.createElem=a.createElement,b.createFrag=a.createDocumentFragment,b.frag=b.createFrag()),a.createElement=function(c){return s.shivMethods?o(c,a,b):b.createElem(c)},a.createDocumentFragment=Function("h,f","return function(){var n=f.cloneNode(),c=n.createElement;h.shivMethods&&("+m().join().replace(/[\w\-]+/g,function(a){return b.createElem(a),b.frag.createElement(a),'c("'+a+'")'})+");return n}")(s,b.frag)}function r(a){a||(a=b);var c=n(a);return s.shivCSS&&!g&&!c.hasCSS&&(c.hasCSS=!!l(a,"article,aside,dialog,figcaption,figure,footer,header,hgroup,main,nav,section{display:block}mark{background:#FF0;color:#000}template{display:none}")),k||q(a,c),a}var c="3.7.0",d=a.html5||{},e=/^<|^(?:button|map|select|textarea|object|iframe|option|optgroup)$/i,f=/^(?:a|b|code|div|fieldset|h1|h2|h3|h4|h5|h6|i|label|li|ol|p|q|span|strong|style|table|tbody|td|th|tr|ul)$/i,g,h="_html5shiv",i=0,j={},k;(function(){try{var a=b.createElement("a");a.innerHTML="<xyz></xyz>",g="hidden"in a,k=a.childNodes.length==1||function(){b.createElement("a");var a=b.createDocumentFragment();return typeof a.cloneNode=="undefined"||typeof a.createDocumentFragment=="undefined"||typeof a.createElement=="undefined"}()}catch(c){g=!0,k=!0}})();var s={elements:d.elements||"abbr article aside audio bdi canvas data datalist details dialog figcaption figure footer header hgroup main mark meter nav output progress section summary template time video",version:c,shivCSS:d.shivCSS!==!1,supportsUnknownElements:k,shivMethods:d.shivMethods!==!1,type:"default",shivDocument:r,createElement:o,createDocumentFragment:p};a.html5=s,r(b)}(this,b),e._version=d,e._prefixes=m,e._domPrefixes=p,e._cssomPrefixes=o,e.mq=y,e.testProp=function(a){return F([a])},e.testAllProps=H,e.testStyles=x,e.prefixed=function(a,b,c){return b?H(a,b,c):H(a,"pfx")},g.className=g.className.replace(/(^|\s)no-js(\s|$)/,"$1$2")+(f?" js "+u.join(" "):""),e}(this,this.document);
+
+	(function( Modernizr){
+		var mob = /Mobile|iP(hone|od|ad)|Android|BlackBerry|IEMobile|Kindle|NetFront|Silk-Accelerated|(hpw|web)OS|Fennec|Minimo|Opera M(obi|ini)|Blazer|Dolfin|Dolphin|Skyfire|Zune/ig,
+			ios = /iP(hone|od|ad)/ig,
+			ie = /MSIE|Trident/ig,
+			android = /Android/ig,
+			ua  = navigator.userAgent;
+
+		Modernizr.addTest("mobile", function(){
+			return mob.test( ua ) && Modernizr.mq("only screen and (min-width: 320px) and (max-width: 639px)");
+		});
+
+		Modernizr.addTest("tablet", function(){
+			return mob.test( ua ) && ! Modernizr.mobile;
+		});
+
+		Modernizr.addTest("ie", function(){
+			return ie.test( ua );
+		});
+
+		Modernizr.addTest("ios", function() {
+			return ios.test( ua );
+		});
+
+		Modernizr.addTest("android", function() {
+			return android.test( ua );
+		});
+
+	})( Modernizr );</script> <link
+rel="stylesheet" href="//del.h-cdn.co/assets/delish/20180202221550/css/main.css" /><!--[if lte IE 8]> <script src="//del.h-cdn.co/assets/delish/20180202221550/libs/respond.min.js"></script> <![endif]--> <script id="dataLayer" type="text/javascript">var HRST = HRST || {};
+
+HRST.site = {
+	name:     "Delish",
+	prefix:   "delish",
+	domain:   "delish.com",
+	dartZone: "/4328/hdm.delish",
+};
+
+HRST.breakpoints = {"mobile":320,"mobile_w":480,"tablet":640,"tablet_w":768,"desktop":980,"desktop_w":1024};
+
+	HRST.videoPlayerUrl = "http://player.delish.com/player.js";
+
+HRST.article = {
+
+	sourceName: "",
+
+	syndicatingSite: "",
+
+	syndicateSiteOrigin: "",
+
+	wordCount: "",
+
+	universalID: "delish.sub-section7",
+
+	section: {
+		name:   "Holidays",
+		prefix: "holiday-recipes"
+	},
+
+	subSection: {
+		name:   "Best Thanksgiving Ever!",
+		prefix: "thanksgiving"
+	},
+
+	collection: [
+			],
+
+	sponsor: {
+		name: "",
+		type: "",
+		startDate: "",
+		expirationDate: "",
+		program: "",
+			},
+
+	movie:  "",
+
+	tvshow: "",
+
+	pageUrl: "",
+
+	canonicalUrl: "",
+
+	id: "",
+
+	contentID: "",
+
+	formerShareCount: "",
+
+	type: "",
+
+	template: "sub-section",
+
+	display: "sub-section",
+
+	title: "",
+
+	author: {
+		name: "",
+		role: ""
+	},
+
+	publishDate: {
+		year: "",
+		month: "",
+		day: "",
+		hour: "",
+		minute: ""
+	},
+
+	modifiedDate: {
+		year: "",
+		month: "",
+		day: "",
+		hour: "",
+		minute: ""
+	},
+
+	createDate: {
+		year: "",
+		month: "",
+		day: "",
+		hour: "",
+		minute: ""
+	},
+
+	image: {
+		thumb: "",
+		large: ""
+	},
+
+	adCategory: {
+		id: "",
+		name: "",
+		prefix: ""
+	},
+
+	tags: [
+			],
+
+	themes: [
+			],
+
+	
+	autoSocial: ""
+};
+
+HRST.landing = {
+	type: "sub-section",
+	header: "wide",
+	layout: "news",
+	value: {
+				name: "Best Thanksgiving Ever!",
+		type: ""
+	},
+	sponsor: {
+		name: "",
+		type: "",
+		program: "",
+			}
+};
+
+HRST.targeting = {
+	site: "com",
+	sect: "holiday-recipes",
+	sub: "thanksgiving",
+	page: "thanksgiving",
+	cat: "",
+	tool: "landing",
+	artid: "",
+	clc:
+					""
+		,
+	type: "",
+	author: ""
+};
+
+HRST.datalayer = {
+	currency: "$",
+	pageType: "sub-section",
+	propertyName: "delish.com",
+	channelName: "Holidays",
+	subChannelName: "Best Thanksgiving Ever!",
+	contentTitle: "",
+	contentId: "",
+	canonicalUrl: "",
+	contentSource: "",
+	contentTopic: "",
+	contentPublishDate: "",
+	contentCollectionName:
+					""
+		,
+	contentAuthor: "",
+	articleLength: "",
+	photoNonInteraction: "true",
+	photoId: "",
+	photoLocation: "",
+	gallerySize: "",
+	syndicationRights: "",
+	themes: [
+			],
+	autoSocial: "",
+	numSearchResults: "",
+	contentType: ""
+		};
+
+HRST.contentTesting = {
+	url: "https://upweb.hdmtools.com",
+	streamUrl: "http://upstream.hdmtools.com",
+	site: "delish"
+};</script> <script type="text/javascript">var mediaOsConfig = {"locale":"en_US"};</script> <script src="//del.h-cdn.co/assets/delish/20180202221550/libs/require-2.1.9.min.js" data-main="//del.h-cdn.co/assets/delish/20180202221550/js/rams.js"></script> <script type="text/javascript">( function( d ) {
+			var e = d.createElement( "script" );
+			if ( document.cookie.indexOf( "nsghtn=dev" ) > -1 ) {
+				e.src = d.location.protocol + "//nexus.ensighten.com/hearst/mag-dev/Bootstrap.js";
+			} else {
+				e.src = d.location.protocol + "//nexus.ensighten.com/hearst/mag/Bootstrap.js";
+			}
+			e.async = true;
+			d.getElementsByTagName( "head" )[0].appendChild( e );
+		}( document ) );</script> </head><body
+id="sub-section" class="" data-display="" ><div
+class="buzzing-recirc"
+data-enabled="1"			 			 data-section="holiday-recipes"		/><div
+id="themes-recirc"><div
+id="themes-recirc-transporter" data-stories="0"></div><div
+id="themes-recirc-left-rail" data-stories="0"></div><div
+id="themes-recirc-primary" data-stories="0"></div><div
+id="themes-recirc-secondary" data-stories="0"></div><div
+id="themes-recirc-end-of-content" data-stories="2" data-ad-enabled="1"></div></div><div
+class="gpt-tag gpt-tag-oop" id="gpt-ad-oop-1" data-oop="true"></div><div
+id="fb-root"></div> <script id="module-story--template" type="text/template"><% if ( typeof sponsorship !== "undefined" && _.isObject(sponsorship.sponsor) && typeof sponsorship.sponsor.sponsor_display_name !== "undefined" ) { %>
+		<div class="module-story" data-sponsor="<%= sponsorship.sponsor.sponsor_name %>" data-uid="<%= uid %>">
+		<% } else { %>
+		<div class="module-story" data-uid="<%= uid %>">
+		<% } %>
+			<a href="<%= url %>" class="module-story--link link" title="<%= _.escape(title) %>">
+				<div class="module-story--image">
+					<div class="module-story--image-inner">
+												<% if ( typeof images !== "undefined" ) { %>
+																<% var imageCuts = "";
+									_.each( images, function( value, key ) {
+										if ( key === _.keys( images )[0] ) {
+											imageCuts += "data-src=" + value.url + " data-cut=" + key;
+										}
+										imageCuts += " data-img" + key + "=" + value.url;
+									} );
+								%>
+								<img class="lazy-image swap-image" nopin="nopin" <%= imageCuts %> />
+						<% } else { %>
+							<% if ( image ) { %>
+								<% if ( typeof image !== "undefined" ) { %>
+									<img src="<%= image %>" nopin="nopin" />
+								<% } else if ( typeof type !== "undefined" ) { %>
+									<% if ( type == "gallery" ) { %>
+										<!-- content type icon start -->
+
+	<i class="icon link-icon icon-gallery module-story--icon"></i>
+<!-- content type icon end -->
+									<% } else { %>
+										<!-- content type icon start -->
+
+	<i class="icon link-icon icon-article module-story--icon"></i>
+<!-- content type icon end -->
+									<% } %>
+								<% } %>
+							<% } else { %>
+								<div class="nav-feed--image-inner no-image">
+																	<i class="icon icon-article module-story--icon link-icon"></i>
+																</div>
+							<% } %>
+						<% } %>
+					</div>
+				</div>
+
+				<div class="module-story--inner">
+					<div class="module-story--text">
+						<span class="module-story--title link-txt">
+						<% if ( typeof truncation !== "undefined" && ! truncation ) { %>
+							<%= title %>
+						<% } else { %>
+							<%= ( title.length > 50 ) ? title.substring(0, 50) + "&hellip;" : title %>
+						<% } %>
+						<% if ( typeof sponsorship !== "undefined" && _.isObject(sponsorship.sponsor) && typeof sponsorship.sponsor.sponsor_display_name !== "undefined" ) { %>
+							<% if ( sponsorship.sponsor_type == 1 ) { %>
+								<div class="module-story--sponsor link-txt">Delish + <%= sponsorship.sponsor.sponsor_display_name %><div>
+							<% } else if ( sponsorship.sponsor_type == 3 ) { %>
+								<div class="module-story--sponsor link-txt">Created by <%= sponsorship.sponsor.sponsor_display_name %></div>
+							<% } else if ( sponsorship.sponsor_type == 5 ) { %>
+								<div class="module-story--sponsor link-txt">Created by Delish for <%= sponsorship.sponsor.sponsor_display_name %></div>
+							<% } %>
+						<% } %>
+					</div>
+				</div>
+			</a>
+			<% if ( typeof sponsorship !== "undefined" && _.isObject(sponsorship.sponsor) && typeof sponsorship.sponsor.tracking_pixel !== "undefined" ) { %>
+				<img width="1" height="1" nopin="nopin" style="position:absolute;display:none" data-src="<%= sponsorship.sponsor.tracking_pixel %>"/>
+			<% } %>
+		</div></script> <div
+id="search-overlay"><div
+class="search-overlay-inner" role="search">
+<i
+class="icon icon-m icon-close01 search-layer-close"></i><form
+id="search-layer-form" name="search-layer-form" method="GET" action=""><div
+class="search-typeahead">
+<input
+type="text" value="" name="" class="search-text" id="search-text" placeholder="Search" autocomplete="off" size="" tabIndex="1" onfocus="this.value = this.value;" autofocus/></div></form><p
+class="search-label">Type to Search</p><div
+id="auto-complete-suggest--scrollable"><ul
+class="auto-complete-suggest slide-back"></ul></div></div></div><nav
+id="nav-panel" class="nav-panel" role="navigation"><ul
+id="nav-panel--scrollable" class="nav-panel--inner"><li>
+<a
+class="nav-panel--trigger nav-panel--panel--title link link-txt" href="#">Meals &amp; Cooking</a><ul
+class="nav-panel--panel">
+<a
+class="nav-panel--panel--close link" href="#"><i
+class="icon icon-m icon-arrow-left01 link-icon"></i></a><li><a
+class="nav-panel--panel--link link link-txt" href="/cooking/">Meals &amp; Cooking</a></li><li><a
+class="nav-panel--panel--link link link-txt" href="/recipes/">Recipe Finder</a></li><li><a
+class="nav-panel--panel--link link link-txt" href="/cooking/menus/">Menus</a></li><li><a
+class="nav-panel--panel--link link link-txt" href="/content/comfort-food/">Comfort Food</a></li><li><a
+class="nav-panel--panel--link link link-txt" href="/content/dessert-recipes/">Desserts</a></li><li><a
+class="nav-panel--panel--link link link-txt" href="/content/30-minute-meals/">Under 30 Minutes</a></li><li><a
+class="nav-panel--panel--link link link-txt" href="/content/cocktail-recipes/">Cocktails &amp; Drinks</a></li><li><a
+class="nav-panel--panel--link link link-txt" href="/content/dinner-ideas/">Dinner Ideas</a></li></ul></li><li>
+<a
+class="nav-panel--panel--title link link-txt" href="/food/">Food News</a></li><li>
+<a
+class="nav-panel--panel--title link link-txt" href="/entertaining/">Entertaining &amp; Parties</a></li><li>
+<a
+class="nav-panel--trigger nav-panel--panel--title link link-txt" href="#">Holidays</a><ul
+class="nav-panel--panel">
+<a
+class="nav-panel--panel--close link" href="#"><i
+class="icon icon-m icon-arrow-left01 link-icon"></i></a><li><a
+class="nav-panel--panel--link link link-txt" href="/holiday-recipes/">Holidays</a></li><li><a
+class="nav-panel--panel--link link link-txt" href="/holiday-recipes/halloween/">Halloween</a></li><li><a
+class="nav-panel--panel--link link link-txt" href="/holiday-recipes/thanksgiving/">Thanksgiving</a></li><li><a
+class="nav-panel--panel--link link link-txt" href="/holiday-recipes/christmas/">Christmas</a></li><li><a
+class="nav-panel--panel--link link link-txt" href="/holiday-recipes/hanukkah/">Hanukkah</a></li><li><a
+class="nav-panel--panel--link link link-txt" href="/holiday-recipes/valentines-day/">Valentine's Day</a></li><li><a
+class="nav-panel--panel--link link link-txt" href="/holiday-recipes/easter/">Easter</a></li><li><a
+class="nav-panel--panel--link link link-txt" href="/holiday-recipes/new-years/">New Year's Eve</a></li><li><a
+class="nav-panel--panel--link link link-txt" href="/holiday-recipes/cinco-de-mayo/">Cinco de Mayo</a></li></ul></li><li>
+<a
+class="nav-panel--trigger nav-panel--panel--title link link-txt" href="#">Kitchen Secrets</a><ul
+class="nav-panel--panel">
+<a
+class="nav-panel--panel--close link" href="#"><i
+class="icon icon-m icon-arrow-left01 link-icon"></i></a><li><a
+class="nav-panel--panel--link link link-txt" href="/kitchen-tools/kitchen-secrets/">Kitchen Secrets</a></li><li><a
+class="nav-panel--panel--link link link-txt" href="/cooking/a1299/delish-cooking-school-cookbook/">Delish Cooking School</a></li><li><a
+class="nav-panel--panel--link link link-txt" href="/cooking/g46/cupcake-decorating-ideas-delish-cupcakes-by-color">Delish Cupcakes by Color</a></li></ul></li><li>
+<a
+class="nav-panel--panel--title link link-txt" href="/restaurants/">Restaurants &amp; Chefs</a></li><li>
+<a
+class="nav-panel--panel--title link link-txt" href="/videos/">All Videos</a></li><li>
+<a
+class="nav-panel--panel--title link link-txt" href="https://preferences.hearstmags.com/brands/DEL/subscribe.aspx?authId=2A4EF382-C9E0-4874-9E59-E6C0897D0C18&maj=WNL&min=UNDEF" target="_blank">Newsletter</a></li><li>
+<a
+class="nav-panel--trigger nav-panel--panel--title link link-txt" href="#">Follow</a><ul
+class="nav-panel--panel">
+<a
+class="nav-panel--panel--close link" href="#"><i
+class="icon icon-m icon-arrow-left01 link-icon"></i></a><li><span
+class="nav-panel--panel--title">Follow</span></li><li
+class="nav-panel--panel--social-item nav-panel--panel--social-item-facebook">
+<a
+class="nav-panel--panel--link link" href="https://www.facebook.com/delish" target="_blank">
+<i
+class="icon icon-facebook link-icon"></i>
+<span
+class="link_txt">facebook</span>
+</a></li><li
+class="nav-panel--panel--social-item nav-panel--panel--social-item-twitter">
+<a
+class="nav-panel--panel--link link" href="https://twitter.com/delishdotcom" target="_blank">
+<i
+class="icon icon-twitter link-icon"></i>
+<span
+class="link_txt">twitter</span>
+</a></li><li
+class="nav-panel--panel--social-item nav-panel--panel--social-item-googleplus">
+<a
+class="nav-panel--panel--link link" href="https://plus.google.com/+delish/posts" target="_blank">
+<i
+class="icon icon-googleplus link-icon"></i>
+<span
+class="link_txt">google+</span>
+</a></li><li
+class="nav-panel--panel--social-item nav-panel--panel--social-item-pinterest">
+<a
+class="nav-panel--panel--link link" href="http://www.pinterest.com/Delish/?auto_follow=1" target="_blank">
+<i
+class="icon icon-pinterest link-icon"></i>
+<span
+class="link_txt">pinterest</span>
+</a></li><li
+class="nav-panel--panel--social-item nav-panel--panel--social-item-instagram">
+<a
+class="nav-panel--panel--link link" href="http://instagram.com/delish" target="_blank">
+<i
+class="icon icon-instagram link-icon"></i>
+<span
+class="link_txt">instagram</span>
+</a></li><li
+class="nav-panel--panel--social-item nav-panel--panel--social-item-youtube">
+<a
+class="nav-panel--panel--link link" href="https://www.youtube.com/c/delish?sub_confirmation=1" target="_blank">
+<i
+class="icon icon-youtube link-icon"></i>
+<span
+class="link_txt">youtube</span>
+</a></li></ul></li></ul>
+<a
+class="nav-panel--close link global-close-link" href="#"><i
+class="icon icon-m icon-close01 link-icon"></i></a>
+</nav><div
+id="site-wrapper" class="site-wrapper"><div
+class="header-content"><div
+id="social-follow" class="ready"><div
+class="social-module"><div
+class="social-follow--buttons"><div
+class="social-follow--button facebook">
+Like Us On Facebook<div
+class ="social-follow--facebook-wrapper"><div
+class="fb-like" data-href="https://developers.facebook.com/docs/plugins/" data-layout="button" data-action="like" data-show-faces="false" data-share="false"></div></div></div><div
+class="social-follow--button twitter">
+Follow Us On Twitter<div
+class ="social-follow--buton-wrapper">
+<a
+class="twitter-follow-button" href="https://twitter.com/delishdotcom" data-show-count="false">delishdotcom</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script> </div></div><div
+class="social-follow--button pinterest">
+Follow Us On Pinterest
+<a
+data-pin-do="buttonFollow" href="http://www.pinterest.com/Delish//">Delish</a></div></div><div
+class="social-follow--close-container"><div
+class="social-follow--close"><i
+class="icon icon-close01 social-follow--close-icon"></i></div></div></div></div><div
+id="sticky-wrap">
+<nav
+class="nav "><div
+class="nav--inner "><div
+class="nav--menu">
+<i
+class="nav--link nav--open-panel icon icon-menu" data-tracking-id="nav-sidebar-open"></i>
+<a
+class="nav--logo link " href="/" >
+<svg
+version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+viewBox="0 0 1224 343.5" enable-background="new 0 0 1224 343.5" xml:space="preserve">
+<g
+fill="#FFFFFF">
+<path
+d="M170.4,55.8c0-29-5.6-37.3-26-47.2V7.7H248v277.3c0,27.3,2.2,34.2,20.8,46.4v0.9h-98.4v-53.7
+c-9.1,32.5-34.7,58.1-72.8,58.1c-50.3,0-91.4-42.5-91.4-109.2c0-69.3,43.3-114,97.1-114c35.5,0,58.1,19.9,67.2,48.5V55.8z
+M170.4,248.2v-49.4c0-39-19.5-64.1-41.6-64.1c-27.7,0-40.7,32.1-40.7,92.7c0,50.3,14.7,78.4,41.6,78.4
+C151.8,305.9,170.4,282.5,170.4,248.2z"/>
+<path
+d="M488.1,215.3H350.3c0,53.7,28.2,85.8,69.8,85.8c26.4,0,49.4-11.7,62.8-38.6l3,1.3c-12.6,46.4-51.6,72.8-101,72.8
+c-62,0-113.1-40.7-113.1-111.4c0-68,51.6-111.8,113.5-111.8C455.1,113.5,488.1,158.1,488.1,215.3z M413.5,206.2
+c0-48.5-3.5-85.4-28.2-85.4c-22.5,0-33.8,34.2-34.7,85.4H413.5z"/>
+<path
+d="M592.9,285.1c0,28.6,1.3,34.2,20.4,46.4v0.9H495.4v-0.9c18.6-12.1,19.9-17.8,19.9-46.4V55.8c0-29-5.2-37.3-25.6-47.2V7.7
+h103.1V285.1z"/>
+<path
+d="M723.3,285.1c0,28.6,1.3,34.2,20.4,46.4v0.9H625.4v-0.9c19.1-12.1,20.4-17.8,20.4-46.4V165.9c0-29.5-2.6-35.5-23-47.2v-0.9
+h100.5V285.1z M683.5,9c25.1,0,44.2,17.8,44.2,41.2s-19.1,41.6-44.2,41.6c-24.7,0-43.3-18.2-43.3-41.6S658.8,9,683.5,9z"/>
+<path
+d="M809.1,147.7c0,19.5,13.4,25.6,53.3,37.7c56.3,17.8,79.7,37.3,79.7,79.3c0,44.2-36,71.9-88,71.9c-29.9,0-50.3-9.1-65.9-9.1
+c-10.8,0-16,4.8-22.1,9.5l-4.8-79.3h0.9c24.7,46.4,53.7,71.5,91.9,71.5c21.2,0,36.8-10.4,36.8-31.2c0-22.1-19.1-27.7-51.6-37.7
+c-53.3-16.5-76.7-38.1-76.7-79.7c0-40.3,34.2-67.2,78.4-67.2c27.3,0,43.8,10.4,59.4,10.4c10,0,16.5-4.3,24.3-10.8v70.2H924
+c-19.1-37.3-52-62.4-82.8-62.4C821.7,120.8,809.1,131.7,809.1,147.7z"/>
+<path
+d="M1044,7.7v166.4c10.8-39,38.6-60.7,75.4-60.7c46.8,0,68.5,32.9,68.5,75v96.6c0,28.6,1.3,34.2,20.4,46.4v0.9h-117.9v-0.9
+c18.6-12.1,19.9-17.8,19.9-46.4v-98.8c0-19.9-8.7-36-29-36c-21.7,0-37.3,18.2-37.3,57.2v77.6c0,28.6,1.3,34.2,20.4,46.4v0.9H946.5
+v-0.9c18.6-12.1,19.9-17.8,19.9-46.4V55.8c0-29-5.2-37.3-25.6-47.2V7.7H1044z"/>
+</g>
+</svg></a></div><div
+class="nav--dynamic-content"><div
+class="nav--all-menus"><div
+class="nav--main-menu"><ul
+class="nav--primary" data-type="ajax"><li
+class="nav--primary--item">
+<a
+class="nav--primary--link link link-txt" href="/weeknight-dinners/">Easy Dinners</a></li><li
+class="nav--primary--item">
+<a
+class="nav--primary--link link link-txt" href="/content/dessert-recipes/">Desserts</a></li><li
+class="nav--primary--item">
+<a
+class="nav--primary--link link link-txt" href="/healthy-recipes/">Healthy</a></li><li
+class="nav--primary--item">
+<a
+class="nav--primary--link link link-txt" href="/best-cocktail-recipes/">Cocktails</a></li><li
+class="nav--primary--item">
+<a
+class="nav--primary--link link link-txt" href="/easy-kid-recipes/">Delish Kids</a></li></ul></div><div
+class="nav--sub-menu"><ul
+class="nav--secondary"><li
+class="nav--secondary--item item-follow">
+<a
+class="nav--secondary--link link link-txt" href="#">Follow</a><ul
+class="nav--secondary--link-list"><li
+class="nav--secondary--social-item nav--secondary--social-item-facebook">
+<a
+class="nav--secondary--link link" href="https://www.facebook.com/delish" target="_blank">
+<i
+class="icon icon-facebook link-icon"></i>
+</a></li><li
+class="nav--secondary--social-item nav--secondary--social-item-twitter">
+<a
+class="nav--secondary--link link" href="https://twitter.com/delishdotcom" target="_blank">
+<i
+class="icon icon-twitter link-icon"></i>
+</a></li><li
+class="nav--secondary--social-item nav--secondary--social-item-googleplus">
+<a
+class="nav--secondary--link link" href="https://plus.google.com/+delish/posts" target="_blank">
+<i
+class="icon icon-googleplus link-icon"></i>
+</a></li><li
+class="nav--secondary--social-item nav--secondary--social-item-pinterest">
+<a
+class="nav--secondary--link link" href="http://www.pinterest.com/Delish/?auto_follow=1" target="_blank">
+<i
+class="icon icon-pinterest link-icon"></i>
+</a></li><li
+class="nav--secondary--social-item nav--secondary--social-item-instagram">
+<a
+class="nav--secondary--link link" href="http://instagram.com/delish" target="_blank">
+<i
+class="icon icon-instagram link-icon"></i>
+</a></li><li
+class="nav--secondary--social-item nav--secondary--social-item-youtube">
+<a
+class="nav--secondary--link link" href="https://www.youtube.com/c/delish?sub_confirmation=1" target="_blank">
+<i
+class="icon icon-youtube link-icon"></i>
+</a></li></ul></li><li
+class="nav--secondary--item item-subscribe"></li></ul></div></div></div><div
+class="nav--item-search ">
+<i
+class="nav--link nav--open-search icon icon-search"></i></div></div>
+</nav></div><div
+class="swipeable-nav"><div
+class="swipeable-nav__shutter-lft disabled"></div><div
+class="swipeable-nav__shutter-rt disabled"></div><div
+class="swipeable-nav--inner "></div></div><div
+class="breaking-news" data-target="/food-news/a58220/chicken-nugget-festival-uk/" data-type="ajax"><div
+class="breaking-news--container">
+<a
+href="/food-news/a58220/chicken-nugget-festival-uk/" class="breaking-news--link link"><p
+class="link-txt">
+<span
+class="breaking-news--label">
+PACK YOUR BAGS!
+</span>
+<span
+class="breaking-news--headline">
+There's A Chicken Nugget Festival ...
+</span></p>
+</a></div></div></div><div
+class="page-container wide subsection"><div
+class="header landing-header-wide landing-header--subsection landing-header--standard default-marquee" ><style></style><div
+class="landing-header--container"><div
+class="landing-header--image-container  video "><div
+class="landing-header--image-inner-container">
+<img
+class="lazy-image swap-image    "
+data-img320="http://del.h-cdn.co/assets/16/45/480x480/landing-mobile-1478803516-delish-pie-marquee-01.jpg"
+data-img320-w = "480"
+data-img320-h = "480"
+data-cut=320
+src="//del.h-cdn.co/assets/delish/20180202221550/images/blank.png" data-src="http://del.h-cdn.co/assets/16/45/480x480/landing-mobile-1478803516-delish-pie-marquee-01.jpg" alt=""
+data-img480="http://del.h-cdn.co/assets/16/45/640x324/landing-tablet-1478803516-delish-pie-marquee-01.jpg"
+data-img480-w = "640"
+data-img480-h = "324"
+data-img640="http://del.h-cdn.co/assets/16/45/768x389/landing-tablet-1478803516-delish-pie-marquee-01.jpg"
+data-img640-w = "768"
+data-img640-h = "389"
+data-img768="http://del.h-cdn.co/assets/16/45/980x497/landing-tablet-1478803516-delish-pie-marquee-01.jpg"
+data-img768-w = "980"
+data-img768-h = "497"
+data-img980="http://del.h-cdn.co/assets/16/45/1280x390/landing-desktop-1478803516-delish-pie-marquee-01.jpg"
+data-img980-w = "1280"
+data-img980-h = "390"
+data-img1024="http://del.h-cdn.co/assets/16/45/2048x416/landing-wide-1478803516-delish-pie-marquee-01.jpg"
+data-img1024-w = "2048"
+data-img1024-h = "416"
+nopin="nopin"  /></div></div><div
+class="header-background"><div
+class="header-background--inner">
+<video
+class="header-background--video" autoplay loop muted>
+<source
+class="deferred-video" rel="http://del.h-cdn.co/assets/header/videos/delish-pie-marquee-02-1.webm" type="video/webm" />
+<source
+class="deferred-video" rel="http://del.h-cdn.co/assets/header/videos/delish-pie-marquee-02-1.mp4" type="video/mp4" />
+</video></div></div><div
+class="header--pattern"></div><div
+class="header--overlay "></div><div
+class="landing-header--content"><div
+class="landing-header--content-inner"><h1 class="landing-header--title">Best Thanksgiving Ever!</h1><h2 class="landing-header--subhead">Get stuffed.</h2></div></div></div></div><div
+class="landing-feed-container" data-feedtime="1518993331" data-type-id="7" data-type="subsection" data-template="standard"><div
+class="leaderboard"><div
+class="leaderboard--inner"><div
+class="gpt-tag" id="gpt-leaderboard-ad"></div></div></div><div
+id="page-1"
+class="page visible"
+data-template="subsection"
+data-id="7"
+data-landingTemplate="standard"
+data-pageNumber="1"
+data-headerDisplayType="wide"
+data-landingName="Best Thanksgiving Ever!"
+data-sectionHeadersEnabled="1"
+data-timestamp="1511191440"
+data-tracking-id="lpTrnsprtr"
+data-tracking-label="Best Thanksgiving Ever!"
+><div
+class="landing-feed--story story-with-v-ad landing-feed--pinned"><div
+class="landing-feed--story-inner"><div
+class="landing-feed--story-container" data-uid="gallery.1196"><div
+class="landing-feed--story-image">
+<a
+href="/holiday-recipes/thanksgiving/g1196/thanksgiving-turkey-recipes/" class="link story-image--link"><div
+class="story-image--inner">
+<img
+class="lazy-image swap-image    "
+data-img320="http://del.h-cdn.co/assets/15/46/480x240/landscape-1447112761-delish-thanksgiving-best-ranch-turkey-recipe.jpg"
+data-img320-w = "480"
+data-img320-h = "240"
+data-cut=320
+src="//del.h-cdn.co/assets/delish/20180202221550/images/blank.png" data-src="http://del.h-cdn.co/assets/15/46/480x240/landscape-1447112761-delish-thanksgiving-best-ranch-turkey-recipe.jpg" alt="Ranch-Seasoned Turkey"
+data-img980="http://del.h-cdn.co/assets/15/46/768x384/landscape-1447112761-delish-thanksgiving-best-ranch-turkey-recipe.jpg"
+data-img980-w = "768"
+data-img980-h = "384"
+nopin="nopin"  /></div>
+<i
+class="icon link-icon icon-gallery icon-xs icon-content-type"></i></a></div><div
+class="landing-feed--story-utils"><div
+class="landing-feed--story-section">
+<a
+class="landing-feed--story-section-name link link-txt" href="/holiday-recipes/thanksgiving/">Best Thanksgiving Ever!</a></div><div
+class="landing-feed--story-shares">
+<i
+class="icon icon-share"></i>
+<span
+class="landing-feed--story-shares-text">Share</span><div
+class="share landing-share share-bar"><div
+class="share-module " data-share-location="social-btns-feed"><ul
+class="share-module--buttons"><li
+class="share-module--button-wrap share-module--button-wrap-facebook "><div
+class="share-button share-button--facebook "
+data-content-id="5221" data-tracking-id="share-button-facebook" data-url="http://www.delish.com/entertaining-ideas/holidays/thanksgiving/thanksgiving-turkey-recipes" data-image="http://del.h-cdn.co/assets/15/46/1600x800/landscape-1447112761-delish-thanksgiving-best-ranch-turkey-recipe.jpg">
+<a
+class="share-button--link share-button--open-window link " title="Share on Facebook"
+href="//www.facebook.com/v2.10/dialog/feed?app_id=184150621627178&name=The+34+Best+Thanksgiving+Turkey+Recipes&description=Turkey+is+the+quintessential+superstar+of+the+Thanksgiving+dinner%2C+so+shouldn%27t+it+own+up+to+the+hype%3F&display=popup&link=http://www.delish.com/entertaining-ideas/holidays/thanksgiving/thanksgiving-turkey-recipes&picture=http://del.h-cdn.co/assets/15/46/1600x800/landscape-1447112761-delish-thanksgiving-best-ranch-turkey-recipe.jpg&redirect_uri=http://www.delish.com/entertaining-ideas/holidays/thanksgiving/thanksgiving-turkey-recipes&version=v2.10"
+target="_blank">
+<i
+class="share-button--icon icon icon-facebook link-icon"></i>
+</a></div></li><li
+class="share-module--button-wrap share-module--button-wrap-twitter "><div
+class="share-button share-button--twitter "
+data-content-id="5221" data-tracking-id="share-button-twitter" data-url="http://www.delish.com/entertaining-ideas/holidays/thanksgiving/thanksgiving-turkey-recipes" data-image="http://del.h-cdn.co/assets/15/46/1600x800/landscape-1447112761-delish-thanksgiving-best-ranch-turkey-recipe.jpg">
+<a
+class="share-button--link share-button--open-window link " title="Share on Twitter"
+target="_blank"
+href="//www.twitter.com/share?url=http://www.delish.com/entertaining-ideas/holidays/thanksgiving/thanksgiving-turkey-recipes&text=The%2034%20Best%20Thanksgiving%20Turkey%20Recipes&via=delishdotcom"
+data-site-handle="delishdotcom">
+<i
+class="share-button--icon icon icon-twitter link-icon"></i>
+</a></div></li><li
+class="share-module--button-wrap share-module--button-wrap-email "><div
+class="share-button share-button--email "
+data-content-id="5221" data-tracking-id="share-button-email" data-url="http://www.delish.com/entertaining-ideas/holidays/thanksgiving/thanksgiving-turkey-recipes" data-image="http://del.h-cdn.co/assets/15/46/1600x800/landscape-1447112761-delish-thanksgiving-best-ranch-turkey-recipe.jpg">
+<a
+class="share-button--link link " title="Email"
+href="mailto:?subject=The%2034%20Best%20Thanksgiving%20Turkey%20Recipes&body=http://www.delish.com/entertaining-ideas/holidays/thanksgiving/thanksgiving-turkey-recipes?src=social-email">
+<i
+class="share-button--icon icon icon-email link-icon"></i>
+</a></div></li></ul></div></div></div></div><div
+class="landing-feed--story-content">
+<a
+class="landing-feed--story-title link link-txt" href="/holiday-recipes/thanksgiving/g1196/thanksgiving-turkey-recipes/">The 34 Best Thanksgiving Turkey Recipes</a><div
+class="landing-feed--story-abstract">
+<span
+class="abstract-text">Bird is the word.</span></div></div></div><div
+class="landing-feed--ad-vertical"><div
+class="ad-gpt-main"><div
+class="gpt-tag " id="gpt-ad-vertical-top"></div></div></div></div></div><div
+class="landing-feed--story  landing-feed--pinned"><div
+class="landing-feed--story-inner"><div
+class="landing-feed--story-container" data-uid="gallery.8"><div
+class="landing-feed--story-image">
+<a
+href="/holiday-recipes/thanksgiving/g8/thanksgiving-appetizers/" class="link story-image--link"><div
+class="story-image--inner">
+<img
+class="lazy-image swap-image    "
+data-img320="http://del.h-cdn.co/assets/17/45/480x240/landscape-1510353729-delish-cranberry-brie-bites-still005.jpg"
+data-img320-w = "480"
+data-img320-h = "240"
+data-cut=320
+src="//del.h-cdn.co/assets/delish/20180202221550/images/blank.png" data-src="http://del.h-cdn.co/assets/17/45/480x240/landscape-1510353729-delish-cranberry-brie-bites-still005.jpg" alt="Cranberry Brie Bites"
+data-img980="http://del.h-cdn.co/assets/17/45/640x320/landscape-1510353729-delish-cranberry-brie-bites-still005.jpg"
+data-img980-w = "640"
+data-img980-h = "320"
+nopin="nopin"  /></div>
+<i
+class="icon link-icon icon-gallery icon-xs icon-content-type"></i></a></div><div
+class="landing-feed--story-utils"><div
+class="landing-feed--story-section">
+<a
+class="landing-feed--story-section-name link link-txt" href="/holiday-recipes/thanksgiving/">Best Thanksgiving Ever!</a></div><div
+class="landing-feed--story-shares">
+<i
+class="icon icon-share"></i>
+<span
+class="landing-feed--story-shares-text">Share</span><div
+class="share landing-share share-bar"><div
+class="share-module " data-share-location="social-btns-feed"><ul
+class="share-module--buttons"><li
+class="share-module--button-wrap share-module--button-wrap-facebook "><div
+class="share-button share-button--facebook "
+data-content-id="2378" data-tracking-id="share-button-facebook" data-url="http://www.delish.com/entertaining-ideas/holidays/thanksgiving/thanksgiving-appetizers" data-image="http://del.h-cdn.co/assets/17/45/1600x800/landscape-1510353729-delish-cranberry-brie-bites-still005.jpg">
+<a
+class="share-button--link share-button--open-window link " title="Share on Facebook"
+href="//www.facebook.com/v2.10/dialog/feed?app_id=184150621627178&name=The+114+Most+Delish+Thanksgiving+Appetizers&description=Warning%3A+They%27re+so+good%2C+you+might+not+make+it+to+turkey.+For+more+irresistible+hors+d%27oeuvres+ideas%2C+try+our+collection+of+perfectly+delectable+finger+foods+for+holiday+parties.&display=popup&link=http://www.delish.com/entertaining-ideas/holidays/thanksgiving/thanksgiving-appetizers&picture=http://del.h-cdn.co/assets/17/45/1600x800/landscape-1510353729-delish-cranberry-brie-bites-still005.jpg&redirect_uri=http://www.delish.com/entertaining-ideas/holidays/thanksgiving/thanksgiving-appetizers&version=v2.10"
+target="_blank">
+<i
+class="share-button--icon icon icon-facebook link-icon"></i>
+</a></div></li><li
+class="share-module--button-wrap share-module--button-wrap-twitter "><div
+class="share-button share-button--twitter "
+data-content-id="2378" data-tracking-id="share-button-twitter" data-url="http://www.delish.com/entertaining-ideas/holidays/thanksgiving/thanksgiving-appetizers" data-image="http://del.h-cdn.co/assets/17/45/1600x800/landscape-1510353729-delish-cranberry-brie-bites-still005.jpg">
+<a
+class="share-button--link share-button--open-window link " title="Share on Twitter"
+target="_blank"
+href="//www.twitter.com/share?url=http://www.delish.com/entertaining-ideas/holidays/thanksgiving/thanksgiving-appetizers&text=The%20114%20Most%20Delish%20Thanksgiving%20Appetizers&via=delishdotcom"
+data-site-handle="delishdotcom">
+<i
+class="share-button--icon icon icon-twitter link-icon"></i>
+</a></div></li><li
+class="share-module--button-wrap share-module--button-wrap-email "><div
+class="share-button share-button--email "
+data-content-id="2378" data-tracking-id="share-button-email" data-url="http://www.delish.com/entertaining-ideas/holidays/thanksgiving/thanksgiving-appetizers" data-image="http://del.h-cdn.co/assets/17/45/1600x800/landscape-1510353729-delish-cranberry-brie-bites-still005.jpg">
+<a
+class="share-button--link link " title="Email"
+href="mailto:?subject=The%20114%20Most%20Delish%20Thanksgiving%20Appetizers&body=http://www.delish.com/entertaining-ideas/holidays/thanksgiving/thanksgiving-appetizers?src=social-email">
+<i
+class="share-button--icon icon icon-email link-icon"></i>
+</a></div></li></ul></div></div></div></div><div
+class="landing-feed--story-content">
+<a
+class="landing-feed--story-title link link-txt" href="/holiday-recipes/thanksgiving/g8/thanksgiving-appetizers/">The 114 Most Delish Thanksgiving Appetizers</a><div
+class="landing-feed--story-abstract">
+<span
+class="abstract-text">Warning: They're so good, you might not make it to turkey.</span>
+<span
+class="byline--author " itemprop="author" itemscope itemtype="http://schema.org/Person">
+By
+<a
+href="http://www.delish.com/author/10328/sienna-fantozzi/" class="link link-txt byline--author-name" rel="author"><span >Sienna Fantozzi</span></a>		</span></div></div></div></div></div><div
+class="module-feed-collection " data-tracking-id="recirc-collection-primary" data-tracking-label="100+ Easy Fall Recipes"><div
+class="module module-collection--outer"><div
+class="module-label-outer" data-uid="collection.32"><div
+class="module-label module-label--collection"><div
+class="module-label--inner"><div
+class="module-label--title">
+<a
+class="module-label--link link link-txt" href="http://www.delish.com/fall-recipes/">
+100+ Easy Fall Recipes
+</a></div><div
+class="module-label--subtitle"><span
+class="module-feed-collection--count">20</span> articles</div></div></div></div><div
+class="module-story " data-uid="43038">
+<a
+href="/cooking/g1968/easy-apple-recipes/" class="module-story--link link" title="Easy Apple Recipes That Have Us Excited For Fall"><div
+class="module-story--image"><div
+class="module-story--image-inner">
+<img
+class="lazy-image swap-image    "
+data-img320="http://del.h-cdn.co/assets/17/36/320x160/landscape-1504909172-delish-caramel-apple-cake-still001.jpg"
+data-img320-w = "320"
+data-img320-h = "160"
+data-cut=320
+src="//del.h-cdn.co/assets/delish/20180202221550/images/blank.png" data-src="http://del.h-cdn.co/assets/17/36/320x160/landscape-1504909172-delish-caramel-apple-cake-still001.jpg" alt="Caramel Apple Cake"
+nopin="nopin"  /></div></div><div
+class="module-story--inner"><div
+class="module-story--text"><div
+class="module-story--category"></div>
+<span
+class="module-story--title link-txt">Easy Apple Recipes That Have Us Excited For Fall</span></div></div>
+</a></div><div
+class="module-story " data-uid="53660">
+<a
+href="/cooking/g3042/fall-slow-cooker-recipes/" class="module-story--link link" title="38 Hearty Fall Slow-Cooker Recipes"><div
+class="module-story--image"><div
+class="module-story--image-inner">
+<img
+class="lazy-image swap-image    "
+data-img320="http://del.h-cdn.co/assets/15/52/320x160/landscape-1450911978-slow-cooker-chili-mac-delish.jpg"
+data-img320-w = "320"
+data-img320-h = "160"
+data-cut=320
+src="//del.h-cdn.co/assets/delish/20180202221550/images/blank.png" data-src="http://del.h-cdn.co/assets/15/52/320x160/landscape-1450911978-slow-cooker-chili-mac-delish.jpg" alt=""
+nopin="nopin"  /></div></div><div
+class="module-story--inner"><div
+class="module-story--text"><div
+class="module-story--category"></div>
+<span
+class="module-story--title link-txt">38 Hearty Fall Slow-Cooker Recipes</span></div></div>
+</a></div><div
+class="module-story " data-uid="54515">
+<a
+href="/cooking/recipe-ideas/g3079/potato-soup/" class="module-story--link link" title="25 Perfect Potato Soups"><div
+class="module-story--image"><div
+class="module-story--image-inner">
+<img
+class="lazy-image swap-image    "
+data-img320="http://del.h-cdn.co/assets/15/41/320x160/landscape-1443816177-baked-potato-soup-delish.jpg"
+data-img320-w = "320"
+data-img320-h = "160"
+data-cut=320
+src="//del.h-cdn.co/assets/delish/20180202221550/images/blank.png" data-src="http://del.h-cdn.co/assets/15/41/320x160/landscape-1443816177-baked-potato-soup-delish.jpg" alt=""
+nopin="nopin"  /></div></div><div
+class="module-story--inner"><div
+class="module-story--text"><div
+class="module-story--category"></div>
+<span
+class="module-story--title link-txt">25 Perfect Potato Soups</span></div></div>
+</a></div></div></div><div
+class="landing-feed--story  landing-feed--pinned"><div
+class="landing-feed--story-inner"><div
+class="landing-feed--story-container" data-uid="gallery.2574"><div
+class="landing-feed--story-image">
+<a
+href="/holiday-recipes/thanksgiving/g2574/holiday-pies-desserts-recipes/" class="link story-image--link"><div
+class="story-image--inner">
+<img
+class="lazy-image swap-image    "
+data-img320="http://del.h-cdn.co/assets/15/46/480x240/landscape-1447434613-thanksgiving-pumpkin-cheesecake-lasagna-piece.jpg"
+data-img320-w = "480"
+data-img320-h = "240"
+data-cut=320
+src="//del.h-cdn.co/assets/delish/20180202221550/images/blank.png" data-src="http://del.h-cdn.co/assets/15/46/480x240/landscape-1447434613-thanksgiving-pumpkin-cheesecake-lasagna-piece.jpg" alt="Pumpkin Cheesecake Lasagna Piece Missing"
+data-img980="http://del.h-cdn.co/assets/15/46/640x320/landscape-1447434613-thanksgiving-pumpkin-cheesecake-lasagna-piece.jpg"
+data-img980-w = "640"
+data-img980-h = "320"
+nopin="nopin"  /></div>
+<i
+class="icon link-icon icon-gallery icon-xs icon-content-type"></i></a></div><div
+class="landing-feed--story-utils"><div
+class="landing-feed--story-section">
+<a
+class="landing-feed--story-section-name link link-txt" href="/holiday-recipes/thanksgiving/">Best Thanksgiving Ever!</a></div><div
+class="landing-feed--story-shares">
+<i
+class="icon icon-share"></i>
+<span
+class="landing-feed--story-shares-text">Share</span><div
+class="share landing-share share-bar"><div
+class="share-module " data-share-location="social-btns-feed"><ul
+class="share-module--buttons"><li
+class="share-module--button-wrap share-module--button-wrap-facebook "><div
+class="share-button share-button--facebook "
+data-content-id="47476" data-tracking-id="share-button-facebook" data-url="http://www.delish.com/entertaining-ideas/holidays/thanksgiving/holiday-pies-desserts-recipes" data-image="http://del.h-cdn.co/assets/15/46/1280x640/landscape-1447434613-thanksgiving-pumpkin-cheesecake-lasagna-piece.jpg">
+<a
+class="share-button--link share-button--open-window link " title="Share on Facebook"
+href="//www.facebook.com/v2.10/dialog/feed?app_id=184150621627178&name=The+142+Most+Delish+Thanksgiving+Desserts&description=Dessert+is+the+point+of+the+holidays%2C+right%3FNeed+more+easy+food+ideas+for+the+holiday+season%3F+Check+out+our+collections+of+Thanksgiving+and+Christmas+recipes.&display=popup&link=http://www.delish.com/entertaining-ideas/holidays/thanksgiving/holiday-pies-desserts-recipes&picture=http://del.h-cdn.co/assets/15/46/1280x640/landscape-1447434613-thanksgiving-pumpkin-cheesecake-lasagna-piece.jpg&redirect_uri=http://www.delish.com/entertaining-ideas/holidays/thanksgiving/holiday-pies-desserts-recipes&version=v2.10"
+target="_blank">
+<i
+class="share-button--icon icon icon-facebook link-icon"></i>
+</a></div></li><li
+class="share-module--button-wrap share-module--button-wrap-twitter "><div
+class="share-button share-button--twitter "
+data-content-id="47476" data-tracking-id="share-button-twitter" data-url="http://www.delish.com/entertaining-ideas/holidays/thanksgiving/holiday-pies-desserts-recipes" data-image="http://del.h-cdn.co/assets/15/46/1280x640/landscape-1447434613-thanksgiving-pumpkin-cheesecake-lasagna-piece.jpg">
+<a
+class="share-button--link share-button--open-window link " title="Share on Twitter"
+target="_blank"
+href="//www.twitter.com/share?url=http://www.delish.com/entertaining-ideas/holidays/thanksgiving/holiday-pies-desserts-recipes&text=The%20142%20Most%20Delish%20Thanksgiving%20Desserts&via=delishdotcom"
+data-site-handle="delishdotcom">
+<i
+class="share-button--icon icon icon-twitter link-icon"></i>
+</a></div></li><li
+class="share-module--button-wrap share-module--button-wrap-email "><div
+class="share-button share-button--email "
+data-content-id="47476" data-tracking-id="share-button-email" data-url="http://www.delish.com/entertaining-ideas/holidays/thanksgiving/holiday-pies-desserts-recipes" data-image="http://del.h-cdn.co/assets/15/46/1280x640/landscape-1447434613-thanksgiving-pumpkin-cheesecake-lasagna-piece.jpg">
+<a
+class="share-button--link link " title="Email"
+href="mailto:?subject=The%20142%20Most%20Delish%20Thanksgiving%20Desserts&body=http://www.delish.com/entertaining-ideas/holidays/thanksgiving/holiday-pies-desserts-recipes?src=social-email">
+<i
+class="share-button--icon icon icon-email link-icon"></i>
+</a></div></li></ul></div></div></div></div><div
+class="landing-feed--story-content">
+<a
+class="landing-feed--story-title link link-txt" href="/holiday-recipes/thanksgiving/g2574/holiday-pies-desserts-recipes/">The 142 Most Delish Thanksgiving Desserts</a><div
+class="landing-feed--story-abstract">
+<span
+class="abstract-text">Thanksgiving treat addicts, you've come to the right place. </span>
+<span
+class="byline--author " itemprop="author" itemscope itemtype="http://schema.org/Person">
+By
+<a
+href="http://www.delish.com/author/10328/sienna-fantozzi/" class="link link-txt byline--author-name" rel="author"><span >Sienna Fantozzi</span></a>		</span></div></div></div></div></div><div
+class="landing-feed--story  landing-feed--pinned"><div
+class="landing-feed--story-inner"><div
+class="landing-feed--story-container" data-uid="gallery.248"><div
+class="landing-feed--story-image">
+<a
+href="/holiday-recipes/g248/easy-thanksgiving-side-dishes/" class="link story-image--link"><div
+class="story-image--inner">
+<img
+class="lazy-image swap-image    "
+data-img320="http://del.h-cdn.co/assets/16/46/480x240/landscape-1479335227-delish-beer-cheese-stuffing-05.jpg"
+data-img320-w = "480"
+data-img320-h = "240"
+data-cut=320
+src="//del.h-cdn.co/assets/delish/20180202221550/images/blank.png" data-src="http://del.h-cdn.co/assets/16/46/480x240/landscape-1479335227-delish-beer-cheese-stuffing-05.jpg" alt="Beer Cheese Stuffing"
+data-img980="http://del.h-cdn.co/assets/16/46/640x320/landscape-1479335227-delish-beer-cheese-stuffing-05.jpg"
+data-img980-w = "640"
+data-img980-h = "320"
+nopin="nopin"  /></div>
+<i
+class="icon link-icon icon-gallery icon-xs icon-content-type"></i></a></div><div
+class="landing-feed--story-utils"><div
+class="landing-feed--story-section">
+<a
+class="landing-feed--story-section-name link link-txt" href="/holiday-recipes/">Holidays</a></div><div
+class="landing-feed--story-shares">
+<i
+class="icon icon-share"></i>
+<span
+class="landing-feed--story-shares-text">Share</span><div
+class="share landing-share share-bar"><div
+class="share-module " data-share-location="social-btns-feed"><ul
+class="share-module--buttons"><li
+class="share-module--button-wrap share-module--button-wrap-facebook "><div
+class="share-button share-button--facebook "
+data-content-id="2859" data-tracking-id="share-button-facebook" data-url="http://www.delish.com/entertaining-ideas/holidays/thanksgiving/easy-thanksgiving-side-dishes-mslo1110" data-image="http://del.h-cdn.co/assets/16/46/1600x800/landscape-1479335227-delish-beer-cheese-stuffing-05.jpg">
+<a
+class="share-button--link share-button--open-window link " title="Share on Facebook"
+href="//www.facebook.com/v2.10/dialog/feed?app_id=184150621627178&name=The+149+Most+Delish+Thanksgiving+Sides&description=To+survive+the+cooking+marathon+that+invariably+accompanies+Thanksgiving+Day%2C+make+your+side-dish+selections+based+on+ease+as+well+as+flavor.+You+can+still+include+the+classics%2C+like+sweet+potatoes+and+stuffing%2C+plus+a+few+new+recipes+that%27ll+impress+and+please.+&display=popup&link=http://www.delish.com/entertaining-ideas/holidays/thanksgiving/easy-thanksgiving-side-dishes-mslo1110&picture=http://del.h-cdn.co/assets/16/46/1600x800/landscape-1479335227-delish-beer-cheese-stuffing-05.jpg&redirect_uri=http://www.delish.com/entertaining-ideas/holidays/thanksgiving/easy-thanksgiving-side-dishes-mslo1110&version=v2.10"
+target="_blank">
+<i
+class="share-button--icon icon icon-facebook link-icon"></i>
+</a></div></li><li
+class="share-module--button-wrap share-module--button-wrap-twitter "><div
+class="share-button share-button--twitter "
+data-content-id="2859" data-tracking-id="share-button-twitter" data-url="http://www.delish.com/entertaining-ideas/holidays/thanksgiving/easy-thanksgiving-side-dishes-mslo1110" data-image="http://del.h-cdn.co/assets/16/46/1600x800/landscape-1479335227-delish-beer-cheese-stuffing-05.jpg">
+<a
+class="share-button--link share-button--open-window link " title="Share on Twitter"
+target="_blank"
+href="//www.twitter.com/share?url=http://www.delish.com/entertaining-ideas/holidays/thanksgiving/easy-thanksgiving-side-dishes-mslo1110&text=The%20149%20Most%20Delish%20Thanksgiving%20Sides&via=delishdotcom"
+data-site-handle="delishdotcom">
+<i
+class="share-button--icon icon icon-twitter link-icon"></i>
+</a></div></li><li
+class="share-module--button-wrap share-module--button-wrap-email "><div
+class="share-button share-button--email "
+data-content-id="2859" data-tracking-id="share-button-email" data-url="http://www.delish.com/entertaining-ideas/holidays/thanksgiving/easy-thanksgiving-side-dishes-mslo1110" data-image="http://del.h-cdn.co/assets/16/46/1600x800/landscape-1479335227-delish-beer-cheese-stuffing-05.jpg">
+<a
+class="share-button--link link " title="Email"
+href="mailto:?subject=The%20149%20Most%20Delish%20Thanksgiving%20Sides&body=http://www.delish.com/entertaining-ideas/holidays/thanksgiving/easy-thanksgiving-side-dishes-mslo1110?src=social-email">
+<i
+class="share-button--icon icon icon-email link-icon"></i>
+</a></div></li></ul></div></div></div></div><div
+class="landing-feed--story-content">
+<a
+class="landing-feed--story-title link link-txt" href="/holiday-recipes/g248/easy-thanksgiving-side-dishes/">The 149 Most Delish Thanksgiving Sides</a><div
+class="landing-feed--story-abstract">
+<span
+class="abstract-text">These side dishes deserve main event status.</span>
+<span
+class="byline--author " itemprop="author" itemscope itemtype="http://schema.org/Person">
+By
+<a
+href="http://www.delish.com/author/10328/sienna-fantozzi/" class="link link-txt byline--author-name" rel="author"><span >Sienna Fantozzi</span></a>		</span></div></div></div></div></div><div
+class="ad-marketplace-horizontal"><div
+id="landing-marketplace-horizontal"></div></div><div
+class="landing-feed--story "><div
+class="landing-feed--story-inner"><div
+class="landing-feed--story-container" data-uid="gallery.3558"><div
+class="landing-feed--story-image">
+<a
+href="/holiday-recipes/thanksgiving/g3558/roasted-sweet-potatoes/" class="link story-image--link"><div
+class="story-image--inner">
+<img
+class="lazy-image swap-image    "
+data-img320="http://del.h-cdn.co/assets/16/32/480x240/landscape-1470851630-garlic-herb-roasted-sweet-potatoes2-srgb.jpg"
+data-img320-w = "480"
+data-img320-h = "240"
+data-cut=320
+src="//del.h-cdn.co/assets/delish/20180202221550/images/blank.png" data-src="http://del.h-cdn.co/assets/16/32/480x240/landscape-1470851630-garlic-herb-roasted-sweet-potatoes2-srgb.jpg" alt="Roasted Sweet Potatoes"
+data-img980="http://del.h-cdn.co/assets/16/32/640x320/landscape-1470851630-garlic-herb-roasted-sweet-potatoes2-srgb.jpg"
+data-img980-w = "640"
+data-img980-h = "320"
+nopin="nopin"  /></div>
+<i
+class="icon link-icon icon-gallery icon-xs icon-content-type"></i></a></div><div
+class="landing-feed--story-utils"><div
+class="landing-feed--story-section">
+<a
+class="landing-feed--story-section-name link link-txt" href="/holiday-recipes/thanksgiving/">Best Thanksgiving Ever!</a></div><div
+class="landing-feed--story-shares">
+<i
+class="icon icon-share"></i>
+<span
+class="landing-feed--story-shares-text">Share</span><div
+class="share landing-share share-bar"><div
+class="share-module " data-share-location="social-btns-feed"><ul
+class="share-module--buttons"><li
+class="share-module--button-wrap share-module--button-wrap-facebook "><div
+class="share-button share-button--facebook "
+data-content-id="61681" data-tracking-id="share-button-facebook" data-url="http://www.delish.com/holiday-recipes/thanksgiving/g3558/roasted-sweet-potatoes/" data-image="http://del.h-cdn.co/assets/16/32/768x384/landscape-1470851630-garlic-herb-roasted-sweet-potatoes2-srgb.jpg">
+<a
+class="share-button--link share-button--open-window link " title="Share on Facebook"
+href="//www.facebook.com/v2.10/dialog/feed?app_id=184150621627178&name=20+Crazy+Delicious+Ways+To+Roast+Sweet+Potatoes&description=It%27s+sweet+potato+season+and+we%27re+going+all+out.&display=popup&link=http://www.delish.com/holiday-recipes/thanksgiving/g3558/roasted-sweet-potatoes/&picture=http://del.h-cdn.co/assets/16/32/768x384/landscape-1470851630-garlic-herb-roasted-sweet-potatoes2-srgb.jpg&redirect_uri=http://www.delish.com/holiday-recipes/thanksgiving/g3558/roasted-sweet-potatoes/&version=v2.10"
+target="_blank">
+<i
+class="share-button--icon icon icon-facebook link-icon"></i>
+</a></div></li><li
+class="share-module--button-wrap share-module--button-wrap-twitter "><div
+class="share-button share-button--twitter "
+data-content-id="61681" data-tracking-id="share-button-twitter" data-url="http://www.delish.com/holiday-recipes/thanksgiving/g3558/roasted-sweet-potatoes/" data-image="http://del.h-cdn.co/assets/16/32/768x384/landscape-1470851630-garlic-herb-roasted-sweet-potatoes2-srgb.jpg">
+<a
+class="share-button--link share-button--open-window link " title="Share on Twitter"
+target="_blank"
+href="//www.twitter.com/share?url=http://www.delish.com/holiday-recipes/thanksgiving/g3558/roasted-sweet-potatoes/&text=20%20Crazy%20Delicious%20Ways%20To%20Roast%20Sweet%20Potatoes&via=delishdotcom"
+data-site-handle="delishdotcom">
+<i
+class="share-button--icon icon icon-twitter link-icon"></i>
+</a></div></li><li
+class="share-module--button-wrap share-module--button-wrap-email "><div
+class="share-button share-button--email "
+data-content-id="61681" data-tracking-id="share-button-email" data-url="http://www.delish.com/holiday-recipes/thanksgiving/g3558/roasted-sweet-potatoes/" data-image="http://del.h-cdn.co/assets/16/32/768x384/landscape-1470851630-garlic-herb-roasted-sweet-potatoes2-srgb.jpg">
+<a
+class="share-button--link link " title="Email"
+href="mailto:?subject=20%20Crazy%20Delicious%20Ways%20To%20Roast%20Sweet%20Potatoes&body=http://www.delish.com/holiday-recipes/thanksgiving/g3558/roasted-sweet-potatoes/?src=social-email">
+<i
+class="share-button--icon icon icon-email link-icon"></i>
+</a></div></li></ul></div></div></div></div><div
+class="landing-feed--story-content">
+<a
+class="landing-feed--story-title link link-txt" href="/holiday-recipes/thanksgiving/g3558/roasted-sweet-potatoes/">20 Crazy Delicious Ways To Roast Sweet Potatoes</a><div
+class="landing-feed--story-abstract">
+<span
+class="abstract-text">Sweet deal.</span>
+<span
+class="byline--author " itemprop="author" itemscope itemtype="http://schema.org/Person">
+By
+<a
+href="http://www.delish.com/author/10328/sienna-fantozzi/" class="link link-txt byline--author-name" rel="author"><span >Sienna Fantozzi</span></a>		</span></div></div></div></div></div><div
+class="landing-feed--story "><div
+class="landing-feed--story-inner"><div
+class="landing-feed--story-container" data-uid="gallery.3559"><div
+class="landing-feed--story-image">
+<a
+href="/holiday-recipes/thanksgiving/g3559/cheesy-potatoes/" class="link story-image--link"><div
+class="story-image--inner">
+<img
+class="lazy-image swap-image    "
+data-img320="http://del.h-cdn.co/assets/17/46/480x240/landscape-1510956760-delish-bloomin-baked-potato-still001.jpg"
+data-img320-w = "480"
+data-img320-h = "240"
+data-cut=320
+src="//del.h-cdn.co/assets/delish/20180202221550/images/blank.png" data-src="http://del.h-cdn.co/assets/17/46/480x240/landscape-1510956760-delish-bloomin-baked-potato-still001.jpg" alt="Bloomin&#039; Baked Potato"
+data-img980="http://del.h-cdn.co/assets/17/46/640x320/landscape-1510956760-delish-bloomin-baked-potato-still001.jpg"
+data-img980-w = "640"
+data-img980-h = "320"
+nopin="nopin"  /></div>
+<i
+class="icon link-icon icon-gallery icon-xs icon-content-type"></i></a></div><div
+class="landing-feed--story-utils"><div
+class="landing-feed--story-section">
+<a
+class="landing-feed--story-section-name link link-txt" href="/holiday-recipes/thanksgiving/">Best Thanksgiving Ever!</a></div><div
+class="landing-feed--story-shares">
+<i
+class="icon icon-share"></i>
+<span
+class="landing-feed--story-shares-text">Share</span><div
+class="share landing-share share-bar"><div
+class="share-module " data-share-location="social-btns-feed"><ul
+class="share-module--buttons"><li
+class="share-module--button-wrap share-module--button-wrap-facebook "><div
+class="share-button share-button--facebook "
+data-content-id="61686" data-tracking-id="share-button-facebook" data-url="http://www.delish.com/holiday-recipes/thanksgiving/g3559/cheesy-potatoes/" data-image="http://del.h-cdn.co/assets/17/46/1600x800/landscape-1510956760-delish-bloomin-baked-potato-still001.jpg">
+<a
+class="share-button--link share-button--open-window link " title="Share on Facebook"
+href="//www.facebook.com/v2.10/dialog/feed?app_id=184150621627178&name=34+Gooey%2C+Cheesy+Potato+Recipes+You%27ll+Die+Over&description=When+it+comes+to+cheese%2C+we+have+no+chill.&display=popup&link=http://www.delish.com/holiday-recipes/thanksgiving/g3559/cheesy-potatoes/&picture=http://del.h-cdn.co/assets/17/46/1600x800/landscape-1510956760-delish-bloomin-baked-potato-still001.jpg&redirect_uri=http://www.delish.com/holiday-recipes/thanksgiving/g3559/cheesy-potatoes/&version=v2.10"
+target="_blank">
+<i
+class="share-button--icon icon icon-facebook link-icon"></i>
+</a></div></li><li
+class="share-module--button-wrap share-module--button-wrap-twitter "><div
+class="share-button share-button--twitter "
+data-content-id="61686" data-tracking-id="share-button-twitter" data-url="http://www.delish.com/holiday-recipes/thanksgiving/g3559/cheesy-potatoes/" data-image="http://del.h-cdn.co/assets/17/46/1600x800/landscape-1510956760-delish-bloomin-baked-potato-still001.jpg">
+<a
+class="share-button--link share-button--open-window link " title="Share on Twitter"
+target="_blank"
+href="//www.twitter.com/share?url=http://www.delish.com/holiday-recipes/thanksgiving/g3559/cheesy-potatoes/&text=34%20Gooey%2C%20Cheesy%20Potato%20Recipes%20You%27ll%20Die%20Over&via=delishdotcom"
+data-site-handle="delishdotcom">
+<i
+class="share-button--icon icon icon-twitter link-icon"></i>
+</a></div></li><li
+class="share-module--button-wrap share-module--button-wrap-email "><div
+class="share-button share-button--email "
+data-content-id="61686" data-tracking-id="share-button-email" data-url="http://www.delish.com/holiday-recipes/thanksgiving/g3559/cheesy-potatoes/" data-image="http://del.h-cdn.co/assets/17/46/1600x800/landscape-1510956760-delish-bloomin-baked-potato-still001.jpg">
+<a
+class="share-button--link link " title="Email"
+href="mailto:?subject=34%20Gooey%2C%20Cheesy%20Potato%20Recipes%20You%27ll%20Die%20Over&body=http://www.delish.com/holiday-recipes/thanksgiving/g3559/cheesy-potatoes/?src=social-email">
+<i
+class="share-button--icon icon icon-email link-icon"></i>
+</a></div></li></ul></div></div></div></div><div
+class="landing-feed--story-content">
+<a
+class="landing-feed--story-title link link-txt" href="/holiday-recipes/thanksgiving/g3559/cheesy-potatoes/">34 Gooey, Cheesy Potato Recipes You'll Die Over</a><div
+class="landing-feed--story-abstract">
+<span
+class="abstract-text">Cheese + potatoes 4eva.</span>
+<span
+class="byline--author " itemprop="author" itemscope itemtype="http://schema.org/Person">
+By
+<a
+href="http://www.delish.com/author/10328/sienna-fantozzi/" class="link link-txt byline--author-name" rel="author"><span >Sienna Fantozzi</span></a>		</span></div></div></div></div></div><div
+class="landing-feed--story "><div
+class="landing-feed--story-inner"><div
+class="landing-feed--story-container" data-uid="gallery.3561"><div
+class="landing-feed--story-image">
+<a
+href="/holiday-recipes/thanksgiving/g3561/potato-gratin/" class="link story-image--link"><div
+class="story-image--inner">
+<img
+class="lazy-image swap-image    "
+data-img320="http://del.h-cdn.co/assets/16/39/480x240/landscape-1475269699-delish-potato-gratin-stacks-1.jpg"
+data-img320-w = "480"
+data-img320-h = "240"
+data-cut=320
+src="//del.h-cdn.co/assets/delish/20180202221550/images/blank.png" data-src="http://del.h-cdn.co/assets/16/39/480x240/landscape-1475269699-delish-potato-gratin-stacks-1.jpg" alt="potato gratin stacks"
+data-img980="http://del.h-cdn.co/assets/16/39/640x320/landscape-1475269699-delish-potato-gratin-stacks-1.jpg"
+data-img980-w = "640"
+data-img980-h = "320"
+nopin="nopin"  /></div>
+<i
+class="icon link-icon icon-gallery icon-xs icon-content-type"></i></a></div><div
+class="landing-feed--story-utils"><div
+class="landing-feed--story-section">
+<a
+class="landing-feed--story-section-name link link-txt" href="/holiday-recipes/thanksgiving/">Best Thanksgiving Ever!</a></div><div
+class="landing-feed--story-shares">
+<i
+class="icon icon-share"></i>
+<span
+class="landing-feed--story-shares-text">Share</span><div
+class="share landing-share share-bar"><div
+class="share-module " data-share-location="social-btns-feed"><ul
+class="share-module--buttons"><li
+class="share-module--button-wrap share-module--button-wrap-facebook "><div
+class="share-button share-button--facebook "
+data-content-id="61705" data-tracking-id="share-button-facebook" data-url="http://www.delish.com/holiday-recipes/thanksgiving/g3561/potato-gratin/" data-image="http://del.h-cdn.co/assets/16/39/1600x800/landscape-1475269699-delish-potato-gratin-stacks-1.jpg">
+<a
+class="share-button--link share-button--open-window link " title="Share on Facebook"
+href="//www.facebook.com/v2.10/dialog/feed?app_id=184150621627178&name=18+Potatoes+Au+Gratin+Recipes+That+Need+To+Be+On+Your+Holiday+Table&description=Of+all+the+ways+to+make+potatoes%2C+au+gratin+may+be+our+favorite.&display=popup&link=http://www.delish.com/holiday-recipes/thanksgiving/g3561/potato-gratin/&picture=http://del.h-cdn.co/assets/16/39/1600x800/landscape-1475269699-delish-potato-gratin-stacks-1.jpg&redirect_uri=http://www.delish.com/holiday-recipes/thanksgiving/g3561/potato-gratin/&version=v2.10"
+target="_blank">
+<i
+class="share-button--icon icon icon-facebook link-icon"></i>
+</a></div></li><li
+class="share-module--button-wrap share-module--button-wrap-twitter "><div
+class="share-button share-button--twitter "
+data-content-id="61705" data-tracking-id="share-button-twitter" data-url="http://www.delish.com/holiday-recipes/thanksgiving/g3561/potato-gratin/" data-image="http://del.h-cdn.co/assets/16/39/1600x800/landscape-1475269699-delish-potato-gratin-stacks-1.jpg">
+<a
+class="share-button--link share-button--open-window link " title="Share on Twitter"
+target="_blank"
+href="//www.twitter.com/share?url=http://www.delish.com/holiday-recipes/thanksgiving/g3561/potato-gratin/&text=18%20Potatoes%20Au%20Gratin%20Recipes%20That%20Need%20To%20Be%20On%20Your%20Holiday%20Table&via=delishdotcom"
+data-site-handle="delishdotcom">
+<i
+class="share-button--icon icon icon-twitter link-icon"></i>
+</a></div></li><li
+class="share-module--button-wrap share-module--button-wrap-email "><div
+class="share-button share-button--email "
+data-content-id="61705" data-tracking-id="share-button-email" data-url="http://www.delish.com/holiday-recipes/thanksgiving/g3561/potato-gratin/" data-image="http://del.h-cdn.co/assets/16/39/1600x800/landscape-1475269699-delish-potato-gratin-stacks-1.jpg">
+<a
+class="share-button--link link " title="Email"
+href="mailto:?subject=18%20Potatoes%20Au%20Gratin%20Recipes%20That%20Need%20To%20Be%20On%20Your%20Holiday%20Table&body=http://www.delish.com/holiday-recipes/thanksgiving/g3561/potato-gratin/?src=social-email">
+<i
+class="share-button--icon icon icon-email link-icon"></i>
+</a></div></li></ul></div></div></div></div><div
+class="landing-feed--story-content">
+<a
+class="landing-feed--story-title link link-txt" href="/holiday-recipes/thanksgiving/g3561/potato-gratin/">18 Potatoes Au Gratin Recipes That Need To Be On Your Holiday Table</a><div
+class="landing-feed--story-abstract">
+<span
+class="abstract-text">Move out the way, mashed potatoes.</span>
+<span
+class="byline--author " itemprop="author" itemscope itemtype="http://schema.org/Person">
+By
+<a
+href="http://www.delish.com/author/10328/sienna-fantozzi/" class="link link-txt byline--author-name" rel="author"><span >Sienna Fantozzi</span></a>		</span></div></div></div></div></div><div
+class="module module-must-read" data-tracking-id="recirc-standard-primary" data-tracking-label="Desserts"><div
+class="module module-must-read--inner"><div
+class="module-label-outer" data-uid=""><div
+class="module-label module-label--collection"><div
+class="module-label--inner"><div
+class="module-label--title">
+Desserts</div><div
+class="module-label--subtitle"></div></div></div></div><div
+class="module-story " data-uid="gallery.779">
+<a
+href="/cooking/g779/pumpkin-pie-recipes/" class="module-story--link link" title="44 Ways to Achieve Pumpkin Pie Perfection"><div
+class="module-story--image"><div
+class="module-story--image-inner">
+<img
+class="lazy-image swap-image    "
+data-img320="http://del.h-cdn.co/assets/15/45/320x160/landscape-1446756526-pumpkin-caramel-pie-2.jpg"
+data-img320-w = "320"
+data-img320-h = "160"
+data-cut=320
+src="//del.h-cdn.co/assets/delish/20180202221550/images/blank.png" data-src="http://del.h-cdn.co/assets/15/45/320x160/landscape-1446756526-pumpkin-caramel-pie-2.jpg" alt=""
+nopin="nopin"  /></div></div><div
+class="module-story--inner"><div
+class="module-story--text"><div
+class="module-story--category"></div>
+<span
+class="module-story--title link-txt">44 Ways to Achieve Pumpkin Pie Perfection</span></div></div>
+</a></div><div
+class="module-story " data-uid="gallery.66">
+<a
+href="/cooking/g66/pecan-pie-recipes/" class="module-story--link link" title="33 Heavenly Pecan Pies"><div
+class="module-story--image"><div
+class="module-story--image-inner">
+<img
+class="lazy-image swap-image    "
+data-img320="http://del.h-cdn.co/assets/15/45/320x160/landscape-1446755788-dark-chocolate-bourbon-pecan-pie-15.jpg"
+data-img320-w = "320"
+data-img320-h = "160"
+data-cut=320
+src="//del.h-cdn.co/assets/delish/20180202221550/images/blank.png" data-src="http://del.h-cdn.co/assets/15/45/320x160/landscape-1446755788-dark-chocolate-bourbon-pecan-pie-15.jpg" alt=""
+nopin="nopin"  /></div></div><div
+class="module-story--inner"><div
+class="module-story--text"><div
+class="module-story--category"></div>
+<span
+class="module-story--title link-txt">33 Heavenly Pecan Pies</span></div></div>
+</a></div><div
+class="module-story " data-uid="gallery.720">
+<a
+href="/cooking/g720/beyond-pie-pumpkin-desserts/" class="module-story--link link" title="71 Easy Pumpkin Desserts To Celebrate Fall"><div
+class="module-story--image"><div
+class="module-story--image-inner">
+<img
+class="lazy-image swap-image    "
+data-img320="http://del.h-cdn.co/assets/15/46/320x160/landscape-1447434613-thanksgiving-pumpkin-cheesecake-lasagna-piece.jpg"
+data-img320-w = "320"
+data-img320-h = "160"
+data-cut=320
+src="//del.h-cdn.co/assets/delish/20180202221550/images/blank.png" data-src="http://del.h-cdn.co/assets/15/46/320x160/landscape-1447434613-thanksgiving-pumpkin-cheesecake-lasagna-piece.jpg" alt="Pumpkin Cheesecake Lasagna Piece Missing"
+nopin="nopin"  /></div></div><div
+class="module-story--inner"><div
+class="module-story--text"><div
+class="module-story--category"></div>
+<span
+class="module-story--title link-txt">71 Easy Pumpkin Desserts To Celebrate Fall</span></div></div>
+</a></div><div
+class="module-story " data-uid="gallery.326">
+<a
+href="/cooking/g326/apple-pies/" class="module-story--link link" title="39 Amazing Variations on Homemade Apple Pie"><div
+class="module-story--image"><div
+class="module-story--image-inner">
+<img
+class="lazy-image swap-image    "
+data-img320="http://del.h-cdn.co/assets/16/39/320x160/landscape-1475270287-delish-crustless-apple-pies-01.jpg"
+data-img320-w = "320"
+data-img320-h = "160"
+data-cut=320
+src="//del.h-cdn.co/assets/delish/20180202221550/images/blank.png" data-src="http://del.h-cdn.co/assets/16/39/320x160/landscape-1475270287-delish-crustless-apple-pies-01.jpg" alt=""
+nopin="nopin"  /></div></div><div
+class="module-story--inner"><div
+class="module-story--text"><div
+class="module-story--category"></div>
+<span
+class="module-story--title link-txt">39 Amazing Variations on Homemade Apple Pie</span></div></div>
+</a></div></div></div><div
+class="landing-feed--story "><div
+class="landing-feed--story-inner"><div
+class="landing-feed--story-container" data-uid="gallery.622"><div
+class="landing-feed--story-image">
+<a
+href="/holiday-recipes/thanksgiving/g622/sweet-potato-recipes/" class="link story-image--link"><div
+class="story-image--inner">
+<img
+class="lazy-image swap-image    "
+data-img320="http://del.h-cdn.co/assets/16/44/480x240/landscape-1477962199-sweet-potato-bars-horizontal.jpg"
+data-img320-w = "480"
+data-img320-h = "240"
+data-cut=320
+src="//del.h-cdn.co/assets/delish/20180202221550/images/blank.png" data-src="http://del.h-cdn.co/assets/16/44/480x240/landscape-1477962199-sweet-potato-bars-horizontal.jpg" alt="Sweet Potato Bars Horizontal"
+data-img980="http://del.h-cdn.co/assets/16/44/640x320/landscape-1477962199-sweet-potato-bars-horizontal.jpg"
+data-img980-w = "640"
+data-img980-h = "320"
+nopin="nopin"  /></div>
+<i
+class="icon link-icon icon-gallery icon-xs icon-content-type"></i></a></div><div
+class="landing-feed--story-utils"><div
+class="landing-feed--story-section">
+<a
+class="landing-feed--story-section-name link link-txt" href="/holiday-recipes/thanksgiving/">Best Thanksgiving Ever!</a></div><div
+class="landing-feed--story-shares">
+<i
+class="icon icon-share"></i>
+<span
+class="landing-feed--story-shares-text">Share</span><div
+class="share landing-share share-bar"><div
+class="share-module " data-share-location="social-btns-feed"><ul
+class="share-module--buttons"><li
+class="share-module--button-wrap share-module--button-wrap-facebook "><div
+class="share-button share-button--facebook "
+data-content-id="3630" data-tracking-id="share-button-facebook" data-url="http://www.delish.com/recipes/cooking-recipes/sweet-potato-station-recipes" data-image="http://del.h-cdn.co/assets/16/44/1600x800/landscape-1477962199-sweet-potato-bars-horizontal.jpg">
+<a
+class="share-button--link share-button--open-window link " title="Share on Facebook"
+href="//www.facebook.com/v2.10/dialog/feed?app_id=184150621627178&name=60+Killer+Sweet+Potato+Recipes+To+Eat+This+Fall&description=This+is+how+you+eat+sweet+potatoes+all+day+long.+Want+more+fall+produce%3F+Try+these+stunning+butternut+squash+and+pumpkin+recipes.&display=popup&link=http://www.delish.com/recipes/cooking-recipes/sweet-potato-station-recipes&picture=http://del.h-cdn.co/assets/16/44/1600x800/landscape-1477962199-sweet-potato-bars-horizontal.jpg&redirect_uri=http://www.delish.com/recipes/cooking-recipes/sweet-potato-station-recipes&version=v2.10"
+target="_blank">
+<i
+class="share-button--icon icon icon-facebook link-icon"></i>
+</a></div></li><li
+class="share-module--button-wrap share-module--button-wrap-twitter "><div
+class="share-button share-button--twitter "
+data-content-id="3630" data-tracking-id="share-button-twitter" data-url="http://www.delish.com/recipes/cooking-recipes/sweet-potato-station-recipes" data-image="http://del.h-cdn.co/assets/16/44/1600x800/landscape-1477962199-sweet-potato-bars-horizontal.jpg">
+<a
+class="share-button--link share-button--open-window link " title="Share on Twitter"
+target="_blank"
+href="//www.twitter.com/share?url=http://www.delish.com/recipes/cooking-recipes/sweet-potato-station-recipes&text=60%20Killer%20Sweet%20Potato%20Recipes%20To%20Eat%20This%20Fall&via=delishdotcom"
+data-site-handle="delishdotcom">
+<i
+class="share-button--icon icon icon-twitter link-icon"></i>
+</a></div></li><li
+class="share-module--button-wrap share-module--button-wrap-email "><div
+class="share-button share-button--email "
+data-content-id="3630" data-tracking-id="share-button-email" data-url="http://www.delish.com/recipes/cooking-recipes/sweet-potato-station-recipes" data-image="http://del.h-cdn.co/assets/16/44/1600x800/landscape-1477962199-sweet-potato-bars-horizontal.jpg">
+<a
+class="share-button--link link " title="Email"
+href="mailto:?subject=60%20Killer%20Sweet%20Potato%20Recipes%20To%20Eat%20This%20Fall&body=http://www.delish.com/recipes/cooking-recipes/sweet-potato-station-recipes?src=social-email">
+<i
+class="share-button--icon icon icon-email link-icon"></i>
+</a></div></li></ul></div></div></div></div><div
+class="landing-feed--story-content">
+<a
+class="landing-feed--story-title link link-txt" href="/holiday-recipes/thanksgiving/g622/sweet-potato-recipes/">60 Killer Sweet Potato Recipes To Eat This Fall</a><div
+class="landing-feed--story-abstract">
+<span
+class="abstract-text">You'll be eating them for breakfast, lunch, dinner, and dessert.</span></div></div></div></div></div><div
+class="landing-feed--story "><div
+class="landing-feed--story-inner"><div
+class="landing-feed--story-container" data-uid="gallery.3763"><div
+class="landing-feed--story-image">
+<a
+href="/holiday-recipes/thanksgiving/g3763/thanksgiving-pies/" class="link story-image--link"><div
+class="story-image--inner">
+<img
+class="lazy-image swap-image    "
+data-img320="http://del.h-cdn.co/assets/16/46/480x240/landscape-1479158042-delish-samoa-pie.jpg"
+data-img320-w = "480"
+data-img320-h = "240"
+data-cut=320
+src="//del.h-cdn.co/assets/delish/20180202221550/images/blank.png" data-src="http://del.h-cdn.co/assets/16/46/480x240/landscape-1479158042-delish-samoa-pie.jpg" alt="Samoa Pie Recipe"
+data-img980="http://del.h-cdn.co/assets/16/46/640x320/landscape-1479158042-delish-samoa-pie.jpg"
+data-img980-w = "640"
+data-img980-h = "320"
+nopin="nopin"  /></div>
+<i
+class="icon link-icon icon-gallery icon-xs icon-content-type"></i></a></div><div
+class="landing-feed--story-utils"><div
+class="landing-feed--story-section">
+<a
+class="landing-feed--story-section-name link link-txt" href="/holiday-recipes/thanksgiving/">Best Thanksgiving Ever!</a></div><div
+class="landing-feed--story-shares">
+<i
+class="icon icon-share"></i>
+<span
+class="landing-feed--story-shares-text">Share</span><div
+class="share landing-share share-bar"><div
+class="share-module " data-share-location="social-btns-feed"><ul
+class="share-module--buttons"><li
+class="share-module--button-wrap share-module--button-wrap-facebook "><div
+class="share-button share-button--facebook "
+data-content-id="63904" data-tracking-id="share-button-facebook" data-url="http://www.delish.com/holiday-recipes/thanksgiving/g3763/thanksgiving-pies/" data-image="http://del.h-cdn.co/assets/16/46/1600x800/landscape-1479158042-delish-samoa-pie.jpg">
+<a
+class="share-button--link share-button--open-window link " title="Share on Facebook"
+href="//www.facebook.com/v2.10/dialog/feed?app_id=184150621627178&name=123+Ultimate+Thanksgiving+Pies&description=Before+you+plan+your+Thanksgiving+menu%2C+you+need+to+check+this+list.&display=popup&link=http://www.delish.com/holiday-recipes/thanksgiving/g3763/thanksgiving-pies/&picture=http://del.h-cdn.co/assets/16/46/1600x800/landscape-1479158042-delish-samoa-pie.jpg&redirect_uri=http://www.delish.com/holiday-recipes/thanksgiving/g3763/thanksgiving-pies/&version=v2.10"
+target="_blank">
+<i
+class="share-button--icon icon icon-facebook link-icon"></i>
+</a></div></li><li
+class="share-module--button-wrap share-module--button-wrap-twitter "><div
+class="share-button share-button--twitter "
+data-content-id="63904" data-tracking-id="share-button-twitter" data-url="http://www.delish.com/holiday-recipes/thanksgiving/g3763/thanksgiving-pies/" data-image="http://del.h-cdn.co/assets/16/46/1600x800/landscape-1479158042-delish-samoa-pie.jpg">
+<a
+class="share-button--link share-button--open-window link " title="Share on Twitter"
+target="_blank"
+href="//www.twitter.com/share?url=http://www.delish.com/holiday-recipes/thanksgiving/g3763/thanksgiving-pies/&text=123%20Ultimate%20Thanksgiving%20Pies&via=delishdotcom"
+data-site-handle="delishdotcom">
+<i
+class="share-button--icon icon icon-twitter link-icon"></i>
+</a></div></li><li
+class="share-module--button-wrap share-module--button-wrap-email "><div
+class="share-button share-button--email "
+data-content-id="63904" data-tracking-id="share-button-email" data-url="http://www.delish.com/holiday-recipes/thanksgiving/g3763/thanksgiving-pies/" data-image="http://del.h-cdn.co/assets/16/46/1600x800/landscape-1479158042-delish-samoa-pie.jpg">
+<a
+class="share-button--link link " title="Email"
+href="mailto:?subject=123%20Ultimate%20Thanksgiving%20Pies&body=http://www.delish.com/holiday-recipes/thanksgiving/g3763/thanksgiving-pies/?src=social-email">
+<i
+class="share-button--icon icon icon-email link-icon"></i>
+</a></div></li></ul></div></div></div></div><div
+class="landing-feed--story-content">
+<a
+class="landing-feed--story-title link link-txt" href="/holiday-recipes/thanksgiving/g3763/thanksgiving-pies/">123 Ultimate Thanksgiving Pies</a><div
+class="landing-feed--story-abstract">
+<span
+class="abstract-text">R.I.P. store-bought pumpkin pie.</span>
+<span
+class="byline--author " itemprop="author" itemscope itemtype="http://schema.org/Person">
+By
+<a
+href="http://www.delish.com/author/10328/sienna-fantozzi/" class="link link-txt byline--author-name" rel="author"><span >Sienna Fantozzi</span></a>		</span></div></div></div></div></div><div
+class="ad-gpt-breaker-container"><div
+class="ad-gpt-breaker  " data-id="gpt-ad-leaderboard-bottom"><div
+class="gpt-tag" id="gpt-ad-leaderboard-bottom"></div></div></div><div
+class="landing-feed--story "><div
+class="landing-feed--story-inner"><div
+class="landing-feed--story-container" data-uid="gallery.3571"><div
+class="landing-feed--story-image">
+<a
+href="/holiday-recipes/thanksgiving/g3571/thanksgiving-cookies/" class="link story-image--link"><div
+class="story-image--inner">
+<img
+class="lazy-image swap-image    "
+data-img320="http://del.h-cdn.co/assets/17/45/480x240/landscape-1510091749-delish-kids-leaf-cookies-05.jpg"
+data-img320-w = "480"
+data-img320-h = "240"
+data-cut=320
+src="//del.h-cdn.co/assets/delish/20180202221550/images/blank.png" data-src="http://del.h-cdn.co/assets/17/45/480x240/landscape-1510091749-delish-kids-leaf-cookies-05.jpg" alt="Leaf Cookies Horizontal No Bug"
+data-img980="http://del.h-cdn.co/assets/17/45/640x320/landscape-1510091749-delish-kids-leaf-cookies-05.jpg"
+data-img980-w = "640"
+data-img980-h = "320"
+nopin="nopin"  /></div>
+<i
+class="icon link-icon icon-gallery icon-xs icon-content-type"></i></a></div><div
+class="landing-feed--story-utils"><div
+class="landing-feed--story-section">
+<a
+class="landing-feed--story-section-name link link-txt" href="/holiday-recipes/thanksgiving/">Best Thanksgiving Ever!</a></div><div
+class="landing-feed--story-shares">
+<i
+class="icon icon-share"></i>
+<span
+class="landing-feed--story-shares-text">Share</span><div
+class="share landing-share share-bar"><div
+class="share-module " data-share-location="social-btns-feed"><ul
+class="share-module--buttons"><li
+class="share-module--button-wrap share-module--button-wrap-facebook "><div
+class="share-button share-button--facebook "
+data-content-id="61773" data-tracking-id="share-button-facebook" data-url="http://www.delish.com/holiday-recipes/thanksgiving/g3571/thanksgiving-cookies/" data-image="http://del.h-cdn.co/assets/17/45/1600x800/landscape-1510091749-delish-kids-leaf-cookies-05.jpg">
+<a
+class="share-button--link share-button--open-window link " title="Share on Facebook"
+href="//www.facebook.com/v2.10/dialog/feed?app_id=184150621627178&name=24+Super+Festive+Thanksgiving+Cookies&description=If+you+need+a+snack+before+the+big+meal%2C+we+totally+suggest+these+Thanksgiving+cookies.&display=popup&link=http://www.delish.com/holiday-recipes/thanksgiving/g3571/thanksgiving-cookies/&picture=http://del.h-cdn.co/assets/17/45/1600x800/landscape-1510091749-delish-kids-leaf-cookies-05.jpg&redirect_uri=http://www.delish.com/holiday-recipes/thanksgiving/g3571/thanksgiving-cookies/&version=v2.10"
+target="_blank">
+<i
+class="share-button--icon icon icon-facebook link-icon"></i>
+</a></div></li><li
+class="share-module--button-wrap share-module--button-wrap-twitter "><div
+class="share-button share-button--twitter "
+data-content-id="61773" data-tracking-id="share-button-twitter" data-url="http://www.delish.com/holiday-recipes/thanksgiving/g3571/thanksgiving-cookies/" data-image="http://del.h-cdn.co/assets/17/45/1600x800/landscape-1510091749-delish-kids-leaf-cookies-05.jpg">
+<a
+class="share-button--link share-button--open-window link " title="Share on Twitter"
+target="_blank"
+href="//www.twitter.com/share?url=http://www.delish.com/holiday-recipes/thanksgiving/g3571/thanksgiving-cookies/&text=24%20Super%20Festive%20Thanksgiving%20Cookies&via=delishdotcom"
+data-site-handle="delishdotcom">
+<i
+class="share-button--icon icon icon-twitter link-icon"></i>
+</a></div></li><li
+class="share-module--button-wrap share-module--button-wrap-email "><div
+class="share-button share-button--email "
+data-content-id="61773" data-tracking-id="share-button-email" data-url="http://www.delish.com/holiday-recipes/thanksgiving/g3571/thanksgiving-cookies/" data-image="http://del.h-cdn.co/assets/17/45/1600x800/landscape-1510091749-delish-kids-leaf-cookies-05.jpg">
+<a
+class="share-button--link link " title="Email"
+href="mailto:?subject=24%20Super%20Festive%20Thanksgiving%20Cookies&body=http://www.delish.com/holiday-recipes/thanksgiving/g3571/thanksgiving-cookies/?src=social-email">
+<i
+class="share-button--icon icon icon-email link-icon"></i>
+</a></div></li></ul></div></div></div></div><div
+class="landing-feed--story-content">
+<a
+class="landing-feed--story-title link link-txt" href="/holiday-recipes/thanksgiving/g3571/thanksgiving-cookies/">24 Super Festive Thanksgiving Cookies</a><div
+class="landing-feed--story-abstract">
+<span
+class="abstract-text">It's a holiday. You can totally eat cookies before the pie.</span>
+<span
+class="byline--author " itemprop="author" itemscope itemtype="http://schema.org/Person">
+By
+<a
+href="http://www.delish.com/author/10328/sienna-fantozzi/" class="link link-txt byline--author-name" rel="author"><span >Sienna Fantozzi</span></a>		</span></div></div></div></div></div><div
+class="landing-feed--story "><div
+class="landing-feed--story-inner"><div
+class="landing-feed--story-container" data-uid="gallery.309"><div
+class="landing-feed--story-image">
+<a
+href="/holiday-recipes/thanksgiving/g309/fresh-cranberries/" class="link story-image--link"><div
+class="story-image--inner">
+<img
+class="lazy-image swap-image    "
+data-img320="http://del.h-cdn.co/assets/16/46/480x240/landscape-1479425816-delish-cranberry-mimosa-02.jpg"
+data-img320-w = "480"
+data-img320-h = "240"
+data-cut=320
+src="//del.h-cdn.co/assets/delish/20180202221550/images/blank.png" data-src="http://del.h-cdn.co/assets/16/46/480x240/landscape-1479425816-delish-cranberry-mimosa-02.jpg" alt=""
+data-img980="http://del.h-cdn.co/assets/16/46/640x320/landscape-1479425816-delish-cranberry-mimosa-02.jpg"
+data-img980-w = "640"
+data-img980-h = "320"
+nopin="nopin"  /></div>
+<i
+class="icon link-icon icon-gallery icon-xs icon-content-type"></i></a></div><div
+class="landing-feed--story-utils"><div
+class="landing-feed--story-section">
+<a
+class="landing-feed--story-section-name link link-txt" href="/holiday-recipes/thanksgiving/">Best Thanksgiving Ever!</a></div><div
+class="landing-feed--story-shares">
+<i
+class="icon icon-share"></i>
+<span
+class="landing-feed--story-shares-text">Share</span><div
+class="share landing-share share-bar"><div
+class="share-module " data-share-location="social-btns-feed"><ul
+class="share-module--buttons"><li
+class="share-module--button-wrap share-module--button-wrap-facebook "><div
+class="share-button share-button--facebook "
+data-content-id="2990" data-tracking-id="share-button-facebook" data-url="http://www.delish.com/recipes/cooking-recipes/fresh-cranberries-opr1210" data-image="http://del.h-cdn.co/assets/16/46/1600x800/landscape-1479425816-delish-cranberry-mimosa-02.jpg">
+<a
+class="share-button--link share-button--open-window link " title="Share on Facebook"
+href="//www.facebook.com/v2.10/dialog/feed?app_id=184150621627178&name=25+Savory+And+Sweet+Recipes+For+Fresh+Cranberries&description=Leave+the+sauce+for+Thanksgiving.+Plus+try+our+fave+cranberry+cocktails+and+cranberry+cakes%21&display=popup&link=http://www.delish.com/recipes/cooking-recipes/fresh-cranberries-opr1210&picture=http://del.h-cdn.co/assets/16/46/1600x800/landscape-1479425816-delish-cranberry-mimosa-02.jpg&redirect_uri=http://www.delish.com/recipes/cooking-recipes/fresh-cranberries-opr1210&version=v2.10"
+target="_blank">
+<i
+class="share-button--icon icon icon-facebook link-icon"></i>
+</a></div></li><li
+class="share-module--button-wrap share-module--button-wrap-twitter "><div
+class="share-button share-button--twitter "
+data-content-id="2990" data-tracking-id="share-button-twitter" data-url="http://www.delish.com/recipes/cooking-recipes/fresh-cranberries-opr1210" data-image="http://del.h-cdn.co/assets/16/46/1600x800/landscape-1479425816-delish-cranberry-mimosa-02.jpg">
+<a
+class="share-button--link share-button--open-window link " title="Share on Twitter"
+target="_blank"
+href="//www.twitter.com/share?url=http://www.delish.com/recipes/cooking-recipes/fresh-cranberries-opr1210&text=25%20Savory%20And%20Sweet%20Recipes%20For%20Fresh%20Cranberries&via=delishdotcom"
+data-site-handle="delishdotcom">
+<i
+class="share-button--icon icon icon-twitter link-icon"></i>
+</a></div></li><li
+class="share-module--button-wrap share-module--button-wrap-email "><div
+class="share-button share-button--email "
+data-content-id="2990" data-tracking-id="share-button-email" data-url="http://www.delish.com/recipes/cooking-recipes/fresh-cranberries-opr1210" data-image="http://del.h-cdn.co/assets/16/46/1600x800/landscape-1479425816-delish-cranberry-mimosa-02.jpg">
+<a
+class="share-button--link link " title="Email"
+href="mailto:?subject=25%20Savory%20And%20Sweet%20Recipes%20For%20Fresh%20Cranberries&body=http://www.delish.com/recipes/cooking-recipes/fresh-cranberries-opr1210?src=social-email">
+<i
+class="share-button--icon icon icon-email link-icon"></i>
+</a></div></li></ul></div></div></div></div><div
+class="landing-feed--story-content">
+<a
+class="landing-feed--story-title link link-txt" href="/holiday-recipes/thanksgiving/g309/fresh-cranberries/">25 Savory And Sweet Recipes For Fresh Cranberries</a><div
+class="landing-feed--story-abstract">
+<span
+class="abstract-text">Same berry, different form.</span></div></div></div></div></div><div
+class="landing-feed--story story-with-v-ad"><div
+class="landing-feed--story-inner"><div
+class="landing-feed--story-container" data-uid="gallery.3577"><div
+class="landing-feed--story-image">
+<a
+href="/holiday-recipes/thanksgiving/g3577/cranberry-cakes/" class="link story-image--link"><div
+class="story-image--inner">
+<img
+class="lazy-image swap-image    "
+data-img320="http://del.h-cdn.co/assets/17/49/480x240/landscape-1512773567-delish-sparklin-cranberry-cheesecake-3.jpg"
+data-img320-w = "480"
+data-img320-h = "240"
+data-cut=320
+src="//del.h-cdn.co/assets/delish/20180202221550/images/blank.png" data-src="http://del.h-cdn.co/assets/17/49/480x240/landscape-1512773567-delish-sparklin-cranberry-cheesecake-3.jpg" alt=""
+data-img980="http://del.h-cdn.co/assets/17/49/768x384/landscape-1512773567-delish-sparklin-cranberry-cheesecake-3.jpg"
+data-img980-w = "768"
+data-img980-h = "384"
+nopin="nopin"  /></div>
+<i
+class="icon link-icon icon-gallery icon-xs icon-content-type"></i></a></div><div
+class="landing-feed--story-utils"><div
+class="landing-feed--story-section">
+<a
+class="landing-feed--story-section-name link link-txt" href="/holiday-recipes/thanksgiving/">Best Thanksgiving Ever!</a></div><div
+class="landing-feed--story-shares">
+<i
+class="icon icon-share"></i>
+<span
+class="landing-feed--story-shares-text">Share</span><div
+class="share landing-share share-bar"><div
+class="share-module " data-share-location="social-btns-feed"><ul
+class="share-module--buttons"><li
+class="share-module--button-wrap share-module--button-wrap-facebook "><div
+class="share-button share-button--facebook "
+data-content-id="61820" data-tracking-id="share-button-facebook" data-url="http://www.delish.com/holiday-recipes/thanksgiving/g3577/cranberry-cakes/" data-image="http://del.h-cdn.co/assets/17/49/1600x800/landscape-1512773567-delish-sparklin-cranberry-cheesecake-3.jpg">
+<a
+class="share-button--link share-button--open-window link " title="Share on Facebook"
+href="//www.facebook.com/v2.10/dialog/feed?app_id=184150621627178&name=13+Cranberry+Cakes+That+Taste+Like+The+Holidays&description=These+cranberry+cake+recipes+will+carry+you+from+Thanksgiving+straight+on+into+Christmas.&display=popup&link=http://www.delish.com/holiday-recipes/thanksgiving/g3577/cranberry-cakes/&picture=http://del.h-cdn.co/assets/17/49/1600x800/landscape-1512773567-delish-sparklin-cranberry-cheesecake-3.jpg&redirect_uri=http://www.delish.com/holiday-recipes/thanksgiving/g3577/cranberry-cakes/&version=v2.10"
+target="_blank">
+<i
+class="share-button--icon icon icon-facebook link-icon"></i>
+</a></div></li><li
+class="share-module--button-wrap share-module--button-wrap-twitter "><div
+class="share-button share-button--twitter "
+data-content-id="61820" data-tracking-id="share-button-twitter" data-url="http://www.delish.com/holiday-recipes/thanksgiving/g3577/cranberry-cakes/" data-image="http://del.h-cdn.co/assets/17/49/1600x800/landscape-1512773567-delish-sparklin-cranberry-cheesecake-3.jpg">
+<a
+class="share-button--link share-button--open-window link " title="Share on Twitter"
+target="_blank"
+href="//www.twitter.com/share?url=http://www.delish.com/holiday-recipes/thanksgiving/g3577/cranberry-cakes/&text=13%20Cranberry%20Cakes%20That%20Taste%20Like%20The%20Holidays&via=delishdotcom"
+data-site-handle="delishdotcom">
+<i
+class="share-button--icon icon icon-twitter link-icon"></i>
+</a></div></li><li
+class="share-module--button-wrap share-module--button-wrap-email "><div
+class="share-button share-button--email "
+data-content-id="61820" data-tracking-id="share-button-email" data-url="http://www.delish.com/holiday-recipes/thanksgiving/g3577/cranberry-cakes/" data-image="http://del.h-cdn.co/assets/17/49/1600x800/landscape-1512773567-delish-sparklin-cranberry-cheesecake-3.jpg">
+<a
+class="share-button--link link " title="Email"
+href="mailto:?subject=13%20Cranberry%20Cakes%20That%20Taste%20Like%20The%20Holidays&body=http://www.delish.com/holiday-recipes/thanksgiving/g3577/cranberry-cakes/?src=social-email">
+<i
+class="share-button--icon icon icon-email link-icon"></i>
+</a></div></li></ul></div></div></div></div><div
+class="landing-feed--story-content">
+<a
+class="landing-feed--story-title link link-txt" href="/holiday-recipes/thanksgiving/g3577/cranberry-cakes/">13 Cranberry Cakes That Taste Like The Holidays</a><div
+class="landing-feed--story-abstract">
+<span
+class="abstract-text">Sauce is good...cake is better.</span>
+<span
+class="byline--author " itemprop="author" itemscope itemtype="http://schema.org/Person">
+By
+<a
+href="http://www.delish.com/author/10328/sienna-fantozzi/" class="link link-txt byline--author-name" rel="author"><span >Sienna Fantozzi</span></a>		</span></div></div></div><div
+class="landing-feed--ad-vertical"><div
+class="ad-gpt-vertical"><div
+class="gpt-tag" id="gpt-ad-vertical-bottom"></div></div></div></div></div><div
+class="landing-feed--story "><div
+class="landing-feed--story-inner"><div
+class="landing-feed--story-container" data-uid="gallery.3563"><div
+class="landing-feed--story-image">
+<a
+href="/holiday-recipes/thanksgiving/g3563/oven-roasted-potatoes/" class="link story-image--link"><div
+class="story-image--inner">
+<img
+class="lazy-image swap-image    "
+data-img320="http://del.h-cdn.co/assets/17/43/480x240/landscape-1509142893-delish-fondant-potatoes-still001.jpg"
+data-img320-w = "480"
+data-img320-h = "240"
+data-cut=320
+src="//del.h-cdn.co/assets/delish/20180202221550/images/blank.png" data-src="http://del.h-cdn.co/assets/17/43/480x240/landscape-1509142893-delish-fondant-potatoes-still001.jpg" alt="Fondant Potatoes Horizontal"
+data-img980="http://del.h-cdn.co/assets/17/43/640x320/landscape-1509142893-delish-fondant-potatoes-still001.jpg"
+data-img980-w = "640"
+data-img980-h = "320"
+nopin="nopin"  /></div>
+<i
+class="icon link-icon icon-gallery icon-xs icon-content-type"></i></a></div><div
+class="landing-feed--story-utils"><div
+class="landing-feed--story-section">
+<a
+class="landing-feed--story-section-name link link-txt" href="/holiday-recipes/thanksgiving/">Best Thanksgiving Ever!</a></div><div
+class="landing-feed--story-shares">
+<i
+class="icon icon-share"></i>
+<span
+class="landing-feed--story-shares-text">Share</span><div
+class="share landing-share share-bar"><div
+class="share-module " data-share-location="social-btns-feed"><ul
+class="share-module--buttons"><li
+class="share-module--button-wrap share-module--button-wrap-facebook "><div
+class="share-button share-button--facebook "
+data-content-id="61709" data-tracking-id="share-button-facebook" data-url="http://www.delish.com/holiday-recipes/thanksgiving/g3563/oven-roasted-potatoes/" data-image="http://del.h-cdn.co/assets/17/43/1600x800/landscape-1509142893-delish-fondant-potatoes-still001.jpg">
+<a
+class="share-button--link share-button--open-window link " title="Share on Facebook"
+href="//www.facebook.com/v2.10/dialog/feed?app_id=184150621627178&name=31+Next-Level+Ways+To+Oven-Roast+Potatoes&description=Fall+and+winter+are+long%E2%80%94make+sure+you+never+run+out+of+amazing+new+ways+to+eat+potatoes.+&display=popup&link=http://www.delish.com/holiday-recipes/thanksgiving/g3563/oven-roasted-potatoes/&picture=http://del.h-cdn.co/assets/17/43/1600x800/landscape-1509142893-delish-fondant-potatoes-still001.jpg&redirect_uri=http://www.delish.com/holiday-recipes/thanksgiving/g3563/oven-roasted-potatoes/&version=v2.10"
+target="_blank">
+<i
+class="share-button--icon icon icon-facebook link-icon"></i>
+</a></div></li><li
+class="share-module--button-wrap share-module--button-wrap-twitter "><div
+class="share-button share-button--twitter "
+data-content-id="61709" data-tracking-id="share-button-twitter" data-url="http://www.delish.com/holiday-recipes/thanksgiving/g3563/oven-roasted-potatoes/" data-image="http://del.h-cdn.co/assets/17/43/1600x800/landscape-1509142893-delish-fondant-potatoes-still001.jpg">
+<a
+class="share-button--link share-button--open-window link " title="Share on Twitter"
+target="_blank"
+href="//www.twitter.com/share?url=http://www.delish.com/holiday-recipes/thanksgiving/g3563/oven-roasted-potatoes/&text=31%20Next-Level%20Ways%20To%20Oven-Roast%20Potatoes&via=delishdotcom"
+data-site-handle="delishdotcom">
+<i
+class="share-button--icon icon icon-twitter link-icon"></i>
+</a></div></li><li
+class="share-module--button-wrap share-module--button-wrap-email "><div
+class="share-button share-button--email "
+data-content-id="61709" data-tracking-id="share-button-email" data-url="http://www.delish.com/holiday-recipes/thanksgiving/g3563/oven-roasted-potatoes/" data-image="http://del.h-cdn.co/assets/17/43/1600x800/landscape-1509142893-delish-fondant-potatoes-still001.jpg">
+<a
+class="share-button--link link " title="Email"
+href="mailto:?subject=31%20Next-Level%20Ways%20To%20Oven-Roast%20Potatoes&body=http://www.delish.com/holiday-recipes/thanksgiving/g3563/oven-roasted-potatoes/?src=social-email">
+<i
+class="share-button--icon icon icon-email link-icon"></i>
+</a></div></li></ul></div></div></div></div><div
+class="landing-feed--story-content">
+<a
+class="landing-feed--story-title link link-txt" href="/holiday-recipes/thanksgiving/g3563/oven-roasted-potatoes/">31 Next-Level Ways To Oven-Roast Potatoes</a><div
+class="landing-feed--story-abstract">
+<span
+class="abstract-text">There's nothing basic on this list.</span>
+<span
+class="byline--author " itemprop="author" itemscope itemtype="http://schema.org/Person">
+By
+<a
+href="http://www.delish.com/author/10328/sienna-fantozzi/" class="link link-txt byline--author-name" rel="author"><span >Sienna Fantozzi</span></a>		</span></div></div></div></div></div><div
+class="module module-must-read" data-tracking-id="recirc-standard-primary" data-tracking-label="Must Read"><div
+class="module module-must-read--inner"><div
+class="module-label-outer" data-uid=""><div
+class="module-label module-label--collection"><div
+class="module-label--inner"><div
+class="module-label--title">
+Must Read</div><div
+class="module-label--subtitle"></div></div></div></div><div
+class="module-story " data-uid="gallery.1409">
+<a
+href="/cooking/g1409/brussels-sprouts-recipes/" class="module-story--link link" title="48 Addicting Ways To Eat Brussels Sprouts"><div
+class="module-story--image"><div
+class="module-story--image-inner">
+<img
+class="lazy-image swap-image    "
+data-img320="http://del.h-cdn.co/assets/17/50/320x160/landscape-1513370080-candied-bacon-brussels-still-3.jpg"
+data-img320-w = "320"
+data-img320-h = "160"
+data-cut=320
+src="//del.h-cdn.co/assets/delish/20180202221550/images/blank.png" data-src="http://del.h-cdn.co/assets/17/50/320x160/landscape-1513370080-candied-bacon-brussels-still-3.jpg" alt="Candied Bacon Brussels Sprouts"
+nopin="nopin"  /></div></div><div
+class="module-story--inner"><div
+class="module-story--text"><div
+class="module-story--category"></div>
+<span
+class="module-story--title link-txt">48 Addicting Ways To Eat Brussels Sprouts</span></div></div>
+</a></div><div
+class="module-story " data-uid="gallery.3550">
+<a
+href="/holiday-recipes/g3550/sweet-potato-casserole/" class="module-story--link link" title="20 Next-Level Twists On Sweet Potato Casserole"><div
+class="module-story--image"><div
+class="module-story--image-inner">
+<img
+class="lazy-image swap-image    "
+data-img320="http://del.h-cdn.co/assets/16/46/320x160/landscape-1478277737-sweet-potato-bites-4.jpg"
+data-img320-w = "320"
+data-img320-h = "160"
+data-cut=320
+src="//del.h-cdn.co/assets/delish/20180202221550/images/blank.png" data-src="http://del.h-cdn.co/assets/16/46/320x160/landscape-1478277737-sweet-potato-bites-4.jpg" alt="Sweet Potato Bites"
+nopin="nopin"  /></div></div><div
+class="module-story--inner"><div
+class="module-story--text"><div
+class="module-story--category"></div>
+<span
+class="module-story--title link-txt">20 Next-Level Twists On Sweet Potato Casserole</span></div></div>
+</a></div><div
+class="module-story " data-uid="gallery.2128">
+<a
+href="/cooking/g2128/cornbread-recipes/" class="module-story--link link" title="40 Cornbread Recipes You Can&#039;t Resist"><div
+class="module-story--image"><div
+class="module-story--image-inner">
+<img
+class="lazy-image swap-image    "
+data-img320="http://del.h-cdn.co/assets/16/46/320x160/landscape-1479418602-delish-loaded-skillet-cornbread-01.jpg"
+data-img320-w = "320"
+data-img320-h = "160"
+data-cut=320
+src="//del.h-cdn.co/assets/delish/20180202221550/images/blank.png" data-src="http://del.h-cdn.co/assets/16/46/320x160/landscape-1479418602-delish-loaded-skillet-cornbread-01.jpg" alt="Loaded Cornbread Skillet Horizontal"
+nopin="nopin"  /></div></div><div
+class="module-story--inner"><div
+class="module-story--text"><div
+class="module-story--category"></div>
+<span
+class="module-story--title link-txt">40 Cornbread Recipes You Can't Resist</span></div></div>
+</a></div><div
+class="module-story " data-uid="gallery.3005">
+<a
+href="/cooking/g3005/green-beans/" class="module-story--link link" title="29 Must-Make Green Bean Recipes"><div
+class="module-story--image"><div
+class="module-story--image-inner">
+<img
+class="lazy-image swap-image    "
+data-img320="http://del.h-cdn.co/assets/17/45/320x160/landscape-1510352309-cheesy-baked-green-beans-still-03.jpg"
+data-img320-w = "320"
+data-img320-h = "160"
+data-cut=320
+src="//del.h-cdn.co/assets/delish/20180202221550/images/blank.png" data-src="http://del.h-cdn.co/assets/17/45/320x160/landscape-1510352309-cheesy-baked-green-beans-still-03.jpg" alt=""
+nopin="nopin"  /></div></div><div
+class="module-story--inner"><div
+class="module-story--text"><div
+class="module-story--category"></div>
+<span
+class="module-story--title link-txt">29 Must-Make Green Bean Recipes</span></div></div>
+</a></div></div></div><div
+class="landing-feed--story "><div
+class="landing-feed--story-inner"><div
+class="landing-feed--story-container" data-uid="gallery.3565"><div
+class="landing-feed--story-image">
+<a
+href="/holiday-recipes/thanksgiving/g3565/fried-potatoes/" class="link story-image--link"><div
+class="story-image--inner">
+<img
+class="lazy-image swap-image    "
+data-img320="http://del.h-cdn.co/assets/16/47/480x240/landscape-1479853828-delish-fried-mashed-potatoes-01.jpg"
+data-img320-w = "480"
+data-img320-h = "240"
+data-cut=320
+src="//del.h-cdn.co/assets/delish/20180202221550/images/blank.png" data-src="http://del.h-cdn.co/assets/16/47/480x240/landscape-1479853828-delish-fried-mashed-potatoes-01.jpg" alt="Loaded Fried Mashed Potatoes Horizontal"
+data-img980="http://del.h-cdn.co/assets/16/47/640x320/landscape-1479853828-delish-fried-mashed-potatoes-01.jpg"
+data-img980-w = "640"
+data-img980-h = "320"
+nopin="nopin"  /></div>
+<i
+class="icon link-icon icon-gallery icon-xs icon-content-type"></i></a></div><div
+class="landing-feed--story-utils"><div
+class="landing-feed--story-section">
+<a
+class="landing-feed--story-section-name link link-txt" href="/holiday-recipes/thanksgiving/">Best Thanksgiving Ever!</a></div><div
+class="landing-feed--story-shares">
+<i
+class="icon icon-share"></i>
+<span
+class="landing-feed--story-shares-text">Share</span><div
+class="share landing-share share-bar"><div
+class="share-module " data-share-location="social-btns-feed"><ul
+class="share-module--buttons"><li
+class="share-module--button-wrap share-module--button-wrap-facebook "><div
+class="share-button share-button--facebook "
+data-content-id="61726" data-tracking-id="share-button-facebook" data-url="http://www.delish.com/holiday-recipes/thanksgiving/g3565/fried-potatoes/" data-image="http://del.h-cdn.co/assets/16/47/1600x800/landscape-1479853828-delish-fried-mashed-potatoes-01.jpg">
+<a
+class="share-button--link share-button--open-window link " title="Share on Facebook"
+href="//www.facebook.com/v2.10/dialog/feed?app_id=184150621627178&name=12+Mind-Blowing+Fried+Potatoes&description=Baking+them+is+for+the+weak.&display=popup&link=http://www.delish.com/holiday-recipes/thanksgiving/g3565/fried-potatoes/&picture=http://del.h-cdn.co/assets/16/47/1600x800/landscape-1479853828-delish-fried-mashed-potatoes-01.jpg&redirect_uri=http://www.delish.com/holiday-recipes/thanksgiving/g3565/fried-potatoes/&version=v2.10"
+target="_blank">
+<i
+class="share-button--icon icon icon-facebook link-icon"></i>
+</a></div></li><li
+class="share-module--button-wrap share-module--button-wrap-twitter "><div
+class="share-button share-button--twitter "
+data-content-id="61726" data-tracking-id="share-button-twitter" data-url="http://www.delish.com/holiday-recipes/thanksgiving/g3565/fried-potatoes/" data-image="http://del.h-cdn.co/assets/16/47/1600x800/landscape-1479853828-delish-fried-mashed-potatoes-01.jpg">
+<a
+class="share-button--link share-button--open-window link " title="Share on Twitter"
+target="_blank"
+href="//www.twitter.com/share?url=http://www.delish.com/holiday-recipes/thanksgiving/g3565/fried-potatoes/&text=12%20Mind-Blowing%20Fried%20Potatoes&via=delishdotcom"
+data-site-handle="delishdotcom">
+<i
+class="share-button--icon icon icon-twitter link-icon"></i>
+</a></div></li><li
+class="share-module--button-wrap share-module--button-wrap-email "><div
+class="share-button share-button--email "
+data-content-id="61726" data-tracking-id="share-button-email" data-url="http://www.delish.com/holiday-recipes/thanksgiving/g3565/fried-potatoes/" data-image="http://del.h-cdn.co/assets/16/47/1600x800/landscape-1479853828-delish-fried-mashed-potatoes-01.jpg">
+<a
+class="share-button--link link " title="Email"
+href="mailto:?subject=12%20Mind-Blowing%20Fried%20Potatoes&body=http://www.delish.com/holiday-recipes/thanksgiving/g3565/fried-potatoes/?src=social-email">
+<i
+class="share-button--icon icon icon-email link-icon"></i>
+</a></div></li></ul></div></div></div></div><div
+class="landing-feed--story-content">
+<a
+class="landing-feed--story-title link link-txt" href="/holiday-recipes/thanksgiving/g3565/fried-potatoes/">12 Mind-Blowing Fried Potatoes</a><div
+class="landing-feed--story-abstract">
+<span
+class="abstract-text">If you can fry it, we're obviously going to try it.</span>
+<span
+class="byline--author " itemprop="author" itemscope itemtype="http://schema.org/Person">
+By
+<a
+href="http://www.delish.com/author/10328/sienna-fantozzi/" class="link link-txt byline--author-name" rel="author"><span >Sienna Fantozzi</span></a>		</span></div></div></div></div></div><div
+class="landing-feed--story "><div
+class="landing-feed--story-inner"><div
+class="landing-feed--story-container" data-uid="article.56886"><div
+class="landing-feed--story-image">
+<a
+href="/holiday-recipes/thanksgiving/a56886/thanksgiving-food-ranked/" class="link story-image--link"><div
+class="story-image--inner">
+<img
+class="lazy-image swap-image    "
+data-img320="http://del.h-cdn.co/assets/17/47/480x240/1511377068-t-1511362145_2.jpg"
+data-img320-w = "480"
+data-img320-h = "240"
+data-cut=320
+src="//del.h-cdn.co/assets/delish/20180202221550/images/blank.png" data-src="http://del.h-cdn.co/assets/17/47/480x240/1511377068-t-1511362145_2.jpg" alt=""
+data-img980="http://del.h-cdn.co/assets/17/47/640x320/1511377068-t-1511362145_2.jpg"
+data-img980-w = "640"
+data-img980-h = "320"
+nopin="nopin"  /></div></a></div><div
+class="landing-feed--story-utils"><div
+class="landing-feed--story-section">
+<a
+class="landing-feed--story-section-name link link-txt" href="/holiday-recipes/thanksgiving/">Best Thanksgiving Ever!</a></div><div
+class="landing-feed--story-shares">
+<i
+class="icon icon-share"></i>
+<span
+class="landing-feed--story-shares-text">Share</span><div
+class="share landing-share share-bar"><div
+class="share-module " data-share-location="social-btns-feed"><ul
+class="share-module--buttons"><li
+class="share-module--button-wrap share-module--button-wrap-facebook "><div
+class="share-button share-button--facebook "
+data-content-id="74761" data-tracking-id="share-button-facebook" data-url="http://www.delish.com/holiday-recipes/thanksgiving/a56886/thanksgiving-food-ranked/" data-image="http://del.h-cdn.co/assets/17/47/1600x800/1511377068-t-1511362145_2.jpg">
+<a
+class="share-button--link share-button--open-window link " title="Share on Facebook"
+href="//www.facebook.com/v2.10/dialog/feed?app_id=184150621627178&name=The+Best+Thanksgiving+Foods%2C+Hotly+Debated+And+Ranked&description=Don%27t+sleep+on+the+rolls.+&display=popup&link=http://www.delish.com/holiday-recipes/thanksgiving/a56886/thanksgiving-food-ranked/&picture=http://del.h-cdn.co/assets/17/47/1600x800/1511377068-t-1511362145_2.jpg&redirect_uri=http://www.delish.com/holiday-recipes/thanksgiving/a56886/thanksgiving-food-ranked/&version=v2.10"
+target="_blank">
+<i
+class="share-button--icon icon icon-facebook link-icon"></i>
+</a></div></li><li
+class="share-module--button-wrap share-module--button-wrap-twitter "><div
+class="share-button share-button--twitter "
+data-content-id="74761" data-tracking-id="share-button-twitter" data-url="http://www.delish.com/holiday-recipes/thanksgiving/a56886/thanksgiving-food-ranked/" data-image="http://del.h-cdn.co/assets/17/47/1600x800/1511377068-t-1511362145_2.jpg">
+<a
+class="share-button--link share-button--open-window link " title="Share on Twitter"
+target="_blank"
+href="//www.twitter.com/share?url=http://www.delish.com/holiday-recipes/thanksgiving/a56886/thanksgiving-food-ranked/&text=The%20Best%20Thanksgiving%20Foods%2C%20Hotly%20Debated%20And%20Ranked&via=delishdotcom"
+data-site-handle="delishdotcom">
+<i
+class="share-button--icon icon icon-twitter link-icon"></i>
+</a></div></li><li
+class="share-module--button-wrap share-module--button-wrap-email "><div
+class="share-button share-button--email "
+data-content-id="74761" data-tracking-id="share-button-email" data-url="http://www.delish.com/holiday-recipes/thanksgiving/a56886/thanksgiving-food-ranked/" data-image="http://del.h-cdn.co/assets/17/47/1600x800/1511377068-t-1511362145_2.jpg">
+<a
+class="share-button--link link " title="Email"
+href="mailto:?subject=The%20Best%20Thanksgiving%20Foods%2C%20Hotly%20Debated%20And%20Ranked&body=http://www.delish.com/holiday-recipes/thanksgiving/a56886/thanksgiving-food-ranked/?src=social-email">
+<i
+class="share-button--icon icon icon-email link-icon"></i>
+</a></div></li></ul></div></div></div></div><div
+class="landing-feed--story-content">
+<a
+class="landing-feed--story-title link link-txt" href="/holiday-recipes/thanksgiving/a56886/thanksgiving-food-ranked/">The Best Thanksgiving Foods, Hotly Debated And Ranked</a><div
+class="landing-feed--story-abstract">
+<span
+class="abstract-text">Don't sleep on the rolls. </span>
+<span
+class="byline--author " itemprop="author" itemscope itemtype="http://schema.org/Person">
+By
+<a
+href="http://www.delish.com/author/9774/dave-holmes/" class="link link-txt byline--author-name" rel="author"><span >Dave Holmes</span></a>
+and <span
+class='byline--author-name' >LUKE O'NEIL</span>		</span></div></div></div></div></div><div
+class="landing-feed--story "><div
+class="landing-feed--story-inner"><div
+class="landing-feed--story-container" data-uid="article.56862"><div
+class="landing-feed--story-image">
+<a
+href="/holiday-recipes/thanksgiving/videos/a56862/macys-thanksgiving-day-parade-new-floats/" class="link story-image--link"><div
+class="story-image--inner">
+<img
+class="lazy-image swap-image    "
+data-img320="http://del.h-cdn.co/assets/17/47/480x240/landscape-1511296991-full-balloon-and-float.jpg"
+data-img320-w = "480"
+data-img320-h = "240"
+data-cut=320
+src="//del.h-cdn.co/assets/delish/20180202221550/images/blank.png" data-src="http://del.h-cdn.co/assets/17/47/480x240/landscape-1511296991-full-balloon-and-float.jpg" alt=""
+data-img980="http://del.h-cdn.co/assets/17/47/640x320/landscape-1511296991-full-balloon-and-float.jpg"
+data-img980-w = "640"
+data-img980-h = "320"
+nopin="nopin"  /></div>
+<i
+class="icon link-icon icon-play icon-xs icon-content-type"></i></a></div><div
+class="landing-feed--story-utils"><div
+class="landing-feed--story-section">
+<a
+class="landing-feed--story-section-name link link-txt" href="/holiday-recipes/thanksgiving/">Best Thanksgiving Ever!</a></div><div
+class="landing-feed--story-shares">
+<i
+class="icon icon-share"></i>
+<span
+class="landing-feed--story-shares-text">Share</span><div
+class="share landing-share share-bar"><div
+class="share-module " data-share-location="social-btns-feed"><ul
+class="share-module--buttons"><li
+class="share-module--button-wrap share-module--button-wrap-facebook "><div
+class="share-button share-button--facebook "
+data-content-id="74735" data-tracking-id="share-button-facebook" data-url="http://www.delish.com/holiday-recipes/videos/a56862/macys-thanksgiving-day-parade-new-floats/" data-image="http://del.h-cdn.co/assets/17/47/1600x800/landscape-1511296991-full-balloon-and-float.jpg">
+<a
+class="share-button--link share-button--open-window link " title="Share on Facebook"
+href="//www.facebook.com/v2.10/dialog/feed?app_id=184150621627178&name=The+Macy%27s+Thanksgiving+Day+Parade+Is+Debuting+The+Coolest+New+Floats+This+Year&description=They+look+good+enough+to+eat.&display=popup&link=http://www.delish.com/holiday-recipes/videos/a56862/macys-thanksgiving-day-parade-new-floats/&picture=http://del.h-cdn.co/assets/17/47/1600x800/landscape-1511296991-full-balloon-and-float.jpg&redirect_uri=http://www.delish.com/holiday-recipes/videos/a56862/macys-thanksgiving-day-parade-new-floats/&version=v2.10"
+target="_blank">
+<i
+class="share-button--icon icon icon-facebook link-icon"></i>
+</a></div></li><li
+class="share-module--button-wrap share-module--button-wrap-twitter "><div
+class="share-button share-button--twitter "
+data-content-id="74735" data-tracking-id="share-button-twitter" data-url="http://www.delish.com/holiday-recipes/videos/a56862/macys-thanksgiving-day-parade-new-floats/" data-image="http://del.h-cdn.co/assets/17/47/1600x800/landscape-1511296991-full-balloon-and-float.jpg">
+<a
+class="share-button--link share-button--open-window link " title="Share on Twitter"
+target="_blank"
+href="//www.twitter.com/share?url=http://www.delish.com/holiday-recipes/videos/a56862/macys-thanksgiving-day-parade-new-floats/&text=The%20Macy%27s%20Thanksgiving%20Day%20Parade%20Is%20Debuting%20The%20Coolest%20New%20Floats%20This%20Year&via=delishdotcom"
+data-site-handle="delishdotcom">
+<i
+class="share-button--icon icon icon-twitter link-icon"></i>
+</a></div></li><li
+class="share-module--button-wrap share-module--button-wrap-email "><div
+class="share-button share-button--email "
+data-content-id="74735" data-tracking-id="share-button-email" data-url="http://www.delish.com/holiday-recipes/videos/a56862/macys-thanksgiving-day-parade-new-floats/" data-image="http://del.h-cdn.co/assets/17/47/1600x800/landscape-1511296991-full-balloon-and-float.jpg">
+<a
+class="share-button--link link " title="Email"
+href="mailto:?subject=The%20Macy%27s%20Thanksgiving%20Day%20Parade%20Is%20Debuting%20The%20Coolest%20New%20Floats%20This%20Year&body=http://www.delish.com/holiday-recipes/videos/a56862/macys-thanksgiving-day-parade-new-floats/?src=social-email">
+<i
+class="share-button--icon icon icon-email link-icon"></i>
+</a></div></li></ul></div></div></div></div><div
+class="landing-feed--story-content">
+<a
+class="landing-feed--story-title link link-txt" href="/holiday-recipes/thanksgiving/videos/a56862/macys-thanksgiving-day-parade-new-floats/">The Macy's Thanksgiving Day Parade Is Debuting The Coolest New Floats This Year</a><div
+class="landing-feed--story-abstract">
+<span
+class="abstract-text">They look good enough to eat.</span>
+<span
+class="byline--author " itemprop="author" itemscope itemtype="http://schema.org/Person">
+By
+<a
+href="http://www.delish.com/author/6482/sarah-weinberg/" class="link link-txt byline--author-name" rel="author"><span >Sarah Weinberg</span></a>		</span></div></div></div></div></div><div
+class="landing-feed--story "><div
+class="landing-feed--story-inner"><div
+class="landing-feed--story-container" data-uid="gallery.3568"><div
+class="landing-feed--story-image">
+<a
+href="/holiday-recipes/thanksgiving/g3568/cranberry-relish/" class="link story-image--link"><div
+class="story-image--inner">
+<img
+class="lazy-image swap-image    "
+data-img320="http://del.h-cdn.co/assets/16/32/480x240/landscape-1471023679-cranberry-relish.png"
+data-img320-w = "480"
+data-img320-h = "240"
+data-cut=320
+src="//del.h-cdn.co/assets/delish/20180202221550/images/blank.png" data-src="http://del.h-cdn.co/assets/16/32/480x240/landscape-1471023679-cranberry-relish.png" alt="Cranberry Relish"
+data-img980="http://del.h-cdn.co/assets/16/32/1471023679-cranberry-relish.png"
+data-img980-w = "595"
+data-img980-h = "359"
+nopin="nopin"  /></div>
+<i
+class="icon link-icon icon-gallery icon-xs icon-content-type"></i></a></div><div
+class="landing-feed--story-utils"><div
+class="landing-feed--story-section">
+<a
+class="landing-feed--story-section-name link link-txt" href="/holiday-recipes/thanksgiving/">Best Thanksgiving Ever!</a></div><div
+class="landing-feed--story-shares">
+<i
+class="icon icon-share"></i>
+<span
+class="landing-feed--story-shares-text">Share</span><div
+class="share landing-share share-bar"><div
+class="share-module " data-share-location="social-btns-feed"><ul
+class="share-module--buttons"><li
+class="share-module--button-wrap share-module--button-wrap-facebook "><div
+class="share-button share-button--facebook "
+data-content-id="61755" data-tracking-id="share-button-facebook" data-url="http://www.delish.com/holiday-recipes/thanksgiving/g3568/cranberry-relish/" data-image="http://del.h-cdn.co/assets/16/32/1471023679-cranberry-relish.png">
+<a
+class="share-button--link share-button--open-window link " title="Share on Facebook"
+href="//www.facebook.com/v2.10/dialog/feed?app_id=184150621627178&name=9+Cranberry+Relish+Recipes+That+Steal+The+Game+From+Sauce&description=When+it+comes+to+Thanksgiving+sides%2C+cranberry+relish+is+where+it%27s+at.&display=popup&link=http://www.delish.com/holiday-recipes/thanksgiving/g3568/cranberry-relish/&picture=http://del.h-cdn.co/assets/16/32/1471023679-cranberry-relish.png&redirect_uri=http://www.delish.com/holiday-recipes/thanksgiving/g3568/cranberry-relish/&version=v2.10"
+target="_blank">
+<i
+class="share-button--icon icon icon-facebook link-icon"></i>
+</a></div></li><li
+class="share-module--button-wrap share-module--button-wrap-twitter "><div
+class="share-button share-button--twitter "
+data-content-id="61755" data-tracking-id="share-button-twitter" data-url="http://www.delish.com/holiday-recipes/thanksgiving/g3568/cranberry-relish/" data-image="http://del.h-cdn.co/assets/16/32/1471023679-cranberry-relish.png">
+<a
+class="share-button--link share-button--open-window link " title="Share on Twitter"
+target="_blank"
+href="//www.twitter.com/share?url=http://www.delish.com/holiday-recipes/thanksgiving/g3568/cranberry-relish/&text=9%20Cranberry%20Relish%20Recipes%20That%20Steal%20The%20Game%20From%20Sauce&via=delishdotcom"
+data-site-handle="delishdotcom">
+<i
+class="share-button--icon icon icon-twitter link-icon"></i>
+</a></div></li><li
+class="share-module--button-wrap share-module--button-wrap-email "><div
+class="share-button share-button--email "
+data-content-id="61755" data-tracking-id="share-button-email" data-url="http://www.delish.com/holiday-recipes/thanksgiving/g3568/cranberry-relish/" data-image="http://del.h-cdn.co/assets/16/32/1471023679-cranberry-relish.png">
+<a
+class="share-button--link link " title="Email"
+href="mailto:?subject=9%20Cranberry%20Relish%20Recipes%20That%20Steal%20The%20Game%20From%20Sauce&body=http://www.delish.com/holiday-recipes/thanksgiving/g3568/cranberry-relish/?src=social-email">
+<i
+class="share-button--icon icon icon-email link-icon"></i>
+</a></div></li></ul></div></div></div></div><div
+class="landing-feed--story-content">
+<a
+class="landing-feed--story-title link link-txt" href="/holiday-recipes/thanksgiving/g3568/cranberry-relish/">9 Cranberry Relish Recipes That Steal The Game From Sauce</a><div
+class="landing-feed--story-abstract">
+<span
+class="abstract-text">You've been doing it the same way forever. It's time to change it up.</span>
+<span
+class="byline--author " itemprop="author" itemscope itemtype="http://schema.org/Person">
+By
+<a
+href="http://www.delish.com/author/10328/sienna-fantozzi/" class="link link-txt byline--author-name" rel="author"><span >Sienna Fantozzi</span></a>		</span></div></div></div></div></div><div
+class="landing-feed--story "><div
+class="landing-feed--story-inner"><div
+class="landing-feed--story-container" data-uid="gallery.3137"><div
+class="landing-feed--story-image">
+<a
+href="/holiday-recipes/thanksgiving/g3137/last-minute-thanksgiving-appetizers/" class="link story-image--link"><div
+class="story-image--inner">
+<img
+class="lazy-image swap-image    "
+data-img320="http://del.h-cdn.co/assets/17/08/480x240/landscape-1487978739-delish-jalapeno-popper-crisps-1.jpg"
+data-img320-w = "480"
+data-img320-h = "240"
+data-cut=320
+src="//del.h-cdn.co/assets/delish/20180202221550/images/blank.png" data-src="http://del.h-cdn.co/assets/17/08/480x240/landscape-1487978739-delish-jalapeno-popper-crisps-1.jpg" alt="Jalapeno Popper Crisps"
+data-img980="http://del.h-cdn.co/assets/17/08/640x320/landscape-1487978739-delish-jalapeno-popper-crisps-1.jpg"
+data-img980-w = "640"
+data-img980-h = "320"
+nopin="nopin"  /></div>
+<i
+class="icon link-icon icon-gallery icon-xs icon-content-type"></i></a></div><div
+class="landing-feed--story-utils"><div
+class="landing-feed--story-section">
+<a
+class="landing-feed--story-section-name link link-txt" href="/holiday-recipes/thanksgiving/">Best Thanksgiving Ever!</a></div><div
+class="landing-feed--story-shares">
+<i
+class="icon icon-share"></i>
+<span
+class="landing-feed--story-shares-text">Share</span><div
+class="share landing-share share-bar"><div
+class="share-module " data-share-location="social-btns-feed"><ul
+class="share-module--buttons"><li
+class="share-module--button-wrap share-module--button-wrap-facebook "><div
+class="share-button share-button--facebook "
+data-content-id="55388" data-tracking-id="share-button-facebook" data-url="http://www.delish.com/holiday-recipes/thanksgiving/g3137/last-minute-thanksgiving-appetizers/" data-image="http://del.h-cdn.co/assets/17/08/1600x800/landscape-1487978739-delish-jalapeno-popper-crisps-1.jpg">
+<a
+class="share-button--link share-button--open-window link " title="Share on Facebook"
+href="//www.facebook.com/v2.10/dialog/feed?app_id=184150621627178&name=57+Super+Simple+Last-Minute+Appetizers&description=Procrastination+happens+to+the+best+of+us+%E2%80%94+but+these+easy+apps+got+your+back.&display=popup&link=http://www.delish.com/holiday-recipes/thanksgiving/g3137/last-minute-thanksgiving-appetizers/&picture=http://del.h-cdn.co/assets/17/08/1600x800/landscape-1487978739-delish-jalapeno-popper-crisps-1.jpg&redirect_uri=http://www.delish.com/holiday-recipes/thanksgiving/g3137/last-minute-thanksgiving-appetizers/&version=v2.10"
+target="_blank">
+<i
+class="share-button--icon icon icon-facebook link-icon"></i>
+</a></div></li><li
+class="share-module--button-wrap share-module--button-wrap-twitter "><div
+class="share-button share-button--twitter "
+data-content-id="55388" data-tracking-id="share-button-twitter" data-url="http://www.delish.com/holiday-recipes/thanksgiving/g3137/last-minute-thanksgiving-appetizers/" data-image="http://del.h-cdn.co/assets/17/08/1600x800/landscape-1487978739-delish-jalapeno-popper-crisps-1.jpg">
+<a
+class="share-button--link share-button--open-window link " title="Share on Twitter"
+target="_blank"
+href="//www.twitter.com/share?url=http://www.delish.com/holiday-recipes/thanksgiving/g3137/last-minute-thanksgiving-appetizers/&text=57%20Super%20Simple%20Last-Minute%20Appetizers&via=delishdotcom"
+data-site-handle="delishdotcom">
+<i
+class="share-button--icon icon icon-twitter link-icon"></i>
+</a></div></li><li
+class="share-module--button-wrap share-module--button-wrap-email "><div
+class="share-button share-button--email "
+data-content-id="55388" data-tracking-id="share-button-email" data-url="http://www.delish.com/holiday-recipes/thanksgiving/g3137/last-minute-thanksgiving-appetizers/" data-image="http://del.h-cdn.co/assets/17/08/1600x800/landscape-1487978739-delish-jalapeno-popper-crisps-1.jpg">
+<a
+class="share-button--link link " title="Email"
+href="mailto:?subject=57%20Super%20Simple%20Last-Minute%20Appetizers&body=http://www.delish.com/holiday-recipes/thanksgiving/g3137/last-minute-thanksgiving-appetizers/?src=social-email">
+<i
+class="share-button--icon icon icon-email link-icon"></i>
+</a></div></li></ul></div></div></div></div><div
+class="landing-feed--story-content">
+<a
+class="landing-feed--story-title link link-txt" href="/holiday-recipes/thanksgiving/g3137/last-minute-thanksgiving-appetizers/">57 Super Simple Last-Minute Appetizers</a><div
+class="landing-feed--story-abstract">
+<span
+class="abstract-text">Procrastination happens to the best of us — but these easy apps got your back. </span>
+<span
+class="byline--author " itemprop="author" itemscope itemtype="http://schema.org/Person">
+By
+<a
+href="http://www.delish.com/author/10328/sienna-fantozzi/" class="link link-txt byline--author-name" rel="author"><span >Sienna Fantozzi</span></a>		</span></div></div></div></div></div><div
+class="landing-feed--story "><div
+class="landing-feed--story-inner"><div
+class="landing-feed--story-container" data-uid="gallery.2488"><div
+class="landing-feed--story-image">
+<a
+href="/holiday-recipes/thanksgiving/g2488/leftover-turkey-recipes/" class="link story-image--link"><div
+class="story-image--inner">
+<img
+class="lazy-image swap-image    "
+data-img320="http://del.h-cdn.co/assets/16/47/480x240/landscape-1479763387-unknown.png"
+data-img320-w = "480"
+data-img320-h = "240"
+data-cut=320
+src="//del.h-cdn.co/assets/delish/20180202221550/images/blank.png" data-src="http://del.h-cdn.co/assets/16/47/480x240/landscape-1479763387-unknown.png" alt="Thanksgiving In A Blanket Horizontal"
+data-img980="http://del.h-cdn.co/assets/16/47/640x320/landscape-1479763387-unknown.png"
+data-img980-w = "640"
+data-img980-h = "320"
+nopin="nopin"  /></div>
+<i
+class="icon link-icon icon-gallery icon-xs icon-content-type"></i></a></div><div
+class="landing-feed--story-utils"><div
+class="landing-feed--story-section">
+<a
+class="landing-feed--story-section-name link link-txt" href="/holiday-recipes/thanksgiving/">Best Thanksgiving Ever!</a></div><div
+class="landing-feed--story-shares">
+<i
+class="icon icon-share"></i>
+<span
+class="landing-feed--story-shares-text">Share</span><div
+class="share landing-share share-bar"><div
+class="share-module " data-share-location="social-btns-feed"><ul
+class="share-module--buttons"><li
+class="share-module--button-wrap share-module--button-wrap-facebook "><div
+class="share-button share-button--facebook "
+data-content-id="47390" data-tracking-id="share-button-facebook" data-url="http://www.delish.com/entertaining-ideas/holidays/thanksgiving/leftover-turkey-recipes" data-image="http://del.h-cdn.co/assets/16/47/1600x800/landscape-1479763387-unknown.png">
+<a
+class="share-button--link share-button--open-window link " title="Share on Facebook"
+href="//www.facebook.com/v2.10/dialog/feed?app_id=184150621627178&name=56+Ways+To+Totally+Transform+Leftover+Turkey&description=When+you+wake+up+from+your+post-Thanksgiving+dinner+slumber+you%27re+likely+to+encounter+a+full+plate+of+leftover+turkey.+Now+you+have+a+choice%3A+Eat+plain%2C+boring+roast+turkey+sandwiches+for+the+next+few+days+or+turn+your+leftover+bird+into+delicious+new+dishes+you%27ll+actually+enjoy.+But+be+warned%3A+These+delicious+dishes+may+cause+more+Thanksgiving-like+naps.&display=popup&link=http://www.delish.com/entertaining-ideas/holidays/thanksgiving/leftover-turkey-recipes&picture=http://del.h-cdn.co/assets/16/47/1600x800/landscape-1479763387-unknown.png&redirect_uri=http://www.delish.com/entertaining-ideas/holidays/thanksgiving/leftover-turkey-recipes&version=v2.10"
+target="_blank">
+<i
+class="share-button--icon icon icon-facebook link-icon"></i>
+</a></div></li><li
+class="share-module--button-wrap share-module--button-wrap-twitter "><div
+class="share-button share-button--twitter "
+data-content-id="47390" data-tracking-id="share-button-twitter" data-url="http://www.delish.com/entertaining-ideas/holidays/thanksgiving/leftover-turkey-recipes" data-image="http://del.h-cdn.co/assets/16/47/1600x800/landscape-1479763387-unknown.png">
+<a
+class="share-button--link share-button--open-window link " title="Share on Twitter"
+target="_blank"
+href="//www.twitter.com/share?url=http://www.delish.com/entertaining-ideas/holidays/thanksgiving/leftover-turkey-recipes&text=56%20Ways%20To%20Totally%20Transform%20Leftover%20Turkey&via=delishdotcom"
+data-site-handle="delishdotcom">
+<i
+class="share-button--icon icon icon-twitter link-icon"></i>
+</a></div></li><li
+class="share-module--button-wrap share-module--button-wrap-email "><div
+class="share-button share-button--email "
+data-content-id="47390" data-tracking-id="share-button-email" data-url="http://www.delish.com/entertaining-ideas/holidays/thanksgiving/leftover-turkey-recipes" data-image="http://del.h-cdn.co/assets/16/47/1600x800/landscape-1479763387-unknown.png">
+<a
+class="share-button--link link " title="Email"
+href="mailto:?subject=56%20Ways%20To%20Totally%20Transform%20Leftover%20Turkey&body=http://www.delish.com/entertaining-ideas/holidays/thanksgiving/leftover-turkey-recipes?src=social-email">
+<i
+class="share-button--icon icon icon-email link-icon"></i>
+</a></div></li></ul></div></div></div></div><div
+class="landing-feed--story-content">
+<a
+class="landing-feed--story-title link link-txt" href="/holiday-recipes/thanksgiving/g2488/leftover-turkey-recipes/">56 Ways To Totally Transform Leftover Turkey</a><div
+class="landing-feed--story-abstract">
+<span
+class="abstract-text">These ideas may cause more naps. Consider yourself warned.</span>
+<span
+class="byline--author " itemprop="author" itemscope itemtype="http://schema.org/Person">
+By
+<a
+href="http://www.delish.com/author/10328/sienna-fantozzi/" class="link link-txt byline--author-name" rel="author"><span >Sienna Fantozzi</span></a>		</span></div></div></div></div></div><div
+class="landing-feed--story "><div
+class="landing-feed--story-inner"><div
+class="landing-feed--story-container" data-uid="gallery.3579"><div
+class="landing-feed--story-image">
+<a
+href="/holiday-recipes/thanksgiving/g3579/oreo-turkeys/" class="link story-image--link"><div
+class="story-image--inner">
+<img
+class="lazy-image swap-image    "
+data-img320="http://del.h-cdn.co/assets/16/33/480x240/landscape-1471285832-tc-2.jpg"
+data-img320-w = "480"
+data-img320-h = "240"
+data-cut=320
+src="//del.h-cdn.co/assets/delish/20180202221550/images/blank.png" data-src="http://del.h-cdn.co/assets/16/33/480x240/landscape-1471285832-tc-2.jpg" alt="Oreo Turkey"
+data-img980="http://del.h-cdn.co/assets/16/33/1471285832-tc-2.jpg"
+data-img980-w = "600"
+data-img980-h = "400"
+nopin="nopin"  /></div>
+<i
+class="icon link-icon icon-gallery icon-xs icon-content-type"></i></a></div><div
+class="landing-feed--story-utils"><div
+class="landing-feed--story-section">
+<a
+class="landing-feed--story-section-name link link-txt" href="/holiday-recipes/thanksgiving/">Best Thanksgiving Ever!</a></div><div
+class="landing-feed--story-shares">
+<i
+class="icon icon-share"></i>
+<span
+class="landing-feed--story-shares-text">Share</span><div
+class="share landing-share share-bar"><div
+class="share-module " data-share-location="social-btns-feed"><ul
+class="share-module--buttons"><li
+class="share-module--button-wrap share-module--button-wrap-facebook "><div
+class="share-button share-button--facebook "
+data-content-id="61825" data-tracking-id="share-button-facebook" data-url="http://www.delish.com/holiday-recipes/thanksgiving/g3579/oreo-turkeys/" data-image="http://del.h-cdn.co/assets/16/33/1471285832-tc-2.jpg">
+<a
+class="share-button--link share-button--open-window link " title="Share on Facebook"
+href="//www.facebook.com/v2.10/dialog/feed?app_id=184150621627178&name=9+Totally+Adorable+Oreo+Turkeys&description=Oreos+are+a+necessary+and+essential+part+of+every+holiday.&display=popup&link=http://www.delish.com/holiday-recipes/thanksgiving/g3579/oreo-turkeys/&picture=http://del.h-cdn.co/assets/16/33/1471285832-tc-2.jpg&redirect_uri=http://www.delish.com/holiday-recipes/thanksgiving/g3579/oreo-turkeys/&version=v2.10"
+target="_blank">
+<i
+class="share-button--icon icon icon-facebook link-icon"></i>
+</a></div></li><li
+class="share-module--button-wrap share-module--button-wrap-twitter "><div
+class="share-button share-button--twitter "
+data-content-id="61825" data-tracking-id="share-button-twitter" data-url="http://www.delish.com/holiday-recipes/thanksgiving/g3579/oreo-turkeys/" data-image="http://del.h-cdn.co/assets/16/33/1471285832-tc-2.jpg">
+<a
+class="share-button--link share-button--open-window link " title="Share on Twitter"
+target="_blank"
+href="//www.twitter.com/share?url=http://www.delish.com/holiday-recipes/thanksgiving/g3579/oreo-turkeys/&text=9%20Totally%20Adorable%20Oreo%20Turkeys&via=delishdotcom"
+data-site-handle="delishdotcom">
+<i
+class="share-button--icon icon icon-twitter link-icon"></i>
+</a></div></li><li
+class="share-module--button-wrap share-module--button-wrap-email "><div
+class="share-button share-button--email "
+data-content-id="61825" data-tracking-id="share-button-email" data-url="http://www.delish.com/holiday-recipes/thanksgiving/g3579/oreo-turkeys/" data-image="http://del.h-cdn.co/assets/16/33/1471285832-tc-2.jpg">
+<a
+class="share-button--link link " title="Email"
+href="mailto:?subject=9%20Totally%20Adorable%20Oreo%20Turkeys&body=http://www.delish.com/holiday-recipes/thanksgiving/g3579/oreo-turkeys/?src=social-email">
+<i
+class="share-button--icon icon icon-email link-icon"></i>
+</a></div></li></ul></div></div></div></div><div
+class="landing-feed--story-content">
+<a
+class="landing-feed--story-title link link-txt" href="/holiday-recipes/thanksgiving/g3579/oreo-turkeys/">9 Totally Adorable Oreo Turkeys</a><div
+class="landing-feed--story-abstract">
+<span
+class="abstract-text">Keep calm and gobble on.</span>
+<span
+class="byline--author " itemprop="author" itemscope itemtype="http://schema.org/Person">
+By
+<a
+href="http://www.delish.com/author/10328/sienna-fantozzi/" class="link link-txt byline--author-name" rel="author"><span >Sienna Fantozzi</span></a>		</span></div></div></div></div></div><div
+class="landing-feed--story "><div
+class="landing-feed--story-inner"><div
+class="landing-feed--story-container" data-uid="gallery.3564"><div
+class="landing-feed--story-image">
+<a
+href="/holiday-recipes/thanksgiving/g3564/potato-casserole/" class="link story-image--link"><div
+class="story-image--inner">
+<img
+class="lazy-image swap-image    "
+data-img320="http://del.h-cdn.co/assets/17/15/480x240/landscape-1491859543-delish-slow-cooker-scalloped-potatoes-2.jpg"
+data-img320-w = "480"
+data-img320-h = "240"
+data-cut=320
+src="//del.h-cdn.co/assets/delish/20180202221550/images/blank.png" data-src="http://del.h-cdn.co/assets/17/15/480x240/landscape-1491859543-delish-slow-cooker-scalloped-potatoes-2.jpg" alt="Slow Cooker Scalloped Potatoes Horizontal 1"
+data-img980="http://del.h-cdn.co/assets/17/15/640x320/landscape-1491859543-delish-slow-cooker-scalloped-potatoes-2.jpg"
+data-img980-w = "640"
+data-img980-h = "320"
+nopin="nopin"  /></div>
+<i
+class="icon link-icon icon-gallery icon-xs icon-content-type"></i></a></div><div
+class="landing-feed--story-utils"><div
+class="landing-feed--story-section">
+<a
+class="landing-feed--story-section-name link link-txt" href="/holiday-recipes/thanksgiving/">Best Thanksgiving Ever!</a></div><div
+class="landing-feed--story-shares">
+<i
+class="icon icon-share"></i>
+<span
+class="landing-feed--story-shares-text">Share</span><div
+class="share landing-share share-bar"><div
+class="share-module " data-share-location="social-btns-feed"><ul
+class="share-module--buttons"><li
+class="share-module--button-wrap share-module--button-wrap-facebook "><div
+class="share-button share-button--facebook "
+data-content-id="61720" data-tracking-id="share-button-facebook" data-url="http://www.delish.com/holiday-recipes/thanksgiving/g3564/potato-casserole/" data-image="http://del.h-cdn.co/assets/17/15/1600x800/landscape-1491859543-delish-slow-cooker-scalloped-potatoes-2.jpg">
+<a
+class="share-button--link share-button--open-window link " title="Share on Facebook"
+href="//www.facebook.com/v2.10/dialog/feed?app_id=184150621627178&name=22+Ultra-Comforting+Potato+Casseroles&description=These+hearty+recipes+need+to+be+in+your+fall+casserole+rotation.&display=popup&link=http://www.delish.com/holiday-recipes/thanksgiving/g3564/potato-casserole/&picture=http://del.h-cdn.co/assets/17/15/1600x800/landscape-1491859543-delish-slow-cooker-scalloped-potatoes-2.jpg&redirect_uri=http://www.delish.com/holiday-recipes/thanksgiving/g3564/potato-casserole/&version=v2.10"
+target="_blank">
+<i
+class="share-button--icon icon icon-facebook link-icon"></i>
+</a></div></li><li
+class="share-module--button-wrap share-module--button-wrap-twitter "><div
+class="share-button share-button--twitter "
+data-content-id="61720" data-tracking-id="share-button-twitter" data-url="http://www.delish.com/holiday-recipes/thanksgiving/g3564/potato-casserole/" data-image="http://del.h-cdn.co/assets/17/15/1600x800/landscape-1491859543-delish-slow-cooker-scalloped-potatoes-2.jpg">
+<a
+class="share-button--link share-button--open-window link " title="Share on Twitter"
+target="_blank"
+href="//www.twitter.com/share?url=http://www.delish.com/holiday-recipes/thanksgiving/g3564/potato-casserole/&text=22%20Ultra-Comforting%20Potato%20Casseroles&via=delishdotcom"
+data-site-handle="delishdotcom">
+<i
+class="share-button--icon icon icon-twitter link-icon"></i>
+</a></div></li><li
+class="share-module--button-wrap share-module--button-wrap-email "><div
+class="share-button share-button--email "
+data-content-id="61720" data-tracking-id="share-button-email" data-url="http://www.delish.com/holiday-recipes/thanksgiving/g3564/potato-casserole/" data-image="http://del.h-cdn.co/assets/17/15/1600x800/landscape-1491859543-delish-slow-cooker-scalloped-potatoes-2.jpg">
+<a
+class="share-button--link link " title="Email"
+href="mailto:?subject=22%20Ultra-Comforting%20Potato%20Casseroles&body=http://www.delish.com/holiday-recipes/thanksgiving/g3564/potato-casserole/?src=social-email">
+<i
+class="share-button--icon icon icon-email link-icon"></i>
+</a></div></li></ul></div></div></div></div><div
+class="landing-feed--story-content">
+<a
+class="landing-feed--story-title link link-txt" href="/holiday-recipes/thanksgiving/g3564/potato-casserole/">22 Ultra-Comforting Potato Casseroles</a><div
+class="landing-feed--story-abstract">
+<span
+class="abstract-text">We can deal with the cold when we've got eats like this.</span>
+<span
+class="byline--author " itemprop="author" itemscope itemtype="http://schema.org/Person">
+By
+<a
+href="http://www.delish.com/author/10328/sienna-fantozzi/" class="link link-txt byline--author-name" rel="author"><span >Sienna Fantozzi</span></a>		</span></div></div></div></div></div><div
+class="landing-feed--story "><div
+class="landing-feed--story-inner"><div
+class="landing-feed--story-container" data-uid="gallery.3588"><div
+class="landing-feed--story-image">
+<a
+href="/holiday-recipes/thanksgiving/g3588/thanksgiving-punches/" class="link story-image--link"><div
+class="story-image--inner">
+<img
+class="lazy-image swap-image    "
+data-img320="http://del.h-cdn.co/assets/17/36/480x240/landscape-1504728252-overhead.jpg"
+data-img320-w = "480"
+data-img320-h = "240"
+data-cut=320
+src="//del.h-cdn.co/assets/delish/20180202221550/images/blank.png" data-src="http://del.h-cdn.co/assets/17/36/480x240/landscape-1504728252-overhead.jpg" alt=""
+data-img980="http://del.h-cdn.co/assets/17/36/640x320/landscape-1504728252-overhead.jpg"
+data-img980-w = "640"
+data-img980-h = "320"
+nopin="nopin"  /></div>
+<i
+class="icon link-icon icon-gallery icon-xs icon-content-type"></i></a></div><div
+class="landing-feed--story-utils"><div
+class="landing-feed--story-section">
+<a
+class="landing-feed--story-section-name link link-txt" href="/holiday-recipes/thanksgiving/">Best Thanksgiving Ever!</a></div><div
+class="landing-feed--story-shares">
+<i
+class="icon icon-share"></i>
+<span
+class="landing-feed--story-shares-text">Share</span><div
+class="share landing-share share-bar"><div
+class="share-module " data-share-location="social-btns-feed"><ul
+class="share-module--buttons"><li
+class="share-module--button-wrap share-module--button-wrap-facebook "><div
+class="share-button share-button--facebook "
+data-content-id="61861" data-tracking-id="share-button-facebook" data-url="http://www.delish.com/holiday-recipes/thanksgiving/g3588/thanksgiving-punches/" data-image="http://del.h-cdn.co/assets/17/36/1600x800/landscape-1504728252-overhead.jpg">
+<a
+class="share-button--link share-button--open-window link " title="Share on Facebook"
+href="//www.facebook.com/v2.10/dialog/feed?app_id=184150621627178&name=14+Punches+Perfect+For+Your+Thanksgiving+Crowd&description=If+you%27re+having+a+lot+of+people+over%2C+you+need+a+big-batch+drink.&display=popup&link=http://www.delish.com/holiday-recipes/thanksgiving/g3588/thanksgiving-punches/&picture=http://del.h-cdn.co/assets/17/36/1600x800/landscape-1504728252-overhead.jpg&redirect_uri=http://www.delish.com/holiday-recipes/thanksgiving/g3588/thanksgiving-punches/&version=v2.10"
+target="_blank">
+<i
+class="share-button--icon icon icon-facebook link-icon"></i>
+</a></div></li><li
+class="share-module--button-wrap share-module--button-wrap-twitter "><div
+class="share-button share-button--twitter "
+data-content-id="61861" data-tracking-id="share-button-twitter" data-url="http://www.delish.com/holiday-recipes/thanksgiving/g3588/thanksgiving-punches/" data-image="http://del.h-cdn.co/assets/17/36/1600x800/landscape-1504728252-overhead.jpg">
+<a
+class="share-button--link share-button--open-window link " title="Share on Twitter"
+target="_blank"
+href="//www.twitter.com/share?url=http://www.delish.com/holiday-recipes/thanksgiving/g3588/thanksgiving-punches/&text=14%20Punches%20Perfect%20For%20Your%20Thanksgiving%20Crowd&via=delishdotcom"
+data-site-handle="delishdotcom">
+<i
+class="share-button--icon icon icon-twitter link-icon"></i>
+</a></div></li><li
+class="share-module--button-wrap share-module--button-wrap-email "><div
+class="share-button share-button--email "
+data-content-id="61861" data-tracking-id="share-button-email" data-url="http://www.delish.com/holiday-recipes/thanksgiving/g3588/thanksgiving-punches/" data-image="http://del.h-cdn.co/assets/17/36/1600x800/landscape-1504728252-overhead.jpg">
+<a
+class="share-button--link link " title="Email"
+href="mailto:?subject=14%20Punches%20Perfect%20For%20Your%20Thanksgiving%20Crowd&body=http://www.delish.com/holiday-recipes/thanksgiving/g3588/thanksgiving-punches/?src=social-email">
+<i
+class="share-button--icon icon icon-email link-icon"></i>
+</a></div></li></ul></div></div></div></div><div
+class="landing-feed--story-content">
+<a
+class="landing-feed--story-title link link-txt" href="/holiday-recipes/thanksgiving/g3588/thanksgiving-punches/">14 Punches Perfect For Your Thanksgiving Crowd</a><div
+class="landing-feed--story-abstract">
+<span
+class="abstract-text">Spike them or not, the choice is up to you.</span>
+<span
+class="byline--author " itemprop="author" itemscope itemtype="http://schema.org/Person">
+By
+<a
+href="http://www.delish.com/author/10328/sienna-fantozzi/" class="link link-txt byline--author-name" rel="author"><span >Sienna Fantozzi</span></a>		</span></div></div></div></div></div><div
+class="landing-feed--story "><div
+class="landing-feed--story-inner"><div
+class="landing-feed--story-container" data-uid="gallery.3011"><div
+class="landing-feed--story-image">
+<a
+href="/holiday-recipes/thanksgiving/g3011/thanksgiving-cocktails/" class="link story-image--link"><div
+class="story-image--inner">
+<img
+class="lazy-image swap-image    "
+data-img320="http://del.h-cdn.co/assets/16/46/480x240/landscape-1479425816-delish-cranberry-mimosa-02.jpg"
+data-img320-w = "480"
+data-img320-h = "240"
+data-cut=320
+src="//del.h-cdn.co/assets/delish/20180202221550/images/blank.png" data-src="http://del.h-cdn.co/assets/16/46/480x240/landscape-1479425816-delish-cranberry-mimosa-02.jpg" alt=""
+data-img980="http://del.h-cdn.co/assets/16/46/640x320/landscape-1479425816-delish-cranberry-mimosa-02.jpg"
+data-img980-w = "640"
+data-img980-h = "320"
+nopin="nopin"  /></div>
+<i
+class="icon link-icon icon-gallery icon-xs icon-content-type"></i></a></div><div
+class="landing-feed--story-utils"><div
+class="landing-feed--story-section">
+<a
+class="landing-feed--story-section-name link link-txt" href="/holiday-recipes/thanksgiving/">Best Thanksgiving Ever!</a></div><div
+class="landing-feed--story-shares">
+<i
+class="icon icon-share"></i>
+<span
+class="landing-feed--story-shares-text">Share</span><div
+class="share landing-share share-bar"><div
+class="share-module " data-share-location="social-btns-feed"><ul
+class="share-module--buttons"><li
+class="share-module--button-wrap share-module--button-wrap-facebook "><div
+class="share-button share-button--facebook "
+data-content-id="53354" data-tracking-id="share-button-facebook" data-url="http://www.delish.com/holiday-recipes/thanksgiving/g3011/thanksgiving-cocktails/" data-image="http://del.h-cdn.co/assets/16/46/1600x800/landscape-1479425816-delish-cranberry-mimosa-02.jpg">
+<a
+class="share-button--link share-button--open-window link " title="Share on Facebook"
+href="//www.facebook.com/v2.10/dialog/feed?app_id=184150621627178&name=33+Festive+Thanksgiving+Cocktails&description=Spoiler%3A+these+fall-flavored+cocktails+are+amaze+with+a+slice+of+pumpkin+or+apple+pie.+Plus%2C+try+our+amazing+Thanksgiving+punch+ideas+and+fall+sangrias%21&display=popup&link=http://www.delish.com/holiday-recipes/thanksgiving/g3011/thanksgiving-cocktails/&picture=http://del.h-cdn.co/assets/16/46/1600x800/landscape-1479425816-delish-cranberry-mimosa-02.jpg&redirect_uri=http://www.delish.com/holiday-recipes/thanksgiving/g3011/thanksgiving-cocktails/&version=v2.10"
+target="_blank">
+<i
+class="share-button--icon icon icon-facebook link-icon"></i>
+</a></div></li><li
+class="share-module--button-wrap share-module--button-wrap-twitter "><div
+class="share-button share-button--twitter "
+data-content-id="53354" data-tracking-id="share-button-twitter" data-url="http://www.delish.com/holiday-recipes/thanksgiving/g3011/thanksgiving-cocktails/" data-image="http://del.h-cdn.co/assets/16/46/1600x800/landscape-1479425816-delish-cranberry-mimosa-02.jpg">
+<a
+class="share-button--link share-button--open-window link " title="Share on Twitter"
+target="_blank"
+href="//www.twitter.com/share?url=http://www.delish.com/holiday-recipes/thanksgiving/g3011/thanksgiving-cocktails/&text=33%20Festive%20Thanksgiving%20Cocktails&via=delishdotcom"
+data-site-handle="delishdotcom">
+<i
+class="share-button--icon icon icon-twitter link-icon"></i>
+</a></div></li><li
+class="share-module--button-wrap share-module--button-wrap-email "><div
+class="share-button share-button--email "
+data-content-id="53354" data-tracking-id="share-button-email" data-url="http://www.delish.com/holiday-recipes/thanksgiving/g3011/thanksgiving-cocktails/" data-image="http://del.h-cdn.co/assets/16/46/1600x800/landscape-1479425816-delish-cranberry-mimosa-02.jpg">
+<a
+class="share-button--link link " title="Email"
+href="mailto:?subject=33%20Festive%20Thanksgiving%20Cocktails&body=http://www.delish.com/holiday-recipes/thanksgiving/g3011/thanksgiving-cocktails/?src=social-email">
+<i
+class="share-button--icon icon icon-email link-icon"></i>
+</a></div></li></ul></div></div></div></div><div
+class="landing-feed--story-content">
+<a
+class="landing-feed--story-title link link-txt" href="/holiday-recipes/thanksgiving/g3011/thanksgiving-cocktails/">33 Festive Thanksgiving Cocktails</a><div
+class="landing-feed--story-abstract">
+<span
+class="abstract-text">This year, we're thankful for delicious cocktails. </span>
+<span
+class="byline--author " itemprop="author" itemscope itemtype="http://schema.org/Person">
+By
+<a
+href="http://www.delish.com/author/10328/sienna-fantozzi/" class="link link-txt byline--author-name" rel="author"><span >Sienna Fantozzi</span></a>		</span></div></div></div></div></div><div
+class="landing-feed--story "><div
+class="landing-feed--story-inner"><div
+class="landing-feed--story-container" data-uid="article.44899"><div
+class="landing-feed--story-image">
+<a
+href="/holiday-recipes/thanksgiving/a44899/how-long-cook-turkey/" class="link story-image--link"><div
+class="story-image--inner">
+<img
+class="lazy-image swap-image    "
+data-img320="http://del.h-cdn.co/assets/15/47/480x240/landscape-1447867740-howlongtocookimage.jpg"
+data-img320-w = "480"
+data-img320-h = "240"
+data-cut=320
+src="//del.h-cdn.co/assets/delish/20180202221550/images/blank.png" data-src="http://del.h-cdn.co/assets/15/47/480x240/landscape-1447867740-howlongtocookimage.jpg" alt=""
+data-img980="http://del.h-cdn.co/assets/15/47/640x320/landscape-1447867740-howlongtocookimage.jpg"
+data-img980-w = "640"
+data-img980-h = "320"
+nopin="nopin"  /></div></a></div><div
+class="landing-feed--story-utils"><div
+class="landing-feed--story-section">
+<a
+class="landing-feed--story-section-name link link-txt" href="/holiday-recipes/thanksgiving/">Best Thanksgiving Ever!</a></div><div
+class="landing-feed--story-shares">
+<i
+class="icon icon-share"></i>
+<span
+class="landing-feed--story-shares-text">Share</span><div
+class="share landing-share share-bar"><div
+class="share-module " data-share-location="social-btns-feed"><ul
+class="share-module--buttons"><li
+class="share-module--button-wrap share-module--button-wrap-facebook "><div
+class="share-button share-button--facebook "
+data-content-id="55309" data-tracking-id="share-button-facebook" data-url="http://www.delish.com/holiday-recipes/thanksgiving/a44899/how-long-cook-turkey/" data-image="http://del.h-cdn.co/assets/15/47/1600x800/landscape-1447867740-howlongtocookimage.jpg">
+<a
+class="share-button--link share-button--open-window link " title="Share on Facebook"
+href="//www.facebook.com/v2.10/dialog/feed?app_id=184150621627178&name=How+Long+Should+You+Cook+Your+Turkey%3F&description=I+know+when+that+timer+rings%2C+that+can+only+mean+one+thing.+&display=popup&link=http://www.delish.com/holiday-recipes/thanksgiving/a44899/how-long-cook-turkey/&picture=http://del.h-cdn.co/assets/15/47/1600x800/landscape-1447867740-howlongtocookimage.jpg&redirect_uri=http://www.delish.com/holiday-recipes/thanksgiving/a44899/how-long-cook-turkey/&version=v2.10"
+target="_blank">
+<i
+class="share-button--icon icon icon-facebook link-icon"></i>
+</a></div></li><li
+class="share-module--button-wrap share-module--button-wrap-twitter "><div
+class="share-button share-button--twitter "
+data-content-id="55309" data-tracking-id="share-button-twitter" data-url="http://www.delish.com/holiday-recipes/thanksgiving/a44899/how-long-cook-turkey/" data-image="http://del.h-cdn.co/assets/15/47/1600x800/landscape-1447867740-howlongtocookimage.jpg">
+<a
+class="share-button--link share-button--open-window link " title="Share on Twitter"
+target="_blank"
+href="//www.twitter.com/share?url=http://www.delish.com/holiday-recipes/thanksgiving/a44899/how-long-cook-turkey/&text=How%20Long%20Should%20You%20Cook%20Your%20Turkey%3F&via=delishdotcom"
+data-site-handle="delishdotcom">
+<i
+class="share-button--icon icon icon-twitter link-icon"></i>
+</a></div></li><li
+class="share-module--button-wrap share-module--button-wrap-email "><div
+class="share-button share-button--email "
+data-content-id="55309" data-tracking-id="share-button-email" data-url="http://www.delish.com/holiday-recipes/thanksgiving/a44899/how-long-cook-turkey/" data-image="http://del.h-cdn.co/assets/15/47/1600x800/landscape-1447867740-howlongtocookimage.jpg">
+<a
+class="share-button--link link " title="Email"
+href="mailto:?subject=How%20Long%20Should%20You%20Cook%20Your%20Turkey%3F&body=http://www.delish.com/holiday-recipes/thanksgiving/a44899/how-long-cook-turkey/?src=social-email">
+<i
+class="share-button--icon icon icon-email link-icon"></i>
+</a></div></li></ul></div></div></div></div><div
+class="landing-feed--story-content">
+<a
+class="landing-feed--story-title link link-txt" href="/holiday-recipes/thanksgiving/a44899/how-long-cook-turkey/">How Long Should You Cook Your Turkey?</a><div
+class="landing-feed--story-abstract">
+<span
+class="abstract-text">Who needs Google when you've got this chart?</span>
+<span
+class="byline--author " itemprop="author" itemscope itemtype="http://schema.org/Person">
+By
+<a
+href="http://www.delish.com/author/1498/alyssa-fiorentino/" class="link link-txt byline--author-name" rel="author"><span >Alyssa Fiorentino</span></a>		</span></div></div></div></div></div></div></div><div
+id="load-more" class="load-more stuff"><div
+class="load-more--icons">
+<i
+class="icon icon-m icon-arrow-down01"></i>
+<i
+class="icon icon-m icon-arrow-down01"></i>
+<i
+class="icon icon-m icon-loader"></i></div><div
+class="load-more-label">Load more stories</div></div></div><div
+class ="footer-outer">
+<footer
+class="footer"><h3 class="footer--logo"><a
+class="link" href="/">
+<svg
+version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+viewBox="0 0 1224 343.5" enable-background="new 0 0 1224 343.5" xml:space="preserve">
+<g
+fill="#FFFFFF">
+<path
+d="M170.4,55.8c0-29-5.6-37.3-26-47.2V7.7H248v277.3c0,27.3,2.2,34.2,20.8,46.4v0.9h-98.4v-53.7
+c-9.1,32.5-34.7,58.1-72.8,58.1c-50.3,0-91.4-42.5-91.4-109.2c0-69.3,43.3-114,97.1-114c35.5,0,58.1,19.9,67.2,48.5V55.8z
+M170.4,248.2v-49.4c0-39-19.5-64.1-41.6-64.1c-27.7,0-40.7,32.1-40.7,92.7c0,50.3,14.7,78.4,41.6,78.4
+C151.8,305.9,170.4,282.5,170.4,248.2z"/>
+<path
+d="M488.1,215.3H350.3c0,53.7,28.2,85.8,69.8,85.8c26.4,0,49.4-11.7,62.8-38.6l3,1.3c-12.6,46.4-51.6,72.8-101,72.8
+c-62,0-113.1-40.7-113.1-111.4c0-68,51.6-111.8,113.5-111.8C455.1,113.5,488.1,158.1,488.1,215.3z M413.5,206.2
+c0-48.5-3.5-85.4-28.2-85.4c-22.5,0-33.8,34.2-34.7,85.4H413.5z"/>
+<path
+d="M592.9,285.1c0,28.6,1.3,34.2,20.4,46.4v0.9H495.4v-0.9c18.6-12.1,19.9-17.8,19.9-46.4V55.8c0-29-5.2-37.3-25.6-47.2V7.7
+h103.1V285.1z"/>
+<path
+d="M723.3,285.1c0,28.6,1.3,34.2,20.4,46.4v0.9H625.4v-0.9c19.1-12.1,20.4-17.8,20.4-46.4V165.9c0-29.5-2.6-35.5-23-47.2v-0.9
+h100.5V285.1z M683.5,9c25.1,0,44.2,17.8,44.2,41.2s-19.1,41.6-44.2,41.6c-24.7,0-43.3-18.2-43.3-41.6S658.8,9,683.5,9z"/>
+<path
+d="M809.1,147.7c0,19.5,13.4,25.6,53.3,37.7c56.3,17.8,79.7,37.3,79.7,79.3c0,44.2-36,71.9-88,71.9c-29.9,0-50.3-9.1-65.9-9.1
+c-10.8,0-16,4.8-22.1,9.5l-4.8-79.3h0.9c24.7,46.4,53.7,71.5,91.9,71.5c21.2,0,36.8-10.4,36.8-31.2c0-22.1-19.1-27.7-51.6-37.7
+c-53.3-16.5-76.7-38.1-76.7-79.7c0-40.3,34.2-67.2,78.4-67.2c27.3,0,43.8,10.4,59.4,10.4c10,0,16.5-4.3,24.3-10.8v70.2H924
+c-19.1-37.3-52-62.4-82.8-62.4C821.7,120.8,809.1,131.7,809.1,147.7z"/>
+<path
+d="M1044,7.7v166.4c10.8-39,38.6-60.7,75.4-60.7c46.8,0,68.5,32.9,68.5,75v96.6c0,28.6,1.3,34.2,20.4,46.4v0.9h-117.9v-0.9
+c18.6-12.1,19.9-17.8,19.9-46.4v-98.8c0-19.9-8.7-36-29-36c-21.7,0-37.3,18.2-37.3,57.2v77.6c0,28.6,1.3,34.2,20.4,46.4v0.9H946.5
+v-0.9c18.6-12.1,19.9-17.8,19.9-46.4V55.8c0-29-5.2-37.3-25.6-47.2V7.7H1044z"/>
+</g>
+</svg></a></h3><ul
+class="footer--social"><li
+class="footer--social-item footer--social-item-facebook">
+<a
+class="footer--link link" href="https://www.facebook.com/delish" target="_blank">
+<i
+class="icon icon-facebook link-icon"></i>
+</a></li><li
+class="footer--social-item footer--social-item-twitter">
+<a
+class="footer--link link" href="https://twitter.com/delishdotcom" target="_blank">
+<i
+class="icon icon-twitter link-icon"></i>
+</a></li><li
+class="footer--social-item footer--social-item-googleplus">
+<a
+class="footer--link link" href="https://plus.google.com/+delish/posts" target="_blank">
+<i
+class="icon icon-googleplus link-icon"></i>
+</a></li><li
+class="footer--social-item footer--social-item-pinterest">
+<a
+class="footer--link link" href="http://www.pinterest.com/Delish/?auto_follow=1" target="_blank">
+<i
+class="icon icon-pinterest link-icon"></i>
+</a></li><li
+class="footer--social-item footer--social-item-instagram">
+<a
+class="footer--link link" href="http://instagram.com/delish" target="_blank">
+<i
+class="icon icon-instagram link-icon"></i>
+</a></li><li
+class="footer--social-item footer--social-item-youtube">
+<a
+class="footer--link link" href="https://www.youtube.com/c/delish?sub_confirmation=1" target="_blank">
+<i
+class="icon icon-youtube link-icon"></i>
+</a></li></ul><ul
+class="footer--links no-related-links"><li><a
+href="https://preferences.hearstmags.com/brands/DEL/subscribe.aspx?authId=2A4EF382-C9E0-4874-9E59-E6C0897D0C18&maj=WNL&min=UNDEF">Newsletter</a></li><li><a
+href="/about/about-us">About Us</a></li><li><a
+href="http://www.hearst.com/press-room/">Press Room</a></li><li><a
+href="/about/contact-us/">Contact Us</a></li><li><a
+href="http://www.bestproducts.com/best-kitchen-gadgets-appliance-reviews/">BestProducts</a></li><li><a
+href="/about/community-guidelines/">Community Guidelines</a></li><li><a
+href="/about/advertise-online/">Advertise Online</a></li><li><a
+href="/about/about-our-ads/">About Our Ads</a></li><li><a
+href="http://www.hearst.com/beinggreen/">Being Green</a></li><li><a
+href="/about/oba-policy/">Why Did I Get This Ad?</a></li></ul><div
+class="footer--logo-hearst"><img
+src="//del.h-cdn.co/assets/delish/20180202221550/images/blank.png" class="lazy-image" data-src="//del.h-cdn.co/assets/delish/20180202221550/images/logo-network-lifestyle-bw.png" alt="Hearst Corporation"></div><p
+class="footer--hearst-disclaimer">A Part of Hearst Digital Media</p><p
+class="footer--affiliate-disclosure">Delish participates in various affiliate marketing programs, which means Delish gets paid commissions on purchases made through our links to retailer sites.</p><div
+class="footer--legal"><p
+class="footer--legal-text">&copy;2018 Hearst Communications, Inc. All Rights Reserved.</p><ul
+class="footer--legal-links"><li
+class="footer--legal-link"><a
+class="link link-txt" href="/about/privacy-policy">Privacy Policy</a></li><li
+class="footer--legal-link"><a
+class="link link-txt" href="/about/privacy-policy#california">Your California Privacy Rights</a></li><li
+class="footer--legal-link"><a
+class="link link-txt" href="/about/terms-of-use">Terms of Use</a></li><li
+class="footer--legal-link"><a
+class="link link-txt" href="/sitemap/">Site Map</a></li></ul></div></footer></div><div
+class="page-container-overlay"></div></div></div> <script type="text/javascript">var JS_BASE_TRANSLATIONS = {"locales":{"locale":"en_US","fallbackLocales":"en_US"},"en_US":{"translation":{"LANG_TYPE_TO_SEARCH":"Type to Search","LANG_PRESS_ENTER_TO_SEARCH":"Press enter to search","LANG_PRESS_ENTER_OR_SELECT_ONE_OF_THE_SUGGESTIONS_BELOW_TO_SEARCH":"Press enter or select one of the suggestions below to search","LANG_LOAD_MORE_STORIES":"Load more stories","LANG_LOADING_MORE_STORIES":"Loading more stories","LANG_JOIN_THE_CONVERSATION":"Join the Conversation!","LANG_SEE_THE_CONVERSATION":"See the Conversation!","LANG_HIDE_THE_CONVERSATION":"Hide the Conversation","LANG_MOST_POPULAR":"Most Popular"}}};</script> </body></html>
