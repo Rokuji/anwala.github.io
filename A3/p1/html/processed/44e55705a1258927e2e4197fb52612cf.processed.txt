@@ -1,0 +1,1151 @@
+https://www.youtube.com/watch?v=2mLYeA-ORV4&feature=youtu.be
+@font-face{font-family:'Roboto';font-style:normal;font-weight:400;src:local('Roboto Regular'),local('Roboto-Regular'),url(//fonts.gstatic.com/s/roboto/v18/zN7GBFwfMP4uA6AR0HCoLQ.ttf)format('truetype');}@font-face{font-family:'Roboto';font-style:normal;font-weight:500;src:local('Roboto Medium'),local('Roboto-Medium'),url(//fonts.gstatic.com/s/roboto/v18/RxZJdnzeo3R5zSexge8UUaCWcynf_cDxXwCLxiixG1c.ttf)format('truetype');}@font-face{font-family:'Roboto';font-style:italic;font-weight:400;src:local('Roboto Italic'),local('Roboto-Italic'),url(//fonts.gstatic.com/s/roboto/v18/W4wDsBUluyw0tK3tykhXEfesZW2xOQ-xsNqO47m55DA.ttf)format('truetype');}@font-face{font-family:'Roboto';font-style:italic;font-weight:500;src:local('Roboto Medium Italic'),local('Roboto-MediumItalic'),url(//fonts.gstatic.com/s/roboto/v18/OLffGBTaF0XFOW1gnuHF0Z0EAVxt0G0biEntp43Qt6E.ttf)format('truetype');}if (document.fonts && document.fonts.load) {document.fonts.load("400 10pt Roboto", "E");document.fonts.load("500 10pt Roboto", "E");}var ytcsi = {gt: function(n) {n = (n || '') + 'data_';return ytcsi[n] || (ytcsi[n] = {tick: {},info: {}});},now: window.performance && window.performance.timing &&window.performance.now ? function() {return window.performance.timing.navigationStart + window.performance.now();} : function() {return (new Date()).getTime();},tick: function(l, t, n) {ticks = ytcsi.gt(n).tick;var v = t || ytcsi.now();if (ticks[l]) {ticks['_' + l] = (ticks['_' + l] || [ticks[l]]);ticks['_' + l].push(v);}ticks[l] = v;},info: function(k, v, n) {ytcsi.gt(n).info[k] = v;},setStart: function(s, t, n) {ytcsi.info('yt_sts', s, n);ytcsi.tick('_start', t, n);}};(function(w, d) {ytcsi.setStart('dhs', w.performance ? w.performance.timing.responseStart : null);var isPrerender = (d.visibilityState || d.webkitVisibilityState) == 'prerender';var vName = (!d.visibilityState && d.webkitVisibilityState)? 'webkitvisibilitychange' : 'visibilitychange';if (isPrerender) {ytcsi.info('prerender', 1);var startTick = function() {ytcsi.setStart('dhs');d.removeEventListener(vName, startTick);};d.addEventListener(vName, startTick, false);}if (d.addEventListener) {d.addEventListener(vName, function() {ytcsi.tick('vc');}, false);}var slt = function(el, t) {setTimeout(function() {var n = ytcsi.now();el.loadTime = n;if (el.slt) {el.slt();}}, t);};w.__ytRIL = function(el) {if (!el.getAttribute('data-thumb')) {if (w.requestAnimationFrame) {w.requestAnimationFrame(function() {slt(el, 0);});} else {slt(el, 16);}}};})(window, document);var ytcfg = {d: function() {return (window.yt && yt.config_) || ytcfg.data_ || (ytcfg.data_ = {});},get: function(k, o) {return (k in ytcfg.d()) ? ytcfg.d()[k] : o;},set: function() {var a = arguments;if (a.length > 1) {ytcfg.d()[a[0]] = a[1];} else {for (var k in a[0]) {ytcfg.d()[k] = a[0][k];}}}}; ytcfg.set("ROOT_VE_TYPE", 3832);ytcfg.set("EVENT_ID", "HQGKWpjyNKql-AOoiKNw");
+ytcfg.set("EXP_HTML5_SERVERSIDE_PAGEAD_ID_SETS_COOKIE", true);ytcfg.set("LACT", null);
+window.yterr = window.yterr || true;
+
+        (function(){var b={a:"content-snap-width-1",b:"content-snap-width-2",c:"content-snap-width-3"};function f(){var a=[],c;for(c in b)a.push(b[c]);return a}
+function h(a){var c=f().concat(["guide-pinned","show-guide"]),e=c.length,g=[];a.replace(/\S+/g,function(a){for(var d=0;d<e;d++)if(a==c[d])return;g.push(a)});
+return g}
+;function k(a,c,e){var g=document.getElementsByTagName("html")[0],d=h(g.className);a&&1251<=(window.innerWidth||document.documentElement.clientWidth)&&(d.push("guide-pinned"),c&&d.push("show-guide"));e&&(e=(window.innerWidth||document.documentElement.clientWidth)-21-50,1251<=(window.innerWidth||document.documentElement.clientWidth)&&a&&c&&(e-=230),d.push(1262<=e?"content-snap-width-3":1056<=e?"content-snap-width-2":"content-snap-width-1"));g.className=d.join(" ")}
+var l=["yt","www","masthead","sizing","runBeforeBodyIsReady"],m=this;l[0]in m||!m.execScript||m.execScript("var "+l[0]);for(var n;l.length&&(n=l.shift());)l.length||void 0===k?m[n]&&m[n]!==Object.prototype[n]?m=m[n]:m=m[n]={}:m[n]=k;}).call(this);
+
+      try {window.ytbuffer = {};ytbuffer.handleClick = function(e) {var element = e.target || e.srcElement;while (element.parentElement) {if (/(^| )yt-can-buffer( |$)/.test(element.className)) {window.ytbuffer = {bufferedClick: e};element.className += ' yt-is-buffered';break;}element = element.parentElement;}};if (document.addEventListener) {document.addEventListener('click', ytbuffer.handleClick);} else {document.attachEvent('onclick', ytbuffer.handleClick);}} catch(e) {}
+
+    yt.www.masthead.sizing.runBeforeBodyIsReady(false,false,true);
+  
+
+var ytimg = {};ytimg.count = 1;ytimg.preload = function(src) {var img = new Image();var count = ++ytimg.count;ytimg[count] = img;img.onload = img.onerror = function() {delete ytimg[count];};img.src = src;};
+
+
+
+
+
+ytimg.preload("https:\/\/r3---sn-jvm-vg4l.googlevideo.com\/generate_204?conn2");ytimg.preload("https:\/\/r3---sn-jvm-vg4l.googlevideo.com\/generate_204");
+Taylor Swift - Wildest Dreams I Bad Blood (Cover Medley) - YouTube 
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.exp-invert-logo .hats-logo {background: no-repeat url(/yts/img/ringo/hitchhiker/logo_mini_gray-vflfanGkh.png);width: 65px;height: 15px;}.exp-invert-logo #header:before,.exp-invert-logo .ypc-join-family-header .logo,.exp-invert-logo #footer-logo .footer-logo-icon,.exp-invert-logo #yt-masthead #logo-container .logo,.exp-invert-logo #masthead #logo-container,.exp-invert-logo .admin-masthead-logo a,.exp-invert-logo #yt-sidebar-styleguide-logo #logo {background: no-repeat url(/yts/img/ringo/hitchhiker/logo_small-vflHpzGZm.png);width: 100px;height: 30px;}.exp-invert-logo.inverted-hdpi #header:before,.exp-invert-logo.inverted-hdpi .ypc-join-family-header .logo,.exp-invert-logo.inverted-hdpi #footer-logo .footer-logo-icon,.exp-invert-logo.inverted-hdpi #yt-masthead #logo-container .logo,.exp-invert-logo.inverted-hdpi #masthead #logo-container,.exp-invert-logo.inverted-hdpi .admin-masthead-logo a,.exp-invert-logo.inverted-hdpi #yt-sidebar-styleguide-logo #logo {background: no-repeat url(/yts/img/ringo/hitchhiker/logo_small_2x-vfl4_cFqn.png);background-size: 100px 30px;width: 100px;height: 30px;}.exp-invert-logo.exp-fusion-nav-redesign .masthead-logo-renderer-logo {background: no-repeat url(/yts/img/ringo/hitchhiker/yt_play_logo-vflLfk4yD.png);width: 40px;height: 28px;}.exp-invert-logo.inverted-hdpi.exp-fusion-nav-redesign .masthead-logo-renderer-logo {background: no-repeat url(/yts/img/ringo/hitchhiker/yt_play_logo_2x-vflXx5Pg3.png);width: 40px;height: 28px;}@media screen and (max-width: 656px) {.exp-invert-logo #yt-masthead #logo-container .logo {background: no-repeat url(/yts/img/ringo/hitchhiker/yt_play_logo-vflLfk4yD.png);width: 40px;height: 28px;}.exp-invert-logo.inverted-hdpi #yt-masthead #logo-container .logo {background: no-repeat url(/yts/img/ringo/hitchhiker/yt_play_logo_2x-vflXx5Pg3.png);background-size: 40px 28px;width: 40px;height: 28px;}}@media only screen and (min-width: 0px) and (max-width: 498px),only screen and (min-width: 499px) and (max-width: 704px) {.exp-invert-logo.exp-responsive #yt-masthead #logo-container {background: no-repeat url(/yts/img/ringo/hitchhiker/yt_play_logo-vflLfk4yD.png);width: 40px;height: 28px;}.exp-invert-logo.inverted-hdpi.exp-responsive #yt-masthead #logo-container {background: no-repeat url(/yts/img/ringo/hitchhiker/yt_play_logo_2x-vflXx5Pg3.png);background-size: 40px 28px;width: 40px;height: 28px;}}.exp-invert-logo #yt-masthead #logo-container .logo-red {background: no-repeat url(/yts/img/ringo/hitchhiker/logo_youtube_red-vflZxcSR1.png);width: 132px;height: 30px;}.exp-invert-logo.inverted-hdpi #yt-masthead #logo-container .logo-red {background: no-repeat url(/yts/img/ringo/hitchhiker/logo_youtube_red_2x-vflOSHA_n.png);background-size: 132px 30px;width: 132px;height: 30px;}.exp-invert-logo .guide-item .guide-video-youtube-red-icon {background: no-repeat url(/yts/img/ringo/hitchhiker/video_youtube_red-vflovGTdz.png);width: 20px;height: 20px;}.exp-invert-logo.inverted-hdpi .guide-item .guide-video-youtube-red-icon {background: no-repeat url(/yts/img/ringo/hitchhiker/video_youtube_red_2x-vflqMdgEM.png);background-size: 20px 20px;width: 20px;height: 20px;}.exp-invert-logo .guide-item:hover .guide-video-youtube-red-icon,.exp-invert-logo .guide-item.guide-item-selected .guide-video-youtube-red-icon {background: no-repeat url(/yts/img/ringo/hitchhiker/video_youtube_red_hover-vflgV4Gv0.png);width: 20px;height: 20px;}.exp-invert-logo.inverted-hdpi .guide-item:hover .guide-video-youtube-red-icon,.exp-invert-logo.inverted-hdpi .guide-item.guide-item-selected .guide-video-youtube-red-icon {background: no-repeat url(/yts/img/ringo/hitchhiker/video_youtube_red_hover_2x-vflYjZHvf.png);background-size: 20px 20px;width: 20px;height: 20px;}.exp-invert-logo li.guide-section h3,.exp-invert-logo li.guide-section h3 a {color: #f00;}.exp-invert-logo a.yt-uix-button-epic-nav-item:hover,.exp-invert-logo a.yt-uix-button-epic-nav-item.selected,.exp-invert-logo a.yt-uix-button-epic-nav-item.yt-uix-button-toggled,.exp-invert-logo a.yt-uix-button-epic-nav-item.partially-selected,.exp-invert-logo a.yt-uix-button-epic-nav-item.partially-selected:hover,.exp-invert-logo button.yt-uix-button-epic-nav-item:hover,.exp-invert-logo button.yt-uix-button-epic-nav-item.selected,.exp-invert-logo button.yt-uix-button-epic-nav-item.yt-uix-button-toggled,.exp-invert-logo .epic-nav-item:hover,.exp-invert-logo .epic-nav-item.selected,.exp-invert-logo .epic-nav-item.yt-uix-button-toggled,.exp-invert-logo .epic-nav-item-heading,.exp-invert-logo .yt-gb-shelf-item-thumbtab.yt-gb-selected-shelf-tab::before {border-color: #f00;}.exp-invert-logo .resume-playback-progress-bar,.exp-invert-logo .yt-uix-button-subscribe-branded,.exp-invert-logo .yt-uix-button-subscribe-branded[disabled],.exp-invert-logo .yt-uix-button-subscribe-branded[disabled]:hover,.exp-invert-logo .yt-uix-button-subscribe-branded[disabled]:active,.exp-invert-logo .yt-uix-button-subscribe-branded[disabled]:focus,.exp-invert-logo .sb-notif-on .yt-uix-button-content,.exp-invert-logo .guide-item.guide-item-selected,.exp-invert-logo .guide-item.guide-item-selected:hover,.exp-invert-logo .guide-item.guide-item-selected .yt-deemphasized-text,.exp-invert-logo .guide-item.guide-item-selected:hover .yt-deemphasized-text {background-color: #f00;}.exp-invert-logo .yt-uix-button-subscribe-branded:hover {background-color: #d90a17;}.exp-invert-logo .yt-uix-button-subscribe-branded.yt-is-buffered,.exp-invert-logo .yt-uix-button-subscribe-branded:active,.exp-invert-logo .yt-uix-button-subscribe-branded.yt-uix-button-toggled,.exp-invert-logo .yt-uix-button-subscribe-branded.yt-uix-button-active,.exp-invert-logo .yt-uix-button-subscribed-branded.external,.exp-invert-logo .yt-uix-button-subscribed-branded.external[disabled],.exp-invert-logo .yt-uix-button-subscribed-branded.external:active,.exp-invert-logo .yt-uix-button-subscribed-branded.external.yt-uix-button-toggled,.exp-invert-logo .yt-uix-button-subscribed-branded.external.yt-uix-button-active {background-color: #a60812;}.exp-invert-logo #header:before, .exp-invert-logo .ypc-join-family-header .logo, .exp-invert-logo #footer-logo .footer-logo-icon, .exp-invert-logo #yt-masthead #logo-container .logo, .exp-invert-logo #masthead #logo-container, .exp-invert-logo .admin-masthead-logo a, .exp-invert-logo #yt-sidebar-styleguide-logo #logo { background: no-repeat url(/yts/img/ringo/hitchhiker/logo_small_2x-vfl4_cFqn.png); background-size: 100px 30px; } .exp-invert-logo #yt-masthead #logo-container .logo-red { background: no-repeat url(/yts/img/ringo/hitchhiker/logo_youtube_red_2x-vflOSHA_n.png); background-size: 132px 30px; } @media only screen and (min-width: 0px) and (max-width: 498px), only screen and (min-width: 499px) and (max-width: 704px) { .exp-invert-logo.exp-responsive #yt-masthead #logo-container { background: no-repeat url(/yts/img/ringo/hitchhiker/yt_play_logo_2x-vflXx5Pg3.png); background-size: 40px 28px; } } .guide-sort-container {display: none} 
+ 
+
+ 
+Skip navigation
+  
+ 
+
+ 
+Sign inSearch
+
+ 
+
+
+
+
+
+Loading...
+    
+
+
+
+
+
+
+ 
+
+
+Close
+
+ 
+
+
+ 
+
+ Yeah, keep it
+Undo
+Close
+ 
+
+
+
+
+              This video is unavailable.
+
+    
+
+
+
+
+
+if (window.ytcsi) {window.ytcsi.tick("cfg", null, '');}
+var ytplayer = ytplayer || {};ytplayer.config = {"sts":17574,"params":{"allowfullscreen":"true","allowscriptaccess":"always","bgcolor":"#000000"},"min_version":"8.0.0","html5":true,"url":"","args":{"ad_preroll":"1","cid":"889938","rmktEnabled":"1","afv":true,"vss_host":"s.youtube.com","innertube_api_key":"AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8","author":"Berklee College of Music","apiary_host_firstparty":"","watermark":",https:\/\/s.ytimg.com\/yts\/img\/watermark\/youtube_watermark-vflHX6b6E.png,https:\/\/s.ytimg.com\/yts\/img\/watermark\/youtube_hd_watermark-vflAzLcD6.png","enablecsi":"1","iv_load_policy":"1","iv3_module":"1","external_play_video":"1","adaptive_fmts":"s=057559EA47564742F2018E4B10172E3A578515E295.6C083E9BCF774F4FB6130EA1A6BD132C4996340B40B\u0026bitrate=3370926\u0026fps=24\u0026clen=61593327\u0026size=1920x1080\u0026index=716-1299\u0026init=0-715\u0026projection_type=1\u0026itag=137\u0026xtags=\u0026url=https%3A%2F%2Fr3---sn-jvm-vg4l.googlevideo.com%2Fvideoplayback%3Fc%3DWEB%26ei%3DHQGKWpjyNKql-AOoiKNw%26fvip%3D3%26mm%3D31%252C29%26pl%3D33%26mn%3Dsn-jvm-vg4l%252Csn-vgqskned%26id%3Do-AILwv6VJw8FripHygFrMKA-RyOz-H-D97mQPLJS_8eUu%26dur%3D242.541%26requiressl%3Dyes%26mt%3D1518993581%26mv%3Dm%26ms%3Dau%252Crdu%26ip%3D2600%253A8805%253A1000%253A5e90%253A89ba%253A9035%253Ac8dc%253Ae4a1%26initcwndbps%3D1122500%26lmt%3D1448352414759099%26ipbits%3D0%26expire%3D1519015293%26source%3Dyoutube%26sparams%3Daitags%252Cclen%252Cdur%252Cei%252Cgir%252Cid%252Cinitcwndbps%252Cip%252Cipbits%252Citag%252Ckeepalive%252Clmt%252Cmime%252Cmm%252Cmn%252Cms%252Cmv%252Cpl%252Crequiressl%252Csource%252Cexpire%26clen%3D61593327%26gir%3Dyes%26keepalive%3Dyes%26mime%3Dvideo%252Fmp4%26key%3Dyt6%26itag%3D137%26aitags%3D133%252C134%252C135%252C136%252C137%252C160%252C242%252C243%252C244%252C247%252C248%252C278\u0026quality_label=1080p\u0026type=video%2Fmp4%3B+codecs%3D%22avc1.640028%22\u0026lmt=1448352414759099,s=F838E0A134EC1D52FDCC05077E18A08E48FDD97811.2879BA6DBE36EF3C108C512F2F1A581AAF86B53C53C\u0026bitrate=2841175\u0026fps=24\u0026clen=55902974\u0026size=1920x1080\u0026index=243-1048\u0026init=0-242\u0026projection_type=1\u0026itag=248\u0026xtags=\u0026url=https%3A%2F%2Fr3---sn-jvm-vg4l.googlevideo.com%2Fvideoplayback%3Fc%3DWEB%26ei%3DHQGKWpjyNKql-AOoiKNw%26fvip%3D3%26mm%3D31%252C29%26pl%3D33%26mn%3Dsn-jvm-vg4l%252Csn-vgqskned%26id%3Do-AILwv6VJw8FripHygFrMKA-RyOz-H-D97mQPLJS_8eUu%26dur%3D242.500%26requiressl%3Dyes%26mt%3D1518993581%26mv%3Dm%26ms%3Dau%252Crdu%26ip%3D2600%253A8805%253A1000%253A5e90%253A89ba%253A9035%253Ac8dc%253Ae4a1%26initcwndbps%3D1122500%26lmt%3D1442425077719900%26ipbits%3D0%26expire%3D1519015293%26source%3Dyoutube%26sparams%3Daitags%252Cclen%252Cdur%252Cei%252Cgir%252Cid%252Cinitcwndbps%252Cip%252Cipbits%252Citag%252Ckeepalive%252Clmt%252Cmime%252Cmm%252Cmn%252Cms%252Cmv%252Cpl%252Crequiressl%252Csource%252Cexpire%26clen%3D55902974%26gir%3Dyes%26keepalive%3Dyes%26mime%3Dvideo%252Fwebm%26key%3Dyt6%26itag%3D248%26aitags%3D133%252C134%252C135%252C136%252C137%252C160%252C242%252C243%252C244%252C247%252C248%252C278\u0026quality_label=1080p\u0026type=video%2Fwebm%3B+codecs%3D%22vp9%22\u0026lmt=1442425077719900,s=BF5F647220B7D05ADC26CF26A8E69443FF59E3ADB1.75C306945F53E047A429A9C6971A653C870AEEEDEED\u0026bitrate=1739294\u0026fps=24\u0026clen=33313693\u0026size=1280x720\u0026index=714-1297\u0026init=0-713\u0026projection_type=1\u0026itag=136\u0026xtags=\u0026url=https%3A%2F%2Fr3---sn-jvm-vg4l.googlevideo.com%2Fvideoplayback%3Fc%3DWEB%26ei%3DHQGKWpjyNKql-AOoiKNw%26fvip%3D3%26mm%3D31%252C29%26pl%3D33%26mn%3Dsn-jvm-vg4l%252Csn-vgqskned%26id%3Do-AILwv6VJw8FripHygFrMKA-RyOz-H-D97mQPLJS_8eUu%26dur%3D242.541%26requiressl%3Dyes%26mt%3D1518993581%26mv%3Dm%26ms%3Dau%252Crdu%26ip%3D2600%253A8805%253A1000%253A5e90%253A89ba%253A9035%253Ac8dc%253Ae4a1%26initcwndbps%3D1122500%26lmt%3D1448352384934447%26ipbits%3D0%26expire%3D1519015293%26source%3Dyoutube%26sparams%3Daitags%252Cclen%252Cdur%252Cei%252Cgir%252Cid%252Cinitcwndbps%252Cip%252Cipbits%252Citag%252Ckeepalive%252Clmt%252Cmime%252Cmm%252Cmn%252Cms%252Cmv%252Cpl%252Crequiressl%252Csource%252Cexpire%26clen%3D33313693%26gir%3Dyes%26keepalive%3Dyes%26mime%3Dvideo%252Fmp4%26key%3Dyt6%26itag%3D136%26aitags%3D133%252C134%252C135%252C136%252C137%252C160%252C242%252C243%252C244%252C247%252C248%252C278\u0026quality_label=720p\u0026type=video%2Fmp4%3B+codecs%3D%22avc1.4d401f%22\u0026lmt=1448352384934447,s=D7579B05777835AAD2FCC38B5DB9C028D769057F46.83EF7C84FF5D1CC1B476E001D68B8965827B586C86C\u0026bitrate=1562335\u0026fps=24\u0026clen=30877359\u0026size=1280x720\u0026index=243-1038\u0026init=0-242\u0026projection_type=1\u0026itag=247\u0026xtags=\u0026url=https%3A%2F%2Fr3---sn-jvm-vg4l.googlevideo.com%2Fvideoplayback%3Fc%3DWEB%26ei%3DHQGKWpjyNKql-AOoiKNw%26fvip%3D3%26mm%3D31%252C29%26pl%3D33%26mn%3Dsn-jvm-vg4l%252Csn-vgqskned%26id%3Do-AILwv6VJw8FripHygFrMKA-RyOz-H-D97mQPLJS_8eUu%26dur%3D242.500%26requiressl%3Dyes%26mt%3D1518993581%26mv%3Dm%26ms%3Dau%252Crdu%26ip%3D2600%253A8805%253A1000%253A5e90%253A89ba%253A9035%253Ac8dc%253Ae4a1%26initcwndbps%3D1122500%26lmt%3D1442425122317087%26ipbits%3D0%26expire%3D1519015293%26source%3Dyoutube%26sparams%3Daitags%252Cclen%252Cdur%252Cei%252Cgir%252Cid%252Cinitcwndbps%252Cip%252Cipbits%252Citag%252Ckeepalive%252Clmt%252Cmime%252Cmm%252Cmn%252Cms%252Cmv%252Cpl%252Crequiressl%252Csource%252Cexpire%26clen%3D30877359%26gir%3Dyes%26keepalive%3Dyes%26mime%3Dvideo%252Fwebm%26key%3Dyt6%26itag%3D247%26aitags%3D133%252C134%252C135%252C136%252C137%252C160%252C242%252C243%252C244%252C247%252C248%252C278\u0026quality_label=720p\u0026type=video%2Fwebm%3B+codecs%3D%22vp9%22\u0026lmt=1442425122317087,s=7BEB7F06B4A523D115927574A05231A666A7B8EDC0.B012D09CE2EA89777AC37081A90E241111A7A780780\u0026bitrate=926019\u0026fps=24\u0026clen=18008784\u0026size=854x480\u0026index=715-1298\u0026init=0-714\u0026projection_type=1\u0026itag=135\u0026xtags=\u0026url=https%3A%2F%2Fr3---sn-jvm-vg4l.googlevideo.com%2Fvideoplayback%3Fc%3DWEB%26ei%3DHQGKWpjyNKql-AOoiKNw%26fvip%3D3%26mm%3D31%252C29%26pl%3D33%26mn%3Dsn-jvm-vg4l%252Csn-vgqskned%26id%3Do-AILwv6VJw8FripHygFrMKA-RyOz-H-D97mQPLJS_8eUu%26dur%3D242.541%26requiressl%3Dyes%26mt%3D1518993581%26mv%3Dm%26ms%3Dau%252Crdu%26ip%3D2600%253A8805%253A1000%253A5e90%253A89ba%253A9035%253Ac8dc%253Ae4a1%26initcwndbps%3D1122500%26lmt%3D1448352384382087%26ipbits%3D0%26expire%3D1519015293%26source%3Dyoutube%26sparams%3Daitags%252Cclen%252Cdur%252Cei%252Cgir%252Cid%252Cinitcwndbps%252Cip%252Cipbits%252Citag%252Ckeepalive%252Clmt%252Cmime%252Cmm%252Cmn%252Cms%252Cmv%252Cpl%252Crequiressl%252Csource%252Cexpire%26clen%3D18008784%26gir%3Dyes%26keepalive%3Dyes%26mime%3Dvideo%252Fmp4%26key%3Dyt6%26itag%3D135%26aitags%3D133%252C134%252C135%252C136%252C137%252C160%252C242%252C243%252C244%252C247%252C248%252C278\u0026quality_label=480p\u0026type=video%2Fmp4%3B+codecs%3D%22avc1.4d401e%22\u0026lmt=1448352384382087,s=64A4C5507DDE22D52F86C38F574A72CD308142240E.F69B54B7FAA084EEE89CD3AD83BAE3ABE57A124C24C\u0026bitrate=751880\u0026fps=24\u0026clen=16229137\u0026size=854x480\u0026index=243-1015\u0026init=0-242\u0026projection_type=1\u0026itag=244\u0026xtags=\u0026url=https%3A%2F%2Fr3---sn-jvm-vg4l.googlevideo.com%2Fvideoplayback%3Fc%3DWEB%26ei%3DHQGKWpjyNKql-AOoiKNw%26fvip%3D3%26mm%3D31%252C29%26pl%3D33%26mn%3Dsn-jvm-vg4l%252Csn-vgqskned%26id%3Do-AILwv6VJw8FripHygFrMKA-RyOz-H-D97mQPLJS_8eUu%26dur%3D242.500%26requiressl%3Dyes%26mt%3D1518993581%26mv%3Dm%26ms%3Dau%252Crdu%26ip%3D2600%253A8805%253A1000%253A5e90%253A89ba%253A9035%253Ac8dc%253Ae4a1%26initcwndbps%3D1122500%26lmt%3D1442425117667700%26ipbits%3D0%26expire%3D1519015293%26source%3Dyoutube%26sparams%3Daitags%252Cclen%252Cdur%252Cei%252Cgir%252Cid%252Cinitcwndbps%252Cip%252Cipbits%252Citag%252Ckeepalive%252Clmt%252Cmime%252Cmm%252Cmn%252Cms%252Cmv%252Cpl%252Crequiressl%252Csource%252Cexpire%26clen%3D16229137%26gir%3Dyes%26keepalive%3Dyes%26mime%3Dvideo%252Fwebm%26key%3Dyt6%26itag%3D244%26aitags%3D133%252C134%252C135%252C136%252C137%252C160%252C242%252C243%252C244%252C247%252C248%252C278\u0026quality_label=480p\u0026type=video%2Fwebm%3B+codecs%3D%22vp9%22\u0026lmt=1442425117667700,s=4DAD4AFFF150A8546142326F30653672831958DB23.989ADB17C9A4F9BAAEC1345FE14EA706EF2635D65D6\u0026bitrate=471095\u0026fps=24\u0026clen=9447543\u0026size=640x360\u0026index=715-1298\u0026init=0-714\u0026projection_type=1\u0026itag=134\u0026xtags=\u0026url=https%3A%2F%2Fr3---sn-jvm-vg4l.googlevideo.com%2Fvideoplayback%3Fc%3DWEB%26ei%3DHQGKWpjyNKql-AOoiKNw%26fvip%3D3%26mm%3D31%252C29%26pl%3D33%26mn%3Dsn-jvm-vg4l%252Csn-vgqskned%26id%3Do-AILwv6VJw8FripHygFrMKA-RyOz-H-D97mQPLJS_8eUu%26dur%3D242.541%26requiressl%3Dyes%26mt%3D1518993581%26mv%3Dm%26ms%3Dau%252Crdu%26ip%3D2600%253A8805%253A1000%253A5e90%253A89ba%253A9035%253Ac8dc%253Ae4a1%26initcwndbps%3D1122500%26lmt%3D1448352384302103%26ipbits%3D0%26expire%3D1519015293%26source%3Dyoutube%26sparams%3Daitags%252Cclen%252Cdur%252Cei%252Cgir%252Cid%252Cinitcwndbps%252Cip%252Cipbits%252Citag%252Ckeepalive%252Clmt%252Cmime%252Cmm%252Cmn%252Cms%252Cmv%252Cpl%252Crequiressl%252Csource%252Cexpire%26clen%3D9447543%26gir%3Dyes%26keepalive%3Dyes%26mime%3Dvideo%252Fmp4%26key%3Dyt6%26itag%3D134%26aitags%3D133%252C134%252C135%252C136%252C137%252C160%252C242%252C243%252C244%252C247%252C248%252C278\u0026quality_label=360p\u0026type=video%2Fmp4%3B+codecs%3D%22avc1.4d401e%22\u0026lmt=1448352384302103,s=8D5D85AA97D5C422D861678D407C38136B80FC6843.01CF41C4485804346CE06ADFDCE4556C47D00CC2CC2\u0026bitrate=427799\u0026fps=24\u0026clen=9898726\u0026size=640x360\u0026index=243-1015\u0026init=0-242\u0026projection_type=1\u0026itag=243\u0026xtags=\u0026url=https%3A%2F%2Fr3---sn-jvm-vg4l.googlevideo.com%2Fvideoplayback%3Fc%3DWEB%26ei%3DHQGKWpjyNKql-AOoiKNw%26fvip%3D3%26mm%3D31%252C29%26pl%3D33%26mn%3Dsn-jvm-vg4l%252Csn-vgqskned%26id%3Do-AILwv6VJw8FripHygFrMKA-RyOz-H-D97mQPLJS_8eUu%26dur%3D242.500%26requiressl%3Dyes%26mt%3D1518993581%26mv%3Dm%26ms%3Dau%252Crdu%26ip%3D2600%253A8805%253A1000%253A5e90%253A89ba%253A9035%253Ac8dc%253Ae4a1%26initcwndbps%3D1122500%26lmt%3D1442425117161423%26ipbits%3D0%26expire%3D1519015293%26source%3Dyoutube%26sparams%3Daitags%252Cclen%252Cdur%252Cei%252Cgir%252Cid%252Cinitcwndbps%252Cip%252Cipbits%252Citag%252Ckeepalive%252Clmt%252Cmime%252Cmm%252Cmn%252Cms%252Cmv%252Cpl%252Crequiressl%252Csource%252Cexpire%26clen%3D9898726%26gir%3Dyes%26keepalive%3Dyes%26mime%3Dvideo%252Fwebm%26key%3Dyt6%26itag%3D243%26aitags%3D133%252C134%252C135%252C136%252C137%252C160%252C242%252C243%252C244%252C247%252C248%252C278\u0026quality_label=360p\u0026type=video%2Fwebm%3B+codecs%3D%22vp9%22\u0026lmt=1442425117161423,s=6B6BB9AE876007A7E2E9195A66D5FDDEF37CA29D80.40ABBBA2F069284B65124D33EC39DB128B7ACB3CB3C\u0026bitrate=249904\u0026fps=24\u0026clen=7406295\u0026size=426x240\u0026index=677-1260\u0026init=0-676\u0026projection_type=1\u0026itag=133\u0026xtags=\u0026url=https%3A%2F%2Fr3---sn-jvm-vg4l.googlevideo.com%2Fvideoplayback%3Fc%3DWEB%26ei%3DHQGKWpjyNKql-AOoiKNw%26fvip%3D3%26mm%3D31%252C29%26pl%3D33%26mn%3Dsn-jvm-vg4l%252Csn-vgqskned%26id%3Do-AILwv6VJw8FripHygFrMKA-RyOz-H-D97mQPLJS_8eUu%26dur%3D242.541%26requiressl%3Dyes%26mt%3D1518993581%26mv%3Dm%26ms%3Dau%252Crdu%26ip%3D2600%253A8805%253A1000%253A5e90%253A89ba%253A9035%253Ac8dc%253Ae4a1%26initcwndbps%3D1122500%26lmt%3D1448352384304901%26ipbits%3D0%26expire%3D1519015293%26source%3Dyoutube%26sparams%3Daitags%252Cclen%252Cdur%252Cei%252Cgir%252Cid%252Cinitcwndbps%252Cip%252Cipbits%252Citag%252Ckeepalive%252Clmt%252Cmime%252Cmm%252Cmn%252Cms%252Cmv%252Cpl%252Crequiressl%252Csource%252Cexpire%26clen%3D7406295%26gir%3Dyes%26keepalive%3Dyes%26mime%3Dvideo%252Fmp4%26key%3Dyt6%26itag%3D133%26aitags%3D133%252C134%252C135%252C136%252C137%252C160%252C242%252C243%252C244%252C247%252C248%252C278\u0026quality_label=240p\u0026type=video%2Fmp4%3B+codecs%3D%22avc1.4d4015%22\u0026lmt=1448352384304901,s=6FBF543532C554D70EA52EF44D26DA28BB0D3460C9.DA3FFFBAF4BB175BA8AC1A58A7206CA941392D36D36\u0026bitrate=233036\u0026fps=24\u0026clen=5463723\u0026size=426x240\u0026index=242-1014\u0026init=0-241\u0026projection_type=1\u0026itag=242\u0026xtags=\u0026url=https%3A%2F%2Fr3---sn-jvm-vg4l.googlevideo.com%2Fvideoplayback%3Fc%3DWEB%26ei%3DHQGKWpjyNKql-AOoiKNw%26fvip%3D3%26mm%3D31%252C29%26pl%3D33%26mn%3Dsn-jvm-vg4l%252Csn-vgqskned%26id%3Do-AILwv6VJw8FripHygFrMKA-RyOz-H-D97mQPLJS_8eUu%26dur%3D242.500%26requiressl%3Dyes%26mt%3D1518993581%26mv%3Dm%26ms%3Dau%252Crdu%26ip%3D2600%253A8805%253A1000%253A5e90%253A89ba%253A9035%253Ac8dc%253Ae4a1%26initcwndbps%3D1122500%26lmt%3D1442425116776649%26ipbits%3D0%26expire%3D1519015293%26source%3Dyoutube%26sparams%3Daitags%252Cclen%252Cdur%252Cei%252Cgir%252Cid%252Cinitcwndbps%252Cip%252Cipbits%252Citag%252Ckeepalive%252Clmt%252Cmime%252Cmm%252Cmn%252Cms%252Cmv%252Cpl%252Crequiressl%252Csource%252Cexpire%26clen%3D5463723%26gir%3Dyes%26keepalive%3Dyes%26mime%3Dvideo%252Fwebm%26key%3Dyt6%26itag%3D242%26aitags%3D133%252C134%252C135%252C136%252C137%252C160%252C242%252C243%252C244%252C247%252C248%252C278\u0026quality_label=240p\u0026type=video%2Fwebm%3B+codecs%3D%22vp9%22\u0026lmt=1442425116776649,s=D2B2D4251836FE7C8B92765DDF6CAB1E77C216CF95.5329A82F94B3021433F57C54C51D86E5620F9ED8ED8\u0026bitrate=112895\u0026fps=12\u0026clen=3303405\u0026size=256x144\u0026index=677-1260\u0026init=0-676\u0026projection_type=1\u0026itag=160\u0026xtags=\u0026url=https%3A%2F%2Fr3---sn-jvm-vg4l.googlevideo.com%2Fvideoplayback%3Fc%3DWEB%26ei%3DHQGKWpjyNKql-AOoiKNw%26fvip%3D3%26mm%3D31%252C29%26pl%3D33%26mn%3Dsn-jvm-vg4l%252Csn-vgqskned%26id%3Do-AILwv6VJw8FripHygFrMKA-RyOz-H-D97mQPLJS_8eUu%26dur%3D242.583%26requiressl%3Dyes%26mt%3D1518993581%26mv%3Dm%26ms%3Dau%252Crdu%26ip%3D2600%253A8805%253A1000%253A5e90%253A89ba%253A9035%253Ac8dc%253Ae4a1%26initcwndbps%3D1122500%26lmt%3D1448352384119537%26ipbits%3D0%26expire%3D1519015293%26source%3Dyoutube%26sparams%3Daitags%252Cclen%252Cdur%252Cei%252Cgir%252Cid%252Cinitcwndbps%252Cip%252Cipbits%252Citag%252Ckeepalive%252Clmt%252Cmime%252Cmm%252Cmn%252Cms%252Cmv%252Cpl%252Crequiressl%252Csource%252Cexpire%26clen%3D3303405%26gir%3Dyes%26keepalive%3Dyes%26mime%3Dvideo%252Fmp4%26key%3Dyt6%26itag%3D160%26aitags%3D133%252C134%252C135%252C136%252C137%252C160%252C242%252C243%252C244%252C247%252C248%252C278\u0026quality_label=144p\u0026type=video%2Fmp4%3B+codecs%3D%22avc1.42c00c%22\u0026lmt=1448352384119537,s=DFAF273743B13EF68C115E0D3E10A9CE77C8165C2E.A2260AD5D1A97662C4084402A0BB99F15BB02748748\u0026bitrate=97431\u0026fps=12\u0026clen=2571021\u0026size=256x144\u0026index=242-1013\u0026init=0-241\u0026projection_type=1\u0026itag=278\u0026xtags=\u0026url=https%3A%2F%2Fr3---sn-jvm-vg4l.googlevideo.com%2Fvideoplayback%3Fc%3DWEB%26ei%3DHQGKWpjyNKql-AOoiKNw%26fvip%3D3%26mm%3D31%252C29%26pl%3D33%26mn%3Dsn-jvm-vg4l%252Csn-vgqskned%26id%3Do-AILwv6VJw8FripHygFrMKA-RyOz-H-D97mQPLJS_8eUu%26dur%3D242.500%26requiressl%3Dyes%26mt%3D1518993581%26mv%3Dm%26ms%3Dau%252Crdu%26ip%3D2600%253A8805%253A1000%253A5e90%253A89ba%253A9035%253Ac8dc%253Ae4a1%26initcwndbps%3D1122500%26lmt%3D1442425116568954%26ipbits%3D0%26expire%3D1519015293%26source%3Dyoutube%26sparams%3Daitags%252Cclen%252Cdur%252Cei%252Cgir%252Cid%252Cinitcwndbps%252Cip%252Cipbits%252Citag%252Ckeepalive%252Clmt%252Cmime%252Cmm%252Cmn%252Cms%252Cmv%252Cpl%252Crequiressl%252Csource%252Cexpire%26clen%3D2571021%26gir%3Dyes%26keepalive%3Dyes%26mime%3Dvideo%252Fwebm%26key%3Dyt6%26itag%3D278%26aitags%3D133%252C134%252C135%252C136%252C137%252C160%252C242%252C243%252C244%252C247%252C248%252C278\u0026quality_label=144p\u0026type=video%2Fwebm%3B+codecs%3D%22vp9%22\u0026lmt=1442425116568954,s=B868ED4FA197EEC01A3C7CB0A0AEBFEECC34B113A6.7ADD537E04651AA09D5D4C629B0069E93B6704A14A1\u0026bitrate=128144\u0026clen=3853713\u0026index=592-923\u0026init=0-591\u0026projection_type=1\u0026itag=140\u0026xtags=\u0026url=https%3A%2F%2Fr3---sn-jvm-vg4l.googlevideo.com%2Fvideoplayback%3Fc%3DWEB%26ei%3DHQGKWpjyNKql-AOoiKNw%26fvip%3D3%26mm%3D31%252C29%26pl%3D33%26mn%3Dsn-jvm-vg4l%252Csn-vgqskned%26id%3Do-AILwv6VJw8FripHygFrMKA-RyOz-H-D97mQPLJS_8eUu%26dur%3D242.602%26requiressl%3Dyes%26mt%3D1518993581%26mv%3Dm%26ms%3Dau%252Crdu%26ip%3D2600%253A8805%253A1000%253A5e90%253A89ba%253A9035%253Ac8dc%253Ae4a1%26initcwndbps%3D1122500%26lmt%3D1448352220737652%26ipbits%3D0%26expire%3D1519015293%26source%3Dyoutube%26sparams%3Dclen%252Cdur%252Cei%252Cgir%252Cid%252Cinitcwndbps%252Cip%252Cipbits%252Citag%252Ckeepalive%252Clmt%252Cmime%252Cmm%252Cmn%252Cms%252Cmv%252Cpl%252Crequiressl%252Csource%252Cexpire%26itag%3D140%26clen%3D3853713%26gir%3Dyes%26keepalive%3Dyes%26mime%3Daudio%252Fmp4%26key%3Dyt6\u0026type=audio%2Fmp4%3B+codecs%3D%22mp4a.40.2%22\u0026lmt=1448352220737652,s=F494A5614E586C6FE553056D8E808FD523EDABE2B1.26D164C0049047BA1D61C95C9C09703307C13EB0EB0\u0026bitrate=153428\u0026clen=3898865\u0026index=4452-4873\u0026init=0-4451\u0026projection_type=1\u0026itag=171\u0026xtags=\u0026url=https%3A%2F%2Fr3---sn-jvm-vg4l.googlevideo.com%2Fvideoplayback%3Fc%3DWEB%26ei%3DHQGKWpjyNKql-AOoiKNw%26fvip%3D3%26mm%3D31%252C29%26pl%3D33%26mn%3Dsn-jvm-vg4l%252Csn-vgqskned%26id%3Do-AILwv6VJw8FripHygFrMKA-RyOz-H-D97mQPLJS_8eUu%26dur%3D242.551%26requiressl%3Dyes%26mt%3D1518993581%26mv%3Dm%26ms%3Dau%252Crdu%26ip%3D2600%253A8805%253A1000%253A5e90%253A89ba%253A9035%253Ac8dc%253Ae4a1%26initcwndbps%3D1122500%26lmt%3D1442424805878623%26ipbits%3D0%26expire%3D1519015293%26source%3Dyoutube%26sparams%3Dclen%252Cdur%252Cei%252Cgir%252Cid%252Cinitcwndbps%252Cip%252Cipbits%252Citag%252Ckeepalive%252Clmt%252Cmime%252Cmm%252Cmn%252Cms%252Cmv%252Cpl%252Crequiressl%252Csource%252Cexpire%26itag%3D171%26clen%3D3898865%26gir%3Dyes%26keepalive%3Dyes%26mime%3Daudio%252Fwebm%26key%3Dyt6\u0026type=audio%2Fwebm%3B+codecs%3D%22vorbis%22\u0026lmt=1442424805878623,s=E5455585F55FC2210C1C83816209D038290F6656F3.1210FCC01C443103DBED9A2D41D8CDCA3E8D3C9AC9A\u0026bitrate=63329\u0026clen=1626061\u0026index=272-693\u0026init=0-271\u0026projection_type=1\u0026itag=249\u0026xtags=\u0026url=https%3A%2F%2Fr3---sn-jvm-vg4l.googlevideo.com%2Fvideoplayback%3Fc%3DWEB%26ei%3DHQGKWpjyNKql-AOoiKNw%26fvip%3D3%26mm%3D31%252C29%26pl%3D33%26mn%3Dsn-jvm-vg4l%252Csn-vgqskned%26id%3Do-AILwv6VJw8FripHygFrMKA-RyOz-H-D97mQPLJS_8eUu%26dur%3D242.561%26requiressl%3Dyes%26mt%3D1518993581%26mv%3Dm%26ms%3Dau%252Crdu%26ip%3D2600%253A8805%253A1000%253A5e90%253A89ba%253A9035%253Ac8dc%253Ae4a1%26initcwndbps%3D1122500%26lmt%3D1442424804602787%26ipbits%3D0%26expire%3D1519015293%26source%3Dyoutube%26sparams%3Dclen%252Cdur%252Cei%252Cgir%252Cid%252Cinitcwndbps%252Cip%252Cipbits%252Citag%252Ckeepalive%252Clmt%252Cmime%252Cmm%252Cmn%252Cms%252Cmv%252Cpl%252Crequiressl%252Csource%252Cexpire%26itag%3D249%26clen%3D1626061%26gir%3Dyes%26keepalive%3Dyes%26mime%3Daudio%252Fwebm%26key%3Dyt6\u0026type=audio%2Fwebm%3B+codecs%3D%22opus%22\u0026lmt=1442424804602787,s=6ECE2BB37FB9C77B2ED4484C0B0D6FF0F2FD4F6920.6ABF4DE2C6CCE724B0A020691E21337162BFBFDCFDC\u0026bitrate=95756\u0026clen=2399657\u0026index=272-693\u0026init=0-271\u0026projection_type=1\u0026itag=250\u0026xtags=\u0026url=https%3A%2F%2Fr3---sn-jvm-vg4l.googlevideo.com%2Fvideoplayback%3Fc%3DWEB%26ei%3DHQGKWpjyNKql-AOoiKNw%26fvip%3D3%26mm%3D31%252C29%26pl%3D33%26mn%3Dsn-jvm-vg4l%252Csn-vgqskned%26id%3Do-AILwv6VJw8FripHygFrMKA-RyOz-H-D97mQPLJS_8eUu%26dur%3D242.561%26requiressl%3Dyes%26mt%3D1518993581%26mv%3Dm%26ms%3Dau%252Crdu%26ip%3D2600%253A8805%253A1000%253A5e90%253A89ba%253A9035%253Ac8dc%253Ae4a1%26initcwndbps%3D1122500%26lmt%3D1442424804741032%26ipbits%3D0%26expire%3D1519015293%26source%3Dyoutube%26sparams%3Dclen%252Cdur%252Cei%252Cgir%252Cid%252Cinitcwndbps%252Cip%252Cipbits%252Citag%252Ckeepalive%252Clmt%252Cmime%252Cmm%252Cmn%252Cms%252Cmv%252Cpl%252Crequiressl%252Csource%252Cexpire%26itag%3D250%26clen%3D2399657%26gir%3Dyes%26keepalive%3Dyes%26mime%3Daudio%252Fwebm%26key%3Dyt6\u0026type=audio%2Fwebm%3B+codecs%3D%22opus%22\u0026lmt=1442424804741032,s=95F572A0B5E43A242D8208BD30949CC6DBA51E53.EC58F4679C73F57806BA691E56885412D910BEBCEBC\u0026bitrate=175989\u0026clen=4562698\u0026index=272-693\u0026init=0-271\u0026projection_type=1\u0026itag=251\u0026xtags=\u0026url=https%3A%2F%2Fr3---sn-jvm-vg4l.googlevideo.com%2Fvideoplayback%3Fc%3DWEB%26ei%3DHQGKWpjyNKql-AOoiKNw%26fvip%3D3%26mm%3D31%252C29%26pl%3D33%26mn%3Dsn-jvm-vg4l%252Csn-vgqskned%26id%3Do-AILwv6VJw8FripHygFrMKA-RyOz-H-D97mQPLJS_8eUu%26dur%3D242.561%26requiressl%3Dyes%26mt%3D1518993581%26mv%3Dm%26ms%3Dau%252Crdu%26ip%3D2600%253A8805%253A1000%253A5e90%253A89ba%253A9035%253Ac8dc%253Ae4a1%26initcwndbps%3D1122500%26lmt%3D1442424804821196%26ipbits%3D0%26expire%3D1519015293%26source%3Dyoutube%26sparams%3Dclen%252Cdur%252Cei%252Cgir%252Cid%252Cinitcwndbps%252Cip%252Cipbits%252Citag%252Ckeepalive%252Clmt%252Cmime%252Cmm%252Cmn%252Cms%252Cmv%252Cpl%252Crequiressl%252Csource%252Cexpire%26itag%3D251%26clen%3D4562698%26gir%3Dyes%26keepalive%3Dyes%26mime%3Daudio%252Fwebm%26key%3Dyt6\u0026type=audio%2Fwebm%3B+codecs%3D%22opus%22\u0026lmt=1442424804821196","sffb":true,"ssl":"1","player_response":"{\"playbackTracking\":{},\"videoDetails\":{\"thumbnail\":{\"thumbnails\":[{\"url\":\"https:\/\/i.ytimg.com\/vi\/2mLYeA-ORV4\/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==\\u0026rs=AOn4CLA5PLzvVjd2KNZX41k9bcJzJsNAng\",\"width\":168,\"height\":94},{\"url\":\"https:\/\/i.ytimg.com\/vi\/2mLYeA-ORV4\/hqdefault.jpg?sqp=-oaymwEWCMQBEG5IWvKriqkDCQgBFQAAiEIYAQ==\\u0026rs=AOn4CLAH0Cec0_X8YuDj7D-RIXfX-eGryw\",\"width\":196,\"height\":110},{\"url\":\"https:\/\/i.ytimg.com\/vi\/2mLYeA-ORV4\/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=\\u0026rs=AOn4CLDV5Cb-peGUBI-83z9ry1h-45P-iw\",\"width\":246,\"height\":138},{\"url\":\"https:\/\/i.ytimg.com\/vi\/2mLYeA-ORV4\/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=\\u0026rs=AOn4CLDsaARO6tJ9t_cnjaYf-I1H2Mc8Nw\",\"width\":336,\"height\":188}]}},\"adSafetyReason\":{\"isRemarketingEnabled\":true,\"isFocEnabled\":true}}","c":"WEB","mpu":true,"focEnabled":"1","show_content_thumbnail":true,"storyboard_spec":"https:\/\/i9.ytimg.com\/sb\/2mLYeA-ORV4\/storyboard3_L$L\/$N.jpg|48#27#100#10#10#0#default#rs$AOn4CLANTtzMIbsmSCJ-a0RZEqldD7A7LA|80#45#123#10#10#2000#M$M#rs$AOn4CLAkXF2yqGOe9M6l6vTHWMmDYR3PqQ|160#90#123#5#5#2000#M$M#rs$AOn4CLDFMJgOo62hbe8xVhH-H41q3avBnQ","fade_in_duration_milliseconds":"1000","afv_ad_tag":"https:\/\/googleads.g.doubleclick.net\/pagead\/ads?ad_type=text_image\u0026channel=Vertical_1021%2BVertical_1408%2BVertical_211%2BVertical_3%2BVertical_35%2BVertical_36%2BVertical_613%2Bafv_overlay%2Bafv_ugc%2Bafv_user_berkleecollege%2Bafv_user_id_S3dfr0uOIC6OP-rSECVPMA%2Binvideo_overlay_480x70_cat10%2Byt_bs2%2Byt_cid_889938%2Byt_gp%2Byt_mpvid_h_MjqqKF04-ds5os%2Byt_no_360%2Byt_no_ap%2Byt_no_cp%2Byt_no_wa%2Bytdevice_1%2Bytdevicever_1.20180215%2Bytel_detailpage%2Bytps_default\u0026client=ca-pub-6219811747049371\u0026dbp=ChZaYzZqNUlpOWtkdXdicldZNWdfSHFBEAEgASgA\u0026description_url=http%3A%2F%2Fwww.youtube.com%2Fvideo%2F2mLYeA-ORV4\u0026eid=185863824\u0026hl=en\u0026host=ca-host-pub-9066416090007958\u0026ht_id=6603603\u0026loeid=9422596,9453077,9454618,9471235,9472873,9475649,9487173,9488991,23704844,23705215,23705778,23708490,23713214,23719224,23719587,23720477,23721367,23721592,23721750,23721998,23722411,23722786,23723124,23724898,23725543,23725949,23726989,23727132\u0026osd=2\u0026pucrd=CgYIABAAGAB4Ag\u0026sdki=18803DED\u0026url=http%3A%2F%2Fwww.youtube.com%2Fvideo%2F2mLYeA-ORV4\u0026v_p=DSzQQj8lZW0sRDVk4no_\u0026ytdevice=1\u0026ytdevicever=1.20180215\u0026yt_pt=APb3F2_LYaETKs9RSCc8I40xTt22ndBXo2YmpfPK8evcPxMctZqGAx7ie7Mc_sUPbCQbE8FLUDU9K61Yt7CtsF_Zsb0hxUIZfPurwTgbZmo7SNnXj1_9iSjwNu5zf_a10NUZ2w73oMG_-UdcoId7\u0026yt_vis=0","ldpj":"-15","ad_device":"1","length_seconds":"243","uid":"S3dfr0uOIC6OP-rSECVPMA","fmt_list":"22\/1280x720,43\/640x360,18\/640x360,36\/320x180,17\/176x144","hl":"en_US","dbp":"Ch4KFlpjNmo1SWk5a2R1d2JyV1k1Z19IcUEQASABKAAQARgC","trueview":true,"fexp":"23701940,23704844,23705215,23708159,23708490,23708904,23708906,23708910,23710476,23713214,23713711,23717456,23719224,23719518,23719525,23719587,23720477,23721367,23721592,23721750,23721898,23721998,23722411,23722786,23723124,23723618,23724898,23725543,23725949,23726170,23726989,23727132,23727194,9422596,9431754,9449243,9453077,9471235,9472873,9475649,9485000,9487173","tag_for_child_directed":false,"innertube_context_client_version":"1.20180215","midroll_prefetch_size":"1","dclk":true,"loudness":"-17.4489994049","no_get_video_log":"1","cver":"1.20180215","iv_invideo_url":"https:\/\/www.youtube.com\/annotations_invideo?cap_hist=1\u0026video_id=2mLYeA-ORV4\u0026client=1\u0026ei=HQGKWpjyNKql-AOoiKNw","loeid":"9422596,9453077,9454618,9471235,9472873,9475649,9487173,9488991,23704844,23705215,23705778,23708490,23713214,23719224,23719587,23720477,23721367,23721592,23721750,23721998,23722411,23722786,23723124,23724898,23725543,23725949,23726989,23727132","midroll_freqcap":"420.0","allow_html5_ads":"1","videostats_playback_base_url":"https:\/\/s.youtube.com\/api\/stats\/playback?el=detailpage\u0026ei=HQGKWpjyNKql-AOoiKNw\u0026cl=186034330\u0026sdetail=f%3Ayoutu.be%2C\u0026fexp=23701940%2C23704844%2C23705215%2C23708159%2C23708490%2C23708904%2C23708906%2C23708910%2C23710476%2C23713214%2C23713711%2C23717456%2C23719224%2C23719518%2C23719525%2C23719587%2C23720477%2C23721367%2C23721592%2C23721750%2C23721898%2C23721998%2C23722411%2C23722786%2C23723124%2C23723618%2C23724898%2C23725543%2C23725949%2C23726170%2C23726989%2C23727132%2C23727194%2C9422596%2C9431754%2C9449243%2C9453077%2C9471235%2C9472873%2C9475649%2C9485000%2C9487173\u0026plid=AAVlhEeMCGFKqdtk\u0026vm=CAMQARgB\u0026feature=youtu.be\u0026docid=2mLYeA-ORV4\u0026len=243\u0026ns=yt\u0026of=Zc6j5Ii9kduwbrWY5g_HqA","timestamp":"1518993694","ismb":"8980000","enablejsapi":"1","apply_fade_on_midrolls":true,"pyv_ad_channel":"PyvWatchInRelated+PyvWatchNoAdX+PyvYTWatch+YtLoPri+afv_ugc+afv_user_berkleecollege+afv_user_id_S3dfr0uOIC6OP-rSECVPMA+cw+non_lpw+pw+yt_cid_889938+yt_gp+yt_mpvid_h_MjqqKF04-ds5os+yt_no_360+yt_no_ap+yt_no_cp+yt_no_wa+ytdevice_1+ytdevicever_1.20180215","sdetail":"f:youtu.be,","cr":"US","keywords":"Taylor Swift (Celebrity),Wildest Dreams (Composition),Wildest Dreams (Musical Album),Bad Blood (Composition),Pop Music (Musical Genre),cover medley,cover,Berklee College Of Music (College\/University),Kendrick Lamar (Musical Artist),video music awards,vma","gpt_migration":"1","gut_tag":"\/4061\/ytpwatch","fade_out_start_milliseconds":"0","show_pyv_in_related":true,"vm":"CAMQARgB","mpvid":"h_MjqqKF04-ds5os","as_launched_in_country":"1","allow_embed":"1","eventid":"HQGKWpjyNKql-AOoiKNw","apiary_host":"","feature":"youtu.be","is_listed":"1","instream_long":false,"enabled_engage_types":"1,3,4,5,6,17","loaderUrl":"https:\/\/www.youtube.com\/watch?v=2mLYeA-ORV4\u0026feature=youtu.be","url_encoded_fmt_stream_map":"url=https%3A%2F%2Fr3---sn-jvm-vg4l.googlevideo.com%2Fvideoplayback%3Finitcwndbps%3D1122500%26c%3DWEB%26ei%3DHQGKWpjyNKql-AOoiKNw%26lmt%3D1471525989283961%26ratebypass%3Dyes%26ipbits%3D0%26expire%3D1519015293%26source%3Dyoutube%26sparams%3Ddur%252Cei%252Cid%252Cinitcwndbps%252Cip%252Cipbits%252Citag%252Clmt%252Cmime%252Cmm%252Cmn%252Cms%252Cmv%252Cpl%252Cratebypass%252Crequiressl%252Csource%252Cexpire%26itag%3D22%26mm%3D31%252C29%26pl%3D33%26mn%3Dsn-jvm-vg4l%252Csn-vgqskned%26fvip%3D3%26id%3Do-AILwv6VJw8FripHygFrMKA-RyOz-H-D97mQPLJS_8eUu%26dur%3D242.602%26requiressl%3Dyes%26mt%3D1518993581%26mv%3Dm%26ms%3Dau%252Crdu%26mime%3Dvideo%252Fmp4%26ip%3D2600%253A8805%253A1000%253A5e90%253A89ba%253A9035%253Ac8dc%253Ae4a1%26key%3Dyt6\u0026quality=hd720\u0026itag=22\u0026s=AD3D56B66EFB8520BD2F4521A68CB65AC74A52285D.5130D3CF963056C8D48DCB7744A531665FE1FEB0EB0\u0026type=video%2Fmp4%3B+codecs%3D%22avc1.64001F%2C+mp4a.40.2%22,url=https%3A%2F%2Fr3---sn-jvm-vg4l.googlevideo.com%2Fvideoplayback%3Fc%3DWEB%26ei%3DHQGKWpjyNKql-AOoiKNw%26ratebypass%3Dyes%26fvip%3D3%26mm%3D31%252C29%26pl%3D33%26mn%3Dsn-jvm-vg4l%252Csn-vgqskned%26id%3Do-AILwv6VJw8FripHygFrMKA-RyOz-H-D97mQPLJS_8eUu%26dur%3D0.000%26requiressl%3Dyes%26mt%3D1518993581%26mv%3Dm%26ms%3Dau%252Crdu%26ip%3D2600%253A8805%253A1000%253A5e90%253A89ba%253A9035%253Ac8dc%253Ae4a1%26initcwndbps%3D1122500%26lmt%3D1442424815578280%26ipbits%3D0%26expire%3D1519015294%26source%3Dyoutube%26sparams%3Dclen%252Cdur%252Cei%252Cgir%252Cid%252Cinitcwndbps%252Cip%252Cipbits%252Citag%252Clmt%252Cmime%252Cmm%252Cmn%252Cms%252Cmv%252Cpl%252Cratebypass%252Crequiressl%252Csource%252Cexpire%26itag%3D43%26clen%3D23543278%26gir%3Dyes%26mime%3Dvideo%252Fwebm%26key%3Dyt6\u0026quality=medium\u0026itag=43\u0026s=13F31DDFF8A662619C68F69BD083081A59127CD3AC.70348E48D2F474BF3420FD01F2D7DCAB2336DA01A01\u0026type=video%2Fwebm%3B+codecs%3D%22vp8.0%2C+vorbis%22,url=https%3A%2F%2Fr3---sn-jvm-vg4l.googlevideo.com%2Fvideoplayback%3Fc%3DWEB%26ei%3DHQGKWpjyNKql-AOoiKNw%26ratebypass%3Dyes%26fvip%3D3%26mm%3D31%252C29%26pl%3D33%26mn%3Dsn-jvm-vg4l%252Csn-vgqskned%26id%3Do-AILwv6VJw8FripHygFrMKA-RyOz-H-D97mQPLJS_8eUu%26dur%3D242.602%26requiressl%3Dyes%26mt%3D1518993581%26mv%3Dm%26ms%3Dau%252Crdu%26ip%3D2600%253A8805%253A1000%253A5e90%253A89ba%253A9035%253Ac8dc%253Ae4a1%26initcwndbps%3D1122500%26lmt%3D1448352255883715%26ipbits%3D0%26expire%3D1519015293%26source%3Dyoutube%26sparams%3Dclen%252Cdur%252Cei%252Cgir%252Cid%252Cinitcwndbps%252Cip%252Cipbits%252Citag%252Clmt%252Cmime%252Cmm%252Cmn%252Cms%252Cmv%252Cpl%252Cratebypass%252Crequiressl%252Csource%252Cexpire%26itag%3D18%26clen%3D17525534%26gir%3Dyes%26mime%3Dvideo%252Fmp4%26key%3Dyt6\u0026quality=medium\u0026itag=18\u0026s=2010627AFC89FB200CE1AD607133BD4121614CE764.C504FCB24A12AB58C8CEA0AA79EE2775A52EEA38A38\u0026type=video%2Fmp4%3B+codecs%3D%22avc1.42001E%2C+mp4a.40.2%22,url=https%3A%2F%2Fr3---sn-jvm-vg4l.googlevideo.com%2Fvideoplayback%3Fc%3DWEB%26ei%3DHQGKWpjyNKql-AOoiKNw%26fvip%3D3%26mm%3D31%252C29%26pl%3D33%26mn%3Dsn-jvm-vg4l%252Csn-vgqskned%26id%3Do-AILwv6VJw8FripHygFrMKA-RyOz-H-D97mQPLJS_8eUu%26dur%3D242.648%26requiressl%3Dyes%26mt%3D1518993581%26mv%3Dm%26ms%3Dau%252Crdu%26ip%3D2600%253A8805%253A1000%253A5e90%253A89ba%253A9035%253Ac8dc%253Ae4a1%26initcwndbps%3D1122500%26lmt%3D1442423550800359%26ipbits%3D0%26expire%3D1519015294%26source%3Dyoutube%26sparams%3Dclen%252Cdur%252Cei%252Cgir%252Cid%252Cinitcwndbps%252Cip%252Cipbits%252Citag%252Clmt%252Cmime%252Cmm%252Cmn%252Cms%252Cmv%252Cpl%252Crequiressl%252Csource%252Cexpire%26itag%3D36%26clen%3D7034464%26gir%3Dyes%26mime%3Dvideo%252F3gpp%26key%3Dyt6\u0026quality=small\u0026itag=36\u0026s=36368EE7810DBCDED6D0D068D58071EBAC4EF23A63.6051CDA94E3943B878DE240DEC09B2912DE6E1BA1BA\u0026type=video%2F3gpp%3B+codecs%3D%22mp4v.20.3%2C+mp4a.40.2%22,url=https%3A%2F%2Fr3---sn-jvm-vg4l.googlevideo.com%2Fvideoplayback%3Fc%3DWEB%26ei%3DHQGKWpjyNKql-AOoiKNw%26fvip%3D3%26mm%3D31%252C29%26pl%3D33%26mn%3Dsn-jvm-vg4l%252Csn-vgqskned%26id%3Do-AILwv6VJw8FripHygFrMKA-RyOz-H-D97mQPLJS_8eUu%26dur%3D242.648%26requiressl%3Dyes%26mt%3D1518993581%26mv%3Dm%26ms%3Dau%252Crdu%26ip%3D2600%253A8805%253A1000%253A5e90%253A89ba%253A9035%253Ac8dc%253Ae4a1%26initcwndbps%3D1122500%26lmt%3D1442423549017791%26ipbits%3D0%26expire%3D1519015293%26source%3Dyoutube%26sparams%3Dclen%252Cdur%252Cei%252Cgir%252Cid%252Cinitcwndbps%252Cip%252Cipbits%252Citag%252Clmt%252Cmime%252Cmm%252Cmn%252Cms%252Cmv%252Cpl%252Crequiressl%252Csource%252Cexpire%26itag%3D17%26clen%3D2404748%26gir%3Dyes%26mime%3Dvideo%252F3gpp%26key%3Dyt6\u0026quality=small\u0026itag=17\u0026s=B818069EAB1CA865C90432735792D66F4796784CA1.E58A9BA5F31094127E87999FE514F1E033B1AE9CE9C\u0026type=video%2F3gpp%3B+codecs%3D%22mp4v.20.3%2C+mp4a.40.2%22","cl":"186034330","view_count":"431996","atc":"a=3\u0026b=jm23LO--3FsPJ_mbR9DQHiBLG-c\u0026c=1518993694\u0026d=1\u0026e=2mLYeA-ORV4\u0026c3a=26\u0026c1a=1\u0026c6a=1\u0026hh=rUiEKowEXoqrfLtHr0HZmuJw3SUi6w-mt_3kANkI8jw","ad_tag":"https:\/\/pubads.g.doubleclick.net\/gampad\/ads?ad_rule=0\u0026ciu_szs=300x250,300x60\u0026env=vp\u0026gdfp_req=1\u0026iu=\/4061\/com.ytpwatch.music\u0026osd=2\u0026output=xml_vast3\u0026pucrd=CgYIABAAGAB4Ag\u0026scor=1\u0026scp=av%3D1%26kpeid%3DS3dfr0uOIC6OP-rSECVPMA%26kpid%3D889938%26kpu%3DBerkleeCollege%26kvid%3D2mLYeA-ORV4%26mpvid%3Dh_MjqqKF04-ds5os%26ssl%3D1%26afv%3D1%26dbp%3DChZaYzZqNUlpOWtkdXdicldZNWdfSHFBEAEgASgA%26dc_yt%3D1%26excl_cat%3D889938%26k2%3D3,35,36,211,613,1021,1408%26k5%3D3_35_36_211_613_1021_1408%26kcountry%3Dus%26kga%3D-1%26kgg%3D-1%26kgpt%3D1%26klg%3Den%26kmyd%3Dwatch-longform-ad%26ko%3Dc%26kr%3DF%26ktype%3Dsong%26kvlg%3Den%26kvz%3D204%26lu%3D0,12211,2018a1%26nlfb%3D1%26pos%3Dpre%26yt1st%3D1%26yt3pav%3D1%26ytcat%3D10%26ytdevice%3D1%26ytdevicever%3D1.20180215%26ytexp%3D9422596,9453077,9454618,9471235,9472873,9475649,9487173,9488991,23704844,23705215,23705778,23708490,23713214,23719224,23719587,23720477,23721367,23721592,23721750,23721998,23722411,23722786,23723124,23724898,23725543,23725949,23726989,23727132%26yt_ec%3D0%26yt_ec2%3D0%26yt_vrallowed%3D1%26yt_viral%3D1\u0026sdki=18803DED\u0026sz=480x361%7C480x70\u0026unviewed_position_start=1\u0026vid=2mLYeA-ORV4\u0026vpos=preroll\u0026ytdevice=1\u0026yt_pt=APb3F2_LYaETKs9RSCc8I40xTt22ndBXo2YmpfPK8evcPxMctZqGAx7ie7Mc_sUPbCQbE8FLUDU9K61Yt7CtsF_Zsb0hxUIZfPurwTgbZmo7SNnXj1_9iSjwNu5zf_a10NUZ2w73oMG_-UdcoId7","fade_in_start_milliseconds":"-3000","plid":"AAVlhEeMCGFKqdtk","player_error_log_fraction":"1.0","idpj":"-7","allow_ratings":"1","swf_player_response":"1","fflags":"html5_streaming_xhr_no_mp4_holdback_chunk=true\u0026mweb_cougar=true\u0026web_player_defer_modules=true\u0026html5_maximum_readahead_seconds=0.0\u0026html5_request_size_min_secs=0.0\u0026hide_preskip=true\u0026set_interstitial_start_button=true\u0026html5_local_max_byterate_lookahead=15\u0026html5_variability_no_discount_thresh=1.0\u0026doubleclick_gpt_retagging=true\u0026sdk_ad_prefetch_time_seconds=-1\u0026disable_client_side_midroll_freq_capping=true\u0026html5_incremental_parser_coalesce_slice_buffers=true\u0026disable_indisplay_adunit_on_embedded=true\u0026variable_load_timeout_ms=0\u0026dynamic_ad_break_seek_threshold_sec=0\u0026use_forced_linebreak_preskip_text=true\u0026interaction_click_on_gel_web=true\u0026use_survey_skip_in_0s=true\u0026html5_qoe_intercept=\u0026html5_hls_initial_bitrate=0\u0026skip_restore_on_abandon_in_bulleit=true\u0026html5_live_normal_latency_bandwidth_window=0.0\u0026html5_subsegment_readahead_target_buffer_health_secs=0.5\u0026html5_mobile_perf_cap_240=true\u0026use_fast_fade_in_0s=true\u0026web_player_edge_autohide_killswitch2=true\u0026html5_allowable_liveness_drift_chunks=2\u0026web_player_api_logging_fraction=0.01\u0026html5_pipeline_manifestless=true\u0026spacecast_uniplayer_decorate_manifest=true\u0026html5_min_readbehind_cap_secs=0\u0026html5_disable_non_contiguous=true\u0026html5_streaming_xhr_progress_includes_latest=true\u0026website_actions_cta_redesign=true\u0026mweb_playsinline_webview=true\u0026embed_show_watchlater_login=true\u0026html5_report_conn=true\u0026html5_spherical_bicubic_mode=1\u0026player_destroy_old_version=true\u0026html5_disable_audio_slicing=true\u0026disable_max_adsense_channel_limit=true\u0026call_release_video_in_bulleit=true\u0026html5_license_constraint_delay=5000\u0026html5_get_video_info_promiseajax=true\u0026autoplay_time=8000\u0026html5_live_only_disable_loader=true\u0026html5_adunit_from_adformat=true\u0026sdk_wrapper_levels_allowed=0\u0026king_crimson_player_redux=true\u0026html5_restrict_streaming_xhr_on_sqless_requests=true\u0026dash_manifest_version=5\u0026disable_reporting_html5_no_vast_ads_as_error=true\u0026html5_adjust_effective_request_size=true\u0026vss_dni_delayping=0\u0026html5_fludd_suspend=true\u0026html5_aux_pctile=true\u0026html5_jumbo_ull_subsegment_readahead_target=1.0\u0026limit_of_rebuffering_event_on_html5=1000\u0026disable_set_awesome_mweb=true\u0026html5_serverside_call_server_on_biscotti_timeout=true\u0026html5_ad_stats_bearer=true\u0026html5_ignore_public_setPlaybackQuality=true\u0026fast_autonav_in_background=true\u0026html5_ad_no_buffer_abort_after_skippable=true\u0026html5_sticky_reduces_discount_by=0.0\u0026set_interstitial_advertisers_question_text=true\u0026html5_strip_emsg=true\u0026html5_suspend_manifest_on_pause=true\u0026html5_timeupdate_readystate_check=true\u0026uniplayer_dbp=true\u0026html5_max_av_sync_drift=50\u0026html5_min_buffer_to_resume=6\u0026html5_observe_live_start_seconds=true\u0026html5_preload_size_excludes_metadata=true\u0026html5_stop_video_in_cancel_playback=true\u0026html5_subsegment_readahead_min_buffer_health_secs=0.25\u0026html5_streaming_xhr_buffer_mdat=true\u0026enable_prefetch_for_postrolls=true\u0026html5_deadzone_multiplier=1.0\u0026html5_deferred_source_buffer_creation=true\u0026html5_tight_max_buffer_allowed_impaired_time=0.0\u0026youtubei_for_web=true\u0026html5_env_data_update_app_only=true\u0026html5_streaming_xhr_optimize_lengthless_mp4=true\u0026disable_trusted_ad_domains_player_check=true\u0026fix_gpt_pos_params=true\u0026player_unified_fullscreen_transitions=true\u0026html5_live_abr_repredict_fraction=0.0\u0026html5_no_shadow_env_data_redux=true\u0026disable_mweb_iphone_ad_click_handling_functionality=true\u0026html5_use_adaptive_live_readahead=true\u0026html5_always_enable_timeouts=true\u0026html5_disable_urgent_upgrade_for_quality=true\u0026html5_throttle_rate=0.0\u0026html5_min_secs_over_max_bytes=true\u0026html5_enable_mesh_projection=true\u0026www_for_videostats=true\u0026segment_volume_reporting=true\u0026use_new_skip_icon=true\u0026html5_clearance_fix=true\u0026enable_bulleit_lidar_integration=true\u0026forced_brand_precap_duration_ms=2000\u0026html5_pipeline_ultra_low_latency=true\u0026html5_live_abr_head_miss_fraction=0.0\u0026html5_new_fallback=true\u0026postroll_notify_time_seconds=5\u0026html5_throttle_burst_secs=15.0\u0026html5_new_peg_to_live_v2=true\u0026dynamic_ad_break_pause_threshold_sec=0\u0026html5_serverside_biscotti_id_wait_ms=1000\u0026show_thumbnail_behind_ypc_offer_module=true\u0026html5_default_quality_cap=0\u0026html5_post_interrupt_readahead=20\u0026mweb_playsinline=true\u0026html5_subsegment_readahead_controlled_by_buffer_health=true\u0026legacy_autoplay_flag=true\u0026html5_sticky_ignore_capped=true\u0026html5_enable_bandwidth_estimation_type=true\u0026html5_serverside_call_server_on_biscotti_error=true\u0026website_actions_throttle_percentage=1.0\u0026html5_min_upgrade_health=0\u0026html5_max_buffer_health_for_downgrade=15\u0026tvhtml5_background_su=true\u0026html5_live_ultra_low_latency_bandwidth_window=5.0\u0026html5_request_sizing_multiplier=0.8\u0026html5_subsegment_readahead_progress_timeout_fraction=0.8\u0026html5_variability_discount=0.5\u0026mweb_cougar_big_controls=true\u0026html5_parse_inline_fallback_host=true\u0026lightweight_watch_video_swf=true\u0026html5_qoe_unstarted_in_initialization=true\u0026html5_disable_preserve_reference=true\u0026html5_drm_generate_request_delay=0\u0026web_player_tabindex_killswitch=true\u0026playready_on_borg=true\u0026html5_variability_full_discount_thresh=3.0\u0026html5_el_migration=true\u0026html5_manifestless_accurate_sliceinfo=true\u0026html5_min_readbehind_secs=0\u0026html5_live_disable_dg_pacing=true\u0026html5_tight_max_buffer_allowed_bandwidth_stddevs=0.0\u0026html5_widevine_robustness_strings=true\u0026html5_quality_cap_min_age_secs=0\u0026html5_min_secs_between_format_selections=8.0\u0026html5_minimum_readahead_seconds=0.0\u0026live_fresca_v2=true\u0026html5_vp9_live_blacklist_edge=true\u0026html5_background_cap_idle_secs=60\u0026html5_subsegment_readahead_min_buffer_health_secs_on_timeout=0.1\u0026enable_mesh_ps4=true\u0026mweb_cougar_ads_backend=true\u0026html5_ultra_low_latency_streaming_responses=true\u0026html5_max_readahead_bandwidth_cap=0\u0026show_thumbnail_on_standard=true\u0026html5_request_size_max_secs=31\u0026html5_max_headm_for_streaming_xhr=0\u0026html5_stale_dash_manifest_retry_factor=1.0\u0026html5_live_probe_primary_host=true\u0026mweb_enable_skippables_on_iphone=true\u0026html5_use_has_subfragmented_fmp4=true\u0026html5_background_quality_cap=360\u0026html5_prefer_server_bwe3=true\u0026enable_spherical_ps4=true\u0026show_interstitial_for_3s=true\u0026html5_incremental_parser_buffer_duration_secs=1.5\u0026html5_pause_video_fix=true\u0026html5_live_low_latency_bandwidth_window=0.0\u0026mpu_visible_threshold_count=2\u0026html5_progressive_signature_reload=true\u0026html5_enable_ms_playready_hd=true\u0026mweb_autonav=true\u0026kevlar_allow_multistep_video_init=true\u0026html5_max_buffer_duration=0\u0026html5_live_4k_more_buffer=true\u0026web_embedded_player_service=true\u0026enable_afv_div_reset_in_kevlar=true\u0026html5_incremental_parser_buffer_extra_bytes=16384\u0026html5_suspend_loader=true\u0026live_chunk_readahead=3\u0026html5_default_ad_gain=0.5\u0026show_interstitial_white=true\u0026html5_player_autonav_logging=true\u0026fixed_padding_skip_button=true\u0026html5_composite_stall=true\u0026html5_live_use_alternate_bandwidth_window_sizes=true\u0026html5_nnr_downgrade_count=4\u0026html5_elbow_tracking_tweaks=true\u0026max_resolution_for_white_noise=360\u0026html5_hopeless_mode_request_size_secs=15\u0026html5_manifestless_no_redundant_seek_to_head=true\u0026deprecate_get_video_metadata=true\u0026flex_theater_mode=true\u0026send_html5_api_stats_ads_abandon=true\u0026html5_aspect_from_adaptive_format=true\u0026html5_nnr_downgrade_adjacency=true\u0026mweb_muted_autoplay=true\u0026allow_live_autoplay=true\u0026html5_readahead_ratelimit=3000\u0026playready_first_play_expiration=-1\u0026html5_disable_move_pssh_to_moov=true\u0026html5_min_startup_smooth_target=10.0\u0026show_countdown_on_bumper=true\u0026html5_new_e2e_latency_tracking=true\u0026html5_disable_webgl_antialias=true\u0026enable_live_state_auth=true\u0026desktop_cleanup_companion_on_instream_begin=true\u0026html5_get_video_info_timeout_ms=0\u0026html5_ignore_bad_bitrates=true\u0026html5_defer_background_errors=true\u0026html5_platform_minimum_readahead_seconds=0.0\u0026disable_set_awesome_html5=true\u0026html5_error_reload_cooldown_ms=30000\u0026html5_reselect_bandwidth_factor=3.0\u0026mweb_autonav_paddles=true\u0026html5_start_off_live=0\u0026persist_text_on_preview_button=true\u0026html5_live_pin_to_tail=true\u0026html5_enable_embedded_player_visibility_signals=true\u0026use_new_style=true\u0026html5_bandwidth_window_size=0\u0026use_html5_player_event_timeout=true\u0026midroll_notify_time_seconds=5\u0026stop_using_ima_sdk_gpt_request_activity=true\u0026html5_subsegment_readahead_timeout_secs=2.0\u0026html5_connect_timeout_secs=7.0\u0026mweb_muted_autoplay_animation=shrink\u0026html5_msi_error_fallback=true\u0026ad_duration_threshold_for_showing_endcap_seconds=15\u0026html5_suspended_state=true\u0026html5_subsegment_readahead_tail_margin_secs=0.2\u0026html5_new_autoplay_redux=true\u0026html5_mweb_client_cap=true\u0026html5_break_deadlocks=true\u0026html5_vp9_live_whitelist=true\u0026html5_repredict_interval_secs=0.0\u0026safari_enable_spherical=true\u0026disable_new_pause_state3=true\u0026ad_video_end_renderer_duration_milliseconds=7000\u0026html5_sticky_disables_variability=true\u0026html5_stall_pctile=true\u0026html5_reattach_resource_after_timeout_limit=0\u0026html5_video_tbd_min_kb=0\u0026player_external_control_on_classic_desktop=true\u0026embed_snippet_includes_version=true\u0026html5_subsegment_readahead_always_delay_appends=true\u0026live_readahead_seconds_multiplier=0.8\u0026web_player_disable_flash_playerproxy=true","remarketing_url":"https:\/\/www.youtube.com\/pagead\/viewthroughconversion\/962985656\/?backend=innertube\u0026cname=1\u0026cver=1_20180215\u0026data=backend%3Dinnertube%3Bcname%3D1%3Bcver%3D1_20180215%3Bm%3D1%3Bptype%3Dview%3Btype%3Dview%3Butuid%3DS3dfr0uOIC6OP-rSECVPMA%3Butvid%3D2mLYeA-ORV4%3Bw%3D1\u0026foc_id=S3dfr0uOIC6OP-rSECVPMA\u0026label=followon_view\u0026ptype=view","tmi":"1","csi_page_type":"watch","vid":"2mLYeA-ORV4","invideo":true,"ucid":"UCS3dfr0uOIC6OP-rSECVPMA","account_playback_token":"QUFFLUhqblNYRWtXRnlCRHYtV0FqX2NKc3lxM0NBSEp1d3xBQ3Jtc0tra1JPUlZkeHZiN1BNRmlmVnkxNVRsZDFUQk1hNi1jWWxkMElMdDdULUJ4WnpTQTIzQnN2ZEhmdEV0aHE5S0FyYk10SEt3bDdfV2tlb1Y4OXhadktVSnFOV3NzdlMtUGkyOW85bDFWSDlDVGpkenJLUQ==","ppv_remarketing_url":"https:\/\/www.googleadservices.com\/pagead\/conversion\/971134070\/?backend=innertube\u0026cname=1\u0026cver=1_20180215\u0026data=backend%3Dinnertube%3Bcname%3D1%3Bcver%3D1_20180215%3Bdactive%3DNone%3Bdynx_itemid%3D2mLYeA-ORV4%3Bptype%3Dppv%3Breferrerlen%3D0%3Burllen%3D37\u0026label=iuZUCLmC72YQ9qiJzwM\u0026ptype=ppv\u0026referrerlen=0\u0026urllen=37\u0026value=0.081","core_dbp":"ChZaYzZqNUlpOWtkdXdicldZNWdfSHFBEAEgASgA","ptk":"youtube_single","host_language":"en","probe_url":"https:\/\/r6---sn-hp57knz6.googlevideo.com\/videogoodput?id=o-APAsLONtIHJtme4ZQ-wNYgBvTYZxMWmlnJcw-GpvDN0s\u0026source=goodput\u0026range=0-4999\u0026expire=1518997293\u0026ip=2600:8805:1000:5e90:89ba:9035:c8dc:e4a1\u0026ms=pm\u0026mm=35\u0026pl=48\u0026nh=IgpwZjAxLm1pYTA2KhEyMDAxOjVhMDoxODAwOjoyOQ\u0026sparams=id,source,range,expire,ip,ms,mm,pl,nh\u0026signature=56510F0F6343E0FD7D7F39E1B0723BC6BAAA4A08.6BDE13CEA4F70DE1068D31DA6FF4D44C0CD8ADCA\u0026key=cms1","oid":"pU7sV62NjFz-KSltQe0Nkw","gapi_hint_params":"m;\/_\/scs\/abc-static\/_\/js\/k=gapi.gapi.en.HtLvrA_npCQ.O\/m=__features__\/am=AAE\/rt=j\/d=1\/rs=AHpOoo8wHQU_A1WtgGgcOpQEfGjHuD8e-g","title":"Taylor Swift - Wildest Dreams I Bad Blood (Cover Medley)","avg_rating":"4.98149299622","encoded_ad_safety_reason":"CgBYAXAB","fade_out_duration_milliseconds":"1000","t":"1","innertube_api_version":"v1","xhr_apiary_host":"youtubei.youtube.com","baseUrl":"https:\/\/www.youtube.com\/pagead\/viewthroughconversion\/962985656\/","adsense_video_doc_id":"yt_2mLYeA-ORV4","thumbnail_url":"https:\/\/i.ytimg.com\/vi\/2mLYeA-ORV4\/default.jpg","ad3_module":"1","of":"Zc6j5Ii9kduwbrWY5g_HqA","vmap":"\u003c?xml version=\"1.0\" encoding=\"UTF-8\"?\u003e\u003cvmap:VMAP xmlns:vmap=\"http:\/\/www.iab.net\/videosuite\/vmap\" xmlns:yt=\"http:\/\/youtube.com\" version=\"1.0\"\u003e\u003cvmap:AdBreak breakType=\"linear\" timeOffset=\"start\"\u003e\u003cvmap:AdSource allowMultipleAds = \"false\"\u003e\u003cvmap:AdTagURI\u003e\u003c![CDATA[https:\/\/www.youtube.com\/get_midroll_info?ei=HQGKWpjyNKql-AOoiKNw\u0026m_pos=0\u0026index=0\u0026token=APgu9jcBok2TZjiV6Q2ZrqtLfaF-6p-wG3kOcZ0AZZVvJ56jluAch0unL6HVJUaRIeFYlVCOEa_7m8JvAzq9laaS8yHmawpxIhm0kJiyK2R0JGxPodWacSmOco8tr0ec2BOtRTOseCtNUZlg7-JFtYZUC2E3qYYHZmwB_5kd3JP4dcIptsIH64S4ed7iZIFbc_AIOELYJdcmjaObLbgCtF7SYt7hwh0srhhbI-rFdk-32n8-2z1bIRdWZaxNSQYmShcQKsOIhIFDy5rV-9BPXuBzWC7tY-E4OQ\u0026ad_block=[AD_BLOCK]\u0026cpn=[CPN]\u0026lact=-1\u0026tsla=[TSLA]\u0026vis=[VIS]\u0026bid=[BISCOTTI_ID]\u0026dt=[DT]\u0026flash=[FLASH]\u0026frm=[FRM]\u0026ca_type=[CA_TYPE]\u0026u_tz=[U_TZ]\u0026u_his=[U_HIS]\u0026u_java=[U_JAVA]\u0026u_h=[U_H]\u0026u_w=[U_W]\u0026u_ah=[U_AH]\u0026u_aw=[U_AW]\u0026u_cd=[U_CD]\u0026u_nplug=[U_NPLUG]\u0026u_nmime=[U_NMIME]\u0026c=WEB\u0026cver=1.20180215]]\u003e\u003c\/vmap:AdTagURI\u003e\u003c\/vmap:AdSource\u003e\u003cvmap:TrackingEvents\u003e\u003cvmap:Tracking event=\"error\"\u003e\u003c![CDATA[https:\/\/www.youtube.com\/api\/stats\/ads?ver=2\u0026ns=1\u0026event=1\u0026device=1\u0026content_v=2mLYeA-ORV4\u0026el=detailpage\u0026ei=HQGKWpjyNKql-AOoiKNw\u0026devicever=1.20180215\u0026bti=9454618\u0026break_type=[BREAK_TYPE]\u0026conn=[CONN]\u0026cpn=[CPN]\u0026lact=[LACT]\u0026m_pos=[MIDROLL_POS]\u0026mt=[MT]\u0026p_h=[P_H]\u0026p_w=[P_W]\u0026rwt=[RWT]\u0026sdkv=[SDKV]\u0026slot_pos=[SLOT_POS]\u0026vis=[VIS]\u0026vol=[VOL]\u0026wt=[WT]]]\u003e\u003c\/vmap:Tracking\u003e\u003c\/vmap:TrackingEvents\u003e\u003cvmap:Extensions\u003e\u003cvmap:Extension type=\"YouTube\"\u003e\u003cyt:BreakProperty break_type=\"BREAK_TYPE_PRE_ROLL\"\/\u003e\u003c\/vmap:Extension\u003e\u003c\/vmap:Extensions\u003e\u003c\/vmap:AdBreak\u003e\u003cvmap:Extensions\u003e\u003cvmap:Extension type=\"YouTube\"\u003e\u003cTrackingDecoration match=\"^https?:\/\/((([a-z][a-z0-9.-]*\\.)?(youtube|corp\\.google).com\/api\/stats\/ads)|((www\\.)?youtube\\.com\/pagead\/psul))\" headers=\"device,user\"\/\u003e\u003cTrackingMacro match=\"^https?:\/\/(secure\\-uat\\-dpr\\.imrworldwide|secure\\-gg\\.imrworldwide|sb\\.scorecardresearch)\\.com\/\" macros=\"device_id\"\/\u003e\u003cRegexUriMacroValidator\u003e\u003cMacroToRegexUris macro=\"NIELSEN_DEVICE_ID\"\u003e\u003cRegexUri value=\"^https?:\/\/(secure\\-uat\\-dpr\\.imrworldwide|secure\\-gg\\.imrworldwide|sb\\.scorecardresearch)\\.com\/\"\/\u003e\u003c\/MacroToRegexUris\u003e\u003cMacroToRegexUris macro=\"COMSCORE_DEVICE_ID\"\u003e\u003cRegexUri value=\"^https?:\/\/(secure\\-uat\\-dpr\\.imrworldwide|secure\\-gg\\.imrworldwide|sb\\.scorecardresearch)\\.com\/\"\/\u003e\u003c\/MacroToRegexUris\u003e\u003cMacroToRegexUris macro=\"MOAT_INIT\"\u003e\u003cRegexUri value=\"^https?:\/\/yts\\.moatads\\.com\"\/\u003e\u003cRegexUri value=\"^https?:\/\/yts-testing\\.moatads\\.com\"\/\u003e\u003cRegexUri value=\"^https?:\/\/pagead2\\.googlesyndication\\.com\/pagead\/gen_204\"\/\u003e\u003cRegexUri value=\"^https?:\/\/pagead2\\.googlesyndication\\.com\/activeview\/3pty\/moat-secure\"\/\u003e\u003c\/MacroToRegexUris\u003e\u003cMacroToRegexUris macro=\"MOAT_VIEWABILITY\"\u003e\u003cRegexUri value=\"^https?:\/\/[^.]*\\.moatads\\.com\"\/\u003e\u003cRegexUri value=\"^https?:\/\/pagead2\\.googlesyndication\\.com\/pagead\/gen_204\"\/\u003e\u003cRegexUri value=\"^https?:\/\/pubads\\.g\\.doubleclick\\.net\"\/\u003e\u003cRegexUri value=\"^https?:\/\/pagead2\\.googlesyndication\\.com\/activeview\/3pty\/moat\"\/\u003e\u003c\/MacroToRegexUris\u003e\u003cMacroToRegexUris macro=\"IAS_VIEWABILITY\"\u003e\u003cRegexUri value=\"^https?:\/\/pm\\.adsafeprotected\\.com\/youtube\"\/\u003e\u003cRegexUri value=\"^https?:\/\/pm\\.test-adsafeprotected\\.com\/youtube\"\/\u003e\u003cRegexUri value=\"^https?:\/\/pagead2\\.googlesyndication\\.com\/pagead\/gen_204\"\/\u003e\u003cRegexUri value=\"^https?:\/\/pubads\\.g\\.doubleclick\\.net\"\/\u003e\u003cRegexUri value=\"^https?:\/\/pagead2\\.googlesyndication\\.com\/activeview\/3pty\/ias\"\/\u003e\u003c\/MacroToRegexUris\u003e\u003cMacroToRegexUris macro=\"DV_VIEWABILITY\"\u003e\u003cRegexUri value=\"^https?:\/\/e[0-9]+\\.yt\\.srs\\.doubleverify\\.com\"\/\u003e\u003cRegexUri value=\"^https?:\/\/pagead2\\.googlesyndication\\.com\/pagead\/gen_204\"\/\u003e\u003cRegexUri value=\"^https?:\/\/pubads\\.g\\.doubleclick\\.net\"\/\u003e\u003cRegexUri value=\"^https?:\/\/pagead2\\.googlesyndication\\.com\/activeview\/3pty\/doubleverify\"\/\u003e\u003c\/MacroToRegexUris\u003e\u003cMacroToRegexUris macro=\"GOOGLE_VIEWABILITY\"\u003e\u003cRegexUri value=\"^https?:\/\/pagead2\\.googlesyndication\\.com\"\/\u003e\u003cRegexUri value=\"^https?:\/\/pubads\\.g\\.doubleclick\\.net\"\/\u003e\u003cRegexUri value=\"^https?:\/\/googleads\\.g\\.doubleclick\\.net\"\/\u003e\u003cRegexUri value=\"^https?:\/\/([a-z0-9]+\\.)*youtube\\.com\"\/\u003e\u003cRegexUri value=\"^https?:\/\/ad[\\.-]([a-z0-9]+\\.){0,1}doubleclick\\.net\"\/\u003e\u003cRegexUri value=\"^https?:\/\/ade\\.googlesyndication\\.com\"\/\u003e\u003c\/MacroToRegexUris\u003e\u003c\/RegexUriMacroValidator\u003e\u003c\/vmap:Extension\u003e\u003c\/vmap:Extensions\u003e\u003c\/vmap:VMAP\u003e","pltype":"contentugc","shortform":true,"allow_below_the_player_companion":true,"ad_slots":"0","ad_logging_flag":"1","video_id":"2mLYeA-ORV4","serialized_ad_ux_config":"[[null,null,[1,null,null,null,null,null,1,null,null,null,null,null,1,null,[\"Thanks for your feedback!\",\"Learn more\",\"https:\/\/support.google.com\/youtube\/answer\/3181017?hl=en\"]]]]","cafe_experiment_id":"185863824","token":"1","relative_loudness":"3.55100059509","itct":"CAMQu2kiEwjY9Ke8xLDZAhWqEn4KHSjECA4o-B0=","ad_flags":"1"},"attrs":{"id":"movie_player"},"assets":{"js":"\/yts\/jsbin\/player-vfl8swg2e\/en_US\/base.js","css":"\/yts\/cssbin\/player-vflWsxn7B\/www-player.css"}};ytplayer.load = function() {yt.player.Application.create("player-api", ytplayer.config);ytplayer.config.loaded = true;};(function() {if (!!window.yt && yt.player && yt.player.Application) {ytplayer.load();}}());
+Watch QueueQueueWatch QueueQueue 
+Remove allDisconnect
+
+
+
+
+
+
+
+The next video is startingstop 
+
+
+Loading...
+    
+
+ 
+
+
+
+ 
+
+Watch Queue
+    
+Queue
+
+__count__/__total__
+    
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "@context": "http://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@id": "http:\/\/www.youtube.com\/user\/BerkleeCollege",
+            "name": "Berklee College of Music"
+          }
+        }
+      ]
+    }
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+Find out whyClose
+
+
+
+
+
+
+    Taylor Swift - Wildest Dreams I Bad Blood (Cover Medley)
+  
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Berklee College of Music
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Loading...
+    
+
+
+
+
+
+
+
+        Unsubscribe from Berklee College of Music?
+      
+
+
+Cancel
+Unsubscribe
+
+
+
+
+
+
+
+
+
+
+        Working...
+    
+
+
+
+
+
+
+
+
+
+
+SubscribeSubscribedUnsubscribe469K 
+
+
+
+
+
+
+
+
+
+
+
+Loading...
+    
+
+
+
+
+
+
+
+
+
+Loading...
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Working...
+    
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Add to
+
+Want to watch this again later?
+
+      Sign in to add this video to a playlist.
+    
+Sign in
+
+
+Share
+
+ More
+ 
+
+
+Report
+
+
+Need to report the video?
+
+      Sign in to report inappropriate content.
+    
+Sign in
+
+
+
+
+Add translations
+
+431,996 views
+
+
+
+
+
+
+
+11,187
+
+Like this video?
+
+      Sign in to make your opinion count.
+    
+Sign in
+
+
+
+11,188
+
+
+52
+
+Don't like this video?
+
+      Sign in to make your opinion count.
+    
+Sign in
+
+
+
+53
+
+
+
+
+
+
+
+
+
+
+
+Loading...
+    
+
+
+
+
+
+
+
+
+
+
+Loading...
+    
+
+
+
+
+
+
+
+
+Loading...
+    
+
+
+
+
+
+Rating is available when the video has been rented.
+
+
+
+
+      This feature is not available right now. Please try again later.
+    
+
+
+
+
+Published on Sep 24, 2015Taylor Swift cover medley of "Wildest Dreams" and "Bad Blood" live at Berklee College of Music.Tim Reynolds:Twitter: @violin_timFacebook: https://www.facebook.com/tim.reynolds...Instagram: https://www.instagram.com/violin_timNigel:Facebook: https://www.facebook.com/nigeltwkInstagram: https://www.instagram.com/nigeltwkSoundcloud: https://soundcloud.com/nigeltwkTwitter: https://twitter.com/nigeltwkBerkleeSubscribe: http://bit.ly/1MjVyENFacebook: https://facebook.com/BerkleeCollegeTwitter: https://twitter.com/berkleecollegeInstagram: https://instagram.com/berkleecollegeWebsite: https://www.berklee.edu/"Wildest Dreams" and "Bad Blood" (Taylor Swift, Max Martin, Shellback, Kendrick Lamar) Tim Reynolds: violin, arrangerNigel Tay: guitar, arrangerJuan Carreno: producer, arranger Recorded live at David Friend Recital Hall Dave Wentling: stage managerConnor Gehlert: stage crewAngie Thu Nguyen: stage crewFares Btoush: stage crew Calum Brockie: mixing engineer, assistant recording engineerMatt Larson: mixing engineer, assistant recording engineer Alberto Goicoechea: videographer, editor 
+
+
+
+      Category
+    
+
+Music
+
+
+
+
+      License
+    
+
+Standard YouTube License
+
+
+
+
+ Show more
+Show less
+
+
+
+
+
+
+Loading...
+    
+
+
+
+
+
+
+
+
+
+
+
+
+Advertisement
+      
+
+
+
+
+
+
+
+
+Autoplay
+
+
+When autoplay is enabled, a suggested video will automatically play next. 
+
+ 
+
+
+        Up next
+      
+
+
+
+
+
+
+    Taylor Swift -- Begin Again (Piano/Cello Cover) The Piano Guys
+  
+
+     - Duration: 4:31.
+  
+ThePianoGuys
+12,610,479 views
+
+
+
+4:31
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+50+ videos
+  
+
+
+
+
+
+
+
+
+Play all
+          
+
+
+
+
+Play now
+
+
+
+
+Mix - Taylor Swift - Wildest Dreams I Bad Blood (Cover Medley)YouTube
+
+
+
+    A.R. Rahman - Kun Faya Kun (Berklee Indian Ensemble cover)
+  
+
+     - Duration: 11:51.
+  
+Berklee College of Music
+5,677,243 views
+
+
+
+11:51
+
+
+
+
+
+    Taylor Performs "Wildest Dreams" at The GRAMMY Museum
+  
+
+     - Duration: 4:06.
+  
+Taylor Swift
+7,734,848 views
+
+
+
+4:06
+
+
+
+
+
+    Taylor Swift and Zac Efron Sing a Duet!
+  
+
+     - Duration: 3:41.
+  
+TheEllenShow
+38,794,371 views
+
+
+
+3:41
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+112 videos
+  
+
+
+
+
+
+
+
+
+Play all
+          
+
+
+
+Berklee Presents: Student ArrangementsBerklee College of Music
+
+
+
+    Taylor Swift sings Adele "Someone Like You" accompanied by leukemia patient
+  
+
+     - Duration: 2:17.
+  
+SuperGlue65
+3,200,155 views
+
+
+
+2:17
+
+
+
+
+
+    Berklee Indian Ensemble ft. Armeen Musa - Jaago Piya
+  
+
+     - Duration: 8:37.
+  
+Berklee College of Music
+1,025,607 views
+
+
+
+8:37
+
+
+
+
+
+    Christina Perri - A Thousand Years (Piano/Cello Cover) - The Piano Guys
+  
+
+     - Duration: 4:46.
+  
+ThePianoGuys
+118,155,700 views
+
+
+
+4:46
+
+
+
+
+
+    Taylor performs "Blank Space" at The GRAMMY Museum
+  
+
+     - Duration: 5:57.
+  
+Taylor Swift
+4,927,107 views
+
+
+
+5:57
+
+
+
+
+
+    Blank Space - Taylor Swift - Violin, Guitar, Piano Cover - Daniel Jang
+  
+
+     - Duration: 4:18.
+  
+Daniel Jang
+1,380,478 views
+
+
+
+4:18
+
+
+
+
+
+    Taylor Swift - Wildest Dreams
+  
+
+     - Duration: 3:55.
+  
+TaylorSwiftVEVO
+599,382,830 views
+
+
+
+3:55
+
+
+
+
+
+    Selena Gomez - The Heart Wants What It Wants (Cover by Gabriela Francesca)
+  
+
+     - Duration: 5:50.
+  
+Berklee College of Music
+267,321 views
+
+
+
+5:50
+
+
+
+
+
+    A. R. Rahman, "Jiya Jale" (Dil Se): Berklee Indian Ensemble (Cover)
+  
+
+     - Duration: 6:57.
+  
+Berklee College of Music
+17,597,738 views
+
+
+
+6:57
+
+
+
+
+
+    Mary J. Blige, Taylor Swift - Doubt
+  
+
+     - Duration: 6:20.
+  
+MaryJBligeVEVO
+1,866,624 views
+
+
+
+6:20
+
+
+
+
+
+    Taylor Swift - New Romantics
+  
+
+     - Duration: 4:22.
+  
+TaylorSwiftVEVO
+75,201,737 views
+
+
+
+4:22
+
+
+
+
+
+    Taylor Swift and Jennifer Lopez: Jenny from the Block
+  
+
+     - Duration: 5:56.
+  
+Taylor Swift
+3,880,708 views
+
+
+
+5:56
+
+
+
+
+
+    Adele - When We Were Young (Live at The Church Studios)
+  
+
+     - Duration: 5:43.
+  
+AdeleVEVO
+312,767,468 views
+
+
+
+5:43
+
+
+
+
+
+    Taylor Swift - Everything Has Changed ft. Ed Sheeran
+  
+
+     - Duration: 4:12.
+  
+TaylorSwiftVEVO
+258,467,268 views
+
+
+
+4:12
+
+
+
+
+
+    Taylor Swift performs Love Story for the Teen Awards
+  
+
+     - Duration: 4:40.
+  
+BBC Radio 1
+4,287,869 views
+
+
+
+4:40
+
+
+
+
+Loading more suggestions...
+    
+
+Show more
+
+
+
+
+
+
+
+
+
+  
+
+ 
+Language:
+  
+  English
+
+
+
+ 
+Location:
+  
+  United States
+
+
+
+ 
+Restricted Mode:
+  
+Off
+
+
+
+History Help
+
+
+
+
+
+Loading...
+    
+
+
+
+
+
+
+Loading...
+    
+
+
+
+
+
+
+Loading...
+    
+
+
+ About
+Press
+Copyright
+Creators
+Advertise
+Developers
++YouTube
+ Terms
+Privacy
+
+Policy & Safety
+  
+Send feedback
+
+Test new features
+
+
+
+
+
+
+
+
+
+
+
+
+
+Loading...
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Working...
+    
+
+
+
+
+
+
+
+
+
+ 
+Sign in to add this to Watch Later
+
+    
+ 
+
+Add to
+    
+
+
+
+
+
+        Loading playlists...
+    
+
+
+ var ytspf = ytspf || {};ytspf.enabled = true;ytspf.config = {'reload-identifier': 'spfreload'};ytspf.config['request-headers'] = {'X-YouTube-Identity-Token': null};ytspf.config['experimental-request-headers'] = ytspf.config['request-headers'];ytspf.config['cache-max'] = 50;ytspf.config['navigate-limit'] = 50;ytspf.config['navigate-lifetime'] = 64800000;
+
+
+spf.script.path({'www/': '/yts/jsbin/www-en_US-vfl8LJMmq/'});var ytdepmap = {"www/base": null, "www/common": "www/base", "www/angular_base": "www/common", "www/channels_accountupload": "www/common", "www/channels": "www/common", "www/dashboard": "www/common", "www/downloadreports": "www/common", "www/experiments": "www/common", "www/feed": "www/common", "www/instant": "www/common", "www/legomap": "www/common", "www/promo_join_network": "www/common", "www/results_harlemshake": "www/common", "www/results": "www/common", "www/results_starwars": "www/common", "www/subscriptionmanager": "www/common", "www/unlimited": "www/common", "www/watch": "www/common", "www/ypc_bootstrap": "www/common", "www/ypc_core": "www/common", "www/channels_edit": "www/channels", "www/live_dashboard": "www/angular_base", "www/videomanager": "www/angular_base", "www/watch_autoplayrenderer": "www/watch", "www/watch_edit": "www/watch", "www/watch_editor": "www/watch", "www/watch_live": "www/watch", "www/watch_promos": "www/watch", "www/watch_speedyg": "www/watch", "www/watch_transcript": "www/watch", "www/watch_videoshelf": "www/watch", "www/ct_advancedsearch": "www/videomanager", "www/my_videos": "www/videomanager"};spf.script.declare(ytdepmap);if (window.ytcsi) {window.ytcsi.tick("je", null, '');} 
+    yt.setConfig({
+      'VIDEO_ID': "2mLYeA-ORV4",
+      'WAIT_TO_DELAYLOAD_FRAME_CSS': true,
+      'IS_UNAVAILABLE_PAGE': false,
+      'DROPDOWN_ARROW_URL': "\/yts\/img\/pixel-vfl3z5WfW.gif",
+      'AUTONAV_EXTRA_CHECK': false,
+
+      'JS_PAGE_MODULES': [
+        'www/watch',
+        'www/ypc_bootstrap',
+          'www/watch_speedyg',
+          'www/watch_autoplayrenderer',
+        ''       ],
+
+
+      'REPORTVIDEO_JS': "\/yts\/jsbin\/www-reportvideo-vflfM8msJ\/www-reportvideo.js",
+      'REPORTVIDEO_CSS': "\/yts\/cssbin\/www-watch-reportvideo-vflsGLT4P.css",
+
+
+      'TIMING_AFT_KEYS': ['pbp', 'pbs'],
+      'YPC_CAN_RATE_VIDEO': true,
+
+
+        'RELATED_PLAYER_ARGS': {"rvs":"session_data=itct%3DCBUQvU4YACITCNj0p7zEsNkCFaoSfgodKMQIDij4HTIJZW5kc2NyZWVuSN6KufyAj7ax2gE%253D\u0026endscreen_autoplay_session_data=itct%3DCBYQ4ZIBIhMI2PSnvMSw2QIVqhJ-Ch0oxAgOKPgdMgxyZWxhdGVkLWF1dG9I3oq5_ICPtrHaAQ%253D%253D%26playnext%3D1%26autonav%3D1\u0026iurlmq=https%3A%2F%2Fi.ytimg.com%2Fvi%2FP94DusN4LsY%2Fhqdefault.jpg%3Fsqp%3D-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE%3D%26rs%3DAOn4CLAbsU5tb_FIDOuuT7LXH_S5kwCZtA\u0026length_seconds=271\u0026title=Taylor+Swift+--+Begin+Again+%28Piano%2FCello+Cover%29+The+Piano+Guys\u0026iurlhq=https%3A%2F%2Fi.ytimg.com%2Fvi%2FP94DusN4LsY%2Fhqdefault.jpg%3Fsqp%3D-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE%3D%26rs%3DAOn4CLAbsU5tb_FIDOuuT7LXH_S5kwCZtA\u0026id=P94DusN4LsY\u0026author=ThePianoGuys\u0026short_view_count_text=12M+views,session_data=itct%3DCBQQvk4YASITCNj0p7zEsNkCFaoSfgodKMQIDij4HTIJZW5kc2NyZWVuSN6KufyAj7ax2gE%253D\u0026playlist_length=0\u0026list=RD2mLYeA-ORV4\u0026thumbnail_ids=TZPT8VHSTtU\u0026playlist_iurlhq=https%3A%2F%2Fi.ytimg.com%2Fvi%2F2mLYeA-ORV4%2Fhqdefault.jpg\u0026playlist_title=Mix+-+Taylor+Swift+-+Wildest+Dreams+I+Bad+Blood+%28Cover+Medley%29\u0026playlist_iurlmq=https%3A%2F%2Fi.ytimg.com%2Fvi%2F2mLYeA-ORV4%2Fmqdefault.jpg\u0026video_id=TZPT8VHSTtU,session_data=itct%3DCBMQvU4YAiITCNj0p7zEsNkCFaoSfgodKMQIDij4HTIJZW5kc2NyZWVuSN6KufyAj7ax2gE%253D\u0026iurlmq=https%3A%2F%2Fi.ytimg.com%2Fvi%2FR-dXS5TI_dQ%2Fhqdefault.jpg%3Fsqp%3D-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE%3D%26rs%3DAOn4CLDfn77np4ufy8u_5v_aos88j56JSw\u0026length_seconds=711\u0026title=A.R.+Rahman+-+Kun+Faya+Kun+%28Berklee+Indian+Ensemble+cover%29\u0026iurlhq=https%3A%2F%2Fi.ytimg.com%2Fvi%2FR-dXS5TI_dQ%2Fhqdefault.jpg%3Fsqp%3D-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE%3D%26rs%3DAOn4CLDfn77np4ufy8u_5v_aos88j56JSw\u0026id=R-dXS5TI_dQ\u0026author=Berklee+College+of+Music\u0026short_view_count_text=5.6M+views,session_data=itct%3DCBIQvU4YAyITCNj0p7zEsNkCFaoSfgodKMQIDij4HTIJZW5kc2NyZWVuSN6KufyAj7ax2gE%253D\u0026iurlmq=https%3A%2F%2Fi.ytimg.com%2Fvi%2FOGDkg3QiJmk%2Fhqdefault.jpg%3Fsqp%3D-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE%3D%26rs%3DAOn4CLAk9ZYu0juWs0lu2wCrqx1xSuPT0Q\u0026length_seconds=246\u0026title=Taylor+Performs+%22Wildest+Dreams%22+at+The+GRAMMY+Museum\u0026iurlhq=https%3A%2F%2Fi.ytimg.com%2Fvi%2FOGDkg3QiJmk%2Fhqdefault.jpg%3Fsqp%3D-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE%3D%26rs%3DAOn4CLAk9ZYu0juWs0lu2wCrqx1xSuPT0Q\u0026id=OGDkg3QiJmk\u0026author=Taylor+Swift\u0026short_view_count_text=7.7M+views,session_data=itct%3DCBEQvU4YBCITCNj0p7zEsNkCFaoSfgodKMQIDij4HTIJZW5kc2NyZWVuSN6KufyAj7ax2gE%253D\u0026iurlmq=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fd8kCTPPwfpM%2Fhqdefault.jpg%3Fsqp%3D-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE%3D%26rs%3DAOn4CLDZVP5H39-hBEcBVlSV7XeJoILcqw\u0026length_seconds=221\u0026title=Taylor+Swift+and+Zac+Efron+Sing+a+Duet%21\u0026iurlhq=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fd8kCTPPwfpM%2Fhqdefault.jpg%3Fsqp%3D-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE%3D%26rs%3DAOn4CLDZVP5H39-hBEcBVlSV7XeJoILcqw\u0026id=d8kCTPPwfpM\u0026author=TheEllenShow\u0026short_view_count_text=38M+views,session_data=itct%3DCBAQvk4YBSITCNj0p7zEsNkCFaoSfgodKMQIDij4HTIJZW5kc2NyZWVuSN6KufyAj7ax2gE%253D\u0026playlist_length=112\u0026list=PLG0f76gvWfh_qlp3ZS92LymVJZdsJSq6D\u0026thumbnail_ids=pZy8115sNXM\u0026playlist_iurlhq=https%3A%2F%2Fi.ytimg.com%2Fvi%2FpZy8115sNXM%2Fhqdefault.jpg\u0026playlist_title=Berklee+Presents%3A+Student+Arrangements\u0026playlist_iurlmq=https%3A%2F%2Fi.ytimg.com%2Fvi%2FpZy8115sNXM%2Fmqdefault.jpg\u0026video_id=pZy8115sNXM,session_data=itct%3DCA8QvU4YBiITCNj0p7zEsNkCFaoSfgodKMQIDij4HTIJZW5kc2NyZWVuSN6KufyAj7ax2gE%253D\u0026iurlmq=https%3A%2F%2Fi.ytimg.com%2Fvi%2FP6Y3jArYPjU%2Fhqdefault.jpg%3Fsqp%3D-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE%3D%26rs%3DAOn4CLBsQDwsGfh645SaCSA4mDZ85XjzzQ\u0026length_seconds=137\u0026title=Taylor+Swift+sings+Adele+%22Someone+Like+You%22+accompanied+by+leukemia+patient\u0026iurlhq=https%3A%2F%2Fi.ytimg.com%2Fvi%2FP6Y3jArYPjU%2Fhqdefault.jpg%3Fsqp%3D-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE%3D%26rs%3DAOn4CLBsQDwsGfh645SaCSA4mDZ85XjzzQ\u0026id=P6Y3jArYPjU\u0026author=SuperGlue65\u0026short_view_count_text=3.2M+views,session_data=itct%3DCA4QvU4YByITCNj0p7zEsNkCFaoSfgodKMQIDij4HTIJZW5kc2NyZWVuSN6KufyAj7ax2gE%253D\u0026iurlmq=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fi1oivnBSBJc%2Fhqdefault.jpg%3Fsqp%3D-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE%3D%26rs%3DAOn4CLBxsy8ZJnFvDOFu3XxEFHsMGqNR1g\u0026length_seconds=517\u0026title=Berklee+Indian+Ensemble+ft.+Armeen+Musa+-+Jaago+Piya\u0026iurlhq=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fi1oivnBSBJc%2Fhqdefault.jpg%3Fsqp%3D-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE%3D%26rs%3DAOn4CLBxsy8ZJnFvDOFu3XxEFHsMGqNR1g\u0026id=i1oivnBSBJc\u0026author=Berklee+College+of+Music\u0026short_view_count_text=1M+views,session_data=itct%3DCA0QvU4YCCITCNj0p7zEsNkCFaoSfgodKMQIDij4HTIJZW5kc2NyZWVuSN6KufyAj7ax2gE%253D\u0026iurlmq=https%3A%2F%2Fi.ytimg.com%2Fvi%2FQgaTQ5-XfMM%2Fhqdefault.jpg%3Fsqp%3D-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE%3D%26rs%3DAOn4CLAGpIeDscxI_MtODFmwvrTsrfm1kw\u0026length_seconds=286\u0026title=Christina+Perri+-+A+Thousand+Years+%28Piano%2FCello+Cover%29+-+The+Piano+Guys\u0026iurlhq=https%3A%2F%2Fi.ytimg.com%2Fvi%2FQgaTQ5-XfMM%2Fhqdefault.jpg%3Fsqp%3D-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE%3D%26rs%3DAOn4CLAGpIeDscxI_MtODFmwvrTsrfm1kw\u0026id=QgaTQ5-XfMM\u0026author=ThePianoGuys\u0026short_view_count_text=118M+views,session_data=itct%3DCAwQvU4YCSITCNj0p7zEsNkCFaoSfgodKMQIDij4HTIJZW5kc2NyZWVuSN6KufyAj7ax2gE%253D\u0026iurlmq=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fp1Zt47V3pPw%2Fhqdefault.jpg%3Fsqp%3D-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE%3D%26rs%3DAOn4CLAKnG26gh2582UfAaGdrWhTXiJu-g\u0026length_seconds=357\u0026title=Taylor+performs+%22Blank+Space%22+at+The+GRAMMY+Museum\u0026iurlhq=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fp1Zt47V3pPw%2Fhqdefault.jpg%3Fsqp%3D-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE%3D%26rs%3DAOn4CLAKnG26gh2582UfAaGdrWhTXiJu-g\u0026id=p1Zt47V3pPw\u0026author=Taylor+Swift\u0026short_view_count_text=4.9M+views,session_data=itct%3DCAsQvU4YCiITCNj0p7zEsNkCFaoSfgodKMQIDij4HTIJZW5kc2NyZWVuSN6KufyAj7ax2gE%253D\u0026iurlmq=https%3A%2F%2Fi.ytimg.com%2Fvi%2FrsalJqLzdPI%2Fhqdefault.jpg%3Fsqp%3D-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE%3D%26rs%3DAOn4CLCUDNc0ZYFArlMiEV12GhTQdv-39Q\u0026length_seconds=258\u0026title=Blank+Space+-+Taylor+Swift+-+Violin%2C+Guitar%2C+Piano+Cover+-+Daniel+Jang\u0026iurlhq=https%3A%2F%2Fi.ytimg.com%2Fvi%2FrsalJqLzdPI%2Fhqdefault.jpg%3Fsqp%3D-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE%3D%26rs%3DAOn4CLCUDNc0ZYFArlMiEV12GhTQdv-39Q\u0026id=rsalJqLzdPI\u0026author=Daniel+Jang\u0026short_view_count_text=1.3M+views,session_data=itct%3DCAoQvU4YCyITCNj0p7zEsNkCFaoSfgodKMQIDij4HTIJZW5kc2NyZWVuSN6KufyAj7ax2gE%253D\u0026iurlmq=https%3A%2F%2Fi.ytimg.com%2Fvi%2FIdneKLhsWOQ%2Fhqdefault.jpg%3Fsqp%3D-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE%3D%26rs%3DAOn4CLD3Umg0zd1oCBSxdzS74E0CxYYZ9Q\u0026length_seconds=235\u0026title=Taylor+Swift+-+Wildest+Dreams\u0026iurlhq=https%3A%2F%2Fi.ytimg.com%2Fvi%2FIdneKLhsWOQ%2Fhqdefault.jpg%3Fsqp%3D-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE%3D%26rs%3DAOn4CLD3Umg0zd1oCBSxdzS74E0CxYYZ9Q\u0026id=IdneKLhsWOQ\u0026author=TaylorSwiftVEVO\u0026short_view_count_text=599M+views"},
+
+
+          'BG_P': "iKWxgCVJ+NdndRB1cgUsDmHade9bntJrsrsoWShF9AEhnuvddgP60XvV0uB+qdy9IdNcRqsJAOzs1pOE3UMoCJZC2mxV4gJDQCUF1wweNSG9R2a6BWeB4JbZ+QW5S9IEt11Ve0b28euB00uZ7c3DvKOQ7SY1YnwpmmTysTvlAQWBRPxzrdRZNIvtaDaj0Ja7K0rdK\/ZR8TsgtxMUa9KN2yuODhYN0AWpZ+larIOBHh4N01miAJp0XCnd\/SO4tiMPo7eRXgQtKEEaZnI4snj+MJdDDyuhedRwbvcKvtQnJ8xNJWl5Kl+dMZcAyX\/xe0gUo8KYnZ3nr+vo1pcU7GMouJksqky+uxtI+YpCZj5VhmkbCqUwY4qih5McxWlsED10ow7VAHnki1348WOyaQzIQMUnkSoOHStIQqAfOJdn4YgEaWRDbcVrga1SuMw3+zEL+CcN+I4cjXKbajnMuwWZeJ3it7B+Lenv30A0A87adrgshxSyk+4Sxs9CSaOxTXQ2JiYU4mYXxodagiMrT\/V4GE\/YQzyyutNfowte2u7Rt9ldN9gqpjreI3vHsEVwnFKlUMgnpjBlmPzc6GhycywP0Xp\/Gh8mOCZkOWDJLsm9OhhGj\/oAHEAxgjMWMJ66ZJrwRnfx12+lYPvyvMelDkaarnxcYXPh53w\/\/ZrG3McKWUxlIw6hSs2A6ic6OO+Xgq2Kser81QMpfwfpJSwHScA3nDUrIOfHLjAcyHqhdlEut9zRKUgH86qfkITyVR7oNaOOEyTUnQAMmqOLN2CS4\/CJsncyhZjYOWmpZMxBXqRxGJYSOIhVLKQKPBcrU2KfSyfPAa3C6vVyh2kYGbr144x2p0gHhsizqz0otA41JXBvU+mpdBTPUy82LzRI\/j6\/ZLJqXSNDS3\/l8wUyDru6Dl5eS35Zh9Z708L7IiJscEf8h1YH\/JnHsmdtndRg6tIZNUmsZXe8K2\/LVAcq2\/t1ACxqdGKslUiD+uWiUiLnW+dRY+XHnow52I6710RLtNogbHuq5ir6OZTysxEPKXmBxejgdpoDFq2HG84GaT1mlni+ImBYrYsjfed+3lPUSMA3boRLrmRUyQ7gNdggWz15vWC+wP7p9aYUsmQRSc5YM3lN4l5qY9xJi\/JocPL3D\/DfZDbPmvZ7o1OVGX2qX4x9zrhpuSKpXAF41t9Gr\/ka0qgRb1MHpP2YtczL7rCiKcx18+yr5MP6yFI6P+h+ZOOep6Tts1FZ9eixKE6v4c\/zOHZKpJKNhlD8o+Vhu2NLfizLZeniWFDjWjHMnvvQJ25eAL1RYgygrkwJNRglJptlyoqk4fhYFHVrbgFcw8xF6aXzK+z+0KXOCT4BA+G5Bd+T8igfbhub+IAYy6IDEAla6dFqdOXi\/mJaPxqp71FPwEAsOKySAEfNJDDQaOcLFMOHQfndjo7SICTF1t9J1MFWvHpiDZ6nLShVVaphz8l8vI0jlsE0u1fTTllhy1fCNZKPyMCLKBu+UXBsElwUJ4TCZt0IfkSdFd3fAz62sAgUZ1ZuFzehceFUSRN3GwqxYNFUIUUBAQLNz8J5nF3hiwQ1FvSoWWO6h48TBUQYeZf50tpMmhgqjOWxpt9oNlTyVIhcXgTPxAY60yRJMPT4sDVY4kafAqATtYYexcN4MJpqGizu8hi4vBmgtY2juC0yGnR44UNUrwX\/iTZ0FKgv4t5QncShrHJ7P2TBvk8elJQ4f0xMkbTMHzxh2T1tLgv1R2QwdZptrY73y3g1q8jo4zm2KT2kbgTsQxNXdtgoRMrZ2dyb2bjhUkUDxvTsxMLQ8xtRoVejAwT3qMY6UlE9UfyVm9bRtD36M4RT4BelA0BXmpVKqz9peOw\/DeoBUoTRuuLZwdnIKUqQHVxc3i5xlTtXD9Sx1bMWHGLMp\/+FFsx5T2HlRGHZzKKADX4oZ9kC\/V5P3AGtsyjcRrZQqfkEZDPmgRXE3qzwwTXSgkkwLbOPM\/5a0v5fnSEOhNj5n0wykmCsFlAuaRkyCnlPVj9bQTN0Oqh85DPefjetqaUXCEmvJJOd48B2jmgAd9a1UWCCDxE7DsH2U\/XcQ0a+hofZ4TFIhGqvtvSUwvTTZcvxci4nQLoksWoPfD73Ev\/pXqMuQVgT9TeCZuX9s0Mk+ZKpKgAwSnH0JYt7XDz96Q1MyxsdZFKTeJspoadddQNtMOA5I7mL1TucERiByl5P+4ziPdxJF3ZHSeRmLNOKYvYM3qM3E07o4Br7kk4OUz05o3n2J\/E82\/Dif57dVFaJD19PmerNkJmDaWgxwTqXblMw1qRKdJYPjqcI0rHY7cxpZWA1sia65MzqcVlEvQkJ9584VxaBfaKcvcUzKweuH\/NBxlZhvXPLLTJ6BOOknX7\/bo\/FhpZoNS7SB32Ap4tlKprvuA+BIWX5AkrwpwTRevjKO\/l3TWCuw37svqNS9pX8VrlDiu8U2KK2BVJcdh74rwDLHLidykaEIEPX2J9qqddA5FouaBJac6GQ+AcERo9C+BDPmu2i6CIn0do8pmy4p84h9BOOMTN2n5hAlVpWDRdhTPY9WElzAprY3mdKato9HvSaCy0uaXyPw239t9gpVDuMw4MbweQTpZtxYnj9BOpuFdHwqi3f5k1h9+8dBDWZiQHKKxhgqVE79Cy2tZvWPz7wRMtEzTGoYRQZPVcs2gWRilhXodtsE\/DTiT1Fwz0fFL7HUzkjROW3aaMDq7Rq\/Uh1\/y0Y8MOh+gjiZ\/qZaOWUdzIJ5LvOXlUrE3XkIqlWFWKqjPo7\/fZ0mAqFqpkxYfXvFYseT4xt5EooFTsaGs2bOEe5YMrwaoQIpNgzcbFICFHYMQ9U68zpbbC3qh3NrYuMUq1AiuUykUR4WqdIpRGRE39NZIq\/ZI\/TmcaEQKKJfwtdc7+NhYFDYuQNd2jjw6FtoIX5mk5FQQa5IPhT1VABoKM3yhXbGYYGCpTvhGr3L3MuxCstX1OASkOOksZ0OZCtHlhwMJt6lcvM9o69c8mAEti9Ppss\/AOY\/6fW9c9QGCGD\/o9wCpvK8j9GQAPsZIR9tZgvpRnSjSRrZOmcHXbvyq0x7GlziTSzWH17dkY4oTDoVNR75PDHMvxLDS0BmY29NOw4+xDhG18pMuDqWxsSu2lBAzlwOKy+yB+3dzwtAD4n3XQA\/E5KKJJz3Sbn+PWG+2QbyDB9o0Tw7bB6xxLZ8OYjVyGjfT+1NOgBB+6cZzy0WffYqSY4xN9OnxVRjk7piVZska5cpnrrpDpM1tcjT18P834MPzo2hnQlS9SOl3M3a\/0u386IhDdCdogtgEueMmeAAgpq7xIoJKGWnkJYhvDV\/67aZh1Ym7Bxj7lzyVH8aBaXKKJOCWzcaRUabLznILSpKt+prgMCMT1YDDCdv4W5l1TOAtJmnbR0w9KCGxchsHVu+mecGEdY4Isr0QCi2zAtg7VYM4EmF\/+ObaN2lD0hJwf75pPBVeZ85GtzIbEkE\/QO+elWubzFMnYdX54qnqp7VnazEHknx9ezYG9Y4J64uwJf1zKt3KHAshO2WxifCB6qUawmJSkxzd88H+V5gtR9dgqQrtgj0K\/LEpmCJMNWk7776dNGIMcHJun8BJwn0rGpC5WZuxoL+2Eo8rjnYc4p0Kxh3\/MkrbKu0UO5jzjsR6GHa7c\/BLQhceFUaP\/+2WKlyKxaOX3mIRnzY\/lbYrVZegDe9xlg0BmXyc4U\/E4mQXv\/s0toND57P4Na9TIPr+yltcegeYBtNabSi7PaOwbb1gJ23CR\/QN1lpxh0rZcCR5MaEdSR7AizBSNlryLshIaZUZATtDShQCycY9kyHTR5vygoBJZ3m+BATH7ppoc09XEjh3tsKQn5FKUmO0F70KhdKyLk\/0mJOHGamOvHH7sIvBneeI69MhlaTz6WrNjrIIiUpzIY8bQwiHbnAmLKUQqpPX4N9nBYMUzS9unTE3pXwltpPOb1A99NHNiGHUSn5g4i6XJ+K3vwdU\/+SlwTxHij3b0ic5nTSA+B9avWcttqhYHEI86p63DoKBXgFHWgyefCWuL6gp2klfttg\/xXLYTORlgFmQ3LasRdW+YYcM0bp96brZ2ZSkSuszUsGcUvMtbx+gPE7P\/\/rEOcbtZxFU\/G27+nsvKZz1sOFQDX4fsB8axBDg4gKHzNl62uzCUaJfAmP8ATTZkH+rImlXBDTiSP2tHtgqxhHb7E18lBEj4frmVf7E+tFDXrmPndprMsD+zxi911GKetIS1DV81qFLJmscH6ElwbFTizKvZyQkJnDaZNJGbFyaFxN7eEQdydmgU8DdP3+MDFbsKsje3UUySP07u3loKCDhA04rVvlDTnNb5NxvfUqjFH8xSRn01aoVa+tYjlm5oNAEbw39iErJdMhOnfchEnyk54Kam1cRKkjOI6wGn8KXDflBVbjnMvQ6kpenv6J1kYoDXGgwwri0Z4q91E30AMl7dvC3aXZ\/Mvztn0TZ5fE90SSMC3wmfLXcKNr+KT21b6vrDLqrX5VNPRZT31f28HQa2beymycT4deKtDhAUBB5b29WQwLvfC3WM\/VfMLBZkwdoIzE5sPMxG9xLVuxUWAGCcWR0o6\/Td5sSKj0LFADS\/78gbbRYGYeaVbwInxRalDkfffk8QfYFKoTcQJB7BOfGKPfm3xm\/wX5SyCnSwL0j0VyBfnMt\/Hx3bNHJtnaXZ9i0lVmerEBf6cmiMyIS0kni6+LQRbMQ0e8EruRzXYJe5BpTqauAxHyLiOf0osilv4qcOe24CcjeV2nW7dHE4sJGbGAnKL0U5E0rbybgBZ1kxfo0KTWa\/DHcSVy9PTw13AP9muCtovWUJO+srYUWmZUwHeUyErW83QqiaT\/ztGWHz+xQ4Z6B5sGxkwiFvYsRiE3V1i7jEBJTIwKN8Tsiz4ON4dXIh9kEabEFLevpDxOcdffjWT4LYvjmU3LXCe8XI+YYzvpWO0CH+vcJC1glId+5Bvd\/tg4QjYxvzHQpsw\/jbDh99I4OH1oyRts0oo4J1Gpt0Bw0Xafq9ceW6bPWP\/ydooxkiVOOyhwMwaOKSVbiHSs4lHOiYDKJDbmNfVuu7wsIj3WKMOk59VS4Lr6BrN+x167FQQy56LOUIJD5LCYFmhnfnzwzNcovOhAPyvhdcGOkUspRaNmY2HRzin8Cxkr0+5OpHiv1BtSohU98fFqI6onV3umEBKSc0SXFt6BTyBJURRyRYqyOV4D6ipyGGy7w7YkRBL70olipkwYstvEzzEZGYSMxCBAP0e4Yz7CYCl2FEXhH0O8AyGF4ElxX3se4Ol4m+a7zbu629KhuEF51nvS2oqDbUoEC+lei7ds\/DDZLxH0\/Q094a0bnf7cvfO6Q6XqD5i+XnuqvyPjJwT2gwmgUVMIV8GB231Xa1GQ2bazeXRfo3LazYUC+O5I3VSa7SghHk+dy9b62\/zIS8vuHKXgSJyU6w6jn5ShfdDMe3TStxOkWdhrsHkhuGFzekFzVoQZY+VNZ3t7klQo7WbwhGV2cGFuRbwCDFNm3pSpvXQXU5GrLn+B\/Bez26Xo+7RAAq1dUmBwaz1A+llxJtor1JenAWfFMLxKwB7Y0efwpb5rc3pjM7Ep+57VDee02X9XzDhZst3ul8ouVaihb8Ip\/\/OjBpFQjSxZ59jNDr3yCx8cSNrz2ivHr5AxV+\/y73pzhDYeDi0oLDCC9gud\/RgUHbJ9xCO+tTU9frDGMMftWs7Jke8KD0vCQVufnJ+ZTMYZEqJLcnzaAoHtOICvbqRZ7cI5a02FhEX6TxRQhNrypA7wrei6e2WdilnBoH9sfFBSHuNoNZnGbntwHBFTvkq6YlQFWoEEGiT6417aNrF7WFq\/wpVipXw7a5xpRlQQlKD5Rw+MhcpTHoR4bY+Kd0brs5roH2+mq5QTrMgmEBksWr9lYDsgksEsx820RG3EkvSFgqrcwD+K2I7SKu5MfgtLysaAr\/XOWMOVzyKSElowcyRlYqUdh4DL20rxNkduEivHDAlmv4c3LUtuVNG0yAHoTeFH5tFi0dEnhOKT8O09MOTWuo\/9PUnJOX1CqrFppV9mYUX4DEIbuLcvmuOy8bIZlcC7bt8t+HMZQLEEx79bV3uvU4jkIkGRZXgVAH0M1pziZrK7izt7xGQ5ddihzlfAibDOSXzw76J+l+oXn2ZEj6UzlQTFHbzldij4Ay5aUNFxSbIpXMvfqZQigSPZKj2MbSP9M11ZxSJeQfES1SkPTIClxQ9EOKE0ejI6IhPoLm5S68f3XQBo8AEPm6V+CfS9KbeRRcouHc0\/DxyAyeJO47Lv1FHwsVnJhOYaOvIh\/x2CBthhCJvqne376eWaTF4R+ET1+sm4iRpb78IqFkNcIvFIQc2j8J8Xb89ECT\/iQ+fnZWtgqRXIBaCg1\/3Xot6p8e9tpRf70m32KpVluFQpTjSPHXj1J7KtOeN7I40Xb7TOdVOvuGbG+hVDqozhBC3+\/gTGk5VpArxziUaEq+VwzbDF\/9apVDj4b2ag\/lA+gOh5XrS9VLZUArBbf\/ev8briazGNnDO6k1H5cNWUGBjOUYT1SXOdHjLz9uCBtdD9r4BVah6Uru\/D0yHsva+A9pprr5mL0RWfoBCKnje94ATB5sR+IwMRMuvI79udRl2CuSIxV5m1QX\/TSw5RgYHaB4LH9cXC9q58YB\/SvAWAIN4\/lUE8dE+MSfg5h3B29kGwGT\/rGkOP9MoWwU+B2WdRW\/tOSSUyBmP9r7PX4=",
+          'BG_IU': "\/\/www.google.com\/js\/bg\/5is0W1fKVfqMZJCkYC_pzCXA2Arw2p4B6yaPnf3q05g.js",
+
+
+
+        'COMMENTS_TOKEN': "EiYSCzJtTFllQS1PUlY0wAEAyAEA4AEBogINKP___________wFAABgG",
+
+      'GET_PLAYER_EVENT_ID': "HQGKWpjyNKql-AOoiKNw",
+      'HL_LOCALE': "en_US",
+      'TTS_URL': "",
+      'JS_DELAY_LOAD': 0,
+      'LIST_AUTO_PLAY_VALUE': 1,
+      'SHUFFLE_VALUE': 0,
+      'SKIP_RELATED_ADS': false,
+      'SKIP_TO_NEXT_VIDEO': false,
+      'CONVERSION_CONFIG_DICT': {"uid":"S3dfr0uOIC6OP-rSECVPMA","baseUrl":"https:\/\/www.youtube.com\/pagead\/viewthroughconversion\/962985656\/","rmktEnabled":true,"focEnabled":true,"vid":"2mLYeA-ORV4"},
+      'RESOLUTION_TRACKING_ENABLED': false,
+      'WATCH_LEGAL_TEXT_ENABLE_AUTOSCROLL': false,
+      'ADS_DATA': {"show_pyv":true,"afv_vars":{"google_cust_age":"","google_ad_format":"300x250_as","google_eids":["185863824"],"google_core_dbp":"ChZaYzZqNUlpOWtkdXdicldZNWdfSHFBEAEgASgA","google_targeting":"","google_ad_host":"ca-host-pub-9066416090007958","google_tag_for_child_directed_treatment":"","google_lact":"-1","google_yt_pt":"APb3F2-TgSwLZRPHw8qrSxnUgN9XPQC3jzCXiwL8x-3_ZvPmqh8nqW5ZAhTCdIUSqIB1kQD3iZazbo3gRXxEv6mA6gLm6A3gRfSDT3hciKBtQV3sPxbU6f5FTFZhuXxBh2nKBYkVJMtC7VwTO0OT","google_video_doc_id":"yt_2mLYeA-ORV4","google_ad_channel":"0854550288+Vertical_1021+Vertical_1408+Vertical_211+Vertical_3+Vertical_35+Vertical_36+Vertical_613+afv_ugc+afv_user_berkleecollege+afv_user_id_S3dfr0uOIC6OP-rSECVPMA+yt_cid_889938+yt_gp+yt_mpvid_h_MjqqKF04-ds5os+yt_no_360+yt_no_ap+yt_no_cp+yt_no_wa+ytdevice_1+ytdevicever_1.20180215+ytel_detailpage+ytps_default","google_ad_type":"image","google_alternate_ad_url":"https:\/\/www.youtube.com\/ad_frame?id=watch-channel-brand-div","google_loeid":"9422596,9453077,9454618,9471235,9472873,9475649,9487173,9488991,23704844,23705215,23705778,23708490,23713214,23719224,23719587,23720477,23721367,23721592,23721750,23721998,23722411,23722786,23723124,23724898,23725543,23725949,23726989,23727132","google_pucrd":"CgYIABAAGAB4Ag","google_language":"en","google_page_url":"http:\/\/www.youtube.com\/video\/2mLYeA-ORV4","google_ad_height":"250","google_ad_client":"ca-pub-6219811747049371","google_ad_host_tier_id":"6603603","google_cust_gender":"","google_ad_block":"2","google_scs":""},"show_afc":false,"check_status":false,"afc_vars":{"targeting":"","tag_for_child_directed_treatment":"","ad_block":"2","loeid":"9422596,9453077,9454618,9471235,9472873,9475649,9487173,9488991,23704844,23705215,23705778,23708490,23713214,23719224,23719587,23720477,23721367,23721592,23721750,23721998,23722411,23722786,23723124,23724898,23725543,23725949,23726989,23727132","lact":"-1","ad_host_tier_id":"6603603","format":"300x250_as","core_dbp":"ChZaYzZqNUlpOWtkdXdicldZNWdfSHFBEAEgASgA","alternate_ad_url":"https:\/\/www.youtube.com\/ad_frame?id=watch-channel-brand-div","ad_host":"ca-host-pub-9066416090007958","language":"en","ad_channel":"0854550287+Vertical_1021+Vertical_1408+Vertical_211+Vertical_3+Vertical_35+Vertical_36+Vertical_613+afc_on_page+afv_ugc+afv_user_berkleecollege+afv_user_id_S3dfr0uOIC6OP-rSECVPMA+yt_cid_889938+yt_gp+yt_mpvid_h_MjqqKF04-ds5os+yt_no_360+yt_no_ap+yt_no_cp+yt_no_wa+ytdevice_1+ytdevicever_1.20180215+ytel_detailpage+ytps_default","pucrd":"CgYIABAAGAB4Ag","ad_client":"ca-pub-6219811747049371","eids":["185863824"],"ad_type":"image","video_doc_id":"yt_2mLYeA-ORV4"},"show_afv":true,"pyv_ad_tag":{"tag":"https:\/\/googleads.g.doubleclick.net\/pagead\/lopri?ad_block=3\u0026ad_type=text\u0026adk=511001906\u0026channel=PyvWatchInRelated%2BPyvWatchNoAdX%2BPyvYTWatch%2BYtLoPri%2Bafv_user_berkleecollege%2Bafv_user_id_S3dfr0uOIC6OP-rSECVPMA%2Bnon_lpw%2Bpw%2Byt_cid_889938%2Byt_mpvid_h_MjqqKF04-ds5os%2Byt_no_ap%2Bytdevice_1%2Bytdevicever_1.20180215\u0026client=ca-pub-6219811747049371\u0026correlator=1518993693978\u0026dbp=ChZaYzZqNUlpOWtkdXdicldZNWdfSHFBEAEgASgA\u0026ea=0\u0026eae=2\u0026eid=185863824\u0026hl=en\u0026host=ca-host-pub-9066416090007958\u0026ht_id=6603603\u0026isw=0\u0026ish=0\u0026lact=-1\u0026loc=EMPTY\u0026loeid=9422596,9453077,9454618,9471235,9472873,9475649,9487173,9488991,23704844,23705215,23705778,23708490,23713214,23719224,23719587,23720477,23721367,23721592,23721750,23721998,23722411,23722786,23723124,23724898,23725543,23725949,23726989,23727132\u0026num_ads=1\u0026output=js\u0026pucrd=CgYIABAAGAB4Ag\u0026pyv=1\u0026top=https%3A\/\/www.youtube.com\/watch%3Fv%3D2mLYeA-ORV4%26app%3Ddesktop\u0026url=http%3A%2F%2Fwww.youtube.com%2Fvideo%2F2mLYeA-ORV4\u0026video_doc_id=yt_2mLYeA-ORV4\u0026ytdevicever=ytdevicever_1.20180215\u0026yt_pt=APb3F2_LYaETKs9RSCc8I40xTt22ndBXo2YmpfPK8evcPxMctZqGAx7ie7Mc_sUPbCQbE8FLUDU9K61Yt7CtsF_Zsb0hxUIZfPurwTgbZmo7SNnXj1_9iSjwNu5zf_a10NUZ2w73oMG_-UdcoId7"},"use_gut":true,"show_instream":true,"gut_vars":{"tag":"\/4061\/ytpwatch"}},
+      'PLAYBACK_ID': "AAVlhEeMCGFKqdtk",
+      'IS_DISTILLER': true,
+      'SHARE_CAPTION': null,
+      'SHARE_REFERER': "",
+      'PLAYLIST_INDEX': null
+    });
+
+      yt.pushConfigArray('TIMING_WAIT', 'parn');
+
+    yt.setMsg({
+      'EDITOR_AJAX_REQUEST_FAILED': "Something went wrong trying to get data from the server. Try again, or reload the page.",
+      'EDITOR_AJAX_REQUEST_503': "This functionality is not available right now. Please try again later.",
+      'LOADING': "Loading..."    });
+
+      yt.setMsg('SPEEDYG_INFO', "Experiencing interruptions?");
+
+    
+
+
+
+
+
+
+
+    
+
+      yt.setConfig({
+    'GUIDED_HELP_LOCALE': "en_US",
+    'GUIDED_HELP_ENVIRONMENT': "prod"
+  });
+
+  
+yt.setConfig({APIARY_HOST_FIRSTPARTY: "",GAPI_HINT_PARAMS: "m;\/_\/scs\/abc-static\/_\/js\/k=gapi.gapi.en.HtLvrA_npCQ.O\/m=__features__\/am=AAE\/rt=j\/d=1\/rs=AHpOoo8wHQU_A1WtgGgcOpQEfGjHuD8e-g",INNERTUBE_CONTEXT_CLIENT_NAME: 1,INNERTUBE_API_VERSION: "v1",XHR_APIARY_HOST: "youtubei.youtube.com",INNERTUBE_CONTEXT_CLIENT_VERSION: "1.20180215",INNERTUBE_API_KEY: "AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8",APIARY_HOST: "",'VISITOR_DATA': "CgtBZlJPcVN6b1daUQ%3D%3D",'DELEGATED_SESSION_ID': null,'GAPI_HOST': "https:\/\/apis.google.com",'GAPI_LOCALE': "en_US",'INNERTUBE_CONTEXT_HL': "en",'INNERTUBE_CONTEXT_GL': "US",'XHR_APIARY_HOST': "youtubei.youtube.com"});yt.setConfig({'ROOT_VE_CHILDREN': ["CAEQ7VAiEwjY9Ke8xLDZAhWqEn4KHSjECA4o-B0","CAIQpmEiEwjY9Ke8xLDZAhWqEn4KHSjECA4o-B0"],});yt.setConfig({'PAGE_NAME': "watch",'LOGGED_IN': false,'SESSION_INDEX': null,'VALID_SESSION_TEMPDATA_DOMAINS': ["www.youtube.com","gaming.youtube.com"],'PARENT_TRACKING_PARAMS': "Mgh5b3V0dS5iZQ==",'FORMATS_FILE_SIZE_JS': ["%s B","%s KB","%s MB","%s GB","%s TB"],'ONE_PICK_URL': "",'GOOGLEPLUS_HOST': "https:\/\/plus.google.com",'PAGEFRAME_JS': "\/yts\/jsbin\/www-pageframe-vflgFT1l-\/www-pageframe.js",'GAPI_LOADER_URL': "\/yts\/jsbin\/www-gapi-loader-vflCFkGpB\/www-gapi-loader.js",'JS_COMMON_MODULE': "\/yts\/jsbin\/www-en_US-vfl8LJMmq\/common.js",'PAGE_FRAME_DELAYLOADED_CSS': "\/yts\/cssbin\/www-pageframedelayloaded-vflNXOrSa.css",'EXPERIMENT_FLAGS': {"block_spf_search_ads_impressions":true,"cancel_pending_navs":true,"botguard_periodic_refresh":true,"enable_firefox_push_notifications":true,"use_watch_fragments2":true,"live_chat_busyness_sampling_center":14.0,"live_chat_top_chat_split":0.5,"desktop_pyv_on_watch_via_valor":true,"service_worker_scope":"\/","autoplay_pause_by_lact_sampling_fraction":0.0,"very_optimistically_create_gel_client":true,"same_domain_static_resources_desktop":true,"desktop_polymer_video_masthead_session_tempdata_ttl":30,"service_worker_enabled":true,"log_web_meta_interval_ms":0,"app_settings_snapshot_min_time_between_snapshots_hours":24,"html5_serverside_pagead_id_sets_cookie":true,"live_chat_top_chat_entry_threshold":0.0,"desktop_polymer_video_masthead_always_use_responsive_iframe":true,"enable_more_related_ve_logging":true,"clear_web_implicit_clicktracking":true,"service_worker_push_watch_page_prompt":true,"enable_watch_next_pause_autoplay_lact":true,"service_worker_push_logged_out_prompt_watches":-1,"live_chat_top_chat_window_length_sec":5,"custom_emoji_main_app":true,"live_chat_viewer_blocks_enable_cache_filling":true,"live_chat_replay_milliqps_threshold":5000,"enable_youtubei_innertube":true,"enable_gaming_new_logo":true,"youtubei_for_web":true,"player_unified_fullscreen_transitions":true,"consent_url_override":"","log_window_onerror_fraction":0.1,"live_chat_busyness_sampling_floor":2.0,"custom_emoji_legacy":true,"live_chat_busyness_sampling_steepness":1.0,"enable_desktop_polymer_video_masthead":true,"enable_logging_directives_desktop":true,"autoplay_pause_by_lact_sec":0,"warm_load_nav_start_web":true,"autoescape_tempdata_url":true,"comment_deep_link":true,"debug_forced_promo_id":"","web_always_load_chat_support":true,"custom_emoji_creator":true,"live_chat_inline_moderation":true,"cold_load_nav_start_web":true,"live_chat_use_new_default_filter_mode":true,"live_chat_message_sampling_method":"","service_worker_push_enabled":true,"log_vis_on_tab_change":true,"service_worker_push_prompt_delay_ms":3888000000,"chat_smoothing_animations":84,"service_worker_push_force_notification_prompt_tag":"1","web_system_health_fraction":0.01,"enable_playlist_visibility":true,"desktop_polymer":true,"enable_afv_div_reset_in_kevlar":true,"player_swfcfg_cleanup":true,"service_worker_push_prompt_cap":-1,"gfeedback_for_signed_out_users_enabled":true,"live_chat_busyness_sampling_ceil":4.0,"web_logging_max_batch":100,"service_worker_push_home_page_prompt":true,"service_worker_push_home_only":true,"enable_server_side_search_pyv":true,"custom_emoji_super_chat":true,"web_gel_lact":true,"desktop_pyv_on_watch_missing_params":true,"custom_emoji_desktop":true,"interaction_click_on_gel_web":true,"lact_local_listeners":true,"sponsors_whitelist_creator":true,"watch_next_pause_autoplay_lact_sec":4500,"live_chat_unhide_on_channel":true,"remove_web_visibility_batching":true,"optimistically_create_transport_client":true,"autoplay_pause_sampling_fraction":0.0,"log_web_screen_end":true,"live_chat_message_sampling_rate":1.0,"desktop_pyv_on_watch_override_lact":true,"desktop_notification_high_priority_ignore_push":true,"desktop_notification_set_title_bar":true,"app_settings_snapshot_is_logging_enabled":true,"live_chat_busyness_enabled":true,"use_push_for_desktop_live_chat":true,"interaction_logging_on_gel_web":true,"player_external_control_on_classic_desktop":true,"live_chat_flagging_reasons":true},'GUIDE_DELAY_LOAD': true,'GUIDE_DELAYLOADED_CSS': "\/yts\/cssbin\/www-guide-vflY8baDX.css",'GUIDED_HELP_PARAMS': {"logged_in":"0"},'HIGH_CONTRAST_MODE_CSS': "\/yts\/cssbin\/www-highcontrastmode-vflzAuo2A.css",'PREFETCH_LINKS': false,'PREFETCH_LINKS_MAX': 1,'PREFETCH_AUTOPLAY': false,'PREFETCH_AUTOPLAY_TIME': 0,'PREFETCH_AUTONAV': false,'PREBUFFER_MAX': 1,'PREBUFFER_LINKS': false,'PREBUFFER_AUTOPLAY': false,'PREBUFFER_AUTONAV': false,'WATCH_LATER_BUTTON': "\n\n  \u003cbutton class=\"yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip\" type=\"button\" onclick=\";return false;\" title=\"Watch later\" role=\"button\" data-button-menu-id=\"shared-addto-watch-later-login\" data-video-ids=\"__VIDEO_ID__\"\u003e\u003cspan class=\"yt-uix-button-arrow yt-sprite\"\u003e\u003c\/span\u003e\u003c\/button\u003e\n",'WATCH_QUEUE_BUTTON': "  \u003cbutton class=\"yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip\" type=\"button\" onclick=\";return false;\" title=\"Queue\" data-style=\"tv-queue\" data-video-ids=\"__VIDEO_ID__\"\u003e\u003c\/button\u003e\n",'WATCH_QUEUE_MENU': "  \u003cspan class=\"thumb-menu dark-overflow-action-menu video-actions\"\u003e\n    \u003cbutton aria-haspopup=\"true\" aria-expanded=\"false\" onclick=\";return false;\" class=\"yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty\" type=\"button\" \u003e\u003cspan class=\"yt-uix-button-arrow yt-sprite\"\u003e\u003c\/span\u003e\u003cul class=\"watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu hid\"\u003e\u003cli role=\"menuitem\" class=\"overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-next yt-uix-button-menu-item\" data-action=\"play-next\" onclick=\";return false;\"  data-video-ids=\"__VIDEO_ID__\"\u003e\u003cspan class=\"addto-watch-queue-menu-text\"\u003ePlay next\u003c\/span\u003e\u003c\/li\u003e\u003cli role=\"menuitem\" class=\"overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item\" data-action=\"play-now\" onclick=\";return false;\"  data-video-ids=\"__VIDEO_ID__\"\u003e\u003cspan class=\"addto-watch-queue-menu-text\"\u003ePlay now\u003c\/span\u003e\u003c\/li\u003e\u003c\/ul\u003e\u003c\/button\u003e\n  \u003c\/span\u003e\n",'SAFETY_MODE_PENDING': false,'ZWIEBACK_PING_URLS': ["https:\/\/www.google.com\/pagead\/lvz?req_ts=1518993693\u0026pg=watch\u0026evtid=AKYRQ42GbXUFMk7xWyj8jNXhkQyiy9gCwhPcosftbkA0DNF38NPL3Qftx-Fx3CpNpB96NAyn-a-AIADovRVyD7oLrIjWlu1Efw\u0026sigh=AEslLPpZ0anh6bH_h_PRbXbJuSfWSs1knA"],'LOCAL_DATE_TIME_CONFIG': {"formatLongDateOnly":"MMMM d, y","formatShortTime":"h:mm a","dateFormats":["MMMM d, y 'at' h:mm a","MMMM d, y","MMM d, y","MMM d, y"],"weekendRange":[6,5],"formatWeekdayShortTime":"EE h:mm a","formatShortDate":"MMM d, y","formatLongDate":"MMMM d, y 'at' h:mm a","months":["January","February","March","April","May","June","July","August","September","October","November","December"],"shortMonths":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"shortWeekdays":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"firstDayOfWeek":0,"firstWeekCutoffDay":3,"amPms":["AM","PM"],"weekdays":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"]},'PAGE_CL': 186034537,'PAGE_BUILD_LABEL': "youtube.ytfe.desktop_20180215_0_RC2",'VARIANTS_CHECKSUM': "586246a0f48c5765e0ef890221251481",'CLIENT_PROTOCOL': "HTTP\/1.1",'CLIENT_TRANSPORT': "tcp",'MDX_ENABLE_CASTV2': true,'MDX_ENABLE_QUEUE': true,'FEEDBACK_BUCKET_ID': "Watch",'FEEDBACK_LOCALE_LANGUAGE': "en",'FEEDBACK_LOCALE_EXTRAS': {"experiments":"23700266,23700732,23701247,23701297,23701882,23701940,23702459,23703975,23704466,23704844,23705057,23705215,23705778,23705866,23706844,23706846,23707086,23708159,23708490,23708904,23708906,23708910,23709090,23709443,23709532,23709788,23709896,23709898,23709902,23709985,23710313,23710476,23710489,23710536,23710560,23710863,23711680,23711855,23711857,23711859,23711918,23712229,23712746,23713214,23713594,23713711,23714218,23714865,23715837,23715854,23715960,23716096,23716822,23716914,23717015,23717173,23717283,23717372,23717456,23717597,23717705,23717897,23718048,23718080,23718245,23718512,23718617,23719037,23719224,23719351,23719518,23719525,23719587,23719804,23720120,23720210,23720477,23720552,23720566,23720787,23720829,23720956,23721182,23721223,23721367,23721592,23721743,23721750,23721771,23721828,23721898,23721928,23721998,23722151,23722284,23722411,23722751,23722786,23722841,23722860,23722883,23723124,23723438,23723489,23723555,23723618,23724050,23724267,23724399,23724511,23724733,23724898,23725145,23725484,23725543,23725576,23725609,23725678,23725793,23725864,23725949,23726019,23726027,23726165,23726170,23726173,23726541,23726778,23726832,23726843,23726882,23726989,23727132,23727167,23727194,9415398,9419979,9420289,9422596,9431754,9445139,9448302,9449243,9451814,9453077,9453167,9453409,9454618,9454619,9456445,9457169,9459792,9459799,9460098,9460554,9460829,9460959,9461881,9463460,9463594,9463936,9463963,9464203,9465513,9466835,9467471,9467508,9467510,9467512,9467700,9467795,9467806,9467820,9467822,9468195,9469934,9471103,9471235,9471536,9471955,9472191,9472873,9473373,9473387,9473392,9474396,9475218,9475354,9475649,9476077,9477419,9478787,9479200,9479456,9479750,9480180,9480371,9481220,9482972,9483190,9483245,9483583,9483857,9485000,9486390,9487037,9487064,9487173,9487330,9488991,9489074,9489266,9489336,9489700,9489831,9489833","accept_language":null,"logged_in":false}});   yt.setConfig({
+    'GUIDED_HELP_LOCALE': "en_US",
+    'GUIDED_HELP_ENVIRONMENT': "prod"
+  });
+yt.setConfig('SPF_SEARCH_BOX', true);yt.setMsg({'ADDTO_CREATE_NEW_PLAYLIST': "Create new playlist\n",'ADDTO_CREATE_PLAYLIST_DYNAMIC_TITLE': "  $dynamic_title_placeholder (create new)\n",'ADDTO_WATCH_LATER': "Watch later",'ADDTO_WATCH_LATER_ADDED': "Added",'ADDTO_WATCH_LATER_ERROR': "Error",'ADDTO_WATCH_QUEUE': "Watch Queue",'ADDTO_WATCH_QUEUE_ADDED': "Added",'ADDTO_WATCH_QUEUE_ERROR': "Error",'ADDTO_TV_QUEUE': "Queue",'ADS_INSTREAM_FIRST_PLAY': "A video ad is playing.",'ADS_INSTREAM_SKIPPABLE': "Video ad can be skipped.",'ADS_OVERLAY_IMPRESSION': "Ad displayed.",'MASTHEAD_NOTIFICATIONS_LABEL': {"other": "# unread notifications.", "case0": "0 unread notifications.", "case1": "1 unread notification."},'MASTHEAD_NOTIFICATIONS_COUNT_99PLUS': "99+",'MDX_AUTOPLAY_OFF': 'Autoplay is off','MDX_AUTOPLAY_ON': 'Autoplay is on'});  yt.setConfig('FEED_PRIVACY_CSS_URL', "\/yts\/cssbin\/www-feedprivacydialog-vflP1Pnju.css");
+  yt.setConfig('FEED_PRIVACY_LIGHTBOX_ENABLED', true);
+yt.setConfig({'SBOX_JS_URL': "\/yts\/jsbin\/www-searchbox-legacy-vfledDyPw\/www-searchbox-legacy.js",'SBOX_SETTINGS': {"REQUEST_LANGUAGE":"en","REQUEST_DOMAIN":"us","PQ":"","SESSION_INDEX":null,"SUGG_EXP_ID":"","HAS_ON_SCREEN_KEYBOARD":false,"PSUGGEST_TOKEN":null,"IS_FUSION":false},'SBOX_LABELS': {"SUGGESTION_DISMISSED_LABEL":"Suggestion removed","SUGGESTION_DISMISS_LABEL":"Remove"}});  yt.setConfig({
+    'YPC_LOADER_JS': "\/yts\/jsbin\/www-ypc-vflbpv88k\/www-ypc.js",
+    'YPC_LOADER_CSS': "\/yts\/cssbin\/www-ypc-vfluXUBpe.css",
+    'YPC_SIGNIN_URL': "https:\/\/accounts.google.com\/ServiceLogin?service=youtube\u0026uilel=3\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26next%3D%252F%26hl%3Den%26app%3Ddesktop\u0026hl=en\u0026passive=true",
+    'DBLCLK_ADVERTISER_ID': "2542116",
+    'DBLCLK_YPC_ACTIVITY_GROUP': "youtu444",
+    'SUBSCRIPTION_URL': "\/subscription_ajax",
+    'YPC_SWITCH_URL': "\/signin?skip_identity_prompt=True\u0026action_handle_signin=true\u0026next=%2F\u0026feature=purchases",
+    'YPC_GB_LANGUAGE': "en_US",
+    'YPC_MB_URL': "https:\/\/payments.youtube.com\/payments\/v4\/js\/integrator.js?ss=md",
+    'YPC_TRANSACTION_URL': "\/transaction_handler",
+    'YPC_SUBSCRIPTION_URL': "\/ypc_subscription_ajax",
+    'YPC_POST_PURCHASE_URL': "\/ypc_post_purchase_ajax",
+    'YTR_FAMILY_CREATION_URL': "https:\/\/families.google.com\/webcreation?usegapi=1",
+    'YTO_GTM_DATA': {'event': 'purchased', 'purchaseStatus': 'success'},
+    'YTO_GTM_1_BUTTON_CLICK_DATA': {'event': 'landingButtonClick', 'buttonPosition': '1'},
+    'YTO_GTM_2_BUTTON_CLICK_DATA': {'event': 'landingButtonClick', 'buttonPosition': '2'}
+  });
+  yt.setMsg({
+    'YPC_OFFER_OVERLAY': "  \n",
+    'YPC_UNSUBSCRIBE_OVERLAY': "  \n"
+  });
+  yt.setConfig('GOOGLE_HELP_CONTEXT', "watch");
+ytcsi.info('st', 341);ytcfg.set({"CSI_SERVICE_NAME":"youtube","TIMING_INFO":{"cver":"1.20180215","yt_ad_an":"afv,dclk","yt_lt":"cold","yt_ad_pr":1,"yt_ad":1,"GetPlayer_rid":"0x5f0b8b629e2826a0","yt_pl":0,"yt_li":"0","c":"WEB","GetWatchNext_rid":"0x5f0b8b629e2826a0"}});;ytcfg.set({"TIMING_ACTION":"watch","CSI_VIEWPORT":true});;  yt.setConfig({
+      'XSRF_TOKEN': "QUFFLUhqbXdGOTJDWWsxSGZiLWxjdXZzcmZkRHJzY1Bld3xBQ3Jtc0tsS3ZmUWVoazhseW9tYW9UN1ZDdGhjamM1ak9zT256OW0yZE80V25IYWRBd2RQQWduQWhEUlFodDRxVzNneVZlZWpxSm01dkNDWWNSTHZ3a3R2M1RlbGJOcWxWMjBCR3J2OTl4OUZYYm9adkNLSWJiUWlwSHptN2pSSDYySXBQWHBMeEl2VkJjSWxoZExRb3lTQWJkR2ZJYmIxdFE=",
+      'XSRF_FIELD_NAME': "session_token",
+
+      'XSRF_REDIRECT_TOKEN': "JkyuAFZ7ThE2u-7cMPBJswNVLAV8MTUxOTA4MDA5NEAxNTE4OTkzNjk0"  });
+yt.setConfig('ID_TOKEN', null);window.ytcfg.set('SERVICE_WORKER_KILLSWITCH', false);  yt.setConfig('THUMB_DELAY_LOAD_BUFFER', 0);
+if (window.ytcsi) {window.ytcsi.tick("jl", null, '');}
