@@ -1,0 +1,981 @@
+https://www.tedmed.com/talks/show?id=7130
+
+
+
+TEDMED - Talk Details - Does positive imagery make you healthy and happy?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    var jsLoggerAction = "/application/logjavascripterrors";
+                    var jsLoggerMaxBuffer = 10;
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var i18nMessages = {"genericComments.comment.report":"Report this post","genericComments.reportWhy.validation.required":"Please fill in the form"};
+
+/**
+ * Fixme : only parse single char formatters eg. %s
+ */
+var i18n = function(code) {
+    var message = i18nMessages && i18nMessages[code] || code;
+    // Encode %% to handle it later
+    message = message.replace(/%%/g, "\0%\0");
+    if (arguments.length > 1) {
+        // Explicit ordered parameters
+        for (var i=1; i<arguments.length; i++) {
+            var r = new RegExp("%" + i + "\\$\\w", "g");
+            message = message.replace(r, arguments[i]);
+        }
+        // Standard ordered parameters
+        for (var i=1; i<arguments.length; i++) {
+            message = message.replace(/%\w/, arguments[i]);
+        }
+    }
+    // Decode encoded %% to single %
+    message = message.replace("\0%\0", "%");
+    // Imbricated messages
+    var imbricated = message.match(/&\{.*?\}/g);
+    if (imbricated) {
+        for (var i=0; i<imbricated.length; i++) {
+            var imbricated_code = imbricated[i].substring(2, imbricated[i].length-1).replace(/^\s*(.*?)\s*$/, "$1");
+            message = message.replace(imbricated[i], i18nMessages[imbricated_code] || "");
+        }
+    }
+    return message;
+};
+
+
+
+
+        
+        var promoSliderChosenVariation = cxApi.chooseVariation();       
+    
+
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-7109281-1']);
+	_gaq.push(['_trackPageview']);
+		_gaq.push(['_setDomainName', 'tedmed.com']);		_gaq.push(['_setAllowLinker', true]);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+
+
+                var pictureThumbnailAction = function(options) {var pattern = '/resources/displaypicturethumbnail?id=:id&isCropped=:isCropped&thumbnailType=:thumbnailType'; for(var key in options) { pattern = pattern.replace(':'+key, options[key] || ''); } return pattern }
+;
+                var pictureAction = function(options) {var pattern = '/resources/displaypicture?id=:id'; for(var key in options) { pattern = pattern.replace(':'+key, options[key] || ''); } return pattern }
+;
+
+                // genericComments variables:
+                var commentsCreateCommentAction = function(options) {var pattern = '/comments/createcomment?proxyId=:proxyId'; for(var key in options) { pattern = pattern.replace(':'+key, options[key] || ''); } return pattern }
+;
+                var commentsReplyCommentAction = function(options) {var pattern = '/comments/replycomment?commentId=:commentId'; for(var key in options) { pattern = pattern.replace(':'+key, options[key] || ''); } return pattern }
+;
+                var commentsLoadMoreAction = function(options) {var pattern = '/comments/loadmore'; for(var key in options) { pattern = pattern.replace(':'+key, options[key] || ''); } return pattern }
+;
+                var commentsLikeCommentAction = function(options) {var pattern = '/comments/likecomment'; for(var key in options) { pattern = pattern.replace(':'+key, options[key] || ''); } return pattern }
+;
+                var commentsRemoveCommentLikeAction = function(options) {var pattern = '/comments/removecommentlike'; for(var key in options) { pattern = pattern.replace(':'+key, options[key] || ''); } return pattern }
+;
+                var commentsLikeCommentReplyAction = function(options) {var pattern = '/comments/likecommentreply'; for(var key in options) { pattern = pattern.replace(':'+key, options[key] || ''); } return pattern }
+;
+                var commentsRemoveCommentReplyLike = function(options) {var pattern = '/comments/removecommentreplylike'; for(var key in options) { pattern = pattern.replace(':'+key, options[key] || ''); } return pattern }
+;
+                var commentsReportCommentAction = function(options) {var pattern = '/comments/reportcomment?commentId=:commentId'; for(var key in options) { pattern = pattern.replace(':'+key, options[key] || ''); } return pattern }
+;
+                var commentsReportCommentReplyAction = function(options) {var pattern = '/comments/reportcommentreply?commentReplyId=:commentReplyId'; for(var key in options) { pattern = pattern.replace(':'+key, options[key] || ''); } return pattern }
+;
+                var commentsSaveEditedCommentAction = function(options) {var pattern = '/comments/saveeditedcomment?commentId=:commentId'; for(var key in options) { pattern = pattern.replace(':'+key, options[key] || ''); } return pattern }
+;
+                var commentsDeleteCommentAction = function(options) {var pattern = '/comments/deletecomment?commentId=:commentId'; for(var key in options) { pattern = pattern.replace(':'+key, options[key] || ''); } return pattern }
+;
+                var commentsSaveEditedCommentReplyAction = function(options) {var pattern = '/comments/saveeditedcommentreply?commentReplyId=:commentReplyId'; for(var key in options) { pattern = pattern.replace(':'+key, options[key] || ''); } return pattern }
+;
+                var commentsDeleteCommentReplyAction = function(options) {var pattern = '/comments/deletecommentreply?commentReplyId=:commentReplyId'; for(var key in options) { pattern = pattern.replace(':'+key, options[key] || ''); } return pattern }
+;
+
+                                var isLoggedInUser = false;
+                var authenticityToken = "3aeff3ce2aa92c3c09ea0ebf37b6f70c7f174725";
+
+                var showVideoAction = function(options) {var pattern = '/resources/videopopup?id=:id'; for(var key in options) { pattern = pattern.replace(':'+key, options[key] || ''); } return pattern }
+                var accountsLoginAction = function(options) {var pattern = '/accounts/login?redirectto=:redirectto&fromPage=:fromPage'; for(var key in options) { pattern = pattern.replace(':'+key, options[key] || ''); } return pattern }
+
+                $(function(){
+    $('body').on('click', 'a.loginRedirect', function() {
+        var redirectTo = window.location.pathname + window.location.search;
+        redirectTo = encodeURIComponent(redirectTo);
+        var withRedirect = accountsLoginAction({redirectto: redirectTo, fromPage: ''});
+        $(this).attr({href: withRedirect});
+        return true;
+    });
+});
+                
+                if (typeof console == "undefined")
+                    console = {log: function() {} };
+                                if (typeof console != "undefined") {
+                    console = {log: function() {}};
+                }
+                console.log = function() { return; };
+                console.warn = function() { return; };
+                console.info = function() { return; };
+                console.error = function() { return; };
+                console.dir = function() { return; };
+                
+                $(function() {
+                    var activeNewsletterFormStep = 1;
+                    createAjaxForm($("#newsletterSignupForm"),
+                        //onSuccess
+                        function(data){
+                            $(".newsletter-signup .error").hide();
+                            $(".newsletter-signup form").fadeOut(function(){
+                                $(".newsletter-signup .success").fadeIn();
+                            });
+                        },
+                        //onError
+                        function(data){
+                            var errorplaceholder = $(".newsletter-signup .error");
+                            var error = 0;
+                            for (err in data.errors) {
+                                var e = data.errors[err];
+                                // the captcha is the second step, we ignore it in the step 1
+                                if ((activeNewsletterFormStep == 1) && (e.fieldId == 'signup_captcha') || (e.fieldId == 'signup')) { } else {
+                                    $("#"+e.fieldId).addClass("invalid");
+                                    errorplaceholder.show().append(e.errorMessage + '<br>');
+                                    error++;
+                                }
+                            }
+                            if (error > 0) {
+                                return false;
+                            } else {
+                                activeNewsletterFormStep = 2; // set the next step to active
+                                // show the step2
+                                $(".newsletter-signup div.newsletterStep1").fadeOut(function(){
+                                    $(".newsletter-signup div.newsletterStep2").fadeIn();
+                                    $('.newsletter-signup input[type=submit]').addClass("step2");
+                                });
+                            }
+                        },
+                        //beforeSubmit
+                        function(){
+                            $("#newsletterSignupForm input[type='text']").removeClass("invalid");
+                            $(".newsletter-signup p.error").html('');
+                        }, false, function(){}
+                    );
+                });
+
+                                $(document).ready(function() {
+                    $("img.lazy").unveil();
+                });
+                $(window).on("scroll touchmove", function () {
+                    $('#header').toggleClass('scroll', $(document).scrollTop() > 0);
+                    $('.big-picture').toggleClass('scroll', $(document).scrollTop() > 0);
+                });
+                $(document).ready(function() {
+                   $(".sticky-nav").hover(function() {
+                       if ($(".sticky-nav.apply-now") && $(".sticky-days")) {
+                           $(".sticky-nav.apply-now").css("margin-right", "2px");
+                           $(".sticky-days").css("margin-right", "2px");
+                       }
+                   }).mouseleave(function() {
+                       if ($(".sticky-nav.apply-now") && $(".sticky-days")) {
+                           $(".sticky-nav.apply-now").css("margin-right", "0px");
+                           $(".sticky-days").css("margin-right", "0px");
+                       }
+                   });
+                });
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	    $(function(){
+			$("#videoPromoImage .play-button").click(function(){
+                hideBigPicture();
+                ytplayer.playVideo();
+                
+                    $("#videoPopup").modal('show');
+                    setTimeout(function(){
+                        $("#videoPopup").modal('hide');
+                    }, 25000);
+                
+			});
+	        qtipReport();
+			$('#related-talks-container')
+				.mouseover(function(){
+					$(this).css('overflow-y','auto');
+				})
+				.mouseout(function(){
+					$(this).css('overflow-y','hidden');
+				}).css('overflow-y','hidden');
+
+            
+
+            
+	    });
+
+        var showVideoPromoImgOnVideoEnd = true;
+
+        function showVideoPromoImage() {
+            $("#videoEndPromoImage").show();
+            $("#videoEndPromoImage img").show();
+            $("#ytplayer").remove();
+            $(".big-picture img.bigPicture").remove();
+            $(".big-picture .play-button").remove();
+            $(".big-picture .content").remove();
+        }
+
+        function hideBigPicture() {
+            $(".youtubeContainer").css("display", "block");
+            $(".play-button").hide();
+            $(".content").hide();
+            $(".big-picture img").hide();
+        }
+	
+
+
+    var talksPaginator = function(options) {var pattern = '/talks/gettalklistjson?limit=:limit&created=:created&ignoreList=:ignoreList&exceptTalkId=:exceptTalkId&year=:year'; for(var key in options) { pattern = pattern.replace(':'+key, options[key] || ''); } return pattern }
+;
+
+    $(function(){
+        var tc = new TalkController2009();
+        ko.applyBindings(tc, document.getElementById('talkSlider2009'));
+        tc.getTalks(13);
+    });
+
+    function TalkController2009(){
+        var self = this;
+        self.newestTalk = ko.observable(null);
+        self.talkList = ko.observableArray([]);
+        self.talkListPageSize = ko.observable(0);
+        self.currentPage = ko.observable(1);
+        self.talkYear = 2009;
+        self.created = null;
+        self.exceptTalkId = 7130;
+        self.queriedTalkIds = [];
+
+        var tableEl = $("#talkSlider2009 .table");
+
+        self.getNewestTalk = ko.computed(function(){
+            if(self.newestTalk() == null) {
+                return { id:0, title: "", thumbnailUrl:"" }
+            }
+            return self.newestTalk();
+        });
+
+        self.getTalks = function(limit){
+            $.post( "/talks/gettalklistjson",
+                    {year: self.talkYear, created: self.created, limit: limit, exceptTalkId: self.exceptTalkId, ignoreList: self.queriedTalkIds})
+                    .done(function( data ) {
+                        $.each(data, function(key,val) {
+                            if(self.newestTalk() == null) {
+                                self.newestTalk(val);
+                            } else {
+                                self.talkList.push(val);
+                            }
+                            self.created = val.created;
+                            self.queriedTalkIds.push(val.id);
+                        });
+                        self.talkListPageSize(Math.ceil((self.talkList().length) / 4));
+                        self.scrollToPage();
+                    });
+        }
+        self.prevPage = function(){
+            self.currentPage(self.currentPage() - 1);
+            if(self.currentPage() < 1) {
+                self.currentPage(1);
+            }
+            self.scrollToPage();
+        }
+        self.nextPage = function(){
+            if(self.isTableEnd()) {
+                self.currentPage(1);
+            } else {
+                self.currentPage(self.currentPage() + 1);
+            }
+            if (typeof self.talkList()[(self.currentPage()) * 8] == "undefined") {
+                self.getTalks(8);
+            } else {
+                self.scrollToPage();
+            }
+        }
+
+        self.scrollToPage = function(){
+            var newMargin = self.getNewMargin();
+            tableEl.css("margin-left", newMargin);
+        }
+
+        self.getNewMargin = function() {
+            var margin = self.getMargin();
+            return -margin * (self.currentPage() - 1);
+        }
+
+        self.getMargin = function() {
+            var width = $("#talkSlider2009 > div.container > section").width();
+            return width;
+        }
+
+        self.isTableEnd = function() {
+            var tableWidth = tableEl.width();
+            var sliderWidth = self.getMargin();
+            return tableWidth <= (-self.getNewMargin() + sliderWidth);
+        }
+    }
+
+
+
+            window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+                    d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+                    _.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute("charset","utf-8");
+                $.src="//v2.zopim.com/?30lZ8P0G8weXlnQDuuwt9GN5RFjucQik";z.t=+new Date;$.
+                        type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
+        
+
+
+
+
+
+
+
+
+
+
+
+
+Login
+
+
+
+
+
+
+
+
+
+
+Toggle navigation
+
+
+
+
+TEDMED
+
+
+
+
+
+Attend
+
+
+Attend TEDMED 2018
+
+
+2017 Stage Program
+
+
+Why Join Us?
+
+
+The Hive
+
+
+Who Attends
+
+
+The Location
+
+
+Schedule
+
+
+
+
+Speakers
+
+2017 Stage Program
+All Speakers
+
+
+
+TEDMED Live
+
+
+Talks
+
+
+The Hive 
+
+
+Partnerships
+
+
+About
+
+
+Blog
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Goldie Hawn
+Does positive imagery make you healthy and happy?
+
+
+
+
+
+
+
+
+
+
+
+
+Apply to Attend TEDMED 2018
+Join us in Palm Springs, CA at The La
+Quinta Resort and Club, this Nov 14 - 16, 2018.
+Apply Today!
+
+
+
+
+
+
+
+
+TEDMED Talks are available, free to the world, thanks to our partners.
+
+
+
+
+
+
+
+
+
+
+
+
+Share This Talk
+
+
+
+
+
+
+
+
+
+
+
+
+					
+						About Goldie Hawn
+					
+                    
+				
+
+
+Academy Award-winner Goldie Hawn is known to millions as one of the screen's most beloved actresses. Her memorable performances have endeared her to audiences around the world and she has touched millions more with her work as a best-selling author and humanitarian.
+Find out more
+
+
+
+
+
+About This Talk
+
+Goldie Hawn talks about children & mindfulnessand brings researcher Dan Siegel to show the scientific side of her wonderful ideas!
+
+
+
+
+
+
+
+
+
+
+Other Talks from TEDMED 2009
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+×Close
+
+
+
+Join us at TEDMED 2018
+TEDMED 2018 will be at The La Quinta Resort and Club
+again this November 14-16, 2018
+ 
+REGISTER TODAY
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About TEDMED
+TEDMED Team
+Media (Press)
+FAQ's
+Front Line Scholarships
+Speaker Portal
+
+
+
+
+
+
+Terms and Conditions
+Privacy
+Branding Guidelines
+Partner Portal
+Careers
+Contact Us
+
+
+
+
+
+
+
+Newsletter Sign-up
+Thanks! Your email has been added you to our newsletter mailing list.
+
+
+
+
+
+
+
+
+
+	var loadCaptchaImage=function(options) {var pattern = '/captcha?id=:randomId'; for(var key in options) { pattern = pattern.replace(':'+key, options[key] || ''); } return pattern }
+
+			$(function() {
+				$('#signup_captcha_captchaBlock span.captcha-reload').qtip({
+					content:	{attr: 'data-tip'},
+					position:	{my: 'leftMiddle',at: 'rightMiddle'},
+					show:		{delay: 750},
+					style:		{classes: 'ui-tooltip-light ui-tooltip-shadow'}
+				});
+				$('#signup_captcha_captchaBlock span.captcha-reload').click(function(ev){
+					var parentEl = $(this).closest("div.captcha");
+					var captchaImgEl = parentEl.children("img.captcha-image");
+					var captchaRandomIdEl = parentEl.children("input.captchaRandomId");
+					var captchaTextfieldEl = parentEl.children("input.captcha-textfield");
+					$.ajax({
+						url: '/captcha/getnewcaptchaid',
+						success: function(data)
+						{
+							captchaImgEl.attr('src',loadCaptchaImage({randomId:data}));
+							captchaRandomIdEl.val(data);
+							captchaTextfieldEl.val('');
+						}
+					});
+				});
+			});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TED trademark and logo used under license from TED Conferences LLC. TEDMED, LLC is a nonprofit that focuses on the intersection of health and medicine, while the TED Conference (which is also a non-profit and operates the website www.TED.com) has a broader focus on Ideas Worth Spreading. TEDMED, LLC is wholly owned by The TEDMED Foundation, a 501(c)(3) Public Charity. | 2 High Ridge Park  |  Stamford, CT  |  06905
+
+
+
+
+Follow Us
+
+
+Follow Us on Twitter
+
+
+Like Us on Facebook
+
+
+Find Us on Google+
+
+
+Visit our Youtube Channel
+
+
+RSS Feed
+
+
+TEDMED Blog
+
+
+
+
+
+
+
+
+
+
+    var PopupOverlay = (function() {
+
+        var targetId = "#popupOverlay";
+
+        var show = function(zIndex) {
+            if(zIndex == undefined) {
+                zIndex = 13999;
+            }
+            var el = $(targetId);
+            el.zIndex(zIndex);
+            el.show();
+        };
+
+        var hide = function() {
+            var el = $(targetId);
+            el.hide();
+        };
+
+        return {
+            show: show,
+            hide: hide
+        };
+    }());
+
+
+
+
+ 
+
+
+
+
+
+    var PopupLoginCustom = (function() {
+
+        
+        var accountLoginPopupAction = function(options) {var pattern = 'https://www.tedmed.com/accounts/loginpopup'; for(var key in options) { pattern = pattern.replace(':'+key, options[key] || ''); } return pattern }
+
+        
+
+        var modalId = "#loginModal";
+
+
+        /**
+         * @param loginMessage Optional, text to write in the top of the login popup
+         * @param callbackFunc Optional, if not provided and the response == "ok" it will reload the page
+         */
+        var showLoginPopup = function(loginMessage, callbackFunc) {
+
+            $.ajax(accountLoginPopupAction(),{
+                method: "GET",
+                crossDomain: true,
+                xhrFields: {
+                    withCredentials: true
+                },
+                success: function(response) {
+                    initLoginPopup(loginMessage, response, callbackFunc);
+                }
+            });
+        };
+
+        var initLoginPopup = function(loginMessage, response, callbackFunc) {
+            $(modalId + ' .modal-body').html(response);
+            $('#loginHeaderMessage').html(loginMessage);
+            $(modalId).modal('show');
+            $('#loginForm').submit(function(ev){
+                ev.preventDefault();
+                $.ajax($(this).attr('action'),
+                        {
+                            method: "POST",
+                            data: $(this).serialize(),
+                            crossDomain: true,
+                            xhrFields: {
+                                withCredentials: true
+                            },
+                            success: function(response) {
+                                if (response == "ok") {
+                                    if(typeof(callbackFunc) == "function") {
+                                        callbackFunc(response);
+                                    } else {
+                                        window.location.reload();
+                                    }
+                                } else {
+                                    initLoginPopup(loginMessage, response, callbackFunc);
+                                }
+                            }
+                        });
+            });
+        };
+
+        var hideLoginPopup = function() {
+            $(modalId).modal('hide');
+        };
+
+
+        return {
+            showLoginPopup: showLoginPopup,
+            hideLoginPopup: hideLoginPopup
+        };
+    }());
+
+
+
+
+
+
+×Close
+
+
+
+
+
+
+
+
+
+    RegistrationReminder = (function() {
+
+        var STORAGE_KEY = "RegistrationReminder";
+        var MAX_SHOW_COUNT = 5;
+        var SILENCE_TIME =  60*60*24;    // in seconds
+
+        // initial storage object
+        var RegistrationReminder = {
+            doNotShowAgain: false,      // user can select this option at any time
+            lastShowDate: null,         // updates on every show
+            showCount: 0                // increments on every show
+        }
+
+        var handleRequest = function(forceShow) {
+            if(!isStorageSupported()) {
+                return;                 // there is no storage support in this browser
+            }
+
+            var reminder = getFromStorage();
+            var nowTime = new Date().getTime()/1000;
+
+            if(reminder.doNotShowAgain) { return; }
+            if(!forceShow && (reminder.showCount > MAX_SHOW_COUNT || (reminder.lastShowDate != null && ((nowTime - reminder.lastShowDate) < SILENCE_TIME) )) ) {
+                return;
+            }
+
+            
+        };
+
+        var doNotShowAgain = function(elem) {
+            var reminder = getFromStorage();
+            reminder.doNotShowAgain = true;
+            setInStorage(reminder);
+            $("#RegistrationReminderModal").modal('hide');
+        };
+
+        var isStorageSupported = function() {
+            return typeof(Storage) !== "undefined";
+        };
+
+        var getFromStorage = function() {
+            var reminder;
+            if(localStorage.getItem(STORAGE_KEY) == null) {
+                reminder = RegistrationReminder;
+            } else {
+                reminder = JSON.parse(localStorage.getItem(STORAGE_KEY));
+            }
+            return reminder;
+        };
+
+        var setInStorage = function(reminder) {
+            localStorage.setItem(STORAGE_KEY, JSON.stringify(reminder));
+        };
+
+
+
+        return {
+            handleRequest:  handleRequest,
+            doNotShowAgain: doNotShowAgain
+        };
+    }());
+
+    $(function() {
+        // do not show while in registration
+        var windowUrl = decodeURIComponent(window.location.href);
+        if(windowUrl.match(/steps/)) {
+            return;
+        }
+        var afterLogin = false;
+
+        RegistrationReminder.handleRequest(afterLogin);
+    });
+
+
+
+
+
+
+×Close
+
+
+
+
+
+
+
+Don't Remind me again
+
+
+
+
+ 

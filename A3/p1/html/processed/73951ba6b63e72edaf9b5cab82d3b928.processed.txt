@@ -1,0 +1,51 @@
+http://pr.aljazeera.com/post/153594128485/noam-chomsky-speaks-with-upfront-slams-media
+var __pbpa = true;var translated_warning_string = 'Warning: Never enter your Tumblr password unless \u201chttps://www.tumblr.com/login\u201d\x0ais the address in your web browser.\x0a\x0aYou should also see a green \u201cTumblr, Inc.\u201d identification in the address bar.\x0a\x0aSpammers and other bad guys use fake forms to steal passwords.\x0a\x0aTumblr will never ask you to log in from a user\u2019s blog.\x0a\x0aAre you absolutely sure you want to continue?';Noam Chomsky speaks with ‘Upfront’ - slams media...figure{margin:0}.tmblr-iframe{position:absolute}.tmblr-iframe.hide{display:none}.tmblr-iframe--amp-cta-button{visibility:hidden;position:fixed;bottom:10px;left:50%;transform:translateX(-50%);z-index:100}.tmblr-iframe--amp-cta-button.tmblr-iframe--loaded{visibility:visible;animation:iframe-app-cta-transition .2s ease-out}
+      // test for svg as image @see http://css-tricks.com/test-support-svg-img/
+      if(document.implementation.hasFeature("http://www.w3.org/TR/SVG11/feature#Image", "1.1")) {
+        document.documentElement.className += " svgasimg";
+      }
+
+    
+	{"@type":"SocialMediaPosting","url":"http:\/\/pr.aljazeera.com\/post\/153594128485\/noam-chomsky-speaks-with-upfront-slams-media","mainEntityOfPage":true,"datePublished":"2016-11-24T08:13:35-05:00","author":"aljazeerapr","image":"http:\/\/78.media.tumblr.com\/8403dc07c7d66dcd756c7df22f7e44bb\/tumblr_inline_oh4z5jkJ9v1rwl04r_540.jpg","headline":"Noam Chomsky speaks with \u2018Upfront\u2019 - slams media coverage, criticises third party voters","articleBody":"aljazeerapr:\n\u201c The renowned US academic, award-winning author and public intellectual Professor Noam Chomsky, speaks with \u2018UpFront\u2019:\n\u2022 Labels Donald Trump \u201can ignorant, thin-skinned megalomaniac\u201d\n\u2022 Says \u201cthe most predictable aspect of Trump is unpredictability\u201d\n\u2022 Says those who voted for third party...","@context":"http:\/\/schema.org"}Al Jazeera PRHomeAboutAwardsContact UsArchiveAl Jazeera PRهنا الجزيرةSearchNoam Chomsky speaks with ‘Upfront’ - slams media coverage, criticises third party voters
+                                        November 24, 2016
+                                    aljazeerapr:The renowned US academic, award-winning author and public
+intellectual Professor Noam Chomsky, speaks with ‘UpFront’:Labels Donald Trump “an ignorant, thin-skinned megalomaniac”Says “the most predictable aspect of Trump is unpredictability”Says those who voted for third party candidate in the election
+made “a bad mistake”Calls Trump’s positions on climate change a “radical setback”Slams the media’s coverage of the election: “The real treachery of
+the media in this election was to avoid issues totally”(Washington, D.C. – 24th November) - In a wide-ranging
+interview with Al Jazeera English’s current affairs show ‘UpFront’, Noam
+Chomsky, spoke about the U.S. elections, Donald Trump and the media.“There’s never been anything like [Trump],” Chomsky told ‘UpFront’
+host Mehdi Hasan. “In fact, the most predictable aspect of Trump is
+unpredictability. I think it’s dangerous. Very dangerous.”“It’s certainly extremely hazardous to have an ignorant,
+thin-skinned megalomaniac who sends off, you know, [tweets] at 3am if somebody
+angered him,” he added.Asked about an interview in 2010 where he had warned that “frustration
+and justified anger” in the US could lead the country down a road similar to
+pre-war Germany, Chomsky said: “I wouldn’t compare it with Germany,” adding “Hitler
+was a sincere, dedicated ideologue. Trump isn’t. He has no known ideology other
+than ‘me’.”“He has no background at all in any political activities. Never
+held office, been interested in office,” he added.“He’s basically a showman,”
+Chomsky said of Trump, who “…strange background for a president.”On the subject of the media’s coverage of the election and Donald
+Trump, Chomsky said, “The real treachery of the media in this election was to
+avoid issues totally.”Chomsky was also asked about those who voted for third party
+candidates Jill Stein and Gary Johnston instead of voting for Hillary Clinton.“I think they’re making a bad mistake,” he said.“Do you vote against the greater evil if you don’t happen to like
+the other candidate? The answer to that is yes,” he added. “If you have any
+moral understanding, you want to keep the greater evil out.”When asked about Trump’s position on climate change, Chomsky
+called it a “radical setback.”“Trump’s position is more fossil fuels, eliminate regulations,
+even coal, refuse the payments, promised payments to countries trying to move
+to sustainable energy. To claim that this is the same as Clinton’s programs is
+just madness in my view,” he said.Some on the left, like Slavoj Zizek, had claimed Trump’s election
+victory would shake up the system and benefit the political left in the U.S.
+Responding to that claim, Chomsky said, “It was the same point that people like
+him said about Hitler in the early 30’s.”“He’ll shake up the system in bad ways,” he added. “That’s
+completely regressive.”One positive aspect of Trump’s administration, Chomsky said, could
+be easing tensions with Russia.“Anything that would reduce the growing and dangerous and severe
+threat of nuclear war is to be welcomed,” he said. “It would be a nice thing if
+humanity could survive.”Regarding claims by the U.S. government that Russia interfered in
+the elections through hacking, Chomsky said, “It’s possible, but it’s a kind of
+strange complaint in the United States. The U.S. has been interfering with, and
+undermining, elections all over the world for decades and is proud of it.”- ends - Note to EditorsThis ‘UpFront’ interview with Noam Chomsky airs Friday
+November 25th at 1930GMT.The full show will be available through this link: www.aljazeera.com/upfront from 1930GMT.If using quotes please credit Al Jazeera English and ‘UpFront’
+and please add this link to online copy
+www.aljazeera.com/upfrontUpFront broadcasts on Fridays at 19:30 GMT. Follow ‘UpFront’
+on Twitter@AJUpFrontFor more information, or media enquiries, please contact: pressoffice@aljazeera.net(Source: aljazeerapr)Read morestoryoftheviper liked this                                    aljazeerapr reblogged this from aljazeerapr FacebookTwitterAboutThe Public Relations team at Al Jazeera sharing what's new and exclusive.
+                    function recent_tweets(data) { window.tweets_data = data; }
+                People I followAl Jazeera PRHomeAboutAwardsContact UsArchive© Copyright Al Jazeera 2012–2018

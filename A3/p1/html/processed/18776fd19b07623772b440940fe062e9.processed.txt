@@ -1,0 +1,965 @@
+https://www.aol.co.uk/entertainment/2016/12/19/dame-mary-archer-was-everyones-hero-on-the-famous-all-female-te/
+
+
+
+
+
+
+
+
+
+
+
+
+Dame Mary Archer was everyone's hero on the famous all-female team for the University Challenge Christmas special - AOL UK Entertainment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		 {"@context":"https:\/\/schema.org","@type":"Article","mainEntityOfPage":{"@type":"URL","@id":"https:\/\/www.aol.co.uk\/entertainment\/2016\/12\/19\/dame-mary-archer-was-everyones-hero-on-the-famous-all-female-te\/"},"author":{"@type":"Person","url":"https:\/\/www.aol.co.uk\/editors\/pa","name":"PA"},"image":{"@type":"ImageObject","width":700,"height":394,"url":"http:\/\/snappa.static.pressassociation.io\/assets\/2016\/12\/19211541\/1482182141-e06d061a77a7bde916b8a91163029d41-600x354.jpg"},"publisher":{"@type":"Organization","name":"AOL UK"},"url":"https:\/\/www.aol.co.uk\/entertainment\/2016\/12\/19\/dame-mary-archer-was-everyones-hero-on-the-famous-all-female-te\/","headline":"Dame Mary Archer was everyone's hero on the famous all-female team for the University Challenge Christmas special","datePublished":"2016-12-19T21:48:00+00:00","thumbnailUrl":"http:\/\/snappa.static.pressassociation.io\/assets\/2016\/12\/19211541\/1482182141-e06d061a77a7bde916b8a91163029d41-600x354.jpg","description":"If there&#039;s anything to make you feel bad about not using your degree to its full potential it&#039;s the University Challenge Christmas special. The teams were made up of alumni who&#039;ve since achieved distinction in their fields - including many well known faces - and it was the all-female St Anne&#039;s Oxford team who absolutely slayed.   (BBC\/Screenshot)   TV correspondent Jacky Rowland, art historian and broadcaster Dr Janina Ramirez, BBC News science correspondent Rebecca Morelle and chairman of the Science Museum Group Mary Archer walked over the Manchester team with 185 points to 55. The college was formerly a women&#039;s college but has been coeducational since 1979.   These women are slaying on #UniversityChallenge pic.twitter.com\/GZidYQF5BM -- Eve Alcock (@EveAlcock) December 19, 2016      4 women on the same team! That&#039;s some sort of #UniversityChallenge record even for an all women&#039;s college -- Mike ?? ???? (@mikebirty) December 19, 2016      5\/8 contestants on #UniversityChallenge are female - Brilliant representation! -- Roseanna (@roseannasale) December 19, 2016      The St Anne&#039;s Oxford team on #UniversityChallenge are slaying. Huge respect. -- Elf-is ? (@EllisReadss) December 19, 2016    Team captain Mary Archer was everyone&#039;s stand out contestant.   (BBC\/Screenshot)     Mary Archer is good. Very good #universitychallenge That team seem like they want this -- Fiji Diddy (@damobullimore) December 19, 2016      Archer is goals #UniversityChallenge -- Orla Hanratty (@OrlaAHanratty) December 19, 2016      Who&#039;d have thought it, I love Mary Archer! #UniversityChallenge -- Katy Greenwood (@katygreenwood) December 19, 2016    The Manchester team - including poet Simon Armitage, president of the Paralympic Committee Sir Philip Craven, journalist Sarfraz Manzoor and the Natural History Museums&#039;s Erica McAlister will probably be kicking themselves.   (BBC\/Screenshot)     Does Manchester&#039;s buzzer work? #UniversityChallenge -- Dave Quirk (@daviequirk) December 19, 2016      Are Manchester still on set or have they gone to the bar? #UniversityChallenge -- penny green (@pennygreen3) December 19, 2016      I hope Manchester have enjoyed their glasses of water...#UniversityChallenge -- Ashleigh (@Ashleighw13) December 19, 2016    But it really did put our post-university achievements into rather harsh perspective.   Listening to what these alumni have done makes me realise I&#039;ve done naff all since leaving university #UniversityChallenge -- Jack Poynter (@JPoynter91) December 19,","articleSection":"TV","keywords":["Celebrity & Showbiz","Featured","Jeremy Paxman","Mary Archer","Showbiz Features","Showbiz TV","University Challenge"],"dateModified":"2016-12-20T09:05:14+00:00"}
+	    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	var _sf_startpt 			=	(new Date()).getTime(), Site = (typeof Site !== "undefined" &&  typeof Site === "object" && Site !== null) ? Site : {};
+	Site.blogID         		=   "932";
+	Site.DevID          		=   "ao1wnWQbJWrM53t-";
+	Site.FacebookAppId  		=   "634076299969787";
+	Site.FacebookAppName  		=   "AOLdotUK";
+	Site.TwitterAccountId 		=   "218512675";
+	Site.TwitterAccount 		=   "AOLdotUK";
+	Site.ChannelName			=	"entertainment";
+	Site.Channel_homeUrl		=	"/entertainment/";
+	Site.section_homeUrl		=	"";
+	Site.PostID		        	=	"21631176";
+	Site.PostCategories			= 	[{"id":35602,"name":"TV","abbr":"TV","slug":"tv","desc":"","parent":{"id":35600,"name":"Entertainment","abbr":"Entertainment","slug":"entertainment","desc":""}},{"id":35604,"name":"Fun & Viral","abbr":"Fun & Viral","slug":"fun-and-viral","desc":"","parent":{"id":35600,"name":"Entertainment","abbr":"Entertainment","slug":"entertainment","desc":""}}]
+	Site.route					=	"permalink";
+	Site.channel				=	"entertainment";
+	Site.req					=	{ params: {"subdomain":"www","domain":"aol.co.uk","channel":"entertainment","post_year":"2016","post_month":"12","post_day":"19","post_slug":"dame-mary-archer-was-everyones-hero-on-the-famous-all-female-te"}, get: [], post: [] };
+	Site.Omniture				=	{"pfxID":"acm","pageName":"Dame Mary Archer was everyone's hero on the famous all-female team for the University Challenge Christmas special","prop1":"article","prop2":"main","prop8":"bss:932","prop16":"tv","prop54":"blogsmith","prop62":"video_novideo","prop63":"desktop","prop9":"bsd:21631176","prop18":"entertainment|tv","prop22":"pa","prop65":"snappa_300","prop21":"portal","s_account":"aolukjunglobal","channel":"uk.aolcoment","prop17":"aolukns","prop66":"uk","prop19":"celebrity_&_showbiz|featured|jeremy_paxman|mary_archer|showbiz_features|showbiz_tv|university_challenge|@advert04","prop23":"12-19-2016"};
+	Site.project				=	"portal";
+	Site.locale					=	"en-gb";
+	Site.Sourcepoint			=	{"isEnabled":true,"accountID":319};
+	Site.isMobile       		=	false;
+	Site.C3S					=	{"host":"rs.aol.co.uk","key":"entertainment.ad4","cobrand":"aolukns","hpc":false};
+	Site.Urls					=	{"api_ukmedia":"https:\/\/api.ukmedia.aol.com\/","cdn_ukmedia":"https:\/\/s.aolcdn.com\/ukmedia\/","cdn_os":"https:\/\/s.aolcdn.com\/os\/","cdn_os_merge":"https:\/\/s.aolcdn.com\/os-merge\/?","api_5min":"https:\/\/api.5min.com\/","api_vidible":"https:\/\/api.vidible.tv\/","dims_url":"https:\/\/s.aolcdn.com\/dims-global\/dims\/BLOG\/5\/","api_huffpost":"https:\/\/api.huffingtonpost.com\/v1\/","api_partners":"https:\/\/partners.aol.co.uk","api_comet":"https:\/\/api.comet.aol.com","huffpost":{"projects_url":"http:\/\/projects.huffingtonpost.co.uk"},"releases_api":"https:\/\/releases-api.comet.aol.com\/api\/v2\/","relegence_api":"https:\/\/www.aol.com\/api\/v1\/relegence\/"};
+	Site.NewsletterApiUrl		=	"/api/newsletter/auth.json";
+	Site.RapidId                =   "1197803575";
+ 
+
+	var C3S = typeof C3S !== "undefined" && typeof C3S === "object" ? C3S : {};
+
+	C3S.user_layout = window.DI && !!window.DI.activeLayout && window.DI.activeLayout() || 'desktop';
+  	C3S.layout_map 	= {'desktop': false, 'tablet': 'largescreen', 'wide-phone': 'mediumscreen', 'phone': 'smallscreen'};
+	C3S.used_layout = C3S.layout_map[C3S.user_layout];  
+	
+	C3S.setOmnitureProps  = function(obj) {
+	
+		if ( typeof io_c3sd === "undefined" || typeof io_c3sd['omniture'] === "undefined" ) return;
+		obj.prop17 = typeof io_c3sd['omniture']['prop17'] !== "undefined" ? io_c3sd['omniture']['prop17'] : 'aolukns';
+		obj.prop21 = typeof io_c3sd['omniture']['prop21'] !== "undefined" ? io_c3sd['omniture']['prop21'] : 'portal';
+		obj.prop63 = C3S.layout_map[C3S.user_layout] || 'desktop';
+	}
+	C3S.setOmnitureSAccount  = function() {
+		if ( typeof io_c3sd === "undefined" || typeof io_c3sd['omniture'] === "undefined" ) return;
+		s_account = typeof io_c3sd['omniture']['s_account'] !== "undefined" ? io_c3sd['omniture']['s_account'] : 'aolukjunglobal';
+	}
+
+	var io_c3sd 		= io_c3sd || {};
+	var io_c3s 			= io_c3s || {};
+	io_c3s.queryStrings = [];
+	io_c3s.set 			= function(k,v) { io_c3s[k] = v; };
+	io_c3s.addToArray 	= function(k, v) { if (v !== null) { this.queryStrings.push(k+v) } };
+	io_c3s.getCookie 	= function(e){for(var l=document.cookie.split(";"),s="",n="",t=null,c=0;c<l.length;c++)s=l[c].split("="),n=s[0].replace(/^\s+|\s+$/g,""),n===e.replace(/^\s+|\s+$/g,"")&&s.length>1&&(t=unescape(s[1].replace(/^\s+|\s+$/g,"")),t=""===t?null:t);return t};
+	io_c3sMN_fallback 	= 100012193;
+	io_c3s.section_key 	= 'entertainment.ad4';
+	io_c3s.set('host', 'rs.aol.co.uk');
+	io_c3s.set('version', '1.0');
+	io_c3s.addToArray("c3s_l=", io_c3s.getCookie('c3s_l'));
+	io_c3s.addToArray("oo_global_l=", io_c3s.getCookie('oo_global_l'));
+	io_c3s.addToArray("oo_seen_l=", io_c3s.getCookie('oo_seen_l')); 
+	
+	io_c3s.set( 'section_key', (!io_c3s.section_key ? '' : io_c3s.section_key));
+	var is_ads_responsive 	= true;
+	var responsiveC3Skey 	= io_c3s.section_key;
+
+	(function(d) {
+		var queryStrings = io_c3s.queryStrings.length ? "?" + io_c3s.queryStrings.join("&") : '',
+			src = d.location.protocol + '//' + io_c3s['host'] + '/';
+			src += io_c3s['version'] + '/' + (!C3S.used_layout?'':C3S.used_layout+'.') + io_c3s['section_key'] + '/cobrand.js' + queryStrings;
+			d.write('<script type="text/javascript" id="c3s-init" src="' + src + '"><\/script>');
+	})(document);
+
+	var s_account 		= "aolukjunglobal";	
+	var omniAttempts 	= 0;	
+
+	function runOmni() {
+		try {
+			if ( Object.keys(io_c3sd).length <= 0 && omniAttempts < 3 ) {
+				omniAttempts += 1;
+				throw new Error('io_c3sd empty');
+			}
+
+							s_265.pfxID = "acm"; 
+							s_265.pageName = "Dame\x20Mary\x20Archer\x20was\x20everyone\x27s\x20hero\x20on\x20the\x20famous\x20all\x2Dfemale\x20team\x20for\x20the\x20University\x20Challenge\x20Christmas\x20special"; 
+							s_265.prop1 = "article"; 
+							s_265.prop2 = "main"; 
+							s_265.prop8 = "bss\x3A932"; 
+							s_265.prop16 = "tv"; 
+							s_265.prop54 = "blogsmith"; 
+							s_265.prop62 = "video_novideo"; 
+							s_265.prop63 = "desktop"; 
+							s_265.prop9 = "bsd\x3A21631176"; 
+							s_265.prop18 = "entertainment\x7Ctv"; 
+							s_265.prop22 = "pa"; 
+							s_265.prop65 = "snappa_300"; 
+							s_265.prop21 = "portal"; 
+							s_265.channel = "uk.aolcoment"; 
+							s_265.prop17 = "aolukns"; 
+							s_265.prop66 = "uk"; 
+							s_265.prop19 = "celebrity_\x26_showbiz\x7Cfeatured\x7Cjeremy_paxman\x7Cmary_archer\x7Cshowbiz_features\x7Cshowbiz_tv\x7Cuniversity_challenge\x7C\x40advert04"; 
+							s_265.prop23 = "12\x2D19\x2D2016"; 
+				
+				s_265.prop12 = document.location;
+				s_265.server = "aoluk-ld26.websys.aol.com";
+				s_265.linkInternalFilters = "javascript:,www.aol.co.uk";
+				s_265.mmxgo = true;
+				if (window.location.href.toLowerCase().match(/[\?\&][ni]cid\=/)) s_265.events = 'event1';
+				C3S.setOmnitureProps(s_265);
+				C3S.setOmnitureSAccount();
+				s_265.t();
+		} catch(e) {
+			setTimeout(runOmni,100);
+		}
+	}
+	
+	(function(d){
+		var s = d.createElement('script');
+		s.src = '//s.aolcdn.com/os/aol/omniture-intl.min.js';
+		d.getElementsByTagName('head')[0].appendChild(s);
+	})(document);
+	
+		
+		setTimeout(function(){
+			var taboolaScript = (typeof io_c3sd != "undefined" && io_c3sd.cobrand == 'ttguk') ? '//cdn.taboola.com/libtrc/aolcomuk-talktalk/loader.js' : '//cdn.taboola.com/libtrc/aol-uk/loader.js';
+						taboolaScript = '//cdn.taboola.com/libtrc/aol-uk/loader.js';
+							window._taboola = window._taboola || [];
+				_taboola.push({ article:'auto'});
+				!function (e, f, u, i) {
+					e.async = 1;
+					e.src = u;
+					e.id = i;
+					f.parentNode.insertBefore(e, f);
+				}(document.createElement('script'),	document.getElementsByTagName('script')[0],taboolaScript,'tb_loader_script');			
+		},500);
+					!function (e, f) {
+				e.async = 1;
+				e.src = '//cdn.mediavoice.com/nativeads/script/aoluk/aol-uk-homepage-native.js';
+				f.parentNode.insertBefore(e, f);
+			}(document.createElement('script'),	document.getElementsByTagName('script')[0]);
+			
+	
+	
+			
+
+
+adSetNetId('1065.1');adSetAdURL('/_uac/adpage.html');adSetAddOn('0');adSetOthAT('kvblogname=entertainment;kvedition=uk;kvcmsid=bsd:21631176;kvcategory=tv;kveditags=celebrity-&amp;-showbiz:featured:jeremy-paxman:mary-archer:showbiz-features:showbiz-tv:university-challenge;kventryid=21631176;kvblogger=pa;kvrefd=https://www.aol.co.uk/entertainment/2016/12/19/dame-mary-archer-was-everyones-hero-on-the-famous-all-female-te/;');
+
+/* Sourcepoint bootstrap */
+!function(o){function n(e){if(t[e])return t[e].exports;var i=t[e]={exports:{},id:e,loaded:!1};return o[e].call(i.exports,i,i.exports,n),i.loaded=!0,i.exports}var t={};return n.m=o,n.c=t,n.p="",n(0)}([function(o,n,t){"use strict";function e(o){return o&&o.__esModule?o:{default:o}}function i(){if(!P){P=!0,window._sp_=window._sp_||{},H=window._sp_.config=window._sp_.config||{},window._sp_._networkListenerData=(0,m.default)(),K=H.content_control_callback||window._sp_lock,q=H.account_id||H.client_id||window.sp_cid;for(var o in H)T[o]=H[o]}}function r(o,n,t){function e(t,e){var r=new Image;r.src="//"+L+("/cct?v="+encodeURIComponent(C))+("&ct="+x)+("&cid="+encodeURIComponent(q))+("&l="+encodeURIComponent(o.toString()))+("&rc="+encodeURIComponent(n))+("&d0="+encodeURIComponent(i))+(t?"&d1="+encodeURIComponent(t):"")+(e?"&d2="+encodeURIComponent(e):""),a&&a()}var i=arguments.length>3&&void 0!==arguments[3]?arguments[3]:"",r=arguments[4],a=arguments[5];if(r){var d=t.lastIndexOf("."),c=t.lastIndexOf("/"),s=d===-1||c>d?t+".png":t.substring(0,d)+".png",u=new Image;u.addEventListener("load",function(){e("1",s)}),u.addEventListener("error",function(){(0,_.default)(s,function(o,n,t){e("0",s+"::"+t)})}),u.src=s}else e()}function a(o,n,t,e){var i=arguments.length>4&&void 0!==arguments[4]?arguments[4]:{},r=arguments.length>5&&void 0!==arguments[5]&&arguments[5],d=function(){return a(o,n,t,e,i,!0)},c=r?t:d;o(n,c,e,i)}function d(o,n,t,e){function i(t,i){n(t,o,i,e.enableImageLoad)}function r(n,i){t(n,o,i,e.enableImageLoad),e.onError&&e.onError(i)}var a=document.createElement("script");a.src=o,a.onload=function(){try{if(window._sp_&&window._sp_.bootstrap===f&&window.spBootstrap===w&&window._sp_.config===H){for(var o in T)if(T[o]!==H[o]){E&&E();break}}else E&&E()}catch(o){E&&E()}e.onLoad&&e.onLoad()},a.onerror=function(){function n(o){return t.indexOf(o)>-1}var t=(navigator.userAgent||navigator.vendor||window.opera).toLowerCase();n("mobi")||n("ipad")||n("android")||n("iphone")?r(R):n("exabot")?r(N):n("bingbot")||n("bingpreview")?r(M):n("googlebot")||n("adsbot-google")||n("mediapartners-google")?r(S):n("googleweblight")?r(k):window.location.host===b?r(U):window.location.host.indexOf(h)>-1?r(B):n("msie 10")||n("msie 9")||n("msie 8")?r(D):c(o,i,r)},document.head.appendChild(a),document.querySelector('script[src="'+o+'"]')||window.location.host.indexOf(h)!==-1||i(y,o)}function c(o,n,t){(0,_.default)(o,function(e,i,r,a){var d=e||i?n:t;d(a,o+"::"+r)})}function s(o,n,t,e){return A?void u(j+"::"+o,t):void r(O,o,n,t,e,function(){K&&setTimeout(function(){K()},250)})}function u(o,n,t,e){r(I,o,n,t,e)}function w(o,n){i(),n&&(K=window._sp_lock=n),a(d,o,s,u)}function f(o,n){i(),a(d,o,s,u,n)}var l=t(1),p=e(l),v=t(2),_=e(v),g=t(3),m=e(g),b=["w","e","b","c","a","c","h","e",".","g","o","o","g","l","e","u","s","e","r","c","o","n","t","e","n","t",".","c","o","m"].join(""),h=["o","p","t","i","m","i","z","e","l","y","p","r","e","v","i","e","w",".","c","o","m"].join(""),E=void 0;try{E=window._sp_&&window._sp_.config&&window._sp_.config.spid_control_callback}catch(o){}var L=p.default.be.join(""),C=p.default.bv,x=1,I=0,O=1,y="s",R="m",S="g",U="gw",k="gl",D="i",M="b",N="e",j="n",B="o",T={},P=!1,A=!1,H=void 0,K=void 0,q=void 0;window.addEventListener("beforeunload",function(){A=!0});try{window._sp_=window._sp_||{},window._sp_.bootstrap=f,window.spBootstrap=w,window._sp_.bootstrap===f&&window.spBootstrap===w||E&&E()}catch(o){E&&E()}},function(o,n){"use strict";o.exports={be:["w","w","w",".","r","o","o","s","t","e","r","f","i","r","e","w","o","r","k",".","c","o","m"],bv:"1.7.669"}},function(o,n){"use strict";function t(o,n){function t(o){try{return o&&o.timeStamp?o.timeStamp:window.performance.now()}catch(o){return Date.now()}}var c=document.createElement("a");if(c.href=o,"https:"===window.location.protocol&&c.protocol!==window.location.protocol)return void n(!1,!1,c.protocol,d);var s=new XMLHttpRequest;try{s.open("GET",o)}catch(o){return void n(!0,!1,o.toString(),r,s)}var u=void 0,w=void 0;s.onloadstart=function(o){u=t(o)},s.onreadystatechange=function(o){if(4===this.readyState){w=t(o)-u;var r=0===this.status,a="2"===this.status.toString()[0],d=a?i:e;return void n(r,a,this.status+"::"+w,d,s)}};try{s.send()}catch(o){return void n(!0,!1,o.toString(),a,s)}}Object.defineProperty(n,"__esModule",{value:!0}),n.default=t;var e=n.NETWORK_FAILURE="n",i=n.XHR_SUCCEEDED="nx",r=n.OPEN_BLOCKED="xo",a=n.SEND_BLOCKED="xs",d=n.PROTOCOL_MISMATCH="p"},function(o,n){"use strict";function t(){var o=arguments.length>0&&void 0!==arguments[0]?arguments[0]:document,n=[],t=[],i=e.bind(null,n),r=e.bind(null,t);return o.addEventListener("load",i,!0),o.addEventListener("error",r,!0),{load:{events:n,listener:i},error:{events:t,listener:r}}}function e(o,n){if(n.target){var t="string"==typeof n.target.tagName?n.target.tagName.toLowerCase():"",e=n.target.src||"";o.push({tagName:t,src:e})}}Object.defineProperty(n,"__esModule",{value:!0}),n.default=t}]);//# sourceMappingURL=https://s3.amazonaws.com/d3jlsadfjkuern/1.7.669/Ym9vdHN0cmFwLmpz.map
+	
+// standard configuration parameters for sourcepoint
+window._sp_ = window._sp_ || {};
+window._sp_.config = window._sp_.config || {};
+window._sp_.config.account_id = Site.Sourcepoint.accountID || 319;
+window._sp_.config.content_control_callback = function() {};
+window._sp_.config.mms_domain = 'aol-uk.aol.co.uk';
+// messaging-specific configuration
+window._sp_.mms = window._sp_.mms || {};
+window._sp_.mms.cmd = window._sp_.mms.cmd || [];
+window._sp_.config.mms_client_data_callback = function(o) {};
+window._sp_.mms.cmd.push(function() {
+	window._sp_.mms.setTargeting("x", "y");
+});
+// tell the messaging library that all params are set and it can proceed
+window._sp_.mms.cmd.push(function() {
+	window._sp_.mms.startMsg();
+});
+// use the sourcepoint bootstrap code (inlined above) to load
+// the main messaging library and the MMS client
+var __assetsBaseUrl = "https://s.blogsmithmedia.com/www.aol.co.uk";
+if (location.hostname.match(/\.sandbox\./i) !== null) {
+	__assetsBaseUrl = "";
+}
+window._sp_.bootstrap(__assetsBaseUrl + '/assets/js/mmblkr/maol-uk.js',{ enableImageLoad: true });
+window._sp_.bootstrap(__assetsBaseUrl + '/assets/js/mmblkr/caol-uk.js');
+
+
+
+var rapidConfig = {
+	spaceid: 1197803575,
+	nol: true,
+	keys: {"st_sec":"uk.aolcoment","pt":"content","ver":"blogsmith","pct":"story","paid":"aol_com_127=bsd:21631176"},
+	webworker_file : '/assets/js/rapidworker-1.2.js'
+};
+
+var rapid = new YAHOO.i13n.Rapid(rapidConfig); 
+
+
+
+
+$(window).on("load resize", function() {__deviceType=$(".responsive i:visible").attr("class")});
+
+View All MailComposeAOL Mail
+						Menu
+						
+						Visit Amazon
+						Visit AmazonSign upOptionsAccount InfoHomeNewsSportMoneyEntertainmentLivingTravelCarsGamesWeatherChange Location|Read MailHoroscopesGamesUKPoliticsWorldFeaturedHuffPostFootballF1CricketRugby UnionOther SportsNewsPropertyRetirementBanking & SavingsMoney Saving TipsDealsTravel & WorkInvestingGuidesCompare Finance ProductsCelebrityTVFilmMusicFun & ViralHuffington PostHealthAnimals & PetsRelationshipsHoroscopesHuffington PostChristmasHoliday IdeasTravel guidesInspire & entertain meTravel NewsUK TravelWorld TravelWinNewsReviewsGreenFeaturesCar PhotosArcadeCardStrategyPuzzlesWordQuizzesAll GamesAOL AppFree eMailMy Account 
+
+
+
+ 
+
+
+
+
+
+
+
+Home
+
+
+
+
+TV
+
+
+
+
+
+Dame Mary Archer was everyone's hero on the famous all-female team for the University Challenge Christmas special
+
+
+
+
+		    		      By PA
+ 19 Dec 2016, 21:48
+
+
+Updated: 20 Dec 2016, 9:05
+
+
+
+-
+
+
+
+
+If there's anything to make you feel bad about not using your degree to its full potential it's the University Challenge Christmas special.The teams were made up of alumni who've since achieved distinction in their fields - including many well known faces - and it was the all-female St Anne's Oxford team who absolutely slayed.(BBC/Screenshot)TV correspondent Jacky Rowland, art historian and broadcaster Dr Janina Ramirez, BBC News science correspondent Rebecca Morelle and chairman of the Science Museum Group Mary Archer walked over the Manchester team with 185 points to 55. The college was formerly a women's college but has been coeducational since 1979.These women are slaying on #UniversityChallengepic.twitter.com/GZidYQF5BM-- Eve Alcock (@EveAlcock) December 19, 20164 women on the same team! That's some sort of #UniversityChallenge record even for an all women's college-- Mike ?? ???? (@mikebirty) December 19, 20165/8 contestants on #UniversityChallenge are female - Brilliant representation!-- Roseanna (@roseannasale) December 19, 2016The St Anne's Oxford team on #UniversityChallenge are slaying. Huge respect.
+			$(document).ready(function() {
+				var s = document.createElement("script");
+				s.type = "text/javascript";
+				s.src = "//delivery.vidible.tv/jsonp/pid=579a0d1888d2ff1b039656f2/564dfd34bbe5c146d4b33c86.js?m.channel=entertainment&amp;m.adminibar=true&amp;m.o2inline=inview";
+				$("#579a0d1888d2ff1b039656f2").html($(s));
+			});
+	    -- Elf-is ? (@EllisReadss) December 19, 2016Team captain Mary Archer was everyone's stand out contestant.(BBC/Screenshot)Mary Archer is good. Very good #universitychallengeThat team seem like they want this-- Fiji Diddy (@damobullimore) December 19, 2016Archer is goals #UniversityChallenge-- Orla Hanratty (@OrlaAHanratty) December 19, 2016Who'd have thought it, I love Mary Archer! #UniversityChallenge-- Katy Greenwood (@katygreenwood) December 19, 2016The Manchester team - including poet Simon Armitage, president of the Paralympic Committee Sir Philip Craven, journalist Sarfraz Manzoor and the Natural History Museums's Erica McAlister will probably be kicking themselves.(BBC/Screenshot)Does Manchester's buzzer work? #UniversityChallenge-- Dave Quirk (@daviequirk) December 19, 2016Are Manchester still on set or have they gone to the bar? #UniversityChallenge-- penny green (@pennygreen3) December 19, 2016I hope Manchester have enjoyed their glasses of water...#UniversityChallenge-- Ashleigh (@Ashleighw13) December 19, 2016But it really did put our post-university achievements into rather harsh perspective.Listening to what these alumni have done makes me realise I've done naff all since leaving university #UniversityChallenge-- Jack Poynter (@JPoynter91) December 19, 2016
+
+
+
+
+Suggest a correction
+
+
+
+Let us send you our Newsletter
+
+Our editors will email you a roundup of their favourite stories from across AOL
+
+
+
+Sign up using your AOL email or use different address
+
+
+
+
+
+
+
+FOLLOW US 
+
+
+
+
+
+
+
+(function(d, s, id) {
+	  var js, fjs = d.getElementsByTagName(s)[0];
+	  if (d.getElementById(id)) return;
+	  js = d.createElement(s); js.id = id;
+	  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8&appId=183146218394780";
+	  fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));
+
+window.twttr = (function(d, s, id) {
+	  var js, fjs = d.getElementsByTagName(s)[0],
+	    t = window.twttr || {};
+	  if (d.getElementById(id)) return t;
+	  js = d.createElement(s);
+	  js.id = id;
+	  js.src = "https://platform.twitter.com/widgets.js";
+	  fjs.parentNode.insertBefore(js, fjs);
+
+	  t._e = [];
+	  t.ready = function(f) {
+	    t._e.push(f);
+	  };
+
+	  return t;
+	}(document, "script", "twitter-wjs"));
+
+
+
+		Tags:
+					Celebrity & Showbiz, 					Featured, 					Jeremy Paxman, 					Mary Archer, 					Showbiz Features, 					Showbiz TV, 					University Challenge 
+
+
+
+-
+
+
+!function(e){var s=e.createElement("script");s.type="text/javascript",s.src="https://s.skimresources.com/js/23150X859347.skimlinks.js",s.id="__skim_links_"+(new Date).getTime()+"__",e.getElementsByTagName("head")[0].appendChild(s)}(document);
+
+
+
+More from the web
+
+
+		var ymlPvnId=false;
+					ymlPvnId='aoluk';
+				if( ymlPvnId != false && !( io_c3sd.taboola && io_c3sd.taboola['pvn-id'] ) ) {
+			io_c3sd.taboola=io_c3sd.taboola||{};
+			io_c3sd.taboola['pvn-id']=ymlPvnId;
+		}
+		if(typeof io_c3sd != "undefined" && typeof io_c3sd.taboola != 'undefined' && typeof io_c3sd.taboola["pvn-id"] === 'string')
+		{	
+			window._taboola = window._taboola || [];
+			_taboola.push({
+				mode: 'thumbnails-a',
+				container: 'taboola-below-article-thumbnails',
+				placement: ( io_c3sd['cobrand'] == "ttguk" ) ?  io_c3sd.taboola["pvn-id"] + ' Thumbnails' :  'Below Article Thumbnails - ' + io_c3sd.taboola["pvn-id"],
+				target_type: 'mix'
+			});
+		}			
+	
+
+	.trc_rbox_container {
+		position: relative;
+		padding-bottom: 20px;
+	}
+	.trc_rbox_header {
+		position: absolute !important;
+		bottom: 0;
+	}
+	.trc_rbox_header_span {
+		display:none;
+	}
+	.video-label-box span {
+		font-family: inherit !important;
+	}
+	.module.mod-type-taboola .thumbnails-a .videoCube:hover .video-label-box .video-title {
+		text-decoration: none !important;
+		border-bottom: 1px solid #0179C7;
+		color: #0179C7;
+		display: inline;
+	}
+	.module.mod-type-taboola .thumbnails-a .videoCube .video-label-box .video-title {
+		font-family: larsseitregular;
+		font-size: 15px;
+		font-weight: 400;
+	}
+	.module.below-the-post .page-title-sub {
+	    margin: auto;
+	    text-align: center;
+	    padding: 0 0 20px 0;
+	    text-transform: uppercase;
+	    font-weight: 900;
+	    letter-spacing: 1px;
+	    font-size: 16px;
+	}
+	html#ttcobrand .module .list-post-link,
+	html#ttcobrand .thumbnails-a .videoCube .video-label-box .video-title {
+		color: #06f;
+	}
+	html#ttcobrand .module .list-post-item:hover .list-post-link,
+	html#ttcobrand .thumbnails-a .videoCube:hover .video-label-box .video-title {
+		text-decoration: underline !important;
+	    border-bottom: none;
+	    color: #06f;
+	    display: initial;
+	}
+	html#ttcobrand .module.mod-type-taboola {
+		display: block !important;
+	}
+	
+
+
+
+
+
+ 
+Read More
+
+
+
+
+
+
+
+
+
+ Visser, Scott and Nel among six recalled by Scotland
+
+
+
+
+
+
+
+
+
+
+
+ Rieder stretchered off as Wasps extend Chiefs' slump
+
+
+
+
+
+
+
+
+
+
+
+ Atletico Madrid will not stop in pursuit of Barcelona, promises Gameiro
+
+
+
+
+
+
+
+
+
+
+
+ Rochdale hero Davies: This is every kid's dream
+
+
+
+
+
+
+Most Watched
+
+
+
+
+
+
+
+
+
+
+                                Lionel Richie on Daughter Sofia Dating Scott Disick: 'It's Just a Phase'
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+                                Emma Stone Enjoys a Fun-Filled Day at Disneyland -- See the Pics!
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+                                Jessica Alba Shares Pic Breastfeeding Her Newborn Son Hayes in a Dressing Room!
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+                                Shannon Elizabeth on Emotional 'Celebrity Big Brother' Eviction: 'They All Turned on Me' (Exclusive)
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+                                Shannon Elizabeth on Emotional 'Celebrity Big Brother' Eviction: 'They All Turned on Me' (Exclusive)
+                            
+
+
+
+
+ 
+
+
+Horoscopes
+18 February
+
+
+Aries
+Taurus
+Gemini
+Cancer
+Leo
+Virgo
+Libra
+Scorpio
+Sagittarius
+Capricorn
+Aquarius
+Pisces
+
+
+
+
+Let us send you our Newsletter
+
+Our editors will email you a roundup of their favourite stories from across AOL
+
+
+
+Sign up using your AOL email or use different address
+
+
+
+
+
+
+
+FOLLOW US 
+
+
+
+
+
+
+
+(function(d, s, id) {
+	  var js, fjs = d.getElementsByTagName(s)[0];
+	  if (d.getElementById(id)) return;
+	  js = d.createElement(s); js.id = id;
+	  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8&appId=183146218394780";
+	  fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));
+
+window.twttr = (function(d, s, id) {
+	  var js, fjs = d.getElementsByTagName(s)[0],
+	    t = window.twttr || {};
+	  if (d.getElementById(id)) return t;
+	  js = d.createElement(s);
+	  js.id = id;
+	  js.src = "https://platform.twitter.com/widgets.js";
+	  fjs.parentNode.insertBefore(js, fjs);
+
+	  t._e = [];
+	  t.ready = function(f) {
+	    t._e.push(f);
+	  };
+
+	  return t;
+	}(document, "script", "twitter-wjs"));
+
+ 
+
+
+
+Most Popular on AOL
+
+
+
+
+
+
+
+
+
+Visser, Scott and Nel among six recalled by Scotland
+
+
+ 
+
+
+
+
+
+
+
+
+
+Rieder stretchered off as Wasps extend Chiefs' slump
+
+
+ 
+
+
+
+
+
+
+
+
+
+Atletico Madrid will not stop in pursuit of Barcelona, promises Gameiro
+
+
+ 
+
+
+
+
+
+
+
+
+
+Rochdale hero Davies: This is every kid's dream
+
+
+ 
+
+
+
+
+
+
+
+
+
+Probe after attack victim found unconscious outside bar
+
+
+ 
+
+
+
+
+
+
+
+AOLEntertainmentAOL Newsletter. Roundups of the best across AOL, hand picked by our editors	and delivered to your inbox.Sign up using your AOL email Use different addressAbout AOLContactAOL UK Terms of UsePrivacy PolicyCookie PolicyFeedbackAdvertising ContactHelpRSSAOL AppAbout Our AdsSupply Chain Transparency
+			Follow AOL:
+												!function(a,b,c){var d,e=a.getElementsByTagName(b)[0];a.getElementById(c)||(d=a.createElement(b),d.id=c,d.src="//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8&appId=183146218394780",e.parentNode.insertBefore(d,e))}(document,"script","facebook-jssdk");window.twttr = (function(d, s, id) {var js, fjs = d.getElementsByTagName(s)[0],t = window.twttr || {};if (d.getElementById(id)) return t;js = d.createElement(s);js.id = id;js.src = "https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js, fjs);t._e = [];t.ready = function(f) {t._e.push(f);};return t;}(document, "script", "twitter-wjs"));© 2018 OATH (UK) Limited its affiliates and licensors 
+
+  $(document).ready(function() {
+    Tea.Application.init({
+      debug: true,
+      host: 'www.aol.co.uk',
+      urls: null,
+      user: null
+    });
+  });
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.show-article-content .bs-photo-credit, .show-article-content .photo-credit{display:none}
+(function(a){try{a("img[data-credit!=''][data-credit]:not(:hidden)").imageCredit({"show-default":"hover","show-touch":true,"show-narrow":false,narrow:767})}catch(err){}}(jQuery));
+
+
+
+
+
+		var _stickyRRailWrapper = $('#rrail-modules-wrapper');_stickyRRailWrapper.length && _stickyRRailWrapper.StickyBTF({"boundaryElement": ".lo-left", "topOffset": 105, "bottomOffset": 20});
+	
+
+
+
+
+
+
+
+		(function($){
+			$('.aol-newsletter').length && AOLUK.NewsLetterSignup("https://aol123.createsend.com/t/t/s/qjdllu/","cm-qjdllu-qjdllu");
+					}(jQuery));
+	
+
+$(function(){
+
+    // Enable carousels generated by listpost
+	$(".xd-carousel").length && $(".xd-carousel").each(function() {
+	   $(this).xdCarousel($(this).data("carousel"));
+    })
+
+    // Apply programmatic responsive changes
+    var _responsiveClassChanges = function() {
+		$("[data-responsive]").each(function() {
+            var $this = $(this);
+            var responsiveSettings = $this.data("responsive");
+            for(var matchingLayouts in responsiveSettings) {
+                if(DI.currentLayout.match(new RegExp(matchingLayouts,"mig"))) {
+                    $this.removeClass().addClass(responsiveSettings[matchingLayouts]);
+                }
+            }
+        });
+    }
+
+    // Add device css class to body on change
+    $body = $("body");
+    DI.currentLayout = DI.activeLayout();
+    $body.addClass("device-"+DI.currentLayout);
+    _responsiveClassChanges(); // apply responsive changes on load
+    // and listen for future layout changes
+    $(window).resize(function() {
+        if(DI.activeLayout()!= DI.currentLayout) {
+            $body.removeClass("device-"+DI.currentLayout);
+            DI.currentLayout = DI.activeLayout();
+            $body.addClass("device-"+DI.currentLayout);
+			_responsiveClassChanges();
+        }
+    })
+
+    // Generic tab controls
+    $('[data-tab-control]').each(function(){
+        var $this = $(this);
+        var $contentPages=$($this.data("tab-control"));
+        $contentPages.addClass("tab-content");
+        $tabs=$this.find("a");
+        $tabs.click(function(e){
+            e.preventDefault();
+            $tabs.removeClass("selected");
+            $contentPages.removeClass("selected");
+            $(this).addClass("selected");
+            $contentPages.filter($(this).attr("href")).addClass("selected");
+        });
+    });
+
+    // Taboola
+	window._taboola = window._taboola || [];
+	_taboola.push({flush: true});
+
+});
+
+
+
+
+
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function()
+{n.callMethod? n.callMethod.apply(n,arguments):n.queue.push(arguments)}
+;if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1112906175403201'); // Insert your pixel ID here.
+fbq('track', 'PageView');
+
+
+
+ 
+(function($) {
+
+	Array.prototype.getUnique=function(y){var x=1,t,r={},i=this.length,n=[];for(t=0;i>t;t+=1)r[this[t]]=this[t];for(t in r){n.push((y!==undefined&&((y==='i'&&x||y)+'|')||'')+r[t]);x++}return n};
+
+	function dataLayerTracker() {
+
+		var $allBeacons = $('[data-beacon][data-beacon^="{"][data-beacon$="}"]:not([data-ignore-for-vanity]):not(:hidden)'),
+			has = 'hasOwnProperty',
+			all_mnids = $allBeacons.map(function() {
+
+				var beacon = $(this).data('beacon');
+				beacon = typeof beacon === "object" && beacon || $.parseJSON(beacon);
+
+				if (beacon[has]('p') && beacon['p'][has]('mnid') && $.trim(beacon['p']['mnid']) !== '') {
+					return beacon['p']['mnid'];
+				}
+			}),
+			dl_brand = io_c3sd && io_c3sd.omniture && io_c3sd.omniture.prop17 || "aoluk",
+			dl_site = io_c3sd && io_c3sd.omniture && io_c3sd.omniture.prop21 || "portal";
+			all_mnids = $.makeArray(all_mnids).getUnique(-77).join(',');
+
+		bN_cfg = {
+			h: [location.hostname],
+			b: "b.aol.com",
+			p: [
+				["dL_ch", "uk.aolcoment"],
+				["dL_dpt", "acm\x3A\x20article"],
+				["dL_sDpt", "acm\x3A\x20main"],
+								["dL_filedUnder", "tv"],
+				["dL_tags", "celebrity\x2D\x26\x2Dshowbiz,featured,jeremy\x2Dpaxman,mary\x2Darcher,showbiz\x2Dfeatures,showbiz\x2Dtv,university\x2Dchallenge"],
+								["dL_EU_brandType", dl_brand],
+				["dL_EU_ClientvsPortal", dl_site],
+				["dL_cmsID", "bsd\x3A21631176"],
+				["cms_src", "eu-aol.com"],
+				["template", "default.layout.twig"],
+				["cobrand", "amp\x2Duk"],
+				["plids", all_mnids, 1],
+				["Custom04", (io_c3s && io_c3s.used_layout || 'desktop')]
+			],
+			upgradeIE: false
+		};
+
+		var getScript = typeof $.getJS === "function" && $.getJS || $.getScript;
+		getScript('//s.aolcdn.com/os/aol/beacon.min.js', onBeaconLoad);
+		
+		//Creating multivariate tracking beacon
+		function onBeaconLoad() {
+			var plids = [], mvts = [];
+			$('.mv-bN').each(function () {
+				var beaconData = $(this).attr('data-beacon');
+				if (beaconData !== '') {
+					beaconData = JSON.parse(beaconData);
+					if (beaconData.p && beaconData.p.plid && beaconData.p.mvt) {
+						plids.push(beaconData.p.plid);
+						mvts.push(beaconData.p.mvt);
+					}
+				}
+			});
+			if (mvts.length > 0) {
+				bN.set('plids', plids.join(';'), true);
+				bN.set('mvts', mvts.join(';'), true);
+				bN.ping('mlt');
+			}
+		};
+	}
+	$(document).ready(function() {
+		dataLayerTracker();
+	});
+
+}(jQuery));
+ 
+
+{"isEnabled":true}
+
+
+

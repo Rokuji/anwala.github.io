@@ -1,0 +1,886 @@
+https://www.npr.org/sections/thetwo-way/2016/08/31/492177267/obama-at-lake-tahoe-praises-conservation-efforts?source=socnet_tw_cc_20160906_bo_npr-article_conservation_2&utm_medium=socnet&utm_source=tw&utm_campaign=socnet_tw_cc_20160906_bo_npr-article_conservation_2&utm_content=20160906_bo_npr-article_conservation_2
+
+   try {var _sf_startpt=(new Date()).getTime();} catch(e){}
+
+Obama At Lake Tahoe Praises Conservation Efforts : The Two-Way : NPR
+   window.NPR = window.NPR || {};
+NPR.ServerConstants = {"cbHost":"npr.org","webHost":"https:\/\/www.npr.org","embedHost":"https:\/\/www.npr.org","webHostSecure":"https:\/\/secure.npr.org","apiHost":"https:\/\/api.npr.org","staticAssetHost":"https:\/\/s.npr.org","serverMediaCache":"https:\/\/media.npr.org","googleAnalyticsAccount":"UA-5828686-4","gtmKey":"GTM-K9RKM5","nielsenSFCode":"dcr","nielsenAPN":"NPR-dcr"};
+NPR.serverVars = {"storyId":"492177267","facebookAppId":"138837436154588","webpackPublicPath":"https:\/\/s.npr.org\/templates\/javascript\/dist\/bundles\/","persistenceVersion":"922f126a5fe5fbd55eece3d4cf7ae74b","isBuildOut":true,"topicIds":["P1003","1001","1002","1007","1025"],"primaryTopic":"National","topics":["National","News","Home Page Top Stories","Science","Environment"],"blog":"The Two-Way","theme":"103943429","aggIds":["1001","1002","1003","1007","1025","103943429","125938077","126928281","127602855"],"tagIds":["President Barack Obama","climate change"],"byline":["Richard Gonzales"],"pubDate":"2016083121","pageTypeId":"1","title":"Obama At Lake Tahoe Praises Conservation Efforts","publisherOrgId":"1","rocketfuelCode":20501671};
+
+
+
+
+   !function(e){function c(a){if(d[a])return d[a].exports;var f=d[a]={exports:{},id:a,loaded:!1};return e[a].call(f.exports,f,f.exports,c),f.loaded=!0,f.exports}var a=window.webpackJsonp;window.webpackJsonp=function(b,t){for(var n,r,o=0,i=[];o<b.length;o++)r=b[o],f[r]&&i.push.apply(i,f[r]),f[r]=0;for(n in t){var s=t[n];switch(typeof s){case"object":e[n]=function(c){var a=c.slice(1),d=c[0];return function(c,f,b){e[d].apply(this,[c,f,b].concat(a))}}(s);break;case"function":e[n]=s;break;default:e[n]=e[s]}}for(a&&a(b,t);i.length;)i.shift().call(null,c);if(t[0])return d[0]=0,c(0)};var d={},f={22:0};c.e=function(e,a){if(0===f[e])return a.call(null,c);if(void 0!==f[e])f[e].push(a);else{f[e]=[a];var d=document.getElementsByTagName("head")[0],b=document.createElement("script");b.type="text/javascript",b.charset="utf-8",b.async=!0,b.src=c.p+""+e+"."+{0:"0a717c45cbda754dee03",1:"64c309b2e27a15d90040",2:"bd40ed403cefebc443a7",3:"fc03ddc26d3e6120522e",4:"12e8f597f716c404ca21",5:"74159041d155cb89fea8",6:"a32d7212b1a161a04f81",7:"1e2ed060720442d3ccc7",8:"1f3592ddeae232f9e01f",9:"c6ed6c1a54a93bc8847e",10:"e7ecea70fd87c07fcf01",11:"544a47b5572c187587e0",12:"51f75b91dcb5b85eb800",13:"d5d3eaee41289bd0e5a6",14:"55ed1ff3d9588722ab75",15:"58b7041890c6c65f6c82",16:"a3eab3c832128d6a5a09",17:"0ccf649f80f190d25a34",18:"cd7c16540b46f83432a9",19:"50e5d932d2b06d1ee9c8",20:"c329ec8733f94c6e3326",21:"3d3e0b6e7e534c0e5a65",23:"50aae6a27ab3ec1612f8",24:"63ab92b3363eab4cc5e8",25:"d09f59e5f25e5a7f1630",26:"2f3e77b8665e0f7ad2db",27:"cee7451589dde66a95f1",28:"0f6093c98245978c42b1",29:"81a8a8607466b00bce69",30:"3d9bc2ec0485138c2c19",31:"8d52f2726f6f3c2d309e",32:"d4ecb2be23e8c5cea318",33:"7362d35511039496bff4",34:"ffd16fb3bed1a9dd1763",35:"dbb0156f462f698783d5",36:"cf32f6e6f210a07638f8",37:"8498a043e0353efb1635",38:"4dc88e20e921dcea2c6f",39:"397ba15a24b02d497a1c",40:"7acdd26901b6f61704bd",41:"72586922ae5838fe3686",42:"2cf83a63179d5f678033",43:"b83cbedc4b62aaf9f551",44:"81ed09c988441c5a320d",45:"7acff8bfadf058f63bc1",46:"3628f2ec68d40c297422",47:"095976b8d527b6dd25c7",48:"7aa7b764ef53c6ba4dc8",49:"4d53e3abd175a6d2c751",50:"aab262b0d543a8350d22",51:"8c26e480ae9ebe074bd5",52:"0a6fe6344f11df2e5efb",53:"32208f94fd75fdf523ed",54:"7ec924790c36ba62fd99",55:"de53e98293944c3a0dae",56:"3129dd607df9ceaed018",57:"c104a39866d4e4d480dd",58:"2356656be29ad138c7c4",59:"27e8c24a212df4b11fe1",60:"563b6c999ff16ddea2ff",61:"52f1cd4e2b6bdfb2799e",62:"f9100259e8dc4610eb81",63:"26027c15267cace3910f",64:"8ed9707572ab098f8a5e",65:"047d9a59a90683165308",66:"d72eec1a4f2d7be27dc6",67:"f24cbde74958e8491c12",68:"d133ed7f0fceb5b72d2d",69:"169ae388d175c1eb4096",70:"f951cbcd5c4ddea0b9fa",71:"3de197813163998c2684",72:"31a1bfe54b1785f046f8",73:"95641818bf88f1833e44",74:"7b7838b2aee646ae2a99",75:"e28c65c8607b9bd3da02"}[e]+".chunk.js",d.appendChild(b)}},c.m=e,c.c=d,c.p="/templates/javascript/dist/bundles/"}(function(e){for(var c in e)if(Object.prototype.hasOwnProperty.call(e,c))switch(typeof e[c]){case"function":break;case"object":e[c]=function(c){var a=c.slice(1),d=e[c[0]];return function(e,c,f){d.apply(this,[e,c,f].concat(a))}}(e[c]);break;default:e[c]=e[e[c]]}return e}([]));
+
+
+   document.domain="npr.org";
+
+
+Accessibility links
+
+Skip to main content
+Keyboard shortcuts for audio player
+
+
+
+
+View Navigation
+
+
+
+NPR
+
+
+
+
+NPR
+
+
+
+
+NPR Music
+
+
+
+
+NPR Books
+
+
+
+
+NPR About
+
+
+
+
+
+NPRPodcast Directory
+
+
+
+Search
+
+Toggle search
+
+
+
+
+
+
+
+
+
+NPR Home
+
+
+
+
+News
+Arts & Life
+Music
+Topics
+
+
+                            Programs & Podcasts
+
+
+
+
+
+
+NPR Music
+
+Genres
+
+New Music
+
+
+Concerts & Videos
+
+
+Articles & Lists
+
+
+Tiny Desk
+
+
+
+
+
+NPR Books
+
+
+Author Interviews
+
+
+Find Books
+
+
+Reviews
+
+
+
+
+
+About NPR
+
+
+Overview
+
+
+Connect
+
+
+Support
+
+
+Press
+
+
+Careers
+
+
+
+
+
+Podcast Directory
+
+
+Categories
+
+
+
+
+
+
+
+
+
+
+NPR Shop
+
+
+
+
+
+
+
+
+Back
+
+News
+
+National
+World
+Politics
+Business
+Technology
+Science
+Health
+Race & Culture
+Education
+
+
+
+Arts & Life
+
+Books
+Movies
+Pop Culture
+Food
+Art & Design
+Performing Arts
+Photography
+
+
+
+Music
+
+First Listen
+Songs We Love
+Music Articles
+Tiny Desk
+Videos
+
+
+
+More
+
+Our Blogs
+Corrections
+All About NPR
+
+
+
+
+Back
+
+News & Conversations
+
+Morning Edition
+All Things Considered
+Fresh Air
+Here & Now
+1A
+Code Switch
+Embedded
+The Indicator from Planet Money
+It's Been a Minute with Sam Sanders
+Latino USA
+NPR Politics Podcast
+On Point
+Rough Translation
+Up First
+Weekend Edition Saturday
+Weekend Edition Sunday
+What's Good with Stretch & Bobbito
+Youth Radio
+
+
+
+Storytelling & Humor
+
+Ask Me Another
+The Best Of Car Talk
+The Big Listen
+Bullseye
+Hidden Brain
+How I Built This
+Invisibilia
+Only A Game
+Planet Money
+Pop Culture Happy Hour
+Radio Ambulante
+StoryCorps
+TED Radio Hour
+Wait Wait...Don't Tell Me!
+Wow in the World
+
+
+
+Music
+
+First Listen
+All Songs Considered
+Songs We Love
+Tiny Desk
+Alt.Latino
+From The Top
+Jazz Night In America
+Mountain Stage
+Piano Jazz
+The Thistle & Shamrock
+World Cafe
+
+
+
+More
+
+All Programs
+Podcast Directory
+
+NPR Podcasts
+
+
+
+
+
+
+
+Back
+
+Rock
+Pop
+Jazz
+Classical
+Hip-Hop
+R&B/Soul
+Folk
+Latin
+World
+Electronic/Dance
+
+
+
+Back
+
+First Listen
+Songs We Love
+All Songs Considered
+Reviews
+Music Videos
+
+
+
+Back
+
+Tiny Desk
+Live Concerts
+Field Recordings
+Studio Sessions
+Music Documentaries
+Music Videos
+Festival Recordings
+
+
+
+Back
+
+Articles
+Interviews
+Quizzes
+Music Lists
+Best Music of the Year
+
+
+
+
+
+Back
+
+
+Art & Design
+Arts & Entertainment
+Biography & Memoir
+Business & Economy
+Children's Books
+Comedy
+Comics & Graphic Novels
+Digital Culture
+
+
+
+
+Faith & Spirituality
+Food & Wine
+History & Society
+Historical Fiction
+Horror & Supernatural
+Literary Fiction
+Mystery & Thrillers
+Parenting & Families
+
+
+
+
+Poetry
+Politics & Public Affairs
+Romance
+Science Fiction & Fantasy
+Science & Health
+Sports
+Travel
+Young Adult
+
+
+
+
+Nonfiction
+Fiction
+
+
+
+
+Back
+
+Book Reviews
+This Week's Must Read
+My Guilty Pleasure
+Three Books...
+PG-13: Risky Reads
+You Must Read This
+Summer Books
+Best Books of the Year
+
+
+
+
+
+Back
+
+Overview
+Overview and History
+Mission and Vision
+Stations and Public Media
+NPR Finances
+People
+Ethics
+Awards
+
+
+
+Back
+
+Visit NPR
+NPR Presents
+Studio 1 Events
+Generation Listen
+Book a Speaker
+Request Permissions
+Ways to Listen
+NPR Extra Blog
+Email Newsletters
+Shop NPR
+Get Help
+Contact Us
+
+
+
+Back
+
+Support Public Radio
+Corporate Sponsorship
+Volunteer
+
+
+
+Back
+
+Releases and Statements
+Photos and Logos
+Fact Sheet (PDF)
+Media Relations Contacts
+
+
+
+Back
+
+Careers at NPR
+Search Jobs
+Culture
+Applying
+Interns
+Fellows
+Digital
+
+
+
+
+
+Back
+
+
+Arts
+Business
+Comedy
+Education
+Games & Hobbies
+Government & Organizations
+Health
+Kids & Family
+
+
+
+
+Music
+
+News & Politics
+Religion & Spirituality
+Science & Medicine
+Society & Culture
+Sports & Recreation
+Technology
+TV & Film
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NPR Shop
+
+
+
+
+
+
+
+Obama At Lake Tahoe Praises Conservation Efforts : The Two-Way The president warns that climate change can undermine decades-long conservation efforts. He spoke at an annual summit that brings people together to discuss how to keep Lake Tahoe blue.
+
+
+
+
+
+
+
+
+Obama At Lake Tahoe Praises Conservation Efforts
+
+
+ 
+
+The Two-Way
+Breaking News From NPR
+
+
+
+
+
+
+
+
+
+
+America
+International
+Economy
+Must Reads
+Contact Us
+
+
+
+
+Follow
+Facebook
+
+
+
+
+
+
+
+America
+
+
+
+Obama At Lake Tahoe Praises Conservation Efforts
+
+
+
+
+
+
+
+
+
+Facebook
+Twitter
+Flipboard
+Email
+
+
+
+
+
+
+
+
+
+August 31, 20169:11 PM ET
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      Richard Gonzales
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Enlarge this image
+
+
+
+
+
+
+                A kayaker paddles along Zephyr Cove, near the site of the 20th Annual Lake Tahoe Summit in south Lake Tahoe, Nev. President Obama said the environmental challenges of conservation and fighting climate change are inseparably linked.
+                
+                
+                    
+                    Rich Pedroncelli/AP
+                    
+                
+hide caption
+
+
+toggle caption
+
+
+        
+        Rich Pedroncelli/AP
+        
+    
+
+
+
+
+
+
+
+
+A kayaker paddles along Zephyr Cove, near the site of the 20th Annual Lake Tahoe Summit in south Lake Tahoe, Nev. President Obama said the environmental challenges of conservation and fighting climate change are inseparably linked.
+
+            
+            Rich Pedroncelli/AP
+            
+        
+
+
+
+Against the backdrop of the picturesque Lake Tahoe, President Obama said environmental conservation is a key part of fighting the impact of global warming. Obama spoke on the first of a two-day environmental tour at an annual summit designed to keep the health of Lake Tahoe a priority for the federal government and the states it borders, Nevada and California. "We embrace conservation because healthy and diverse lands and waters help us build resilience to climate change," the president said. "We do it to free more of our communities and plants and animals and species from wildfires, and droughts, and displacement. We do it because when most of the 4.5 million people who come to Lake Tahoe every year are tourists, economies like this one live or die by the health of our natural resources." The president then quoted an unnamed former leader of the Washoe Tribe (which has called Lake Tahoe home for thousands of years): "The health of the land and the health of the people are tied together, and what happens to the land also happens to the people." Lake Tahoe, sometimes called "the Jewel of the Sierra", is 22 miles long and 12 miles wide. It contains so much water that if it were emptied it would cover the entire state of California with one foot of water. 
+
+ 
+
+ Its stunningly clear, cobalt-blue water is legendary. Mark Twain wrote of the water in his 1872 semi-autobiographical novel, Roughing It. "Down through the transparency of these great depths, the water was not merely transparent, but dazzlingly, brilliantly so," he wrote. But development, storm water runoff, pollution, warming water and algae, to name but a handful of factors, have all combined to reduce Tahoe's fabled clarity. In 1968, researchers could see a disk lowered into the water at a depth of 102.4 feet. By 1997, they could see only down to 68 feet. That was the year President Bill Clinton visited to inaugurate the Lake Tahoe Summit, which annually draws national, state, and local leaders, researchers, and residents together to discuss ways to "Keep Tahoe Blue." The federal government has since spent about $2 billion on the health of the lake and the surrounding environment. Obama announced that the Department of Interior will spend nearly $30 million on wildfire prevention at Tahoe this year.
+
+
+
+President Barack Obama
+climate change
+
+
+
+
+
+Facebook
+Twitter
+Flipboard
+Email
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Two-Way
+Breaking News From NPR
+
+
+
+
+
+
+
+The Two-Way
+Breaking News From NPR
+
+
+
+
+
+
+
+About
+
+
+
+The Two-Way is the place to come for breaking news, analysis and for stories that are just too interesting – or too entertaining – to pass up. Get in touch with your questions, comments and leads.
+
+
+
+
+
+
+
+
+Subscribe
+
+
+Follow Bill
+Follow Camila
+Follow Colin
+Follow Merrit
+Facebook
+RSS
+
+
+
+
+
+NPR Twitter
+
+
+
+Follow @NPR
+
+
+
+
+
+
+ 
+
+
+NPR thanks our sponsorsBecome an NPR sponsor
+
+
+
+
+
+
+
+
+
+
+
+Homepage
+
+
+News
+
+National
+World
+Politics
+Business
+Technology
+Science
+Health
+Race & Culture
+Education
+
+
+
+Arts & Life
+
+Books
+Movies
+Pop Culture
+Food
+Art & Design
+Performing Arts
+Photography
+
+
+
+Music
+
+First Listen
+Songs We Love
+Music Articles
+Tiny Desk
+Videos
+
+
+
+Programs
+
+
+About
+
+NPR Overview
+NPR Finances
+People at NPR
+Support NPR
+Visit NPR
+Press Room
+NPR Extra Blog
+Careers at NPR
+Corrections
+NPR Ombudsman
+Permissions
+
+
+
+
+
+
+
+Help
+Contact
+Terms of Use
+Privacy
+Sponsorship Choices
+Text Only
+
+
+
+
+   (function () {
+    var loadPageJs = function () { webpackJsonp([72,22],{0:function(n,t,c){n.exports=c(1271)},1271:function(n,t,c){"use strict";c.p=NPR.serverVars.webpackPublicPath,function(){var n=2,t=function(){--n<1&&function(n){c(21),c(1339),c(139),c(369),c(107),c(262),c(161),c(1344),c(160),c(1343),c(1342),c(583),c(165)}(c)}.bind(this);c.e(0,t),c.e(2,t)}.call(this)}}); };
+    if (document.readyState === 'complete') {
+        loadPageJs();
+    } else {
+        window.addEventListener('load', function load() {
+            window.removeEventListener('load', load, false);
+            loadPageJs();
+        });
+    }
+})();
+
+
+
+
+    (function(global) {
+        if (typeof TTDUniversalPixelApi === 'function') {
+            var universalPixelApi = new TTDUniversalPixelApi();
+            universalPixelApi.init("vflsioo", ["gkjeidp"], "https://insight.adsrvr.org/track/up", "ttdUniversalPixelTag53f1888d7923458abf666fadbafb67b0");
+        }
+    })(this);
+
+
+
+   /* <![CDATA[ */
+var google_conversion_id = 824814092;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+
+
+
+
+
+
+    var _sf_async_config = _sf_async_config || {};
+    /** CONFIGURATION START **/
+    _sf_async_config.uid = '18888';
+    _sf_async_config.domain = NPR.ServerConstants.cbHost;
+    _sf_async_config.useCanonical = true;
+
+    /** CONFIGURATION END **/
+    (function() {
+        function loadChartbeat() {
+            window._sf_endpt = (new Date()).getTime();
+            var e = document.createElement('script');
+            e.setAttribute('language', 'javascript');
+            e.setAttribute('type', 'text/javascript');
+            e.setAttribute('src', 'https://static.chartbeat.com/js/chartbeat.js');
+            document.body.appendChild(e);
+        }
+        var oldonload = window.onload;
+        window.onload = (typeof window.onload != 'function') ?
+                loadChartbeat : function() {
+            oldonload();
+            loadChartbeat();
+        };
+    })();

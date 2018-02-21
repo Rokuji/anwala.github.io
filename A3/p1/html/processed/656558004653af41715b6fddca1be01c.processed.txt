@@ -1,0 +1,714 @@
+http://www.aljazeera.com/programmes/upfront/2016/12/iran-backing-syria-bashar-al-assad-161202082853119.html
+
+
+
+
+
+Why is Iran backing Syria's Bashar al-Assad? | Iran | Al Jazeera
+
+
+var _sf_startpt=(new Date()).getTime()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+window.rsConf = {settings: {hlicon: 'iconoff'}};
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Created with Sketch.             Watch Live 
+
+
+
+
+
+
+
+
+
+
+
+
+				 
+
+
+
+
+
+
+					 
+
+
+Now Playing
+
+ Watch
+
+
+
+ 
+
+ Listen
+
+
+
+TV Schedule
+
+
+
+
+
+
+ Live 
+
+submit
+
+
+
+
+
+
+
+
+
+al jazeera
+menu
+ 
+
+
+
+submit
+
+
+Home
+NewsMore
+
+
+Middle East
+Africa
+Asia
+US & Canada
+
+
+
+
+Latin America
+Europe
+Asia Pacific
+All
+
+
+
+
+Middle East
+DocumentariesMore
+
+
+Featured Documentaries
+Witness
+Al Jazeera World
+101 East
+
+
+
+
+People & Power
+Fault Lines
+My Tunisia
+Al Jazeera Selects 
+Al Jazeera Correspondent
+REWIND
+All
+
+
+
+
+ShowsMore
+
+
+Inside Story
+The Stream
+The Listening Post
+Talk to Al Jazeera
+
+
+
+
+The Big Picture
+Counting the Cost
+UpFront
+earthrise
+Empire
+All
+
+
+
+
+Investigations
+Opinion
+In Pictures
+MoreMore
+
+
+Features
+Investigations
+In Pictures
+Interactive
+
+
+
+
+Interactive Documentaries
+AJ Shorts
+Podcasts
+Reporter's Notebook
+Human Rights
+Sport
+Science & Technology
+Weather
+
+
+
+
+
+
+
+Trending:
+Ethiopia
+Donald Trump
+Gun control
+Zimbabwe
+Syria's Civil War
+
+
+
+
+
+
+
+
+Most Searched
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+googletag.cmd.push(function() { 
+googletag.display('div-gpt-ad-1430377943388-2'); 
+});
+
+
+
+
+
+
+        .oryx-bg {
+        background-image: url(/mritems/Images/2015/8/17/1f735ca175bd440d9f36e154be17633d_6.jpg);
+        }
+      
+
+Home
+Episodes
+Reality Check
+Web Extras
+Why is Iran backing Syria's Bashar al-Assad?
+
+We speak to Iranian Vice President Masoumeh Ebtekar; and Slavoj Zizek defends his stance on refugees in Europe.
+02 Dec 2016 15:17 GMT Syria's Civil War, Iran, Politics, War & Conflict
+
+RenderPagesVideo('5231935038001', 0, '100%', 473, 'vdoContainer');From this Episode
+Iran VP: Syria war images 'bother me'
+
+Aung San Suu Kyi's shameful silence on the Rohingya
+
+Slavoj Zizek on a 'clash of civilisations'
+
+Web extra: Iran 'serious' about fighting climate change
+In this week's UpFront, Mehdi Hasan speaks to Iranian Vice President and Head of Iran's Environmental Protection Organisation, Masoumeh Ebtekar, on her country's support for Bashar al-Assad in Syria, and Iran's advances in the fight against climate change.
+In the Reality Check, we look into how the president of newly democratic Myanmar, Aung San Suu Kyi, is turning a blind eye to the violence against the country's Muslim Rohingya population.
+And in the Arena, cultural critic and philosopher Slavoj Zizek defends his stance on the European refugee crisis.
+Headliner - Iran VP: Syria war images 'bother me'
+Since the Arab Spring began in 2011, Iran has declared support for the uprisings in Egypt, Libya and Bahrain.
+But in Syria, hundreds of thousands have been killed and millions displaced, yet Iran continues to support President Bashar al-Assad.
+Iranian Vice President Masoumeh Ebtekar says the "people of Syria" have the "right to decide", and blames "foreign powers arming terrorist groups" in the war-torn country.
+"This is something that has to be addressed," says Ebtekar. "I think the people of Syria should be supported in terms of their struggle against terrorism."
+In this week's Headliner, Mehdi Hasan talks to the Iranian vice president and head of Iran's Environmental Protection Organisation.
+Reality Check - Aung San Suu Kyi's shameful silence on Rohingya
+In Myanmar, violent attacks on the Muslim Rohingya have left hundreds dead and hundreds of thousands displaced.
+Is Myanmar's de facto leader, Aung San Suu Kyi, turning a blind eye to the violence?
+In this week's Reality Check, Mehdi Hasan shows how Myanmar's leadership is in denial when it comes to recognising the Rohingya.
+Arena - Slavoj Zizek on a 'clash of civilisations'
+Europe is home to more than 1.3 million refugees, mostly from Africa and the Middle East, with thousands more coming every month.
+Some are calling the refugees incompatible with European values, and a few governments have begun passing anti-immigration laws in response.
+Philosopher and cultural critic Slavoj Zizek, who also calls for more scrutiny of the refugees, says that while most of the refugees are caused by "European geopolitical games", there needs to be "clearly established" rules before accepting any more.
+"I want even more refugees. I only want rules to be clearly established," says Zizek. "In spite of all the differences, there is some minimum Western notion of human rights, freedom, equality."
+In this week's Arena, Mehdi Hasan challenges the Slovenian thinker.
+Follow UpFront on Twitter @AJUpFront and Facebook.Source: Al Jazeera News
+
+
+Tell us what you think
+
+
+
+{
+    "@context": "http://schema.org",
+        "@type": "Article",
+    
+        "mainEntityOfPage": "http://www.aljazeera.com/programmes/upfront/2016/12/iran-backing-syria-bashar-al-assad-161202082853119.html",
+        "headline": "Why is Iran backing Syria's Bashar al-Assad?",
+    "datePublished": "02 Dec 2016 08:51 GMT",
+    "dateModified": "02 Dec 2016 15:17 GMT",
+    "description": "We speak to Iranian Vice President Masoumeh Ebtekar; and Slavoj Zizek defends his stance on refugees in Europe.",
+    "author": {
+    "@type": "Organization",
+    "name": "Al Jazeera"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Al Jazeera",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "http://www.aljazeera.com/mritems/assets/images/AJLOGOGOOGLE.png",
+        "width": 250,
+        "height": 40
+      }
+    }, 
+    "image": {
+        "@type": "ImageObject",
+        "url": "http://www.aljazeera.com/mritems/imagecache/mbdxxlarge/mritems/Images/2016/12/2/3dc434b24342461cbae7d0349143b2ba_18.jpg",
+            "height": 450,
+            "width": 800
+    }
+}
+
+
+{
+  "@context": "http://schema.org",
+  "@type": "VideoObject",
+          "name": "Why is Iran backing Syria's Bashar al-Assad?",
+  "description": "We speak to Iranian Vice President Masoumeh Ebtekar; and Slavoj Zizek defends his stance on refugees in Europe.",
+  "thumbnailUrl": "http://www.aljazeera.com/mritems/imagecache/mbdxxlarge/mritems/Images/2016/12/2/3dc434b24342461cbae7d0349143b2ba_18.jpg",
+  "uploadDate": "02 Dec 2016 15:17 GMT",
+      "publisher": {
+      "@type": "Organization",
+      "name": "Al Jazeera",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "http://www.aljazeera.com/mritems/assets/images/AJLOGOGOOGLE.png",
+        "width": 250,
+        "height": 40
+      }
+    }
+}
+
+
+
+
+      Commenting has been disabled. To find out more, click      
+      here.
+     
+
+
+MORE FROM AL JAZEERA
+Revival: The Muslim Response to the Crusades
+This part of 'The Crusades: An Arab Perspective' explores the birth of the Muslim revival in the face of the Crusades.
+Religion, Islam, Christianity
+
+Is Mexico the most dangerous country on earth?
+Or does it just suffer from the misfortune of being a neighbour of the US?
+Mexico, United States, Drug cartels
+
+Africa is not poor, we are stealing its wealth
+It's time to change the way we talk and think about Africa. 
+Africa, Corruption, Aid
+
+Myanmar: Who are the Rohingya?
+Why are the more than one million Rohingya in Myanmar considered the 'world's most persecuted minority'?
+Rohingya, Humanitarian crises, Myanmar
+Related
+The Disappeared of Syria
+A look at the invisible weapon of Bashar al-Assad's regime: the kidnapping and torture of tens of thousands of Syrians.
+Syria's Civil War, Bashar al-Assad, Middle East
+
+Has the UN failed in Syria?
+We ask Staffan de Mistura, the UN special envoy for Syria.
+Syria's Civil War, UN, War & Conflict
+Latest News
+Iran denies 'hegemon' plans, denounces Saudi and Israel
+Saudi Arabia urges 'fundamental change in Iranian regime' as Tehran's foreign minister calls foes 'US client states'. 
+Middle East, Israel, Saudi Arabia, Iran
+
+12 ISIL widows sentenced to death, life by Iraqi court
+A dozen foreign women who joined ISIL husbands while fighting in Iraq sentenced by a court in Baghdad. 
+Iraq, ISIS, Middle East
+Trending
+
+Canada deports North Korean asylum seekers
+12 ISIL widows sentenced to death, life by Iraqi court
+Iran denies 'hegemon' plans, denounces Saudi and Israel
+Iran plane crash kills all 66 people on board
+How Navalny changed the rules of the game in Russia
+Revival: The Muslim Response to the Crusades
+Iran and India sign deal to deepen relations
+Africa is not poor, we are stealing its wealth
+What triggered unrest in Ethiopia?
+How far will Robert Mueller's investigation go?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MUST-SEE PROGRAMMESPeople & PowerUkraine: A dangerous gameAs crucial elections approach, is Ukraine really as divided as people have been told?Crimea, Ukraine, RussiaGaddafi: The EndgameLibya: State of DenialThe story of the fall of Gaddafi as told by the insiders, defectors and military advisers who helped bring it about.Muammar Gaddafi, Libya, PoliticsTalk to Al JazeeraHailemariam Desalegn: Democracy 'not only an election'The Ethiopian prime minister discusses democracy, human rights, press freedom and the future of his country.Politics, Human Rights, EthiopiaProgrammesBahrain: Shouting in the DarkThe story of the Arab revolution that was abandoned by the Arabs, forsaken by the West and forgotten by the world.Bahrain, Middle East, Arab Spring
+
+
+
+
+
+
+
+ 
+
+
+News
+
+Programmes
+
+Opinion
+
+About
+
+Investigations
+
+Contact Us
+
+Video
+
+
+
+Facebook
+
+Twitter
+
+Google+
+
+RSS
+
+Podcast
+
+YouTube
+
+SnapChat
+
+
+
+			© 2017 Al Jazeera Media Network
+
+
+
+
+
+					About
+
+
+About Us
+
+Press Office
+
+Awards
+
+Code of Ethics
+
+Terms and Conditions
+
+Community Guidelines
+
+Work for us
+
+HR Quality
+
+
+
+
+					Connect
+
+
+Contact Us
+
+Apps
+
+Social
+
+Channel Finder
+
+TV Schedule
+
+Podcasts
+
+Newsletter
+
+
+
+
+
+
+					Our Channels
+
+
+Al Jazeera Arabic
+
+Al Jazeera English
+
+Al Jazeera Mubasher
+
+Al Jazeera Documentary
+
+Al Jazeera Balkans
+
+AJ+
+
+
+
+
+					Our Network
+
+
+Jetty
+
+Al Jazeera Centre for Studies
+
+Al Jazeera Media Institute
+
+Al Jazeera Centre for Public Liberties & Human Rights
+
+Al Jazeera Forum
+
+Al Jazeera Film Festival
+
+Al Jazeera Learning
+
+Al Jazeera Hotel Partners
+
+
+
+
+
+
+					 
+
+
+
+
+
+					© 2018 Al Jazeera Media Network
+
+
+
+
+
+	 
+
+
+
+
+
+
+
+
+ 
+        $(function() {   
+            $('img.lazy').lazy({
+                effect: "fadeIn",
+                effectTime: 1000,
+		defaultImage: "http://www.aljazeera.com/img/nov-2016/novresptopfeature.jpg",
+		visibleOnly: true
+                
+            });
+        });
+
+    
+
+
+
+
+googletag.cmd.push(function() { 
+googletag.display('div-gpt-ad-1430377943388-0'); 
+});
+
+
+
+
+
+
+	
+googletag.cmd.push(function() { 
+googletag.display('div-gpt-ad-1430377943388-1'); 
+});
+
+
+
+
+
+	
+googletag.cmd.push(function() { 
+googletag.display('div-gpt-ad-1430377943388-4'); 
+});
+
+
+
+
+	try {
+	$('.topadcontainer').remove();
+        $('#topdivad').insertAfter('#oryxcontext');
+	document.getElementById("topdivad").style.display = "block";
+if (document.getElementById("toprightlongad")!= null){
+	var RightDiv = document.getElementById("toprightlongad");
+	RightDiv.innerHTML = document.getElementById("rightlongad").innerHTML;  
+	document.getElementById("rightlongad").innerHTML = "";
+}
+$( document ).ready(function() {
+    if (document.getElementById("ArticleSecAd")!= null){
+	var RightboDiv = document.getElementById("ArticleSecAd");
+	RightboDiv.innerHTML = document.getElementById("rightbottomad").innerHTML;  
+	document.getElementById("rightbottomad").innerHTML = "";
+}
+});
+
+
+
+	$('#div-gpt-ad-1430377943388-2').remove();
+	}
+	catch(err) {
+    		
+	}
+
+
+
+
+googletag.cmd.push(function() { 
+googletag.display('div-gpt-ad-1430377943388-3'); 
+});
+
+
+
+
+
+
+
+/* <![CDATA[ */
+var google_conversion_id = 944250150;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+var google_conversion_format = 3;
+/* ]]> */
+
+
+
+
+
+
+
+
+
+
+
+
+/* <![CDATA[ */
+var google_conversion_id = 944250150;
+var google_conversion_language = "en";
+var google_conversion_format = 3;
+var google_conversion_color = "ffffff";
+var google_conversion_label = "qHeuCOSxnF8QprqgwgM";
+var google_remarketing_only = false;
+/* ]]> */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

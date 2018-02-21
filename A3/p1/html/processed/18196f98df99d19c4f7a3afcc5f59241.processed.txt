@@ -1,0 +1,1400 @@
+http://www.feelguide.com/2015/01/06/new-research-discovers-tha-depression-is-an-allergic-reaction-to-inflammation/
+
+
+
+
+
+
+
+
+
+New Research Discovers That Depression Is An Allergic Reaction To Inflammation
+
+
+
+
+
+(function(d, s, id){
+				 var js, fjs = d.getElementsByTagName(s)[0];
+				 if (d.getElementById(id)) {return;}
+				 js = d.createElement(s); js.id = id;
+				 js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.6";
+				 fjs.parentNode.insertBefore(js, fjs);
+			   }(document, 'script', 'facebook-jssdk'));
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.feelguide.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.4"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		
+
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+		//An array containing the id's of all mp3 players
+		var ca_myPlayers = new Array();
+		//An array containing the Volume State of each mp3 player
+		var ca_volumeStates = new Array();
+		var ca_position = 0;
+		
+		var $codeart = jQuery.noConflict();
+		$codeart(document).ready(function() {
+		});
+		
+		//Function that checks whether or not an audio format is supported
+		function supports_media(mimetype, container) {
+			var elem = document.createElement(container);
+			if(typeof elem.canPlayType == 'function'){
+				var playable = elem.canPlayType(mimetype);
+				if((playable.toLowerCase() == 'maybe')||(playable.toLowerCase() == 'probably')){
+					return true;
+				}
+			}	
+			return false;
+		};
+		
+		function ca_stopAllAudio(except){
+			$codeart('audio').each(function(){
+				if(this.id!=except){
+					this.pause(); // Stop playing
+				}
+			});
+			$codeart('.playpause').removeClass('play');
+			$codeart('.playpause').addClass('pause');
+		}
+		
+		//Function that toogles play/pause functions of the audio element
+		function ca_tooglePlayPause(el,sender){
+			var btn = document.getElementById(sender.id);
+			if(document.getElementById(el).paused){
+				ca_stopAllAudio(el);
+				document.getElementById(el).play();	
+				btn.className = "playpause play";
+			}
+			else{
+				document.getElementById(el).pause();
+				btn.className = "playpause pause";
+			}
+		}
+		
+		//Funtion to stop the audio playing
+		function ca_stop(el,id){
+			document.getElementById(el).pause();
+			document.getElementById(el).currentTime = 0;
+			document.getElementById("playpause"+id).className = "playpause pause";
+		}
+		
+		//timeupdate media event handler
+		function ca_timeUpdate(el, sender, id){
+			//update span id current_time
+			var sec = sender.currentTime;
+			sec = sec % 3600;
+			var min = Math.floor(sec / 60);
+			sec = Math.floor(sec % 60);
+			if (sec.toString().length < 2) sec = "0" + sec;
+			if (min.toString().length < 2) min = "0" + min;
+			document.getElementById('currentTime'+id).innerHTML = min + ":" + sec + " / ";
+			
+			//update span id duration
+			var sec2 = sender.duration;
+			sec2 = sec2 % 3600;
+			var min2 = Math.floor(sec2 / 60);
+			sec2 = Math.floor(sec2 % 60);
+			if (sec2.toString().length < 2) sec2 = "0" + sec2;
+			if (min2.toString().length < 2) min2 = "0" + min2;
+			document.getElementById('duration'+id).innerHTML = min2 + ":" + sec2;
+			
+			//update seekbar attributes: start time, end time, and current time
+			var seekbar = document.getElementById(el);
+			seekbar.min = sender.startTime;
+			seekbar.max = sender.duration;
+			seekbar.value = sender.currentTime;
+			
+			$codeart( "#"+el ).slider( "value", sender.currentTime);
+			$codeart( "#"+el ).slider( "option", "max", sender.duration );
+			
+			//update buffered percent of the audio file
+			var width = $codeart('#seek'+id).width();
+			var parentWidth = $codeart('#seek'+id).offsetParent().width();
+			var percent = 100*width/parentWidth;
+			var res = (sender.buffered.end(0)/sender.duration)*percent+"%";
+			$codeart("#gutter"+id).css("width", res);
+		}
+		
+		//Toogle muted property of the audio
+		function ca_toogleMuted(el,sender){
+			var btn = document.getElementById(sender.id);
+			if(document.getElementById(el).muted==true){
+				document.getElementById(el).muted=false;
+				var i=ca_myPlayers.indexOf(el);
+				var classVolume = ca_volumeStates[i];
+				btn.className = "muteButton "+classVolume;
+			}
+			else{
+				document.getElementById(el).muted=true;
+				btn.className = "muteButton noVolume";
+			}
+		}
+		
+		//When the audio ends make the pause button look like a play button
+		function ca_audioEnded(el){
+			btn = document.getElementById(el);
+			btn.className = "playpause pause";
+		}
+		
+		//loadedmetadata Media event handler to update span id=duration of the audio player
+		function ca_metaLoaded(id){
+			var sender = document.getElementById("audio_with_controls"+id);
+			var sec = sender.duration;
+			sec = sec % 3600;
+			var min = Math.floor(sec / 60);
+			sec = Math.floor(sec % 60);
+			if (sec.toString().length < 2) sec = "0" + sec;
+			if (min.toString().length < 2) min = "0" + min;
+			document.getElementById('duration'+id).innerHTML = min + ":" + sec;
+		}
+		
+		//function to create the volume bar of the audio player
+		function ca_createVolumeBar(id){
+			$codeart("#volume"+id).slider({
+				value  : 75,
+				step   : 1,
+				range  : "min",
+				min    : 0,
+				max    : 100,
+				change : function(){
+					var value = $codeart("#volume"+id).slider("value");
+					var player = document.getElementById("audio_with_controls"+id);
+					player.volume = (value / 100);
+					
+					var classVolume = "";
+					if(value>55){
+						classVolume = "fullVolume";
+					} else if(value>10 && value<=55){
+						classVolume = "middleVolume";
+					} else{
+						classVolume = "noVolume";
+					}
+					var i=ca_myPlayers.indexOf("audio_with_controls"+id);
+					ca_volumeStates[i] = classVolume;
+					if(player.muted==true){
+						player.muted=false;
+					}
+					document.getElementById("muteButton"+id).className = "muteButton "+classVolume;
+				}
+			});
+		}
+		
+		//function to create the seek bar of the audio player
+		function ca_createSeekBar(id){
+			var seek = $codeart("#seek"+id).slider({
+				value  : 0,
+				step   : 0.00000001,
+				range  : "min",
+				min    : 0,
+				max    : document.getElementById("audio_with_controls"+id).duration,
+				slide  : function( event, ui ) {
+					var player = document.getElementById("audio_with_controls"+id);
+					player.currentTime = ui.value;
+				}
+			});
+		}
+		
+		//Initialize the volume state of the audio player when page is loaded
+		function ca_initMuteButtonClass(id){
+			ca_myPlayers[ca_position] = "audio_with_controls"+id;
+			if($codeart("#muteButton"+id).hasClass("fullVolume")) 
+			{
+				ca_volumeStates[ca_position] = "fullVolume";
+			} else if($codeart("#muteButton"+id).hasClass("middleVolume")){
+				ca_volumeStates[ca_position] = "middleVolume";
+			} else{
+				ca_volumeStates[ca_position] = "noVolume";
+			}
+			ca_position++;
+		}
+		
+		//Make the audio player responsive
+		function ca_responsiveAudioPlayer(id,skin,download){
+			var playerH = $codeart("#controls"+id).height();
+			var playerW = $codeart("#controls"+id).width();
+			
+			//Verticaly center playpause button
+			var playpauseH = $codeart("#playpause"+id).height();
+			var fplaypauseH = (playerH-playpauseH)/2;
+			$codeart("#playpause"+id).css("top",fplaypauseH);
+			
+			//Verticaly center seekbar
+			var seekH = $codeart("#seek"+id).height();
+			var fseekH = (playerH-seekH)/2;
+			$codeart("#seek"+id).css("top",fseekH);
+			
+			//Verticaly center gutter
+			var gutterH = $codeart("#gutter"+id).height();
+			var fgutterH = (playerH-gutterH)/2;
+			$codeart("#gutter"+id).css("top",fgutterH);
+			
+			//Verticaly adjust timer span to be above the seekbar
+			var timerH = 27;
+			var ftimerH = ((playerH-timerH)/2)-(gutterH);
+			$codeart("#timer"+id).css("top",ftimerH);
+			//Verticaly center volumebar
+			var volumeH = $codeart("#volume"+id).height();
+			var fvolumeH = (playerH-volumeH)/2;
+			$codeart("#volume"+id).css("top",fvolumeH);
+			//Verticaly center mute button
+			var muteH = $codeart("#muteButton"+id).height()+2;
+			var fmuteH = (playerH-muteH)/2;
+			$codeart("#muteButton"+id).css("top",fmuteH);
+			var stopminiH = $codeart("#stop"+id).height();
+			if(skin==="small"){
+				//Available space for the seekbar & volumebar within audio player
+				//The seekbar's volumebar's width attribute changes, other elements remain the same
+				var available = playerW-95;
+				if(download==="true"){
+					available = playerW-110;
+				}
+				//Verticaly center stop button
+				var fstopminiH = (playerH-stopminiH)/2;
+				var pomMuteR = 7;
+				var pomTimerR = 27;
+				if(download==="true"){
+					pomMuteR = 35;
+					pomTimerR = 50;
+				}
+			} else{
+				//Available space for the seekbar & volumebar within audio player
+				//The seekbar's volumebar's width attribute changes, other elements remain the same
+				var available = playerW-100;
+				//Align stop button with playpause button
+				var fstopminiH = (playpauseH+fplaypauseH-stopminiH);
+				var pomMuteR = 12;
+				var pomTimerR = 35;
+			}
+			//The seekbar and the gutter are 3/4 of the available space
+			var seekW = (available*75)/100;
+			$codeart("#seek"+id).css("width",seekW);
+			$codeart("#gutter"+id).css("width",seekW);
+			
+			//The volumebar is 1/4 of the available space
+			var volumeW = (available*25)/100;
+			if(download==="true" && skin==="small"){
+				volumeW = (available*20)/100;
+				$codeart("#volume"+id).css("right","34px");	
+				
+			}
+			$codeart("#volume"+id).css("width",volumeW);
+			
+			var muteR = volumeW+pomMuteR;
+			$codeart("#muteButton"+id).css("right",muteR);
+			var timerR = volumeW+pomTimerR;
+			$codeart("#timer"+id).css("right",timerR);
+			$codeart("#stop"+id).css("top",fstopminiH);
+			
+			if(download==="true")
+				$codeart("#downloadButton"+id).css("top",fstopminiH);
+		}
+		
+		function ca_appendDownloadButton(id,mp3){
+			$codeart('#default_player_fallback'+id).after('<a id="downloadButton'+id+'" class="download-flash" href="'+mp3+'">');
+		}
+	
+
+	.codeart-google-mp3-player .download-link{
+		display:block;
+		padding: 0 5px 0 5px;
+		float: left;
+	}
+	.codeart-google-mp3-player embed{
+		float: left;
+	}
+	.codeart-google-mp3-player{
+		overflow: hidden;
+	}
+	.codeart-google-mp3-player object{
+		float: left;
+	}
+	
+
+
+		div.sossy-social-profile .sossy-social-cover{
+							background-color: ;
+					}
+		div.sossy-social-profile .sossy-social-cover span.sossy-name, div.sossy-social-profile .sossy-social-cover span.sossy-desc{
+							color: ;
+					}
+		
+
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//www.feelguide.com/?wordfence_lh=1&hid=A6991BA0FC238F3B86D9621C3740D2F6');
+
+
+
+
+
+ul#block li,#footer,#sec-nav,.stuff,.body2{background-color:#1f1f1f}
+#navigation,body.page-template-homepage_alt-php .container,body.page-template-demo_homepage_alt-php .container,.hrline,h2.widget,.archivepost li:nth-child(even),.raws li:nth-child(even),.small_posts:nth-child(even),.ad300,#serinfo-nav li.current,#serinfo,.tagcloud a,#serpane3 a{background-color:#fafafa}
+.container,.nav li ul,.body3,#serpane3 a,ul.mansory>li{background-color:#ffffff}
+h2.widget span,#tickerwarp span.lab,.searchformhead input.s,p.meta_move,.scrollTo_top,.overrating,a#navtrigger,.hrline span,.hrlineB span,.flexcarousel .flex-direction-nav li a,.singleslider .flex-direction-nav li a,.page-numbers.current,.imgwrap,.nav-next a,.nav-previous a,span.ribbon,a.mainbutton,#submit,#comments .navigation a,.tagssingle a,.contact-form .submit{background-color:#47B7DD}
+#main-nav>li:hover,#main-nav>li.current-cat,#main-nav>li.current_page_item{border-color:#47B7DD !important}
+.nav a:hover,.tagcloud a:before,#serpane3 a:before,p.more a.fr{color:#47B7DD}
+body{background-color:#1f1f1f}
+.body1 a, a:link, a:visited,#serinfo h4 a,.related li a {color:#000000}
+#footer a,.body2 a{color:#d4d4d4 !important}
+.entry a,a:hover,.body1 a:hover,#serinfo a:hover,#homecontent h2 span a,.nav>li.current-cat>a,.nav>li.current_page_item>a {color:#1fc260}
+.imagepost,.videopost,.imageformat{background-color:#1fc260}
+#navigation,#serinfo-nav li.current,#serinfo,.widgetable,.searchformhead,.nav>li>a,#headtop,#header ul.social-menu li,.searchform input.s,#main-nav,#main-nav>li,.pagination,input, textarea,input checkbox,input radio,select, file{border-color:#e6e6e6 !important}
+.hrline,.hrlineB{background-color:#e6e6e6}
+.body2,.ratingblock,#footer h2,#footer .tagcloud a,#footer select,#footer .searchform input.s {border-color:#ddd !important}
+body,input, textarea,input checkbox,input radio,select, file {font:400 12px/1.8em "Sans Serif", sans-serif;color:#242424}
+#main-nav a,.nav ul li a {color:#242424}
+#footer,.stuff,#footer select,.body2 {font:400 11px/2.2em Arial, sans-serif;color:#e8e8e8}
+#footer h2,#footer h3,.stuff h2 a,.body2 h2,.body2 h3 {color:#e8e8e8}
+h1 {font:600 34px/1.1em "Open Sans", sans-serif;color:#1f1f1f}h2 {font:700 24px/1em "Raleway", sans-serif;color:#1c1c1c}h2.widget,.ratingblock h2,.archivepost li h2,#tickerwarp span.lab,.searchformhead input.s {font:700 10px/1.2em "Open Sans", sans-serif;color:#fff}h2.widget a {color:#fff}h3,ul#serinfo-nav li a {font:600 13px/1.5em "Open Sans", sans-serif;color:#1f1f1f}h4 {font:400 13px/1.5em "Open Sans", sans-serif;color:#5c5c5c}h5 {font:400 13px/1.5em "Open Sans", sans-serif;color:#5c5c5c}h6 {font:400 13px/1.5em "Open Sans", sans-serif;color:#5c5c5c}
+#sec-nav>li>a,.ratingblock p {font:600 12px/1em "Open Sans", sans-serif;color:#fff}#main-nav>li>a {font-family:"Open Sans", sans-serif}#main-nav>li>a {font-family:"Open Sans", sans-serif;font-weight:600}.tab-post small a,.taggs a,.ei-slider-thumbs li a {color:#242424}
+
+
+
+
+
+
+
+
+
+
+
+Breaking
+
+
+February 13, 2018  |  My Night With David Lynch & His Epic Lecture On The Miracles Of Transcendental Meditation
+
+
+February 12, 2018  |  HBO’s Paranormal Drama ‘Here And Now’ Explores The Powerful Phenomenon & Meaning Of 11:11
+
+
+February 12, 2018  |  OUT Magazine Caught Red-Handed Revising LGBT Olympic History With Kenworthy-Rippon Posts
+
+
+February 9, 2018  |  Video Shows Diver’s Arm Getting Paralyzed From Sperm Whale’s Powerful Clicking Sound
+
+
+February 8, 2018  |  The Mystery Of Mary Trump: How Donald’s Dark Relationship With His Mom Explains His Mania
+
+
+February 7, 2018  |  “Game Of Thrones” Creators Benioff & Weiss Creating New Series Of “STAR WARS” Films
+
+
+February 6, 2018  |  How Do You Subpoena A President Who Lives In The Most Fortified Home In The World?
+
+
+January 29, 2018  |  FEELguide’s Hottest Man Alive 2018: Behold The Amazingness Of French Model Nabil Taleb
+
+
+October 31, 2017  |  The Wire: Why This March 31st Photograph Sent Chills Up Trump’s Spine On ‘Mueller Monday’
+
+
+October 5, 2017  |  40 States Gearing Up To Cripple Big Pharma & The Opioid Industry Like They Did Big Tobacco
+
+
+
+
+
+
+
+
+
+
+
+
+
+.headad-ins { width: 728px; height: 90px; }
+/* iPad Landscape */
+@media screen and (max-width: 1181px){
+  .headad-ins { width: 468px; height: 60px; }
+}
+/* iPad Portrait */
+@media screen and (max-width: 770px){
+  .headad-ins { width: 320px; height: 100px; }
+}
+/* Mobile */
+@media handheld, only screen and (max-width: 740px) {
+  .headad-ins {
+    width: 320px; 
+    height: 50px;
+  }
+  .headad {
+  margin: 10px 0 35px 0;
+  float: none;
+  width: 100%;
+  text-align: center;
+  }
+}
+@media only screen and (max-width: 660px) {
+  .headad-ins {  }
+}
+@media only screen and (max-width: 490px) {
+  .headad-ins {  }
+}
+
+
+
+
+ 
+(adsbygoogle = window.adsbygoogle || []).push({}); 
+
+MENU
+
+ARTICLES
+Travel
+Hotels
+Design
+Movies
+Music
+LGBT
+Neuroscience
+Politics
+Health
+
+
+HOME
+About
+Contact
+Privacy Policy
+Advertise & Promote Your Hotel Or Brand On FEELguide
+
+
+Rss Feed
+Twitter
+Facebook
+Instagram
+
+
+
+
+
+
+
+
+
+New Research Discovers That Depression Is An Allergic Reaction To Inflammation
+
+    	by Brent Lambert • 
+		January 6, 2015 • 
+		Health, Neuroscience, Science  •
+              Comments (0)  • 
+        3373255		
+
+
+New research is revealing that many cases of depression are caused by an allergic reaction to inflammation.  Tim de Chant of NOVA writes: “Inflammation is our immune system’s natural response to injuries, infections, or foreign compounds. When triggered, the body pumps various cells and proteins to the site through the blood stream, including cytokines, a class of proteins that facilitate intercellular communication.  It also happens that people suffering from depression are loaded with cytokines.”  Inflammation is caused by obesity, high sugar diets, high quantities of trans fats, unhealthy diets in general, and other causes.
+By treating the inflammatory symptoms of depression — rather than the neurological ones — researchers and doctors are opening up an exciting new dimension in the fight against what has become a global epidemic.  Caroline Williams of The Guardian writes: “The good news is that the few clinical trials done so far have found that adding anti-inflammatory medicines to antidepressants not only improves symptoms, it also increases the proportion of people who respond to treatment, although more trials will be needed to confirm this. There is also some evidence that omega 3 and curcumin, an extract of the spice turmeric, might have similar effects. Both are available over the counter and might be worth a try, although as an add-on to any prescribed treatment – there’s definitely not enough evidence to use them as a replacement.”
+Eleanor Morgan of VICE adds: “Cytokines skyrocket during depressive episodes and, in those with bipolar disorder, halt in remission. The fact that ‘normal,’ healthy people can become temporarily anxious or depressed after receiving an inflammatory vaccine — like typhoid — lends further credence to the theory. There are even those who think we should re-brand depression altogether as an infectious disease … Carmine Pariante, a Kings College psychiatrist who is quoted in The Guardian report, says that we’re between five and ten years away from a blood test that can measure levels of inflammation in depressed people.  If both Pariante’s estimate and the inflammation-depression theory are correct, we could potentially be just five years from an adequate ‘cure’ for depression.”
+You can read much more by visiting The Guardian, VICE, and NOVA.  And to learn much more about how food and mood are powerfully connected, be sure to read this fascinating article on Kripalu.org. (Image courtesy of the American Heart Association).
+.
+
+
+
+
+
+GET THE LATEST FEELGUIDE UPDATES!
+The freshest stories straight to your Inbox
+By signing up you will also get exclusive updates on FEELguide offers, events, deals, tips, and all sorts of other goodies.
+
+
+
+
+Email
+
+
+
+
+
+
+
+
+All things imaginative and inspired.
+
+
+ 
+
+
+
+
+
+ Previous post:
+Scarlett Johansson To Star As Lead In Dreamworks’ Live Action Thriller “Ghost In The Shell” 
+
+                    Next Post: 
+Lightmapping Projection Transforms Forest Into A Bioluminescent Dream World 
+
+
+
+
+
+Comments are closed.
+
+
+
+
+
+
+FEELguide on Facebook 
+CategoriesCategories
+Select Category
+Adventure  (19)
+Advertising  (50)
+Amy Sedaris  (15)
+Archaeology  (13)
+Architecture  (265)
+Art  (400)
+Banner Photos  (141)
+Books  (304)
+Business  (342)
+Canadiana  (61)
+Charlie Rose  (186)
+Christopher Hitchens  (57)
+Design  (484)
+Fashion  (148)
+Featured Video  (24)
+FEELguide Classics  (13)
+FEELguide Editorials  (16)
+FEELguide Hero  (8)
+FEELprize  (5)
+Flights & Airlines  (1)
+Food  (53)
+Funny  (318)
+Graphic Design  (62)
+Health  (332)
+History  (498)
+Hollywoodland  (579)
+Hotels  (45)
+Industrial And Product Design  (136)
+Infographics  (35)
+Inspiration  (521)
+Jason Silva  (29)
+Just Because  (35)
+LGBT  (255)
+LINKguide  (426)
+Me  (307)
+Movies  (1,044)
+Music  (1,284)
+Nature  (401)
+Neuroscience  (244)
+Philosophy  (207)
+Photography  (220)
+Physics  (101)
+Politics  (365)
+Psychology  (291)
+Random News  (288)
+Robotics  (28)
+Sam Harris  (32)
+Science  (593)
+Society  (431)
+Space  (210)
+Spirituality  (266)
+Style  (157)
+Technology  (393)
+Television  (274)
+The WOW Files  (128)
+The WTF Files  (8)
+The ZEN Files  (5)
+Tilda Swinton  (66)
+Travel  (160)
+Uncategorized  (143)
+Unexplained  (185)
+Video  (489)
+
+
+
+/* <![CDATA[ */
+(function() {
+	var dropdown = document.getElementById( "cat" );
+	function onCatChange() {
+		if ( dropdown.options[ dropdown.selectedIndex ].value > 0 ) {
+			dropdown.parentNode.submit();
+		}
+	}
+	dropdown.onchange = onCatChange;
+})();
+/* ]]> */
+
+
+
+
+
+
+
+
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+Archives Archives
+
+Select Month
+ February 2018  (7)
+ January 2018  (1)
+ October 2017  (3)
+ September 2017  (9)
+ August 2017  (9)
+ July 2017  (2)
+ April 2017  (9)
+ March 2017  (11)
+ February 2017  (7)
+ January 2017  (25)
+ December 2016  (14)
+ November 2016  (18)
+ October 2016  (25)
+ September 2016  (34)
+ August 2016  (45)
+ July 2016  (19)
+ June 2016  (40)
+ May 2016  (36)
+ April 2016  (36)
+ March 2016  (41)
+ February 2016  (41)
+ January 2016  (40)
+ December 2015  (19)
+ November 2015  (16)
+ October 2015  (46)
+ September 2015  (53)
+ August 2015  (31)
+ July 2015  (63)
+ June 2015  (58)
+ May 2015  (48)
+ April 2015  (65)
+ March 2015  (72)
+ February 2015  (42)
+ January 2015  (70)
+ December 2014  (79)
+ November 2014  (80)
+ October 2014  (90)
+ September 2014  (48)
+ August 2014  (46)
+ July 2014  (22)
+ June 2014  (20)
+ May 2014  (39)
+ April 2014  (50)
+ March 2014  (88)
+ February 2014  (68)
+ January 2014  (53)
+ December 2013  (57)
+ November 2013  (96)
+ October 2013  (114)
+ September 2013  (76)
+ August 2013  (54)
+ July 2013  (42)
+ June 2013  (76)
+ May 2013  (76)
+ April 2013  (65)
+ March 2013  (65)
+ February 2013  (56)
+ January 2013  (66)
+ December 2012  (65)
+ November 2012  (111)
+ October 2012  (100)
+ September 2012  (77)
+ August 2012  (66)
+ July 2012  (73)
+ June 2012  (102)
+ May 2012  (79)
+ April 2012  (53)
+ March 2012  (88)
+ February 2012  (88)
+ January 2012  (119)
+ December 2011  (116)
+ November 2011  (114)
+ October 2011  (97)
+ September 2011  (109)
+ August 2011  (116)
+ July 2011  (110)
+ June 2011  (123)
+ May 2011  (127)
+ April 2011  (157)
+ March 2011  (221)
+ February 2011  (142)
+ January 2011  (126)
+ December 2010  (94)
+ November 2010  (295)
+ October 2010  (270)
+ September 2010  (245)
+
+
+
+
+
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+
+
+
+
+FEELguide Newsletter
+
+
+
+
+FEELguide's Newsletter
+Get the latest exclusive offers, events & gifts!
+
+
+
+
+First Name
+
+
+
+Last Name
+
+
+
+Email
+
+
+
+
+
+
+
+
+
+ 
+
+
+INSTAGRAM 
+
+ Latest Video
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+Latest
+Popular
+Random
+Tags
+
+
+
+
+
+
+
+My Night With David Lynch & His Epic Lecture On... 
+
+		February 13, 2018  • 
+        555		
+
+
+
+
+
+HBO’s Paranormal Drama ‘Here And Now’ Explores The Powerful Phenomenon... 
+
+		February 12, 2018  • 
+        658		
+
+
+
+
+
+OUT Magazine Caught Red-Handed Revising LGBT Olympic History With Kenworthy-Rippon... 
+
+		February 12, 2018  • 
+        477		
+
+
+
+
+
+Video Shows Diver’s Arm Getting Paralyzed From Sperm Whale’s Powerful... 
+
+		February 9, 2018  • 
+        1013		
+
+
+
+
+
+The Mystery Of Mary Trump: How Donald’s Dark Relationship With... 
+
+		February 8, 2018  • 
+        1088		
+
+
+
+
+
+“Game Of Thrones” Creators Benioff & Weiss Creating New Series... 
+
+		February 7, 2018  • 
+        445		
+
+
+
+
+
+
+
+Buddhist Temple Design Inspired By Superman, Spiderman, Batman, And Keanu... 
+
+		January 17, 2011  • 
+        40902		
+ 
+
+
+
+Pae White Uses Computer-Assisted Loom To Weave Opera Curtain Of... 
+
+		April 7, 2011  • 
+        12304		
+ 
+Sade  “By Your Side” 
+
+		September 24, 2010  • 
+        3750		
+ 
+
+
+
+Early Screening of Terrence Malick’s “TREE of LIFE” Compares Film... 
+
+		September 24, 2010  • 
+        4643		
+ 
+CNN, Washington Post, and The Daily Telegraph Report 120 US... 
+
+		September 27, 2010  • 
+        3608		
+ 
+Latest Research Proves Vast Majority Of Animals Have Consciousness, Emotions,... 
+
+		November 17, 2010  • 
+        3747		
+ 
+
+
+Listen To Depeche Mode, The Killers, And NIN’s Brilliant Covers... 
+
+		October 25, 2011  • 
+        1036		
+
+
+The Carter Family  “John Hardy Was A Desperate Little... 
+
+		November 25, 2010  • 
+        726		
+
+
+CBS Talks To Beth Howard, The Malibu Writer Living Inside... 
+
+		June 11, 2012  • 
+        1912		
+
+
+Lesson Of The Day: Never Let A Homeless Man Put... 
+
+		April 1, 2011  • 
+        904		
+
+
+
+
+
+Hypnotized And Helpless: Please Email Me If You Know The... 
+
+		November 17, 2012  • 
+        1094		
+
+
+
+
+
+LINKguide (September 13, 2015) 
+
+		September 13, 2015  • 
+        894		
+ 
+
+"CBS This Morning"
+"Star Wars"
+60 minutes
+active child
+Animation
+apple
+architecture
+brad pitt
+Charlie Rose
+christopher hitchens
+christopher nolan
+Classical Music
+climate change
+daft punk
+david lynch
+documentary
+dream home
+ghostly international
+HBO
+HIllary Clinton
+iso50
+James Franco
+japan
+Jason Silva
+love
+madonna
+Mixtape
+nasa
+neuroscience
+NO FEAR OF POP
+NOWNESS
+paranormal
+photography
+President Obama
+radiohead
+religion
+Sam Harris
+Science Fiction
+stanley kubrick
+steven spielberg
+terrence malick
+the creators project
+tilda swinton
+travel
+Wes Anderson 
+
+
+
+ Latest posts
+
+
+
+ 
+
+		February 13, 2018  • 
+        555		
+My Night With David Lynch & His Epic Lecture On The Miracles Of Transcendental Meditation
+It’s not everyday that you get to meet one of your biggest heroes, so last night as David Lynch and Bob Roth...
+
+ Health, Inspiration, Me, Psychology, Spirituality, The ZEN Files Read More 
+
+
+
+ 
+
+		February 12, 2018  • 
+        658		
+HBO’s Paranormal Drama ‘Here And Now’ Explores The Powerful Phenomenon & Meaning Of 11:11
+Last night HBO premiered its brand new series Here And Now from Alan Ball, the award-winning writer-director-producer...
+
+ Me, Philosophy, Spirituality, Television, Unexplained Read More 
+
+
+
+ 
+
+		February 12, 2018  • 
+        477		
+OUT Magazine Caught Red-Handed Revising LGBT Olympic History With Kenworthy-Rippon Posts
+I used to have respect for OUT magazine and its coverage of LGBT issues, but this morning I had my fill of them. As I...
+
+ LGBT Read More 
+
+
+
+ 
+
+		February 9, 2018  • 
+        1013		
+Video Shows Diver’s Arm Getting Paralyzed From Sperm Whale’s Powerful Clicking Sound
+Whales and dolphins are the most intelligent creatures in existence with the highest levels of consciousness. And with...
+
+ Nature, Science Read More 
+
+
+
+ 
+
+		February 8, 2018  • 
+        1088		
+The Mystery Of Mary Trump: How Donald’s Dark Relationship With His Mom Explains His Mania
+One of Sigmund Freud‘s most renowned theories is the Oedipus Complex, part of his larger theory of the...
+
+ Politics, Psychology Read More 
+
+
+
+ 
+
+		February 7, 2018  • 
+        445		
+“Game Of Thrones” Creators Benioff & Weiss Creating New Series Of “STAR WARS” Films
+Lucasfilm and Disney just announced that David Benioff and D.B. Weiss, the creators of Game Of Thrones, are creating an...
+
+ Movies Read More 
+
+
+
+ 
+
+		February 6, 2018  • 
+        524		
+How Do You Subpoena A President Who Lives In The Most Fortified Home In The...
+The New York Times broke the story last night that Donald Trump’s lawyers are advising him not to speak in person...
+
+ Politics Read More 
+
+
+
+ 
+
+		January 29, 2018  • 
+        768		
+FEELguide’s Hottest Man Alive 2018: Behold The Amazingness Of French Model Nabil Taleb
+Every now and then I’ll take a good, long break from blogging. After six and a half years of almost non-stop...
+
+ Fashion, Random News Read More 
+
+
+
+ 
+
+		October 31, 2017  • 
+        3844		
+The Wire: Why This March 31st Photograph Sent Chills Up Trump’s Spine On ‘Mueller Monday’
+Yesterday’s public reveal of the indictments against former Trump campaign chair Paul Manafort, and...
+
+ Politics Read More 
+
+
+
+ 
+
+		October 5, 2017  • 
+        5869		
+40 States Gearing Up To Cripple Big Pharma & The Opioid Industry Like They Did...
+It looks like the it’s the beginning of the end for the opioid industry and its drug lords in Big Pharma. As of...
+
+ Health, Politics Read More 
+
+Recent Posts 
+
+
+
+
+
+FEELguide™ ©2010-2017 
+Contact: info@FEELguide.com
+Advertise & Promote Your Hotel Or Brand On FEELguide
+Privacy Policy and Disclaimer
+ 
+
+Search
+
+CategoriesCategories
+Select Category
+Adventure
+Advertising
+Amy Sedaris
+Archaeology
+Architecture
+Art
+Banner Photos
+Books
+Business
+Canadiana
+Charlie Rose
+Christopher Hitchens
+Design
+Fashion
+Featured Video
+FEELguide Classics
+FEELguide Editorials
+FEELguide Hero
+FEELprize
+Flights & Airlines
+Food
+Funny
+Graphic Design
+Health
+History
+Hollywoodland
+Hotels
+Industrial And Product Design
+Infographics
+Inspiration
+Jason Silva
+Just Because
+LGBT
+LINKguide
+Me
+Movies
+Music
+Nature
+Neuroscience
+Philosophy
+Photography
+Physics
+Politics
+Psychology
+Random News
+Robotics
+Sam Harris
+Science
+Society
+Space
+Spirituality
+Style
+Technology
+Television
+The WOW Files
+The WTF Files
+The ZEN Files
+Tilda Swinton
+Travel
+Uncategorized
+Unexplained
+Video
+
+
+
+/* <![CDATA[ */
+(function() {
+	var dropdown = document.getElementById( "categories-dropdown-6" );
+	function onCatChange() {
+		if ( dropdown.options[ dropdown.selectedIndex ].value > 0 ) {
+			dropdown.parentNode.submit();
+		}
+	}
+	dropdown.onchange = onCatChange;
+})();
+/* ]]> */
+
+
+
+FEELguide on Facebook 
+
+
+
+Rss Feed
+Twitter
+Facebook
+Instagram
+
+ 
+
+
+
+
+
+© 2018 FEELguide™
+
+
+Powered by Wordpress. Designed by Themnific™
+
+
+
+
+
+
+
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-18749266-1', 'auto');
+  ga('send', 'pageview');
+
+
+
+
+	.ssba {
+									padding: 23px;
+									border: 1px solid #ffffff;
+									background-color: #ffffff;
+									
+								}
+								.ssba img
+								{
+									width: 20px !important;
+									padding: 07px;
+									border:  0;
+									box-shadow: none !important;
+									display: inline !important;
+									vertical-align: middle;
+									box-sizing: unset;
+								}
+								
+								.ssba .fb-save
+								{
+								padding: 07px;
+								line-height: 15px;
+								}
+								.ssba, .ssba a
+								{
+									text-decoration:none;
+									
+									
+									font-size: 20px;
+									
+									font-weight: bold;
+								}
+								
+
+
+
+
+
+
+
+/* <![CDATA[ */
+var mapAjax = {"ajaxurl":"https:\/\/www.feelguide.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+
+
+
+
+Main.boot( [] );
+
+
+
+/* <![CDATA[ */
+var MabAjax = {"ajaxurl":"https:\/\/www.feelguide.com\/wp-admin\/admin-ajax.php","action":"mab-process-optin","wpspinner":"https:\/\/www.feelguide.com\/wp-admin\/images\/wpspin_light.gif","wpspinner2x":"https:\/\/www.feelguide.com\/wp-admin\/images\/wpspin_light-2x.gif","spinner":"https:\/\/www.feelguide.com\/wp-admin\/images\/spinner.gif","spinner2x":"https:\/\/www.feelguide.com\/wp-admin\/images\/spinner-2x.gif","baseStylesUrl":"http:\/\/www.feelguide.com\/wp-content\/plugins\/magic-action-box-pro\/styles\/"};
+/* ]]> */
+
+
+
+
+
+
+
+
+
+
+
+
+
+

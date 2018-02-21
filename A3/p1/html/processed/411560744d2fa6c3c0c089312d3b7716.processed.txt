@@ -1,0 +1,81 @@
+http://pr.aljazeera.com/post/153595769155/latin-america-investigates-el-salvador-assassins
+var __pbpa = true;var translated_warning_string = 'Warning: Never enter your Tumblr password unless \u201chttps://www.tumblr.com/login\u201d\x0ais the address in your web browser.\x0a\x0aYou should also see a green \u201cTumblr, Inc.\u201d identification in the address bar.\x0a\x0aSpammers and other bad guys use fake forms to steal passwords.\x0a\x0aTumblr will never ask you to log in from a user\u2019s blog.\x0a\x0aAre you absolutely sure you want to continue?';LATIN AMERICA INVESTIGATES El Salvador: Assassins...figure{margin:0}.tmblr-iframe{position:absolute}.tmblr-iframe.hide{display:none}.tmblr-iframe--amp-cta-button{visibility:hidden;position:fixed;bottom:10px;left:50%;transform:translateX(-50%);z-index:100}.tmblr-iframe--amp-cta-button.tmblr-iframe--loaded{visibility:visible;animation:iframe-app-cta-transition .2s ease-out}
+      // test for svg as image @see http://css-tricks.com/test-support-svg-img/
+      if(document.implementation.hasFeature("http://www.w3.org/TR/SVG11/feature#Image", "1.1")) {
+        document.documentElement.className += " svgasimg";
+      }
+
+    
+	{"@type":"SocialMediaPosting","url":"http:\/\/pr.aljazeera.com\/post\/153595769155\/latin-america-investigates-el-salvador-assassins","mainEntityOfPage":true,"datePublished":"2016-11-24T09:35:39-05:00","author":"aljazeerapr","image":"http:\/\/78.media.tumblr.com\/b2dfebbfeea7c339230edafd800361e7\/tumblr_inline_oh53syCSgN1rwl04r_540.jpg","headline":"LATIN AMERICA INVESTIGATES El Salvador: Assassins For Sale","articleBody":"New Al Jazeera report seeks to expose those behind the vigilante death squads in the world\u2019s most violent peacetime nation\n\u2022 Team behind award-winning Africa Investigates turns its attention to Latin America\n\u2022 First episode investigates the links between police, local businessmen and vigilante death...","@context":"http:\/\/schema.org"}Al Jazeera PRHomeAboutAwardsContact UsArchiveAl Jazeera PRهنا الجزيرةSearchLATIN AMERICA INVESTIGATES El Salvador: Assassins For Sale
+                                        November 24, 2016
+                                    New Al Jazeera report seeks to expose those
+behind the vigilante death squads in the world’s most violent peacetime nationTeam behind award-winning Africa Investigates turns
+its attention to Latin AmericaFirst episode investigates the links between
+police, local businessmen and vigilante death squads in El Salvador“They carry out what the police can’t do
+directly, which is take them (gang members) from their houses and kill them.”
+Salvadorian journalist Brian Avelar24 November 2016 In a new series Latin America Investigates Salvadorian
+web journalist, Brian Avelar travels
+to the western province of San Miguel, where gang violence causes havoc and
+devastation with an average of 16 homicides a day.   Avelar is a specialist in organised crime, and
+in this investigation, the culmination of two years of research El Salvador: Assassins for Sale he sets
+out to expose the businessmen and senior police officers implicated in the hiring
+of professional killers to enforce the law.MS-13 is said to
+have an estimated 60,000 gang members and claims to protect its own and look
+after the disenfranchised.  But they rule
+the community through terror and violence. 
+Too scared to speak out because they fear for their own safety and the
+safety of their family members. Avelar says that “people know what’s going on
+but they’re afraid to talk, and even worse, they don’t want to talk to the
+police.”One group, Los
+Exterminos or The Exterminators first came to prominence last year when seven
+bodies were found – each with bullet holes in their heads. And in this cycle of
+violence, it appears that these hit squads have the public’s support because in
+the absence of any effective state deterrent, these hitmen are fighting back
+against the MS13 stronghold.A leaked classified
+document seen by Avelar, gives an account of the formal investigation into the
+group’s activities. It describes a group of heavily armed men operating from
+several 4x4 vehicles, hunting down suspected gang members, allegedly being done
+with the full knowledge of the overstretched Salvadorian police force.  It also says a number of local business men
+are also under investigation for supplying weapons and vehicles.  According to Avelar there’s also evidence
+that The Exterminators have a book or list, ‘All my sources confirm that the
+information in the book comes from the police. 
+Only the police have the names, photographs and details of the alleged
+criminals.”Gang crime that
+is difficult to control is extortion, and many small business owners are
+threatened if they don’t pay the ‘rent’ demanded.  Will Sagado, former Mayor of San Miguel spent
+two years in prison convicted of being a founder member of a death squad, Black
+Shadow that operated in the 90s.  He
+still denies this but explains, “We have to take the law into our own
+hands. We’ve lost faith in the
+authorities”.After much
+negotiation, Avelar gets to meet with a heavily disguised member of MS-13 who
+denies the gang extorts and claims they help people, “We don’t mess with
+anybody. We lead our own lives.  Looking
+after our territory, our families and the people living here.  The police and The Exterminators are carrying
+out the killings.”  The
+Exterminators also agreed for a spokesperson to be filmed, on the understanding
+of strict anonymity.  He says of police
+and army “they will never be able to truly protect our communities.  We have to defend ourselves.  They were taking everything from us….  We are few but we are winning the
+battle. We will let the gang know that
+poor people are not scared anymore.”  Finally, Avelar
+also meets the highest ranking policeman, Inspector Malariaga, who is one of 20
+policemen under investigation.  He shows
+images of the gang’s violence on his cell phone to Avelar, which is too
+shocking to be included in the film. “They cut people into little piece without
+mercy… it doesn’t remotely touch their soul to take someone’s life away.” He
+says he understands there are “honourable people who help protect, for example,
+people from the countryside who are defenceless”, and that “Police might go
+once or twice a month but these criminals live there. So that’s why these
+people decide to take matters into their own hands.”  Yet he denies involvement with the hit squads
+saying “I was unaware as to what they were doing”.  Of the 20 policemen
+placed under investigation, fifteen of those are from the anti-extortion
+department.  The Attorney General’s
+office in San Salvador says it is investigating these claims but in the
+meantime the murders go on - feeding the cycle of violence in which the lines
+between criminality and the law are blurred out of all recognition.-         
+Ends -You can watch the full episode:LATIN AMERICA INVESTIGATES El Salvador: Assassins For Sale: http://aje.io/xg2cNote to EditorsIf using quotes or the
+above link please credit Al Jazeera English and Latin America
+InvestigatesFor more information
+or images please contact: pressoffice@aljazeera.netRead moreFacebookTwitterAboutThe Public Relations team at Al Jazeera sharing what's new and exclusive.
+                    function recent_tweets(data) { window.tweets_data = data; }
+                People I followAl Jazeera PRHomeAboutAwardsContact UsArchive© Copyright Al Jazeera 2012–2018

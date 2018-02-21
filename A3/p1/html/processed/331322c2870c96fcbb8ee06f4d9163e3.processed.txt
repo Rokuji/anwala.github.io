@@ -1,0 +1,2625 @@
+https://secure2.convio.net/nkf/site/SPageNavigator/kidney_walk_splash.html;jsessionid=00000000.app260b?NONCE_TOKEN=DB422B7C52C1BFBB7BCAF94D4EE8A591
+
+
+
+
+
+
+Kidney Walk - National Kidney Foundation
+
+
+
+
+
+
+ 
+ 
+
+var Y = YUI({base: '../yui3/',
+insertBefore: 'yui_marker_loader_css', // insert all YUI module css before customstyle so it can be overridden
+debug: false, 
+modules: getModules('../', 'convio', true)});
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+html, body, div, span, applet, object, iframe,h1, h2, h3, h4, h5, h6, p, blockquote, pre,a, abbr, acronym, address, big, cite, code,del, dfn, em, img, ins, kbd, q, s, samp,small, strike, strong, sub, sup, tt, var,b, u, i, center,dl, dt, dd, ol, ul, li,fieldset, form, label, legend,table, caption, tbody, tfoot, thead, tr, th, td,article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,menu, nav, output, ruby, section, summary,time, mark, audio, video {margin: 0;padding: 0;border: 0;font: inherit;font-size: 18px; vertical-align: baseline;}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,footer, header, hgroup, menu, nav, section {display: block;}
+body {line-height: 1;}
+blockquote, q {quotes: none;}
+blockquote:before, blockquote:after,q:before, q:after {content: ''; content: none;}
+table {border-collapse: collapse;border-spacing: 0;}
+* {margin: 0;padding: 0;}
+/*--------------------------------
+Typography
+----------------------------------*/
+html, body {font-size: 100%\9;font-size: 62.5%;}
+html, html a, html a:hover {-webkit-font-smoothing: antialiased !important;text-shadow: 1px 1px 1px rgba(0,0,0,0.004) !important;}
+*, p, ul, ol, li, ul li, ol li, strong, em, table, tr, th, td, span, a, .ObjTitle, input, button, h1, h2, h3, h4, h5, textarea, select, option, label, div, .footer, p.cstmText, .list-value-container, div {font-family: Arial, sans-serif;font-size: 16px;font-size: 1.6rem;color: #000;}
+h1, div.campaign-banner-container {font-size: 28px;font-size: 2.8rem;margin: 0 0 25px 0; font-weight: bold;text-transform: uppercase;}
+.black h1,.orange h1, .orange p, .orange a, .orange a:link, .orange a:visited {
+  color: #fff;}
+.mastCta ul li a {color: #fff;font-size: 28px;font-size: 2.8rem;font-weight: bold;}
+.mastCta ul li a:hover {text-decoration: none;}
+.tagline h1 {font-size: 46px;font-size: 4.6rem;color: #fff;font-weight: bold;}
+h2, .section-header-text {font-size: 22px;font-size: 2.2rem;margin: 0 0 20px 0;
+  font-weight: bold;text-transform: uppercase;}
+.pgTitle h2, .pgTitle h4 {color:#333; font-size:2.2rem; font-weight: bold; margin: 0 0 20px 0;}
+.mastCta h2 {font-weight: normal;margin: 0 0 10px 0;}
+h3 {font-size: 18px; font-size: 1.8rem;margin: 0 0 15px 0;font-weight: bold;
+  text-transform: uppercase;}
+.darkGrey h3 {color: #fff;}
+p, #text_area_container {margin: 0 0 20px 0;line-height: 20px;}
+a, a:link, div.responsive a:link, div.responsive a:visited, a:visited, div.indicator-container a.indicator-link, a .fa {text-decoration: none;color: #009dc6;}
+a:hover, div.responsive a:hover {text-decoration: underline; cursor: pointer;}
+strong {font-weight: bold;}
+em {font-style: italic;}
+ul li {list-style: none;}
+.content ul, .content ol {margin: 0 0 20px 0;}
+.content ul li, .content ol ul li {list-style: disc inside none; margin: 0 0 15px 25px;line-height: 20px;}
+.content ol li {list-style: decimal inside none;margin: 0 0 15px 25px;line-height: 20px;}
+.fa-caret-right {margin: 0 0 0 10px !important; color: #fff; font-size: 14px;
+  font-size: 1.4rem; font-family: FontAwesome !important;}
+.socialLinks .fa {font-size: 25px;color: #009dc6;}
+.black .socialLinks .fa {color: #fff;}
+.eventInfo h2 a {font-size:inherit;color:inherit;}
+@media all and (max-width: 767px) {
+  .socialLinks .fa {font-size:35px; margin: 0 1% 0 0;}
+  .socialLinks h3, .socialLinks{text-align: center;}
+}
+@media all and (max-width: 567px) {
+  .tagline h1 {font-size: 3rem;}
+  .tagline .darkGrey.top {width: 120px;}
+}
+
+/*------------------------
+GENERAL
+-------------------------*/
+.clear {clear: both;display: block;}
+.left {float: left;}
+.right {float: right;}
+img.left {margin: 0 10px 10px 0;}
+img.right {margin: 0 0 10px 10px;}
+img {max-width:100%;}
+.last {margin-right: 0 !important;}
+.first {margin-left: 0 !important;}
+.orange, .hover {background-color: #f15e22;}
+.black {background-color: #000;}
+.darkGrey {background-color: #333;}
+.darkGrey.hover {background-color: #f15e22;}
+.lightGrey {background-color: #959595;}
+ .desk {display: block !important;}
+.mobileShow {display: none;}
+.hide, .hidden {display: none;}
+@media all and (max-width: 1023px) {
+  .pad {padding-left: 4% !important;padding-right: 4% !important;  }
+}
+@media all and (max-width: 767px) {
+  .mobileShow {display: block;}
+  .desk {display: none !important;}
+}
+
+/*-----------------------
+LAYOUT
+-------------------------*/
+html, body {height: 100%;}
+.trPage {overflow: hidden;width: 100%;}
+div.responsive {width: inherit;}
+.wrapper {width: 100%;position: relative;}
+.contentWrap {overflow: hidden;max-width: 1000px; margin: 0 auto;clear: both;}
+.splashIntro, .internal, .orange, .sponsors, .socialMedia, .footer {padding: 45px 0;}
+/*----------------------------
+HEADER
+------------------------------*/
+.eventLogo {width: 30%;margin: 5px 0 0;}
+.tagline {padding: 65px 0;padding: 6.5rem 0;display: inline-block;float: left;}
+.tagline .darkGrey {border: 1px solid #fff;margin: 0;padding: 15px;padding: 1.5rem;}
+.tagline .darkGrey.top {border-bottom: 0 none;width: 180px;}
+.tagline .darkGrey.bottom {border-top: 0 none;}
+.tagline a {color: #fff;padding: 10px;padding: 1rem;clear: both;float: right;border-right: 1px solid #fff;border-left: 1px solid #fff;border-bottom: 1px solid;text-transform: uppercase;font-weight: bold;}
+.tagline a.orange:hover {background-color:#000;text-decoration: none;}
+
+/*------------------------
+NAV & DROPDOWN
+--------------------------*/
+.mastCta {width: 65%;}
+.mastCta ul li {width: 33.21%;float: right; padding:0;text-transform: uppercase;text-align: center;  border-right: 1px solid #000;height: 110px;line-height: 140px;overflow: hidden;}
+.mastCta ul li.log {border-right: 0 none;}
+.header .right.mobileShow .mobileShow.mastCta{display: none;}
+.mobileShow.mastCta ul li {float: none;width: 100%;border-bottom: 1px solid #fff;height: 75px;line-height: 75px;}
+.mobileShow.mastCta ul li.log {border-bottom: 0 none;}
+.mastCta ul li.garkGrey:hover {cursor: pointer;background-color: #f15e22;}
+.mastCta ul li:hover {cursor: pointer;background-color: #f15e22;}
+.utilities {border-top: 5px solid #f15e22;overflow: hidden;}
+.mastCta .register, .mastCta .donate, .mastCta .login {background: url('https://secure2.convio.net/nkf/images/content/pagebuilder/toggleBkrd.png') repeat scroll 0 0 transparent;}
+.mastCta .enter {height: 25px;padding: 5px 5%;}
+.mastCta input.action-button.go {padding: 0 2%;}
+.enter {background-image: none;font-size: 14px;font-size: 1.4rem;border: 1px solid #959595;}
+/*login*/
+.mastCta .login {
+  padding: 20px 10px 20px 40px;
+  overflow: hidden;
+  position: relative;
+}
+.login h3 {
+  font-size: 14px;
+  font-size: 1.4rem;
+  color: #959595;
+  margin: 0 0 10px 0 ;
+}
+.login .left {
+  width: 45%;
+  position: relative;
+}
+.login .right {
+  width: 48%;
+}
+.login .right > a, .right .loginText .loginHref {
+  display: block;
+  clear: both;
+  font-size: 14px;
+  font-size: 1.4rem;
+  margin: 0 0 10px 0;
+}
+.login .enter {
+  float: left;
+  width: 90%;
+}
+.login input#USERNAME {
+  clear: both;
+  margin: 0 0 15px 0;
+}
+.login input#login {
+  position: absolute;
+  bottom: 1px;
+  right: -1px;
+  border: 0 none;
+}
+.loggedIn {
+  margin: 20px 0;
+  font-size: 24px;
+  font-size: 2.4rem;
+}
+.loggedIn a {
+  color: #f15e22;
+  text-decoration: underline;  
+  text-transform: uppercase;
+  margin: 0 5px;
+  font-size: 20px;
+  font-size: 2.0rem;
+}
+.logout {
+  text-align: right;
+}
+.logout a {
+  text-decoration: underline;
+  color: #f15e22;
+}
+/*donate*/
+.mastCta .donate {
+  padding: 20px 50px 20px 70px;
+  overflow: hidden;
+}
+.mastCta .donate form {
+  position: relative;
+}
+.donate h2 {
+  text-transform: none;
+  float: left;
+}
+.mastCta .donate form {
+  width: 60%;
+  float: right;
+}
+.mastCta .walkerSearch, .mastCta .teamSearch {
+  display: block;
+  overflow: hidden;
+}
+.donate .teamSearch {
+  clear: both;
+  margin: 40px 0 0 0;
+}
+.donate .enter {
+  width: 89%;
+  margin: 0 0 15px;
+}
+.donate .enter#searchLastName, .donate .enter#teamSearchTeam {
+  margin: 0;
+}
+.mastCta #fr_find_search, .mastCta #fr_find_search_team {
+  position: absolute;
+  bottom: 1px;
+  right: 1px;
+  border: 0 none;
+}
+/*register*/
+.mastCta .register { padding: 20px 20px 30px 60px;overflow: hidden;}
+.mastCta .register h2 {text-transform: none}
+.mastCta .register div {float:left;}
+.register .mid h2 {color: #959595;text-transform: uppercase;}
+.register .left, .register .right {width: 40%;}
+.register .mid {width: 20%;text-align: center;margin: 40px 0 0;}
+.mastCta .register form {position: relative;}
+.mastCta .register .enter {width: 90%;}
+.mastCta .register input.action-button.go {position: absolute;bottom: 1px;right: -1px;border: 0 none;}
+.mastCta .register select.enter {width: 101%;height: 36px;}
+.desk .log i {vertical-align: super;margin: 0 0 0 5px;color: #fff;}
+.header .links{clear: both;}
+.header .links .lightGrey{background-color: #333; height: 75px; line-height: 75px;display: none;} 
+.header .links .lightGrey h3{color:#fff;margin: 0; font-size:2.8rem;text-align:center;}
+.header .nav {width: 90%;max-width:100%; background-color: #fff;display: none;padding: 10px 5%;} 
+.header .nav a {font-weight:bold;}
+.fa-bars{font-size: 35px;margin: 10px 10px 0 0;float: right;color:#000 !important;}
+.header .nav li {margin: 25px 0;}
+.header .mobileShow.expand{width:100%;float:none;}
+
+@media all and (min-width: 1500px) {
+  .tagline {
+    padding: 95px 2%;
+  }
+
+}
+@media all and (max-width: 1023px) {
+  .mastCta ul li {
+    width: 33%;
+  }
+  .utilities {
+    width: 99.42%;
+    float: right;
+  }
+  .tagline {
+    padding: 40px 2%;
+  } 
+  .loggedIn a {
+    font-size: 18px;
+    font-size: 1.8rem;
+  }
+  .loggedIn a:first-child {
+    margin: 0 5px 0 0;
+  }
+  .loggedIn a:last-child {
+    margin: 0 0 0 5px;
+  }
+}
+@media all and (max-width: 767px) {
+  .header .eventLogo {
+    margin: 2% 0 0 2%;
+    width: 75%;
+  }
+  
+  .mastCta {
+    width: auto;
+    clear: both;
+    border-bottom: 5px solid #f15e22;
+  }
+  
+  .utilities {
+    width: 100%;
+    float: none;
+  }
+  .mastCta .donate {
+    padding: 20px 40px;
+  }
+  .mastCta .donate h2 {
+    width: 100%;
+    float: none;
+  }
+  .mastCta .donate form {
+    float: none;
+    width: auto;
+    max-width: 320px;
+  }
+  .mastCta .login .left {
+    width: auto;
+  }
+  .mastCta .login .right {
+    clear: both;
+    float: none;
+    padding: 30px 0 0;
+    width: auto;
+  }
+}
+/*---------------------
+BUTTONS
+-----------------------*/
+.button, a.button,div.responsive a.button,.search-button,input.go,.go-button,a.go-button,#logBtn,#logBtn:link,#qf_go,input#donor_matching_employersearchBtn,div.responsive a.step-button,div.responsive button.step-button,
+div.responsive a#previous_step.step-button,div.responsive button#previous_step.step-button,div.responsive a#cancel_button.step-button,div.responsive button#cancel_button.step-button,div.responsive button#pstep_cancel.step-button,.Button, div#team_find_search_results_container div.list-component-cell-column-join-link a,div.responsive a#part_ctr_container,div.responsive a#part_ctr_container_step,.NextButton, .FinishButton,.CancelButton,#login-div-content input.uc-button,#login-div-content button, #login-div-content .ft button,#pstep_finish,div#find_participant div.list-component-body div.list-component-cell-column-donate a, div.team-list-join-container a.team-list-join, a.next-step, #EditCons .blueButton, .blueButton {background-color: #f15e22;text-align: center; color: #fff; text-decoration: none; border: 0 none; background-image: none; filter: none; border-radius: 0;
+ font-weight: bold; cursor: pointer; font-size: 24px; font-size: 2.4rem; text-transform: uppercase;}
+.button:hover,a.button:hover, div.responsive a.button:hover,.search-button:hover,input.go:hover,.go-button:hover,#logBtn:hover,#login:hover,div.responsive a.step-button:hover,div.responsive button.step-button:hover,div.responsive a#previous_step.step-button:hover, div.responsive button#previous_step.step-button:hover,div.responsive a#cancel_button.step-button:hover, div.responsive button#cancel_button.step-button:hover,.Button:hover,div.responsive button.cancel-step:hover, div.responsive button.cancel-step:focus,div.responsive button.cancel-step:active,div#team_find_search_results_container div.list-component-cell-column-join-link a:hover,div.responsive a#part_ctr_container:hover,div.responsive a#part_ctr_container_step:hover,.NextButton:hover,.FinishButton:hover,.welcome a:hover,#qf_go:hover,.CancelButton:hover,#login-div-content input.uc-button:hover, 
+#login-div-content button:hover, #login-div-content .ft button:hover,div#find_participant div.list-component-body div.list-component-cell-column-donate a:hover,div.team-list-join-container a.team-list-join:hover, a.next-step:hover, #EditCons .blueButton:hover {
+  background-color: #000000;text-decoration: none;filter:none; background-image: none;}
+.black .button:hover {background-color: #f15e22;}
+div.responsive button.step-button {max-width: 100%;}
+#pstep_finish {left: 0;}
+input.action-button.go {font-size: 14px;font-size: 1.4rem;float: right;height: 35px;border-top: 1px solid #fff;}
+.socialMedia .button {font-size: 14px;font-size: 1.4rem;padding: 10px;}
+.sidebar .button, .cta .button {display:block;max-width: 200px;padding: 10px;margin: 0 0 25px;}
+button span {color:#fff;}
+.utilities .button {padding: 20px;display: block;max-width:200px;}
+.registerBtns .button {display: block; max-width: 550px; margin: 40px auto;padding: 20px; text-align: center;}
+/*------------------------------
+THERMOMETERS
+--------------------------------*/
+.entry .thermWrap {background: #e9e9e9;}
+.entry .thermWrap .left{padding-top: 20px;}
+.entry .thermWrap .right {width: 70%;}
+.thermWrap .percent {color: #fff;position: absolute;left:20px;bottom: 45px; font-weight: bold;font-size: 22px;}
+.therm {background: url('https://secure2.convio.net/nkf/images/content/pagebuilder/stripe.png') repeat scroll 0 0 transparent;margin: 0 auto;position: relative;width: 100%;height: 110px;}
+.therm2 {background: #f15e22;width: %;height: 110px;position: absolute;left:0;
+  bottom:0; min-width: 85px;border-left: 5px solid #fff;border-right: 5px solid #fff;}
+.personal .therm2 {width: %;max-width:100%;border-left: 0 none;
+}
+.team .therm2 {width: %;border-left:0 none;}
+
+/*----------------------
+sponsors
+-----------------------*/
+.sponsors img {margin: 20px 0 40px;}
+@media all and (max-width: 1023px) {
+  .sponsors .left, .sponsors .right {clear: both;width: 100%;text-align: center;}
+}
+/*----------------------
+social media block
+------------------------*/
+.socialMedia .left {width: 50%;}
+.socialMedia .right {width: 42%;}
+.socialMedia h1 { float: left;}
+.socialMedia .right h1 { margin: 0;}
+.socialMedia .button {float: right;}
+.socialMedia iframe {display: block;clear: both; margin: 0 auto;}
+.twFeed {margin: 45px 0;max-height: 235px;}
+.timeline {background-color: transparent !important;border-radius: 0 !important;border: 0 !important;}
+.black h1.instagramMethod {clear: both;color: #f15e22;margin: 0 0 20px;}
+.socialLinks { margin: 45px 0;}
+.black h3 { color: #fff; float: left; font-size: 14px;font-size: 1.4rem;margin: 4px 10px 0 0;}
+.socialLinks img {margin: 0 10px;}
+.footer .right {text-align: right;}
+.footer .right p {margin: 0 0 10px;}
+@media all and (max-width: 1023px) {
+  .socialMedia .left {display: none;}
+  .socialMedia .right {float: none;max-width: 410px; width: auto;margin: 0 auto;  }
+  .black h3 {float: none;margin: 0 0 10px 0;}
+}
+@media all and (max-width: 767px) {
+  .footer .eventLogo {max-width: 300px;width: auto;float: none;margin: 0 auto;}
+  .footer .right {float: none;margin: 35px auto 0;max-width: 290px;text-align: left;}
+}
+@media all and (max-width: 567px) {
+  .inFeed iframe {max-width: 100% !important;width: 260px !important;}
+  .inFeed .button {display: none;}
+}
+
+/*------------------------------
+SPLASH PAGE
+--------------------------------*/
+.splashIntro .left, .splashIntro .right {width: 48.8%;}
+.feature {width: 74.5%;}
+.feed {width: 22.5%;}
+.feature .left {width: 30%;}
+.feature .right {width: 65%;}
+.content .indicators ol li {list-style: none;margin: 0 0 25px;font-size: 14px;font-size: 1.4rem;}
+.indicators .vScrollList a {font-size: 14px;font-size: 1.4rem;}
+.indicators .vScrollList {font-size: 14px;font-size: 1.4rem;font-weight: bold;padding: 25px 25px 0;clear: both;}
+.indicator-list-row {display: block; margin: 0 0 10px 0; overflow: hidden;display: block;}
+.indicators > .left > a {display: block;margin: 0 0 0 25px;}
+.indicators h2 {color: #fff;height: 40px;line-height: 40px;text-align: center;margin: 0;
+}
+.indSearch .text {width: 31.5%;margin: 0 1% 0 0;}
+.indSearch .text.lastName { margin: 0;}
+form .text { background: none repeat scroll 0 0 #e7e7e7; border: 0 none; float: left; height: 35px; padding: 0 0 0 2%; color: #959595; font-size: 14px; border-top: 1px solid #fff;}
+.search_form input.action-button.go {width: 35%;}
+.teamSearch .text {width: 63%;}
+.indSearch .text {width: 30%;margin-right: 1%;}
+.indSearch .text.lastName {margin-right: 0;}
+.splashIntro iframe {max-width: 100%;}
+.indicators .vScrollList a {display: block;}
+.blog .rssincl-itemdesc, .rssincl-backlink {display: none !important;}
+div.rssincl-entry p.rssincl-itemtitle a {text-decoration: none !important;font-weight: normal !important;}
+div.rssincl-entry p.rssincl-itemtitle a:hover {text-decoration: underline !important;}
+.socialMedia .rssincl-head, .socialMedia .rssincl-entry img {display:none;}
+div#rssincl-box-908306,div#rssincl-box-908783 {width: 100% !important;}
+div#rssincl-box-908783 {clear: both;}
+.fbFeed .rssincl-itemdesc {display: none;}
+div#rssincl-box-908783 div.rssincl-content div.rssincl-entry {padding: 15px 5px !important;}
+.callout-item{  width: calc(100%/3);}
+.callout-item h2 {font-size: 16px;}
+@media all and (max-width: 1023px) {
+  .splashIntro > .left, .splash .indicators {width: auto; float: none;}
+  .splashIntro iframe {display: block;margin: 40px auto;}
+  .feed {max-width: 300px;width: auto;float: left; clear: both;margin: 30px auto;}
+  .feature {float: none;overflow: hidden;margin: 0 auto;width: auto; max-width: 750px;}
+  .feature .left {max-width: 230px; width: auto;}
+}
+@media all and (max-width: 767px) {
+  
+  .indicators .left,.indicators .right {width: 98%; clear: both; margin: 25px auto;}
+  
+  .feature .left {margin: 0 auto 15px;}
+  .feature .right {width: auto;}
+}
+/*---------------------------
+Donation Flow
+-----------------------------*/
+div.tr-page-container {clear: both; margin: 0 auto;max-width: 1000px; overflow: hidden;}
+#search_part_team {display: none;}
+
+/*-------------------------
+login and password pages
+---------------------------*/
+#appAreaNoWidthClearFix {width: 90%;}
+#login-div-content div.right-block {float: none;}
+#login-div-content .login-form {background-color: transparent;}
+#login-div-content div.actions {padding: 15px;}
+@media all and (max-width: 767px) {
+#appAreaNoWidthClearFix table tr td {width: 100% !important;clear: both !important;display: block;}
+}
+.tweet .e-entry-title {overflow:visible;}
+
+/*-------------------------------
+GREETING PAGE
+---------------------------------*/
+
+#entry {display:none;}
+
+.darkGrey.eventInfo {border-top: 2px solid #fff;border-bottom: 2px solid #fff;}
+.eventInfo h2 {color: #fff; margin: 0; line-height: 50px;}
+.sidebar {width:22%;}
+.mainContent{width: 73%;}
+.walkInfo{padding:0 0 0 10px; margin: 0 0 25px;}
+.walkInfo h2 {margin: 0;}
+.sidebar .lightGrey {padding: 10px; max-width: 200px;margin: 0 0 15px;}
+.sidebar .lightGrey h3 {color:#fff;text-align: center;margin:0;}
+.sidebar ul li {list-style: none;}
+.sidebar ul li a {font-weight: bold;}
+.entry .indicators {clear:both; margin: 50px 0;} 
+.entry .indicators > .left, .entry .indicators > .right {width:45%;}
+.entry .indicators .darkGrey {overflow: hidden;padding: 0 15px;line-height:40px;}
+.content > .contentWrap {padding-top: 20px;}
+.indicators h3 {margin: 0;}
+.indicators .fa-caret-right {color: #009dc6;}
+.topList {clear:both;font-weight:bold;}
+div.indicator-container{border: 0 none;border-radius: 0;}
+.topList .list-name-container {float:left;}
+.topList .list-value-container {float: right;}
+.topList .badge-icon {display:none;}
+div.indicator-container a.indicator-link{font-weight:bold;line-height: 20px}
+div.indicator-container a.indicator-link:hover{text-decoration: underline;}
+.mainContent h2, .mainContent p{color: #333;line-height: 25px;}
+@media (max-width:1023px) {
+  .entry .thermWrap .left {width:25%;padding:0;}
+  .entry .thermWrap .left h2 {margin: 0 0 10px 30px;}
+}
+@media (max-width:767px) {  
+  .entry .thermWrap .right,.entry .thermWrap .left{width:100%;clear:both;text-align: center;}
+  .entry .thermWrap .left{padding-top:20px;}
+  .entry .thermWrap .left h2 {margin: 0 0 20px;}
+  .sidebar, .mainContent {width:100%;float:none;}
+  .sidebar{text-align: center;}
+  .sidebar .button {margin: 0 auto 25px;}
+  .sidebar .lightGrey{margin:0 auto 15px;}
+  .links ul {margin:0 auto;width: 100%; max-width: 250px;text-align:left;}
+  .thermWrap .pad {padding:0;}
+  .darkGrey.eventInfo{background-color:#f15e22;text-align: center;}
+  .darkGrey.eventInfo h2{clear:both;float:none;}
+  .content .links {display:none;}
+  .entry .indicators > .left, .entry .indicators > .right {width:100%;margin:0 auto 50px;} 
+  .entry .indicators .darkGrey{padding: 1.5%;}
+  .entry .indicators .darkGrey a.right{font-size:14px;}
+}
+
+
+
+
+
+
+
+
+
+
+/*----------------------------------
+TEAMLIST
+------------------------------------*/
+div.responsive#team_list_page{width:99%;}
+div.responsive#team_list_page div.team-list-join-container a.team-list-join{padding:0;min-width:100px;}
+@media (max-width:768px){
+div.responsive#team_list_page .team-list-participants{display: none;}
+}
+@media (max-width:568px){
+div.team-list-one-button-container {float: right;margin-top: 0;position: relative;right: 0;top: 0;}
+}
+/*--------------------------------
+REG FLOW
+----------------------------------*/
+div.tr-page-header{display: none;}
+.campaign-banner-container{display: none;}
+.progress-bar-container{margin: 20px 0 0;}
+div.progress-bar-step-text-container{font-size:16px;}
+
+
+
+@media (max-width: 768px) {
+  div.reg-summary-thanks-common-container div.action-button-container, div.responsive button.step-button, div.reg-summary-thanks-common-container div.action-button-container .secondary-wrapper, div.reg-summary-thanks-common-container div.action-button-container {width: 100%;max-width:100%;float:none;clear:both;}
+}
+
+/*----------------------------------
+INTERNAL PAGES
+-----------------------------------*/
+div.tr-page-main-content {width:95%;padding: 10px 2.5%;}
+/*div.team-list-one-button-container{position: static;clear: both;margin:10px 0 0;float:left;}*/
+#fr_informational_page{border: 0 none;width: 100%;}
+.socialInternal{text-align:right;}
+.socialInternal h3{display: inline-block;vertical-align:super;margin: 0 2% 0 0;}
+.socialInternal .socialLinks .fa {font-size: 35px;margin:0 2% 0 0;}
+@media (max-width: 568px) {
+  .socialInternal h3{display: block;margin: 0 0 15px 0;}
+}
+/*--------------------------------
+COMPANY LIST
+-----------------------------------*/
+div.responsive#company_list_page{width:99%;}
+#company_list_page div.tr-page-main-content {width:97%;padding:10px 0;}
+#company_list_page .side-bar .tr-status-indicator-container:nth-child(2) {display: none;}
+div.tr-page-container#company_list_page div.side-bar{width:97%; padding:10px 0;} 
+#company_list_page div.indicator-list-row {line-height: 20px; margin: 0 0 5px;}
+
+@media all and (max-width: 1023px) {
+#company_list_page div.tr-page-main-content{padding:10px 0;width:95%}div#company_list_page.tr-page-container div.side-bar{float:left;padding:10px;width:100%}#non_mobile_company_list table,#non_mobile_company_list tbody,#non_mobile_company_list td,#non_mobile_company_list th,#non_mobile_company_list tr{display:block}#bd-recent-activity-detail thead tr,#non_mobile_company_list thead tr{position:absolute;top:-9999px;left:-9999px}#non_mobile_company_list tr{border:1px solid #ccc}#non_mobile_company_list td{border:none;border-bottom:1px solid #eee;position:relative;padding-left:58%!important;border-color:#b0b0b0!important}#non_mobile_company_list td:before{position:absolute;top:6px;left:6px;width:45%;padding-right:10px;white-space:nowrap;font-weight:bold;}#non_mobile_company_list td:nth-of-type(1):before{content:"Company Name"}#non_mobile_company_list td:nth-of-type(2):before{content:"Teams"}#non_mobile_company_list td:nth-of-type(4):before{content:"Participants"}#non_mobile_company_list td:nth-of-type(5):before{content:"Donations"}#non_mobile_company_list td:nth-of-type(3),#non_mobile_company_list td:nth-of-type(5){display:none}#non_mobile_company_list p.righted{text-align:left}	
+}
+
+/*--------------------------------
+SPLASH PAGE SPONSORS
+-----------------------------------*/
+.national-partners p {margin: 5px;}
+.sponsors .left img {width: 235px;}
+body > div.wrapper > div.sponsors.contentWrap.pad > div.clear {margin-bottom: 50px;}
+body > div.wrapper > div.sponsors.contentWrap.pad > div.right {margin-right: 130px;}
+body > div.wrapper > div.sponsors.contentWrap.pad > div.left {text-align: center;}
+
+@media all and (max-width: 1023px) {
+  body > div.wrapper > div.sponsors.contentWrap.pad > div.right {margin-right: 0;  
+}
+
+
+
+/* 2017 Styles PageBuilder: reus_walk2017_redesign_css*/
+a, a:link, div.responsive a:link, div.responsive a:visited, a:visited, div.indicator-container a.indicator-link, a .fa, a span, #search_participant a.link, #login-div-content a{color:#1B849A;font-weight:bold;outline:0;}
+a:active, a:focus {
+  outline: 0;
+}
+a:hover, div.responsive a:hover {text-decoration: underline;}
+.lightblue{background:url('../images/content/pagebuilder/2016-blueBkrd.png') repeat scroll 0 0 transparent;}
+.dotpattern{background:url('../images/content/pagebuilder/dot-pattern-bg.png') repeat scroll 0 0 transparent;}
+*{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;-ms-box-sizing:border-box;-o-box-sizing:border-box;box-sizing:border-box;}
+.vidEmbed {position: relative;padding-bottom: 56.25%; /* 16:9 */height: 0;margin: 0 0 20px;}
+.vidEmbed iframe {position: absolute;top: 0;left: 0;width: 100%;height: 100%;margin:0;}
+.text-center{text-align: center;}
+.text-left{text-align: left;}
+.text-right{text-align: right;}
+.hide{display: none; }
+@media (max-width: 1050px) {
+.text-left-mobile{text-align: left;}
+.text-center-mobile {text-align: center; }	
+}
+@media (min-width: 1011px) {
+.show-desktop {
+  display: block;
+}
+.show-mobile, .mobile-break {
+  display: none;
+}	
+}
+@media (max-width: 1010px) {
+.show-desktop {
+  display: none;
+}
+.show-mobile, .mobile-break {
+  display: block;
+}	
+}
+/*-----------------------
+OVERRIDES
+-------------------------*/
+.content > .contentWrap{padding-top:30px;}
+.internal, .orange, .orange .contentWrap, .sponsors, .socialMedia, .footer {padding:35px 2%;}
+.content.entry .orange.top-fundraisers .contentWrap {
+	padding: 0;
+}
+.splash-tabs .splashIntro {
+  padding: 0 9% 0;
+}
+
+.fa-caret-right{font-size:inherit;margin: 0 0 0 5px !important;}
+h1, div.campaign-banner-container {
+  font-size: 2.4rem;
+}
+h1, div.campaign-banner-container, h2, .section-header-text, h3{text-transform: none; font-family: Arial Bold, Arial,sans-serif;font-weight:bold;}
+.content ul li, .content ol ul li{margin: 0 0 15px 15px;}
+.footer .logos img {max-height:60px; margin: 0 0 0 2%;}
+.main ul li, .mainContent h2, .mainContent p{color:#000;}
+#login-div-content .input-border{border: 0 none;}
+.callout-item h2 {
+  font-size: 24px;
+}
+@media(max-width:1023px){
+    .pad{padding-left: 2% !important; padding-right: 2% !important;}
+}
+@media (max-width:767px){
+    .footer .logos{width:215px; margin:auto;}
+    .footer .logos a {display: block;float:left;margin: 20px 0 0 10px}
+    .footer .logos a:nth-child(4) {clear:left;margin: 20px 0 0 0;}
+}
+@media(max-width:567px){
+    .pad{padding-left: 4% !important; padding-right: 4% !important;}
+}
+
+
+
+/*---------------------
+BUTTONS
+-----------------------*/
+.button, a.button,div.responsive a.button,.search-button,input.go,.go-button,a.go-button,#logBtn,#logBtn:link,#qf_go,input#donor_matching_employersearchBtn,div.responsive a.step-button,div.responsive button.step-button,div.responsive a#previous_step.step-button,div.responsive button#previous_step.step-button,div.responsive a#cancel_button.step-button,div.responsive button#cancel_button.step-button,div.responsive button#pstep_cancel.step-button,.Button, div#team_find_search_results_container div.list-component-cell-column-join-link a,div.responsive a#part_ctr_container,div.responsive a#part_ctr_container_step,.NextButton, .FinishButton,.CancelButton,#login-div-content input.uc-button,#login-div-content button, #login-div-content .ft button,#pstep_finish,div#find_participant div.list-component-body div.list-component-cell-column-donate a, div.team-list-join-container a.team-list-join, a.next-step, #EditCons .blueButton, .blueButton {background-color: #f15e22;text-align: center; color: #fff; text-decoration: none; border: 0 none; background-image: none; filter: none; border-radius: 0;
+ font-weight: bold; cursor: pointer; font-size: 24px; font-size: 2.4rem; text-transform: uppercase;}
+.button:hover,a.button:hover, div.responsive a.button:hover,.search-button:hover,input.go:hover,.go-button:hover,#logBtn:hover,#login:hover,div.responsive a.step-button:hover,div.responsive button.step-button:hover,div.responsive a#previous_step.step-button:hover, div.responsive button#previous_step.step-button:hover,div.responsive a#cancel_button.step-button:hover, div.responsive button#cancel_button.step-button:hover,.Button:hover,div.responsive button.cancel-step:hover, div.responsive button.cancel-step:focus,div.responsive button.cancel-step:active,div#team_find_search_results_container div.list-component-cell-column-join-link a:hover,div.responsive a#part_ctr_container:hover,div.responsive a#part_ctr_container_step:hover,.NextButton:hover,.FinishButton:hover,.welcome a:hover,#qf_go:hover,.CancelButton:hover,#login-div-content input.uc-button:hover, 
+#login-div-content button:hover, #login-div-content .ft button:hover,div#find_participant div.list-component-body div.list-component-cell-column-donate a:hover,div.team-list-join-container a.team-list-join:hover, a.next-step:hover, #EditCons .blueButton:hover {
+  background-color: #000000;text-decoration: none;filter:none; background-image: none;}
+.button, a.button, div.responsive a.button, .search-button, input.go, .go-button, a.go-button, #logBtn, #logBtn:link, #qf_go, input#donor_matching_employersearchBtn, div.responsive a.step-button, div.responsive button.step-button, div.responsive a#previous_step.step-button, div.responsive button#previous_step.step-button, div.responsive a#cancel_button.step-button, div.responsive button#cancel_button.step-button, div.responsive button#pstep_cancel.step-button, .Button, div#team_find_search_results_container div.list-component-cell-column-join-link a, div.responsive a#part_ctr_container, div.responsive a#part_ctr_container_step, .NextButton, .FinishButton, .CancelButton, #login-div-content input.uc-button, #login-div-content button, #login-div-content .ft button, #pstep_finish, div#find_participant div.list-component-body div.list-component-cell-column-donate a, div.team-list-join-container a.team-list-join, a.next-step, #EditCons .blueButton {border-radius:5px;color:#fff;text-transform:none;font-weight: bold;}
+.button:hover, a.button:hover, div.responsive a.button:hover, .search-button:hover, input.go:hover, .go-button:hover, #logBtn:hover, #login:hover, div.responsive a.step-button:hover, div.responsive button.step-button:hover, div.responsive a#previous_step.step-button:hover, div.responsive button#previous_step.step-button:hover, div.responsive a#cancel_button.step-button:hover, div.responsive button#cancel_button.step-button:hover, .Button:hover, div.responsive button.cancel-step:hover, div.responsive button.cancel-step:focus, div.responsive button.cancel-step:active, div#team_find_search_results_container div.list-component-cell-column-join-link a:hover, div.responsive a#part_ctr_container:hover, div.responsive a#part_ctr_container_step:hover, .NextButton:hover, .FinishButton:hover, .welcome a:hover, #qf_go:hover, .CancelButton:hover, #login-div-content input.uc-button:hover, #login-div-content button:hover, #login-div-content .ft button:hover, div#find_participant div.list-component-body div.list-component-cell-column-donate a:hover, div.team-list-join-container a.team-list-join:hover, a.next-step:hover, #pstep_finish:hover, #EditCons .blueButton:hover {background-color: #ce3d02}
+div.responsive button.step-button{min-width:150px;}
+div.responsive a.step-button, div.responsive button.step-button, div.responsive a#previous_step.step-button, div.responsive button#previous_step.step-button, div.responsive a#cancel_button.step-button, div.responsive button#cancel_button.step-button, div.responsive button#pstep_cancel.step-button{line-height: 45px;padding: 0 2%;}
+.sidebar .button{max-width:100%;}
+.socialMedia .button{color:#fff;background:#000;padding: 0 2%; line-height: 30px}
+.socialMedia .button:hover{background:#000;}
+.login input#login{position: relative;bottom: 0;right: 0; clear:both;float:none;margin:10px 0;padding: 0 10px;}
+@media (max-width:1023px) {
+    input[type="button"], input[type="submit"] {-webkit-appearance:none;border-radius:0;}
+    select{background-color:#fff;filter:none;background-image: -moz-linear-gradient(top, #fff, #fff);
+background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#fff), to(#fff));background-image: -webkit-linear-gradient(top, #fff, #fff);background-image: -o-linear-gradient(top, #fff, #fff);background-image: linear-gradient(to bottom, #fff, #fff);border-radius:0;}   
+    .cta.mobileShow .button{border-radius:0;max-width:100%;width: calc(50% - 1px);margin:0; padding: 20px 10px; font-size: 22px;}
+}
+
+/*--------------------------------
+HEADER
+----------------------------------*/
+
+
+
+.header {
+  background: #ffffff url("../images/content/pagebuilder/NKF-Banner-Large.jpg") no-repeat scroll 0 0 / cover ;
+  position: relative;
+}
+.header{padding:0 0 20.8%}
+/* @media (max-width: 1400px) {
+.header {
+  padding: 0 0 13.2%;
+}	
+} */
+
+
+
+
+
+
+
+
+@media (max-width: 1023px) {
+.header {
+  background: transparent !important;
+}
+.header {
+  height: auto;
+}	
+}
+
+
+
+#login-dropdown {
+  padding: 15px 0;
+  background: rgb(233, 233, 233) none repeat scroll 0 0;
+}
+#login-dropdown .forgot-creds {
+  margin: 10px 0 0;
+}
+#login-dropdown .enter {
+  border: 1px solid #959595;
+  font-size: 1.4rem;
+  height: 35px;
+  padding: 5px;
+}
+#login-dropdown .go.action-button {
+  float: none;
+  width: 50px;
+}
+
+.header.open .walkInfo{display: inline-block;width:100%;}
+
+.header .nav {
+  background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+  display: block;
+  height: 90px;
+  padding: 0;
+  position: fixed;
+  width: 100%;
+  z-index: 999;
+}
+.header.sticky-bg .nav {
+  background: #ffffff none repeat scroll 0 0;
+  border-bottom: 2px solid #f15e22;
+}
+@media (max-width: 1025px) {
+.header .nav {
+  position: static;
+}	
+}
+
+.eventLogo a{display: block}
+.eventLogo{max-width: 215px;}
+.header .nav a.menuLink{display: none;}
+
+.header .nav .navLinks > li > a, .header .nav li.navLogin span {
+  background-color: #f15e22;
+  color: #ffffff;
+  display: block;
+  font-family: Arial Bold, Arial,sans-serif;
+  font-size: 16px;
+  line-height: 40px;
+  padding: 0;
+  text-align: center;
+  width: 100px;
+}
+.header .nav li.navDonate a {
+  width: 100px;
+}
+
+.header .nav .navLinks a:hover{text-decoration: none;}
+.navLinks {
+  float: right;
+  max-width: 650px;
+  text-align: right;
+  width: 100%;
+}
+.header .nav li.navLogin {
+    margin: 0 -2px;
+}
+.header .nav li {
+    display: inline-block;
+    margin: 0 -1px;
+}
+.header .nav li.mobileShow{display:none;}
+.header .nav li.navLogin ul {
+  background: #ffffff none repeat scroll 0 0;
+  display: none;
+  line-height: 2;
+  padding: 0;
+  width: 250px;
+}
+
+.header .nav li.navDonate a {border-radius: 0 0 0 7px;}
+.header .nav li.navLogin span {border-radius: 0 0 7px 0;}
+
+
+.header .nav li.navLogin a {border-radius: 0 0 7px;}
+
+
+
+
+
+
+
+
+@media (min-width: 1025px){
+
+.header .nav .navLinks li.navLogin:hover{cursor:pointer;}
+.header .nav .navLinks li.navLogin:hover ul {
+  display: block;
+  position: absolute;
+  text-align: left;
+}
+.header .nav .navLinks a:hover{background: #ce3d02;}
+.header .nav .navLinks .navLogin ul li a:hover {
+  background: #ce3d02 none repeat scroll 0 0;
+  color: #ffffff;
+}
+}
+
+.header .nav .navLinks li.navLogin a.mobileShow{display: none}
+.header .nav li.navLogin ul li {clear: both;float:none;width:100%;}
+.header .nav li.navLogin ul li a {
+  border-bottom: 0 none;
+  border-radius: 0;
+  display: block;
+  font-family: Arial Bold,Arial,sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  padding: 10px;
+  text-align: left;
+}
+.header .nav li.navLogin .fa {font-size:inherit;color: inherit}
+
+
+.info{width:100%}
+
+    .infoHead {border-radius: 15px 15px 0 0; padding: 15px 5% 0;}
+
+.info h2, .info h2 a {font-size:24px; font-family:Arial Bold, Arial,sans-serif;font-weight:bold;color: #fff;margin:0;line-height:1.25;text-transform: none;}
+.info h2.upcoming{font-size:18px;margin: 30px 0 0;}
+
+    .infoDetail .contentWrap {padding: 20px 0;}
+    .infoDetail.dotpattern .contentWrap {padding: 20px 5% 15px;}
+	.infoDetail .contentWrap.walk-splash { padding: 20px 5%;}
+	.infoDetail.dotpattern .contentWrap.walk-splash { padding: 20px 5% 15px;}
+
+
+
+
+.event-details-title-days h1 {
+    color: #ffffff;
+    font-size: 24px;
+    margin: 20px 10px;
+	text-decoration: none;
+}
+.event-details-title-days h1 a {
+    font-size: 24px;
+	color: #ffffff;
+	text-decoration: none;
+}
+.event-details-title-days h1 a:hover {
+	text-decoration: underline;
+}
+.event-details-title-days h1 span {
+    float: right;
+    color: #fff;
+    font-size: 24px;
+}
+@media (max-width: 650px) {
+.event-details-title-days h1 span {
+  float: none;
+  display: block;
+  margin-top: 10px;
+}	
+}
+.info .search-h2, .info .num-walks {
+  font-size: 16px;
+}
+.orange-separator {
+  background: #f15e22;
+  height: 6px;
+  border-top: 2px solid #e5e6e7;
+  border-bottom: 2px solid #e5e6e7;
+}
+.eventSearchResult{width: 100%; padding: 0;overflow:hidden;}
+.eventSearchComponent {
+  clear: both;
+  margin: 20px 0 0;
+  padding: 0;
+}
+.view-all-walks {
+  float: left;
+  color: #ffffff !important;
+}
+.view-all-walks i {
+  color: #ffffff !important;
+}
+.info .num-walks {
+  margin-bottom: 10px;
+}
+#zipInputContainer, #stateInputContainer {
+  display: inline-block;
+}
+#zipInputContainer {
+  margin-right: 10px;
+}
+#zipSubmit {
+  background: #ffffff;
+  border-left: 1px solid #999999;
+  border-right: none;
+  border-bottom: none;
+  border-top: none;
+  color: #999999;
+  height: 25px;
+  margin-left: -5px;
+  width: 33px;
+  cursor: pointer;
+}
+#zipSubmit i {
+  color: #999999;
+}
+.eventEntry {
+  clear: both;
+  display: block;
+  line-height: 40px;
+  margin: 0;
+  overflow: hidden;
+  padding: 8px 0;
+}
+.eventEntry .right {
+  margin-top: 2px;
+}
+.eventDetails.cta.button {
+  background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+  display: inline-block;
+  font-size: 18px;
+  line-height: normal;
+  padding: 7px 25px;
+  text-decoration: none;
+  border: 1px solid #ffffff;
+}
+.eventReg.cta.button {
+  display: inline-block;
+  font-size: 18px;
+  line-height: normal;
+  padding: 7px 25px;
+  text-decoration: none;
+  border: 1px solid #ffffff;
+}
+.eventReg.cta.button {
+  margin-left: 25px;
+}
+.eventDetails.cta.button:hover, .eventReg.cta.button:hover {
+  background: #000000;
+  color: #ffffff;
+  border: 1px solid #ffffff;
+  text-decoration: none;
+}
+.register-lightbox-container {
+  background: #ffffff none repeat scroll 0 0;
+  border-radius: 10px;
+  padding: 30px 60px 10px;
+}
+.register-lightbox-container .button {
+  display: block;
+  margin: 30px auto;
+  max-width: 550px;
+  padding: 20px;
+  text-align: center;
+}
+.register-lightbox-container .close {
+  padding: 10px;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+.register-lightbox-links.active-links > p {
+  font-weight: bold;
+  text-align: center;
+}
+.eventname {
+  display: block;
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+.infoDetail form label {
+  color: #ffffff;
+  display: inline-block;
+  margin: 0 5px 10px;
+  vertical-align: text-top;
+}
+.info .eventEntry span {color:#fff;font-size:16px;}
+.eventEntry .fa-caret-right, #pastEventListContainer .fa-caret-right{font-size:18px;margin: 0 10px 0 0 !important;}
+.lightblue .eventSearchResult a {color: #fff;text-decoration: none;font-weight:bold;}
+.lightblue .eventSearchResult a:hover {text-decoration: underline;}
+.dotpattern .eventSearchResult a {color: #fff;text-decoration: none;font-weight:bold;}
+.dotpattern .eventSearchResult a:hover {text-decoration: underline;}
+@media(max-width:1150px){
+    .header .nav li.navLogin ul{line-height: 1.45}
+}
+@media(max-width:1023px){
+    .header, .header.open{padding:0;}
+    .info {position: relative}
+    .info .contentWrap{max-width:100%;}
+    .eventLogo{margin:10px 0 10px 2%;}
+    .menuLink .fa{margin: 30px 2% 0 0;color:#000;float:right;font-size:35px;}
+    .header .nav a.menuLink{display: block}
+    .navLinks{float:none;width:100%;max-width: 100%;clear:both;display: none}
+    .header .nav{height:auto;}
+    .header .nav li{width:100%;}
+	.header .nav .navLinks > li > a, .header .nav li.navLogin span {
+  font-size: 24px;
+  line-height: 90px;
+  width: 100% !important;
+  border-radius: 0 !important;
+}
+.header .nav li.navLogin, .header .nav li.navLogin ul {
+  width: 100%;
+}
+    .header .nav .navLinks a {line-height: 60px}
+    .header .nav .navLinks a{border-bottom: 2px solid #ffffff;}
+    
+        .infoHead{border-radius: 0;padding:15px 0 0 2%;}
+    
+    .eventSearchResult{padding: 0 5% 0 2%;}
+    .header .nav li.navLogin span{display: none}
+    .header .nav .navLinks li.navLogin a.mobileShow{display:block;border-bottom: 0 none;}
+    .header .nav li.navLogin ul{background:transparent;padding:0;}
+.header .nav li.mobileShow ul {
+  padding: 0 0 20px;
+  text-align: center;
+}
+.header .nav li.navLogin ul li a {
+  text-align: center;
+}
+    .header .nav li.mobileShow{display: block}
+    .header .nav li.mobileShow ul{height:auto; display: block;overflow: hidden;padding:0 0 20px;}
+    .header .nav li.mobileShow ul li a {border:0 none;line-height: 30px;}
+    .header .links .lightGrey{background-color: transparent;display: block}
+    .header .links .lightGrey h3{color:inherit;}
+    ul.navLinks li.mobileShow > .button {display: none;} 
+	.eventEntry .left, .eventEntry .right {
+  float: none;
+  width: 100%;
+	}
+.eventSearchComponent {
+  margin: 20px 20px 0;
+}
+.view-all-walks {
+  margin-bottom: 20px;
+  width: 100%;
+}
+.infoDetail form label {
+  display: block;
+  margin: 0 0 5px;
+}
+.eventDetails.cta.button, .eventReg.cta.button {
+  padding: 7px 15px;
+}
+.infoDetail .contentWrap.walk-splash, .infoDetail.dotpattern .contentWrap {
+  padding: 20px 0;
+}
+.header .nav li.navReg, .header .nav li.navDonate {
+  display: none;
+}
+}
+@media(max-width:767px){
+  .header .info {background: url('../images/content/pagebuilder/2016walk_banner_lg.jpg') no-repeat scroll 0 0 / cover #fff;}
+  .header {background-image:none;}
+    .header .nav{background:#fff;}
+    .header .eventLogo{margin: 15px 0 15px 2%;width:100%;}
+    .eventSearchResult{width:100%;border-right:0 none;}
+    .eventSearchComponent{padding:20px 2% 0;width: 100%;margin: 20px 0 0;}
+	.register-lightbox-container {
+  padding: 30px 20px 10px;
+	}
+	.header .nav .navLinks > li > a, .header .nav li.navLogin span {
+  font-size: 18px;
+}
+}
+
+/*------------------------
+FEEDS
+--------------------------*/
+div#rssincl-box-908783 div.rssincl-content div.rssincl-entry,
+.customisable-border.thm-dark,
+.thm-dark .customisable-border {
+    background: transparent !important;
+}
+.socialMedia h1 {
+    color: #fff;
+    margin: 0 0 30px;
+}
+div#rssincl-box-908783 div.rssincl-content div.rssincl-entry p.rssincl-itemtitle a {
+    font-size: inherit
+}
+div.rssincl-entry p.rssincl-itemtitle a {
+    font-weight: bold !important;
+    font-size: 16px !important;
+}
+div#rssincl-box-908783 div.rssincl-content div.rssincl-entry {
+    border-bottom: 1px solid #333 !important;
+    padding: 25px 0 !important;
+}
+.timeline .e-entry-content p {
+    font-size: 16px !important;
+}
+div#rssincl-box-908783 div.rssincl-content div.rssincl-entry.rssincl-last {
+    display: none
+}
+.socialMedia h1.instagramMethod {
+    clear: both;
+    color: #000;
+    font-size: 24px;
+    margin: 0 0 30px;
+}
+.socialMedia .socialLinks a img {
+    vertical-align: sub
+}
+.socialMedia .socialLinks h3 {
+    display: inline;
+    color: #fff;
+    text-transform: none;
+    font-size: 14px;
+    font-family: Arial Bold, Arial,sans-serif;
+}
+.socialMedia .socialLinks {
+    text-align: center;
+}
+div#rssincl-box-908783,
+.twFeed iframe {
+    padding: 15px 0 0 !important;
+}
+.customisable,
+.customisable:link,
+.customisable:visited,
+.customisable b,
+.e-entry-title a {
+    font-weight: bold !important;
+}
+.twFeed {
+    margin: 80px 0 0;
+}
+div#rssincl-box-908306 div.rssincl-head, div#rssincl-box-908306 div.rssincl-content div.rssincl-entry {
+  background-color: rgba(0, 0, 0, 0) !important;
+}
+div#rssincl-box-908306 div.rssincl-content div.rssincl-entry {
+  padding: 0 0 25px !important;
+}
+div#rssincl-box-908306 div.rssincl-content div.rssincl-entry div.rssincl-itemdesc, div#rssincl-box-908306 div.rssincl-content div.rssincl-entry div.rssincl-itemdesc * {
+  color: #333333 !important;
+  font-size: 16px !important;
+}
+div#rssincl-box-908306 div.rssincl-content div.rssincl-entry p.rssincl-itemtitle a, div#rssincl-box-908306 div.rssincl-content div.rssincl-entry div.rssincl-itemdesc a {
+  color: #f15e22 !important;
+}
+.rssincl-head {
+  padding: 0 0 10px 0 !important;
+}
+.rssincl-title a {
+  color: #000000 !important;
+  margin: 0 !important;
+}
+div#rssincl-box-908306 div.rssincl-content .rssincl-entry.rssincl-last {
+  padding: 0 !important;
+}
+.j-text {
+  display: none !important;
+}
+@media (max-width:1000px){
+    .socialMedia .socialLinks h3{display: block}
+}
+/*------------------
+FORMS
+--------------------*/
+.eventSearchComponent input[type=text], .eventSearchComponent select {height: 25px;line-height:25px;font-size:16px;box-sizing:border-box;width:100px;padding: 0 0 0 3px;margin: 0 0 10px;border:0 none;}
+#state {
+  width: 120px;
+}
+.eventSearchComponent input[type=button]{background-color: #000;border-radius: 5px; padding: 0; text-transform: none;box-sizing:border-box;font-size:16px;line-height:25px;height:25px; width:35px;margin: 0 0 0 5px;}
+.form-field {line-height:30px;padding: 0 0 0 10px;}
+.login .enter{display: block;}
+div.responsive input[type="text"], div.responsive input[type="number"], div.responsive input[type="password"], div.responsive textarea, div.responsive select {line-height: 30px;padding: 0 0 0 10px;border-radius: 0;-webkit-border-radius: 0;-moz-border-radius:0;box-shadow: none;}
+div.responsive input[type="text"], div.responsive input[type="number"], div.responsive input[type="password"], div.responsive textarea, div.responsive select{height:30px;border-color:#ccc;}
+/*-------------------------
+SOCIAL FEEDS
+---------------------------*/
+div#rssincl-box-908783 div.rssincl-content div.rssincl-entry{background:inherit;border-bottom: 1px solid #000;}
+/*------------------------
+SPLASH
+--------------------------*/
+.indicators h2 {text-transform: none;border-radius: 15px 15px 0 0;margin: 0 0 0 15px}
+.splash .indicators h2.lightGrey{margin: 0}
+.indicators a.right{line-height: 40px; color:#fff;margin: 0 15px 0 0;}
+.indicators .fa-caret-right{color:inherit;}
+.indicators form .text {background-color: #dceff4;border:1px solid #ccc;float:left;width: calc(100% - 81px);}
+.indicators form input.action-button.go{float:right;width:80px;border:0 none;border-radius: 5px;text-transform: none;font-size:18px;line-height:30px;}
+.indicators form .text {float:left;}
+.splashIntro > .left {width:43%;}
+.splashIntro > .right {width:52%;}
+.splashIntro .left, .splashIntro .right{width:49%;}
+.splashIntro .left {
+  padding: 0 20px 0 0;
+}
+.orange a .fa {color:#fff;}
+.splash-tabs {
+  padding: 35px 0;
+  }
+.tab-content {
+  display: none;
+  padding: 15px 0 0;
+}
+.tab-content.current {
+  display: block;
+  }
+.splash-tabs .tabs {
+  border-bottom: 2px solid #f15e22;
+}
+.splash-tabs .tabs li.current a {
+  background: #ffffff;
+  border-left: 2px solid #f15e22;
+  border-right: 2px solid #f15e22;
+  border-top: 2px solid #f15e22;
+  border-bottom: none;
+  z-index: 1;
+  top: 1px;
+}
+.splash-tabs .tabs li {
+  display: inline-block;
+  height: 55px;
+  list-style-type: none;
+  margin: 0 10px;
+  text-align: center;
+  width: 315px;
+  cursor: pointer;
+}
+.splash-tabs .tabs li:hover {
+  cursor: pointer;
+}
+.splash-tabs .tabs li a {
+  background: #999999;
+  border-bottom: medium none;
+  border-radius: 10px 10px 0 0;
+  color: #ffffff;
+  display: block;
+  font-size: 24px;
+  font-weight: bold;
+  padding: 18px;
+  position: relative;
+  top: -1px;
+  z-index: -1;
+}  
+.splash-tabs .tabs li.current a {
+  color: #f15e22;
+}
+.splash-tabs .tabs li a:hover {
+  text-decoration: none;
+}
+.top-participants .half-width {
+  display: block;
+  float: left;
+  padding: 0 4%;
+  width: 50%;
+}
+.top-participants {
+  display: block;
+  float: left;
+  margin-bottom: 30px;
+  width: 100%;
+}
+.orange.top-fundraisers .contentWrap.pad {
+  padding: 0 2%;
+}
+.top-fundraisers-image {
+  margin-top: 20px;
+  max-width: 230px; 
+}
+.top-fundraisers-image img {
+  border: 1px solid #ffffff;
+}
+.top-participants ol li {
+  color: #ffffff;
+  list-style: outside none none;
+  margin: 0 0 15px;
+}
+.top-participants h2 {
+  border-bottom: 1px solid #f8af91;
+  color: #ffffff;
+  font-size: 18px;
+  padding-bottom: 15px;
+}
+.top-fundraisers p {
+  margin-bottom: 40px;
+}
+.top-participants .vScrollList a {
+  display: block;
+  font-weight: normal;
+}
+.top-participants a.indicator-link, .top-participants .list-value-container {
+  color: #fff !important;
+  font-weight: normal !important;
+}
+.top-companies {
+  color: #ffffff;
+  padding: 10px;
+}
+.top-companies a {
+  display: block;
+  font-weight: normal;
+}
+.top-companies > br {
+  margin-bottom: 10px;
+}
+.search-form {
+  clear: both;
+}
+.search-form #qf {
+  border: 1px solid #b0b3b7;
+  box-sizing: border-box;
+  color: #999999;
+  display: inline-block;
+  height: 45px;
+  padding: 10px;
+  width: 320px;
+}
+.search-form #qf_go {
+  background: #ffffff none repeat scroll 0 0;
+  border: 1px solid #b0b3b7;
+  border-left: none;
+  display: inline-block;
+  height: 45px;
+  margin-left: -5px;
+  vertical-align: bottom;
+  width: 40px;
+  border-radius: 0;
+  color: #999999;
+}
+.search-form #qf_go i {
+  color: #999999;
+}
+@media (max-width: 1050px) {
+.splash-tabs .tabs li {
+  width: 300px;
+}	
+    .splashIntro .left{float:left;}
+    .splashIntro .right{float:right;}
+    .splashIntro .left, .splashIntro .right {width:100%;float:none;}
+}
+@media (max-width: 1010px) {
+.splash-tabs .tabs {
+  border-bottom: medium none;
+}
+.splash-tabs .tabs li {
+  margin: 0 0 10px;
+  width: 100%;
+}	
+.splash-tabs .tabs li a, .splash-tabs .tabs li.current a {
+  border-radius: 0;
+  top: unset;
+  z-index: auto;
+}
+.splash-tabs .tabs li.current a {
+  border: 2px solid #f15e22;
+}
+.tabs .mobile-tab-button {
+  border-top: 1px solid #f15e22;
+  cursor: pointer;
+  height: 80px;
+  line-height: 22px;
+  padding: 0 20px;
+}
+.tabs .mobile-tab-button.last {
+  border-bottom: 1px solid #f15e22;
+}
+.tab-title-1-line {
+  color: #f15e22;
+  display: inline-block;
+  font-size: 24px;
+  padding: 29px 0;
+}
+.tabs .open-close {
+  float: right;
+  position: relative;
+  top: 21px;
+}
+.tabs .open-close .fa-lg {
+  font-size: 1.1em;
+  line-height: 2.1em;
+}
+.tabs .tab-content {
+  border-top: 1px solid #f15e22;
+  padding: 30px 20px;
+}
+.fa-stack-2x, .fa-stack-1x {
+  color: #f15e22;
+}
+.top-fundraisers-image {
+  float: none;
+  width: 100%;
+}
+.top-fundraisers-container {
+  margin: 30px 0;
+  max-width: 100%;
+  width: 100%;
+}
+.top-participants, .top-participants .half-width, .top-participants .thirds {
+  float: none;
+  margin-bottom: 40px;
+  width: 100%;
+}
+}
+@media(max-width: 768px){
+    .splashIntro .left, .splashIntro .right{float:none;}
+    .splashIntro .indicators .left, .splashIntro .indicators .right{width:100%;max-width:450px;margin: 0 auto 30px;}
+}
+@media (max-width: 480px) {
+.search-form #qf {
+  width: auto;
+}	
+}
+/*---------------------------
+REG PAGE AND LOGIN PAGE
+----------------------------*/
+
+.activeEvents table tbody tr td p{margin: 0;}
+.activeEvents table tbody tr td p strong {font-size:28px;}
+
+
+
+/*--------------------------------------------
+TEAMRAISER PAGES
+----------------------------------------------*/
+
+
+
+.walkDetails.active .menu-close {
+  display: none;
+}
+.walkDetails.active .menu-open {
+  display: block;
+}
+.walkInfo{margin:20px 0 0 0;padding:0;overflow: hidden}
+.thirds {width:33.33333%;padding: 0 4%;display:block;float:left;}
+.thirds:last-child .see-all {
+  margin-top: 15px;
+}
+.walkInfo .thirds{padding: 0 1%;}
+a.walkDetails, a.walkDetails .fa, a.walkDetails span {color:#fff;text-decoration:none;}
+a.walkDetails {
+  display: block;
+  margin: 0 0 0 10px;
+  font-weight: normal;
+}
+a.walkDetails:hover {text-decoration: underline;}
+.walkInfo .fa {color:#fff;font-size: 50px; float:left;}
+.walkInfo .walkDetail {float:left;margin: 0 0 0 20px;max-width:220px;}
+.walkInfo .walkDetail h3, .walkInfo .walkDetail p, .walkInfo .walkDetail a{margin:0; color:#fff;line-height: 1.25;}
+.thermWrap h2{text-align: right}
+.sidebar {
+  width: 15%;
+}
+
+.sidebar .button, .cta .button {
+  font-size: 18px;
+  padding: 12px 10px;
+}
+.sidebar .lightGrey h3, .companyPage .darkGrey h3, div.company-list-table-title {
+  color: #58595b;
+  margin: 0;
+  text-align: left;
+}
+.sidebar .lightGrey, .companyPage .darkGrey {
+  background-color: transparent;
+}
+.sidebar .lightGrey {
+  margin: 0 0 15px;
+  max-width: 200px;
+  padding: 0 0 15px;
+  margin-bottom: 10px;
+  border-bottom: 1px solid #b0b3b7;
+  border-radius: 0;
+}
+.companyPage .darkGrey {
+  display: block;
+  max-width: 100%;
+  width: 100%;
+  padding: 0 0 10px;
+  border-bottom: 1px solid #b0b3b7;
+  border-radius: 0;
+  margin: 0 0 15px;
+}
+.companyPage .stats {
+  margin-top: 15px;
+}
+.sidebar .links {
+  margin-top: 40px;
+}
+.sidebar .lightGrey{max-width:100%;}
+.indicators .lightGrey {border-radius: 15px 15px 0 0;}
+.nav li.active {
+  background: #58595b;
+  padding: 10px;
+}
+.nav li.active a {
+  color: #ffffff;
+  text-decoration: none;
+}
+.sidebar .nav li {margin: 0;padding: 10px;}
+.sidebar .nav li.active a:hover{text-decoration:none;cursor: default}
+.indicators > div{width:45%;}
+.lists .lightGrey {margin: 0 0 25px;}
+.socialLinks .fa{color:#1B849A;}
+.mainContent {
+  width: 78%;
+}
+
+@media (max-width:1023px){
+    .walkInfo{margin:20px 0 0 0;}
+    .walkInfo .walkDetail{width:100%;margin:10px 0 0;clear: both}
+    .thirds{padding: 0 2%;}
+    .sidebar{display: none}
+    .sidebar.lists {display: block;}
+    .mainContent{width:100%;float:none;}
+    .cta.mobileShow{display: block;padding: 5px 0 0;}
+    .entry .thermWrap .left h2{margin:10px auto;text-align:center;}
+    .header .nav li.mobileShow ul {padding: 20px 0;}
+    .thermWrap .left, .thermWrap .right{float:none;width:100% !important;}
+    
+}
+@media (max-width:767px){
+    .walkInfo{margin:20px 0 0 0;}
+    .walkInfo .walkDetail{max-width:100%;width: calc(100% - 70px);}
+    .thirds, .walkInfo .thirds{padding: 0 5%;float:none;width:100%;margin: 0 0 20px;}
+    .thirds:last-child{margin:0;}
+    .walkInfo .fa{width:50px;}
+    .info h2, .info h2 a{float:none;}
+    .thermWrap h2{text-align:center;}
+    .thermWrap .left{padding:0;}
+    .indicators > div{width:100%;margin: 0 auto 50px;}
+}
+
+
+
+/*-------------------------
+THERM
+---------------------------*/
+.thermWrap .right {width:70%;}
+.thermWrap .left {padding-top:13px;}
+.thermWrap{background:#e9e9e9;margin: 2px 0 0;}
+
+.therm {
+  background: rgba(0, 0, 0, 0) url("https://secure2.convio.net/nkf/images/content/pagebuilder/stripe-grey.png") repeat scroll 0 0;
+  height: 70px;
+  margin: 0 auto;
+  position: relative;
+  width: 100%;
+}
+
+
+.therm2 {
+  background: #f15e22 none repeat scroll 0 0;
+  border-left: 5px solid #ffffff;
+  border-right: 5px solid #ffffff;
+  bottom: 0;
+  height: 70px;
+  left: 0;
+  min-width: 85px;
+  position: absolute;
+
+}
+.thermWrap .percent {
+  bottom: 25px;
+  color: #ffffff;
+  font-size: 22px;
+  font-weight: bold;
+  left: 20px;
+  position: absolute;
+}
+.thermWrap h2 {
+  font-size: 18px;
+  margin-bottom: 9px;
+  text-align: right;
+  margin-left: 50px;
+}
+.entry .thermWrap .left {
+  padding-top: 13px;
+}
+
+
+/*----------------------------
+PERSONAL & TEAM PAGES
+------------------------------*/
+.pgTitle h2{font-family: Arial Bold, Arial,sans-serif;font-size:24px;color:#333;font-weight:bold;}
+
+
+.thermWrap .stats h2, .firstName strong, .thermWrap .stats h2 .firstName {font-size:18px;font-family: Arial Bold, Arial,sans-serif;margin:0;line-height: 1.4;font-weight:bold;}
+.thermWrap .stats h2 .firstName{display: inline-block;text-overflow:ellipsis;max-width:150px;white-space:nowrap;overflow:hidden;vertical-align:bottom;}
+.thermWrap.personal .left, .thermWrap.team .left{width:33%;padding-top:10px;}
+.thermWrap.personal .right, .thermWrap.team .right {width:65%;}
+.personal .therm, .team .therm, .personal .therm2, .team .therm2 {height:70px; margin: 0;}
+.thermWrap.personal, .thermWrap.team{height:70px;overflow: hidden}
+.personal .cta .button, .team .cta .button {width: 32%;display: block;float:left;max-width: 100%;margin: 0 2% 25px 0;}
+.personal .cta .button.last, .team .cta .button.last{margin:0;}
+.personal .topSection .photo, .team .topSection .photo {width:300px;}
+.personal .topSection > .right, .team .topSection > .right {width: 65%; width: calc(100% - 350px);}
+
+#frStatus2 {margin: 35px 0;width:100%;}
+#frStatus2 .addBorder {width:100% !important; background-color:transparent;}
+#frStatus2 .controlArea {
+  background-color: rgba(0, 0, 0, 0);
+  border-bottom: 1px solid #b0b3b7;
+  border-radius: 0;
+  height: 40px;
+  padding: 0 0 15px;
+  text-align: left;
+  width: 100% !important;
+}
+#frStatus2 .controlArea strong {
+  color: #58595b;
+  font-family: Arial Bold, Arial,sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 40px;
+  margin: 0 0 10px;
+}
+#frStatus2 .scrollingBack {width:90%;margin: 0 auto;}
+#frStatus2 p.scrollingText{font-size:16px;font-family: Arial Bold, Arial,sans-serif;color:#000;font-family: Arial, sans-serif;font-weight:bold;}
+.personal .lists, .team .lists{margin: 0 0 50px;}
+.personal .lists .lightGrey, .team .lists .lightGrey {
+  border-bottom: 1px solid #b0b3b7;
+  margin: 0 0 25px;
+  padding: 0 0 15px;
+  background: transparent;
+}
+.personal .lists .lightGrey h3, .personal .lists .lightGrey h3 span, .team .lists .lightGrey h3, .team .lists .lightGrey h3 span {
+  color: #58595b;
+  font-family: Arial Bold, Arial,sans-serif;
+  font-size: 18px;
+  line-height: 20px;
+  margin: 0;
+}
+.honor-wall-link-container{margin: 0 0 20px;}
+table.tr_roster{margin:auto;width:70%;}
+table.tr_roster td{width:50%;clear:none;padding: 0 2.5%}
+table.tr_roster td, table.tr_roster td a {font-size:18px;}
+@media(max-width:1023px){
+    .thermWrap.personal, .thermWrap.team{height:auto;}
+    .thermWrap.personal .left, .thermWrap.team .left{margin: 0 0 20px;}
+    .thermWrap .stats h2, .firstName strong, .thermWrap .stats h2 .firstName{text-align: center;}
+    .personal .cta .button, .team .cta .button{width:33%;margin:0 .5% 25px 0;}
+    .photo .imageFrame {text-align: left;margin: 0; width:300px;float: left}
+    .photo #frStatus2 {margin: 0;width: calc(100% - 320px);float:right;}
+    .personal .topSection > .right, .team .topSection > .right{width: 100%;margin: 25px 0;}
+    .personal .topSection .photo, .team .topSection .photo{width: 100%;}
+    .photo #frStatus2 .scrollingAreaBox {max-height: 160px;}
+
+}
+@media(max-width:767px){
+    .personal .cta .button, .team .cta .button, .personal .cta .button.last, .team .cta .button.last{width:250px;margin:0 auto 25px !important;float:none;display: block}
+}
+@media(max-width:567px){
+    .photo .imageFrame {margin: 0 auto 25px;float:none;width: 100%; text-align: center;}
+    .photo #frStatus2{width:100%;float:none;margin: 0 auto 25px;}
+    table.tr_roster{width:100%;}
+    table.tr_roster td{width:100%;clear:both;margin: 0 auto 10px;}
+}
+
+/*-------------------------------
+DONATION FORM
+---------------------------------*/
+
+@media(max-width:1023px){
+    .donationIntro{line-height:1.2;padding:20px 0;}
+}
+@media(max-width:767px){
+    #employer_street_row input, #billing_addr_street1_row input, #billing_addr_street2_row input, #billing_addr_street3_row input, #billing_addr_country_row input.ui-autocomplete-input, #donor_addr_street1_row input, #donor_addr_street2_row input, #donor_addr_street3_row input, #donor_addr_country_row input.ui-autocomplete-input, #shipping_addr_street1_row input, #shipping_addr_street2_row input, #shipping_addr_street3_row input, #shipping_addr_country_row input.ui-autocomplete-input, #tribute_notify_recip_street1_row input, #tribute_notify_recip_street2_row input, #tribute_notify_recip_street3_row input, #tribute_notify_recip_country_row input.ui-autocomplete-input, #tribute_signature_row input, #tribute_message_closing_row input, div.employer-address-container input#employer_street, div.form-row div.form-content>select{max-width:100%;width:100%;}
+    .designated-giving-recurring-row{margin: 20px 0 0 20px;}
+}
+
+
+/*-------------------------------
+JANRAIN
+---------------------------------*/
+
+.janrainContent #janrainView a {font-size: 12px;}
+.janrainContent #janrainView div {height: 20px !important;} /* Important flags used to override inline styles from Janrain module */
+#janrainModal {width: 412px !important; height: 178px !important;} /* Important flags used to override inline styles from Janrain module */
+/* End 2016 Styles */
+
+/*-------------------------------
+SPONSORS
+---------------------------------*/
+.sponsors .left {
+  margin-bottom: 30px;
+  width: 50%;
+}
+.national-corporate.left.text-center {
+  padding-right: 2%;
+}
+.national-multi.left.text-center {
+  padding-left: 2%;
+}
+.sponsors h1 {
+  border-bottom: 1px solid #b0b3b7;
+  padding-bottom: 15px;
+}
+.national-teams {
+  clear: both;
+  margin-top: 30px;
+}
+.national-partners > a {
+  display: inline-block;
+  margin: 0 10px;
+}
+.sponsors .left img {
+  height: auto;
+  max-width: 215px;
+  width: auto;
+}
+.sponsors img {
+  margin: 10px 0;
+}
+@media (max-width: 1010px) {
+.sponsors .left {
+  padding: 0 !important;
+  width: 100%;
+}
+.national-partners > a, .national-multi > a {
+  display: block;
+  margin: 15px 0;
+}
+.sponsors img {
+  margin: 0;
+}
+}
+
+/*-------------------------------
+FOOTER
+---------------------------------*/
+.footer {
+  background: #d7d7d7 none repeat scroll 0 0;
+}
+.footer .eventLogo {
+  margin: 5px 0 0;
+  width: 45%;
+}
+.footer .eventLogo {
+  max-width: 100%;
+}
+.socialLinks {
+  margin: 30px 0;
+}
+.socialLinks h3 {
+  color: #58595b;
+  display: inline-block;
+  margin-right: 25px;
+}
+.socialLinks > a {
+  display: inline-block;
+  margin: 0 8px;
+}
+.socialLinks .fa {
+  color: #58595b;
+  font-weight: normal;
+}
+.footer .right {
+  text-align: right;
+  width: 49%;
+}
+.footer .logos {
+  margin-top: 30px;
+}
+@media (max-width: 1024px) {
+.footer .eventLogo, .footer .right {
+  margin: 0 auto;
+  width: 100%;
+  text-align: center;
+}
+.footer .logos a {
+  display: inline-block;
+  float: none;
+  margin: 20px 0;
+  width: 26%;
+}
+.socialLinks h3 {
+  display: block;
+  margin: 0 0 20px;
+  text-align: center;
+}
+.socialLinks > a {
+  margin: 10px;
+}
+.footer .logos {
+  margin: auto;
+  width: auto;
+}
+}
+@media (max-width: 768px) {
+.footer .logos a {
+  width: 47%;
+}	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:509013,hjsv:5};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+
+
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-25772097-1']);
+_gaq.push(['_setDomainName', 'none']);
+_gaq.push(['_setAllowLinker', true]);
+
+
+_gaq.push(['_trackPageview']);
+
+
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+addOnLoadHandler(function() {
+// track items and transactions 
+if (typeof trackItemsAndTransactions != "undefined" && typeof trackItemsAndTransactions != null){
+trackItemsAndTransactions();
+}
+});
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Forgot  Username or Password?
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+
+Login
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Register today! Find a Kidney Walk near you:
+
+
+View all nearby Walks 
+
+Search by zip:
+
+
+
+
+Or state:
+
+
+AK
+AL
+AR
+AZ
+CA
+CO
+CT
+DC
+DE
+FL
+GA
+HI
+IA
+ID
+IL
+IN
+KS
+KY
+LA
+MA
+MD
+ME
+MI
+MN
+MO
+MS
+MT
+NC
+ND
+NE
+NH
+NJ
+NM
+NV
+NY
+OH
+OK
+OR
+PA
+RI
+SC
+SD
+TN
+TX
+UT
+VA
+VT
+WA
+WI
+WV
+WY
+
+
+
+
+
+
+
+
+
+
+
+
+
+Why Walk?
+#kidneywalk
+Walk Talk Blog
+
+
+
+
+
+
+Walk to make a lasting impact. Walk for kidney patients, families, and people at risk. At the National Kidney Foundation, people are our mission. Our first job is to find ways to improve and extend as many lives as possible, and your participation means we can continue being a lifeline for all people affected by kidney disease.
+Join kidney donors, recipients, and their families at a Walk near you to celebrate the gift of life and each other.
+
+
+
+
+
+
+
+Powered by Juicer
+
+
+
+
+
+
+Why Walk? 
+
+We walk for kidney patients, families, and people at risk. Because at the National Kidney Foundation, people are our mission. Our first job is to find ways to improve and extend as many lives as possible, and your participation means we can continue being a lifeline for all people affected by kidney disease.
+C’mon, join other kidney donors, recipients, and their families at a Walk near you to celebrate the gift of life and each other.
+
+
+#kidneywalk 
+
+Powered by Juicer
+
+Walk Talk Blog 
+
+
+
+
+
+
+
+
+Our Top Fundraisers
+These Top Walkers and Teams from around the country make fundraising look easy - because it is! Taking the first step to ask a friend or a family member for a donation is all it takes. The rest is a breeze. But that breeze has a powerful gust: The funds you raise build a world without kidney disease and change the daily lives of millions of people for the better.
+
+
+
+
+
+
+Top Walkers
+
+
+
+ Annette Cipolla - $3,965.00
+ Teresa Hayden - $3,000.00
+ Garnet Lewis - $2,030.00
+ Heather Bahr - $1,700.00
+ Jane Lynn - $1,625.00
+
+
+
+See all walkers 
+
+
+
+Top Teams
+
+
+
+ McCann Worldgroup Detroit - $25,416.13
+ Brenda's Band - $5,465.00
+ Woody's Dewey Beach - $4,502.00
+ Dallas Nephrology Associates- Team DNA - $4,425.00
+ Team Galanti - $3,636.00
+
+
+
+See all teams 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+National Multi-Market Sponsors
+
+    
+  
+      
+
+National Teams
+
+
+
+
+
+ 
+                              
+     
+
+
+
+
+
+
+
+
+Be social with us
+
+
+
+
+
+
+
+
+
+
+© 2018 National Kidney Foundation
+30 East 33rd Street, New York, NY 10016 | 1-800-622-9010
+Privacy Policy | Refund Policy | Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//PageBuilder: reus_walk2017_redesign_js
+//Lightbox_me
+!function(e){e.fn.lightbox_me=function(o){return this.each(function(){function i(){c[0].style;s.destroyOnClose?c.add(d).remove():c.add(d).hide(),s.parentLightbox&&s.parentLightbox.fadeIn(200),s.preventScroll&&e("body").css("overflow",""),a.remove(),c.undelegate(s.closeSelector,"click"),c.unbind("close",i),c.unbind("repositon",l),e(window).unbind("resize",t),e(window).unbind("resize",l),e(window).unbind("scroll",l),e(window).unbind("keyup.lightbox_me"),s.onClose()}function n(e){(27==e.keyCode||27==e.DOM_VK_ESCAPE&&0==e.which)&&s.closeEsc&&i()}function t(){e(window).height()<e(document).height()?(d.css({height:e(document).height()+"px"}),a.css({height:e(document).height()+"px"})):d.css({height:"100%"})}function l(){c[0].style;if(c.css({left:"50%",marginLeft:c.outerWidth()/2*-1,zIndex:s.zIndex+3}),c.height()+80>=e(window).height()&&"absolute"!=c.css("position")){var o=e(document).scrollTop()+40;c.css({position:"absolute",top:o+"px",marginTop:0})}else c.height()+80<e(window).height()&&(s.centered?c.css({position:"fixed",top:"50%",marginTop:c.outerHeight()/2*-1}):c.css({position:"fixed"}).css(s.modalCSS),s.preventScroll&&e("body").css("overflow","hidden"))}var s=e.extend({},e.fn.lightbox_me.defaults,o),d=e(),c=e(this),a=e('<iframe id="foo" style="z-index: '+(s.zIndex+1)+';border: none; margin: 0; padding: 0; position: absolute; width: 100%; height: 100%; top: 0; left: 0; filter: mask();"/>');if(s.showOverlay){var r=e(".js_lb_overlay:visible");d=e(r.length>0?'<div class="lb_overlay_clear js_lb_overlay"/>':'<div class="'+s.classPrefix+'_overlay js_lb_overlay"/>')}e("body").append(c.hide()).append(d),s.showOverlay&&(t(),d.css({position:"absolute",width:"100%",top:0,left:0,right:0,bottom:0,zIndex:s.zIndex+2,display:"none"}),d.hasClass("lb_overlay_clear")||d.css(s.overlayCSS)),s.showOverlay?d.fadeIn(s.overlaySpeed,function(){l(),c[s.appearEffect](s.lightboxSpeed,function(){t(),l(),s.onLoad()})}):(l(),c[s.appearEffect](s.lightboxSpeed,function(){s.onLoad()})),s.parentLightbox&&s.parentLightbox.fadeOut(200),e(window).resize(t).resize(l).scroll(l),e(window).bind("keyup.lightbox_me",n),s.closeClick&&d.click(function(e){i(),e.preventDefault}),c.delegate(s.closeSelector,"click",function(e){i(),e.preventDefault()}),c.bind("close",i),c.bind("reposition",l)})},e.fn.lightbox_me.defaults={appearEffect:"fadeIn",appearEase:"",overlaySpeed:250,lightboxSpeed:300,closeSelector:".close",closeClick:!0,closeEsc:!0,destroyOnClose:!1,showOverlay:!0,parentLightbox:!1,preventScroll:!1,onLoad:function(){},onClose:function(){},classPrefix:"lb",zIndex:999,centered:!1,modalCSS:{top:"40px"},overlayCSS:{background:"black",opacity:.8}}}(jQuery);
+
+
+jQuery(document).ready(function(){
+  console.log('Current Application ID: 201');
+  
+  jQuery('.menuLink').click(function(){
+    jQuery('.menuLink .fa').toggleClass('hide');
+    jQuery('.navLinks').slideToggle();
+  });
+  jQuery('.navLogin .mobileShow').click(function(){
+    jQuery('.header .nav li.navLogin ul').slideToggle();
+  });
+  jQuery('.walkDetails').click(function(){
+    jQuery(this).toggleClass('active');
+    jQuery('.walkInfo').slideToggle();
+  });
+  
+  thermRoundup();
+  
+  
+  
+  
+  
+  jQuery('.splash-tabs ul.tabs li').click(function(){
+		var tab_id = jQuery(this).attr('data-tab');
+		jQuery('.splash-tabs ul.tabs li').removeClass('current');
+		jQuery('.splash-tabs .tab-content').removeClass('current');
+		jQuery(this).addClass('current');
+		jQuery("#"+tab_id).addClass('current');
+  });
+  //Mobile Tabs Open/Close
+	jQuery(".mobile-tab-button").click(function () {
+        
+		//slide up all the link lists
+		jQuery(".tab-content").slideUp();
+        jQuery('.open-close', this).html('<span class="fa-stack fa-lg"><i class="fa fa-circle-thin fa-stack-2x">');
+        jQuery('.open-close', this).parent().removeClass('active');
+        //slide down the link list below the h3 clicked - only if its closed
+        if (!jQuery(this).next().is(":visible")) {
+			jQuery(this).next().slideDown();
+            jQuery('.open-close').html('');
+            jQuery('.open-close').parent().removeClass('active');
+            jQuery('.open-close', this).html('');
+            jQuery('.open-close', this).parent().addClass('active');
+        }
+    });
+	
+	jQuery('.top-companies').contents().filter(function() {
+return this.nodeType == 3
+		}).each(function(){
+this.textContent = this.textContent.replace('(','');
+this.textContent = this.textContent.replace(')','');
+	 });
+	 
+	 jQuery('#login-drop').click(function(){
+		jQuery('#login-dropdown').slideToggle();
+		jQuery('.username1').focus();
+	});
+	
+	var topCompanies =[];
+		$('.top-companies a').each(function(){ 
+var topCompaniesNum = $(this).text()[1];
+  topCompanies.push(topCompaniesNum); 
+		 });
+		 $('.top-companies a').each(function(i){ 
+$(this.previousSibling).remove();
+	 });
+	 
+	 var $toTop = $('.header');
+		$(window).scroll(function(){
+if ($(window).scrollTop() > 1){
+	 $('.header').addClass('sticky-bg');
+} else {
+	 $('.header').removeClass('sticky-bg');
+}
+	});	
+	
+	if(jQuery('.top-fundraisers-image img').attr('src') == '') { 
+      jQuery('.top-fundraisers-image img').attr('src','../images/content/pagebuilder/top_fundraiser1.jpg');
+    }
+  
+});
+// Customize twitter feed
+var hideTwitterAttempts = 0;
+function twitterCstm() {
+    setTimeout(function() {
+          if ( jQuery('#twitter-widget-0').length ) {
+          jQuery('#twitter-widget-0').each( function(){          
+            var ibody = $(this).contents().find( 'body' );
+            ibody.width( $(this).width() + 5 ); //remove scrollbar by adding width
+            if ( ibody.find( '.timeline .stream .h-feed li.tweet' ).length ) {
+            ibody.find( '.timeline' ).css( 'border', 0 );
+            ibody.find( '.timeline' ).css( 'background', 'transparent' );
+            ibody.find( '.timeline' ).css( 'color', '#fff' );
+            ibody.find( '.timeline a' ).css( 'color', '#fff' );
+            ibody.find( '.timeline a' ).css( 'font-weight', 'bold' );
+            ibody.find( '.timeline b' ).css( 'font-weight', 'bold' );
+            ibody.find( '.timeline p' ).css( 'font-size', '16px' );
+            ibody.find( '.twFeed iframe' ).css( 'height', '175px' );
+            ibody.find( '.customisable-border' ).css( 'border-color', '#333' );
+            ibody.find( '.timeline .stream' ).css( 'overflow-x', 'visible' );
+            ibody.find( '.timeline .stream' ).css( 'overflow-y', 'visible' );            
+            ibody.find( '.tweet' ).css( 'padding','15px 0');
+            ibody.find( '.tweet-actions' ).css( 'right','10px');
+            ibody.find( '.header .avatar').hide();
+            ibody.find( '.timeline .footer').css( 'margin-top','10px');
+            ibody.find( '.timeline-footer').hide();
+            ibody.find( '.timeline .header').hide();
+            ibody.find( '.timeline-header').hide();
+            }
+            else {
+                $(this).hide();
+            }
+        });
+        }
+        hideTwitterAttempts++;
+        if ( hideTwitterAttempts < 3 ) {
+            twitterCstm();
+        }
+    }, 1500);
+}
+function changeQuickSearch() {
+    var qf_value = "";
+    if (TeamRaiserQuickSearch.searchFirstName.value != 'First Name') {
+        qf_value += TeamRaiserQuickSearch.searchFirstName.value + ' ';
+    }
+    if (TeamRaiserQuickSearch.searchLastName.value != 'Last Name') {
+        qf_value += TeamRaiserQuickSearch.searchLastName.value + ' ';
+    }
+    if (TeamRaiserQuickSearch.searchTeamName.value != 'Find Team') {
+        qf_value += TeamRaiserQuickSearch.searchTeamName.value;
+    }
+    TeamRaiserQuickSearch.qf.value = qf_value;
+}
+
+//add carrot to links
+//function carrot () {
+  //var linkArrow = jQuery('');
+  //jQuery(linkArrow).appendTo('.orange a')
+//}
+
+function getNearbyCities(inputType,theLocation){
+  console.log("entered getNearbyCities ",inputType,theLocation);
+  if (inputType == "Zip"){
+    $.ajax({
+      type: 'GET',
+      url: 'https://secure2.convio.net/nkf/site/CRTeamraiserAPI', 
+      data: {
+        method: 'getTeamraisersByDistance',
+        api_key: 'walk2010',
+        v: '1.0',
+        starting_postal: theLocation,
+        distance_units: 'mi',
+        search_distance: '100',
+        event_type: 'Walk',
+        list_sort_column: 'event_date',
+        list_ascending: 'true',
+        response_format: 'xml'
+      },
+      dataType: 'xml'
+    }).done(function(data){
+      processReturnedData(data,inputType,theLocation);
+    });
+  }
+}
+function getNearbyState(inputType,stateAbb){
+  $.ajax({
+      type: 'GET',
+      url: 'https://secure2.convio.net/nkf/site/CRTeamraiserAPI', 
+      data: {
+        method: 'getTeamraisersByInfo',
+        api_key: 'walk2010',
+        v: '1.0',
+        state: stateAbb,
+        event_type: 'Walk',
+        list_sort_column: 'event_date',
+        list_ascending: 'true',
+        response_format: 'xml'
+      },
+      dataType: 'xml'
+    }).done(function(data){
+      processReturnedData(data,inputType,stateAbb);
+  });    
+}
+          
+function processReturnedData(data,inputType,theLocation){
+  // Process array data, convert dates, build strings of upcoming and past events
+  var frIdArray = new Array();
+  var regUrlArray = new Array();
+  var nameArray = new Array();
+  var urlArray = new Array();
+  var cityArray = new Array();
+  var stateArray = new Array();
+  var dateArray = new Array();
+  var regTeamArray = new Array();
+  var joinTeamArray = new Array();
+  var regIndArray = new Array();
+  var locationArray = new Array();
+  var offsetFromNow = new Array();
+  var tomorrowDate = Date.now() + 86400000; // (86400000 ms in a day) added to avoid same day event confusion.
+  var excludeDate = -15552000000;  // 86400000 ms/day * 180 days
+  console.log("tomorrowDate = ",tomorrowDate);
+  console.log("excludeDate = ",excludeDate);
+  var nearHeaderString = "Upcoming Events ";
+  if(inputType == "Zip"){
+    var changeHeading = nearHeaderString+'Near '+theLocation;
+    $('h2.upcoming').text(changeHeading);
+    $('#pastEventListContainer h2').remove();
+  }
+  var futureEventString = "";
+  var eventStringLine = "";
+  var eventCounter = 0;  
+  var j = 0;
+  var k = 0;
+  
+  if ($('teamraiser',data).length > 0 ){
+    $('teamraiser',data).each(function(i){           
+      if($(this).find("accepting_registrations").text() == "true" || $(this).find("accepting_donations").text() == "true"){
+        frIdArray[j] = $(this).find("id").text();
+        urlArray[j] = $(this).find("greeting_url").text();
+        nameArray[j] = $(this).find("name").text();
+        cityArray[j] = $(this).find("city").text();
+        stateArray[j] = $(this).find("state").text();
+        dateArray[j] = $(this).find("event_date").text();
+        regTeamArray[j] = $(this).find("reg_new_team_url").text();
+        joinTeamArray[j] = $(this).find("reg_join_team_url").text();
+        regIndArray[j] = $(this).find("reg_indiv_url").text();
+        locationArray[j] = $(this).find("location_name").text();
+        console.log("dateArray["+j+"] = ",dateArray[j]);
+        j = j+1;
+      }
+    });
+  }
+  console.log("j = ",j);
+  // if j>0 we have a result, process.  If j=0 we have no result, so skip computations and proceed with closing up the divs.
+  if (j >= 0){ 
+    var i = 0; 
+    for(k = 0;k <  j; k++){
+      // Split out dates manually because IE7/8 doesn't handle UTC well
+      var dateStr=dateArray[k]; 
+      var a=dateStr.split("T");
+      var d=a[0].split("-");
+      var t=a[1].split(":");
+      t[2] = t[2].slice(0,2); // Chopping off trailing numbers
+      var fullDate = new Date(d[0],(d[1]-1),d[2],t[0],t[1],t[2]);      
+      console.log("k.dateArray[%d] = ",k,dateArray[k]);
+      offsetFromNow[k] = fullDate.valueOf() - tomorrowDate.valueOf();
+      console.log("k.offsetFromNow[%d] = ",k,offsetFromNow[k]);
+      dateArray[k] = (fullDate.getMonth()+1)+"."+fullDate.getDate()+"."+(fullDate.getFullYear()-2000);
+      console.log("k.dateArray[%d] = ",k,dateArray[k]);
+              
+            
+        eventStringLine = "";
+		eventStringLine += ""+cityArray[k]+", "+stateArray[k]+" | ";
+        eventStringLine += ""+dateArray[k]+" | ";
+        eventStringLine += ""+locationArray[k]+"";
+        eventStringLine += "Learn More";
+        eventStringLine += "Register"+nameArray[k]+""+cityArray[k]+", "+stateArray[k]+" | "+dateArray[k]+" | "+locationArray[k]+"Register as a Team CaptainRegister as a Team MemberRegister as an Individual";
+
+        futureEventString += eventStringLine;   
+        i += 1;            
+      
+      cleanResults();
+      $('#futureEventListContainer').html(futureEventString);
+	  $('Get started today! There are '+i+' Kidney Walks near you:').insertBefore('#futureEventListContainer');
+	  $('.search-h2').hide();
+	  $('.eventSearchComponent').removeClass('text-center');
+	  $('.eventSearchComponent').addClass('text-right text-left-mobile');
+	  $('.view-all-walks').addClass('active').show();
+	  //Remove this once the 2016 events are closed
+	  //$('#futureEvents .eventReg.cta.button').css('visibility','hidden');
+    }
+    console.log(i);
+    //NO ACTIVE EVENTS
+    if (i == 0) {
+      cleanResults();
+      var error = 'No events are active in your area, please use the search to find currently active events';
+      jQuery(error).prependTo('#pastEventListContainer');
+	  $('.search-h2').hide();
+	  $('.eventSearchComponent').removeClass('text-center');
+	  $('.eventSearchComponent').addClass('text-right text-left-mobile');
+	  $('.view-all-walks').show();
+    }
+  }       
+}
+
+function getLocation(){
+  console.log("Entered getLocation");
+  var options = {
+    enableHighAccuracy: true,
+    timeout: 10000,
+    maximumAge: 'infinity'
+  };
+  if (navigator.geolocation){
+    navigator.geolocation.getCurrentPosition(showPosition,showError,options);
+  }
+  else{console.log("Geolocation is not supported by this browser.");}
+}
+function showPosition(position) {
+  console.log("Entered showPosition lat: ",position.coords.latitude);
+  console.log("Entered showPosition long: ",position.coords.longitude);
+  
+    jQuery('.infoDetail .eventSearchComponent').addClass('border');
+  
+  var input = position.coords.latitude + "," + position.coords.longitude;
+  var latlngStr = input.split(',', 2);
+  var latlng = new google.maps.LatLng(latlngStr[0], latlngStr[1]);
+  geocoder = new google.maps.Geocoder();
+  geocoder.geocode( { 'location': latlng }, function (result, status) {
+    var zipCode = result[0]['address_components'][7]['short_name'];
+    getNearbyCities("Zip",zipCode);
+  });
+}   
+function showError(error){
+  switch(error.code){
+    case error.PERMISSION_DENIED:
+      console.log("User denied the request for Geolocation.");
+      break;
+    case error.POSITION_UNAVAILABLE:
+      alert("Location information is currently unavailable.");
+      break;
+    case error.TIMEOUT:
+      alert("The request to get location timed out.  Please refresh the page to use this feature.");
+      break;
+    case error.UNKNOWN_ERROR:
+      alert("An unknown error occurred.");
+      break;
+  } 
+}
+function cleanResults() {
+  $('#futureEventListContainer #futureEvents div').remove();
+  $('#pastEventListContainer h2').remove();
+  $('#pastEventListContainer p').remove();
+  $('#inputZip').val('');
+  $('#state').val('');
+  $('.num-walks').remove();
+}
+
+function getCompanies(inputType2){
+  $.ajax({
+      type: 'GET',
+      url: 'https://secure2.convio.net/nkf/site/CRTeamraiserAPI', 
+      data: {
+        method: 'getCompaniesByInfo',
+        api_key: 'walk2010',
+        v: '1.0',
+        event_type: 'Walk',
+		include_cross_event: 'true',
+        list_ascending: 'true',
+		list_filter_column: 'total',
+        response_format: 'xml'
+      },
+      dataType: 'xml'
+    }).done(function(data){
+      processReturnedData2(data,inputType2);
+  });    
+}
+
+jQuery(document).ready(function() {
+  var viewportWidth = jQuery(window).width();
+  
+    
+	getLocation();
+	
+  
+  twitterCstm();
+  //carrot();
+  jQuery('#appAreaNoWodthClearFix table tr:nth-child(2) td').insertBefore('.footer-block');
+
+  // When user hits 'enter', do a click instead
+  $(".eventSearchComponent form").submit(function() {
+    $('#zipSubmit').click();
+    return false; 
+  });
+
+  // When user clicks submit button, show results from zip search rather than geo location 
+  $('#zipSubmit').click(function() {
+    var theInputZip = $('#inputZip').val();
+    var inputType = "Zip";
+    getNearbyCities(inputType,theInputZip);
+  });
+
+  $('#state').change(function() {
+    var stateAbb = $('#state').val();
+    //console.log(state);
+    var inputType = "State";
+    getNearbyState(inputType,stateAbb);
+	
+  });
+  
+   jQuery('.eventReg').on('click', function() {
+	  jQuery('.register-lightbox-container').html('');
+	  jQuery(this).parent().find('.register-lightbox-links').addClass('active-links').clone().appendTo('.register-lightbox-container');
+	  $('.register-lightbox-container').lightbox_me({
+		centered: true
+      });
+   });
+   
+   $('.top-participants .vScrollList li:contains("-")').each(function() {
+		$(this).html($(this).html().replace("-", ""));
+	});
+ 
+});
+
+function thermRoundup () {
+  var thermPercent = jQuery('.therm .percent').html();
+  var parse = parseInt(thermPercent);
+  jQuery('.therm .percent').text(parse+'%');
+}
+
+function fireLightbox (ele) {
+	console.log('working?');
+	jQuery('.register-lightbox-container').html('');
+	  jQuery(ele).parent().find('.register-lightbox-links').addClass('active-links').clone().appendTo('.register-lightbox-container').removeClass('hidden');
+	  $('.register-lightbox-container').lightbox_me({
+		centered: true
+      });
+	fireRegisterGA();  
+}
+
+
+function fireLearnGA(ele) {
+  _gaq.push(['_trackEvent', 'Landing', 'Learn', 'Geolocation-Learn']);
+}
+function fireRegisterGA() {
+  _gaq.push(['_trackEvent', 'Landing', 'Register', 'Geolocation-Register']);
+}
+function fireLinkGA(ele) {
+  _gaq.push(['_trackEvent', 'Landing', 'Register', 'Geolocation-Link']);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
