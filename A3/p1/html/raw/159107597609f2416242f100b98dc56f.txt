@@ -1,0 +1,52 @@
+https://amp.twimg.com/v/8bd5ae39-20c8-43f2-aa49-aaedfce0441e
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link href="//abs.twimg.com/favicons/favicon.ico" rel="shortcut icon" type="image/x-icon">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="twitter:card" content="amplify" />
+    <meta name="twitter:site" content="taylorswift13" />
+    <meta name="twitter:site:id" content="17919972" />
+    <meta name="twitter:title" content="The 1989 World Tour Live - Trailer" />
+    <meta name="twitter:description" content="Directed by Jonas Akerlund&#10;Release Date: December 20, 2015" />
+    <meta name="twitter:image:src" content="https://amp.twimg.com/prod/default/2015/12/13/06/58375d04-4592-45c2-ba2c-32408e233efa_poster-1000.jpg" />
+    <meta name="twitter:image:width" content="640" />
+    <meta name="twitter:image:height" content="360" />
+    <meta name="twitter:amplify:vmap" content="https://amp.twimg.com/prod/multibr_v_1/vmap/2015/12/13/17/e76dfe43-04a6-408c-ad28-70726db53e53/498e5931-26ac-4e22-b2c5-07e71f3db08e.vmap" />
+    <meta name="twitter:amplify:teaser_segments_stream" content="http://amp.twimg.com/prod/multibr_v_1/video/2015/12/13/06/e76dfe43-04a6-408c-ad28-70726db53e53-segments.mp4" />
+    <meta name="twitter:amplify:content_id" content="e76dfe43-04a6-408c-ad28-70726db53e53" />
+    <meta name="twitter:player:width" content="640" />
+    <meta name="twitter:player:height" content="360" />
+    <meta name="twitter:player:stream:content_type" content="video/mp4; codecs=&quot;avc1.42E01E, mp4a.40.2&quot;" />
+    <meta name="twitter:amplify:embeddable" content="true" />
+    <meta name="twitter:amplify:dynamic_ads" content="true" />
+    <meta name="twitter:amplify:content_duration_seconds" content="60.06" />
+    <meta name="twitter:amplify:share_id" content="060ccaa4-524f-4171-baae-e61ea032295b" />
+
+      <title>The 1989 World Tour Live - Trailer</title>
+
+    <link rel="stylesheet" href="https://amp.twimg.com/amplify-web-player/prod/styles/cardStyle.css">
+  </head>
+  <body>
+    <div class="wrapper">
+      <h1 id="site"><a target="_blank" href="https://twitter.com/taylorswift13">@taylorswift13</a></h1>
+      <div id="videoContainer" class="aspectwrapper">
+        <div class="content">
+          <iframe allowfullscreen marginheight="0" marginwidth="0" frameborder="0" id="iframe"
+             src="https://amp.twimg.com/amplify-web-player/prod/source.html?vmap_url=https%3A%2F%2Famp.twimg.com%2Fprod%2Fmultibr_v_1%2Fvmap%2F2015%2F12%2F13%2F17%2Fe76dfe43-04a6-408c-ad28-70726db53e53%2F498e5931-26ac-4e22-b2c5-07e71f3db08e.vmap&duration=60.06&image_src=https%3A%2F%2Famp.twimg.com%2Fprod%2Fdefault%2F2015%2F12%2F13%2F06%2F58375d04-4592-45c2-ba2c-32408e233efa_poster-1000.jpg&content_id=e76dfe43-04a6-408c-ad28-70726db53e53&page=amplify_card">
+          </iframe>
+        </div>
+      </div>
+      <h2 id="title">The 1989 World Tour Live - Trailer</h2>
+      <p id="description">Directed by Jonas Akerlund&#10;Release Date: December 20, 2015</p>
+    </div>
+    <div id="footer">
+      <img id="logo" src="https://amp.twimg.com/amplify-web-player/prod/styles/img/twitter_logo.png"/>
+      <a id="app-download" class="download-btn"><img id="whiteLogo" src="https://amp.twimg.com/amplify-web-player/prod/styles/img/twitter_logo_white.png"/></a>
+    </div>
+    <script src="https://amp.twimg.com/amplify-web-player/prod/js/build-card.min.js"></script>
+  </body>
+</html>
+
